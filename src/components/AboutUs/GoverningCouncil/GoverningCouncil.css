@@ -1,0 +1,96 @@
+.gc-container {
+    max-width: 1200px;
+    margin: 120px auto 40px;
+    padding: 20px;
+    font-family: "Kanit", sans-serif;
+}
+
+/* Keyframes for fade-in and slide-up animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.gc-heading {
+    text-align: center;
+    font-size: 2rem;
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+.gc-subtitle {
+    text-align: center;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.gc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.gc-card {
+    background: #ffffffcc;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* Apply the fade-in and slide-up animation */
+    animation: fadeInUp 0.5s ease forwards;
+    opacity: 0; /* Start with opacity 0 for the animation */
+}
+
+/* Hover effect */
+.gc-card:hover {
+    transform: translateY(-5px) scale(1.03);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.gc-card h3 {
+    font-size: 1.1rem;
+    color: #003366;
+    margin-bottom: 8px;
+}
+
+.gc-card p {
+    font-size: 0.95rem;
+    color: #444;
+    margin-bottom: 4px;
+}
+
+.gc-card span {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    color: #222;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    .gc-heading {
+        font-size: 1.6rem;
+    }
+
+    .gc-subtitle {
+        font-size: 0.95rem;
+    }
+
+    .gc-card h3 {
+        font-size: 1rem;
+    }
+
+    .gc-card p, .gc-card span {
+        font-size: 0.9rem;
+    }
+}

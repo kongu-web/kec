@@ -1,0 +1,131 @@
+/* Root Container */
+.academic-council-container {
+    max-width: 1200px;
+    margin: 130px auto 50px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    animation: fadeIn 1.2s ease;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  /* Title Styling */
+  .academic-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #002855;
+    position: relative;
+    animation: slideInDown 1s ease;
+  }
+  
+  /* Section Container */
+  .academic-section {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-left: 5px solid #005eb8;
+    background: #f7f9fc;
+    border-radius: 10px;
+    animation: fadeInUp 0.8s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .academic-section:hover {
+    background: #eef3fa;
+    transform: translateY(-3px);
+  }
+  
+  /* Section Title */
+  .academic-section-title {
+    font-size: 1.6rem;
+    color: #005eb8;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+  
+  /* Member List */
+  .academic-members {
+    list-style: none;
+    padding-left: 20px;
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.8;
+  }
+  
+  .academic-members li {
+    position: relative;
+    padding-left: 1rem;
+    transition: color 0.3s;
+  }
+  
+  .academic-members li::before {
+    content: "▹";
+    position: absolute;
+    left: 0;
+    color: #0077cc;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .academic-members li:hover {
+    color: #005eb8;
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes slideInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-50px);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .academic-title {
+      font-size: 2rem;
+      margin-bottom: 30px;
+    }
+  
+    .academic-section-title {
+      font-size: 1.3rem;
+    }
+  
+    .academic-members {
+      font-size: 0.95rem;
+    }
+  
+    .academic-section {
+      padding: 15px;
+    }
+  }
+  

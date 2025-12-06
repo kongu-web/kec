@@ -1,0 +1,114 @@
+.endowments-container {
+    padding: 8rem 1rem 1rem;
+    background: linear-gradient(to right, #f9f9f9, #e6f0ff);
+    min-height: 100vh;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .endowments-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    animation: popIn 0.8s ease;
+  }
+  
+  .sub-heading {
+    font-size: 2rem;
+    margin: 2rem 0 1rem;
+    color: #1d3557;
+    text-align: left;
+    position: relative;
+    animation: slideInLeft 0.6s ease;
+  }
+  
+  .sub-heading::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #1d3557;
+    margin-top: 5px;
+    border-radius: 2px;
+  }
+  
+  .endowments-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 3rem;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(5px);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    animation: fadeUp 0.9s ease;
+    transition: transform 0.3s ease;
+  }
+  
+  
+  .endowments-table th,
+  .endowments-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    transition: background 0.3s ease;
+  }
+  
+  .endowments-table th {
+    background-color: #1d3557;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  
+  .endowments-table tr:nth-child(even) {
+    background-color: #f0f8ff;
+  }
+  
+  .endowments-table tr:hover td {
+    background-color: #e0f0ff;
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes popIn {
+    0% { transform: scale(0.95); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  
+  @keyframes fadeUp {
+    0% { opacity: 0; transform: translateY(40px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes slideInLeft {
+    0% { transform: translateX(-50px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+  }
+  
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .endowments-title {
+      font-size: 2.2rem;
+    }
+  
+    .sub-heading {
+      font-size: 1.4rem;
+    }
+  
+    .endowments-table th,
+    .endowments-table td {
+      font-size: 0.85rem;
+      padding: 0.6rem;
+    }
+  
+    .sub-heading::after {
+      width: 40px;
+    }
+  }
+  

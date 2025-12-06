@@ -1,0 +1,80 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.mca-container {
+    padding: 130px 20px 0px;
+    background-color: #f7f9fc;
+    min-height: 100vh;
+    animation: fadeIn 1s ease-in-out;
+
+  }
+  
+  .mca-title {
+    text-align: center;
+    font-size: 28px;
+    color: #2a2a6a;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .mca-table-wrapper {
+    overflow-x: auto;
+  }
+  
+  .mca-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .mca-table th,
+  .mca-table td {
+    padding: 12px 14px;
+    border: 1px solid #e0e0e0;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .mca-table th {
+    background-color: #e9ecf5;
+    color: #2c2c6a;
+    font-weight: 600;
+  }
+    .mca-table a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s, text-decoration 0.3s;
+  }
+  
+  .mca-table a:hover {
+    color: #0c47b7;
+    text-decoration: underline;
+  }
+  
+  
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    .mca-title {
+      font-size: 22px;
+    }
+  
+    .mca-table th,
+    .mca-table td {
+      font-size: 12px;
+      padding: 10px;
+    }
+  }
+  

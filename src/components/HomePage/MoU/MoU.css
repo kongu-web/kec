@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Kanit:ital,wght@0,400;1,100&family=SUSE:wght@100..800&display=swap');
+
+/* Container for MoU component */
+.mou-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    margin:30px 0px;
+  }
+
+  .mou-container h1{
+    text-align: center;
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Marquee section */
+  .marquee {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  /* Marquee content - moving logos */
+  .marquee-content {
+    display: flex;
+    animation: marquee 220s linear infinite;
+  }
+  
+  /* Logo box to ensure uniform size */
+  .logo {
+    width: 200px; 
+    height: 140px; /* Fixed height for logo box */
+    margin: 0 20px; /* Spacing between logos */
+    object-fit: contain; /* Ensures logo scales proportionally within the box */
+    background-color: #ffffff; /* Optional: White background for logo boxes */
+    border: 1px solid #ddd; /* Optional: Border around logo boxes */
+    border-radius: 8px; /* Optional: Rounded corners */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; /* Ensures some space around logos */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Shadow for better aesthetics */
+  }
+  
+  /* Infinite marquee animation */
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  

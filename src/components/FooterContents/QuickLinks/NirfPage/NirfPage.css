@@ -1,0 +1,157 @@
+.nirf-container {
+    padding: 8rem 1rem 2rem;
+    max-width: 960px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+  }
+  
+  .nirf-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    color: #003366;
+  }
+  
+  .nirf-tabs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  .nirf-tabs button {
+    padding: 0.6rem 1.8rem;
+    border: none;
+    background: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  .nirf-tabs .active {
+    background-color: #0077cc;
+    color: white;
+    box-shadow: 0 2px 8px rgba(0, 119, 204, 0.4);
+  }
+  
+  .nirf-links {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0 1rem;
+  }
+  
+  .nirf-link-item a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: 500;
+    background-color: #f9f9f9;
+    padding: 0.75rem 1rem;
+    border-radius: 6px;
+    display: block;
+    transition: background 0.3s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  
+  .nirf-link-item a:hover {
+    background-color: #e6f2ff;
+    text-decoration: underline;
+  }
+  
+  .nirf-facilities {
+    padding: 0 1rem;
+  }
+  
+  .nirf-facilities p {
+    margin-bottom: 1rem;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+  
+  .nirf-facilities ul {
+    padding-left: 1.5rem;
+  }
+  
+  .nirf-facilities li {
+    margin-bottom: 0.6rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 600px) {
+    .nirf-title {
+      font-size: 1.6rem;
+    }
+  
+    .nirf-tabs button {
+      width: 100%;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+  
+    .nirf-link-item a {
+      font-size: 0.95rem;
+      padding: 0.6rem 0.8rem;
+    }
+  
+    .nirf-container {
+      padding-top: 8rem 1rem;
+    }
+  }
+  
+
+  .nirf-facilities-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .nirf-facility-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
+  
+  .nirf-facility-img:hover {
+    transform: scale(1.03);
+  }
+  
+  .nirf-facilities-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .nirf-image-card {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+  }
+  
+  .nirf-image-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .nirf-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  

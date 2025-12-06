@@ -1,0 +1,117 @@
+.flash-news-popup {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #004080;
+  color: #fff;
+  padding: 0.4rem 3rem 0.8rem 1.5rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  animation: slideIn 0.4s ease-out;
+  max-width: 90%;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.flash-news-popup + .flash-news-popup {
+  bottom: 80px; /* second popup appears above the first */
+}
+
+
+.flash-news-close-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #ff4757;
+  border: none;
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0.8rem;
+  border-radius: 0 5px 0 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  z-index: 10000;
+  transition: background 0.3s;
+}
+
+.flash-news-close-btn:hover {
+  background: #c10111;
+}
+
+.flash-news-content {
+  display: block;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.flash-news-content a {
+  color: #ffdd57;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.flash-news-content a:hover {
+  text-decoration: underline;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* 📱 Mobile responsiveness */
+@media screen and (max-width: 480px) {
+  .flash-news-popup {
+    bottom: 20px;
+    left: 0;
+    transform: none;
+    width: 100%;
+    border-radius: 0 2rem 2rem 0;
+    padding: 0.5rem 1rem 0.5rem 0.8rem;
+    animation: mobslideIn 0.4s ease-out;
+  }
+
+  .flash-news-popup + .flash-news-popup {
+    bottom: 80px;
+  }
+
+  @keyframes mobslideIn {
+    from {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .flash-news-content {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .flash-news-content a {
+    font-size: 1rem;
+  }
+
+  .flash-news-close-btn {
+    font-size: 1.5rem;
+    top: 0;
+    right: 0;
+    padding: 0.5rem 1rem;
+  }
+}

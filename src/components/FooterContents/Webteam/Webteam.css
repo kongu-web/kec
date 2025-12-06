@@ -1,0 +1,136 @@
+/* Container and general styling */
+.webteam-container {
+    padding: 8rem 2rem;
+    /* background: linear-gradient(to right, #e0f7fa, #ffffff); */
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    animation: fadeIn 1s ease-in;
+  }
+  
+  .webteam-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #0d47a1;
+    margin-bottom: 0.5rem;
+    animation: slideDown 0.7s ease-in-out;
+  }
+  
+  .webteam-subtitle {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 2rem;
+    animation: fadeIn 1.2s ease-in;
+  }
+  
+  .webteam-section {
+    margin-top: 3rem;
+    animation: fadeInUp 1.5s ease-in;
+  }
+  
+  .webteam-subheading {
+    font-size: 1.8rem;
+    color: #2457c4;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+  }
+  
+  /* Grid Layout */
+  .webteam-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  /* Individual Card Styling */
+  .webteam-card {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    width: 270px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .webteam-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    /* background: radial-gradient(circle, rgba(0, 150, 136, 0.1), transparent); */
+    transform: rotate(45deg);
+    transition: opacity 0.4s ease;
+    opacity: 0;
+  }
+  
+  .webteam-card:hover {
+    transform: translateY(-5px);
+    /* box-shadow: 0 10px 25px rgba(0, 150, 136, 0.3); */
+  }
+  
+  .webteam-card:hover::before {
+    opacity: 1;
+  }
+  
+  .webteam-card h4 {
+    margin: 0;
+    color: #1e88e5;
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+  
+  .webteam-card p {
+    margin: 0.4rem 0;
+    color: #555;
+    font-size: 0.95rem;
+  }
+  
+  .webteam-card span {
+    display: inline-block;
+    margin-top: 0.6rem;
+    font-weight: bold;
+    color: #00796b;
+    font-size: 0.9rem;
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  @keyframes slideDown {
+    from {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 600px) {
+    .webteam-card {
+      width: 100%;
+    }
+  }
+  

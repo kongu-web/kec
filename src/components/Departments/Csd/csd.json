@@ -1,0 +1,130 @@
+{
+  "image": "../../../assets/images/Department Banner/csd.jpg",
+  "about": "Computer Science and Design (CSD) is a branch of engineering that blends computing technologies with design principles to create user-centric digital solutions. It integrates software development, human-computer interaction, UI/UX design, multimedia processing, and virtual reality to enhance user experience and digital innovation. CSD engineers work on cutting-edge technologies such as interactive web applications, game development, augmented reality, and creative AI, driving advancements in industries like media, entertainment, e-learning, and product design. With the growing demand for aesthetically appealing and functional digital interfaces, the field continues to evolve, bridging the gap between technology and design. As digital experiences become more immersive and intuitive, Computer Science and Design plays a vital role in shaping the future of interactive technology.",
+  "dept-name": " Computer Science and Design ",
+  "hod_name": "Dr.R.Thangarajan (w.e.f 17.05.2024)",
+  "intake": 180,
+  "staffs": 50,
+  "lab_count": 10,
+  "classrooms": 8,
+  "workshops": 5,
+  "research_centers": 2,
+  "patents_filed": 12,
+  "industry_mous": 15,
+  "vision": "To be a centre of excellence for bringing up skilled computer professionals with enriched interactive design skills, high caliber and quality for catering to the dynamic needs of the industry and society.",
+  "mission": [
+      "Develop innovative, proficient and ethically strong computer design engineers with design skills to meet universal challenges.",
+      "Nurture consultancy as well as applied research activities to solve concrete problems.",
+      " Aspire for constant upgradation of engineering skills to cater the needs of the corporate and society."
+  ],
+  "objective": "To equip students with the necessary technical and managerial skills.",
+  "peo": [
+      "Utilize the primary knowledge of basic sciences, engineering and design skills to succeed in their professional career.",
+      "Analyze interface design, develop and verify effective interactive computer-based solutions to real-life problems.",
+      "Exhibit soft skills, ethical code of conduct and ability for life-long learning."
+  ],
+  "po": [
+      "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.",
+      "Problem analysis: Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+      "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.",
+      "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+      "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.",
+      "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+      "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+      "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+      "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+      "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+      "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+      "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+      ],
+  "pso": [
+      " Foundations of Computer Science: Ability to use the mathematical and computing knowledge to propose viable ideas and solutions to concrete problems.",
+      "Software design and Development: Ability to develop user interactive systems using engineering skills, design knowledge, programming languages and tools."
+  ],
+    "highlights": {
+      "Laboratory Facilities": [
+        "Core Computing",
+        "UI/UX Design",
+        "VR/AR",
+        "Unreal Game Engine"
+      ],
+      "Faculty Training": [
+        "UI/UX Design Training",
+        "Design Tools",
+        "Unreal Game Engine",
+        "AR/VR"
+      ],
+      "Research & Publications": [
+        "Research work published in SCI and Scopus journals",
+        "Published patents"
+      ],
+      "Student Achievements": [
+        "Academic Excellence Award: Won by students worth Rs. 60,000",
+        "Coding Contest: Students won prizes worth Rs. 7,500",
+        "Papers Presented: 21 papers presented, won 3 prizes worth Rs. 3,000",
+        "Projects Presented: 24 projects presented, won 3 prizes worth Rs. 3,000",
+        "Sports Events: 13 events participated, won 5 prizes"
+      ],
+      "KEC Spark Funded Projects (2022-23)": [
+        "Artificial Intelligence-based Train Collision Detection and Avoidance System - Rs. 25,000",
+        "Food Delivery Robot - Rs. 40,000",
+        "IoT-based Alert System for Accident Prone Areas in National Highways - Rs. 40,000",
+        "TNSTC Bus Notify - Rs. 30,000"
+      ]
+    },
+  
+    "milestones": [
+      {
+        "year": 2023,
+        "events": [
+          "Centre of excellence in Virtual Reality and Augmented Reality (VR/AR) is established.",
+          "Increased intake to 180.",
+          "MoU Signed with Scopik Edutec Pvt. Ltd., Chennai."
+        ]
+      },
+      {
+        "year": 2022,
+        "event": "Increased intake to 120."
+      },
+      {
+        "year": 2017,
+        "event": " Commencement of B.E. Computer Science and Design Programme with an intake of 60."
+      }
+      ]  ,
+
+    "labs": [
+      {
+        "topic": "UI / UX Lab",
+        "detail": "This lab equipped with core i7 processors, 16GB RAM and 64-bit operating system. In the UX various forms of user tests, market research and focus group discussions can be carried out. In UI, the students can use various design tools to create User Interface Design.",
+        "image": "/assets/images/Laboratories/Csd/UIUXLab.jpg"
+      },
+      {
+        "topic": "VR/AR",
+        "detail": "This lab equipped with 12th Gen core i9 processor, 32 GB RAM, RTX3070 8GB Graphics card, 64 bit operating system along with Unity and Unreal Engine software tools to develop VR/AR and Gaming applications. This lab is used to enrich the skills of the student in VR/AR and Gaming applications.",
+        "image": "/assets/images/Laboratories/Csd/VRARLab.jpg"
+      },
+      {
+        "topic": "Cloud Computing Lab",
+        "detail": "This lab has high configuration with core i7 processors, 16GB RAM with 64-bit operating system. This lab is utilized by the students to learn and develop cloud environment and it will provide the students with access to virtual machines running various operating systems and applications.",
+        "image": "/assets/images/Laboratories/Csd/CloudComputingLab.jpg"
+      },
+      {
+        "topic": "Application Development Lab",
+        "detail": "This lab has high configuration with core i7 processors, 8GB RAM with 64-bit operating system. This lab is utilized by the students to develop web applications for a specific purpose hosted on web server and to develop mobile applications that run on mobile platform using artificial intelligence.",
+        "image": "/assets/images/Laboratories/Csd/AppDevlopmentLab.jpg"
+      },
+      {
+        "topic": "Machine Learning Lab",
+        "detail": "This lab has high configuration with core i7 processors, 8GB RAM with 64-bit operating system. This lab is utilized by the students to learn high-value predictions that can guide better decisions and smart actions in real-time without human intervention.",
+        "image": "/assets/images/Laboratories/Csd/MachineLearningLab.jpg"
+      }
+     ],
+   
+    "rnd": {
+      "academic": "https://rnd.kongu.edu/academic/csd.php",
+      "activities":"https://rnd.kongu.edu/activities/csd/index.php"
+    },    
+  "dept_images": [
+      "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+  ]
+}

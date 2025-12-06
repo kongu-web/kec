@@ -1,0 +1,58 @@
+.grievance-container {
+    padding: 8rem 1rem 1rem;
+    min-height: 100vh;
+    background: #f9f9fc;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+    font-weight: 700;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .card {
+    background: #ffffff;
+    padding: 1.8rem;
+    border-radius: 1.5rem;
+    width: 280px;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .profile-icon {
+    font-size: 2.8rem;
+    color: #2980b9;
+    margin-bottom: 1rem;
+  }
+  
+  .role {
+    color: #3498db;
+    font-weight: 500;
+    margin: 0.5rem 0;
+  }
+  
+  .mobile {
+    color: #2c3e50;
+    font-size: 0.95rem;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  

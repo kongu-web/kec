@@ -1,0 +1,170 @@
+.aboutkec-container {
+  max-width: 1200px;
+  margin: 120px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  animation: fadeInSlide 1s ease-in-out;
+}
+
+.aboutkec-banner {
+  width: 100%;
+  height: auto;
+  max-height: 450px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-bottom: 25px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  animation: slideFadeIn 1.2s ease-in-out;
+  transition: transform 0.3s ease;
+}
+
+@keyframes slideFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.aboutkec-content {
+  background-color: #f9f9f9;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  animation: fadeInUp 1s ease forwards;
+}
+
+.aboutkec-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #1e3a8a;
+  text-align: center;
+  animation: fadeInText 0.6s ease forwards;
+}
+
+.aboutkec-content h3 {
+  margin-top: 30px;
+  font-size: 1.5rem;
+  color: #2563eb;
+  animation: fadeInText 0.6s ease forwards;
+}
+
+.aboutkec-content p {
+  margin-bottom: 15px;
+  line-height: 1.8;
+  color: #333;
+  text-align: justify;
+  animation: fadeInText 0.5s ease forwards;
+}
+
+.aboutkec-content strong {
+  color: #004080;
+}
+
+.sister-institutions-table-wrapper {
+  overflow-x: auto;
+  margin-top: 1.5rem;
+  animation: fadeInUp 1s ease-in-out;
+}
+
+.sister-institutions-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  animation: fadeInUp 1.1s ease-in-out;
+}
+
+.sister-institutions-table th,
+.sister-institutions-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.sister-institutions-table th {
+  background-color: #004080;
+  color: white;
+}
+
+.visit-button {
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.visit-button:hover {
+  background-color: #004c99;
+  transform: scale(1.05);
+}
+
+/* Animations */
+@keyframes fadeInSlide {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInText {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .aboutkec-content {
+    padding: 20px;
+  }
+
+  .aboutkec-content h2 {
+    font-size: 2rem;
+  }
+
+  .aboutkec-content h3 {
+    font-size: 1.2rem;
+  }
+
+  .aboutkec-content p {
+    font-size: 0.95rem;
+  }
+}

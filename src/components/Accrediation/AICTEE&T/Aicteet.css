@@ -1,0 +1,120 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.aicte-container {
+    padding: 9rem 1rem;
+    background: linear-gradient(to bottom, #f8f9ff, #ffffff);
+    animation: fadeIn 1s ease-in-out;
+
+  }
+  
+  /* Section Title */
+  .aicte-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #1f2a60;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  /* Each Approval Block */
+  .aicte-approval {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .aicte-approval:hover {
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+  }
+  
+  /* Serial Number */
+  .aicte-serial {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #3a3a74;
+    margin-bottom: 1rem;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  /* Table */
+  .aicte-table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+    background-color: #fff;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0.5rem;
+  }
+  
+  .aicte-table th,
+  .aicte-table td {
+    padding: 0.75rem;
+    font-size: 0.95rem;
+    text-align: left;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .aicte-table th {
+    background-color: #edf0f9;
+    color: #1e1e4f;
+    font-weight: 600;
+  }
+  
+  .aicte-table td {
+    color: #333;
+  }
+  
+  /* Download link */
+  .aicte-download-link {
+    color: #2b5eff;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .aicte-download-link:hover {
+    color: #143dff;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .aicte-title {
+      font-size: 1.5rem;
+    }
+  
+    .aicte-approval {
+      padding: 1rem;
+    }
+  
+    .aicte-table th,
+    .aicte-table td {
+      font-size: 0.85rem;
+      padding: 0.5rem;
+    }
+  
+    .aicte-serial {
+      font-size: 0.9rem;
+    }
+  
+    .aicte-table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  }
+  

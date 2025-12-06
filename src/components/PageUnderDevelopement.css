@@ -1,0 +1,92 @@
+/* Base styles for the container */
+.developing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  /* Styling for the content */
+  .content {
+    text-align: center;
+    animation: slideUp 1.5s ease-in-out;
+  }
+  
+  /* Title style with animation */
+  .title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ff6347;
+    margin-bottom: 20px;
+    animation: popUp 1.5s ease-in-out;
+  }
+  
+  /* Description text */
+  .description {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Animation for dots (bouncing circles) */
+  .animation {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ff6347;
+    animation: bounce 1.2s infinite ease-in-out;
+  }
+  
+  .circle:nth-child(1) {
+    animation-delay: 0s;
+  }
+  
+  .circle:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+  
+  .circle:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+  
+  /* Bounce animation for circles */
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  /* Slide-up animation for content */
+  @keyframes slideUp {
+    from {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  /* Fade-in animation for container */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  

@@ -1,0 +1,160 @@
+.vision-container {
+    padding: 2rem;
+    margin: 120px auto 1px;
+    color: #333;
+    text-align: justify;
+  }
+  
+  /* Glassmorphism for sections */
+  .vision-section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .vision-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px rgba(31, 38, 135, 0.25);
+  }
+  
+  .vision-section h2 {
+    margin-bottom: 1rem;
+    font-family: "Kanit", sans-serif;
+    font-size: 1.8rem;
+    color: #003366;
+  }
+  
+  .vision-section p,
+  .vision-section ul {
+    font-size: 1rem;
+    font-family: "Kanit", sans-serif;
+    line-height: 1.6;
+  }
+  
+  .vision-section ul {
+    padding-left: 1.5rem;
+  }
+  
+  .vision-section li {
+    margin-bottom: 0.5rem;
+    font-family: "Kanit", sans-serif;
+  }
+  .vision-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 3rem;
+  }
+  
+  .vision-text-group {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    flex: 1;
+  }
+  
+  /* Image styling remains the same */
+  .aboutkec-image {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .aboutkec-image:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Responsive layout */
+  @media (max-width: 768px) {
+    .vision-row {
+      flex-direction: column;
+    }
+  
+    .vision-text-group {
+      width: 100%;
+    }
+  
+    .aboutkec-image {
+      max-width: 100%;
+    }
+  }
+  
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateX(-30px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  
+  @keyframes zoomIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  
+  .animate-fade {
+    animation: fadeIn 1s ease-out;
+  }
+  
+  .animate-slide {
+    animation: slideIn 1s ease-out;
+  }
+  
+  .animate-zoom {
+    animation: zoomIn 1s ease-out;
+  }
+  
+  /* Image Styling */
+  .aboutkec-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .aboutkec-image:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .vision-container {
+      padding: 1rem;
+    }
+  
+    .vision-section h2 {
+      font-size: 1.5rem;
+    }
+  
+    .vision-section p,
+    .vision-section ul {
+      font-size: 0.95rem;
+    }
+  
+    .aboutkec-image {
+      width: 100%;
+      border-radius: 12px;
+    }
+  }
+  

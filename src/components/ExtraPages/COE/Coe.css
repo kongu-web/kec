@@ -1,0 +1,193 @@
+
+.coe-container {
+    padding: 8rem 4rem 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+  }
+  
+  .coe-header {
+    margin-bottom: 3rem;
+  }
+  
+  .coe-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .coe-description {
+    padding: 0.5rem 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .coe-text {
+    flex: 1;
+    min-width: 60%;
+    text-align: justify;
+  }
+  
+  .coe-text p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  
+  .coe-image-container {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .coe-top-image {
+    max-width: 100%;
+    width: 50%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .coe-card-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .coe-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .coe-card-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #006699;
+    color: white;
+    padding: 0.7rem 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+  }
+  /* CoE Details Container */
+.coe-details {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+  }
+  
+  /* Detail Image */
+  .coe-detail-image {
+    display: block;
+    margin: 0 auto 1.5rem;
+    max-width: 30%;
+    width: 600px;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+  }
+    
+  /* Section Inside Each Detail (Content / Features / Objectives / Outcomes) */
+  .coe-section {
+    margin-top: 1.5rem;
+  }
+  
+  .coe-section h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #004080;
+    margin-bottom: 0.75rem;
+    border-left: 4px solid #0073e6;
+    padding-left: 0.75rem;
+  }
+  
+  .coe-section ul {
+    list-style: disc;
+    padding-left: 2rem;
+    color: #333;
+  }
+  
+  .coe-section li {
+    margin-bottom: 0.6rem;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+  
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .coe-container {
+      padding: 9rem 1.5rem 1rem;
+    }
+  
+    .coe-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+  
+    .coe-description {
+      flex-direction: column;
+      padding: 0.5rem 1rem;
+    }
+  
+    .coe-text {
+      min-width: 100%;
+      text-align: justify;
+    }
+  
+    .coe-top-image {
+      width: 80%;
+    }
+  
+    .coe-card-title {
+      font-size: 1rem;
+      padding: 0.6rem 0.8rem;
+    }
+  
+    .coe-detail-image {
+      max-width: 90%;
+      width: 100%;
+    }
+  
+    .coe-section h3 {
+      font-size: 1.1rem;
+    }
+  
+    .coe-section li {
+      font-size: 0.95rem;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .coe-container {
+      padding: 8rem 1rem 0.5rem;
+    }
+  
+    .coe-title {
+      font-size: 1.6rem;
+    }
+  
+    .coe-card-title {
+      font-size: 0.95rem;
+    }
+  
+    .coe-section h3 {
+      font-size: 1rem;
+    }
+  
+    .coe-section li {
+      font-size: 0.9rem;
+    }
+  
+    .coe-detail-image {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+  }
+  

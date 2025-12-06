@@ -1,0 +1,218 @@
+:root {
+  --color: #ffffff;
+  --color2: #cfd8d1;
+  --color3: #aab5ad;
+  --color4: #a3afa6;
+  --color5: #e7e8e9;
+}
+
+@keyframes animateShadow {
+  0%, 100% {
+    text-shadow: 0px 0px 0px var(--color), -1px 1px var(--color), -2px 2px var(--color),
+      -3px 3px var(--color), -4px 4px var(--color), -5px 5px var(--color),
+      -6px 6px var(--color), -7px 7px var(--color), -8px 8px var(--color),
+      -9px 9px var(--color);
+  }
+  20% {
+    text-shadow: -1px 1px var(--color2), -2px 2px var(--color2), -3px 3px var(--color2),
+      -4px 4px var(--color2), -5px 5px var(--color2), -6px 6px var(--color2),
+      -7px 7px var(--color2), -8px 8px var(--color2), -9px 9px var(--color2);
+  }
+  40% {
+    text-shadow: -1px 1px var(--color3), -2px 2px var(--color3), -3px 3px var(--color3),
+      -4px 4px var(--color3), -5px 5px var(--color3), -6px 6px var(--color3),
+      -7px 7px var(--color3), -8px 8px var(--color3), -9px 9px var(--color3);
+  }
+  60% {
+    text-shadow: -1px 1px var(--color4), -2px 2px var(--color4), -3px 3px var(--color4),
+      -4px 4px var(--color4), -5px 5px var(--color4), -6px 6px var(--color4),
+      -7px 7px var(--color4), -8px 8px var(--color4), -9px 9px var(--color4);
+  }
+  80% {
+    text-shadow: -1px 1px var(--color5), -2px 2px var(--color5), -3px 3px var(--color5),
+      -4px 4px var(--color5), -5px 5px var(--color5), -6px 6px var(--color5),
+      -7px 7px var(--color5), -8px 8px var(--color5), -9px 9px var(--color5);
+  }
+}
+
+/* Section Wrapper */
+.ecosystem {
+  padding: 40px;
+  overflow-x: hidden; /* prevent body from extending on mobile */
+}
+
+/* Main Heading */
+.ecosystem h2 {
+  font-size: 36px;
+  margin-bottom: 15px;
+  color: #007bff;
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Container */
+.ecosystem-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+/* Text Block */
+.ecosystem-content {
+  flex: 1;
+  min-width: 300px;
+}
+
+.ecosystem-content h2 {
+  animation: animateShadow 1.5s infinite;
+}
+
+.ecosystem-content p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #555;
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+/* Button */
+.know-more-button {
+  padding: 12px;
+  width: 30%;
+  margin-right: 1vw;
+  margin-bottom: 1vh;
+  background: #007bff;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: "Kanit", sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+.know-more-button:hover {
+  background: #fbfbfb;
+  color: #007bff;
+  transform: translateY(-2px);
+  filter: drop-shadow(0 0 15px #513f7d);
+  font-size: 20px;
+}
+
+.eco-square-slider {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  scroll-snap-type: x mandatory;
+  padding: 1rem 0;
+  max-width: 100%;        /* ensure it stays within container */
+  box-sizing: border-box; /* avoid overflow due to padding */
+}
+
+.eco-slide-image {
+  flex: 0 0 auto;
+  width: 350px;
+  height: 280px;
+  scroll-snap-align: start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  position: relative;
+  background: #ffffff;
+}
+
+.eco-slide-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  z-index: 1;
+  padding: 0;
+}
+
+
+
+.eco-square-slider::-webkit-scrollbar {
+  display: none;
+}
+
+
+/* Image Block */
+.kongubanner {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 300px;
+}
+
+.kongubanner img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .ecosystem-content h2 {
+    font-size: 30px;
+  }
+
+  .ecosystem-content p {
+    font-size: 16px;
+  }
+
+  .know-more-button {
+    font-size: 16px;
+    height: 50px;
+    width: 200px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .ecosystem-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .ecosystem-content {
+    margin-bottom: 20px;
+  }
+
+  .kongubanner {
+    justify-content: center;
+  }
+
+  .kongubanner img {
+    max-width: 80%;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .ecosystem-content h2 {
+    font-size: 24px;
+  }
+
+  .ecosystem-content p {
+    font-size: 14px;
+  }
+
+  .know-more-button {
+    font-size: 14px;
+    width: 160px;
+    height: 45px;
+  }
+
+  .kongubanner img {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,174 @@
+/* Container Styling */
+.office-container {
+    max-width: 1200px;
+    margin: 130px auto 40px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);
+    font-family: "Kanit", sans-serif;
+    color: #111;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* Fade-in Up Animation */
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Intro Section */
+.office-intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+}
+
+/* Text Section */
+.office-text {
+    flex: 1;
+    min-width: 300px;
+    opacity: 0;
+    transform: translateX(-20px);
+    animation: fadeInLeft 0.6s ease-out 0.3s forwards;
+}
+
+/* Fade-in Left Animation */
+@keyframes fadeInLeft {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Image Section */
+.office-image {
+    flex: 1;
+    min-width: 280px;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    opacity: 0;
+    transform: translateX(20px);
+    animation: fadeInRight 0.6s ease-out 0.3s forwards;
+}
+
+.office-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    transition: transform 0.5s ease;
+}
+
+.office-image img:hover {
+    transform: scale(1.05);
+}
+
+/* Fade-in Right Animation */
+@keyframes fadeInRight {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Heading */
+.office-heading {
+    text-align: center;
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+    color: #003366;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 2px rgba(0, 38, 77, 0.15);
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeInDown 0.6s ease-out 0.5s forwards;
+}
+
+/* Fade-in Down Animation */
+@keyframes fadeInDown {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Description */
+.office-description {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    text-align: justify;
+    margin-bottom: 1rem;
+    color: #333;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.6s ease-out 0.6s forwards;
+}
+
+/* Grid Layout */
+.office-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+/* Card Styling */
+.office-card {
+    background: rgba(255, 255, 255, 0.25);
+    padding: 15px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8px);
+    color: #111;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    opacity: 0;
+    transform: scale(0.9);
+    animation: fadeInScale 0.6s ease-out 0.7s forwards;
+}
+
+.office-card strong {
+    color: #3e79b5;
+}
+
+.office-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Fade-in Scale Animation */
+@keyframes fadeInScale {
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .office-heading {
+        font-size: 1.6rem;
+    }
+
+    .office-description {
+        font-size: 1rem;
+    }
+
+    .office-intro {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .office-text,
+    .office-image {
+        width: 100%;
+    }
+}

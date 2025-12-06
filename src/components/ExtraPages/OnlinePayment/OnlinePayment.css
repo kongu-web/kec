@@ -1,0 +1,156 @@
+/* Fade-in animation */
+@keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .online-payment-container {
+    padding: 8rem 2rem 2rem;
+    background: linear-gradient(135deg, #f5f7fa, #dfe9f3);
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    animation: fadeInUp 1s ease-out;
+    text-align: justify;
+  }
+  
+  .online-payment-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2.5rem;
+    color: #2c3e50;
+    letter-spacing: 1px;
+    animation: fadeInUp 1.2s ease-out;
+  }
+  
+  .online-payment-content {
+    background: #ffffff;
+    padding: 2.5rem;
+    border-radius: 16px;
+    max-width: 950px;
+    margin: 0 auto;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+    color: #2d3436;
+    line-height: 1.75;
+    animation: fadeInUp 1.4s ease-out;
+  }
+  
+  .online-payment-content h3 {
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+    color: #34495e;
+    font-weight: 600;
+    position: relative;
+  }
+  
+  .online-payment-content h3::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #0984e3;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+  }
+  
+  .online-payment-content ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+  }
+  
+  /* PAYMENT BUTTONS */
+  .payment-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+    animation: fadeInUp 1.6s ease-out;
+  }
+  
+  .payment-btn {
+    background: linear-gradient(135deg, #2c3e50, #34495e);
+    color: #ffffff;
+    padding: 1.2rem 2.5rem;
+    font-size: 1.25rem;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .payment-btn:hover {
+    background: linear-gradient(135deg, #1a252f, #2c3e50);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  .payment-btn .btn-icon {
+    margin-right: 8px;
+    font-size: 1.3rem;
+    vertical-align: middle;
+  }
+  
+  @media (max-width: 768px) {
+    .online-payment-container {
+      padding: 8rem 1rem 2rem;
+    }
+  
+    .online-payment-title {
+      font-size: 2.2rem;
+    }
+  
+    .online-payment-content {
+      padding: 1.5rem;
+    }
+  
+    .online-payment-content h3 {
+      font-size: 1.4rem;
+    }
+  
+    .payment-btn {
+      width: 100%;
+      text-align: center;
+      font-size: 1.1rem;
+    }
+  
+    .payment-buttons {
+      gap: 1.5rem;
+    }
+  }
+
+  .payment-btn:hover::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: ripple 1s ease-out;
+    pointer-events: none;
+  }
+  
+  @keyframes ripple {
+    from {
+      transform: scale(0);
+      opacity: 1;
+    }
+    to {
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+  

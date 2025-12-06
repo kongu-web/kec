@@ -1,0 +1,87 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.dispensary-container {
+    padding: 8rem 2rem 2rem;
+    background: linear-gradient(135deg, #e0f7fa, #e0f2f1);
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    color: #2c3e50;
+    animation: fadeIn 1s ease-in-out;
+
+  }
+  
+  .dispensary-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+    color: #00796b;
+  }
+  
+  .dispensary-section {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    margin-bottom: 2rem;
+  }
+  
+  .dispensary-section h3 {
+    font-size: 1.6rem;
+    color: #00695c;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #b2dfdb;
+    padding-bottom: 0.5rem;
+  }
+  
+  .dispensary-section ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .dispensary-section li {
+    font-size: 1.1rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .dispensary-title {
+      font-size: 2.2rem;
+    }
+  
+    .dispensary-section h3 {
+      font-size: 1.4rem;
+    }
+  
+    .dispensary-section li {
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .dispensary-title {
+      font-size: 2rem;
+    }
+  
+    .dispensary-section {
+      padding: 1.2rem;
+    }
+  
+    .dispensary-section h3 {
+      font-size: 1.3rem;
+    }
+  
+    .dispensary-section li {
+      font-size: 0.95rem;
+    }
+  }
+  

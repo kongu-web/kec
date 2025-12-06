@@ -1,0 +1,38 @@
+@import url("https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css");
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@500;600;900&display=swap");
+
+.ranking-container {
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  padding: 20px 10px;
+  margin: 30px 25px;
+  display: flex;
+  flex-direction: column;
+  /* background: #e7eee9; */
+  background-image: url('../../../assets//images/slider-background.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ranking-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #007BFF;
+}
+
+.ranking-container p {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+  color: #3a3c3d;
+  font-weight: 500;
+  text-justify: auto;
+}
+
+.ranking-list li:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,81 @@
+.media-container {
+    padding: 8rem 1rem 2rem;
+    background-color: #f9f9fc;
+    min-height: 100vh;
+    animation: fadeIn 0.5s ease-in-out;
+    text-align: center;
+  }
+  
+  .media-container h2 {
+    font-size: 2rem;
+    color: #1d4ed8;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  
+  .icon {
+    color: #3b82f6;
+    font-size: 1.6rem;
+  }
+  
+  .table-wrapper {
+    overflow-x: auto;
+  }
+  
+  .media-table {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .media-table th,
+  .media-table td {
+    padding: 1rem;
+    border-bottom: 1px solid #e5e7eb;
+    text-align: left;
+  }
+  
+  .media-table th {
+    background-color: #1d4ed8;
+    /* overflow: hidden; */
+    color: white;
+    text-align: center;
+  }
+
+  .media-table th:first-child {
+    border-top-left-radius: 12px;
+  }
+  
+  .media-table th:last-child {
+    border-top-right-radius: 12px;
+  }
+  
+  
+  .media-table td {
+    color: #1f2937;
+    font-size: 1rem;
+  }
+  
+  @media (max-width: 768px) {
+    .media-container h2 {
+      font-size: 1.5rem;
+    }
+  
+    .media-table th,
+    .media-table td {
+      font-size: 0.95rem;
+      padding: 0.8rem;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  

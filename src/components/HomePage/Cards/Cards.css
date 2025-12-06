@@ -1,0 +1,72 @@
+.kec-cards-container {
+  display: grid;
+  gap: 20px;
+  padding: 20px;
+  justify-items: center;
+}
+
+@media (min-width: 1200px) {
+  .kec-cards-container {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .kec-cards-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .kec-cards-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.kec-card {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.kec-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.kec-card-logo {
+  font-size: 2.5rem;
+}
+
+.kec-card-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.kec-extra-text {
+  display: none;
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.9rem;
+  color: #333;
+  transition: opacity 0.3s ease;
+  padding: 0 10px;
+}
+
+.kec-card:hover .kec-extra-text {
+  display: block;
+  opacity: 1;
+}
