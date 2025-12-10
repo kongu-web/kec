@@ -2,18 +2,20 @@
     padding: 80px 20px 50px;
     max-width: 1200px;
     margin: 40px auto 1px;
-    font-family: 'Kanit', sans-serif;
+    font-family: "Graphik", sans-serif;
     animation: fadeIn 1s ease-in-out;
   }
   
   .ranks-container h3{
     color: #005eb8;
+    font-size: 1.4rem;
     margin-top: 20px;
     text-align: center;
   }
   .ranks-title {
-    font-size: 2rem;
+    font-size: 1.7rem;
     text-align: center;
+    margin-top: 20px;
     margin-bottom: 10px;
     color: #002855;
     animation: slideInDown 1s ease;
@@ -21,7 +23,7 @@
   
   .ranks-subtitle {
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: 30px;
     color: #555;
   }
@@ -51,7 +53,7 @@
   .ranks-table th {
     background-color: #005eb8;
     color: #ffffff;
-    font-weight: bold;
+    font-weight: semi-bold;
   }
   
   .ranks-table tr:hover {
@@ -95,17 +97,18 @@
   /* Responsive */
   @media (max-width: 768px) {
     .ranks-title {
-      font-size: 2rem;
+      margin-top: 20px;
+      font-size: 1.7rem;
     }
   
     .ranks-subtitle {
-      font-size: 1rem;
+      font-size: 0.9rem;
     }
   
     .ranks-table th,
     .ranks-table td {
       padding: 12px;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
     }
   }
   
