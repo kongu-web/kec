@@ -7,12 +7,12 @@
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     animation: fadeIn 1.2s ease;
-    font-family: 'Kanit', sans-serif;
+    font-family: "Graphik", sans-serif;
   }
   
   /* Title Styling */
   .academic-title {
-    font-size: 2rem;
+    font-size: 1.7rem;
     text-align: center;
     margin-bottom: 40px;
     color: #002855;
@@ -38,7 +38,7 @@
   
   /* Section Title */
   .academic-section-title {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color: #005eb8;
     margin-bottom: 15px;
     font-weight: 600;
@@ -112,7 +112,7 @@
   /* Responsive Design */
   @media (max-width: 768px) {
     .academic-title {
-      font-size: 2rem;
+      font-size: 1.7rem;
       margin-bottom: 30px;
     }
   

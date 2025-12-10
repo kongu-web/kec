@@ -2,7 +2,7 @@
     max-width: 1200px;
     margin: 120px auto 40px;
     padding: 20px;
-    font-family: "Kanit", sans-serif;
+    font-family: "Graphik", sans-serif;
 }
 
 /* Keyframes for fade-in and slide-up animation */
@@ -19,7 +19,7 @@
 
 .gc-heading {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.7rem;
     color: #003366;
     margin-bottom: 10px;
 }
@@ -63,7 +63,7 @@
 
 .gc-card p {
     font-size: 0.95rem;
-    color: #444;
+    color: #1d1d1d;
     margin-bottom: 4px;
 }
 
@@ -79,7 +79,7 @@
 
 @media screen and (max-width: 768px) {
     .gc-heading {
-        font-size: 1.6rem;
+        font-size: 1.5rem;
     }
 
     .gc-subtitle {
