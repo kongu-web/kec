@@ -38,10 +38,11 @@
   animation: fadeInUp 1s ease forwards;
 }
 
-.aboutkec-content h2 {
+/* .aboutkec-content h2 {
   font-size: 1.7rem;
   margin-bottom: 20px;
-  color: #1e3a8a;
+  font-weight: 650;
+  color: #009EDB;
   text-align: center;
   animation: fadeInText 0.6s ease forwards;
 }
@@ -49,9 +50,9 @@
 .aboutkec-content h3 {
   margin-top: 30px;
   font-size: 1.4rem;
-  color: #2563eb;
+  color: #319143;
   animation: fadeInText 0.6s ease forwards;
-}
+} */
 
 .aboutkec-content p {
   margin-bottom: 15px;
@@ -63,7 +64,7 @@
 }
 
 .aboutkec-content strong {
-  color: #004080;
+  color: #319143;
 }
 
 .sister-institutions-table-wrapper {
@@ -89,12 +90,12 @@
 }
 
 .sister-institutions-table th {
-  background-color: #004080;
+  background-color: #303877;
   color: white;
 }
 
 .visit-button {
-  background-color: #0066cc;
+  background-color: #303877;
   color: white;
   border: none;
   padding: 0.5rem 1rem;
@@ -104,7 +105,7 @@
 }
 
 .visit-button:hover {
-  background-color: #004c99;
+  background-color: #192587;
   transform: scale(1.05);
 }
 

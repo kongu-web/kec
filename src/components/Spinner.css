@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 .kec-spinner-overlay {
   position: fixed;
@@ -18,11 +19,25 @@
 }
 
 .kec-spinner-content h2 {
-  font-family: "Bebas Neue", cursive;
-  font-size: 3rem;
-  font-weight: 900;
-  letter-spacing: 3px;
-  color: #1d4ed8;
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #91C04A;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  animation: fadeSlideIn 1.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(-30px);
+  text-shadow: 2px 2px 4px rgba(29, 78, 216, 0.3);
+}
+
+.kec-spinner-content h2 span {
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #009EDB;
   margin-bottom: 2rem;
   text-transform: uppercase;
   animation: fadeSlideIn 1.5s ease-in-out forwards;

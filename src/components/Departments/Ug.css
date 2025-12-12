@@ -25,13 +25,14 @@
     font-weight: 700;
   }
   
-  .ug-table-wrapper {
+  .ugpage-table-wrapper {
     overflow-x: auto;
     padding: 0 1rem;
   }
   
-  .ug-table {
+  .ugpage-table {
     width: 100%;
+    max-width: 1000px;
     border-collapse: collapse;
     margin: 0 auto;
     background: white;
@@ -40,31 +41,32 @@
     overflow: hidden;
   }
   
-  .ug-table thead {
-    background-color: #3498db;
+  .ugpage-table thead {
+    background-color: #303877;
     color: white;
   }
   
-  .ug-table th,
-  .ug-table td {
+  .ugpage-table th,
+  .ugpage-table td {
     padding: 1rem;
     text-align: left;
+    font-weight: 500;
     font-size: 1rem;
     border-bottom: 1px solid #ddd;
   }
   
-  .ug-table tbody tr:hover {
+  .ugpage-table tbody tr:hover {
     background-color: #f1f9ff;
   }
   
-  .ug-link {
-    color: #3498db;
+  .ugpage-link {
+    color: #009EDB;
     cursor: pointer;
     transition: color 0.3s;
   }
   
-  .ug-link:hover {
-    color: #1d6fa5;
+  .ugpage-link:hover {
+    color: #10b1f1;
     text-decoration: underline;
   }
   
@@ -73,8 +75,8 @@
       font-size: 2rem;
     }
   
-    .ug-table th,
-    .ug-table td {
+    .ugpage-table th,
+    .ugpage-table td {
       padding: 0.8rem;
       font-size: 0.95rem;
     }

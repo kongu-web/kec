@@ -34,10 +34,10 @@ const Pg = () => {
       <>
       <Section/>
       <Navbar/>
-      <div className="ug-container">
-        <h2 className="ug-title">Postgraduate Programmes</h2>
-        <div className="ug-table-wrapper">
-          <table className="ug-table">
+      <div className="pg-container">
+        <h2 className="page-title">Postgraduate Programmes</h2>
+        <div className="pgpage-table-wrapper">
+          <table className="pgpage-table">
             <thead>
               <tr>
                 <th>S.No</th>
@@ -52,7 +52,7 @@ const Pg = () => {
                   <td>{prog.sno}</td>
                   <td>
                     <span
-                      className="ug-link"
+                      className="pg-link"
                       onClick={() => handleNavigate(prog.route)}
                     >
                       {prog.name}

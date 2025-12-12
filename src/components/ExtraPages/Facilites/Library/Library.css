@@ -128,9 +128,9 @@
   
   .library-section-content h2 {
     font-size: 1.5rem;
-    color: #003366;
+    color: #303877;
     margin-top: 2rem;
-    border-left: 4px solid #003366;
+    border-left: 4px solid #303877;
     padding-left: 0.75rem;
   }
   
@@ -167,7 +167,7 @@
   
   .mainlibrary-table th {
     background-color: #f2f2f2;
-    color: #003366;
+    color: #303877;
   }
   
   .library-section-content a{
@@ -201,7 +201,7 @@
 
   .library-section-content h2,
 .library-section-content h3 {
-  color: #003366;
+  color: #303877;
   margin-top: 1.5rem;
 }
 
@@ -248,7 +248,7 @@
   
   .staff-table th {
     background-color: #f0f4f8;
-    color: #003366;
+    color: #303877;
     font-weight: bold;
   }
   

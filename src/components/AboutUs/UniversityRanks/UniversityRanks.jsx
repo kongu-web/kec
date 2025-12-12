@@ -36,7 +36,7 @@ const UniversityRanks = () => {
       <Section />
       <Navbar />
       <div className="ranks-container">
-        <h1 className="ranks-title">University Ranks</h1>
+        <h1 className="page-title">University Ranks</h1>
         <p className="ranks-subtitle">
           The rank holders have placed the college successfully at the top position in University Examinations in different disciplines as follows.
         </p>

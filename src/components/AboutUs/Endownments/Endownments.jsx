@@ -5,6 +5,8 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../ScrollToTopButton';
 import Spinner from '../../Spinner';
+import '../../../App.css';
+
 const studentAwards = [
   ['CEEDEE\'s Award', 'Venbro Polymers', 'Best Overall Outgoing Student BE (Boy)'],
   ['T.M. Periyathambi Gounder Award', 'KVITT', 'Best Overall Outgoing Student BE (Girl)'],
@@ -58,7 +60,7 @@ const Endowments = () => {
       <Section />
       <Navbar />
       <div className="endowments-container">
-        <h1 className="endowments-title">Endowments</h1>
+        <h1 className="page-title">Endowments</h1>
 
         <h2 className="sub-heading">For Students</h2>
         <table className="endowments-table">

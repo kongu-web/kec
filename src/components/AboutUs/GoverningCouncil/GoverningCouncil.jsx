@@ -5,6 +5,7 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../ScrollToTopButton';
 import Spinner from '../../Spinner';
+import '../../../App.css';
 
 const members = [
   {
@@ -93,7 +94,7 @@ const GoverningCouncil = () => {
       <Section />
       <Navbar />
       <div className="gc-container">
-        <h2 className="gc-heading">Governing Council Members</h2>
+        <h2 className="page-title">Governing Council Members</h2>
         <p className="gc-subtitle">Members of the Governing Council Body of the Institution with effect from April 2024</p>
         <div className="gc-grid">
           {members.map((member, index) => (
