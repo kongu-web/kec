@@ -111,7 +111,7 @@ const CollegeRules = () => {
         <img src={rule.img} alt={`${rule.title} Illustration`} />
       </div>
       <div className="rule-text">
-        <h2>{rule.title}</h2>
+        <h2 className="page-sub_title">{rule.title}</h2>
         <ul>
           {rule.content.map((item, idx) => (
             <li key={idx}>{item}</li>

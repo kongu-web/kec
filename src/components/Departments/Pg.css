@@ -25,11 +25,11 @@
     color: #2c3e50;
   }
   
-  .pg-table-wrapper {
+  .pgpage-table-wrapper {
     overflow-x: auto;
   }
   
-  .pg-table {
+  .pgpage-table {
     width: 100%;
     max-width: 1000px;
     margin: auto;
@@ -40,30 +40,31 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   }
   
-  .pg-table th,
-  .pg-table td {
+  .pgpage-table th,
+  .pgpage-table td {
     padding: 1rem;
     text-align: left;
     border-bottom: 1px solid #ddd;
     font-size: 1rem;
   }
   
-  .pg-table th {
-    background-color: #007baf;
+  .pgpage-table th {
+    background-color: #303877;
     color: white;
+    font-weight: 500;
   }
   
-  .pg-table tr:hover {
+  .pgpage-table tr:hover {
     background-color: #f1f1f1;
   }
   
   @media (max-width: 768px) {
-    .pg-title {
+    .pgpage-title {
       font-size: 2rem;
     }
   
-    .pg-table th,
-    .pg-table td {
+    .pgpage-table th,
+    .pgpage-table td {
       padding: 0.8rem;
       font-size: 0.95rem;
     }

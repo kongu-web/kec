@@ -6,6 +6,7 @@ import Section from "../HomePage/Section/Section";
 import ScrollToTopButton from "../ScrollToTopButton";
 import Navbar from "../HomePage/navbar/Navbar";
 import Spinner from "../Spinner";
+import "../../App.css";
 
 const phDProgrammes = [
   { sno: 1, name: "B.E Civil Engineering", duration: "4 Years", year: 1984, route: "civil" },
@@ -47,9 +48,9 @@ const Phd = () => {
     <Section/>
     <Navbar/>
     <div className="ug-container">
-      <h2 className="ug-title">Doctoral Programmes</h2>
-      <div className="ug-table-wrapper">
-        <table className="ug-table">
+      <h2 className="page-title">Doctoral Programmes</h2>
+      <div className="ugpage-table-wrapper">
+        <table className="ugpage-table">
           <thead>
             <tr>
               <th>S.No</th>
@@ -62,7 +63,7 @@ const Phd = () => {
                 <td>{prog.sno}</td>
                 <td>
                   <span
-                    className="ug-link"
+                    className="ugpage-link"
                     onClick={() => handleNavigate(prog.route)}
                   >
                     {prog.name}

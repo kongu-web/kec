@@ -20,7 +20,7 @@
 .gc-heading {
     text-align: center;
     font-size: 1.7rem;
-    color: #003366;
+    color: #303877;
     margin-bottom: 10px;
 }
 
@@ -57,7 +57,8 @@
 
 .gc-card h3 {
     font-size: 1.1rem;
-    color: #003366;
+    color: #009EDB;
+    font-weight: 600;
     margin-bottom: 8px;
 }
 

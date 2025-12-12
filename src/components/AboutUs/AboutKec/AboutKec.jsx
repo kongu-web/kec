@@ -24,7 +24,7 @@ const AboutKec = () => {
     <div className="aboutkec-container">
       
       <div className="aboutkec-content">
-        <h2>About KEC</h2>
+        <h2 className='page-title'>ABOUT KEC</h2>
         <img src={aboutImg} alt="About KEC" className="aboutkec-banner" />
 
         <p>
@@ -39,7 +39,7 @@ const AboutKec = () => {
 
         <p><strong>Tamilnadu Government:</strong> G.O. Ms. No. 1294 dated 29.9.1984</p>
         <p><strong>AICTE Approval:</strong> F.No.45-46/91-AICTE/586 dated 19.4.1993</p>
-        <h3>Other Institutions of the KVIT Trust:</h3>
+        <h3 className='page-sub_title'>Other Institutions of the KVIT Trust:</h3>
         <div className="sister-institutions-table-wrapper">
         <table className="sister-institutions-table">
             <thead>

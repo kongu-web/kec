@@ -5,6 +5,7 @@ import Section from "../HomePage/Section/Section";
 import Navbar from "../HomePage/navbar/Navbar";
 import Footer from "../HomePage/Footer/Footer";
 import ScrollToTopButton from "../ScrollToTopButton";
+import "../../App.css";
 
 const ugPrograms = [
     { sno: 1, name: "B.Sc Computer Systems and Design", duration: "3 Years", year: 1996, route:"ctug" },
@@ -28,9 +29,9 @@ const AppliedScience = () => {
       <Section/>
       <Navbar/>
       <div className="ug-container">
-        <h2 className="ug-title">Applied Sciences Programmes (UG)</h2>
-        <div className="ug-table-wrapper">
-          <table className="ug-table">
+        <h2 className="page-title">Applied Sciences Programmes (UG)</h2>
+        <div className="aps-table-wrapper">
+          <table className="aps-table">
             <thead>
               <tr>
                 <th>S.No</th>
@@ -45,7 +46,7 @@ const AppliedScience = () => {
                   <td>{prog.sno}</td>
                   <td>
                     <span
-                      className="ug-link"
+                      className="aps-link"
                       onClick={() => handleNavigate(prog.route)}
                     >
                       {prog.name}
@@ -58,9 +59,9 @@ const AppliedScience = () => {
             </tbody>
           </table>
         </div>
-        <h2 className="ug-title">Master of Science</h2>
-        <div className="ug-table-wrapper">
-          <table className="ug-table">
+        <h2 className="page-title">Master of Science</h2>
+        <div className="aps-table-wrapper">
+          <table className="aps-table">
             <thead>
               <tr>
                 <th>S.No</th>
@@ -75,7 +76,7 @@ const AppliedScience = () => {
                   <td>{prog.sno}</td>
                   <td>
                     <span
-                      className="ug-link"
+                      className="aps-link"
                       onClick={() => handleNavigate(prog.route)}
                     >
                       {prog.name}
