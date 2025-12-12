@@ -48,7 +48,7 @@
   
   .download-link {
     text-decoration: none;
-    color: #ffffff;
+    color: #319143;
     /* background-color: #303877; */
     padding: 5px 10px;
     border-radius: 5px;
@@ -56,7 +56,7 @@
   }
   
   .download-link:hover {
-    background-color: #0055b3;
+    background-color: #319143;
   }
   
   /* Keyframe animations */

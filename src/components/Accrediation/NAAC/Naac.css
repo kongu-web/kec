@@ -46,6 +46,7 @@
   
   .naac-description a:hover {
     text-decoration: underline;
+    color: #319143;
   }
   
   .naac-section {
@@ -62,6 +63,11 @@
     color: #2c3e50;
     margin-bottom: 0.75rem;
   }
+
+  .highlight {
+    font-weight: bold;
+    color: #009EDB;
+  }
   
   .naac-link {
     color: #2980b9;
@@ -71,7 +77,7 @@
   }
   
   .naac-link:hover {
-    color: #1c598a;
+    color: #319143;
     text-decoration: underline;
   }
   

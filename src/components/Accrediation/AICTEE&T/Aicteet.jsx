@@ -5,6 +5,7 @@ import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
+import '../../../App.css';
 
 import pdf1 from "../../../assets/docs/Aicte/ET/E&T-001-1993-94 FIRST APPROVAL OF THE COLLEGE (E&T) 19.04.1993 001.pdf";
 import pdf2 from "../../../assets/docs/Aicte/ET/E&T-002-1993-94 ext of  APPROVAL 28.10.1993.pdf";
@@ -3402,7 +3403,7 @@ const Aicteet = () => {
     <Section />
     <Navbar />
     <div className="aicte-container">
-      <h2 className="aicte-title">AICTE Approvals for Engineering and Technology</h2>
+      <h2 className="page-title">AICTE Approvals for Engineering and Technology</h2>
       {[...approvals].reverse().map((approval, index) => (
         <div key={index} className="aicte-approval">
           <h3 className="aicte-serial">S.No : {index+1}</h3>

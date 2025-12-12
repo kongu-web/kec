@@ -49,18 +49,18 @@
   
   .mca-table th {
     background-color: #e9ecf5;
-    color: #2c2c6a;
+    color: #303877;
     font-weight: 600;
   }
     .mca-table a {
-    color: #1a73e8;
+    color: #009EDB;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s, text-decoration 0.3s;
   }
   
   .mca-table a:hover {
-    color: #0c47b7;
+    color: #319143;
     text-decoration: underline;
   }
   

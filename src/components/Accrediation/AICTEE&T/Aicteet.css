@@ -45,7 +45,7 @@
   .aicte-serial {
     font-size: 1rem;
     font-weight: 600;
-    color: #3a3a74;
+    color: #319143;
     margin-bottom: 1rem;
     font-family: "Poppins", sans-serif;
   }
@@ -70,7 +70,7 @@
   
   .aicte-table th {
     background-color: #edf0f9;
-    color: #1e1e4f;
+    color: #303877;
     font-weight: 600;
   }
   
@@ -80,7 +80,7 @@
   
   /* Download link */
   .aicte-download-link {
-    color: #2b5eff;
+    color: #009EDB;
     text-decoration: underline;
     cursor: pointer;
     font-weight: 500;
@@ -88,7 +88,7 @@
   }
   
   .aicte-download-link:hover {
-    color: #143dff;
+    color: #319143;
   }
   
   /* Responsive */

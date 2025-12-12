@@ -5,6 +5,7 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../ScrollToTopButton';
 import Spinner from '../../Spinner';
+import '../../../App.css';
 
 // Importing PDF files
 import aff2025_26 from '../../../assets/docs/University/affiliation_2025_26.pdf';
@@ -77,7 +78,7 @@ const University = () => {
       <Section />
       <Navbar />
       <div className="university-container">
-        <h2 className="university-heading">Anna University Affiliation</h2>
+        <h2 className="page-title">Anna University Affiliation</h2>
         <h3 className="university-subheading">Affiliation Orders:</h3>
         <ul className="university-list">
           {affiliationOrders.map((order, index) => (

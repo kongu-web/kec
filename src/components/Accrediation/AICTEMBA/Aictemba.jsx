@@ -5,6 +5,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import ScrollToTopButton from "../../ScrollToTopButton";
 import "./Aictemba.css";
 import Spinner from "../../Spinner";
+import '../../../App.css';
 
 // Importing PDF files for MCA Approvals
 import mca000 from '../../../assets/docs/Aicte/MBA/MBA-001-1994-96 firt approval 31.03.1994.pdf';
@@ -75,7 +76,7 @@ const AicteMba = () => {
       <Section />
       <Navbar />
       <div className="mca-container">
-        <h2 className="mca-title">AICTE Approvals for MBA</h2>
+        <h2 className="page-title">AICTE Approvals for MBA</h2>
         <div className="mca-table-wrapper">
           <table className="mca-table">
             <thead>
