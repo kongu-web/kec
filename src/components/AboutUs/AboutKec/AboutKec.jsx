@@ -24,7 +24,7 @@ const AboutKec = () => {
     <div className="aboutkec-container">
       
       <div className="aboutkec-content">
-        <h2 className='page-title'>ABOUT KEC</h2>
+        <h2 className='page-title'>About KEC</h2>
         <img src={aboutImg} alt="About KEC" className="aboutkec-banner" />
 
         <p>

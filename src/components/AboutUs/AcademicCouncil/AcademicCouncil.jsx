@@ -107,7 +107,7 @@ const AcademicCouncil = () => {
     <Section/>
     <Navbar/>
     <div className="academic-council-container">
-      <h1 className="academic-title">Academic Council</h1>
+      <h1 className="page-title">Academic Council</h1>
       {sections.map((section, index) => (
         <div key={index} className="academic-section">
           <h2 className="academic-section-title">{section.title}</h2>
