@@ -8,6 +8,7 @@ import pdf2023_2033 from '../../../assets/docs/Autonomous/KEC_autonomous_approva
 import pdf2022_2023 from '../../../assets/docs/Autonomous/KEC_autonomous_approval.pdf';
 import pdf2012_2013 from '../../../assets/docs/Autonomous/KEC_autonomous_approval1.pdf';
 import Spinner from '../../Spinner';
+import '../../../App.css';
 
 const Autonomous = () => {
   const [loading, setLoading] = useState(true);
@@ -24,7 +25,7 @@ const Autonomous = () => {
         <Section />
         <Navbar />
         <div className="autonomous-container">
-          <h2 className="autonomous-heading">Autonomous Status</h2>
+          <h2 className="page-title">Autonomous Status</h2>
           <ul className="autonomous-list">
             <li>
               Kongu Engineering College autonomous status valid up to 2023-2033{' '}

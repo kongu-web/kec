@@ -17,6 +17,7 @@ import nba11062018 from '../../../assets/docs/Nba/NBA_KEC_11.06.2018.pdf';
 import nba11092020 from '../../../assets/docs/Nba/NBA_KEC_11.09.2020_MECH_ECE_CHEM_EIE_oneyearextension.pdf';
 import nba13102017 from '../../../assets/docs/Nba/NBA_KEC_13.10.2017.pdf';
 import Spinner from '../../Spinner';
+import '../../../App.css';
 
 const accreditationData = [
   {
@@ -141,10 +142,10 @@ const Nba = () => {
       <Section />
       <Navbar />
       <div className="nba-container">
-        <h2 className="nba-heading">Programmes Accredited by NBA - TIER I (Washington Accord)</h2>
+        <h2 className="page-title">Program Bharathidasan University Affiliation</h2>
         {accreditationData.map((item) => (
           <div key={item.slNo} className="nba-programme">
-            <h3>{item.slNo}. {item.programme}</h3>
+            <h3 className='page-sub_title'>{item.slNo}. {item.programme}</h3>
             <ul>
               {item.letters.map((l, idx) => (
                 <li key={idx}>
