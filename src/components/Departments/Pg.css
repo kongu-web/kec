@@ -44,6 +44,7 @@
   .pgpage-table td {
     padding: 1rem;
     text-align: left;
+    font-weight: 500;
     border-bottom: 1px solid #ddd;
     font-size: 1rem;
   }
@@ -57,6 +58,17 @@
   .pgpage-table tr:hover {
     background-color: #f1f1f1;
   }
+
+    .pg-link {
+      color: #009EDB;
+      cursor: pointer;
+      transition: color 0.3s;
+    }
+
+    .pg-link:hover {
+      color: #10b1f1;
+      text-decoration: underline;
+    }
   
   @media (max-width: 768px) {
     .pgpage-title {

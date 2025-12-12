@@ -6,7 +6,6 @@ import Navbar from "../HomePage/navbar/Navbar";
 import Footer from "../HomePage/Footer/Footer";
 import ScrollToTopButton from "../ScrollToTopButton";
 import Spinner from "../Spinner";
-import "../../App.css";
 
 const pgPrograms = [
   { sno: 1, name: "M.E Computer Science and Engineering", duration: "2 Years", year: 1999, route: "cse"  },
@@ -53,7 +52,7 @@ const Pg = () => {
                   <td>{prog.sno}</td>
                   <td>
                     <span
-                      className="pgpage-link"
+                      className="pg-link"
                       onClick={() => handleNavigate(prog.route)}
                     >
                       {prog.name}
