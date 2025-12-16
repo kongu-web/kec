@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMoneyBillWave } from '@fortawesome/free-solid-svg-icons';
@@ -23,7 +24,7 @@ const FinanceCommittee = () => {
       <Section />
       <Navbar />
       <div className="financecommittee-container">
-        <h1 className="financecommittee-title">Finance Committee</h1>
+        <h1 className="page-title">Finance Committee</h1>
         <p className="financecommittee-desc">
           The Finance Committee is reconstituted with the following members.
         </p>

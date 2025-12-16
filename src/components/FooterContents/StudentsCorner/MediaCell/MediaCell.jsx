@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const mediaMembers = [
   { name: 'Dr. G. Murugesan', category: 'Chief Coordinator' },
@@ -18,7 +19,7 @@ const MediaCell = () => {
       <Navbar />
       <Section />
       <div className="media-container">
-        <h2> Media Cell</h2>
+        <h2 className="page-title">Media Cell</h2>
         <div className="table-wrapper">
           <table className="media-table">
             <thead>

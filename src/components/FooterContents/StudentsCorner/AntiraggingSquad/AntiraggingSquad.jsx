@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const squadMembers = [
   { name: 'Dr. K. Krishnamurthy, Student Affairs', category: 'Chairman', phone: '9842722881' },
@@ -18,7 +19,7 @@ const AntiraggingSquad = () => {
       <Section />
       <Navbar />
       <div className="squad-container">
-        <h1 className="squad-title">Anti-Ragging Squad</h1>
+        <h1 className="page-title">Anti-Ragging Squad</h1>
         <p className="squad-info">Members of the Anti-Ragging Squad are listed below:</p>
         <div className="squad-table-wrapper">
           <table className="squad-table">

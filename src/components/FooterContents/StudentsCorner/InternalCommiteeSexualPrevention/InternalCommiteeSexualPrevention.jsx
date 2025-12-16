@@ -5,6 +5,7 @@ import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
 import pdf from "../../../../assets/docs/Footer/InternalCompliantandAntiSexual/act_InternalComplaintsCommittee.pdf";
+import '../../../../App.css';
 
 const members = [
   {
@@ -117,7 +118,7 @@ const InternalCommiteeSexualPrevention = () => {
       <Section />
       <Navbar />
       <div className="icc-container">
-        <h1 className="icc-title">Internal Complaint Committee / Anti Sexual Harassment Cell</h1>
+        <h1 className="page-title">Internal Complaint Committee / Anti Sexual Harassment Cell</h1>
         <p className="icc-desc">
           KONGU ENGINEERING COLLEGE is committed to provide safe academic and working environment to all girl students and its women employees.
           As per the guidelines of University Grants Commission and the Supreme Court, an Anti-Sexual Harassment cell / Internal Complaint Committee (ICC)

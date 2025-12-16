@@ -20,11 +20,12 @@
   .ariia-link-item a {
     text-decoration: none;
     font-weight: 500;
-    color: #0077cc;
+    color: #009EDB;
     font-size: 1.1rem;
   }
   
   .ariia-link-item a:hover {
     text-decoration: underline;
+    color: #319147;
   }
   

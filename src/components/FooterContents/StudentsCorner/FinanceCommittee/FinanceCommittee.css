@@ -14,7 +14,7 @@
   }
   
   .financecommittee-desc {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: #555;
     margin-bottom: 2rem;
   }
@@ -57,20 +57,21 @@
   
   .profile-name {
     font-size: 1.1rem;
-    font-weight: bold;
-    color: #333;
+    font-weight: 600;
+    color: #303877;
     margin-bottom: 0.3rem;
     text-align: center;
   }
   
   .profile-role {
-    font-size: 0.95rem;
-    color: #777;
+    font-size: 1rem;
+    color: #319147;
+    font-weight: 500;
   }
   
   
   .profile-image-placeholder svg {
-    color: #0077cc;
+    color: #009EDB;
     font-size: 80%;
   }
   

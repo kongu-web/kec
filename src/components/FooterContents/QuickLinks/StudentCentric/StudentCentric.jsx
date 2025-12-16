@@ -394,10 +394,10 @@ const data = [
             <Section />
             <Navbar />
             <div className="student-centric-container">
-              <h1 className="student-centric-title">Student Centric Activities</h1>
+              <h1 className="student-cen-title">Student Centric Activities</h1>
               {Object.entries(studentData).map(([club, details], index) => (
                 <div className="student-card" key={index}>
-                  <h2 className="card-title">{club}</h2>
+                  <h2 className="stu-card-title">{club}</h2>
                   <table className="responsive-table">
                     <thead>
                       <tr>

@@ -16,7 +16,7 @@
     text-align: center;
     font-size: 1.1rem;
     margin-bottom: 30px;
-    color: #555;
+    color: #319147;
   }
   
   .squad-table-wrapper {
@@ -41,9 +41,9 @@
   }
   
   .squad-table th {
-    background-color: #34495e;
+    background-color: #303877;
     color: white;
-    font-weight: bold;
+    font-weight: 500;
   }
   
   .squad-table tr:hover {

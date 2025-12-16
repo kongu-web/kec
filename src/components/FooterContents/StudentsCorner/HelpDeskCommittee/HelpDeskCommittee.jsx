@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const members = [
   {
@@ -116,7 +117,7 @@ const HelpDeskCommittee = () => {
       <Navbar />
       <Section />
       <div className="helpdesk-container">
-        <h2>Help Desk Committee</h2>
+        <h2 className='page-title'>Help Desk Committee</h2>
         <div className="table-wrapper">
           <table className="helpdesk-table">
             <thead>

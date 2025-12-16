@@ -7,7 +7,7 @@
   
   .title {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 2rem;
     color: #2c3e50;
     font-weight: 700;
@@ -34,14 +34,21 @@
     transform: translateY(-5px);
   }
   
-  .profile-icon {
-    font-size: 2.8rem;
-    color: #2980b9;
+  .profile1-icon {
+    font-size: 1.8rem;
+    color: #009EDB;
     margin-bottom: 1rem;
   }
-  
-  .role {
-    color: #3498db;
+
+  .grc_name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #303877;
+    margin-bottom: 0.5rem;
+  }
+
+  .role1 {
+    color: #319147;
     font-weight: 500;
     margin: 0.5rem 0;
   }

@@ -26,7 +26,7 @@
   }
   
   .industry-table {
-    width: 90%;
+    width: 60%;
     margin: 0 auto;
     border-collapse: collapse;
     background: #ffffff;
@@ -45,7 +45,8 @@
   .industry-table th {
     background-color: #1e3a8a;
     color: #ffffff;
-    text-align: center;
+    font-weight: 500;
+    /* text-align: center; */
   }
   
   .industry-table td {
