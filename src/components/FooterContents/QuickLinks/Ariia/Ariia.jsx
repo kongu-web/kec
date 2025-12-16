@@ -4,6 +4,7 @@ import Footer from "../../../HomePage/Footer/Footer";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import ScrollToTopButton from "../../../ScrollToTopButton";
+import "../../../../App.css";
 
 // Import all ARIIA PDFs from folder
 const ariiacontext = require.context(
@@ -23,7 +24,7 @@ const Ariia = () => {
       <Section />
       <Navbar />
       <div className="ariia-container">
-        <h1 className="ariia-title">
+        <h1 className="page-title">
           ARIIA (Atal Ranking of Institutions on Innovation Achievements)
         </h1>
         <div className="ariia-links">

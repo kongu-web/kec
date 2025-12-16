@@ -4,6 +4,7 @@ import Section from '../../HomePage/Section/Section';
 import Navbar from '../../HomePage/navbar/Navbar';
 import ScrollToTopButton from '../../ScrollToTopButton';
 import Footer from '../../HomePage/Footer/Footer';
+import '../../../App.css';
 
 const WebAlbum = () => {
   const [images, setImages] = useState([]);
@@ -29,7 +30,7 @@ const WebAlbum = () => {
       <Navbar />
 
       <div className="web-album-container">
-        <h1 className="album-title">Web Album</h1>
+        <h1 className="page-title">Web Album</h1>
         <div className="image-grid">
           {images.map((image, index) => (
             <div key={index} className="image-card" onClick={() => openFullscreen(image)}>

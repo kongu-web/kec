@@ -1,7 +1,7 @@
 .counselling-container {
     padding: 8rem 1rem 4rem;
     background-color: #f0f4f8;
-    text-align: center;
+    /* text-align: center; */
     min-height: 100vh;
     animation: fadeIn 0.5s ease-in-out;
     border-top-left-radius: 40px;
@@ -9,8 +9,9 @@
   }
   
   .counselling-description {
-    font-size: 1.2rem;
-    color: #374151;
+    font-size: 1.4rem;
+    text-align: center;
+    color: #009EDB;
     margin-bottom: 2.5rem;
     font-weight: 500;
   }
@@ -20,27 +21,29 @@
   }
   
   .counselling-table {
-    width: 90%;
+    width: 60%;
     margin: auto;
     border-collapse: collapse;
     background-color: #fff;
+    font-weight: 500;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
   }
   
   .counselling-table th {
-    background-color: #1e40af;
+    background-color: #303877;
     color: #fff;
     font-size: 1.1rem;
+    font-weight: 500;
     padding: 1rem;
-    text-align: center;
+    /* text-align: center; */
   }
   
   .counselling-table td {
     padding: 1rem;
     font-size: 1rem;
-    text-align: center;
+    /* text-align: center; */
     border-bottom: 1px solid #e5e7eb;
     color: #1f2937;
   }

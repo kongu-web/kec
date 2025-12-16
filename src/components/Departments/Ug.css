@@ -55,8 +55,8 @@
     border-bottom: 1px solid #ddd;
   }
 
-    table tbody tr td:nth-child(4),
-    table thead tr th:nth-child(4) {
+    .ugpage-table td:nth-child(4),
+    .ugpage-table th:nth-child(4) {
       text-align: center;
     }
   

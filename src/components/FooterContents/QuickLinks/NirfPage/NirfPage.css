@@ -36,7 +36,7 @@
   }
   
   .nirf-tabs .active {
-    background-color: #0077cc;
+    background-color: #009EDB;
     color: white;
     box-shadow: 0 2px 8px rgba(0, 119, 204, 0.4);
   }
@@ -49,7 +49,7 @@
   }
   
   .nirf-link-item a {
-    color: #0077cc;
+    color: #009EDB;
     text-decoration: none;
     font-weight: 500;
     background-color: #f9f9f9;
@@ -63,6 +63,7 @@
   .nirf-link-item a:hover {
     background-color: #e6f2ff;
     text-decoration: underline;
+    color: #319147
   }
   
   .nirf-facilities {

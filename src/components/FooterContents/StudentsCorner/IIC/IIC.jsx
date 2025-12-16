@@ -4,6 +4,7 @@ import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
 import ScrollToTopButton from "../../../ScrollToTopButton";
+import "../../../../App.css";
 
 const IIC = () => {
   return (
@@ -11,7 +12,7 @@ const IIC = () => {
     <Section/>
     <Navbar/>
     <section className="iic-container">
-      <h2>
+      <h2 className="page-title">
         Institutions Innovation Council (IIC@KEC)
       </h2>
       <p className="iic-description">

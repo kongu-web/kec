@@ -6,6 +6,7 @@ import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserTie, faUserGraduate, faPhone } from '@fortawesome/free-solid-svg-icons';
+import '../../../../App.css';
 
 const members = [
   { name: "Dr.R.Parameshwaran (Principal)", role: "Chairman", mobile: "9942820583", icon: faUserTie },
@@ -23,13 +24,13 @@ const GrievanceRedressalCommittee = () => {
       <Section />
       <Navbar />
       <div className="grievance-container">
-        <h1 className="title">Grievance Redressal Committee</h1>
+        <h1 className="page-title">Grievance Redressal Committee</h1>
         <div className="cards">
           {members.map((member, index) => (
             <div className="card" key={index}>
-              <FontAwesomeIcon icon={member.icon} className="profile-icon" />
-              <h3>{member.name}</h3>
-              <p className="role">{member.role}</p>
+              <FontAwesomeIcon icon={member.icon} className="profile1-icon" />
+              <h3 className='grc_name'>{member.name}</h3>
+              <p className="role1">{member.role}</p>
               <p className="mobile"><FontAwesomeIcon icon={faPhone} /> {member.mobile}</p>
             </div>
           ))}

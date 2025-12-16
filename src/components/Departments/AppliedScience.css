@@ -43,10 +43,10 @@
     border-bottom: 1px solid #ddd;
   }
 
-  table tbody tr td:nth-child(4),
-  table thead tr th:nth-child(4) {
-    text-align: center;
-  }
+    .aps-table td:nth-child(4),
+    .aps-table th:nth-child(4) {
+      text-align: center;
+    }
 
   .aps-table tbody tr:hover {
     background-color: #f1f9ff;

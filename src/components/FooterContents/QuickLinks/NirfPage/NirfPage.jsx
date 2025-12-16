@@ -4,6 +4,7 @@ import Footer from "../../../HomePage/Footer/Footer";
 import ScrollToTopButton from "../../../ScrollToTopButton";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
+import "../../../../App.css";
 
 // Dynamically import all PDF files in the folder
 const nirfContext = require.context("../../../../assets/docs/Footer/Nirf", false, /\.pdf$/);
@@ -29,7 +30,7 @@ const NirfPage = () => {
       <Section />
       <Navbar />
       <div className="nirf-container">
-        <h1 className="nirf-title">NIRF Reports</h1>
+        <h1 className="page-title">NIRF Reports</h1>
 
         <div className="nirf-tabs">
           <button

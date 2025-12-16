@@ -4,6 +4,7 @@ import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import ScrollToTopButton from "../../../ScrollToTopButton";
 import Footer from "../../../HomePage/Footer/Footer";
+import '../../../../App.css';
 
 const antiraggingData = [
   { name: 'Dr. R. Parameshwaran (Principal)', category: 'Chairman', phone: '9942820583' },
@@ -26,7 +27,7 @@ const AntiraggingCell = () => {
       <Section />
       <Navbar />
       <div className="antiragging-container">
-        <h1 className="antiragging-title">Anti-Ragging Cell</h1>
+        <h1 className="page-title">Anti-Ragging Cell</h1>
         <p className="antiragging-info">Students may contact the following committee in case of any ragging activity:</p>
         <div className="antiragging-table-wrapper">
           <table className="antiragging-table">

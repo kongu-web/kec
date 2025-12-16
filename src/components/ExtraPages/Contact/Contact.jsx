@@ -21,7 +21,7 @@ const Contact = () => {
       <Section />
       <Navbar />
       <div className="contact-container fade-in">
-        <h2 className="contact-title">Contact Us</h2>
+        <h2 className="page-title">Contact Us</h2>
 
         <div className="contact-grid">
           <div className="contact-card">
@@ -64,7 +64,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <h3 className="hostel-title">Hostel Contact</h3>
+        <h3 className="page-title">Hostel Contact</h3>
         <div className="hostel-table-container">
           <table className="hostel-table">
             <thead>

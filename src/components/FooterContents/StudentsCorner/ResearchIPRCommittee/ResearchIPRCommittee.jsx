@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const members = [
   { name: 'Dr.R.Rajasekar (Mechanical)', role: 'Chairman' },
@@ -22,7 +23,7 @@ const ResearchIPRCommittee = () => {
       <Navbar />
       <Section />
       <div className="research-container">
-        <h2>Research & IPR Committee</h2>
+        <h2 className="page-title">Research & IPR Committee</h2>
         <p className="description">
           A Research and IPR Committee is formed to monitor and address the issues of Research. CCO R&D is the chairman and a faculty from each department as Research Coordinator / Members. The Research committee will facilitate the research activities and it will be reviewed fortnightly by the Head of the Institution.
         </p>

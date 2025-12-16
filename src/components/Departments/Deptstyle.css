@@ -72,7 +72,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 1px;
-    background-color: #004080;
+    background-color: #303877;
     padding: 0;
     position: sticky;
     top: 115px;
@@ -97,7 +97,7 @@ body {
   .auto-navbar button:hover,
   .auto-navbar button.active {
     background-color: #ffffff;
-    color: #004080;
+    color: #303877;
     height: 100%;
   }
   
@@ -111,15 +111,17 @@ body {
   }
   
   .auto-content h2 {
-    color: #004080;
+    /* color: #319143;
+    border-bottom: 2px solid #319143; */
+    color: #009EDB;
+    border-bottom: 2px solid #009EDB;
     font-size: 24px;
-    border-bottom: 2px solid #004080;
     padding-bottom: 5px;
   }
 
   .auto-content h3 {
-    color: #004080;
-    font-size: 17px;
+    color: #319143;
+    font-size: 15px;
     padding-bottom: 5px;
   }
   
@@ -145,7 +147,7 @@ body {
   }
   
   .auto-faculty-card:hover {
-    background-color: #004080;
+    background-color: #303877;
     color: white;
     transform: scale(1.05);
   }
@@ -208,7 +210,7 @@ body {
   
   /* Dropdown Button */
   .dropdown-section button {
-    background-color: #007bff;
+    background-color: #009EDB;
     color: white;
     border: none;
     padding: 12px;
@@ -224,7 +226,7 @@ body {
   }
   
   .dropdown-section button:hover {
-    background-color: #0056b3;
+    background-color: #319143;
   }
   
   /* Dropdown Content */
@@ -297,6 +299,7 @@ body {
     border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
+    font-size: 15px;
   }
   
   .highlights-table th {
@@ -310,7 +313,7 @@ body {
     margin: 0 auto; /* Center align */
     display: flex;
     flex-direction: column;
-    border-left: 4px solid #004080;
+    border-left: 4px solid #303877;
     padding-left: 20px;
     margin-top: 20px;
   }
@@ -334,7 +337,7 @@ body {
   .milestone-year {
     font-size: 20px;
     font-weight: bold;
-    color: #004080;
+    color: #303877;
   }
   
   .milestone-events {
@@ -362,7 +365,7 @@ body {
   }
   
   .lab-card {
-    background: #004080;
+    background: #303877;
     color: white;
     padding: 12px 18px;
     border-radius: 8px;
@@ -370,21 +373,23 @@ body {
     text-align: center;
     width: 220px;
     transition: 0.3s ease-in-out;
-    font-weight: bold;
+    font-size: 14px;
+    font-weight: 500;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   }
   .lab-detail h2{
-    color: #004080;
-    font-size: 15px;
-    border-bottom: 2px solid #004080;
+    color: #319143;
+    font-size: 20px;
+    border-bottom: 2px solid #319143;
     padding-bottom: 1px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
   }
   .lab-card:hover,
   .lab-card.active {
     background-color: #ffffff;
-    color: #004080;
-    border: 2px solid #004080;
+    color: #303877;
+    border: 2px solid #319143;
   }
   
   /* Lab Detail Section */
@@ -403,7 +408,7 @@ body {
   
   .lab-detail h3 {
     font-size: 22px;
-    color: #004080;
+    color: #009EDB;
     margin-bottom: 15px;
   }
   
@@ -507,7 +512,7 @@ body {
   .library-container h2 {
 
     font-size: 1.4rem;
-    color: #2c3e50;
+    color: #009EDB;
     margin-bottom: 1rem;
     text-align: center;
   }
@@ -516,7 +521,7 @@ body {
   
   .library-description {
     font-size: 1rem;
-    color: #555;
+    color: #319143;
     margin-bottom: 2rem;
     text-align: center;
   }
@@ -564,7 +569,7 @@ body {
     text-align: center;
     font-size: 1.8rem;
     margin-bottom: 15px;
-    color: #333;
+    color: #009EDB;
   }
   
   .patent-table {
@@ -578,13 +583,13 @@ body {
     border: 1px solid #ddd;
     padding: 12px;
     text-align: left;
-    font-size: 16px;
+    font-size: 15px;
   }
   
   .patent-table th {
-    background-color: #0073e6;
+    background-color: #303877;
     color: #fff;
-    font-weight: bold;
+    font-weight: 500;
   }
   
   .patent-table tr:nth-child(even) {
@@ -634,7 +639,7 @@ body {
   /* .footer {
     text-align: center;
     padding: 20px;
-    background-color: #004080;
+    background-color: #303877;
     color: white;
     margin-top: 30px;
   } */

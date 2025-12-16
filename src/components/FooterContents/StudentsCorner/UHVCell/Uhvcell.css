@@ -11,11 +11,11 @@
 
 .student-centric-title {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 1.7rem;
   font-weight: 700;
   margin-bottom: 1.5rem;
-  margin-top: 90px; /* Add space if navbar is fixed */
-  color: #1a1a1a;
+  margin-top: 120px; /* Add space if navbar is fixed */
+  color: #303877;
   letter-spacing: 0.5px;
 }
 
@@ -28,7 +28,7 @@
   color: #333;
   background-color: #f9f9f9;
   padding: 1rem 1.5rem;
-  border-left: 5px solid #007bff;
+  border-left: 5px solid #009EDB;
   border-radius: 4px;
   word-wrap: break-word;
 }
@@ -60,8 +60,8 @@
   font-size: 1.5rem;
   font-weight: 600;
   margin-bottom: 1.2rem;
-  color: #004080;
-  border-left: 5px solid #004080;
+  color: #009EDB;
+  /* border-left: 5px solid #009EDB; */
   padding-left: 0.6rem;
 }
 

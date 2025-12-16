@@ -2,7 +2,7 @@
     padding: 8rem 1rem 1rem;
     background: linear-gradient(to bottom right, #eef2f7, #f9fafb);
     min-height: 100vh;
-    text-align: center;
+    /* text-align: center; */
     animation: fadeIn 0.6s ease-in-out;
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
@@ -10,8 +10,9 @@
   }
   
   .librarycmt-description {
-    font-size: 1.2rem;
-    color: #374151;
+    font-size: 1.4rem;
+    text-align: center;
+    color: #009EDB;
     margin-bottom: 2.5rem;
     font-weight: 500;
   }
@@ -33,18 +34,19 @@
   }
   
   .librarycmt-table th {
-    background-color: #1e3a8a;
+    background-color: #303877;
     color: white;
     font-size: 1.1rem;
+    font-weight: 500;
     padding: 1rem;
-    text-align: center;
+    /* text-align: center; */
   }
   
   .librarycmt-table td {
     padding: 1rem;
     font-size: 1rem;
     color: #111827;
-    text-align: center;
+    /* text-align: center; */
     border-bottom: 1px solid #e5e7eb;
   }
   

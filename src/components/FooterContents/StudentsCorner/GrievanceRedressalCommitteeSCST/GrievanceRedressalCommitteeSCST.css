@@ -34,17 +34,24 @@
     transform: translateY(-5px);
   }
   
-  .profile-icon {
-    font-size: 2.5rem;
-    color: #2980b9;
-    margin-bottom: 1rem;
-  }
+    .profile1-icon {
+      font-size: 1.8rem;
+      color: #009EDB;
+      margin-bottom: 1rem;
+    }
   
-  .role {
-    font-weight: 500;
-    color: #2980b9;
-    margin: 0.5rem 0;
-  }
+    .gre_name {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #303877;
+      margin-bottom: 0.5rem;
+    }
+  
+    .role1 {
+      color: #319147;
+      font-weight: 500;
+      margin: 0.5rem 0;
+    }
   
   .mobile {
     font-size: 0.95rem;
@@ -66,7 +73,7 @@
     font-size: 1.8rem;
     margin-bottom: 1rem;
     text-align: center;
-    color: #2e3a59;
+    color: #303877;
   }
   
   .objectives ul {

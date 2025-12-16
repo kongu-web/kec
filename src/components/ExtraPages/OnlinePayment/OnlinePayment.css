@@ -44,7 +44,7 @@
   .online-payment-content h3 {
     margin-top: 2.5rem;
     font-size: 1.5rem;
-    color: #34495e;
+    color: #009EDB;
     font-weight: 600;
     position: relative;
   }
@@ -54,7 +54,7 @@
     display: block;
     width: 50px;
     height: 3px;
-    background: #0984e3;
+    background: #009EDB;
     margin-top: 1px;
     margin-bottom: 5px;
     border-radius: 3px;
@@ -78,7 +78,7 @@
   }
   
   .payment-btn {
-    background: linear-gradient(135deg, #2c3e50, #34495e);
+    background: #319147;
     color: #ffffff;
     padding: 1.2rem 2.5rem;
     font-size: 1.25rem;
@@ -92,7 +92,7 @@
   }
   
   .payment-btn:hover {
-    background: linear-gradient(135deg, #1a252f, #2c3e50);
+    background: #319144;
     transform: translateY(-3px);
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
   }

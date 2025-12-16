@@ -4,6 +4,7 @@ import Section from '../../../HomePage/Section/Section';
 import Navbar from '../../../HomePage/navbar/Navbar';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const members = [
   { name: 'Dr.R.Rajasekar (Mechanical)', role: 'Coordinator' },
@@ -21,7 +22,7 @@ const InstituteIndustryCell = () => {
       <Navbar />
       <Section />
       <div className="industry-container">
-        <h2>Institute Industry Cell</h2>
+        <h2 className="page-title">Institute Industry Cell</h2>
         <div className="table-wrapper">
           <table className="industry-table">
             <thead>

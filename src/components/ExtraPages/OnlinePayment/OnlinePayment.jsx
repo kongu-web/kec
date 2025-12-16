@@ -7,6 +7,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUniversity, faBus } from '@fortawesome/free-solid-svg-icons';
 import Spinner from "../../Spinner";
+import  "../../../App.css";
 
 const OnlinePayment = () => {
   const [loading, setLoading] = useState(true);
@@ -22,7 +23,7 @@ const OnlinePayment = () => {
       <Section />
       <Navbar />
       <div className="online-payment-container">
-        <h2 className="online-payment-title">Online Payments</h2>
+        <h2 className="page-title">Online Payments</h2>
         <div className="online-payment-content">
           <p>
             This online payment system is provided by Kongu Engineering College. Kongu Engineering College may update these terms from time to time and any changes will be effective immediately on being set out here. Please ensure you are aware of the current terms. The country of domicile for Kongu Engineering College is India.

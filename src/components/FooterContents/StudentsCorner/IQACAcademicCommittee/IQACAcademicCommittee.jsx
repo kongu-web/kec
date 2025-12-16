@@ -4,6 +4,7 @@ import Navbar from '../../../HomePage/navbar/Navbar';
 import Section from '../../../HomePage/Section/Section';
 import Footer from '../../../HomePage/Footer/Footer';
 import ScrollToTopButton from '../../../ScrollToTopButton';
+import '../../../../App.css';
 
 const members = [
   { name: "Dr.N.Senthilnathan (CCO Accreditation)", role: "Chairman" },
@@ -24,7 +25,7 @@ const IQACAcademicCommittee = () => {
       <Navbar />
       <Section />
       <div className="iqac-container">
-        <h2 className="iqac-title">
+        <h2 className="page-title">
           IQAC, Accreditation and Academic Audit
         </h2>
         <div className="iqac-table-wrapper">
