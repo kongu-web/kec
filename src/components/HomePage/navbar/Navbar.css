@@ -122,12 +122,6 @@
   background: #f3f6ff;
 }
 
-/* ARROW */
-.has-submenu>a::after {
-  /* content: "▾"; */
-  margin-left: 6px;
-  font-size: 12px;
-}
 
 .utility-right a:hover {
   /* text-decoration: underline; */
@@ -224,11 +218,6 @@
   cursor: pointer;
 }
 
-/* ACTIVE TEXT */
-/* .nav-menu li.active {
-  color: #039be5;
-} */
-
 /* TOP BAR */
 .nav-menu li.active::before {
   content: "";
@@ -262,7 +251,20 @@
   left: 0;
   width: 300px;
   background: #fff;
-  border-radius: 14px;
+  border-radius: 14px;.card-dropdown {
+      position: absolute;
+      top: calc(100% + 16px);
+      left: 50%;
+      transform: translateX(-50%);
+      width: 320px;
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 14px 0;
+      box-shadow:
+        0 12px 30px rgba(0, 0, 0, 0.18),
+        0 0 0 1px rgba(0, 158, 219, 0.15);
+      z-index: 2000;
+    }
   padding: 12px 0;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
   z-index: 999;
@@ -273,15 +275,32 @@
   display: flex;
   align-items: center;
   gap: 14px;
-  padding: 12px 22px;
+  padding: 14px 24px;
   font-size: 15px;
   font-weight: 500;
-  color: #039be5;
+  color: #009edb;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .card-dropdown span:hover {
-  background: #f2f9ff;
+  background: #f3fbff;
+}
+
+.card-dropdown {
+  animation: dropdownFade 0.25s ease;
+}
+
+@keyframes dropdownFade {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
 }
 
 
