@@ -1,6 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./Navbar.css";
 import logo from "../../../assets/images/kec11.jpg";
+import badge41 from "../../../assets/images/41years.png";
+import nif from "../../../assets/images/nirf.png";
+import naac from "../../../assets/images/naac.png";
+import tneaBadge from "../../../assets/images/tneacode.png";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -10,6 +14,8 @@ import {
   faSquareCaretDown
 } from "@fortawesome/free-solid-svg-icons";
 
+import { useLocation } from "react-router-dom";
+
 const Navbar = () => {
   const [sticky, setSticky] = useState(false);
   const [mobileMenu, setMobileMenu] = useState(false);
@@ -17,6 +23,7 @@ const Navbar = () => {
   const [moreOpen, setMoreOpen] = useState(false);
 
   const navigate = useNavigate();
+  const location = useLocation(); // ✅ REQUIRED
   const moreRef = useRef(null);
   let timeoutId = null;
 
@@ -82,64 +89,93 @@ const Navbar = () => {
       <nav className={`main-navbar ${sticky ? "sticky" : ""}`}>
         {/* LEFT */}
         <div className="nav-left">
-          <img src={logo} alt="KEC Logo" className="nav-logo" />
-        </div>
+  <img src={logo} alt="KEC Logo" className="nav-logo" />
+
+  {/* BADGES */}
+  <div className="nav-badges">
+    <img src={badge41} alt="41 Years" />
+    <img src={nif} alt="NIRF" />
+    <img src={naac} alt="NAAC" className="naac-badge"/>
+  </div>
+</div>
+
 
         {/* CENTER MENU */}
         <ul className="nav-menu">
-          <li onClick={() => navigate("/")}>Home</li>
+  <li
+    className={location.pathname === "/" ? "active" : ""}
+    onClick={() => navigate("/")}
+  >
+    Home
+  </li>
 
-          <li
-            onMouseEnter={() => toggleDropdown(1)}
-            onMouseLeave={() => (timeoutId = setTimeout(() => setActiveDropdown(null), 200))}
-          >
-            About Us
-            {activeDropdown === 1 && (
-              <div className="dropdown">
-                <span onClick={() => navigate("/aboutkec")}>About KEC</span>
-                <span onClick={() => navigate("/vision")}>Vision & Mission</span>
-                <span onClick={() => navigate("/headoftheinstitution")}>
-                  Head of Institution
-                </span>
-              </div>
-            )}
-          </li>
+  <li
+    className={location.pathname.startsWith("/about") ? "active" : ""}
+    onMouseEnter={() => toggleDropdown(1)}
+    onMouseLeave={() => setActiveDropdown(null)}
+  >
+    About Us
 
-          <li
-            onMouseEnter={() => toggleDropdown(2)}
-            onMouseLeave={() => (timeoutId = setTimeout(() => setActiveDropdown(null), 200))}
-          >
-            Programmes
-            {activeDropdown === 2 && (
-              <div className="dropdown">
-                <span onClick={() => navigate("/ug")}>Undergraduate</span>
-                <span onClick={() => navigate("/pg")}>Postgraduate</span>
-                <span onClick={() => navigate("/doctoral")}>Doctoral</span>
-              </div>
-            )}
-          </li>
+    {activeDropdown === 1 && (
+      <div className="dropdown card-dropdown">
+        <span onClick={() => navigate("/vision")}>
+          <i className="icon vision" />
+          Vision & Mission
+        </span>
 
-          <li onClick={() => navigate("/placement")}>Placement</li>
+        <span onClick={() => navigate("/management")}>
+          <i className="icon management" />
+          Management / Trust
+        </span>
 
-          <li className="more" onClick={() => setMoreOpen(!moreOpen)} ref={moreRef}>
-            <FontAwesomeIcon icon={faSquareCaretDown} />
-            {moreOpen && (
-              <div className="dropdown">
-                <span onClick={() => navigate("/facilities")}>Facilities</span>
-                <span onClick={() => navigate("/onlinepayment")}>Online Payment</span>
-                <span onClick={() => navigate("/contact")}>Contact</span>
-              </div>
-            )}
-          </li>
-        </ul>
+        <span onClick={() => navigate("/milestones")}>
+          <i className="icon milestones" />
+          Milestones & History
+        </span>
+
+        <span onClick={() => navigate("/approvals")}>
+          <i className="icon approvals" />
+          Approvals & Accreditations
+        </span>
+
+        <span onClick={() => navigate("/governing")}>
+          <i className="icon governing" />
+          Governing Council
+        </span>
+      </div>
+    )}
+  </li>
+
+  <li
+    className={location.pathname.startsWith("/academics") ? "active" : ""}
+  >
+    Academics
+  </li>
+
+  <li
+    className={location.pathname.startsWith("/departments") ? "active" : ""}
+  >
+    Departments
+  </li>
+
+  <li
+    className={location.pathname.startsWith("/placement") ? "active" : ""}
+  >
+    Placement
+  </li>
+
+  <li
+    className={location.pathname.startsWith("/campus-life") ? "active" : ""}
+  >
+    Campus Life
+  </li>
+</ul>
+
 
         {/* RIGHT CTA */}
         <div className="nav-actions">
           <button className="enquiry-btn">Enquiry Now</button>
-          <div className="tnea-badge">
-            <span>TNEA CODE</span>
-            <strong>2711</strong>
-          </div>
+          <img src={tneaBadge} alt="TNEA Code 2711" className="tnea-badge-img"/>
         </div>
 
         {/* MOBILE ICON */}

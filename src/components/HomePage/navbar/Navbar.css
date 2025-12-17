@@ -156,3 +156,180 @@
     display: none;
   }
 }
+
+/* ================= MAIN NAVBAR ================= */
+.main-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 40px;
+  background: #fff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  z-index: 1000;
+}
+
+/* STICKY */
+.main-navbar.sticky {
+  position: sticky;
+  top: 0;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+/* LOGO + BADGES WRAPPER */
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+/* MAIN LOGO */
+.nav-logo {
+  height: 54px;
+}
+
+/* BADGES */
+.nav-badges {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.nav-badges img {
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+}
+
+
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+/* MENU ITEM */
+.nav-menu li {
+  position: relative;
+  padding: 8px 8px;
+  font-weight:600;
+  color: #303877;
+  cursor: pointer;
+}
+
+/* ACTIVE TEXT */
+/* .nav-menu li.active {
+  color: #039be5;
+} */
+
+/* TOP BAR */
+.nav-menu li.active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 20%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: #009edb;
+  border-radius: 3px;
+}
+
+/* BOTTOM BAR */
+.nav-menu li.active::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 80%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: #009edb;
+  border-radius: 3px;
+}
+
+/* CARD DROPDOWN */
+.card-dropdown {
+  position: absolute;
+  top: 130%;
+  left: 0;
+  width: 300px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+  z-index: 999;
+}
+
+/* ITEMS */
+.card-dropdown span {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #039be5;
+  cursor: pointer;
+}
+
+.card-dropdown span:hover {
+  background: #f2f9ff;
+}
+
+
+/* ================= RIGHT ACTIONS ================= */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.enquiry-btn {
+  background: #2f3576;
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.enquiry-btn:hover {
+  background: #1f245f;
+}
+
+/* TNEA BADGE */
+.tnea-badge-img {
+  height: 42px;
+  width: auto;
+  object-fit: contain;
+  cursor: pointer;
+}
+.tnea-badge strong {
+  display: block;
+  font-size: 16px;
+}
+
+.mobile-icon {
+  display: none;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+  .nav-menu {
+    display: none;
+  }
+
+  .mobile-icon {
+    display: block;
+  }
+}
