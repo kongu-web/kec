@@ -93,7 +93,7 @@
   min-width: 125px;
   background: #fff;
   border-radius: 10px;
-  box-shadow: 1px 1px 8px rgb(54, 51, 125);  /* padding: 10px 0; */
+  box-shadow: 1px 1px 8px rgb(54, 51, 125); /* padding: 10px 0; */
   opacity: 0;
   visibility: hidden;
   transform: translateY(10px);
@@ -121,7 +121,6 @@
 .submenu a:hover {
   background: #f3f6ff;
 }
-
 
 .utility-right a:hover {
   /* text-decoration: underline; */
@@ -198,13 +197,11 @@
   object-fit: contain;
 }
 
-
-
 .nav-menu {
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 22px;
   margin: 0;
   padding: 0;
 }
@@ -213,7 +210,7 @@
 .nav-menu li {
   position: relative;
   padding: 8px 8px;
-  font-weight:600;
+  font-weight: 600;
   color: #303877;
   cursor: pointer;
 }
@@ -249,24 +246,11 @@
   position: absolute;
   top: 130%;
   left: 0;
-  width: 300px;
+  width: max-content;
   background: #fff;
-  border-radius: 14px;.card-dropdown {
-      position: absolute;
-      top: calc(100% + 16px);
-      left: 50%;
-      transform: translateX(-50%);
-      width: 320px;
-      background: #ffffff;
-      border-radius: 16px;
-      padding: 14px 0;
-      box-shadow:
-        0 12px 30px rgba(0, 0, 0, 0.18),
-        0 0 0 1px rgba(0, 158, 219, 0.15);
-      z-index: 2000;
-    }
+  border-radius: 14px;
   padding: 12px 0;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+  box-shadow: 2px 2px 3px rgba(0, 174, 222, 0.987);
   z-index: 999;
 }
 
@@ -275,34 +259,26 @@
   display: flex;
   align-items: center;
   gap: 14px;
-  padding: 14px 24px;
+  padding: 12px 24px;
   font-size: 15px;
   font-weight: 500;
   color: #009edb;
   cursor: pointer;
-  white-space: nowrap;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
 .card-dropdown span:hover {
-  background: #f3fbff;
+  background: #009edb;
+  color: #fff;
+}
+
+.card-dropdown span:hover .submenu-icon {
+  filter: brightness(0) invert(1);
 }
 
 .card-dropdown {
   animation: dropdownFade 0.25s ease;
 }
-
-@keyframes dropdownFade {
-  from {
-    opacity: 0;
-    transform: translate(-50%, -10px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate(-50%, 0);
-  }
-}
-
 
 /* ================= RIGHT ACTIONS ================= */
 .nav-actions {
