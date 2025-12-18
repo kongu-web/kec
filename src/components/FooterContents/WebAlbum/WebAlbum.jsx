@@ -1,17 +1,21 @@
-import React, { useState, useEffect } from 'react';
-import './WebAlbum.css';
-import Section from '../../HomePage/Section/Section';
-import Navbar from '../../HomePage/navbar/Navbar';
-import ScrollToTopButton from '../../ScrollToTopButton';
-import Footer from '../../HomePage/Footer/Footer';
-import '../../../App.css';
+import React, { useState, useEffect } from "react";
+import "./WebAlbum.css";
+import Section from "../../HomePage/Section/Section";
+import Navbar from "../../HomePage/navbar/Navbar";
+import ScrollToTopButton from "../../ScrollToTopButton";
+import Footer from "../../HomePage/Footer/Footer";
+import "../../../App.css";
 
 const WebAlbum = () => {
   const [images, setImages] = useState([]);
   const [fullscreenImage, setFullscreenImage] = useState(null);
 
   useEffect(() => {
-    const importImages = require.context('../../../assets/images/WebAlbum', false, /\.(jpg|jpeg|png|gif)$/);
+    const importImages = require.context(
+      "../../../assets/images/WebAlbum",
+      false,
+      /\.(jpg|jpeg|png|gif)$/
+    );
     const imagePaths = importImages.keys().map(importImages);
     setImages(imagePaths);
   }, []);
@@ -26,15 +30,23 @@ const WebAlbum = () => {
 
   return (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
 
       <div className="web-album-container">
         <h1 className="page-title">Web Album</h1>
         <div className="image-grid">
           {images.map((image, index) => (
-            <div key={index} className="image-card" onClick={() => openFullscreen(image)}>
-              <img src={image} alt={`Image ${index + 1}`} className="album-image" />
+            <div
+              key={index}
+              className="image-card"
+              onClick={() => openFullscreen(image)}
+            >
+              <img
+                src={image}
+                alt={`Image ${index + 1}`}
+                className="album-image"
+              />
             </div>
           ))}
         </div>
@@ -42,8 +54,14 @@ const WebAlbum = () => {
 
       {fullscreenImage && (
         <div className="fullscreen-overlay" onClick={closeFullscreen}>
-          <span className="close-button" onClick={closeFullscreen}>&times;</span>
-          <img src={fullscreenImage} alt="Full View" className="fullscreen-image" />
+          <span className="close-button" onClick={closeFullscreen}>
+            &times;
+          </span>
+          <img
+            src={fullscreenImage}
+            alt="Full View"
+            className="fullscreen-image"
+          />
         </div>
       )}
 

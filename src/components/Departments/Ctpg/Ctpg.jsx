@@ -6,9 +6,8 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./ct-pg.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/ctpg.jpg"
+import Deptimg from "../../../assets/images/Department Banner/ctpg.jpg";
 import ScrollToTopButton from "../../ScrollToTopButton";
-
 
 const NAV_ITEMS = [
   "Home",
@@ -51,7 +50,7 @@ const Ctpg = () => {
           skipEmptyLines: true,
           complete: (result) => {
             const formattedData = result.data.map((row) => ({
-              image:row[0],
+              image: row[0],
               name: row[1],
               designation: row[2],
               profileLink: row[3],
@@ -77,7 +76,7 @@ const Ctpg = () => {
     <div>
       <div className="navbar-section-wrapper">
         <Navbar />
-        <Section />
+        {/* <Section/> */}
       </div>
 
       <div className="auto-container">
@@ -100,10 +99,12 @@ const Ctpg = () => {
         </nav>
 
         <div className="auto-content">
-        {activeSection === "Home" && autoData && (
+          {activeSection === "Home" && autoData && (
             <div className="auto-content">
               <h2>About the Department</h2>
-              <p className="bigdata">{autoData.about || "Information not available."}</p>
+              <p className="bigdata">
+                {autoData.about || "Information not available."}
+              </p>
 
               <h2>Department Details</h2>
               <table className="dept-details-table">
@@ -111,10 +112,11 @@ const Ctpg = () => {
                   {[
                     ["HOD", autoData.hod_name],
                     ["Intake", autoData.intake],
-                   
                   ].map(([label, value], index) => (
                     <tr key={index}>
-                      <td><strong>{label}</strong></td>
+                      <td>
+                        <strong>{label}</strong>
+                      </td>
                       <td>{value || "N/A"}</td>
                     </tr>
                   ))}
@@ -122,16 +124,24 @@ const Ctpg = () => {
               </table>
 
               {["vision", "mission", "peo", "po", "pso"].map((key) => (
-                <div key={key} className={`dropdown-section ${dropdowns[key] ? "active" : ""}`}>
+                <div
+                  key={key}
+                  className={`dropdown-section ${
+                    dropdowns[key] ? "active" : ""
+                  }`}
+                >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
                   </button>
                   <div className="dropdown-content">
                     <ul>
-                      {Array.isArray(autoData[key])
-                        ? autoData[key].map((point, index) => <li key={index}>{point}</li>)
-                        : <li>{autoData[key] || "N/A"}</li>
-                      }
+                      {Array.isArray(autoData[key]) ? (
+                        autoData[key].map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData[key] || "N/A"}</li>
+                      )}
                     </ul>
                   </div>
                 </div>
@@ -139,16 +149,18 @@ const Ctpg = () => {
             </div>
           )}
 
-
           {activeSection === "Highlights" && (
             <div>
               <h2>Highlights</h2>
               <ul className="highlights-list">
-                {Object.entries(autoData.highlights || {}).map(([category, details], index) =>
-                  details === true || details === "" ? <li key={index}>{category.replace(/_/g, " ")}</li> : null
+                {Object.entries(autoData.highlights || {}).map(
+                  ([category, details], index) =>
+                    details === true || details === "" ? (
+                      <li key={index}>{category.replace(/_/g, " ")}</li>
+                    ) : null
                 )}
               </ul>
-                 <table className="highlights-table">
+              <table className="highlights-table">
                 <thead>
                   <tr>
                     <th>Category</th>
@@ -156,17 +168,21 @@ const Ctpg = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {Object.entries(autoData.highlights || {}).map(([category, details], index) =>
-                    details !== true && details !== "" ? (
-                      <tr key={index}>
-                        <td>{category.replace(/_/g, " ")}</td>
-                        <td>{Array.isArray(details) ? details.join(", ") : details}</td>
-                      </tr>
-                    ) : null
+                  {Object.entries(autoData.highlights || {}).map(
+                    ([category, details], index) =>
+                      details !== true && details !== "" ? (
+                        <tr key={index}>
+                          <td>{category.replace(/_/g, " ")}</td>
+                          <td>
+                            {Array.isArray(details)
+                              ? details.join(", ")
+                              : details}
+                          </td>
+                        </tr>
+                      ) : null
                   )}
                 </tbody>
               </table>
-           
             </div>
           )}
 
@@ -177,7 +193,9 @@ const Ctpg = () => {
                 {autoData.labs.map((lab, index) => (
                   <div
                     key={index}
-                    className={`lab-card ${selectedLab === index ? "active" : ""}`}
+                    className={`lab-card ${
+                      selectedLab === index ? "active" : ""
+                    }`}
                     onClick={() => setSelectedLab(index)}
                   >
                     {lab.topic}
@@ -188,7 +206,10 @@ const Ctpg = () => {
               {selectedLab !== null && (
                 <div className="lab-detail">
                   <h3>{autoData.labs[selectedLab].topic}</h3>
-                  <img src={autoData.labs[selectedLab].image} alt={autoData.labs[selectedLab].topic} />
+                  <img
+                    src={autoData.labs[selectedLab].image}
+                    alt={autoData.labs[selectedLab].topic}
+                  />
                   <p>{autoData.labs[selectedLab].detail}</p>
                 </div>
               )}
@@ -198,7 +219,9 @@ const Ctpg = () => {
           {activeSection === "Faculty" && (
             <div>
               <h2>Faculty Members</h2>
-              <h3><strong>Total Faculty Members: {facultyData.length}</strong></h3>
+              <h3>
+                <strong>Total Faculty Members: {facultyData.length}</strong>
+              </h3>
 
               <div className="auto-faculty-container">
                 {facultyData.map((faculty, index) => (
@@ -207,14 +230,21 @@ const Ctpg = () => {
                     className="auto-faculty-card"
                     onClick={() => window.open(faculty.profileLink, "_blank")}
                   >
-                     <img
+                    <img
                       src={require(`../../../assets/images/faculty images/ct-pg/${faculty.image}`)}
                       alt={faculty.name}
-                     
-                      style={{ width: "95px", height: "95px", objectFit: "cover",  objectPosition: "top", borderRadius: "50%" }}
-                    />  
+                      style={{
+                        width: "95px",
+                        height: "95px",
+                        objectFit: "cover",
+                        objectPosition: "top",
+                        borderRadius: "50%",
+                      }}
+                    />
 
-                    <p><strong>{faculty.name}</strong></p>
+                    <p>
+                      <strong>{faculty.name}</strong>
+                    </p>
                     <p>{faculty.designation}</p>
                   </div>
                 ))}
@@ -226,28 +256,32 @@ const Ctpg = () => {
             <div className="library-container">
               <h2>{autoData.library.name || "Library"}</h2>
               <p className="library-description">
-                {autoData.library.description || "Library details are provided below."}
+                {autoData.library.description ||
+                  "Library details are provided below."}
               </p>
 
               <table className="library-table">
                 <tbody>
-                  {Object.entries(autoData.library.details || {}).map(([key, value], index) => (
-                    <tr key={index}>
-                      <td className="library-key">{key.replace(/_/g, " ")}</td>
-                      <td className="library-value">{value}</td>
-                    </tr>
-                  ))}
+                  {Object.entries(autoData.library.details || {}).map(
+                    ([key, value], index) => (
+                      <tr key={index}>
+                        <td className="library-key">
+                          {key.replace(/_/g, " ")}
+                        </td>
+                        <td className="library-value">{value}</td>
+                      </tr>
+                    )
+                  )}
                 </tbody>
               </table>
             </div>
           )}
-
         </div>
       </div>
 
       <Slider />
       <Footer />
-      <ScrollToTopButton/>
+      <ScrollToTopButton />
     </div>
   );
 };

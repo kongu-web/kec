@@ -1,10 +1,10 @@
-import React from 'react';
-import './IQACAcademicCommittee.css';
-import Navbar from '../../../HomePage/navbar/Navbar';
-import Section from '../../../HomePage/Section/Section';
-import Footer from '../../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../../ScrollToTopButton';
-import '../../../../App.css';
+import React from "react";
+import "./IQACAcademicCommittee.css";
+import Navbar from "../../../HomePage/navbar/Navbar";
+import Section from "../../../HomePage/Section/Section";
+import Footer from "../../../HomePage/Footer/Footer";
+import ScrollToTopButton from "../../../ScrollToTopButton";
+import "../../../../App.css";
 
 const members = [
   { name: "Dr.N.Senthilnathan (CCO Accreditation)", role: "Chairman" },
@@ -23,11 +23,9 @@ const IQACAcademicCommittee = () => {
   return (
     <>
       <Navbar />
-      <Section />
+      {/* <Section/> */}
       <div className="iqac-container">
-        <h2 className="page-title">
-          IQAC, Accreditation and Academic Audit
-        </h2>
+        <h2 className="page-title">IQAC, Accreditation and Academic Audit</h2>
         <div className="iqac-table-wrapper">
           <table className="iqac-table">
             <thead>

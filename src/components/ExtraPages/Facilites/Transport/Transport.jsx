@@ -1,4 +1,4 @@
-import React,{useEffect,useState} from "react";
+import React, { useEffect, useState } from "react";
 import "./Transport.css";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
@@ -36,7 +36,10 @@ const collegeRoutes = [
 ];
 
 const publicRoutes = [
-  ["From Erode to Perundurai (Via - KEC Arch)", "Route Nos. 18, 39, 39-A, 20-B"],
+  [
+    "From Erode to Perundurai (Via - KEC Arch)",
+    "Route Nos. 18, 39, 39-A, 20-B",
+  ],
   ["From Kodumudi (Via - Vellode, KEC Arch)", "Kongu Raja Bus Service"],
   ["From Modakkurichi (Via - Vellode, KEC Arch)", "Route No. P-9"],
   ["From Perundurai (Via - KEC)", "Mini Bus Services"],
@@ -44,53 +47,65 @@ const publicRoutes = [
 
 const Transport = () => {
   const [loading, setLoading] = useState(true);
-    
-      useEffect(() => {
-        const timer = setTimeout(() => setLoading(false), 1500);
-        return () => clearTimeout(timer);
-      }, []);
-    
-    
-      return loading ? <Spinner /> : (
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return loading ? (
+    <Spinner />
+  ) : (
     <>
-    <Section/>
-    <Navbar/>
-    <div className="transport-container">
-      <h2 className="transport-title">College Transport Facilities</h2>
+      {/* <Section/> */}
+      <Navbar />
+      <div className="transport-container">
+        <h2 className="transport-title">College Transport Facilities</h2>
 
-      <div className="transport-section">
-        <h3>Routes</h3>
-        <ul className="transport-list">
-          {collegeRoutes.map(([route, count], index) => (
-            <li key={index}>
-              <span>{route}</span>
-              <span>{count}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
+        <div className="transport-section">
+          <h3>Routes</h3>
+          <ul className="transport-list">
+            {collegeRoutes.map(([route, count], index) => (
+              <li key={index}>
+                <span>{route}</span>
+                <span>{count}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
 
-      <div className="transport-section">
-        <h3>Public Transport Facilities Serving the Campus</h3>
-        <ul className="transport-list">
-          {publicRoutes.map(([route, detail], index) => (
-            <li key={index}>
-              <span>{route}</span>
-              <span>{detail}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
+        <div className="transport-section">
+          <h3>Public Transport Facilities Serving the Campus</h3>
+          <ul className="transport-list">
+            {publicRoutes.map(([route, detail], index) => (
+              <li key={index}>
+                <span>{route}</span>
+                <span>{detail}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
 
-      <div className="transport-extra">
-        <p><strong>Frequent trips</strong> between Perundurai and College from <strong>7.40 A.M. to 8.20 P.M.</strong> and <strong>4.15 P.M. to 7.15 P.M.</strong></p>
-        <p><strong>Location:</strong> 3.00 Kms. from Perundurai Bus Stand on the way to Perundurai Railway Station.</p>
-        <p><strong>Nearest Railway Junction:</strong> Erode Junction (18 Kms.)</p>
-        <p><strong>Nearest Airport:</strong> Coimbatore (70 Kms.)</p>
+        <div className="transport-extra">
+          <p>
+            <strong>Frequent trips</strong> between Perundurai and College from{" "}
+            <strong>7.40 A.M. to 8.20 P.M.</strong> and{" "}
+            <strong>4.15 P.M. to 7.15 P.M.</strong>
+          </p>
+          <p>
+            <strong>Location:</strong> 3.00 Kms. from Perundurai Bus Stand on
+            the way to Perundurai Railway Station.
+          </p>
+          <p>
+            <strong>Nearest Railway Junction:</strong> Erode Junction (18 Kms.)
+          </p>
+          <p>
+            <strong>Nearest Airport:</strong> Coimbatore (70 Kms.)
+          </p>
+        </div>
       </div>
-    </div>
-    <Footer/>
-    <ScrollToTopButton/>
+      <Footer />
+      <ScrollToTopButton />
     </>
   );
 };

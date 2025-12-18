@@ -62,6 +62,51 @@ const Navbar = () => {
   const moreRef = useRef(null);
   let timeoutId = null;
 
+  const menuRoutes = {
+    about: [
+      "/about",
+      "/vision",
+      "/management",
+      "/milestones",
+      "/approvals",
+      "/governing",
+    ],
+    academics: [
+      "/academics",
+      "/programs",
+      "/syllabus",
+      "/calendar",
+      "/examinations",
+      "/value-added",
+    ],
+    departments: ["/departments", "/ug", "/pg", "/phd", "/applied-science"],
+    placement: [
+      "/placement",
+      "/training",
+      "/statistics",
+      "/recruiters",
+      "/career",
+      "/industry",
+    ],
+    campus: [
+      "/campus-life",
+      "/clubs",
+      "/ncc",
+      "/nss",
+      "/yrc",
+      "/sports",
+      "/library",
+      "/hostel",
+      "/transport",
+      "/health",
+      "/welfare",
+    ],
+  };
+
+  const isMenuActive = (routes) =>
+    routes.some((route) => location.pathname.startsWith(route));
+
+
   useEffect(() => {
     const onScroll = () => setSticky(window.scrollY > 50);
     window.addEventListener("scroll", onScroll);
@@ -109,13 +154,13 @@ const Navbar = () => {
 
             {activeUtilityMenu && (
               <div className="submenu">
-                <a href="#">NBA</a>
-                <a href="#">NAAC</a>
-                <a href="#">IQAC</a>
-                <a href="#">NIRF</a>
-                <a href="#">AICTE - E&I</a>
-                <a href="#">AICTE - MCA</a>
-                <a href="#">AICTE - MBA</a>
+                <a href="/nba">NBA</a>
+                <a href="/naac">NAAC</a>
+                {/* <a href="/iqac">IQAC</a> */}
+                <a href="/nirf">NIRF</a>
+                <a href="/aicteet">AICTE - E&T</a>
+                <a href="/aictemca">AICTE - MCA</a>
+                <a href="/aictemba">AICTE - MBA</a>
               </div>
             )}
           </div>
@@ -133,15 +178,15 @@ const Navbar = () => {
 
             {activeUtilityMenu && (
               <div className="submenu">
-                <a href="#">Linways Portal</a>
-                <a href="#">KMS Portal</a>
+                <a href="https://kec.linways.com/">Linways Portal</a>
+                <a href="https://kms.kongu.edu/">KMS Portal</a>
               </div>
             )}
           </div>
           <a>Admission</a>
-          <a>Alumni</a>
-          <a>Online Payment</a>
-          <a>Contact</a>
+          <a href="https://alumni.kongu.edu/">Alumni</a>
+          <a href="/onlinepayment">Online Payment</a>
+          <a href="/contact">Contact</a>
         </div>
       </div>
       {/* ================= EXISTING NAVBAR ================= */}
@@ -169,11 +214,9 @@ const Navbar = () => {
           </li>
 
           <li
-            className={
-              location.pathname.startsWith("/about")
-                ? "active has-dropdown"
-                : "has-dropdown"
-            }
+            className={`${
+              isMenuActive(menuRoutes.about) ? "active" : ""
+            } has-dropdown`}
             onMouseEnter={() => setActiveDropdown(1)}
           >
             About Us
@@ -183,27 +226,32 @@ const Navbar = () => {
                 onMouseEnter={() => setActiveDropdown(1)}
                 onMouseLeave={() => setActiveDropdown(null)}
               >
+                <span onClick={() => navigate("/aboutkec")}>
+                  <MilestonesIcon className="submenu-icon" />
+                  About KEC
+                </span>
+
                 <span onClick={() => navigate("/vision")}>
                   <VisionIcon className="submenu-icon" />
                   Vision & Mission
                 </span>
 
-                <span onClick={() => navigate("/management")}>
+                <span onClick={() => navigate("/officebearers")}>
                   <ManagementIcon className="submenu-icon" />
                   Management / Trust
                 </span>
 
-                <span onClick={() => navigate("/milestones")}>
+                {/* <span onClick={() => navigate("/milestones")}>
                   <MilestonesIcon className="submenu-icon" />
                   Milestones & History
-                </span>
+                </span> */}
 
                 <span onClick={() => navigate("/approvals")}>
                   <ApprovalsIcon className="submenu-icon" />
                   Approvals & Accreditations
                 </span>
 
-                <span onClick={() => navigate("/governing")}>
+                <span onClick={() => navigate("/governingcouncil")}>
                   <GoverningIcon className="submenu-icon" />
                   Governing Council
                 </span>
@@ -268,22 +316,22 @@ const Navbar = () => {
                 onMouseEnter={() => setActiveDropdown(3)}
                 onMouseLeave={() => setActiveDropdown(null)}
               >
-                <span onClick={() => navigate("/vision")}>
+                <span onClick={() => navigate("/ug")}>
                   <GraduateIcon className="submenu-icon" />
                   Under Graduate
                 </span>
 
-                <span onClick={() => navigate("/management")}>
+                <span onClick={() => navigate("/pg")}>
                   <GraduateIcon className="submenu-icon" />
                   Post Graduate
                 </span>
 
-                <span onClick={() => navigate("/milestones")}>
+                <span onClick={() => navigate("/doctoral")}>
                   <DoctoralIcon className="submenu-icon" />
                   Doctoral
                 </span>
 
-                <span onClick={() => navigate("/approvals")}>
+                <span onClick={() => navigate("/appliedscience")}>
                   <AppliedIcon className="submenu-icon" />
                   Applied Science
                 </span>

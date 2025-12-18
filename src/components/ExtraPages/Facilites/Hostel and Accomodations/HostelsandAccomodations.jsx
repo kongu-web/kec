@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import "./HostelsandAccomodations.css";
 import Spinner from "../../../Spinner";
 
@@ -58,41 +58,41 @@ const imageMap = {
 
 const HostelsandAccommodation = () => {
   const [loading, setLoading] = useState(true);
-  
-    useEffect(() => {
-      const timer = setTimeout(() => setLoading(false), 1500);
-      return () => clearTimeout(timer);
-    }, []);
-  
-  
-    return loading ? <Spinner /> : (
-    <>
-    <Section/>
-    <Navbar/>   
-    <div className="hostels-container">
-      <h2 className="hostels-title">Hostels and Accommodation</h2>
-      {Object.entries(hostels).map(([category, items]) => (
-        <div key={category} className="hostel-section">
-          <h3 className="category-title">{category}</h3>
-          <div className="cards-wrapper">
-            {items.map((item, index) => (
-              <div key={index} className="hostel-card">
-                <img
-                  src={imageMap[item]}
-                  alt={item}
-                  className="hostel-image"
-                />
-                <p className="hostel-name">{item}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      ))}
-    </div>
-    <Footer/>
-    <ScrollToTopButton/>
-    </>
 
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return loading ? (
+    <Spinner />
+  ) : (
+    <>
+      {/* <Section/> */}
+      <Navbar />
+      <div className="hostels-container">
+        <h2 className="hostels-title">Hostels and Accommodation</h2>
+        {Object.entries(hostels).map(([category, items]) => (
+          <div key={category} className="hostel-section">
+            <h3 className="category-title">{category}</h3>
+            <div className="cards-wrapper">
+              {items.map((item, index) => (
+                <div key={index} className="hostel-card">
+                  <img
+                    src={imageMap[item]}
+                    alt={item}
+                    className="hostel-image"
+                  />
+                  <p className="hostel-name">{item}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+      <Footer />
+      <ScrollToTopButton />
+    </>
   );
 };
 

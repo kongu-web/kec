@@ -7,7 +7,11 @@ import Navbar from "../../../HomePage/navbar/Navbar";
 import "../../../../App.css";
 
 // Dynamically import all PDF files in the folder
-const nirfContext = require.context("../../../../assets/docs/Footer/Nirf", false, /\.pdf$/);
+const nirfContext = require.context(
+  "../../../../assets/docs/Footer/Nirf",
+  false,
+  /\.pdf$/
+);
 const nirfFiles = nirfContext
   .keys()
   .map((key) => ({
@@ -17,17 +21,19 @@ const nirfFiles = nirfContext
   .sort((a, b) => b.name.localeCompare(a.name)); // Sort descending
 
 // Dynamically import all images from nirf facilities folder
-const imageContext = require.context("../../../../assets/images/Footer/NirfPage", false, /\.(png|jpe?g|webp)$/);
-const nirfImages = imageContext
-  .keys()
-  .map((key) => imageContext(key));
+const imageContext = require.context(
+  "../../../../assets/images/Footer/NirfPage",
+  false,
+  /\.(png|jpe?g|webp)$/
+);
+const nirfImages = imageContext.keys().map((key) => imageContext(key));
 
 const NirfPage = () => {
   const [activeTab, setActiveTab] = useState("mhrd");
 
   return (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
       <div className="nirf-container">
         <h1 className="page-title">NIRF Reports</h1>
@@ -80,11 +86,15 @@ const NirfPage = () => {
 
               <div className="nirf-facilities-gallery">
                 {nirfImages.map((src, index) => (
-                    <div key={index} className="nirf-image-card">
-                    <img src={src} alt={`Facility ${index + 1}`} className="nirf-card-img" />
-                    </div>
+                  <div key={index} className="nirf-image-card">
+                    <img
+                      src={src}
+                      alt={`Facility ${index + 1}`}
+                      className="nirf-card-img"
+                    />
+                  </div>
                 ))}
-            </div>
+              </div>
             </div>
           )}
         </div>

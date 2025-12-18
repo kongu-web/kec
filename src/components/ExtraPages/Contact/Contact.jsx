@@ -1,24 +1,25 @@
-import React,{useState,useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
 import ScrollToTopButton from "../../ScrollToTopButton";
-import Contactimg from '../../../assets/images/aboutkec.jpg';
+import Contactimg from "../../../assets/images/aboutkec.jpg";
 import Spinner from "../../Spinner";
 
 const Contact = () => {
   const [loading, setLoading] = useState(true);
-    
-      useEffect(() => {
-        const timer = setTimeout(() => setLoading(false), 1500);
-        return () => clearTimeout(timer);
-      }, []);
-    
-    
-      return loading ? <Spinner /> : (
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return loading ? (
+    <Spinner />
+  ) : (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
       <div className="contact-container fade-in">
         <h2 className="page-title">Contact Us</h2>
@@ -35,7 +36,10 @@ const Contact = () => {
             <h3>Principal</h3>
             <p>Phone: 04294 - 220583</p>
             <p>Fax: 04294 - 220087</p>
-            <p>Email: <a href="mailto:principal@kongu.ac.in">principal@kongu.ac.in</a></p>
+            <p>
+              Email:{" "}
+              <a href="mailto:principal@kongu.ac.in">principal@kongu.ac.in</a>
+            </p>
           </div>
 
           <div className="contact-card">
@@ -48,7 +52,11 @@ const Contact = () => {
             <h3>Placement & Training Cell</h3>
             <p>Phone: 04294 - 226644, 226564</p>
             <p>Fax: 04294 - 220087</p>
-            <p>Email: <a href="mailto:placement@kongu.ac.in">placement@kongu.ac.in</a>, <a href="mailto:placement@kongu.edu">placement@kongu.edu</a></p>
+            <p>
+              Email:{" "}
+              <a href="mailto:placement@kongu.ac.in">placement@kongu.ac.in</a>,{" "}
+              <a href="mailto:placement@kongu.edu">placement@kongu.edu</a>
+            </p>
           </div>
 
           <div className="contact-card">
@@ -56,7 +64,10 @@ const Contact = () => {
             <p>Phone: 04294 - 225777 (Direct), 226642</p>
             <p>Telefax: 04294 - 225777</p>
             <p>Mobile: +91 9952460698</p>
-            <p>Email: <a href="mailto:keciipc@kongu.ac.in">keciipc@kongu.ac.in</a></p>
+            <p>
+              Email:{" "}
+              <a href="mailto:keciipc@kongu.ac.in">keciipc@kongu.ac.in</a>
+            </p>
           </div>
 
           <div className="contact-card">
@@ -100,7 +111,7 @@ const Contact = () => {
                 <td>Ms. J. Balasaraswathi, Assistant Manager</td>
                 <td>9600162009</td>
               </tr>
-               <tr>
+              <tr>
                 <td>5</td>
                 <td>Hostel Office</td>
                 <td>04294 - 226651</td>

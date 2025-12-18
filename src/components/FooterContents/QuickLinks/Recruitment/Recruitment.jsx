@@ -1,20 +1,20 @@
-import React from 'react';
-import './Recruitment.css';
+import React from "react";
+import "./Recruitment.css";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Section from "../../../HomePage/Section/Section";
 
 const IQAC = () => {
   const handleClick = () => {
-    window.open('https://kms.kongu.edu/recruitment/', '_blank');
+    window.open("https://kms.kongu.edu/recruitment/", "_blank");
   };
 
   const handleClick2 = () => {
-    window.open('https://kms.kongu.edu/nt_recruitment/', '_blank');
+    window.open("https://kms.kongu.edu/nt_recruitment/", "_blank");
   };
 
   return (
     <>
-    <Section />
+      {/* <Section/> */}
       <Navbar />
       <div className="ief-wrapper">
         <button onClick={handleClick} className="navigate-button">
