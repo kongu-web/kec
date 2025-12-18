@@ -55,6 +55,8 @@ const Navbar = () => {
   const [activeDropdown, setActiveDropdown] = useState(null); // Center menu
   const [activeUtilityMenu, setActiveUtilityMenu] = useState(false); // Top utility
 
+  const [openMobileMenu, setOpenMobileMenu] = useState(null);
+
   const [moreOpen, setMoreOpen] = useState(false);
 
   const navigate = useNavigate();
@@ -106,7 +108,6 @@ const Navbar = () => {
   const isMenuActive = (routes) =>
     routes.some((route) => location.pathname.startsWith(route));
 
-
   useEffect(() => {
     const onScroll = () => setSticky(window.scrollY > 50);
     window.addEventListener("scroll", onScroll);
@@ -131,377 +132,619 @@ const Navbar = () => {
   return (
     <>
       {/* ================= TOP UTILITY BAR ================= */}
-      <div className="top-utility-bar">
-        <div className="utility-left">
-          <div class="marquee">
-            <div class="marquee-track">
-              <span>📣 Admission Enquiry 2026</span>
-              <span className="divider">⚡Hands-on Training!</span>
+      <div className="header-container">
+        <div className="top-utility-bar">
+          <div className="utility-left">
+            <div class="marquee">
+              <div class="marquee-track">
+                <span>📣 Admission Enquiry 2026</span>
+                <span className="divider">⚡Hands-on Training!</span>
+              </div>
             </div>
           </div>
-        </div>
 
-        <div className="utility-right">
-          <div
-            className="nav-item has-submenu"
-            onMouseEnter={() => {
-              setActiveUtilityMenu(true);
-              setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
-            }}
-            onMouseLeave={() => setActiveUtilityMenu(false)}
-          >
-            <a href="#">Accreditation</a>
+          <div className="utility-right">
+            <div
+              className="nav-item has-submenu"
+              onMouseEnter={() => {
+                setActiveUtilityMenu(true);
+                setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
+              }}
+              onMouseLeave={() => setActiveUtilityMenu(false)}
+            >
+              <a href="#">Accreditation</a>
 
-            {activeUtilityMenu && (
-              <div className="submenu">
-                <a href="/nba">NBA</a>
-                <a href="/naac">NAAC</a>
-                {/* <a href="/iqac">IQAC</a> */}
-                <a href="/nirf">NIRF</a>
-                <a href="/aicteet">AICTE - E&T</a>
-                <a href="/aictemca">AICTE - MCA</a>
-                <a href="/aictemba">AICTE - MBA</a>
-              </div>
-            )}
-          </div>
+              {activeUtilityMenu && (
+                <div className="submenu">
+                  <a href="/nba">NBA</a>
+                  <a href="/naac">NAAC</a>
+                  {/* <a href="/iqac">IQAC</a> */}
+                  <a href="/nirf">NIRF</a>
+                  <a href="/aicteet">AICTE - E&T</a>
+                  <a href="/aictemca">AICTE - MCA</a>
+                  <a href="/aictemba">AICTE - MBA</a>
+                </div>
+              )}
+            </div>
 
-          <a>Research & Innovation</a>
-          <div
-            className="nav-item has-submenu"
-            onMouseEnter={() => {
-              setActiveUtilityMenu(true);
-              setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
-            }}
-            onMouseLeave={() => setActiveUtilityMenu(false)}
-          >
-            <a href="#">ERP</a>
+            <a>Research & Innovation</a>
+            <div
+              className="nav-item has-submenu"
+              onMouseEnter={() => {
+                setActiveUtilityMenu(true);
+                setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
+              }}
+              onMouseLeave={() => setActiveUtilityMenu(false)}
+            >
+              <a href="#">ERP</a>
 
-            {activeUtilityMenu && (
-              <div className="submenu">
-                <a href="https://kec.linways.com/">Linways Portal</a>
-                <a href="https://kms.kongu.edu/">KMS Portal</a>
-              </div>
-            )}
-          </div>
-          <a>Admission</a>
-          <a href="https://alumni.kongu.edu/">Alumni</a>
-          <a href="/onlinepayment">Online Payment</a>
-          <a href="/contact">Contact</a>
-        </div>
-      </div>
-      {/* ================= EXISTING NAVBAR ================= */}
-      <nav className={`main-navbar ${sticky ? "sticky" : ""}`}>
-        {/* LEFT */}
-        <div className="nav-left">
-          <img src={logo} alt="KEC Logo" className="nav-logo" />
-
-          {/* BADGES */}
-          <div className="nav-badges">
-            <img src={badge41} alt="41 Years" />
-            <img src={nif} alt="NIRF" />
-            <img src={naac} alt="NAAC" className="naac-badge" />
+              {activeUtilityMenu && (
+                <div className="submenu">
+                  <a href="https://kec.linways.com/">Linways Portal</a>
+                  <a href="https://kms.kongu.edu/">KMS Portal</a>
+                </div>
+              )}
+            </div>
+            <a>Admission</a>
+            <a href="https://alumni.kongu.edu/">Alumni</a>
+            <a href="/onlinepayment">Online Payment</a>
+            <a href="/contact">Contact</a>
           </div>
         </div>
+        {/* ================= EXISTING NAVBAR ================= */}
+        <nav className={`main-navbar ${sticky ? "sticky" : ""}`}>
+          {/* LEFT */}
+          <div className="nav-left">
+            <img
+              src={logo}
+              alt="KEC Logo"
+              className="nav-logo"
+              onClick={() => navigate("/")}
+              style={{ cursor: "pointer" }}
+            />
 
-        {/* CENTER MENU */}
-        <ul className="nav-menu">
-          <li
-            className={location.pathname === "/" ? "active" : ""}
-            onMouseEnter={() => setActiveDropdown(null)}
-            onClick={() => navigate("/")}
-          >
-            Home
-          </li>
+            {/* BADGES */}
+            <div className="nav-badges">
+              <img src={badge41} alt="41 Years" />
+              <img src={nif} alt="NIRF" />
+              <img src={naac} alt="NAAC" className="naac-badge" />
+            </div>
+          </div>
 
-          <li
-            className={`${
-              isMenuActive(menuRoutes.about) ? "active" : ""
-            } has-dropdown`}
-            onMouseEnter={() => setActiveDropdown(1)}
-          >
-            About Us
-            {activeDropdown === 1 && (
-              <div
-                className="card-dropdown"
-                onMouseEnter={() => setActiveDropdown(1)}
-                onMouseLeave={() => setActiveDropdown(null)}
-              >
-                <span onClick={() => navigate("/aboutkec")}>
-                  <MilestonesIcon className="submenu-icon" />
-                  About KEC
-                </span>
+          {/* CENTER MENU */}
+          <ul className="nav-menu">
+            <li
+              className={location.pathname === "/" ? "active" : ""}
+              onMouseEnter={() => setActiveDropdown(null)}
+              onClick={() => navigate("/")}
+            >
+              Home
+            </li>
 
-                <span onClick={() => navigate("/vision")}>
-                  <VisionIcon className="submenu-icon" />
-                  Vision & Mission
-                </span>
+            <li
+              className={`${
+                isMenuActive(menuRoutes.about) ? "active" : ""
+              } has-dropdown`}
+              onMouseEnter={() => setActiveDropdown(1)}
+            >
+              About Us
+              {activeDropdown === 1 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(1)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  <span onClick={() => navigate("/aboutkec")}>
+                    <MilestonesIcon className="submenu-icon" />
+                    About KEC
+                  </span>
 
-                <span onClick={() => navigate("/officebearers")}>
-                  <ManagementIcon className="submenu-icon" />
-                  Management / Trust
-                </span>
+                  <span onClick={() => navigate("/vision")}>
+                    <VisionIcon className="submenu-icon" />
+                    Vision & Mission
+                  </span>
 
-                {/* <span onClick={() => navigate("/milestones")}>
+                  <span onClick={() => navigate("/officebearers")}>
+                    <ManagementIcon className="submenu-icon" />
+                    Management / Trust
+                  </span>
+
+                  {/* <span onClick={() => navigate("/milestones")}>
                   <MilestonesIcon className="submenu-icon" />
                   Milestones & History
                 </span> */}
 
-                <span onClick={() => navigate("/approvals")}>
-                  <ApprovalsIcon className="submenu-icon" />
-                  Approvals & Accreditations
-                </span>
+                  <span onClick={() => navigate("/approvals")}>
+                    <ApprovalsIcon className="submenu-icon" />
+                    Approvals & Accreditations
+                  </span>
 
-                <span onClick={() => navigate("/governingcouncil")}>
-                  <GoverningIcon className="submenu-icon" />
-                  Governing Council
-                </span>
-              </div>
-            )}
-          </li>
-
-          <li
-            className={
-              location.pathname.startsWith("/academics")
-                ? "active has-dropdown"
-                : "has-dropdown"
-            }
-            onMouseEnter={() => setActiveDropdown(2)}
-          >
-            Academics
-            {activeDropdown === 2 && (
-              <div
-                className="card-dropdown"
-                onMouseEnter={() => setActiveDropdown(2)}
-                onMouseLeave={() => setActiveDropdown(null)}
-              >
-                <span onClick={() => navigate("/vision")}>
-                  <ProgramsIcon className="submenu-icon" />
-                  Programs Offered (UG | PG | PhD)
-                </span>
-
-                <span onClick={() => navigate("/management")}>
-                  <SyllabusIcon className="submenu-icon" />
-                  Academic Regulations & Syllabus
-                </span>
-
-                <span onClick={() => navigate("/milestones")}>
-                  <CalendarIcon className="submenu-icon" />
-                  Academic Calendar
-                </span>
-
-                <span onClick={() => navigate("/approvals")}>
-                  <ExaminationsIcon className="submenu-icon" />
-                  Office of the COE / Examinations
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <ValueaddIcon className="submenu-icon" />
-                  Value-Added & Skill Courses
-                </span>
-              </div>
-            )}
-          </li>
-          <li
-            className={
-              location.pathname.startsWith("/departments")
-                ? "active has-dropdown"
-                : "has-dropdown"
-            }
-            onMouseEnter={() => setActiveDropdown(3)}
-          >
-            Departments
-            {activeDropdown === 3 && (
-              <div
-                className="card-dropdown"
-                onMouseEnter={() => setActiveDropdown(3)}
-                onMouseLeave={() => setActiveDropdown(null)}
-              >
-                <span onClick={() => navigate("/ug")}>
-                  <GraduateIcon className="submenu-icon" />
-                  Under Graduate
-                </span>
-
-                <span onClick={() => navigate("/pg")}>
-                  <GraduateIcon className="submenu-icon" />
-                  Post Graduate
-                </span>
-
-                <span onClick={() => navigate("/doctoral")}>
-                  <DoctoralIcon className="submenu-icon" />
-                  Doctoral
-                </span>
-
-                <span onClick={() => navigate("/appliedscience")}>
-                  <AppliedIcon className="submenu-icon" />
-                  Applied Science
-                </span>
-              </div>
-            )}
-          </li>
-
-          <li
-            className={
-              location.pathname.startsWith("/placement")
-                ? "active has-dropdown"
-                : "has-dropdown"
-            }
-            onMouseEnter={() => setActiveDropdown(4)}
-          >
-            Placement
-            {activeDropdown === 4 && (
-              <div
-                className="card-dropdown"
-                onMouseEnter={() => setActiveDropdown(4)}
-                onMouseLeave={() => setActiveDropdown(null)}
-              >
-                <span onClick={() => navigate("/vision")}>
-                  <TrainingIcon className="submenu-icon" />
-                  Training & Placement Cell
-                </span>
-
-                <span onClick={() => navigate("/management")}>
-                  <PlacementIcon className="submenu-icon" />
-                  Placement Statistics
-                </span>
-
-                <span onClick={() => navigate("/milestones")}>
-                  <RecruitersIcon className="submenu-icon" />
-                  Recruiters
-                </span>
-
-                <span onClick={() => navigate("/approvals")}>
-                  <TrainingIcon className="submenu-icon" />
-                  Training Programs
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <CareerIcon className="submenu-icon" />
-                  Career Guidance & Higher Studies Cell
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <IndustryIcon className="submenu-icon" />
-                  Industry–Institute Interaction
-                </span>
-              </div>
-            )}
-          </li>
-
-          <li
-            className={
-              location.pathname.startsWith("/campus-life")
-                ? "active has-dropdown"
-                : "has-dropdown"
-            }
-            onMouseEnter={() => setActiveDropdown(5)}
-          >
-            Campus Life
-            {activeDropdown === 5 && (
-              <div
-                className="card-dropdown"
-                onMouseEnter={() => setActiveDropdown(5)}
-                onMouseLeave={() => setActiveDropdown(null)}
-              >
-                <span onClick={() => navigate("/vision")}>
-                  <LifeIcon className="submenu-icon" />
-                  Life @ KEC
-                </span>
-
-                <span onClick={() => navigate("/management")}>
-                  <ClubIcon className="submenu-icon" />
-                  Clubs & Associations
-                </span>
-
-                <span onClick={() => navigate("/milestones")}>
-                  <GeneralIcon className="submenu-icon" />
-                  NCC
-                </span>
-
-                <span onClick={() => navigate("/approvals")}>
-                  <GeneralIcon className="submenu-icon" />
-                  NSS
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <GeneralIcon className="submenu-icon" />
-                  YRC
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <SportsIcon className="submenu-icon" />
-                  Sports & Games
-                </span>
-
-                <span onClick={() => navigate("/milestones")}>
-                  <DanceIcon className="submenu-icon" />
-                  Cultural & Flagship Events
-                </span>
-
-                <span onClick={() => navigate("/approvals")}>
-                  <LibraryIcon className="submenu-icon" />
-                  Library
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <HostelIcon className="submenu-icon" />
-                  Hostel
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <BusIcon className="submenu-icon" />
-                  Transport
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <HealthIcon className="submenu-icon" />
-                  Health Centre
-                </span>
-
-                <span onClick={() => navigate("/governing")}>
-                  <WelfareIcon className="submenu-icon" />
-                  Student Support & Welfare
-                </span>
-              </div>
-            )}
-          </li>
-        </ul>
-
-        {/* RIGHT CTA */}
-        <div className="nav-actions">
-          <button className="enquiry-btn">Enquiry Now</button>
-          <img
-            src={tneaBadge}
-            alt="TNEA Code 2711"
-            className="tnea-badge-img"
-          />
-        </div>
-
-        {/* MOBILE ICON */}
-        <FontAwesomeIcon
-          icon={mobileMenu ? faXmark : faBars}
-          className="mobile-icon"
-          onClick={() => setMobileMenu(!mobileMenu)}
-        />
-
-        {/* MOBILE MENU */}
-        {mobileMenu && (
-          <ul className="mobile-menu">
-            <li onClick={() => navigate("/")}>Home</li>
-            <li onClick={() => toggleDropdown(10)}>
-              About Us <FontAwesomeIcon icon={faChevronDown} />
+                  <span onClick={() => navigate("/governingcouncil")}>
+                    <GoverningIcon className="submenu-icon" />
+                    Governing Council
+                  </span>
+                </div>
+              )}
             </li>
-            {activeDropdown === 10 && (
-              <>
-                <li onClick={() => navigate("/aboutkec")}>About KEC</li>
-                <li onClick={() => navigate("/vision")}>Vision & Mission</li>
-              </>
-            )}
-            <li onClick={() => navigate("/placement")}>Placement</li>
-            <li onClick={() => navigate("/onlinepayment")}>Online Payment</li>
-            <li onClick={() => navigate("/contact")}>Contact</li>
+
+            <li
+              className={
+                location.pathname.startsWith("/academics")
+                  ? "active has-dropdown"
+                  : "has-dropdown"
+              }
+              onMouseEnter={() => setActiveDropdown(2)}
+            >
+              Academics
+              {activeDropdown === 2 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(2)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  <span onClick={() => navigate("/vision")}>
+                    <ProgramsIcon className="submenu-icon" />
+                    Programs Offered (UG | PG | PhD)
+                  </span>
+
+                  <span onClick={() => navigate("/management")}>
+                    <SyllabusIcon className="submenu-icon" />
+                    Academic Regulations & Syllabus
+                  </span>
+
+                  <span onClick={() => navigate("/milestones")}>
+                    <CalendarIcon className="submenu-icon" />
+                    Academic Calendar
+                  </span>
+
+                  <span onClick={() => navigate("/approvals")}>
+                    <ExaminationsIcon className="submenu-icon" />
+                    Office of the COE / Examinations
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <ValueaddIcon className="submenu-icon" />
+                    Value-Added & Skill Courses
+                  </span>
+                </div>
+              )}
+            </li>
+            <li
+              className={
+                location.pathname.startsWith("/departments")
+                  ? "active has-dropdown"
+                  : "has-dropdown"
+              }
+              onMouseEnter={() => setActiveDropdown(3)}
+            >
+              Departments
+              {activeDropdown === 3 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(3)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  <span onClick={() => navigate("/ug")}>
+                    <GraduateIcon className="submenu-icon" />
+                    Under Graduate
+                  </span>
+
+                  <span onClick={() => navigate("/pg")}>
+                    <GraduateIcon className="submenu-icon" />
+                    Post Graduate
+                  </span>
+
+                  <span onClick={() => navigate("/doctoral")}>
+                    <DoctoralIcon className="submenu-icon" />
+                    Doctoral
+                  </span>
+
+                  <span onClick={() => navigate("/appliedscience")}>
+                    <AppliedIcon className="submenu-icon" />
+                    Applied Science
+                  </span>
+                </div>
+              )}
+            </li>
+
+            <li
+              className={
+                location.pathname.startsWith("/placement")
+                  ? "active has-dropdown"
+                  : "has-dropdown"
+              }
+              onMouseEnter={() => setActiveDropdown(4)}
+            >
+              Placement
+              {activeDropdown === 4 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(4)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  <span onClick={() => navigate("/vision")}>
+                    <TrainingIcon className="submenu-icon" />
+                    Training & Placement Cell
+                  </span>
+
+                  <span onClick={() => navigate("/management")}>
+                    <PlacementIcon className="submenu-icon" />
+                    Placement Statistics
+                  </span>
+
+                  <span onClick={() => navigate("/milestones")}>
+                    <RecruitersIcon className="submenu-icon" />
+                    Recruiters
+                  </span>
+
+                  <span onClick={() => navigate("/approvals")}>
+                    <TrainingIcon className="submenu-icon" />
+                    Training Programs
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <CareerIcon className="submenu-icon" />
+                    Career Guidance & Higher Studies Cell
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <IndustryIcon className="submenu-icon" />
+                    Industry–Institute Interaction
+                  </span>
+                </div>
+              )}
+            </li>
+
+            <li
+              className={
+                location.pathname.startsWith("/campus-life")
+                  ? "active has-dropdown"
+                  : "has-dropdown"
+              }
+              onMouseEnter={() => setActiveDropdown(5)}
+            >
+              Campus Life
+              {activeDropdown === 5 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(5)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  <span onClick={() => navigate("/vision")}>
+                    <LifeIcon className="submenu-icon" />
+                    Life @ KEC
+                  </span>
+
+                  <span onClick={() => navigate("/management")}>
+                    <ClubIcon className="submenu-icon" />
+                    Clubs & Associations
+                  </span>
+
+                  <span onClick={() => navigate("/milestones")}>
+                    <GeneralIcon className="submenu-icon" />
+                    NCC
+                  </span>
+
+                  <span onClick={() => navigate("/approvals")}>
+                    <GeneralIcon className="submenu-icon" />
+                    NSS
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <GeneralIcon className="submenu-icon" />
+                    YRC
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <SportsIcon className="submenu-icon" />
+                    Sports & Games
+                  </span>
+
+                  <span onClick={() => navigate("/milestones")}>
+                    <DanceIcon className="submenu-icon" />
+                    Cultural & Flagship Events
+                  </span>
+
+                  <span onClick={() => navigate("/approvals")}>
+                    <LibraryIcon className="submenu-icon" />
+                    Library
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <HostelIcon className="submenu-icon" />
+                    Hostel
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <BusIcon className="submenu-icon" />
+                    Transport
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <HealthIcon className="submenu-icon" />
+                    Health Centre
+                  </span>
+
+                  <span onClick={() => navigate("/governing")}>
+                    <WelfareIcon className="submenu-icon" />
+                    Student Support & Welfare
+                  </span>
+                </div>
+              )}
+            </li>
           </ul>
-        )}
-      </nav>
+
+          {/* RIGHT CTA */}
+          <div className="nav-actions">
+            <button className="enquiry-btn">Enquiry Now</button>
+            <img
+              src={tneaBadge}
+              alt="TNEA Code 2711"
+              className="tnea-badge-img"
+            />
+          </div>
+
+          {/* MOBILE ICON */}
+          <FontAwesomeIcon
+            icon={faBars}
+            className="mobile-icon"
+            onClick={() => setMobileMenu(true)}
+          />
+
+          {/* MOBILE MENU */}
+          {mobileMenu && (
+            <div className={`mobile-drawer ${mobileMenu ? "open" : ""}`}>
+              <div className="mobile-drawer-header">
+                <img
+                  src={logo}
+                  alt="KEC"
+                  className="mobile-logo"
+                  onClick={() => {
+                    navigate("/");
+                    setMobileMenu(false);
+                  }}
+                />
+
+                <div className="mobile-header-actions">
+                  <button
+                    className="mobile-enquiry-btn"
+                    onClick={() => {
+                      navigate("/enquiry");
+                      setMobileMenu(false);
+                    }}
+                  >
+                    Enquiry Now
+                  </button>
+
+                  <FontAwesomeIcon
+                    icon={faXmark}
+                    className="mobile-close"
+                    onClick={() => setMobileMenu(false)}
+                  />
+                </div>
+              </div>
+
+              <div className="mobile-drawer-body">
+                <ul className="mobile-menu-list">
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "accreditation"
+                          ? null
+                          : "accreditation"
+                      )
+                    }
+                  >
+                    Accreditation <span className="arrow">▾</span>
+                  </li>
+
+                  {openMobileMenu === "accreditation" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("/nba")}>NBA</li>
+                      <li onClick={() => navigate("/naac")}>NAAC</li>
+                      <li onClick={() => navigate("/nirf")}>NIRF</li>
+                      <li onClick={() => navigate("/aicteet")}>AICTE - E&T</li>
+                      <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
+                      <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
+                    </ul>
+                  )}
+
+                  <li onClick={() => navigate("#")}>Research & Innovation</li>
+
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(openMobileMenu === "erp" ? null : "erp")
+                    }
+                  >
+                    ERP <span className="arrow">▾</span>
+                  </li>
+
+                  {openMobileMenu === "erp" && (
+                    <ul className="mobile-submenu">
+                      <li
+                        onClick={() =>
+                          window.open("https://kec.linways.com/", "_blank")
+                        }
+                      >
+                        Linways Portal
+                      </li>
+
+                      <li
+                        onClick={() =>
+                          window.open("https://kms.kongu.edu/", "_blank")
+                        }
+                      >
+                        KMS Portal
+                      </li>
+                    </ul>
+                  )}
+
+                  <li onClick={() => navigate("/admission")}>Admission</li>
+                  <li
+                    onClick={() =>
+                      window.open("https://alumni.kongu.edu/", "_blank")
+                    }
+                  >
+                    Alumni
+                  </li>
+                  <li onClick={() => navigate("/onlinepayment")}>
+                    Online Payment
+                  </li>
+                  <li onClick={() => navigate("/contact")}>Contact</li>
+
+                  <li className="divider">Main Menu</li>
+
+                  <li onClick={() => navigate("/")}>Home</li>
+
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "about" ? null : "about"
+                      )
+                    }
+                  >
+                    About Us <span className="arrow">▾</span>
+                  </li>
+
+                  {openMobileMenu === "about" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("/aboutkec")}>About KEC</li>
+                      <li onClick={() => navigate("/vision")}>
+                        Vision & Mission
+                      </li>
+                      <li onClick={() => navigate("/officebearers")}>
+                        Management / Trust
+                      </li>
+                      <li onClick={() => navigate("/approvals")}>
+                        Approvals & Accreditations
+                      </li>
+                      <li onClick={() => navigate("/governingcouncil")}>
+                        Governing Council
+                      </li>
+                    </ul>
+                  )}
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "academics" ? null : "academics"
+                      )
+                    }
+                  >
+                    Academics <span className="arrow">▾</span>
+                  </li>
+
+                  {openMobileMenu === "academics" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("#")}>
+                        Programs Offered (UG | PG | PhD)
+                      </li>
+                      <li onClick={() => navigate("#")}>
+                        Academic Regulations & Syllabus
+                      </li>
+                      <li onClick={() => navigate("#")}>Academic Calendar</li>
+                      <li onClick={() => navigate("#")}>
+                        Office of the COE / Examinations
+                      </li>
+                      <li onClick={() => navigate("#")}>
+                        Value-Added & Skill Courses
+                      </li>
+                    </ul>
+                  )}
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "departments" ? null : "departments"
+                      )
+                    }
+                  >
+                    Departments <span className="arrow">▾</span>
+                  </li>
+                  {openMobileMenu === "departments" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("/ug")}>Under Graduate</li>
+                      <li onClick={() => navigate("/pg")}>Post Graduate</li>
+                      <li onClick={() => navigate("/doctoral")}>Doctoral</li>
+                      <li onClick={() => navigate("/appliedscience")}>
+                        Applied Science
+                      </li>
+                    </ul>
+                  )}
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "placement" ? null : "placement"
+                      )
+                    }
+                  >
+                    Placement <span className="arrow">▾</span>
+                  </li>
+                  {openMobileMenu === "placement" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("#")}>
+                        Training & Placement Cell
+                      </li>
+                      <li onClick={() => navigate("#")}>
+                        Placement Statistics
+                      </li>
+                      <li onClick={() => navigate("#")}>Recruiters</li>
+                      <li onClick={() => navigate("#")}>Training Programs</li>
+                      <li onClick={() => navigate("#")}>
+                        Career Guidance & Higher Studies Cell
+                      </li>
+                      <li onClick={() => navigate("#")}>
+                        Industry–Institute Interaction
+                      </li>
+                    </ul>
+                  )}
+                  <li
+                    className="mobile-menu-item"
+                    onClick={() =>
+                      setOpenMobileMenu(
+                        openMobileMenu === "campus-life" ? null : "campus-life"
+                      )
+                    }
+                  >
+                    Campus Life <span className="arrow">▾</span>
+                  </li>
+                  {openMobileMenu === "campus-life" && (
+                    <ul className="mobile-submenu">
+                      <li onClick={() => navigate("#")}>Life @ KEC</li>
+                      <li onClick={() => navigate("#")}>
+                        Clubs & Associations
+                      </li>
+                      <li onClick={() => navigate("#")}>NCC</li>
+                      <li onClick={() => navigate("#")}>NSS</li>
+                      <li onClick={() => navigate("#")}>YRC</li>
+                      <li onClick={() => navigate("#")}>Sports & Games</li>
+                      <li onClick={() => navigate("#")}>
+                        Cultural & Flagship Events
+                      </li>
+                      <li onClick={() => navigate("#")}>Library</li>
+                      <li onClick={() => navigate("#")}>Hostel</li>
+                      <li onClick={() => navigate("#")}>Transport</li>
+                      <li onClick={() => navigate("#")}>Health Centre</li>
+                      <li onClick={() => navigate("#")}>
+                        Student Support & Welfare
+                      </li>
+                    </ul>
+                  )}
+                  {/* <li className="mobile-enquiry">
+                    <button onClick={() => navigate("/enquiry")}>
+                      Enquiry Now
+                    </button>
+                  </li> */}
+                </ul>
+              </div>
+            </div>
+          )}
+        </nav>
+      </div>
     </>
   );
 };
