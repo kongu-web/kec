@@ -52,7 +52,9 @@ import { useLocation } from "react-router-dom";
 const Navbar = () => {
   const [sticky, setSticky] = useState(false);
   const [mobileMenu, setMobileMenu] = useState(false);
-  const [activeDropdown, setActiveDropdown] = useState(null);
+  const [activeDropdown, setActiveDropdown] = useState(null); // Center menu
+  const [activeUtilityMenu, setActiveUtilityMenu] = useState(false); // Top utility
+
   const [moreOpen, setMoreOpen] = useState(false);
 
   const navigate = useNavigate();
@@ -95,22 +97,47 @@ const Navbar = () => {
         </div>
 
         <div className="utility-right">
-          <div className="nav-item has-submenu">
+          <div
+            className="nav-item has-submenu"
+            onMouseEnter={() => {
+              setActiveUtilityMenu(true);
+              setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
+            }}
+            onMouseLeave={() => setActiveUtilityMenu(false)}
+          >
             <a href="#">Accreditation</a>
 
-            <div className="submenu">
-              <a href="#">NBA</a>
-              <a href="#">NAAC</a>
-              <a href="#">IQAC</a>
-              <a href="#">NIRF</a>
-              <a href="#">AICTE - E&I</a>
-              <a href="#">AICTE - MCA</a>
-              <a href="#">AICTE - MBA</a>
-            </div>
+            {activeUtilityMenu && (
+              <div className="submenu">
+                <a href="#">NBA</a>
+                <a href="#">NAAC</a>
+                <a href="#">IQAC</a>
+                <a href="#">NIRF</a>
+                <a href="#">AICTE - E&I</a>
+                <a href="#">AICTE - MCA</a>
+                <a href="#">AICTE - MBA</a>
+              </div>
+            )}
           </div>
 
           <a>Research & Innovation</a>
-          <a>ERP</a>
+          <div
+            className="nav-item has-submenu"
+            onMouseEnter={() => {
+              setActiveUtilityMenu(true);
+              setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
+            }}
+            onMouseLeave={() => setActiveUtilityMenu(false)}
+          >
+            <a href="#">ERP</a>
+
+            {activeUtilityMenu && (
+              <div className="submenu">
+                <a href="#">Linways Portal</a>
+                <a href="#">KMS Portal</a>
+              </div>
+            )}
+          </div>
           <a>Admission</a>
           <a>Alumni</a>
           <a>Online Payment</a>
