@@ -61,7 +61,7 @@ const Auto = () => {
       .catch((error) => console.error("Error fetching CSV:", error));
   }, []);
 
-    // Redirect to R&D sections
+  // Redirect to R&D sections
   useEffect(() => {
     if (activeSection === "R&D (Academic)" && autoData.rnd?.academic) {
       window.location.href = autoData.rnd.academic;
@@ -75,7 +75,7 @@ const Auto = () => {
     <div>
       <div className="navbar-section-wrapper">
         <Navbar />
-        <Section />
+        {/* <Section/> */}
       </div>
 
       <div className="auto-container">
@@ -101,7 +101,9 @@ const Auto = () => {
           {activeSection === "Home" && autoData && (
             <div className="auto-content">
               <h2>About the Department</h2>
-              <p className="bigdata">{autoData.about || "Information not available."}</p>
+              <p className="bigdata">
+                {autoData.about || "Information not available."}
+              </p>
 
               <h2>Department Details</h2>
               <table className="dept-details-table">
@@ -111,7 +113,9 @@ const Auto = () => {
                     ["Intake", autoData.intake],
                   ].map(([label, value], index) => (
                     <tr key={index}>
-                      <td><strong>{label}</strong></td>
+                      <td>
+                        <strong>{label}</strong>
+                      </td>
                       <td>{value || "N/A"}</td>
                     </tr>
                   ))}
@@ -119,16 +123,24 @@ const Auto = () => {
               </table>
 
               {["vision", "mission", "peo", "po", "pso"].map((key) => (
-                <div key={key} className={`dropdown-section ${dropdowns[key] ? "active" : ""}`}>
+                <div
+                  key={key}
+                  className={`dropdown-section ${
+                    dropdowns[key] ? "active" : ""
+                  }`}
+                >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
                   </button>
                   <div className="dropdown-content">
                     <ul>
-                      {Array.isArray(autoData[key])
-                        ? autoData[key].map((point, index) => <li key={index}>{point}</li>)
-                        : <li>{autoData[key] || "N/A"}</li>
-                      }
+                      {Array.isArray(autoData[key]) ? (
+                        autoData[key].map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData[key] || "N/A"}</li>
+                      )}
                     </ul>
                   </div>
                 </div>
@@ -140,8 +152,11 @@ const Auto = () => {
             <div>
               <h2>Highlights</h2>
               <ul className="highlights-list">
-                {Object.entries(autoData.highlights || {}).map(([category, details], index) =>
-                  details === true || details === "" ? <li key={index}>{category.replace(/_/g, " ")}</li> : null
+                {Object.entries(autoData.highlights || {}).map(
+                  ([category, details], index) =>
+                    details === true || details === "" ? (
+                      <li key={index}>{category.replace(/_/g, " ")}</li>
+                    ) : null
                 )}
               </ul>
 
@@ -153,13 +168,18 @@ const Auto = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {Object.entries(autoData.highlights || {}).map(([category, details], index) =>
-                    details !== true && details !== "" ? (
-                      <tr key={index}>
-                        <td>{category.replace(/_/g, " ")}</td>
-                        <td>{Array.isArray(details) ? details.join(", ") : details}</td>
-                      </tr>
-                    ) : null
+                  {Object.entries(autoData.highlights || {}).map(
+                    ([category, details], index) =>
+                      details !== true && details !== "" ? (
+                        <tr key={index}>
+                          <td>{category.replace(/_/g, " ")}</td>
+                          <td>
+                            {Array.isArray(details)
+                              ? details.join(", ")
+                              : details}
+                          </td>
+                        </tr>
+                      ) : null
                   )}
                 </tbody>
               </table>
@@ -172,7 +192,9 @@ const Auto = () => {
                     <div className="milestone-events">
                       {Array.isArray(milestone.events) ? (
                         <ul>
-                          {milestone.events.map((event, idx) => <li key={idx}>{event}</li>)}
+                          {milestone.events.map((event, idx) => (
+                            <li key={idx}>{event}</li>
+                          ))}
                         </ul>
                       ) : (
                         <p>{milestone.event}</p>
@@ -191,7 +213,9 @@ const Auto = () => {
                 {autoData.labs.map((lab, index) => (
                   <div
                     key={index}
-                    className={`lab-card ${selectedLab === index ? "active" : ""}`}
+                    className={`lab-card ${
+                      selectedLab === index ? "active" : ""
+                    }`}
                     onClick={() => setSelectedLab(index)}
                   >
                     {lab.topic}
@@ -215,23 +239,32 @@ const Auto = () => {
           {activeSection === "Faculty" && (
             <div>
               <h2>Faculty Members</h2>
-              <h3><strong>Total Faculty Members: {facultyData.length}</strong></h3>
+              <h3>
+                <strong>Total Faculty Members: {facultyData.length}</strong>
+              </h3>
 
               <div className="auto-faculty-container">
                 {facultyData.map((faculty, index) => (
                   <div
                     key={index}
                     className="auto-faculty-card"
-                    onClick={() => window.open(faculty.profileLink, "_blank")}>
-
+                    onClick={() => window.open(faculty.profileLink, "_blank")}
+                  >
                     <img
                       src={require(`../../../assets/images/faculty images/automobile/${faculty.image}`)}
                       alt={faculty.name}
-                     
-                      style={{ width: "95px", height: "95px", objectFit: "cover",  objectPosition: "top", borderRadius: "50%" }}
-                    />  
+                      style={{
+                        width: "95px",
+                        height: "95px",
+                        objectFit: "cover",
+                        objectPosition: "top",
+                        borderRadius: "50%",
+                      }}
+                    />
 
-                    <p><strong>{faculty.name}</strong></p>
+                    <p>
+                      <strong>{faculty.name}</strong>
+                    </p>
                     <p>{faculty.designation}</p>
                   </div>
                 ))}
@@ -243,17 +276,22 @@ const Auto = () => {
             <div className="library-container">
               <h2>{autoData.library.name || "Library"}</h2>
               <p className="library-description">
-                {autoData.library.description || "Library details are provided below."}
+                {autoData.library.description ||
+                  "Library details are provided below."}
               </p>
 
               <table className="library-table">
                 <tbody>
-                  {Object.entries(autoData.library.details || {}).map(([key, value], index) => (
-                    <tr key={index}>
-                      <td className="library-key">{key.replace(/_/g, " ")}</td>
-                      <td className="library-value">{value}</td>
-                    </tr>
-                  ))}
+                  {Object.entries(autoData.library.details || {}).map(
+                    ([key, value], index) => (
+                      <tr key={index}>
+                        <td className="library-key">
+                          {key.replace(/_/g, " ")}
+                        </td>
+                        <td className="library-value">{value}</td>
+                      </tr>
+                    )
+                  )}
                 </tbody>
               </table>
             </div>

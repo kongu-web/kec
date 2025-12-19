@@ -8,26 +8,50 @@ import ScrollToTopButton from "../ScrollToTopButton";
 import "../../App.css";
 
 const ugPrograms = [
-    { sno: 1, name: "B.Sc Computer Systems and Design", duration: "3 Years", year: 1996, route:"ctug" },
-    { sno: 2, name: "B.Sc Information Systems", duration: "3 Years", year: 2000, route:"ctug" },
-    { sno: 3, name: "B.Sc Software Systems", duration: "3 Years", year: 2007, route:"ctug" },
-  ];
-  
-  const pgPrograms = [
-    { sno: 1, name: "M.Sc Software Systems", duration: "5 Years", year: 1998, route:"ctpg" },
-  ];
+  {
+    sno: 1,
+    name: "B.Sc Computer Systems and Design",
+    duration: "3 Years",
+    year: 1996,
+    route: "ctug",
+  },
+  {
+    sno: 2,
+    name: "B.Sc Information Systems",
+    duration: "3 Years",
+    year: 2000,
+    route: "ctug",
+  },
+  {
+    sno: 3,
+    name: "B.Sc Software Systems",
+    duration: "3 Years",
+    year: 2007,
+    route: "ctug",
+  },
+];
+
+const pgPrograms = [
+  {
+    sno: 1,
+    name: "M.Sc Software Systems",
+    duration: "5 Years",
+    year: 1998,
+    route: "ctpg",
+  },
+];
 
 const AppliedScience = () => {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
-    const handleNavigate = (route) => {
-      navigate(`/${route}`);
-    };
-  
-    return (
-      <>
-      <Section/>
-      <Navbar/>
+  const handleNavigate = (route) => {
+    navigate(`/${route}`);
+  };
+
+  return (
+    <>
+      {/* <Section/> */}
+      <Navbar />
       <div className="ug-container">
         <h2 className="page-title">Applied Sciences Programmes (UG)</h2>
         <div className="aps-table-wrapper">
@@ -90,10 +114,9 @@ const AppliedScience = () => {
           </table>
         </div>
       </div>
-      <Footer/>
-      <ScrollToTopButton/>
-      </>
-    );
-  };
-  export default AppliedScience;
-
+      <Footer />
+      <ScrollToTopButton />
+    </>
+  );
+};
+export default AppliedScience;

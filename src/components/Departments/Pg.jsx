@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./Pg.css";
 import Section from "../HomePage/Section/Section";
@@ -8,32 +8,70 @@ import ScrollToTopButton from "../ScrollToTopButton";
 import Spinner from "../Spinner";
 
 const pgPrograms = [
-  { sno: 1, name: "M.E Computer Science and Engineering", duration: "2 Years", year: 1999, route: "cse"  },
-  { sno: 2, name: "M.E. VLSI Design", duration: "2 Years", year: 2003,route: "ece" },
-  { sno: 3, name: "M.E Structural Engineering", duration: "2 Years", year: 2012,route: "civil" },
-  { sno: 4, name: "M.Tech Food Technology", duration: "2 Years", year: 2013 ,route: "foodtech"},
-  { sno: 5, name: "Master of Business Administration (MBA)", duration: "2 Years", year: 1994,route: "mba" },
-  { sno: 6, name: "Master of Computer Applications (MCA)", duration: "2 Years", year: 1993, route: "mca" },
+  {
+    sno: 1,
+    name: "M.E Computer Science and Engineering",
+    duration: "2 Years",
+    year: 1999,
+    route: "cse",
+  },
+  {
+    sno: 2,
+    name: "M.E. VLSI Design",
+    duration: "2 Years",
+    year: 2003,
+    route: "ece",
+  },
+  {
+    sno: 3,
+    name: "M.E Structural Engineering",
+    duration: "2 Years",
+    year: 2012,
+    route: "civil",
+  },
+  {
+    sno: 4,
+    name: "M.Tech Food Technology",
+    duration: "2 Years",
+    year: 2013,
+    route: "foodtech",
+  },
+  {
+    sno: 5,
+    name: "Master of Business Administration (MBA)",
+    duration: "2 Years",
+    year: 1994,
+    route: "mba",
+  },
+  {
+    sno: 6,
+    name: "Master of Computer Applications (MCA)",
+    duration: "2 Years",
+    year: 1993,
+    route: "mca",
+  },
 ];
 
 const Pg = () => {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
-    const handleNavigate = (route) => {
-      navigate(`/${route}`);
-    };
-  
-    const [loading, setLoading] = useState(true);
-    
-      useEffect(() => {
-        const timer = setTimeout(() => setLoading(false), 1500);
-        return () => clearTimeout(timer);
-      }, []);
-    
-      return loading ? <Spinner /> :  (
-      <>
-      <Section/>
-      <Navbar/>
+  const handleNavigate = (route) => {
+    navigate(`/${route}`);
+  };
+
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return loading ? (
+    <Spinner />
+  ) : (
+    <>
+      {/* <Section/> */}
+      <Navbar />
       <div className="pg-container">
         <h2 className="page-title">Postgraduate Programmes</h2>
         <div className="pgpage-table-wrapper">
@@ -66,9 +104,9 @@ const Pg = () => {
           </table>
         </div>
       </div>
-      <Footer/>
-      <ScrollToTopButton/>
-      </>
-    );
-  };
-  export default Pg;
+      <Footer />
+      <ScrollToTopButton />
+    </>
+  );
+};
+export default Pg;

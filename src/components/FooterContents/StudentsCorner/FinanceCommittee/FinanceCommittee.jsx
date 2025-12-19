@@ -1,27 +1,26 @@
-import React from 'react';
-import './FinanceCommittee.css';
-import Section from '../../../HomePage/Section/Section';
-import Navbar from '../../../HomePage/navbar/Navbar';
-import Footer from '../../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../../ScrollToTopButton';
-import '../../../../App.css';
+import React from "react";
+import "./FinanceCommittee.css";
+import Section from "../../../HomePage/Section/Section";
+import Navbar from "../../../HomePage/navbar/Navbar";
+import Footer from "../../../HomePage/Footer/Footer";
+import ScrollToTopButton from "../../../ScrollToTopButton";
+import "../../../../App.css";
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMoneyBillWave } from '@fortawesome/free-solid-svg-icons';
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faMoneyBillWave } from "@fortawesome/free-solid-svg-icons";
 
 const FinanceCommittee = () => {
   const committeeMembers = [
-    { name: 'Dr. R. Parameshwaran  (Principal)', role: 'Chairman' },
-    { name: 'Dr. P. N. Palanisamy (Chemistry)', role: 'Member' },
-    { name: 'Mr. T. Chandrasekaran (AO)', role: 'Member' },
-    { name: 'Dr. P. Balasubramanie (Registrar)', role: 'Member' },
-    { name: 'Mr. M. Murali (AR)', role: 'Convener' }
+    { name: "Dr. R. Parameshwaran  (Principal)", role: "Chairman" },
+    { name: "Dr. P. N. Palanisamy (Chemistry)", role: "Member" },
+    { name: "Mr. T. Chandrasekaran (AO)", role: "Member" },
+    { name: "Dr. P. Balasubramanie (Registrar)", role: "Member" },
+    { name: "Mr. M. Murali (AR)", role: "Convener" },
   ];
 
   return (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
       <div className="financecommittee-container">
         <h1 className="page-title">Finance Committee</h1>

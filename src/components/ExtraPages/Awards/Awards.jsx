@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import './Awards.css';
-import Navbar from '../../HomePage/navbar/Navbar';
-import Section from '../../HomePage/Section/Section';
-import Footer from '../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../ScrollToTopButton';
-import Spinner from '../../Spinner';
+import React, { useEffect, useState } from "react";
+import "./Awards.css";
+import Navbar from "../../HomePage/navbar/Navbar";
+import Section from "../../HomePage/Section/Section";
+import Footer from "../../HomePage/Footer/Footer";
+import ScrollToTopButton from "../../ScrollToTopButton";
+import Spinner from "../../Spinner";
 
 const Awards = () => {
   const [pdfs, setPdfs] = useState([]);
@@ -12,9 +12,13 @@ const Awards = () => {
 
   useEffect(() => {
     const fetchPDFs = async () => {
-      const context = require.context('../../../assets/docs/Awards', false, /\.pdf$/);
+      const context = require.context(
+        "../../../assets/docs/Awards",
+        false,
+        /\.pdf$/
+      );
       let files = context.keys().map((key) => {
-        const fullName = key.replace('./', '').replace('.pdf', '');
+        const fullName = key.replace("./", "").replace(".pdf", "");
         const displayName = fullName.substring(3); // remove prefix
         return {
           name: displayName,
@@ -22,7 +26,7 @@ const Awards = () => {
           url: context(key),
         };
       });
-      
+
       // Sort based on original name (with aa, ab...) in descending order
       files.sort((a, b) => b.original.localeCompare(a.original));
 
@@ -35,7 +39,7 @@ const Awards = () => {
 
   return (
     <>
-      <Section/>
+      {/* <Section/> */}
       <Navbar />
       <div className="awards-container">
         <h2 className="awards-heading">Awards & Recognitions</h2>
@@ -43,12 +47,16 @@ const Awards = () => {
           <Spinner />
         ) : (
           <div className="awards-list">
-           {pdfs.map((pdf, index) => (
-              <a key={index} href={pdf.url} target='_blank' className="award-card">
+            {pdfs.map((pdf, index) => (
+              <a
+                key={index}
+                href={pdf.url}
+                target="_blank"
+                className="award-card"
+              >
                 {pdf.name}
               </a>
             ))}
-
           </div>
         )}
       </div>

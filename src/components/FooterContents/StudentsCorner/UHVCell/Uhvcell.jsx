@@ -1,20 +1,20 @@
-import React from 'react';
-import './Uhvcell.css';
-import Section from '../../../HomePage/Section/Section';
-import Navbar from '../../../HomePage/navbar/Navbar';
-import Footer from '../../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../../ScrollToTopButton';
-import '../../../../App.css';
+import React from "react";
+import "./Uhvcell.css";
+import Section from "../../../HomePage/Section/Section";
+import Navbar from "../../../HomePage/navbar/Navbar";
+import Footer from "../../../HomePage/Footer/Footer";
+import ScrollToTopButton from "../../../ScrollToTopButton";
+import "../../../../App.css";
 
 const data = [
   {
     "": {
-      "Chairman": "Dr. R. Parameshwaran, Principal / 9942820583",
-      "Convener": "Dr. G. Murugesan, CCO-Academic / 9865273774",
-      "Coordinator": "Dr. S. Varadhaganapathy, IT / 9443034110"
+      Chairman: "Dr. R. Parameshwaran, Principal / 9942820583",
+      Convener: "Dr. G. Murugesan, CCO-Academic / 9865273774",
+      Coordinator: "Dr. S. Varadhaganapathy, IT / 9443034110",
     },
     "Faculty Representatives": {
-      "Members": [
+      Members: [
         "Dr. S. Manoj / Civil",
         "Mr. A. Saravanan / Mechanical",
         "Dr. N. Muralidharan / Mechatronics",
@@ -32,21 +32,21 @@ const data = [
         "Ms.T.Kalpana / MCA",
         "Dr.S.Karunakaran / CT-UG",
         "Dr.P.Ananthi / CT-PG",
-        "Dr. M. Malathy / Physics"
-      ]
+        "Dr. M. Malathy / Physics",
+      ],
     },
     "Staff Representatives": {
-      "Members": [
+      Members: [
         "Ms.B.Gayathri, Junior Assistant / Academic Cell",
         "Mr. K.T.Arun, Lab Assistant / IT",
         "Mr. K. Palanisamy / Security Guard",
         "Mr. S. Prabhakaran / Foreman",
         "Mr. K. Palanisamy / Housekeeper",
-        "Mr. S. Kolandhaivel / Driver"
-      ]
+        "Mr. S. Kolandhaivel / Driver",
+      ],
     },
     "Student Representatives": {
-      "Members": [
+      Members: [
         "Mr. S.Suganth / Civil",
         "Mr. M.Sasibala / Mechanical",
         "Mr. S. Shivakarthikeyan / Mechatronics",
@@ -63,10 +63,10 @@ const data = [
         "Mr. S. Sanjaykumar / MBA",
         "Mr. G. Nisanth / MCA",
         "Mr. N.D. Shiva Sanjay / CT-UG",
-        "Mr. P. Madhan / CT-PG"
-      ]
-    }
-  }
+        "Mr. P. Madhan / CT-PG",
+      ],
+    },
+  },
 ];
 
 const Uhvcell = () => {
@@ -85,7 +85,9 @@ const Uhvcell = () => {
           <tbody>
             {Object.entries(value).map(([role, val], i) => (
               <tr key={i}>
-                <td className="titledataforstudentcentric"><strong>{role}</strong></td>
+                <td className="titledataforstudentcentric">
+                  <strong>{role}</strong>
+                </td>
                 <td>{renderValue(val)}</td>
               </tr>
             ))}
@@ -99,7 +101,7 @@ const Uhvcell = () => {
 
   return (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
 
       <div className="student-centric-container">
@@ -107,10 +109,19 @@ const Uhvcell = () => {
 
         <div className="uhvcell-intro">
           <p>
-           <strong>UHV Cell (Universal Human Values Cell)</strong> is constituted with the following members.<br />
+            <strong>UHV Cell (Universal Human Values Cell)</strong> is
+            constituted with the following members.
+            <br />
             For further details, refer this link:&nbsp;
-            <a href="Guidelines for the formation of UHV Cell at Universities and Institutions.pdf" target="_blank" rel="noopener noreferrer">
-              <em>Guidelines for the formation of UHV Cell at Universities and Institutions.pdf</em>
+            <a
+              href="Guidelines for the formation of UHV Cell at Universities and Institutions.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <em>
+                Guidelines for the formation of UHV Cell at Universities and
+                Institutions.pdf
+              </em>
             </a>
           </p>
         </div>

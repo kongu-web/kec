@@ -1,29 +1,34 @@
-import React,{useEffect,useState} from 'react';
-import './Nirf.css';
-import Navbar from '../../HomePage/navbar/Navbar';
-import Footer from '../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../ScrollToTopButton';
-import Section from '../../HomePage/Section/Section';
-import Spinner from '../../Spinner';
-import '../../../App.css';
+import React, { useEffect, useState } from "react";
+import "./Nirf.css";
+import Navbar from "../../HomePage/navbar/Navbar";
+import Footer from "../../HomePage/Footer/Footer";
+import ScrollToTopButton from "../../ScrollToTopButton";
+import Section from "../../HomePage/Section/Section";
+import Spinner from "../../Spinner";
+import "../../../App.css";
 
 const Nirf = () => {
   const [loading, setLoading] = useState(true);
-  
-    useEffect(() => {
-      const timer = setTimeout(() => setLoading(false), 1500);
-      return () => clearTimeout(timer);
-    }, []);
-  
-  
-    return loading ? <Spinner /> : (
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return loading ? (
+    <Spinner />
+  ) : (
     <>
-      <Section />
+      {/* <Section/> */}
       <Navbar />
       <div className="nirf-container">
-        <h2 className="page-title">NIRF (National Institution Ranking Framework) 2024</h2>
+        <h2 className="page-title">
+          NIRF (National Institution Ranking Framework) 2024
+        </h2>
         <p className="nirf-description">
-          Kongu Engineering College ranked in the <span className="highlight">101–150 band</span> in Engineering category in India Ranking 2024 under NIRF, MHRD, Govt. of India.
+          Kongu Engineering College ranked in the{" "}
+          <span className="highlight">101–150 band</span> in Engineering
+          category in India Ranking 2024 under NIRF, MHRD, Govt. of India.
         </p>
       </div>
       <Footer />

@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./Snh.css";
 import Section from "../HomePage/Section/Section";
@@ -8,30 +8,32 @@ import ScrollToTopButton from "../ScrollToTopButton";
 import Spinner from "../Spinner";
 
 const pgPrograms = [
-  { sno: 1, name: "Mathematics", route: "maths"  },
+  { sno: 1, name: "Mathematics", route: "maths" },
   { sno: 2, name: "Physics", route: "physics" },
   { sno: 3, name: "Chemistry", route: "chemistry" },
-  { sno: 4, name: "English", route: "english"},
+  { sno: 4, name: "English", route: "english" },
 ];
 
 const Snh = () => {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
-    const handleNavigate = (route) => {
-      navigate(`/${route}`);
-    };
-  
-    const [loading, setLoading] = useState(true);
+  const handleNavigate = (route) => {
+    navigate(`/${route}`);
+  };
+
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => setLoading(false), 1500);
     return () => clearTimeout(timer);
   }, []);
 
-  return loading ? <Spinner /> :  (
-      <>
-      <Section/>
-      <Navbar/>
+  return loading ? (
+    <Spinner />
+  ) : (
+    <>
+      {/* <Section/> */}
+      <Navbar />
       <div className="ug-container">
         <h2 className="ug-title">Postgraduate Programmes</h2>
         <div className="ug-table-wrapper">
@@ -60,9 +62,9 @@ const Snh = () => {
           </table>
         </div>
       </div>
-      <Footer/>
-      <ScrollToTopButton/>
-      </>
-    );
-  };
-  export default Snh;
+      <Footer />
+      <ScrollToTopButton />
+    </>
+  );
+};
+export default Snh;
