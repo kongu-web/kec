@@ -126,7 +126,19 @@ const Footer = () => {
               <li>Code of Conduct and Ethics</li>
               <li>Finance Committee</li>
               <li>Grievance Redressal Committee</li>
-              <li>Internal Complaint Committee</li>
+              <li>
+                Grievance Redressal and Empowerment Committee for SC/ST Students
+              </li>
+              <li>
+                Internal Complaint Committee / Anti-Sexual Harassment Cell
+              </li>
+              <li>IQAC Accrediation and Academic Audit Committee</li>
+              <li>Institute Industry Cell</li>
+              <li>Research & IPR Committee</li>
+              <li>
+                Institution Policy Document & Green, Energy and Environment
+                Audit Committee
+              </li>
               <li>Media Cell</li>
               <li>Students Counselling Cell</li>
               <li>UHV Cell</li>
@@ -146,6 +158,7 @@ const Footer = () => {
               <li>RTI</li>
               <li>Mandatory Disclosure</li>
               <li>Audit Report</li>
+              <li>Certificate Genuineness Verification</li>
               <li>AICTE - CSS</li>
             </ul>
           </div>
@@ -170,7 +183,7 @@ const Footer = () => {
 
       {/* FOOTER BOTTOM */}
       <div className="footer-bottom">
-        <p>© 2026 Kongu Engineering College. All Rights Reserved.</p>
+        <p>© 2026 KONGU ENGINEERING COLLEGE. All Rights Reserved.</p>
 
         <div className="footer-social">
           <a href="#">
