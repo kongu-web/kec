@@ -55,6 +55,8 @@ const Navbar = () => {
   const [activeDropdown, setActiveDropdown] = useState(null); // Center menu
   const [activeUtilityMenu, setActiveUtilityMenu] = useState(false); // Top utility
 
+  const [isOpen, setIsOpen] = useState(false);
+
   const [openMobileMenu, setOpenMobileMenu] = useState(null);
 
   const [moreOpen, setMoreOpen] = useState(false);
@@ -491,258 +493,222 @@ const Navbar = () => {
             onClick={() => setMobileMenu(true)}
           />
 
+          {/* OVERLAY */}
+          <div
+            className={`mobile-overlay ${mobileMenu ? "show" : ""}`}
+            onClick={() => setMobileMenu(false)}
+          />
+
           {/* MOBILE MENU */}
-          {mobileMenu && (
-            <div className={`mobile-drawer ${mobileMenu ? "open" : ""}`}>
-              <div className="mobile-drawer-header">
-                <img
-                  src={logo}
-                  alt="KEC"
-                  className="mobile-logo"
+          {/* {mobileMenu && ( */}
+          <div className={`mobile-drawer ${mobileMenu ? "open" : ""}`}>
+            <div className="mobile-drawer-header">
+              <img
+                src={logo}
+                alt="KEC"
+                className="mobile-logo"
+                onClick={() => {
+                  navigate("/");
+                  setMobileMenu(false);
+                }}
+              />
+
+              <div className="mobile-header-actions">
+                <button
+                  className="mobile-enquiry-btn"
                   onClick={() => {
-                    navigate("/");
-                    setMobileMenu(false);
+                    navigate("/enquiry");
                   }}
-                />
+                >
+                  Enquiry Now
+                </button>
 
-                <div className="mobile-header-actions">
-                  <button
-                    className="mobile-enquiry-btn"
-                    onClick={() => {
-                      navigate("/enquiry");
-                      setMobileMenu(false);
-                    }}
-                  >
-                    Enquiry Now
-                  </button>
-
-                  <FontAwesomeIcon
-                    icon={faXmark}
-                    className="mobile-close"
-                    onClick={() => setMobileMenu(false)}
-                  />
-                </div>
-              </div>
-
-              <div className="mobile-drawer-body">
-                <ul className="mobile-menu-list">
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "accreditation"
-                          ? null
-                          : "accreditation"
-                      )
-                    }
-                  >
-                    Accreditation <span className="arrow">▾</span>
-                  </li>
-
-                  {openMobileMenu === "accreditation" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("/nba")}>NBA</li>
-                      <li onClick={() => navigate("/naac")}>NAAC</li>
-                      <li onClick={() => navigate("/nirf")}>NIRF</li>
-                      <li onClick={() => navigate("/aicteet")}>AICTE - E&T</li>
-                      <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
-                      <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
-                    </ul>
-                  )}
-
-                  <li onClick={() => navigate("#")}>Research & Innovation</li>
-
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(openMobileMenu === "erp" ? null : "erp")
-                    }
-                  >
-                    ERP <span className="arrow">▾</span>
-                  </li>
-
-                  {openMobileMenu === "erp" && (
-                    <ul className="mobile-submenu">
-                      <li
-                        onClick={() =>
-                          window.open("https://kec.linways.com/", "_blank")
-                        }
-                      >
-                        Linways Portal
-                      </li>
-
-                      <li
-                        onClick={() =>
-                          window.open("https://kms.kongu.edu/", "_blank")
-                        }
-                      >
-                        KMS Portal
-                      </li>
-                    </ul>
-                  )}
-
-                  <li onClick={() => navigate("/admission")}>Admission</li>
-                  <li
-                    onClick={() =>
-                      window.open("https://alumni.kongu.edu/", "_blank")
-                    }
-                  >
-                    Alumni
-                  </li>
-                  <li onClick={() => navigate("/onlinepayment")}>
-                    Online Payment
-                  </li>
-                  <li onClick={() => navigate("/contact")}>Contact</li>
-
-                  <li className="divider">Main Menu</li>
-
-                  <li onClick={() => navigate("/")}>Home</li>
-
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "about" ? null : "about"
-                      )
-                    }
-                  >
-                    About Us <span className="arrow">▾</span>
-                  </li>
-
-                  {openMobileMenu === "about" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("/aboutkec")}>About KEC</li>
-                      <li onClick={() => navigate("/vision")}>
-                        Vision & Mission
-                      </li>
-                      <li onClick={() => navigate("/officebearers")}>
-                        Management / Trust
-                      </li>
-                      <li onClick={() => navigate("/approvals")}>
-                        Approvals & Accreditations
-                      </li>
-                      <li onClick={() => navigate("/governingcouncil")}>
-                        Governing Council
-                      </li>
-                    </ul>
-                  )}
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "academics" ? null : "academics"
-                      )
-                    }
-                  >
-                    Academics <span className="arrow">▾</span>
-                  </li>
-
-                  {openMobileMenu === "academics" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("#")}>
-                        Programs Offered (UG | PG | PhD)
-                      </li>
-                      <li onClick={() => navigate("#")}>
-                        Academic Regulations & Syllabus
-                      </li>
-                      <li onClick={() => navigate("#")}>Academic Calendar</li>
-                      <li onClick={() => navigate("#")}>
-                        Office of the COE / Examinations
-                      </li>
-                      <li onClick={() => navigate("#")}>
-                        Value-Added & Skill Courses
-                      </li>
-                    </ul>
-                  )}
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "departments" ? null : "departments"
-                      )
-                    }
-                  >
-                    Departments <span className="arrow">▾</span>
-                  </li>
-                  {openMobileMenu === "departments" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("/ug")}>Under Graduate</li>
-                      <li onClick={() => navigate("/pg")}>Post Graduate</li>
-                      <li onClick={() => navigate("/doctoral")}>Doctoral</li>
-                      <li onClick={() => navigate("/appliedscience")}>
-                        Applied Science
-                      </li>
-                    </ul>
-                  )}
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "placement" ? null : "placement"
-                      )
-                    }
-                  >
-                    Placement <span className="arrow">▾</span>
-                  </li>
-                  {openMobileMenu === "placement" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("#")}>
-                        Training & Placement Cell
-                      </li>
-                      <li onClick={() => navigate("#")}>
-                        Placement Statistics
-                      </li>
-                      <li onClick={() => navigate("#")}>Recruiters</li>
-                      <li onClick={() => navigate("#")}>Training Programs</li>
-                      <li onClick={() => navigate("#")}>
-                        Career Guidance & Higher Studies Cell
-                      </li>
-                      <li onClick={() => navigate("#")}>
-                        Industry–Institute Interaction
-                      </li>
-                    </ul>
-                  )}
-                  <li
-                    className="mobile-menu-item"
-                    onClick={() =>
-                      setOpenMobileMenu(
-                        openMobileMenu === "campus-life" ? null : "campus-life"
-                      )
-                    }
-                  >
-                    Campus Life <span className="arrow">▾</span>
-                  </li>
-                  {openMobileMenu === "campus-life" && (
-                    <ul className="mobile-submenu">
-                      <li onClick={() => navigate("#")}>Life @ KEC</li>
-                      <li onClick={() => navigate("#")}>
-                        Clubs & Associations
-                      </li>
-                      <li onClick={() => navigate("#")}>NCC</li>
-                      <li onClick={() => navigate("#")}>NSS</li>
-                      <li onClick={() => navigate("#")}>YRC</li>
-                      <li onClick={() => navigate("#")}>Sports & Games</li>
-                      <li onClick={() => navigate("#")}>
-                        Cultural & Flagship Events
-                      </li>
-                      <li onClick={() => navigate("#")}>Library</li>
-                      <li onClick={() => navigate("#")}>Hostel</li>
-                      <li onClick={() => navigate("#")}>Transport</li>
-                      <li onClick={() => navigate("#")}>Health Centre</li>
-                      <li onClick={() => navigate("#")}>
-                        Student Support & Welfare
-                      </li>
-                    </ul>
-                  )}
-                  {/* <li className="mobile-enquiry">
-                    <button onClick={() => navigate("/enquiry")}>
-                      Enquiry Now
-                    </button>
-                  </li> */}
-                </ul>
+                {/* <FontAwesomeIcon
+                  icon={faXmark}
+                  className="mobile-close"
+                  onClick={() => setMobileMenu(false)}
+                /> */}
               </div>
             </div>
-          )}
+
+            <div className="mobile-drawer-body">
+              <ul className="mobile-menu-list">
+                <li onClick={() => navigate("/")}>Home</li>
+
+                {/* ABOUT */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "about" ? null : "about"
+                    )
+                  }
+                >
+                  About Us <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "about" && (
+                  <ul className="mobile-submenu">
+                    <li onClick={() => navigate("/aboutkec")}>About KEC</li>
+                    <li onClick={() => navigate("/vision")}>
+                      Vision & Mission
+                    </li>
+                    <li onClick={() => navigate("/officebearers")}>
+                      Management / Trust
+                    </li>
+                    <li onClick={() => navigate("/approvals")}>
+                      Approvals & Accreditations
+                    </li>
+                    <li onClick={() => navigate("/governingcouncil")}>
+                      Governing Council
+                    </li>
+                  </ul>
+                )}
+
+                {/* ACADEMICS */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "academics" ? null : "academics"
+                    )
+                  }
+                >
+                  Academics <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "academics" && (
+                  <ul className="mobile-submenu">
+                    <li>Programs Offered (UG | PG | PhD)</li>
+                    <li>Academic Regulations & Syllabus</li>
+                    <li>Academic Calendar</li>
+                    <li>Office of the COE / Examinations</li>
+                    <li>Value-Added & Skill Courses</li>
+                  </ul>
+                )}
+
+                {/* DEPARTMENTS */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "departments" ? null : "departments"
+                    )
+                  }
+                >
+                  Departments <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "departments" && (
+                  <ul className="mobile-submenu">
+                    <li onClick={() => navigate("/ug")}>Under Graduate</li>
+                    <li onClick={() => navigate("/pg")}>Post Graduate</li>
+                    <li onClick={() => navigate("/doctoral")}>Doctoral</li>
+                    <li onClick={() => navigate("/appliedscience")}>
+                      Applied Science
+                    </li>
+                  </ul>
+                )}
+
+                {/* PLACEMENT */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "placement" ? null : "placement"
+                    )
+                  }
+                >
+                  Placement <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "placement" && (
+                  <ul className="mobile-submenu">
+                    <li>Training & Placement Cell</li>
+                    <li>Placement Statistics</li>
+                    <li>Recruiters</li>
+                    <li>Training Programs</li>
+                    <li>Career Guidance & Higher Studies Cell</li>
+                    <li>Industry–Institute Interaction</li>
+                  </ul>
+                )}
+
+                {/* CAMPUS LIFE */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "campus-life" ? null : "campus-life"
+                    )
+                  }
+                >
+                  Campus Life <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "campus-life" && (
+                  <ul className="mobile-submenu">
+                    <li>Life @ KEC</li>
+                    <li>Clubs & Associations</li>
+                    <li>NCC</li>
+                    <li>NSS</li>
+                    <li>YRC</li>
+                    <li>Sports & Games</li>
+                    <li>Cultural & Flagship Events</li>
+                    <li>Library</li>
+                    <li>Hostel</li>
+                    <li>Transport</li>
+                    <li>Health Centre</li>
+                    <li>Student Support & Welfare</li>
+                  </ul>
+                )}
+
+                {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
+                <li className="divider">Utility Menu</li>
+
+                {/* ACCREDITATION */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "accreditation"
+                        ? null
+                        : "accreditation"
+                    )
+                  }
+                >
+                  Accreditation <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "accreditation" && (
+                  <ul className="mobile-submenu">
+                    <li onClick={() => navigate("/nba")}>NBA</li>
+                    <li onClick={() => navigate("/naac")}>NAAC</li>
+                    <li onClick={() => navigate("/nirf")}>NIRF</li>
+                    <li>AICTE - E&T</li>
+                    <li>AICTE - MCA</li>
+                    <li>AICTE - MBA</li>
+                  </ul>
+                )}
+
+                {/* ERP */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(openMobileMenu === "erp" ? null : "erp")
+                  }
+                >
+                  ERP <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "erp" && (
+                  <ul className="mobile-submenu">
+                    <li>Linways Portal</li>
+                    <li>KMS Portal</li>
+                  </ul>
+                )}
+
+                <li onClick={() => navigate("/admission")}>Admission</li>
+                <li onClick={() => navigate("/onlinepayment")}>
+                  Online Payment
+                </li>
+                <li onClick={() => navigate("/contact")}>Contact</li>
+              </ul>
+            </div>
+          </div>
+          {/* )} */}
         </nav>
       </div>
     </>

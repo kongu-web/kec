@@ -403,6 +403,15 @@
   transition: transform 0.35s ease;
   display: flex;
   flex-direction: column;
+  /* box-shadow: 6px 0 20px rgba(0, 0, 0, 0.25); */
+}
+
+.mobile-drawer {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.mobile-drawer.open {
+  box-shadow: 5px 10px 230px rgba(0, 167, 209, 0.873);
 }
 
 /* OPEN STATE */
@@ -417,6 +426,21 @@
   justify-content: space-between;
   padding: 12px 14px;
   border-bottom: 1px solid #eee;
+}
+
+.mobile-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.35s ease;
+  z-index: 9998;
+}
+
+.mobile-overlay.show {
+  opacity: 1;
+  visibility: visible;
 }
 
 .mobile-header-left {
