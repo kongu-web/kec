@@ -32,7 +32,6 @@
   align-items: center;
   gap: 10px;
   padding: 0 24px;
-  position: relative;
   white-space: nowrap;
 
   /* INCREASE LEFT WIDTH */
@@ -96,7 +95,7 @@
 
 /* NAV ITEM */
 .nav-item {
-  position: relative;
+ position: relative;
 }
 
 /* SUBMENU */
@@ -166,6 +165,7 @@
 
 /* ================= MAIN NAVBAR ================= */
 .main-navbar {
+  position: relative; 
   display: flex;
   align-items: center;
   justify-content: space-between;

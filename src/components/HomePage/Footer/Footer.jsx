@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Footer.css";
 import { useNavigate } from "react-router-dom";
-  
+import { useState } from "react";
 
 
 import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/Mandatory Disclosure 29.7.2025.pdf";
@@ -42,6 +42,13 @@ import footerlogo from "../../../assets/images/Icon/footer_icon/footer-logo.png"
 
 
 const Footer = () => {
+
+  const [openSection, setOpenSection] = useState(null);
+
+  const toggleSection = (index) => {
+    setOpenSection(openSection === index ? null : index);
+  };
+
   return (
     <footer className="footer">
       {/* TOP CONTACT BAR */}
@@ -67,17 +74,34 @@ const Footer = () => {
         <img src={footerlogo} alt="KEC" className="footer-watermark" />
         <div className="footer-columns">
           <div className="footer-col">
-            <div className="footer-heading">
+            <div
+              className="footer-heading mobile-toggle"
+              onClick={() => toggleSection(1)}
+            >
               <IconSvg1 className="heading-icon" />
               <h4>About & Institution</h4>
+              <span className="arrow">{openSection === 1 ? "−" : "+"}</span>
             </div>
 
-            <ul>
-              <li>About KEC</li>
-              <li>Organization Structure</li>
-              <li>Strategic Plan</li>
-              <li>Best Practices</li>
-              <li>Service Rules & HR Policy</li>
+            <ul className={`footer-menu ${openSection === 1 ? "open" : ""}`}>
+              <li>
+                <a href="/aboutkec">About KEC</a>
+              </li>
+              <li>
+                <a
+                  href={organizationStructurePDF}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Organization Structure
+                </a>
+              </li>
+              <li>
+                <a href="/strategicplan">Strategic Plan</a>
+              </li>
+              <li>
+                <a href="/best-practices">Best Practices</a>
+              </li>
             </ul>
           </div>
 
@@ -88,13 +112,37 @@ const Footer = () => {
             </div>
 
             <ul>
-              <li>Student Centric Activities</li>
-              <li>Professional Societies</li>
-              <li>Patents</li>
-              <li>Research & IPR Committee</li>
-              <li>Institution Innovation Council</li>
-              <li>Institute Industry Cell</li>
-              <li>Full Time PhD</li>
+              <li>
+                <a href="/student-centric-activities">
+                  Student Centric Activities
+                </a>
+              </li>
+              <li>
+                <a
+                  href={professional_socieites_2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Professional Societies
+                </a>
+              </li>
+              <li>
+                <a href="http://rnd.kongu.edu/patents.php">Patents</a>
+              </li>
+              <li>
+                <a href="/research-ipr">Research & IPR Committee</a>
+              </li>
+              <li>
+                <a href="#">Institution Innovation Council</a>
+              </li>
+              <li>
+                <a href="/industry-cell">Institute Industry Cell</a>
+              </li>
+              <li>
+                <a href={fulltimephd} target="_blank" rel="noopener noreferrer">
+                  Full Time PhD
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -104,14 +152,50 @@ const Footer = () => {
               <h4>Student Corner</h4>
             </div>
             <ul>
-              <li>Kaavul Udhavi App</li>
-              <li>Help Desk</li>
-              <li>Help Desk Committee</li>
-              <li>Vidya Lakshmi Portal</li>
-              <li>PM-USP Scholarship</li>
-              <li>Library Committee</li>
-              <li>24x7 Women Help Line</li>
-              <li>Feedback</li>
+              <li>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.amtexsystems.kaavaluthavi"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Kaavul Udhavi App
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeEG2dO3g7BzpzP6c4MSwdsg0QXDNY0c9b2SAZzTfgkcPdFcA/viewform?usp=header"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Desk
+                </a>
+              </li>
+              <li>
+                <a href="/helpdeskcommittee">Help Desk Committee</a>
+              </li>
+              <li>
+                <a
+                  href="https://www.vidyalakshmi.co.in/student/registration"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Vidya Lakshmi Portal
+                </a>
+              </li>
+              <li>
+                <a href={pmsss} target="_blank" rel="noopener noreferrer">
+                  PM-USP Scholarship
+                </a>
+              </li>
+              <li>
+                <a href="/library-committee">Library Committee</a>
+              </li>
+              <li>
+                <a href="/women-helpline">24x7 Women Help Line</a>
+              </li>
+              <li>
+                <a href="/feedback">Feedback</a>
+              </li>
             </ul>
           </div>
 
@@ -121,27 +205,58 @@ const Footer = () => {
               <h4>Committees & Cells</h4>
             </div>
             <ul>
-              <li>Anti-ragging Cell</li>
-              <li>Anti-ragging Squad</li>
-              <li>Code of Conduct and Ethics</li>
-              <li>Finance Committee</li>
-              <li>Grievance Redressal Committee</li>
               <li>
-                Grievance Redressal and Empowerment Committee for SC/ST Students
+                <a href="/antiragging-cell">Antiragging Cell</a>
               </li>
               <li>
-                Internal Complaint Committee / Anti-Sexual Harassment Cell
+                <a href="/antiragging-squad">Antiragging Squad</a>
               </li>
-              <li>IQAC Accrediation and Academic Audit Committee</li>
-              <li>Institute Industry Cell</li>
-              <li>Research & IPR Committee</li>
               <li>
-                Institution Policy Document & Green, Energy and Environment
-                Audit Committee
+                <a href="/ethics-committee">Code of Conduct and Ethics</a>
               </li>
-              <li>Media Cell</li>
-              <li>Students Counselling Cell</li>
-              <li>UHV Cell</li>
+              <li>
+                <a href="/finance-committee">Finance Committee</a>
+              </li>
+              <li>
+                <a href="/grievance-committee">Grievance Redressal Committee</a>
+              </li>
+              <li>
+                <a href="/scst-grievance-committee">
+                  Grievance Redressal and Empowerment Committee for SC/ST
+                  Students
+                </a>
+              </li>
+              <li>
+                <a href="/internal-complaint-committee">
+                  Internal Complaint Committee / Anti-Sexual Harassment Cell
+                </a>
+              </li>
+              <li>
+                <a href="/iqac-audit">
+                  IQAC Accrediation and Academic Audit Committee
+                </a>
+              </li>
+              <li>
+                <a href="/industry-cell">Institute Industry Cell</a>
+              </li>
+              <li>
+                <a href="/research-ipr">Research & IPR Committee</a>
+              </li>
+              <li>
+                <a href="/green-energy-audit">
+                  Institution Policy Document & Green, Energy and Environment
+                  Audit Committee
+                </a>
+              </li>
+              <li>
+                <a href="/media-cell">Media Cell</a>
+              </li>
+              <li>
+                <a href="/counselling-cell">Students Counselling Cell</a>
+              </li>
+              <li>
+                <a href="/Uhvcell">UHV Cell</a>
+              </li>
             </ul>
           </div>
 
@@ -151,15 +266,47 @@ const Footer = () => {
               <h4>Accreditation & Statutory</h4>
             </div>
             <ul>
-              <li>NAAC</li>
-              <li>NIRF</li>
-              <li>ARIIA Reports</li>
-              <li>IQAC</li>
-              <li>RTI</li>
-              <li>Mandatory Disclosure</li>
-              <li>Audit Report</li>
-              <li>Certificate Genuineness Verification</li>
-              <li>AICTE - CSS</li>
+              <li>
+                <a href="/naac">NAAC</a>
+              </li>
+              <li>
+                <a href="/nirfpage">NIRF</a>
+              </li>
+              <li>
+                <a href="/ariia">ARIIA Reports</a>
+              </li>
+              <li>
+                <a href="/iqac-audit">IQAC</a>
+              </li>
+              <li>
+                <a href={rti} target="_blank" rel="noopener noreferrer">
+                  RTI
+                </a>
+              </li>
+              <li>
+                <a
+                  href={mandatoryDisclosurePDF}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Mandatory Disclosure
+                </a>
+              </li>
+              <li>
+                <a href="/audit-report">Audit Report</a>
+              </li>
+              <li>
+                <a
+                  href="https://kongu.directverify.in/student/#/home"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Certificate Genuineness Verification
+                </a>
+              </li>
+              <li>
+                <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
+              </li>
             </ul>
           </div>
 
@@ -169,13 +316,51 @@ const Footer = () => {
               <h4>Quick Access</h4>
             </div>
             <ul>
-              <li>Kongu CRS</li>
-              <li>KEC Web Album</li>
-              <li>Student Details</li>
-              <li>Fitness Protocol</li>
-              <li>Grievance Portal</li>
-              <li>Supporting Staff</li>
-              <li>Undertaking</li>
+              <li>
+                <a href="/kongucrs">Kongu CRS</a>
+              </li>
+              <li>
+                <a href="/webalbum">KEC Web Album</a>
+              </li>
+              <li>
+                <a
+                  href={student_details}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Student Details
+                </a>
+              </li>
+              <li>
+                <a href="/fitness-protocols">Fitness Protocol</a>
+              </li>
+              <li>
+                <a
+                  href="https://kms.kongu.edu/grievance/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Grievance Portal
+                </a>
+              </li>
+              <li>
+                <a
+                  href={supporting_staff2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Supporting Staff
+                </a>
+              </li>
+              <li>
+                <a
+                  href={kecundertaking}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Undertaking
+                </a>
+              </li>
             </ul>
           </div>
         </div>
