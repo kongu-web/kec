@@ -4,7 +4,6 @@ import "./Footer.css";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
-
 import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/Mandatory Disclosure 29.7.2025.pdf";
 import organizationStructurePDF from "../../../assets/docs/Footer/OrganizationStructure/KEC_OrganizationStructure.pdf";
 import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/KECCodeofConductHandbook.pdf";
@@ -19,7 +18,6 @@ import pmsss from "../../../assets/docs/Footer/PMSSScholarship/pmsss.pdf";
 import selfdeclaration from "../../../assets/docs/Footer/SelfDeclaration/kec_selfdeclaration.pdf";
 import fulltimephd from "../../../assets/docs/Footer/FulltimePHD/fulltime_phd.pdf";
 import rti from "../../../assets/docs/Footer/RTI/kec_rti.pdf";
-
 
 import "./Footer.css";
 
@@ -40,13 +38,11 @@ import { ReactComponent as IconSvg6 } from "../../../assets/images/Icon/footer_i
 
 import footerlogo from "../../../assets/images/Icon/footer_icon/footer-logo.png";
 
-
 const Footer = () => {
+  const [openIndex, setOpenIndex] = useState(null);
 
-  const [openSection, setOpenSection] = useState(null);
-
-  const toggleSection = (index) => {
-    setOpenSection(openSection === index ? null : index);
+  const toggleFooter = (index) => {
+    setOpenIndex(openIndex === index ? null : index);
   };
 
   return (
@@ -74,16 +70,15 @@ const Footer = () => {
         <img src={footerlogo} alt="KEC" className="footer-watermark" />
         <div className="footer-columns">
           <div className="footer-col">
-            <div
-              className="footer-heading mobile-toggle"
-              onClick={() => toggleSection(1)}
-            >
-              <IconSvg1 className="heading-icon" />
-              <h4>About & Institution</h4>
-              <span className="arrow">{openSection === 1 ? "−" : "+"}</span>
+            <div className="footer-heading" onClick={() => toggleFooter(1)}>
+              <div className="heading-left">
+                <IconSvg1 className="heading-icon" />
+                <h4>About & Institution</h4>
+              </div>
+              <span className="toggle-icon">+</span>
             </div>
 
-            <ul className={`footer-menu ${openSection === 1 ? "open" : ""}`}>
+            <ul className={`footer-menu ${openIndex === 1 ? "open" : ""}`}>
               <li>
                 <a href="/aboutkec">About KEC</a>
               </li>
@@ -102,16 +97,28 @@ const Footer = () => {
               <li>
                 <a href="/best-practices">Best Practices</a>
               </li>
+              <li>
+                <a
+                  href={rulesandhr2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Service Rules & HR Policy
+                </a>
+              </li>
             </ul>
           </div>
 
           <div className="footer-col">
-            <div className="footer-heading">
-              <IconSvg2 className="heading-icon" />
-              <h4>Academics & Research</h4>
+            <div className="footer-heading" onClick={() => toggleFooter(2)}>
+              <div className="heading-left">
+                <IconSvg2 className="heading-icon" />
+                <h4>Academics & Research</h4>
+              </div>
+              <span className="toggle-icon">+</span>
             </div>
 
-            <ul>
+            <ul className={`footer-menu ${openIndex === 2 ? "open" : ""}`}>
               <li>
                 <a href="/student-centric-activities">
                   Student Centric Activities
@@ -147,11 +154,14 @@ const Footer = () => {
           </div>
 
           <div className="footer-col">
-            <div className="footer-heading">
-              <IconSvg3 className="heading-icon" />
-              <h4>Student Corner</h4>
+            <div className="footer-heading" onClick={() => toggleFooter(3)}>
+              <div className="heading-left">
+                <IconSvg3 className="heading-icon" />
+                <h4>Student Corner</h4>
+              </div>
+              <span className="toggle-icon">+</span>
             </div>
-            <ul>
+            <ul className={`footer-menu ${openIndex === 3 ? "open" : ""}`}>
               <li>
                 <a
                   href="https://play.google.com/store/apps/details?id=com.amtexsystems.kaavaluthavi"
@@ -200,11 +210,14 @@ const Footer = () => {
           </div>
 
           <div className="footer-col">
-            <div className="footer-heading">
-              <IconSvg4 className="heading-icon" />
-              <h4>Committees & Cells</h4>
+            <div className="footer-heading" onClick={() => toggleFooter(4)}>
+              <div className="heading-left">
+                <IconSvg4 className="heading-icon" />
+                <h4>Committees & Cells</h4>
+              </div>
+              <span className="toggle-icon">+</span>
             </div>
-            <ul>
+            <ul className={`footer-menu ${openIndex === 4 ? "open" : ""}`}>
               <li>
                 <a href="/antiragging-cell">Antiragging Cell</a>
               </li>
@@ -261,11 +274,14 @@ const Footer = () => {
           </div>
 
           <div className="footer-col">
-            <div className="footer-heading">
-              <IconSvg5 className="heading-icon" />
-              <h4>Accreditation & Statutory</h4>
+            <div className="footer-heading" onClick={() => toggleFooter(5)}>
+              <div className="heading-left">
+                <IconSvg5 className="heading-icon" />
+                <h4>Accreditation & Statutory</h4>
+              </div>
+              <span className="toggle-icon">+</span>
             </div>
-            <ul>
+            <ul className={`footer-menu ${openIndex === 5 ? "open" : ""}`}>
               <li>
                 <a href="/naac">NAAC</a>
               </li>
@@ -311,11 +327,13 @@ const Footer = () => {
           </div>
 
           <div className="footer-col">
-            <div className="footer-heading">
-              <IconSvg6 className="heading-icon" />
-              <h4>Quick Access</h4>
+            <div className="footer-heading" onClick={() => toggleFooter(6)}>
+              <div className="heading-left">
+                <IconSvg6 className="heading-icon" />
+                <h4>Quick Access</h4>
+              </div>
             </div>
-            <ul>
+            <ul className={`footer-menu ${openIndex === 6 ? "open" : ""}`}>
               <li>
                 <a href="/kongucrs">Kongu CRS</a>
               </li>
