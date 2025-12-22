@@ -32,6 +32,7 @@
   align-items: center;
   gap: 10px;
   padding: 0 24px;
+  position: relative;
   white-space: nowrap;
 
   /* INCREASE LEFT WIDTH */
@@ -95,7 +96,7 @@
 
 /* NAV ITEM */
 .nav-item {
- position: relative;
+  position: relative;
 }
 
 /* SUBMENU */
@@ -165,7 +166,6 @@
 
 /* ================= MAIN NAVBAR ================= */
 .main-navbar {
-  position: relative; 
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -524,51 +524,4 @@
   border-radius: 6px;
   font-size: 16px;
   border: none;
-}
-
-.footer-columns {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 40px;
-}
-
-/* MOBILE */
-@media (max-width: 768px) {
-  .footer-columns {
-    grid-template-columns: 1fr;
-    gap: 0;
-  }
-
-  .footer-col {
-    border-bottom: 1px solid rgba(255,255,255,0.15);
-    padding: 12px 0;
-  }
-
-  .footer-heading {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    cursor: pointer;
-  }
-
-  .heading-left {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .footer-menu {
-    display: none;
-    padding-left: 32px;
-    margin-top: 10px;
-  }
-
-  .footer-menu.open {
-    display: block;
-  }
-
-  .toggle-icon {
-    font-size: 22px;
-    font-weight: 600;
-  }
 }
