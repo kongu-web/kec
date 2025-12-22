@@ -389,17 +389,33 @@ const Footer = () => {
         <p>© 2026 KONGU ENGINEERING COLLEGE. All Rights Reserved.</p>
 
         <div className="footer-social">
-          <a href="#">
-            <LinkedinIcon />
-          </a>
-          <a href="#">
+          <a
+            href="https://www.instagram.com/konguengineeringcollege/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <InstagramIcon />
           </a>
-          <a href="#">
+          <a
+            href="https://www.facebook.com/konguengineeringcollegeperundurai"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FacebookIcon />
           </a>
-          <a href="#">
+          <a
+            href="https://www.youtube.com/c/konguengineeringcollege"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <YoutubeIcon />
+          </a>
+          <a
+            href="https://www.linkedin.com/school/kongu-engineering-collegeerode/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <LinkedinIcon />
           </a>
         </div>
       </div>
