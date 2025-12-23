@@ -246,7 +246,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="/iqac-audit">
-                  IQAC Accrediation and Academic Audit Committee
+                  IQAC Accrediation and Academic Audit
                 </a>
               </li>
               <li>
