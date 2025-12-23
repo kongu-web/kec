@@ -48,6 +48,7 @@ import { ReactComponent as SyllabusIcon } from "../../../assets/images/Icon/menu
 import { ReactComponent as ProgramsIcon } from "../../../assets/images/Icon/menu/programs.svg";
 
 import { useLocation } from "react-router-dom";
+import AdmissionForm from "../../AdmissionForm/AdmissionForm"; // Add this import
 
 const Navbar = () => {
   const [sticky, setSticky] = useState(false);
@@ -60,6 +61,7 @@ const Navbar = () => {
   const [openMobileMenu, setOpenMobileMenu] = useState(null);
 
   const [moreOpen, setMoreOpen] = useState(false);
+  const [showForm, setShowForm] = useState(false); // Add state for form modal
 
   const navigate = useNavigate();
   const location = useLocation(); // ✅ REQUIRED
@@ -478,7 +480,10 @@ const Navbar = () => {
 
           {/* RIGHT CTA */}
           <div className="nav-actions">
-            <button className="enquiry-btn">Enquiry Now</button>
+            <button className="enquiry-btn" onClick={() => setShowForm(true)}>
+              Enquiry Now
+            </button>{" "}
+            {/* Add onClick */}
             <img
               src={tneaBadge}
               alt="TNEA Code 2711"
@@ -516,9 +521,7 @@ const Navbar = () => {
               <div className="mobile-header-actions">
                 <button
                   className="mobile-enquiry-btn"
-                  onClick={() => {
-                    navigate("/enquiry");
-                  }}
+                  onClick={() => setShowForm(true)}
                 >
                   Enquiry Now
                 </button>
@@ -711,6 +714,9 @@ const Navbar = () => {
           {/* )} */}
         </nav>
       </div>
+
+      {/* FORM MODAL */}
+      <AdmissionForm isOpen={showForm} onClose={() => setShowForm(false)} />
     </>
   );
 };

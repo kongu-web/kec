@@ -2,8 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Footer.css";
 import { useNavigate } from "react-router-dom";
-  
-
+import { useState } from "react";
 
 import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/Mandatory Disclosure 29.7.2025.pdf";
 import organizationStructurePDF from "../../../assets/docs/Footer/OrganizationStructure/KEC_OrganizationStructure.pdf";
@@ -20,144 +19,406 @@ import selfdeclaration from "../../../assets/docs/Footer/SelfDeclaration/kec_sel
 import fulltimephd from "../../../assets/docs/Footer/FulltimePHD/fulltime_phd.pdf";
 import rti from "../../../assets/docs/Footer/RTI/kec_rti.pdf";
 
+import "./Footer.css";
+
+import { ReactComponent as PhoneIcon } from "../../../assets/images/Icon/footer_icon/phone.svg";
+import { ReactComponent as EnvelopeIcon } from "../../../assets/images/Icon/footer_icon/mail.svg";
+import { ReactComponent as MapMarkerIcon } from "../../../assets/images/Icon/footer_icon/map.svg";
+import { ReactComponent as LinkedinIcon } from "../../../assets/images/Icon/footer_icon/linkedin.svg";
+import { ReactComponent as InstagramIcon } from "../../../assets/images/Icon/footer_icon/insta.svg";
+import { ReactComponent as FacebookIcon } from "../../../assets/images/Icon/footer_icon/facebook.svg";
+import { ReactComponent as YoutubeIcon } from "../../../assets/images/Icon/footer_icon/youtube.svg";
+
+import { ReactComponent as IconSvg1 } from "../../../assets/images/Icon/footer_icon/icon.svg (1).svg";
+import { ReactComponent as IconSvg2 } from "../../../assets/images/Icon/footer_icon/icon.svg (2).svg";
+import { ReactComponent as IconSvg3 } from "../../../assets/images/Icon/footer_icon/icon.svg (3).svg";
+import { ReactComponent as IconSvg4 } from "../../../assets/images/Icon/footer_icon/icon.svg (4).svg";
+import { ReactComponent as IconSvg5 } from "../../../assets/images/Icon/footer_icon/icon.svg (5).svg";
+import { ReactComponent as IconSvg6 } from "../../../assets/images/Icon/footer_icon/icon.svg (6).svg";
+
+import footerlogo from "../../../assets/images/Icon/footer_icon/footer-logo.png";
 
 const Footer = () => {
+  const [openIndex, setOpenIndex] = useState(null);
 
-  const navigate = useNavigate();
-
-  const columns = [
-    {
-      title: "Quick Links",
-      links: [
-        { label: "NIRF", path: "/nirfpage" },
-        { label: "ARIIA Reports", path: "/ariia" },
-        { label: "Mandatory Disclosure", path: mandatoryDisclosurePDF, isPdf: true },
-        { label: "Organization Structure", path: organizationStructurePDF, isPdf: true },
-        { label: "Strategic Plan", path: "/strategicplan" },
-        { label: "Patents", path: "http://rnd.kongu.edu/patents.php", isExternal: true },
-        { label: "Student Centric Activities", path: "/student-centric-activities" },
-        { label: "Kongu CRS", path: "/kongucrs" },
-        { label: "KEC Web Album", path: "/webalbum" },
-        { label: "Code of Conduct Handbook",path: codeofConductPDF, isPdf: true },
-        { label: "Service Rules & HR Policy", path: rulesandhr2025, isPdf: true },
-        { label: "Supporting Staff", path: supporting_staff2025, isPdf: true },
-        { label: "Student Details", path: student_details, isPdf: true },
-        { label: "Audit Report", path: "/audit-report" },
-        { label: "Undertaking", path: kecundertaking, isPdf: true  },
-        { label: "Professional Societies",  path: professional_socieites_2025, isPdf: true},
-        { label: "Best Practices", path: "/best-practices" },
-        { label: "Fitness Protocols and Guidelines", path: "/fitness-protocols" },
-        { label: "AICTE-CSS", path: "https://css.aicte.gov.in/login", isExternal: true },
-        { label: "Excess Fee Committee",  path: excessfee, isPdf: true},
-      ],
-    },
-    {
-      title: "Students Corner",
-      links: [
-         { label: "Kaaval Uthavi App",path: "https://play.google.com/store/apps/details?id=com.amtexsystems.kaavaluthavi", isExternal: true},
-        { label: "Help Desk", path: "https://docs.google.com/forms/d/e/1FAIpQLSeEG2dO3g7BzpzP6c4MSwdsg0QXDNY0c9b2SAZzTfgkcPdFcA/viewform?usp=header" },
-        { label: "Help Desk Committee", path: "/helpdeskcommittee" },
-        { label: "Vidya Lakshmi Portal for Students",path: "https://www.vidyalakshmi.co.in/", isExternal: true},
-        { label: "PM-USP Scholarship Scheme for J&K and Ladakh Students", path: pmsss, isPdf: true},
-        { label: "Antiragging Cell", path: "/antiragging-cell" },
-        { label: "Antiragging Squad", path: "/antiragging-squad" },
-        { label: "Code of Conduct and Ethics Committee", path: "/ethics-committee" },
-        { label: "Finance Committee", path: "/finance-committee" },
-        { label: "Grievance Redressal Committee", path: "/grievance-committee" },
-        { label: "Grievance Redressal and Empowerment Committee for SC/ST Students", path: "/scst-grievance-committee" },
-        { label: "Internal Complaint Committee / Anti-Sexual Harassment Cell", path: "/internal-complaint-committee" },
-        { label: "IQAC Accrediation and Academic Audit Committee", path: "/iqac-audit" },
-        { label: "Institute Industry Cell", path: "/industry-cell" },
-        { label: "Research & IPR Committee", path: "/research-ipr" },
-        { label: "Institution Policy Document & Green, Energy and Environment Audit Committee", path: "/green-energy-audit" },
-        { label: "Media Cell", path: "/media-cell" },
-        { label: "Institutions Innovation Council (IIC @ KEC)", path: "/iic" },
-        { label: "Library Committee", path: "/library-committee" },
-        { label: "Students Counselling Cell", path: "/counselling-cell" },
-         { label: "UHV Cell", path: "/Uhvcell" },
-        { label: "Grievance Portal", path: "https://kms.kongu.edu/grievance/", isExternal: true },
-        { label: "24x7 Women Help Line", path: "/women-helpline" },
-        { label: "Feedback", path: "/feedback" },
-      ],
-    },
-    {
-      title: "Quick Glance",
-      links: [
-        { label: "NAAC", path: "/naac" },
-        { label: "IQAC", path: "https://kongu.ac.in/kongu.ac.in/iqac.php" },
-        { label: "RTI", path: rti, isPdf: true  },
-        { label: "Self Declaration", path: selfdeclaration, isPdf: true },
-        { label: "Certificate Genuineness Verification",  path: "https://kongu.directverify.in/student/#/", isExternal: true},
-        { label: "Full Time PhD", path: fulltimephd, isPdf: true },
-        
-      ],
-    },
-  ];
+  const toggleFooter = (index) => {
+    setOpenIndex(openIndex === index ? null : index);
+  };
 
   return (
     <footer className="footer">
-        <div className="footer-vertical-text">KONGU ENGINEERING COLLEGE</div>
+      {/* TOP CONTACT BAR */}
+      <div className="footer-top">
+        <div className="footer-top-item">
+          <PhoneIcon />
+          <span>+91 9965 277 765</span>
+        </div>
 
-      <div className="footer-container">
-        {columns.map((column, index) => (
-          <div className="footer-column" key={index}>
-            <h3 className="footer-title">{column.title}</h3>
-            <ul className="footer-links">
-              {column.links.map((link, idx) => (
-                <li key={idx}>
-                  {link.isPdf ? (
-                    <a
-                      href={link.path}
-                      className="footer-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      {link.label}
-                    </a>
-                  ) : link.isExternal ? (
-                    <a
-                      href={link.path}
-                      className="footer-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      {link.label}
-                    </a>
-                  ) : (
-                    <Link to={link.path} className="footer-link">
-                      {link.label}
-                    </Link>
-                  )}
-                </li>
-              ))}
+        <div className="footer-top-item">
+          <EnvelopeIcon />
+          <span>kec@kongu.ac.in</span>
+        </div>
+
+        <div className="footer-top-item">
+          <MapMarkerIcon />
+          <span>Perundurai, Erode.</span>
+        </div>
+      </div>
+
+      {/* MAIN FOOTER */}
+      <div className="footer-main">
+        <img src={footerlogo} alt="KEC" className="footer-watermark" />
+        <div className="footer-columns">
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(1)}>
+              <div className="heading-left">
+                <IconSvg1 className="heading-icon" />
+                <h4>About & Institution</h4>
+              </div>
+              <span className="toggle-icon">+</span>
+            </div>
+
+            <ul className={`footer-menu ${openIndex === 1 ? "open" : ""}`}>
+              <li>
+                <a href="/aboutkec">About KEC</a>
+              </li>
+              <li>
+                <a
+                  href={organizationStructurePDF}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Organization Structure
+                </a>
+              </li>
+              <li>
+                <a href="/strategicplan">Strategic Plan</a>
+              </li>
+              <li>
+                <a href="/best-practices">Best Practices</a>
+              </li>
+              <li>
+                <a
+                  href={rulesandhr2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Service Rules & HR Policy
+                </a>
+              </li>
             </ul>
           </div>
-        ))}
-          <p class="admission-contact-info">
-            For Admission Enquiry Contact <br />
-            <a href="tel:9965277765">Mobile: 9965277765</a> / 
-            <a href="tel:9443020583">9443020583</a><br />
-            <a href="tel:04294226515">Land Line: 04294-226515</a> / 
-            <a href="tel:04294226517">04294-226517</a>
-          </p>
 
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(2)}>
+              <div className="heading-left">
+                <IconSvg2 className="heading-icon" />
+                <h4>Academics & Research</h4>
+              </div>
+              <span className="toggle-icon">+</span>
+            </div>
 
+            <ul className={`footer-menu ${openIndex === 2 ? "open" : ""}`}>
+              <li>
+                <a href="/student-centric-activities">
+                  Student Centric Activities
+                </a>
+              </li>
+              <li>
+                <a
+                  href={professional_socieites_2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Professional Societies
+                </a>
+              </li>
+              <li>
+                <a href="http://rnd.kongu.edu/patents.php">Patents</a>
+              </li>
+              <li>
+                <a href="/research-ipr">Research & IPR Committee</a>
+              </li>
+              <li>
+                <a href="#">Institution Innovation Council</a>
+              </li>
+              <li>
+                <a href="/industry-cell">Institute Industry Cell</a>
+              </li>
+              <li>
+                <a href={fulltimephd} target="_blank" rel="noopener noreferrer">
+                  Full Time PhD
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(3)}>
+              <div className="heading-left">
+                <IconSvg3 className="heading-icon" />
+                <h4>Student Corner</h4>
+              </div>
+              <span className="toggle-icon">+</span>
+            </div>
+            <ul className={`footer-menu ${openIndex === 3 ? "open" : ""}`}>
+              <li>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.amtexsystems.kaavaluthavi"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Kaavul Udhavi App
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeEG2dO3g7BzpzP6c4MSwdsg0QXDNY0c9b2SAZzTfgkcPdFcA/viewform?usp=header"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Desk
+                </a>
+              </li>
+              <li>
+                <a href="/helpdeskcommittee">Help Desk Committee</a>
+              </li>
+              <li>
+                <a
+                  href="https://www.vidyalakshmi.co.in/student/registration"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Vidya Lakshmi Portal
+                </a>
+              </li>
+              <li>
+                <a href={pmsss} target="_blank" rel="noopener noreferrer">
+                  PM-USP Scholarship
+                </a>
+              </li>
+              <li>
+                <a href="/library-committee">Library Committee</a>
+              </li>
+              <li>
+                <a href="/women-helpline">24x7 Women Help Line</a>
+              </li>
+              <li>
+                <a href="/feedback">Feedback</a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(4)}>
+              <div className="heading-left">
+                <IconSvg4 className="heading-icon" />
+                <h4>Committees & Cells</h4>
+              </div>
+              <span className="toggle-icon">+</span>
+            </div>
+            <ul className={`footer-menu ${openIndex === 4 ? "open" : ""}`}>
+              <li>
+                <a href="/antiragging-cell">Antiragging Cell</a>
+              </li>
+              <li>
+                <a href="/antiragging-squad">Antiragging Squad</a>
+              </li>
+              <li>
+                <a href="/ethics-committee">Code of Conduct and Ethics</a>
+              </li>
+              <li>
+                <a href="/finance-committee">Finance Committee</a>
+              </li>
+              <li>
+                <a href="/grievance-committee">Grievance Redressal Committee</a>
+              </li>
+              <li>
+                <a href="/scst-grievance-committee">
+                  Grievance Redressal and Empowerment Committee for SC/ST
+                  Students
+                </a>
+              </li>
+              <li>
+                <a href="/internal-complaint-committee">
+                  Internal Complaint Committee / Anti-Sexual Harassment Cell
+                </a>
+              </li>
+              <li>
+                <a href="/iqac-audit">
+                  IQAC Accrediation and Academic Audit
+                </a>
+              </li>
+              <li>
+                <a href="/industry-cell">Institute Industry Cell</a>
+              </li>
+              <li>
+                <a href="/research-ipr">Research & IPR Committee</a>
+              </li>
+              <li>
+                <a href="/green-energy-audit">
+                  Institution Policy Document & Green, Energy and Environment
+                  Audit Committee
+                </a>
+              </li>
+              <li>
+                <a href="/media-cell">Media Cell</a>
+              </li>
+              <li>
+                <a href="/counselling-cell">Students Counselling Cell</a>
+              </li>
+              <li>
+                <a href="/Uhvcell">UHV Cell</a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(5)}>
+              <div className="heading-left">
+                <IconSvg5 className="heading-icon" />
+                <h4>Accreditation & Statutory</h4>
+              </div>
+              <span className="toggle-icon">+</span>
+            </div>
+            <ul className={`footer-menu ${openIndex === 5 ? "open" : ""}`}>
+              <li>
+                <a href="/naac">NAAC</a>
+              </li>
+              <li>
+                <a href="/nirfpage">NIRF</a>
+              </li>
+              <li>
+                <a href="/ariia">ARIIA Reports</a>
+              </li>
+              <li>
+                <a href="/iqac-audit">IQAC</a>
+              </li>
+              <li>
+                <a href={rti} target="_blank" rel="noopener noreferrer">
+                  RTI
+                </a>
+              </li>
+              <li>
+                <a
+                  href={mandatoryDisclosurePDF}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Mandatory Disclosure
+                </a>
+              </li>
+              <li>
+                <a href="/audit-report">Audit Report</a>
+              </li>
+              <li>
+                <a
+                  href="https://kongu.directverify.in/student/#/home"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Certificate Genuineness Verification
+                </a>
+              </li>
+              <li>
+                <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="footer-col">
+            <div className="footer-heading" onClick={() => toggleFooter(6)}>
+              <div className="heading-left">
+                <IconSvg6 className="heading-icon" />
+                <h4>Quick Access</h4>
+              </div>
+            </div>
+            <ul className={`footer-menu ${openIndex === 6 ? "open" : ""}`}>
+              <li>
+                <a href="/kongucrs">Kongu CRS</a>
+              </li>
+              <li>
+                <a href="/webalbum">KEC Web Album</a>
+              </li>
+              <li>
+                <a
+                  href={student_details}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Student Details
+                </a>
+              </li>
+              <li>
+                <a href="/fitness-protocols">Fitness Protocol</a>
+              </li>
+              <li>
+                <a
+                  href="https://kms.kongu.edu/grievance/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Grievance Portal
+                </a>
+              </li>
+              <li>
+                <a
+                  href={supporting_staff2025}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Supporting Staff
+                </a>
+              </li>
+              <li>
+                <a
+                  href={kecundertaking}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Undertaking
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
 
-      <div className="footer-globe"></div>
+      {/* FOOTER BOTTOM */}
+      <div className="footer-bottom">
+        <p>© 2026 KONGU ENGINEERING COLLEGE. All Rights Reserved.</p>
 
-
-      <div className="creator">
-
-        <p className="rights-reserved">@ 2025 Kongu Engineering College. All rights reserved.</p>
-        <p className="rights-reserved">© Designed by
-          <a className="created-by"  onClick={() => navigate("/kecwebteam")}
-          > KEC Web Team.</a>
-          </p>
-       
-
+        <div className="footer-social">
+          <a
+            href="https://www.instagram.com/konguengineeringcollege/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <InstagramIcon />
+          </a>
+          <a
+            href="https://www.facebook.com/konguengineeringcollegeperundurai"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FacebookIcon />
+          </a>
+          <a
+            href="https://www.youtube.com/c/konguengineeringcollege"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <YoutubeIcon />
+          </a>
+          <a
+            href="https://www.linkedin.com/school/kongu-engineering-collegeerode/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <LinkedinIcon />
+          </a>
+        </div>
       </div>
-
     </footer>
   );
 };
