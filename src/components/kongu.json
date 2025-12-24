@@ -1,0 +1,232 @@
+{
+  "college_info": {
+    "name": "Kongu Engineering College",
+    "website": "https://kongu.ac.in",
+    "fees": "INR 50,000 - 2,00,000 per year (approx)",
+    "location": "Perundurai, Erode - 638060, Tamil Nadu, India",
+    "contact": {
+      "phone": "04294-226555",
+      "email": "principal@kongu.ac.in"
+    }
+  },
+  "admissions": {
+    "status": "Open for 2024-25 session",
+    "eligibility": {
+      "title": "Eligibility Criteria",
+      "ug": "• **BE/BTech:** Pass in HSC (10+2) with Physics, Chemistry, and Mathematics.",
+      "pg": "• **ME/MTech:** Bachelor's degree in Engineering/Technology.",
+      "mba": "• **MBA/MCA:** Any Undergraduate degree."
+    },
+    "process": {
+      "title": "Application Process",
+      "steps": [
+        "1. Visit the official portal: [kongu.ac.in](https://kongu.ac.in)",
+        "2. Click on 'Admissions 2024'",
+        "3. Fill the online enquiry form",
+        "4. Submit required documents (Mark sheets, ID proof)"
+      ]
+    },
+    "contact": {
+      "title": "Admission Enquiry",
+      "phone": "04294-226515 / 9443020583",
+      "email": "admission@kongu.ac.in"
+    }
+  },
+  "placements": {
+    "highlights": {
+      "title": "Placement Highlights 2024",
+      "desc": "KEC has a consistent placement record with over 1600 offers made this year.",
+      "stats": [
+        "Offers Made: 1612",
+        "Students Placed: 1235",
+        "Companies Visited: 310+",
+        "Highest Package: 20 LPA",
+        "Average Package: 4.5 LPA"
+      ]
+    },
+    "recruiters": {
+      "title": "Top Recruiters",
+      "desc": "Our students are recruited by leading companies in the industry.",
+      "list": [
+        "Zoho Corporation",
+        "Infosys",
+        "Accenture",
+        "Tata Consultancy Services (TCS)",
+        "Wipro",
+        "Cognizant",
+        "Hyundai",
+        "Titan"
+      ]
+    },
+    "contact": {
+      "title": "Placement Contact",
+      "phone": "04294-226644",
+      "email": "placement@kongu.ac.in"
+    }
+  },
+  "hostel": "Separate hostels for boys and girls with Wi-Fi, gym, and mess facilities.",
+  "courses": {
+    "undergraduate": [
+      {
+        "id": "cse",
+        "search_tags": ["cse", "computer science", "cs", "coding", "software", "computer", "engineering", "ug", "programming"],
+        "course_name": "B.E. Computer Science and Engineering",
+        "description": "Core computing program focusing on algorithms, data structures, AI, and software systems.",
+        "link": "https://kongu.ac.in/departments/cse.php"
+      },
+      {
+        "id": "it",
+        "search_tags": ["it", "information technology", "web", "computer", "cs", "engineering", "ug", "network", "app dev"],
+        "course_name": "B.Tech. Information Technology",
+        "description": "Focuses on IT infrastructure, web development, cloud computing, and data management.",
+        "link": "https://kongu.ac.in/departments/it.php"
+      },
+      {
+        "id": "ece",
+        "search_tags": ["ece", "electronics", "communication", "vlsi", "engineering", "ug", "embedded", "circuits"],
+        "course_name": "B.E. Electronics and Communication Engineering",
+        "description": "Study of electronic devices, communication networks, VLSI design, and embedded systems.",
+        "link": "https://kongu.ac.in/departments/ece.php"
+      },
+      {
+        "id": "eee",
+        "search_tags": ["eee", "electrical", "electronics", "power", "engineering", "ug", "renewable", "machines"],
+        "course_name": "B.E. Electrical and Electronics Engineering",
+        "description": "Deals with power generation, electrical machines, control systems, and renewable energy.",
+        "link": "https://kongu.ac.in/departments/eee.php"
+      },
+      {
+        "id": "eie",
+        "search_tags": ["eie", "instrumentation", "sensors", "engineering", "ug", "control", "automation"],
+        "course_name": "B.E. Electronics & Instrumentation",
+        "description": "Focuses on industrial automation, process control, sensors, and instrumentation systems.",
+        "link": "https://kongu.ac.in/departments/eie.php"
+      },
+      {
+        "id": "mech",
+        "search_tags": ["mech", "mechanical", "machines", "manufacturing", "engineering", "ug", "cad", "thermodynamics"],
+        "course_name": "B.E. Mechanical Engineering",
+        "description": "Covers design, manufacturing, thermal engineering, and robotics.",
+        "link": "https://kongu.ac.in/departments/mech.php"
+      },
+      {
+        "id": "mts",
+        "search_tags": ["mts", "mechatronics", "robotics", "engineering", "ug", "automation", "mechanical"],
+        "course_name": "B.E. Mechatronics Engineering",
+        "description": "A multidisciplinary field combining mechanics, electronics, and computing for robotics and automation.",
+        "link": "https://kongu.ac.in/departments/mts.php"
+      },
+      {
+        "id": "auto",
+        "search_tags": ["auto", "automobile", "vehicle", "engineering", "ug", "cars", "transport"],
+        "course_name": "B.E. Automobile Engineering",
+        "description": "Specialized in vehicle design, automotive electronics, and manufacturing technology.",
+        "link": "https://kongu.ac.in/departments/auto.php"
+      },
+      {
+        "id": "civil",
+        "search_tags": ["civil", "construction", "structural", "engineering", "ug", "building", "infrastructure"],
+        "course_name": "B.E. Civil Engineering",
+        "description": "Focuses on infrastructure planning, structural design, and construction management.",
+        "link": "https://kongu.ac.in/departments/civil.php"
+      },
+      {
+        "id": "chem",
+        "search_tags": ["chem", "chemical", "engineering", "ug", "process", "reaction"],
+        "course_name": "B.Tech. Chemical Engineering",
+        "description": "Involves the design and operation of industrial chemical plants and processes.",
+        "link": "https://kongu.ac.in/departments/chem.php"
+      },
+      {
+        "id": "food",
+        "search_tags": ["food", "food tech", "nutrition", "engineering", "ug", "processing"],
+        "course_name": "B.Tech. Food Technology",
+        "description": "Covers food processing, preservation techniques, and food safety standards.",
+        "link": "https://kongu.ac.in/departments/food.php"
+      },
+      {
+        "id": "aids",
+        "search_tags": ["ai", "ds", "data science", "artificial intelligence", "computer", "cs", "engineering", "ug", "analytics"],
+        "course_name": "B.Tech. AI & Data Science",
+        "description": "Specialized program in big data analytics, machine learning, and AI applications.",
+        "link": "https://kongu.ac.in/departments/cse.php"
+      },
+      {
+        "id": "aiml",
+        "search_tags": ["ml", "machine learning", "ai", "computer", "cs", "engineering", "ug", "neural networks"],
+        "course_name": "B.Tech. AI & Machine Learning",
+        "description": "Focuses on developing intelligent systems, deep learning, and neural networks.",
+        "link": "https://kongu.ac.in/departments/cse.php"
+      },
+      {
+        "id": "csd",
+        "search_tags": ["csd", "computer science and design", "ui", "ux", "computer", "cs", "engineering", "ug", "design"],
+        "course_name": "B.E. Computer Science & Design",
+        "description": "Combines core computing with design principles like UI/UX and interactive media.",
+        "link": "https://kongu.ac.in/departments/cse.php"
+      }
+    ],
+    "postgraduate": [
+      {
+        "id": "mca",
+        "search_tags": ["mca", "master of computer applications", "computer", "cs", "pg", "software"],
+        "course_name": "Master of Computer Applications",
+        "description": "Advanced postgraduate program in computer applications and software development.",
+        "link": "https://kongu.ac.in/departments/mca.php"
+      },
+      {
+        "id": "mba",
+        "search_tags": ["mba", "business", "management", "pg", "finance", "marketing"],
+        "course_name": "Master of Business Administration",
+        "description": "Develops leadership skills with specializations in Finance, Marketing, HR, and Operations.",
+        "link": "https://kongu.ac.in/departments/mba.php"
+      },
+      {
+        "id": "me",
+        "search_tags": ["me", "mtech", "masters", "pg", "engineering", "higher studies"],
+        "course_name": "M.E. / M.Tech Programs",
+        "description": "Various specializations available including CSE, VLSI, Embedded Systems, Power Systems, etc.",
+        "link": "https://kongu.ac.in"
+      }
+    ],
+    "applied_science": [
+      {
+        "id": "bsc_csd",
+        "search_tags": ["bsc", "bsc csd", "computer", "cs", "science", "hardware", "systems"],
+        "course_name": "B.Sc. Computer Systems & Design",
+        "description": "Applied science program focusing on computer hardware, networking, and system design.",
+        "link": "https://kongu.ac.in/departments/ctug.php"
+      },
+      {
+        "id": "bsc_is",
+        "search_tags": ["bsc is", "information systems", "computer", "cs", "science", "business"],
+        "course_name": "B.Sc. Information Systems",
+        "description": "Focuses on the application of IT in business processes and enterprise management.",
+        "link": "https://kongu.ac.in/departments/ctug.php"
+      },
+      {
+        "id": "bsc_ss",
+        "search_tags": ["bsc ss", "software systems", "computer", "cs", "science", "coding"],
+        "course_name": "B.Sc. Software Systems",
+        "description": "Focuses on the complete software development lifecycle and programming languages.",
+        "link": "https://kongu.ac.in/departments/ctug.php"
+      },
+      {
+        "id": "msc_ss",
+        "search_tags": ["msc", "msc ss", "computer", "cs", "science", "integrated", "pg"],
+        "course_name": "M.Sc. Software Systems (Integrated)",
+        "description": "A 5-year integrated course combining undergraduate and postgraduate studies in software systems.",
+        "link": "https://kongu.ac.in/departments/ctpg.php"
+      }
+    ],
+    "doctorate": [
+      {
+        "id": "phd",
+        "search_tags": ["phd", "research", "doctorate", "scholar"],
+        "course_name": "Ph.D. / M.S. (By Research)",
+        "description": "Research programs offered in various Engineering, Technology, and Science disciplines.",
+        "link": "https://rnd.kongu.edu/"
+      }
+    ]
+  }
+}
