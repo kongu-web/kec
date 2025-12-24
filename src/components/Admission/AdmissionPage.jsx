@@ -10,13 +10,14 @@ import Footer from "../HomePage/Footer/Footer";
 // If AdmissionForm is in the same folder, use './AdmissionForm'
 // If it is in components/AdmissionForm, use '../AdmissionForm/AdmissionForm'
 import AdmissionForm from "../AdmissionForm/AdmissionForm";
+import brochurePdf from "../../assets/docs/KEC admission.pdf";
 
 const AdmissionPage = () => {
   const [activeTab, setActiveTab] = useState("ug");
   const [openFaq, setOpenFaq] = useState(null);
 
   // ✅ STATE TO CONTROL THE FORM POPUP
-  const [isFormOpen, setIsFormOpen] = useState(false);
+  const [showForm, setShowForm] = useState(false); // Add state for form modal
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -24,10 +25,6 @@ const AdmissionPage = () => {
 
   const toggleFaq = (index) => {
     setOpenFaq(openFaq === index ? null : index);
-  };
-
-  const handleOpenForm = () => {
-    setIsFormOpen(true);
   };
 
   // --- Course Data ---
@@ -96,13 +93,26 @@ const AdmissionPage = () => {
       <section className="admission-hero">
         <div className="hero-content">
           <h1>TRANSFORM YOURSELF</h1>
-          <p>Admissions Open 2025-26 | NAAC A++ Accredited | AICTE Approved</p>
+          <p>
+            Admissions Enquiry 2026-27 <br></br>NAAC A++ Accredited | Affiliated
+            to Anna University | <br></br>AICTE Approved
+          </p>
           <div className="hero-btns">
             {/* ✅ CONNECTED BUTTON */}
-            <button className="btn-primary" onClick={handleOpenForm}>
+            <button className="btn-primary" onClick={() => setShowForm(true)}>
               Enquiry Now
             </button>
-            <button className="btn-outline">Download Brochure</button>
+            <button
+              className="btn-outline"
+              onClick={() => {
+                const link = document.createElement("a");
+                link.href = brochurePdf;
+                link.download = "KEC_Admission_Brochure.pdf";
+                link.click();
+              }}
+            >
+              Download Brochure
+            </button>{" "}
           </div>
         </div>
       </section>
@@ -230,8 +240,8 @@ const AdmissionPage = () => {
         Enquire Now
       </button> */}
 
-      {/* ✅ RENDER THE FORM (Hidden by default, shown when isOpen is true) */}
-      <AdmissionForm isOpen={isFormOpen} onClose={() => setIsFormOpen(false)} />
+      {/* ✅ RENDER THE FORM (Hidden by default, shown when showForm is true) */}
+      <AdmissionForm isOpen={showForm} onClose={() => setShowForm(false)} />
 
       <Footer />
     </div>

@@ -141,9 +141,7 @@ const Navbar = () => {
           <div className="utility-left">
             <div class="marquee">
               <div class="marquee-track">
-                <span
-                  onClick={() => setShowForm(true)}
-                >
+                <span onClick={() => setShowForm(true)}>
                   📣 Admission Enquiry 2026
                 </span>
                 <span className="divider">⚡Hands-on Training!</span>
@@ -193,7 +191,7 @@ const Navbar = () => {
                 </div>
               )}
             </div>
-            <a href="/admission">Admission</a>
+            {/* <a href="/admission">Admission</a> */}
             <a href="https://alumni.kongu.edu/">Alumni</a>
             <a href="/onlinepayment">Online Payment</a>
             <a href="/contact">Contact</a>
@@ -275,7 +273,7 @@ const Navbar = () => {
               )}
             </li>
 
-            <li
+            {/* <li
               className={
                 location.pathname.startsWith("/academics")
                   ? "active has-dropdown"
@@ -316,7 +314,7 @@ const Navbar = () => {
                   </span>
                 </div>
               )}
-            </li>
+            </li> */}
             <li
               className={
                 location.pathname.startsWith("/departments")
@@ -355,7 +353,7 @@ const Navbar = () => {
               )}
             </li>
 
-            <li
+            {/* <li
               className={
                 location.pathname.startsWith("/placement")
                   ? "active has-dropdown"
@@ -401,9 +399,16 @@ const Navbar = () => {
                   </span>
                 </div>
               )}
+            </li> */}
+            <li
+              className={location.pathname === "/placement" ? "active" : ""}
+              onMouseEnter={() => setActiveDropdown(null)}
+              onClick={() => navigate("/placement")}
+            >
+              Placement
             </li>
 
-            <li
+            {/* <li
               className={
                 location.pathname.startsWith("/campus-life")
                   ? "active has-dropdown"
@@ -479,6 +484,13 @@ const Navbar = () => {
                   </span>
                 </div>
               )}
+            </li> */}
+            <li
+              className={location.pathname === "/admission" ? "active" : ""}
+              onMouseEnter={() => setActiveDropdown(null)}
+              onClick={() => navigate("/admission")}
+            >
+              Admission
             </li>
           </ul>
 
