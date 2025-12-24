@@ -1,0 +1,266 @@
+/* AdmissionForm.css */
+
+/* 1. Dark Overlay */
+.admission-popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  padding: 10px;
+}
+
+/* 2. Main Container (Desktop Frame) */
+.admission-popup {
+  position: relative;
+  width: 95vw;
+  max-width: 980px;
+  aspect-ratio: 16 / 10;
+  max-height: 90vh;
+
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  filter: drop-shadow(0 25px 50px rgba(0,0,0,0.5));
+}
+
+.admission-popup-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.8);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+/* .close-icon {
+  width: 20px;
+  height: 20px;
+  fill: #e74c3c;
+} */
+
+/* 3. Safe Content Zone */
+.popup-content {
+  position: absolute;
+  top: 15%;
+  bottom: 15%;
+  left: 15%;
+  right: 15%;
+
+  display: flex;
+  gap: 30px;
+  padding: 5px 15px;
+}
+
+/* 4. Left Form */
+.left-form {
+  flex: 1.2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}
+
+.left-form h2 {
+  color: #009edf;
+  font-size: 1.8rem;
+  font-weight: 800;
+  margin: 0;
+}
+
+/* Inputs */
+.left-form input,
+.left-form select,
+.left-form textarea {
+  width: 100%;
+  padding: 12px 25px;
+  border: 1px solid #f0f0f0;
+  border-radius: 50px;
+  background: #fbfbfb;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+}
+
+.left-form textarea {
+  border-radius: 20px;
+  min-height: 60px;
+  resize: none;
+}
+
+.left-form input:focus,
+.left-form select:focus,
+.left-form textarea:focus {
+  outline: none;
+  border-color: #009edf;
+  background: #fff;
+}
+
+/* Submit Button */
+.left-form button {
+  padding: 12px 40px;
+  background: #009edf;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  align-self: center;
+}
+
+/* 5. Right Info */
+.right-visual {
+  flex: 0.8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border-left: 2px solid #f5f5f5;
+  padding-left: 20px;
+}
+
+.right-visual img {
+  width: 220px;
+}
+
+.contact-info {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f8fbff;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-left: 4px solid #009edf;
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.social-icons a {
+  /* font-size: 20px; */
+  text-decoration: none;
+}
+
+/* 6. Close Button */
+.admission-popup-close {
+  position: absolute;
+  top: 3%;
+  right: 2%;
+  width: 32px;
+  height: 32px;
+  background: #e74c3c;
+  /* color: white; */
+  border-radius: 50%;
+  /* border: 2px solid #fff; */
+  cursor: pointer;
+  z-index: 10;
+}
+
+/* ========================= */
+/* ===== MOBILE VIEW ======= */
+/* ========================= */
+
+@media (max-width: 768px) {
+
+  .admission-popup {
+    width: 100%;
+    height: 95vh;
+    max-width: none;
+
+    aspect-ratio: unset;
+    background-image: none !important;
+    background-color: #ffffff;
+
+    border: 6px solid #009edf;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+
+  .popup-content {
+    position: relative;
+    inset: 0;
+
+    height: 100%;
+    width: 100%;
+
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+
+    overflow-y: auto;
+  }
+
+  .right-visual {
+    width: 100%;
+    border-left: none;
+    border-bottom: 2px solid #eee;
+    padding: 0 0 16px 0;
+  }
+
+  .right-visual img {
+    width: 120px;
+  }
+
+  .contact-item {
+    font-size: 0.85rem;
+    padding: 8px 12px;
+  }
+
+  .left-form {
+    width: 100%;
+    gap: 10px;
+  }
+
+  .left-form h2 {
+    font-size: 1.4rem;
+    text-align: center;
+  }
+
+  .left-form input,
+  .left-form select,
+  .left-form textarea {
+    padding: 10px 18px;
+    font-size: 0.9rem;
+  }
+
+  .left-form textarea {
+    min-height: 70px;
+  }
+
+  .left-form button {
+    width: 100%;
+    padding: 12px;
+  }
+
+  .admission-popup-close {
+    top: 8px;
+    right: 8px;
+    width: 28px;
+    height: 28px;
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,176 @@
+/* chatbot.css */
+
+/* 1. Floating Chat Icon */
+.chat-toggle-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background: #303877;
+  color: white;
+  border: none; /* Optional: Blue border to match theme */
+  border-radius: 50%;
+  font-size: 30px;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s, background 0.2s;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;      /* Remove padding so image can fill */
+  overflow: hidden; /* Clips image to circle */
+}
+
+.chat-toggle-btn:hover {
+  transform: scale(1.2);
+  background: #303877;
+/*  box-shadow: 0 8px 25px #303877;*/
+}
+
+/* ✅ NEW: Style for the image inside the button */
+.chat-toggle-btn img {
+  width: 70%;
+  height: 70%;
+  object-fit: cover; /* Ensures image fills the button without stretching */
+}
+
+/* 2. Main Chat Window */
+.chatbot {
+  width: 360px;
+  height: 500px; /* Fixed Height */
+  max-height: 80vh;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #121212;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+  font-family: "Segoe UI", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 1000;
+  
+  /* Animation */
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 3. Header Updates */
+.chat-header {
+  background: linear-gradient(135deg, #0d47a1, #1976d2);
+  color: #ffffff;
+  padding: 12px 15px;
+  display: flex;
+  justify-content: space-between; /* Spreads title and close button */
+  align-items: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+/* 4. Close Button */
+.close-btn {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 10px;
+}
+
+.close-btn:hover {
+  color: #ffcccc;
+}
+
+/* --- Existing Styles Below --- */
+
+.chat-body {
+  flex: 1;
+  padding: 12px;
+  overflow-y: auto;
+  background: #181818;
+  scroll-behavior: smooth;
+}
+
+.msg {
+  max-width: 85%;
+  margin-bottom: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.4;
+  word-wrap: break-word;
+  white-space: pre-wrap; /* Preserves newlines */
+}
+
+.msg.bot {
+  background: #2a2a2a;
+  color: #e0e0e0;
+  align-self: flex-start;
+}
+
+.msg.user {
+  background: #1e88e5;
+  color: #ffffff;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.chat-footer {
+  display: flex;
+  border-top: 1px solid #2c2c2c;
+  background: #121212;
+}
+
+.chat-footer input {
+  flex: 1;
+  padding: 10px;
+  background: #1e1e1e;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+.chat-footer button {
+  padding: 0 16px;
+  background: #1e88e5;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.chat-footer button:hover {
+  background: #1565c0;
+}
+
+.chat-link-btn {
+  background: none;
+  border: none;
+  color: #4db8ff;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.chat-link-btn:hover {
+  color: #80d4ff;
+  text-decoration: none;
+}
+
+.msg a {
+  color: #4db8ff;
+  text-decoration: underline;
+}

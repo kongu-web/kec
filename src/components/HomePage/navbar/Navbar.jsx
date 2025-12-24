@@ -141,7 +141,11 @@ const Navbar = () => {
           <div className="utility-left">
             <div class="marquee">
               <div class="marquee-track">
-                <span>📣 Admission Enquiry 2026</span>
+                <span
+                  onClick={() => setShowForm(true)}
+                >
+                  📣 Admission Enquiry 2026
+                </span>
                 <span className="divider">⚡Hands-on Training!</span>
               </div>
             </div>
@@ -189,7 +193,7 @@ const Navbar = () => {
                 </div>
               )}
             </div>
-            <a>Admission</a>
+            <a href="/admission">Admission</a>
             <a href="https://alumni.kongu.edu/">Alumni</a>
             <a href="/onlinepayment">Online Payment</a>
             <a href="/contact">Contact</a>

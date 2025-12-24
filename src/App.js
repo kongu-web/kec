@@ -50,6 +50,9 @@ import Aictemba from './components/Accrediation/AICTEMBA/Aictemba.jsx';
 import Aictemca from './components/Accrediation/AICTEMCA/Aictemca.jsx';
 import University from './components/Accrediation/University/University.jsx';
 
+import Admission from './components/Admission/AdmissionPage.jsx';
+// import Admissionform from './components/ExtraPages/Admission/Admissionform.jsx';
+import Chatbot from './components/CollegeChatbot.jsx';
 // Other Pages
 import Facilites from './components/ExtraPages/Facilites/Facilites.jsx';
 import Ug from './components/Departments/Ug.jsx';
@@ -125,7 +128,7 @@ const App = () => {
 
   return loading ? <Spinner /> :  (
     <Router>
-      <ScrollToTop />
+      <Chatbot />
 
       <Routes>
 
@@ -254,8 +257,9 @@ const App = () => {
      
 
         {/* Page Under Developement */}
-        <Route path='/PUD' element={<PageUnderDevelopement/>}/>
-
+        <Route path='/PUD' element={<PageUnderDevelopement />} />
+        
+        <Route path='/admission' element={<Admission />} />
 
 
       </Routes>
