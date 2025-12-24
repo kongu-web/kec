@@ -173,7 +173,7 @@ const Navbar = () => {
               )}
             </div>
 
-            <a>Research & Innovation</a>
+            {/* <a>Research & Innovation</a> */}
             <div
               className="nav-item has-submenu"
               onMouseEnter={() => {
@@ -584,7 +584,7 @@ const Navbar = () => {
                 )}
 
                 {/* ACADEMICS */}
-                <li
+                {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
@@ -602,7 +602,7 @@ const Navbar = () => {
                     <li>Office of the COE / Examinations</li>
                     <li>Value-Added & Skill Courses</li>
                   </ul>
-                )}
+                )} */}
 
                 {/* DEPARTMENTS */}
                 <li
