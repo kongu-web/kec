@@ -6,9 +6,7 @@ import { Link } from "react-router-dom";
 import Navbar from "../HomePage/navbar/Navbar";
 import Footer from "../HomePage/Footer/Footer";
 
-// ✅ IMPORT THE FORM (Check that the path matches where you saved AdmissionForm.jsx)
-// If AdmissionForm is in the same folder, use './AdmissionForm'
-// If it is in components/AdmissionForm, use '../AdmissionForm/AdmissionForm'
+// ✅ IMPORT THE FORM
 import AdmissionForm from "../AdmissionForm/AdmissionForm";
 import brochurePdf from "../../assets/docs/KEC admission.pdf";
 
@@ -17,7 +15,7 @@ const AdmissionPage = () => {
   const [openFaq, setOpenFaq] = useState(null);
 
   // ✅ STATE TO CONTROL THE FORM POPUP
-  const [showForm, setShowForm] = useState(false); // Add state for form modal
+  const [showForm, setShowForm] = useState(false); 
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -32,33 +30,33 @@ const AdmissionPage = () => {
     ug: [
       { name: "B.E. Civil Engineering", link: "/civil" },
       { name: "B.E. Mechanical Engineering", link: "/mech" },
-      { name: "B.E. Electronics & Comm (ECE)", link: "/ece" },
-      { name: "B.E. Computer Science (CSE)", link: "/cse" },
+      { name: "B.E. Electronics and Communication Engineering", link: "/ece" },
+      { name: "B.E. Computer Science and Engineering", link: "/cse" },
       { name: "B.Tech Chemical Engineering", link: "/chem" },
-      { name: "B.E. Electrical & Electronics (EEE)", link: "/eee" },
-      { name: "B.E. Electronics & Instru (EIE)", link: "/eie" },
-      { name: "B.Tech Information Tech (IT)", link: "/it" },
-      { name: "B.E. Mechatronics", link: "/mts" },
+      { name: "B.E. Electrical and Electronics Engineering", link: "/eee" },
+      { name: "B.E. Electronics and Instrumentation Engineering", link: "/eie" },
+      { name: "B.Tech Information Technology", link: "/it" },
+      { name: "B.E. Mechatronics Engineering", link: "/mts" },
       { name: "B.Tech Food Technology", link: "/foodtech" },
       { name: "B.E. Automobile Engineering", link: "/auto" },
-      { name: "B.E. Computer Science & Design", link: "/csd" },
-      { name: "B.Tech AI & Machine Learning", link: "/aiml" },
-      { name: "B.Tech AI & Data Science", link: "/aids" },
-      { name: "B.Arch (Architecture)", link: "/architecture" },
+      { name: "B.E. Computer Science and Design", link: "/csd" },
+      { name: "B.Tech Artificial Intelligence and Machine Learning", link: "/aiml" },
+      { name: "B.Tech Artificial Intelligence and Data Science", link: "/aids" },
+      { name: "B.Arch Architecture", link: "/architecture" },
     ],
     pg: [
-      { name: "M.E. Computer Science", link: "/cse" },
+      { name: "M.E. Computer Science and Engineering", link: "/cse" },
       { name: "M.E. VLSI Design", link: "/ece" },
-      { name: "M.E. Structural Engg", link: "/civil" },
+      { name: "M.E. Structural Engineering", link: "/civil" },
       { name: "M.Tech Food Technology", link: "/foodtech" },
-      { name: "MBA (Business Admin)", link: "/mba" },
-      { name: "MCA (Computer Apps)", link: "/mca" },
+      { name: "Master of Business Administration (MBA)", link: "/mba" },
+      { name: "Master of Computer Applications (MCA)", link: "/mca" },
     ],
     applied: [
-      { name: "B.Sc Computer Systems & Design", link: "/ctug" },
+      { name: "B.Sc Computer Systems and Design", link: "/ctug" },
       { name: "B.Sc Information Systems", link: "/ctug" },
       { name: "B.Sc Software Systems", link: "/ctug" },
-      { name: "M.Sc Software Systems (5 Yrs)", link: "/ctpg" },
+      { name: "M.Sc Software Systems (5 Years Integrated)", link: "/ctpg" },
     ],
   };
 
@@ -73,7 +71,8 @@ const AdmissionPage = () => {
     },
     {
       q: "How are the placements at KEC?",
-      a: "KEC has an excellent placement record. In the 2024-25 academic year, over 385+ companies visited, making 1691+ offers with a highest package of 24.7 LPA.",
+      // ✅ UPDATED: Shows Current (25-26) and Previous (24-25) Stats
+      a: "Placements are excellent. For the current 2025-26 year, we have already secured 450+ offers (Phase 1) with a highest package of 21 LPA. In the previous 2024-25 year, we achieved 1612 offers with a highest package of 24.7 LPA.",
     },
     {
       q: "Is there transport facility available?",
@@ -81,7 +80,7 @@ const AdmissionPage = () => {
     },
     {
       q: "How can I contact the admission office?",
-      a: "You can reach the admission cell at 04294-226555 or email us at principal@kongu.ac.in.",
+      a: "You can reach the admission cell at +91 94430 20583 or email us at registrar@kongu.ac.in.",
     },
   ];
 
@@ -92,15 +91,13 @@ const AdmissionPage = () => {
       {/* 1. HERO SECTION */}
       <section className="admission-hero">
         <div className="hero-content">
-          <h1>TRANSFORM YOURSELF</h1>
+          <h1>Admission Enquiry 2026-27</h1>
           <p>
-            Admissions Enquiry 2026-27 <br></br>NAAC A++ Accredited | Affiliated
-            to Anna University | <br></br>AICTE Approved
+            NAAC A++ Accredited | Affiliated to Anna University | <br></br>AICTE Approved
           </p>
           <div className="hero-btns">
-            {/* ✅ CONNECTED BUTTON */}
             <button className="btn-primary" onClick={() => setShowForm(true)}>
-              Enquiry Now
+              Register Now
             </button>
             <button
               className="btn-outline"
@@ -233,12 +230,6 @@ const AdmissionPage = () => {
           ))}
         </div>
       </div>
-
-      {/* ✅ FLOATING ENQUIRE BUTTON (Connected) */}
-      {/* <button className="floating-enquire-btn" onClick={handleOpenForm}>
-        <span className="btn-icon-float">💬</span>
-        Enquire Now
-      </button> */}
 
       {/* ✅ RENDER THE FORM (Hidden by default, shown when showForm is true) */}
       <AdmissionForm isOpen={showForm} onClose={() => setShowForm(false)} />

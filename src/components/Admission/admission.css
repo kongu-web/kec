@@ -1,9 +1,13 @@
 /* admission.css */
 
 :root {
-  --primary-blue: #003366;    /* KEC Blue */
-  --accent-green: #00c853;    /* VIT/NMIT style bright accent */
-  --light-bg: #f8f9fa;        /* Clean background */
+  /* ✅ UPDATED BLUE (#303877) */
+  --primary-blue: #303877;
+  
+  /* ✅ UPDATED GREEN (#319143) */
+  --accent-green: #319143;
+  
+  --light-bg: #f8f9fa;
   --white: #ffffff;
   --text-dark: #333;
   --text-light: #666;
@@ -16,28 +20,29 @@
   color: var(--text-dark);
 }
 
-/* --- 1. Hero Section (VIT Style) --- */
+/* --- 1. Hero Section --- */
 .admission-hero {
   position: relative;
-  height: 80vh; /* Taller hero like VIT */
+  height: 80vh;
   min-height: 500px;
+  
+  /* ✅ UPDATED GRADIENT TO MATCH #303877 (RGB: 48, 56, 119) */
   background: linear-gradient(
       to right, 
-      rgba(0, 51, 102, 0.9),  /* Darker blue on left where text is */
-      rgba(0, 51, 102, 0.4)   /* Lighter blue on right to show image */
+      rgba(48, 56, 119, 0.95),  /* Deep Blue on text side */
+      rgba(48, 56, 119, 0.5)    /* Transparent Blue on image side */
     ),
-    /* Replace this URL with your own local image path later */
     url('https://images.unsplash.com/photo-1606761568499-6d2451b23c66?q=80&w=1920&auto=format&fit=crop');
 
-  background-size: cover;     /* Ensure image covers the whole area */
+  background-size: cover;
   background-position: center;
-  background-attachment: fixed; /* Parallax effect */
+  background-attachment: fixed;
   display: flex;
   align-items: center;
-  justify-content: flex-start; /* Align left */
+  justify-content: flex-start;
   padding: 0 5%;
   color: var(--white);
-  padding-top: 80px; /* Navbar spacing */
+  padding-top: 80px;
 }
 
 .hero-content {
@@ -65,8 +70,9 @@
   gap: 15px;
 }
 
+/* ✅ UPDATED BUTTON COLOR */
 .btn-primary {
-  background: var(--accent-green);
+  background: var(--accent-green); /* Uses #319143 */
   color: var(--white);
   padding: 15px 35px;
   border-radius: 4px;
@@ -80,9 +86,9 @@
 }
 
 .btn-primary:hover {
-  background: #009624;
+  background: #257a36; /* Slightly darker shade of #319143 */
   transform: translateY(-3px);
-  box-shadow: 0 10px 20px rgba(0, 200, 83, 0.4);
+  box-shadow: 0 10px 20px rgba(49, 145, 67, 0.4);
 }
 
 .btn-outline {
@@ -102,14 +108,14 @@
   color: var(--primary-blue);
 }
 
-/* --- 2. Stats Bar (NMIT Style Overlap) --- */
+/* --- 2. Stats Bar --- */
 .stats-strip {
-  background: var(--primary-blue);
+  background: var(--primary-blue); /* Uses #303877 */
   color: var(--white);
   display: flex;
   justify-content: space-around;
   padding: 40px 20px;
-  margin-top: -50px; /* Overlaps Hero */
+  margin-top: -50px;
   position: relative;
   z-index: 2;
   box-shadow: 0 10px 30px rgba(0,0,0,0.15);
@@ -126,7 +132,7 @@
 .stat-box h2 { font-size: 42px; margin: 0; font-weight: 800; color: var(--accent-green); }
 .stat-box span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
 
-/* --- 3. Program Explorer (Tabs) --- */
+/* --- 3. Program Explorer --- */
 .section-container {
   max-width: 1200px;
   margin: 80px auto;
@@ -179,10 +185,10 @@
 .tab-btn.active {
   background: var(--primary-blue);
   color: var(--white);
-  box-shadow: 0 5px 15px rgba(0, 51, 102, 0.3);
+  box-shadow: 0 5px 15px rgba(48, 56, 119, 0.3);
 }
 
-/* Course Grid (VIT Style) */
+/* Course Grid */
 .course-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -200,20 +206,13 @@
   align-items: center;
 }
 
-.course-card:hover {
-  transform: translateY(-5px);
-}
-
-/* Add this to admission.css */
-
 .course-link {
-  text-decoration: none; /* Removes underline from Link */
-  color: inherit; /* Keeps text color */
-  display: block; /* Makes the whole area clickable */
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
 
 .course-card:hover {
-  border-left: 4px solid var(--accent-green);
   transform: translateY(-5px);
   cursor: pointer;
 }
@@ -233,7 +232,7 @@
 .course-info h4 { margin: 0; font-size: 16px; color: var(--text-dark); }
 .course-info span { font-size: 12px; color: #888; }
 
-/* --- 4. Admission Process (Step Flow) --- */
+/* --- 4. Admission Process --- */
 .process-section {
   background: var(--white);
   padding: 80px 20px;
@@ -247,90 +246,6 @@
   position: relative;
 }
 
-
-/* --- Floating Enquire Button (Bottom Left & Glassmorphic) --- */
-.floating-enquire-btn {
-  position: fixed;
-  bottom: 30px;
-  left: 30px; /* ✅ Moved to Left to avoid Chatbot */
-  
-  /* Modern Glassmorphism Gradient */
-  background: rgba(0, 200, 83, 0.85); /* Semi-transparent Green */
-  backdrop-filter: blur(10px);        /* Frosted Glass Effect */
-  -webkit-backdrop-filter: blur(10px);
-  
-  color: var(--white);
-  padding: 15px 35px;
-  border-radius: 50px;
-  font-weight: 700;
-  text-decoration: none;
-  font-size: 16px;
-  letter-spacing: 0.5px;
-  
-  /* Deep Shadow for 3D effect */
-  box-shadow: 0 10px 25px rgba(0, 200, 83, 0.3);
-  border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
-  
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  
-  /* Smooth Transitions */
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  animation: slideUpFade 1s ease-out, pulse-glow 3s infinite;
-}
-
-/* Hover Effect: Expands & Brightens */
-.floating-enquire-btn:hover {
-  transform: translateY(-5px) scale(1.02);
-  background: rgba(0, 230, 118, 0.95); /* Brighter Green */
-  box-shadow: 0 15px 35px rgba(0, 200, 83, 0.5);
-  padding-right: 45px; /* Slight expansion */
-}
-
-.btn-icon-float {
-  font-size: 20px;
-  animation: floatIcon 3s ease-in-out infinite;
-}
-
-/* Entrance Animation */
-@keyframes slideUpFade {
-  0% { opacity: 0; transform: translateY(50px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-
-/* Subtle Glowing Pulse */
-@keyframes pulse-glow {
-  0% { box-shadow: 0 0 0 0 rgba(0, 200, 83, 0.6); }
-  50% { box-shadow: 0 0 0 10px rgba(0, 200, 83, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(0, 200, 83, 0); }
-}
-
-/* Icon Floating Animation */
-@keyframes floatIcon {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-3px); }
-}
-
-/* Mobile Responsiveness */
-@media (max-width: 768px) {
-  .floating-enquire-btn {
-    left: 50%;
-    transform: translateX(-50%); /* Center on mobile */
-    bottom: 20px;
-    width: 90%; /* Full width bar on mobile */
-    justify-content: center;
-    animation: none; /* Disable complex animations for performance */
-  }
-  
-  .floating-enquire-btn:hover {
-    transform: translateX(-50%) translateY(-2px);
-    padding-right: 35px;
-  }
-}
-
-/* Connecting Line */
 .steps-container::before {
   content: '';
   position: absolute;
@@ -374,51 +289,7 @@
 .step-title { font-weight: 700; margin-bottom: 5px; color: var(--text-dark); }
 .step-desc { font-size: 13px; color: #777; line-height: 1.5; }
 
-/* --- 5. Info Cards (Dates & Fees) --- */
-.info-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 30px;
-  max-width: 1200px;
-  margin: 60px auto;
-  padding: 0 20px;
-}
-
-.info-card {
-  background: var(--white);
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: var(--card-shadow);
-}
-
-.info-card h3 {
-  border-bottom: 2px solid #eee;
-  padding-bottom: 15px;
-  margin-top: 0;
-  color: var(--primary-blue);
-}
-
-.date-list, .doc-list { list-style: none; padding: 0; }
-.date-list li, .doc-list li {
-  padding: 12px 0;
-  border-bottom: 1px dashed #eee;
-  display: flex;
-  justify-content: space-between;
-  font-size: 14px;
-}
-
-.date-badge {
-  background: #ffebee;
-  color: #d32f2f;
-  padding: 4px 10px;
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 12px;
-}
-
-/* --- Add this to admission.css --- */
-
-/* FAQ Section (NMIT/VIT Style) */
+/* --- 5. FAQ Section --- */
 .faq-container {
   max-width: 900px;
   margin: 60px auto;
@@ -436,7 +307,7 @@
 }
 
 .faq-card.active {
-  border-left: 4px solid var(--accent-green); /* Highlights active FAQ */
+  border-left: 4px solid var(--accent-green);
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
@@ -464,8 +335,8 @@
 }
 
 .faq-card.active .faq-icon {
-  transform: rotate(45deg); /* Rotates icon when open */
-  color: #d32f2f; /* Changes to red for 'close' */
+  transform: rotate(45deg);
+  color: #d32f2f;
 }
 
 .faq-body {
@@ -476,7 +347,7 @@
 }
 
 .faq-card.active .faq-body {
-  max-height: 200px; /* Adjust based on content length */
+  max-height: 200px;
   padding: 0 25px 25px;
   border-top: 1px solid #eee;
 }
@@ -494,8 +365,7 @@
   .stats-strip { flex-direction: column; gap: 30px; margin-top: 0; }
   .stat-box { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 20px; }
   .steps-container { flex-direction: column; gap: 30px; align-items: center; }
-  .steps-container::before { display: none; } /* Hide line on mobile */
-  .info-grid { grid-template-columns: 1fr; }
+  .steps-container::before { display: none; }
 }
 
 @keyframes slideInLeft {

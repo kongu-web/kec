@@ -1,21 +1,30 @@
 import data from "./kongu.json";
 
+// --- UTILITY FUNCTIONS ---
+
 /**
- * Calculates the similarity between two strings (0 to 1).
- * 1 means identical, 0 means completely different.
- * Uses Levenshtein Distance algorithm for robustness against typos.
+ * Clean input: removes punctuation, extra spaces, and stop words.
+ * Returns an array of significant keywords.
+ */
+function extractKeywords(input) {
+  const stopWords = ["the", "is", "a", "an", "of", "in", "to", "for", "about", "tell", "me", "what", "are", "how", "details", "structure"];
+  return input
+    .toLowerCase()
+    .replace(/[.,/#!$%^&*;:{}=_`~()]/g, "") // Remove punctuation
+    .split(/\s+/) // Split by space
+    .filter(word => !stopWords.includes(word) && word.length > 1); // Remove stop words & single chars
+}
+
+/**
+ * Calculates similarity using Levenshtein distance (Fuzzy Matching).
+ * Returns score 0.0 to 1.0
  */
 function getSimilarity(s1, s2) {
   let longer = s1;
   let shorter = s2;
-  if (s1.length < s2.length) {
-    longer = s2;
-    shorter = s1;
-  }
+  if (s1.length < s2.length) { longer = s2; shorter = s1; }
   const longerLength = longer.length;
-  if (longerLength === 0) {
-    return 1.0;
-  }
+  if (longerLength === 0) return 1.0;
   return (longerLength - editDistance(longer, shorter)) / parseFloat(longerLength);
 }
 
@@ -43,107 +52,46 @@ function editDistance(s1, s2) {
 }
 
 /**
- * Checks if the user input loosely matches a keyword using fuzzy logic.
- * Threshold: 0.7 (70% similarity required)
+ * Robust Match: Checks if ANY keyword in user input loosely matches ANY keyword in the target list.
+ * Threshold: 0.8 (High confidence required)
  */
-function isMatch(input, keyword) {
-  const words = input.toLowerCase().split(" ");
-  // Check if any word in the input matches the keyword closely
-  return words.some(word => getSimilarity(word, keyword.toLowerCase()) > 0.75) || 
-         input.toLowerCase().includes(keyword.toLowerCase());
+function matchIntent(userKeywords, targetKeywords) {
+  return userKeywords.some(uWord => 
+    targetKeywords.some(tWord => getSimilarity(uWord, tWord) > 0.8)
+  );
 }
 
+// --- MAIN LOGIC ---
+
 export function getCollegeReply(input) {
-  const text = input.toLowerCase().trim();
+  const rawText = input.toLowerCase().trim();
+  const userKeywords = extractKeywords(rawText);
 
-  // --- 0. GREETINGS ---
-  if (isMatch(text, "hello") || isMatch(text, "hi") || isMatch(text, "hey")) {
-    return "Hello! I am the KEC Assistant. You can ask me about **Admissions**, **Placements**, **Courses**, or **Fees**.";
+  // 1. GREETINGS (Immediate response)
+  const greetingWords = ["hi", "hello", "hey", "greetings", "morning", "afternoon"];
+  if (matchIntent(userKeywords, greetingWords)) {
+    return "Hello! I am the KEC Assistant. I can help you with **Admissions**, **Placements**, **Fees**, or specific **Course Details**.";
   }
 
-  // --- 1. COURSE LISTING (Robust) ---
-  if (
-    isMatch(text, "courses") || 
-    isMatch(text, "programs") || 
-    (isMatch(text, "list") && isMatch(text, "all"))
-  ) {
-    let response = "Here are the courses offered at Kongu Engineering College:\n\n";
-    
-    response += "**🎓 Undergraduate (B.E./B.Tech)**\n";
-    response += data.courses.undergraduate.map(c => `• [${c.course_name}](chat:${c.course_name})`).join("\n");
-    
-    response += "\n\n**🎓 Postgraduate (M.E./MBA)**\n";
-    response += data.courses.postgraduate.map(c => `• [${c.course_name}](chat:${c.course_name})`).join("\n");
-    
-    response += "\n\n**🔬 Applied Science**\n";
-    response += data.courses.applied_science.map(c => `• [${c.course_name}](chat:${c.course_name})`).join("\n");
-
-    return response;
-  }
-
-  // --- 2. INTENT DETECTION (Scoring System) ---
-  // We check which category the user is most likely talking about
+  // 2. IDENTIFY INTENT (What is the user asking about?)
   const intents = {
-    admission: ["admission", "apply", "joining", "eligibility", "process", "register", "seat"],
-    placement: ["placement", "job", "recruit", "salary", "package", "offer", "company", "companies"],
-    fees: ["fee", "cost", "money", "price", "structure", "payment", "bills"],
+    fees: ["fee", "fees", "cost", "price", "payment", "tuition", "amount"],
+    placement: ["placement", "job", "recruit", "salary", "package", "offer", "companies", "hiring"],
+    admission: ["admission", "apply", "eligibility", "process", "register", "seat", "application", "joining", "join"],
     hostel: ["hostel", "accommodation", "room", "mess", "stay", "dorm"],
-    contact: ["contact", "phone", "email", "number", "address", "reach"]
+    contact: ["contact", "phone", "email", "number", "address", "reach", "location"],
+    courses: ["course", "courses", "program", "degree", "branch", "list", "departments"]
   };
 
-  let bestIntent = null;
-  let maxScore = 0;
-
-  for (const [intent, keywords] of Object.entries(intents)) {
-    let score = 0;
-    keywords.forEach(keyword => {
-      if (isMatch(text, keyword)) score++;
-    });
-    if (score > maxScore) {
-      maxScore = score;
-      bestIntent = intent;
+  let detectedIntent = null;
+  for (const [key, words] of Object.entries(intents)) {
+    if (matchIntent(userKeywords, words)) {
+      detectedIntent = key;
+      break; 
     }
   }
 
-  // Execute based on Best Detected Intent
-  if (maxScore > 0) {
-    switch (bestIntent) {
-      case "admission":
-        if (isMatch(text, "eligibility") || isMatch(text, "criteria")) {
-          const e = data.admissions.eligibility;
-          return `**${e.title}**\n\n${e.ug}\n${e.pg}\n${e.mba}`;
-        }
-        if (isMatch(text, "process") || isMatch(text, "how")) {
-          const p = data.admissions.process;
-          return `**${p.title}**\n\n${p.steps.join("\n")}`;
-        }
-        return `Admissions are **${data.admissions.status}**. What specific details do you need?\n\n` +
-               "• [Eligibility Criteria](chat:Eligibility)\n" +
-               "• [Application Process](chat:Admission Process)\n" +
-               "• [Contact Admission Cell](chat:Admission Contact)";
-
-      case "placement":
-        if (isMatch(text, "companies") || isMatch(text, "recruiters")) {
-          const r = data.placements.recruiters;
-          return `**${r.title}**\n${r.desc}\n\n${r.list.join(", ")}`;
-        }
-        const p = data.placements.highlights;
-        return `**${p.title}**\n${p.desc}\n\n${p.stats.map(s => `• ${s}`).join("\n")}\n\nWant to see [Top Recruiters](chat:Top Recruiters)?`;
-
-      case "fees":
-        return `**Fee Structure:**\n${data.college_info.fees}\n\nFor exact details per course, please contact the admission office.`;
-
-      case "hostel":
-        return `**Hostel Facilities:**\n${data.hostel}`;
-
-      case "contact":
-        const c = data.college_info.contact;
-        return `**Contact Us:**\n📞 Phone: ${c.phone}\n📧 Email: ${c.email}\n📍 Location: ${data.college_info.location}`;
-    }
-  }
-
-  // --- 3. SMART COURSE SEARCH (Deep Search) ---
-  // Flattens all courses into one list for searching
+  // 3. IDENTIFY COURSE (Is the user talking about a specific dept?)
   const allCourses = [
     ...data.courses.undergraduate,
     ...data.courses.postgraduate,
@@ -151,34 +99,79 @@ export function getCollegeReply(input) {
     ...data.courses.doctorate
   ];
 
-  // Find the best matching course
-  let bestMatchCourse = null;
-  let highestSim = 0;
+  let detectedCourse = null;
+  let maxSim = 0;
 
   allCourses.forEach(course => {
-    // Check match with Course Name (e.g., "Computer Science")
-    const nameSim = getSimilarity(text, course.course_name);
+    // Check against Course ID (e.g., "cse") OR Course Name keywords
+    // We treat the ID as a very strong keyword.
+    const courseKeywords = extractKeywords(course.course_name).concat(course.id);
     
-    // Check match with ID (e.g., "cse", "ece")
-    const idSim = getSimilarity(text, course.id);
-    
-    // Check match with Search Tags (e.g., "coding", "machinery")
-    const tagSim = course.search_tags.reduce((max, tag) => Math.max(max, getSimilarity(text, tag)), 0);
+    // Check if user keywords match course keywords
+    const matchCount = userKeywords.reduce((count, uWord) => {
+        return count + (courseKeywords.some(cWord => getSimilarity(uWord, cWord) > 0.85) ? 1 : 0);
+    }, 0);
 
-    // Get the maximum similarity found for this course
-    const currentMax = Math.max(nameSim, idSim, tagSim);
-
-    if (currentMax > highestSim) {
-      highestSim = currentMax;
-      bestMatchCourse = course;
+    // If matches found, pick the one with most keyword overlap
+    if (matchCount > maxSim) {
+      maxSim = matchCount;
+      detectedCourse = course;
     }
   });
 
-  // If we found a good match (Similarity > 0.5 means decent match)
-  if (bestMatchCourse && highestSim > 0.5) {
-    return `**${bestMatchCourse.course_name}**\n\n${bestMatchCourse.description}\n\n👉 [View Official Course Page](${bestMatchCourse.link})`;
+  // Strict Threshold for Course Detection: At least 1 strong keyword match needed
+  if (maxSim === 0) detectedCourse = null;
+
+
+  // --- 4. COMBINATION LOGIC (Intent + Course) ---
+  
+  if (detectedIntent === "fees" && detectedCourse) {
+     return `**Fee Structure for ${detectedCourse.id.toUpperCase()}:**\n\nWhile the general fee range is ${data.college_info.fees}, the exact fee for **${detectedCourse.course_name}** depends on your quota (Government/Management).\n\n👉 Please use the **Enquiry Now** button for the official fee quote.`;
+  }
+  
+  if (detectedIntent === "placement" && detectedCourse) {
+    // If we had specific placement data per course in JSON, we'd return it here.
+    // For now, return general highlights + specific encouragement.
+    return `**Placements for ${detectedCourse.id.toUpperCase()}:**\n\nStudents from **${detectedCourse.course_name}** are eligible for top recruiters.\n\n${data.placements.highlights.desc}\n\n👉 **Highest Package:** 24.7 LPA\n👉 **Top Recruiters:** Zoho, Accenture, Infosys.`;
   }
 
-  // --- 4. FALLBACK ---
-  return "I'm not sure I understood that. Could you check the spelling?\n\nYou can ask about:\n• [Admissions](chat:Admissions)\n• [Placements](chat:Placements)\n• [List of Courses](chat:Courses)";
+
+  // --- 5. INTENT RESPONSES (General) ---
+  
+  if (detectedIntent) {
+    switch (detectedIntent) {
+      case "admission":
+         return `**Admissions ${data.admissions.status}**\n\n**Eligibility:**\n${data.admissions.eligibility.ug}\n\n**Process:**\n1. Register online\n2. Fill Application\n3. Counseling/Merit Selection`;
+      
+      case "fees":
+         return "For the most accurate **Fee Structure**, please fill out the **Enquiry Form** on this page.\n\nOr contact the office: **+91 94430 20583**.";
+      
+      case "placement":
+         const p = data.placements.highlights;
+         return `**${p.title}**\n\n${p.stats.map(s => `• ${s}`).join("\n")}\n\n**Top Recruiters:** ${data.placements.recruiters.list.slice(0,4).join(", ")}...`;
+      
+      case "hostel":
+         return `**Hostel Facilities:**\n${data.hostel}\n\n• 24/7 Wi-Fi & Medical Support\n• Hygienic Mess (Veg/Non-Veg)\n• Gym & Recreation Centers`;
+      
+      case "contact":
+         return `**Contact Us:**\n📞 ${data.college_info.contact.phone}\n📧 ${data.college_info.contact.email}\n📍 Perundurai, Erode.`;
+         
+      case "courses":
+         // If they just asked for "courses" without a specific name
+         if (!detectedCourse) {
+            return "We offer **B.E./B.Tech**, **M.E./M.Tech**, **MBA**, **MCA**, and **B.Sc** programs.\n\nWhich department are you interested in? (e.g., 'CSE', 'Food Tech', 'Mechanical')";
+         }
+    }
+  }
+
+
+  // --- 6. COURSE DESCRIPTION (Only Course detected, no intent) ---
+  
+  if (detectedCourse) {
+    return `**${detectedCourse.course_name}**\n\n${detectedCourse.description}\n\n👉 [View Official Course Page](${detectedCourse.link})`;
+  }
+
+  // --- 7. FALLBACK (Fault Tolerance) ---
+  
+  return "I didn't quite catch that. Could you rephrase?\n\nYou can ask about:\n• **Admissions**\n• **Placements**\n• **Fees**\n• **Hostel**\n• Or specific courses like **CSE**, **ECE**, **B.Sc**.";
 }
