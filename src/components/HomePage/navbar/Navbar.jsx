@@ -574,8 +574,8 @@ const Navbar = () => {
                     <li onClick={() => navigate("/officebearers")}>
                       Management / Trust
                     </li>
-                    <li onClick={() => navigate("/approvals")}>
-                      Approvals & Accreditations
+                    <li onClick={() => navigate("/headoftheinstitution")}>
+                      Head of the Institution
                     </li>
                     <li onClick={() => navigate("/governingcouncil")}>
                       Governing Council

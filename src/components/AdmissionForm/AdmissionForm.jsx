@@ -21,7 +21,7 @@ const AdmissionForm = ({ isOpen, onClose }) => {
     mobile: "",
     degree: "",
     department: "",
-    city: "",
+    district: "",
     message: "",
   });
 
@@ -121,6 +121,14 @@ const AdmissionForm = ({ isOpen, onClose }) => {
               required
             />
 
+            <input
+              type="text"
+              name="district"
+              placeholder="District"
+              value={formData.district}
+              onChange={handleChange}
+            />
+
             <select
               name="degree"
               value={formData.degree}
@@ -141,20 +149,43 @@ const AdmissionForm = ({ isOpen, onClose }) => {
               onChange={handleChange}
             >
               <option value="">Department</option>
-              <option value="Computer Science">Computer Science</option>
-              <option value="Electronics">Electronics</option>
-              <option value="Mechanical">Mechanical</option>
               <option value="Civil">Civil</option>
+              <option value="Mechanical">Mechanical</option>
+              <option value="Electronics">Electronics and Communication</option>
+              <option value="Computer Science">Computer Science</option>
+              <option value="Chemical">Chemical</option>
+              <option value="Electrical and Electronics">
+                Electrical and Electronics
+              </option>
+              <option value="Electronics and Instrumentation">
+                Electronics and Instrumentation
+              </option>
+              <option value="Information Technology">
+                Information Technology
+              </option>
+              <option value="Mechatronics">Mechatronics</option>
+              <option value="Food Technology">Food Technology</option>
+              <option value="Automobile">Automobile</option>
+              <option value="Computer Science and Design">
+                Computer Science and Design
+              </option>
+              <option value="Artificial Intelligence and Machine Learning">
+                Artificial Intelligence and Machine Learning
+              </option>
+              <option value="Artificial Intelligence and Data Science">
+                Artificial Intelligence and Data Science
+              </option>
+              <option value="B.Arch">B.Arch</option>
+              <option value="VLSI Design">VLSI Design</option>
+              <option value="Structural">Structural</option>
+              <option value="Master of Business Administration">
+                Master of Business Administration
+              </option>
+              <option value="Master of Computer Applications">
+                Master of Computer Applications
+              </option>
               {/* Add actual KEC departments */}
             </select>
-
-            <input
-              type="text"
-              name="city"
-              placeholder="City"
-              value={formData.city}
-              onChange={handleChange}
-            />
 
             <textarea
               name="message"
@@ -183,11 +214,11 @@ const AdmissionForm = ({ isOpen, onClose }) => {
             <div className="contact-info">
               <div className="contact-item">
                 <PhoneIcon />
-                <span>04294-226515 / 226517</span>
+                <span>+91 94430 20583</span>
               </div>
               <div className="contact-item">
                 <EnvelopeIcon />
-                <span>contactus@kongu.ac.in</span>
+                <span>registrar@kongu.ac.in</span>
               </div>
               <div className="contact-item">
                 <MapMarkerIcon />
