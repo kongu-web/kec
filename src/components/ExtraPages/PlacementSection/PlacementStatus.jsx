@@ -113,7 +113,7 @@ const PlacementStatus = () => {
   return (
     <div className="placement-status-wrapper">
       <div className="status-header">
-        <h2>Placement Status (As on November,2025)</h2>
+        <h2>Placement Status (As on December,2025)</h2>
         <select value={year} onChange={(e) => setYear(e.target.value)}>
           {availableYears.map((y) => (
             <option key={y} value={y}>

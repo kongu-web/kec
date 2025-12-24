@@ -172,7 +172,7 @@
   padding: 12px 40px;
   background: #fff;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
-  z-index: 1000;
+  z-index: 900;
 }
 
 /* STICKY */
@@ -306,17 +306,18 @@
 }
 
 .enquiry-btn {
-  background: #2f3576;
+  background: #319143;
+  /* background: #00c853; */
   color: #fff;
-  padding: 10px 18px;
+  padding: 8px 16px;
   border-radius: 10px;
   border: none;
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
 }
 
 .enquiry-btn:hover {
-  background: #1f245f;
+  background: #319143;
 }
 
 /* TNEA BADGE */
