@@ -93,11 +93,33 @@ const AdmissionPage = () => {
         <div className="hero-content">
           <h1>Admission Enquiry 2026-27</h1>
           <p>
-            NAAC A++ Accredited | Affiliated to Anna University | <br></br>AICTE Approved
+            NAAC A++ Accredited | Affiliated to Anna University | <br></br>AICTE
+            Approved
           </p>
           <div className="hero-btns">
-            <button className="btn-primary" onClick={() => setShowForm(true)}>
-              Register Now
+            <button
+              className="btn-primary"
+              onClick={() => {
+                window.open(
+                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=20&smId=OT5DDWQdZ9",
+                  "_blank",
+                  "noopener,noreferrer"
+                );
+              }}
+            >
+              UG Registration
+            </button>
+            <button
+              className="btn-primary"
+              onClick={() => {
+                window.open(
+                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=21&smId=2NvNiOP6nS",
+                  "_blank",
+                  "noopener,noreferrer"
+                );
+              }}
+            >
+              PG Registration
             </button>
             <button
               className="btn-outline"
