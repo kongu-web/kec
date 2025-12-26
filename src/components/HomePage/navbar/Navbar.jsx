@@ -598,6 +598,20 @@ const Navbar = () => {
                     <li onClick={() => navigate("/governingcouncil")}>
                       Governing Council
                     </li>
+
+                    <li onClick={() => navigate("/academiccouncil")}>
+                      Academic Council
+                    </li>
+
+                    <li onClick={() => navigate("/universityranks")}>
+                      University Ranks
+                    </li>
+
+                    <li onClick={() => navigate("/endownments")}>Endowments</li>
+
+                    <li onClick={() => navigate("/collegerules")}>
+                      College Rules
+                    </li>
                   </ul>
                 )}
 
@@ -645,7 +659,7 @@ const Navbar = () => {
                 )}
 
                 {/* PLACEMENT */}
-                <li
+                {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
@@ -664,10 +678,13 @@ const Navbar = () => {
                     <li>Career Guidance & Higher Studies Cell</li>
                     <li>Industry–Institute Interaction</li>
                   </ul>
-                )}
+                )} */}
+
+                <li onClick={() => navigate("/placement")}>Placement</li>
+                <li onClick={() => navigate("/admission")}>Admission</li>
 
                 {/* CAMPUS LIFE */}
-                <li
+                {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
@@ -692,7 +709,7 @@ const Navbar = () => {
                     <li>Health Centre</li>
                     <li>Student Support & Welfare</li>
                   </ul>
-                )}
+                )} */}
 
                 {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
                 <li className="divider">Utility Menu</li>
