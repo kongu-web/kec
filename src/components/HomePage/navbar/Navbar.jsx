@@ -192,6 +192,27 @@ const Navbar = () => {
                 </div>
               )}
             </div>
+
+            <div
+              className="nav-item has-submenu"
+              onMouseEnter={() => {
+                setActiveUtilityMenu(true);
+                setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
+              }}
+              onMouseLeave={() => setActiveUtilityMenu(false)}
+            >
+              <a href="#">Careers</a>
+
+              {activeUtilityMenu && (
+                <div className="submenu">
+                  <a href="https://kms.kongu.edu/recruitment/">Teaching</a>
+                  <a href="https://kms.kongu.edu/nt_recruitment/">
+                    Non-Teaching
+                  </a>
+                </div>
+              )}
+            </div>
+
             {/* <a href="/admission">Admission</a> */}
             <a href="https://alumni.kongu.edu/">Alumni</a>
             <a href="/onlinepayment">Online Payment</a>
@@ -803,13 +824,9 @@ const Navbar = () => {
                 {openMobileMenu === "others" && (
                   <ul className="mobile-submenu">
                     {/* Internal pages */}
-                    <li onClick={() => navigate("/facilities")}>
-                      Facilities
-                    </li>
+                    <li onClick={() => navigate("/facilities")}>Facilities</li>
 
-                    <li onClick={() => navigate("/ief")}>
-                      IEF
-                    </li>
+                    <li onClick={() => navigate("/ief")}>IEF</li>
 
                     {/* External pages */}
                     <li
@@ -883,9 +900,9 @@ const Navbar = () => {
                     <li onClick={() => navigate("/nba")}>NBA</li>
                     <li onClick={() => navigate("/naac")}>NAAC</li>
                     <li onClick={() => navigate("/nirf")}>NIRF</li>
-                    <li>AICTE - E&T</li>
-                    <li>AICTE - MCA</li>
-                    <li>AICTE - MBA</li>
+                    <li onClick={() => navigate("/aicteet")}>AICTE - E&T</li>
+                    <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
+                    <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
                 )}
 
@@ -900,12 +917,61 @@ const Navbar = () => {
                 </li>
                 {openMobileMenu === "erp" && (
                   <ul className="mobile-submenu">
-                    <li>Linways Portal</li>
-                    <li>KMS Portal</li>
+                    <li
+                      onClick={() =>
+                        window.open("http://iipc.kongu.edu", "_blank")
+                      }
+                    >
+                      Linways Portal
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://kongu.irins.org/", "_blank")
+                      }
+                    >
+                      KMS Portal
+                    </li>
                   </ul>
                 )}
 
-                <li onClick={() => navigate("/admission")}>Admission</li>
+                {/* Careers */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "careers" ? null : "careers"
+                    )
+                  }
+                >
+                  Careers <span className="arrow">▾</span>
+                </li>
+                {openMobileMenu === "careers" && (
+                  <ul className="mobile-submenu">
+                    <li
+                      onClick={() =>
+                        window.open(
+                          "https://kms.kongu.edu/recruitment/",
+                          "_blank"
+                        )
+                      }
+                    >
+                      Teaching
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open(
+                          "https://kms.kongu.edu/nt_recruitment/",
+                          "_blank"
+                        )
+                      }
+                    >
+                      Non-Teaching
+                    </li>
+                  </ul>
+                )}
+
                 <li onClick={() => navigate("/onlinepayment")}>
                   Online Payment
                 </li>

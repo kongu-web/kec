@@ -51,12 +51,12 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-item">
           <PhoneIcon />
-          <span>+91 9965 277 765</span>
+          <span>+91 94430 20583</span>
         </div>
 
         <div className="footer-top-item">
           <EnvelopeIcon />
-          <span>kec@kongu.ac.in</span>
+          <span>registrar@kongu.ac.in</span>
         </div>
 
         <div className="footer-top-item">
