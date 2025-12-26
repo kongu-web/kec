@@ -107,6 +107,7 @@ const Navbar = () => {
       "/health",
       "/welfare",
     ],
+    others: ["/facilities", "/ief"],
   };
 
   const isMenuActive = (routes) =>
@@ -510,6 +511,88 @@ const Navbar = () => {
             >
               Admission
             </li>
+
+            <li
+              className={`${
+                isMenuActive(menuRoutes.others) ? "active" : ""
+              } has-dropdown`}
+              onMouseEnter={() => setActiveDropdown(6)}
+            >
+              Others
+              {activeDropdown === 6 && (
+                <div
+                  className="card-dropdown"
+                  onMouseEnter={() => setActiveDropdown(6)}
+                  onMouseLeave={() => setActiveDropdown(null)}
+                >
+                  {/* Internal pages */}
+                  <span onClick={() => navigate("/facilities")}>
+                    <LifeIcon className="submenu-icon" />
+                    Facilities
+                  </span>
+
+                  <span onClick={() => navigate("/ief")}>
+                    <HostelIcon className="submenu-icon" />
+                    IEF
+                  </span>
+
+                  {/* External pages (open in new tab) */}
+                  <span
+                    onClick={() =>
+                      window.open("https://academic.kongu.edu/", "_blank")
+                    }
+                  >
+                    <LibraryIcon className="submenu-icon" />
+                    Academic
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("https://coe.kongu.edu/", "_blank")
+                    }
+                  >
+                    <ClubIcon className="submenu-icon" />
+                    COE
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("https://rnd.kongu.edu/", "_blank")
+                    }
+                  >
+                    <WelfareIcon className="submenu-icon" />
+                    R&amp;D
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("https://kecidealab.kongu.edu/", "_blank")
+                    }
+                  >
+                    <SportsIcon className="submenu-icon" />
+                    KEC - AICTE Idea Lab
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("http://iipc.kongu.edu", "_blank")
+                    }
+                  >
+                    <DanceIcon className="submenu-icon" />
+                    IIPC
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("https://kongu.irins.org/", "_blank")
+                    }
+                  >
+                    <GeneralIcon className="submenu-icon" />
+                    Faculty Profile
+                  </span>
+                </div>
+              )}
+            </li>
           </ul>
 
           {/* RIGHT CTA */}
@@ -683,33 +766,101 @@ const Navbar = () => {
                 <li onClick={() => navigate("/placement")}>Placement</li>
                 <li onClick={() => navigate("/admission")}>Admission</li>
 
-                {/* CAMPUS LIFE */}
+                {/* PLACEMENT */}
                 {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
-                      openMobileMenu === "campus-life" ? null : "campus-life"
+                      openMobileMenu === "placement" ? null : "placement"
                     )
                   }
                 >
-                  Campus Life <span className="arrow">▾</span>
+                  Placement <span className="arrow">▾</span>
                 </li>
-                {openMobileMenu === "campus-life" && (
+                {openMobileMenu === "placement" && (
                   <ul className="mobile-submenu">
-                    <li>Life @ KEC</li>
-                    <li>Clubs & Associations</li>
-                    <li>NCC</li>
-                    <li>NSS</li>
-                    <li>YRC</li>
-                    <li>Sports & Games</li>
-                    <li>Cultural & Flagship Events</li>
-                    <li>Library</li>
-                    <li>Hostel</li>
-                    <li>Transport</li>
-                    <li>Health Centre</li>
-                    <li>Student Support & Welfare</li>
+                    <li>Training & Placement Cell</li>
+                    <li>Placement Statistics</li>
+                    <li>Recruiters</li>
+                    <li>Training Programs</li>
+                    <li>Career Guidance & Higher Studies Cell</li>
+                    <li>Industry–Institute Interaction</li>
                   </ul>
                 )} */}
+
+                {/* Others */}
+                <li
+                  className="mobile-menu-item"
+                  onClick={() =>
+                    setOpenMobileMenu(
+                      openMobileMenu === "others" ? null : "others"
+                    )
+                  }
+                >
+                  Others <span className="arrow">▾</span>
+                </li>
+
+                {openMobileMenu === "others" && (
+                  <ul className="mobile-submenu">
+                    {/* Internal pages */}
+                    <li onClick={() => navigate("/facilities")}>
+                      Facilities
+                    </li>
+
+                    <li onClick={() => navigate("/ief")}>
+                      IEF
+                    </li>
+
+                    {/* External pages */}
+                    <li
+                      onClick={() =>
+                        window.open("https://academic.kongu.edu/", "_blank")
+                      }
+                    >
+                      Academic
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://coe.kongu.edu/", "_blank")
+                      }
+                    >
+                      COE
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://rnd.kongu.edu/", "_blank")
+                      }
+                    >
+                      R&amp;D
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://kecidealab.kongu.edu/", "_blank")
+                      }
+                    >
+                      KEC - AICTE Idea Lab
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("http://iipc.kongu.edu", "_blank")
+                      }
+                    >
+                      IIPC
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://kongu.irins.org/", "_blank")
+                      }
+                    >
+                      Faculty Profile
+                    </li>
+                  </ul>
+                )}
 
                 {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
                 <li className="divider">Utility Menu</li>

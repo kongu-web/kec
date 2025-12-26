@@ -372,3 +372,59 @@
   from { opacity: 0; transform: translateX(-50px); }
   to { opacity: 1; transform: translateX(0); }
 }
+
+/* ============================= */
+/* 📱 MOBILE RESPONSIVE FIX */
+/* ============================= */
+@media (max-width: 768px) {
+
+  html, body {
+    overflow-x: hidden;
+  }
+
+  .admission-hero {
+    height: auto;
+    min-height: 100vh;
+    padding: 100px 20px 60px;
+    background-attachment: scroll; /* ❗ FIXES MOBILE OVERFLOW */
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-content {
+    max-width: 100%;
+    animation: none;
+  }
+
+  .hero-content h1 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .hero-content p {
+    font-size: 14px;
+    border-left: none;
+    padding-left: 0;
+  }
+
+  .hero-content p br {
+    display: none;
+  }
+
+  .hero-btns {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .hero-btns button {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .btn-primary,
+  .btn-outline {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+}
