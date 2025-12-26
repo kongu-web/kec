@@ -316,11 +316,9 @@ const Navbar = () => {
               )}
             </li> */}
             <li
-              className={
-                location.pathname.startsWith("/departments")
-                  ? "active has-dropdown"
-                  : "has-dropdown"
-              }
+              className={`${
+                isMenuActive(menuRoutes.departments) ? "active" : ""
+              } has-dropdown`}
               onMouseEnter={() => setActiveDropdown(3)}
             >
               Departments

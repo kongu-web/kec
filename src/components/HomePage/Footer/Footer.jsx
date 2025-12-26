@@ -244,7 +244,7 @@ const Footer = () => {
                   Internal Complaint Committee / Anti-Sexual Harassment Cell
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="/iqac-audit">
                   IQAC Accrediation and Academic Audit
                 </a>
@@ -254,7 +254,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="/research-ipr">Research & IPR Committee</a>
-              </li>
+              </li> */}
               <li>
                 <a href="/green-energy-audit">
                   Institution Policy Document & Green, Energy and Environment
