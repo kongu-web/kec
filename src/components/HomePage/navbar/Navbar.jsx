@@ -255,20 +255,40 @@ const Navbar = () => {
                     Management / Trust
                   </span>
 
-                  {/* <span onClick={() => navigate("/milestones")}>
-                  <MilestonesIcon className="submenu-icon" />
-                  Milestones & History
-                </span> */}
-
-                  <span onClick={() => navigate("/approvals")}>
-                    <ApprovalsIcon className="submenu-icon" />
-                    Approvals & Accreditations
+                  <span onClick={() => navigate("/headoftheinstitution")}>
+                    <MilestonesIcon className="submenu-icon" />
+                    Head of the Institution
                   </span>
 
                   <span onClick={() => navigate("/governingcouncil")}>
                     <GoverningIcon className="submenu-icon" />
                     Governing Council
                   </span>
+
+                  <span onClick={() => navigate("/academiccouncil")}>
+                    <ApprovalsIcon className="submenu-icon" />
+                    Academic Council
+                  </span>
+
+                  <span onClick={() => navigate("/universityranks")}>
+                    <ProgramsIcon className="submenu-icon" />
+                    University Ranks
+                  </span>
+
+                  <span onClick={() => navigate("/endownments")}>
+                    <SyllabusIcon className="submenu-icon" />
+                    Endowments
+                  </span>
+
+                  <span onClick={() => navigate("/collegerules")}>
+                    <ExaminationsIcon className="submenu-icon" />
+                    College Rule
+                  </span>
+
+                  {/* <span onClick={() => navigate("/approvals")}>
+                    <ExaminationsIcon className="submenu-icon" />
+                    Office of the COE / Examinations
+                  </span> */}
                 </div>
               )}
             </li>
