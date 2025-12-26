@@ -386,7 +386,9 @@ const Footer = () => {
 
       {/* FOOTER BOTTOM */}
       <div className="footer-bottom">
-        <p>© 2026 KONGU ENGINEERING COLLEGE. All Rights Reserved.</p>
+        <p>
+          © 2026 KONGU ENGINEERING COLLEGE. <span>All Rights Reserved.</span>
+        </p>
 
         <div className="footer-social">
           <a
