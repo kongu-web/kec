@@ -23,7 +23,7 @@
 /* --- 1. Hero Section --- */
 .admission-hero {
   position: relative;
-  height: 80vh;
+  height: 70vh;
   min-height: 500px;
   
   /* ✅ UPDATED GRADIENT TO MATCH #303877 (RGB: 48, 56, 119) */
@@ -42,7 +42,7 @@
   justify-content: flex-start;
   padding: 0 5%;
   color: var(--white);
-  padding-top: 80px;
+  /* padding-top: 80px; */
 }
 
 .hero-content {

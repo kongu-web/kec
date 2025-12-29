@@ -34,25 +34,30 @@ const Placement = () => {
           <p>
             The Training and Placement Cell at Kongu Engineering College is
             dedicated to providing students with the best opportunities for
-            their professional careers.
+            their professional careers. We work tirelessly to connect our
+            talented students with leading industries, ensuring they are
+            well-prepared to meet the challenges of the global workforce.
           </p>
           <p>
             We are committed to providing comprehensive training programs that
             enhance technical skills, soft skills, and overall employability.
+            Our dedicated team works tirelessly to ensure that every student
+            receives the guidance and support needed to launch a successful
+            career.
           </p>
 
           <ul className="placement-points">
             <li>
-              <strong>Career Guidance:</strong> Counselling to identify career
-              goals and suitable skill paths.
+              <strong>Career Guidance:</strong> Guidance and counselling to
+              identify career goals, suitable courses, and relevant skills.
             </li>
             <li>
-              <strong>Industry Connections:</strong> Collaborations for
-              internships, campus drives, and partnerships.
+              <strong>Industry Connections:</strong> Collaborations with
+              companies for internships, campus drives, and partnerships.
             </li>
             <li>
               <strong>Job Postings:</strong> Disseminates job openings and
-              internships.
+              internships, reducing stress during job hunting.
             </li>
           </ul>
         </div>
