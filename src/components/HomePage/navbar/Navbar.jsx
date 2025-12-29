@@ -131,7 +131,7 @@ const Navbar = () => {
 
   useEffect(() => {
     const setPadding = () => {
-      const header = document.querySelector('.header-container');
+      const header = document.querySelector(".header-container");
       if (header) {
         const headerHeight = header.offsetHeight;
         document.body.style.paddingTop = `${headerHeight}px`;
@@ -141,7 +141,7 @@ const Navbar = () => {
     const timer = setTimeout(setPadding, 100);
     return () => {
       clearTimeout(timer);
-      document.body.style.paddingTop = '0'; // Cleanup on unmount
+      document.body.style.paddingTop = "0"; // Cleanup on unmount
     };
   }, []);
 
