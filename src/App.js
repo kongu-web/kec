@@ -66,6 +66,8 @@ import Dispensary from './components/ExtraPages/Facilites/Dispensary/Dispensary.
 import AppliedScience from './components/Departments/AppliedScience.jsx';
 import Snh from './components/Departments/Snh.jsx';
 import PlacementSection from './components/ExtraPages/PlacementSection/PlacementSection.jsx';
+import Placement from "./components/ExtraPages/PlacementSection/Placement.jsx";
+
 import OnlinePayment from './components/ExtraPages/OnlinePayment/OnlinePayment.jsx';
 import Contact from './components/ExtraPages/Contact/Contact.jsx';
 import NirfPage from './components/FooterContents/QuickLinks/NirfPage/NirfPage.jsx';
@@ -126,142 +128,155 @@ const App = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  return loading ? <Spinner /> :  (
+  return loading ? (
+    <Spinner />
+  ) : (
     <Router>
       <Chatbot />
 
       <Routes>
-
         <Route path="/" element={<HomePage />} />
 
         {/* Cards */}
-        <Route path='/rankings' element={<Rankings />}/>
-        <Route path='/achievements' element={<Achievements />}/>
-        <Route path='/awards' element={<Awards />}/>
-        <Route path='/updates' element={<Updates />}/>
-        <Route path='/news-clippings' element={<NewsClippings />}/>
+        <Route path="/rankings" element={<Rankings />} />
+        <Route path="/achievements" element={<Achievements />} />
+        <Route path="/awards" element={<Awards />} />
+        <Route path="/updates" element={<Updates />} />
+        <Route path="/news-clippings" element={<NewsClippings />} />
 
         {/* Innovation Ecosystem */}
-        <Route path='/coe' element={<Coe />}/>
-        <Route path='/hackathons' element={<Hackathon />}/>
-
-
+        <Route path="/coe" element={<Coe />} />
+        <Route path="/hackathons" element={<Hackathon />} />
 
         {/* Departments */}
-        <Route path='/auto' element={<Auto />}/>
-        <Route path='/aids' element={<Aids />}/>
-        <Route path='/aiml' element={<Aiml />}/>
-        <Route path='/chem' element={<Chem />}/>
-        <Route path='/civil' element={<Civil />}/>
-        <Route path='/csd' element={<Csd />}/>
-        <Route path='/cse' element={<Cse />}/>
-        <Route path='/ctug' element={<Ctug />}/>
-        <Route path='/ctpg' element={<Ctpg />}/>
-        <Route path='/ece' element={<Ece />}/>
-        <Route path='/eie' element={<Eie />}/>
-        <Route path='/eee' element={<Eee />}/>
-        <Route path='/foodtech' element={<Foodtech />}/>
-        <Route path='/it' element={<It />}/>
-         <Route path='/architecture' element={<Architecture />}/>
-        <Route path='/mba' element={<Mba />}/>
-        <Route path='/mca' element={<Mca />}/>
-        <Route path='/mech' element={<Mech />}/>
-        <Route path='/mts' element={<Mts />}/>
-        <Route path='/maths' element={<Maths />}/>
-        <Route path='/english' element={<English />}/>
-        <Route path='/physics' element={<Physics />}/>
-        <Route path='/chemistry' element={<Chemistry />}/>
-
+        <Route path="/auto" element={<Auto />} />
+        <Route path="/aids" element={<Aids />} />
+        <Route path="/aiml" element={<Aiml />} />
+        <Route path="/chem" element={<Chem />} />
+        <Route path="/civil" element={<Civil />} />
+        <Route path="/csd" element={<Csd />} />
+        <Route path="/cse" element={<Cse />} />
+        <Route path="/ctug" element={<Ctug />} />
+        <Route path="/ctpg" element={<Ctpg />} />
+        <Route path="/ece" element={<Ece />} />
+        <Route path="/eie" element={<Eie />} />
+        <Route path="/eee" element={<Eee />} />
+        <Route path="/foodtech" element={<Foodtech />} />
+        <Route path="/it" element={<It />} />
+        <Route path="/architecture" element={<Architecture />} />
+        <Route path="/mba" element={<Mba />} />
+        <Route path="/mca" element={<Mca />} />
+        <Route path="/mech" element={<Mech />} />
+        <Route path="/mts" element={<Mts />} />
+        <Route path="/maths" element={<Maths />} />
+        <Route path="/english" element={<English />} />
+        <Route path="/physics" element={<Physics />} />
+        <Route path="/chemistry" element={<Chemistry />} />
 
         {/* AboutKec */}
-        <Route path='/aboutkec' element={<AboutKec />}/>
-        <Route path='/vision' element={<Vision />}/>
-        <Route path='/officebearers' element={<OfficeBearers />}/>
-        <Route path='/headoftheinstitution' element={<HeadoftheInstitution />}/>
-        <Route path='/governingcouncil' element={<GoverningCouncil />}/>
-        <Route path='/academiccouncil' element={<AcademicCouncil />}/>
-        <Route path='/universityranks' element={<UniversityRanks />}/>
-        <Route path='/endownments' element={<Endownments />}/>
-        <Route path='/collegerules' element={<CollegeRules />}/>
+        <Route path="/aboutkec" element={<AboutKec />} />
+        <Route path="/vision" element={<Vision />} />
+        <Route path="/officebearers" element={<OfficeBearers />} />
+        <Route
+          path="/headoftheinstitution"
+          element={<HeadoftheInstitution />}
+        />
+        <Route path="/governingcouncil" element={<GoverningCouncil />} />
+        <Route path="/academiccouncil" element={<AcademicCouncil />} />
+        <Route path="/universityranks" element={<UniversityRanks />} />
+        <Route path="/endownments" element={<Endownments />} />
+        <Route path="/collegerules" element={<CollegeRules />} />
 
         {/* Accrediation */}
-        <Route path='/autonomous' element={<Autonomous />}/>
-        <Route path='/university' element={<University/>}/>
-        <Route path='/nba' element={<Nba />}/>
-        <Route path='/naac' element={<Naac />}/>
-        <Route path='/nirf' element={<Nirf />}/>
-        <Route path='/aicteet' element={<Aicteet />}/>
-        <Route path='/aictemca' element={<Aictemca />}/>
-        <Route path='/aictemba' element={<Aictemba />}/>
+        <Route path="/autonomous" element={<Autonomous />} />
+        <Route path="/university" element={<University />} />
+        <Route path="/nba" element={<Nba />} />
+        <Route path="/naac" element={<Naac />} />
+        <Route path="/nirf" element={<Nirf />} />
+        <Route path="/aicteet" element={<Aicteet />} />
+        <Route path="/aictemca" element={<Aictemca />} />
+        <Route path="/aictemba" element={<Aictemba />} />
 
         {/* Extra Pages */}
-        <Route path='/facilities' element={<Facilites />}/>
-        <Route path='/ief' element={<IEF />}/>
-        <Route path='/ug' element={<Ug />}/>
-        <Route path='/pg' element={<Pg />}/>
-        <Route path='/doctoral' element={<Phd />}/>
+        <Route path="/facilities" element={<Facilites />} />
+        <Route path="/ief" element={<IEF />} />
+        <Route path="/ug" element={<Ug />} />
+        <Route path="/pg" element={<Pg />} />
+        <Route path="/doctoral" element={<Phd />} />
 
-        <Route path='/appliedscience' element={<AppliedScience/>}/>
-        <Route path='/snh' element={<Snh/>}/>
-        <Route path='/placement' element={<PlacementSection />}/>
-        <Route path='/onlinepayment' element={<OnlinePayment/>}/>
-        <Route path='/contact' element={<Contact/>}/>
+        <Route path="/appliedscience" element={<AppliedScience />} />
+        <Route path="/snh" element={<Snh />} />
+        <Route path="/placement" element={<PlacementSection />} />
+        <Route path="/placementnew" element={<Placement />} />
+
+        <Route path="/onlinepayment" element={<OnlinePayment />} />
+        <Route path="/contact" element={<Contact />} />
 
         {/* Facilites */}
-        <Route path='/facilities/physicaldept' element={<Physicaldept/>}/>
-        <Route path='/facilities/library' element={<Library/>}/>
-        <Route path='/facilities/hostelsandaccomodation' element={<HostelsandAccomodations/>}/>
-        <Route path='/facilities/transport' element={<Transport/>}/>
-        <Route path='/facilities/dispensary' element={<Dispensary/>}/>
-        
+        <Route path="/facilities/physicaldept" element={<Physicaldept />} />
+        <Route path="/facilities/library" element={<Library />} />
+        <Route
+          path="/facilities/hostelsandaccomodation"
+          element={<HostelsandAccomodations />}
+        />
+        <Route path="/facilities/transport" element={<Transport />} />
+        <Route path="/facilities/dispensary" element={<Dispensary />} />
 
         {/* Footer - QuickLinks */}
-        <Route path='/nirfpage' element={<NirfPage/>}/>
-        <Route path='/ariia' element={<Ariia/>}/>
-        <Route path='/strategicplan' element={<StrategicPlan/>}/>
-        <Route path='/student-centric-activities' element={<StudentCentric/>}/>
-        <Route path='/kongucrs' element={<KonguCRS/>}/>
-        <Route path='/webalbum' element={<WebAlbum/>}/>
-        <Route path='/audit-report' element={<AuditReport/>}/>
-        <Route path='/best-practices' element={<BestPractices/>}/>
-        <Route path='/fitness-protocols' element={<FitnessProtocol/>}/>
+        <Route path="/nirfpage" element={<NirfPage />} />
+        <Route path="/ariia" element={<Ariia />} />
+        <Route path="/strategicplan" element={<StrategicPlan />} />
+        <Route
+          path="/student-centric-activities"
+          element={<StudentCentric />}
+        />
+        <Route path="/kongucrs" element={<KonguCRS />} />
+        <Route path="/webalbum" element={<WebAlbum />} />
+        <Route path="/audit-report" element={<AuditReport />} />
+        <Route path="/best-practices" element={<BestPractices />} />
+        <Route path="/fitness-protocols" element={<FitnessProtocol />} />
 
         {/* Footer - Students Corner */}
-        <Route path='/help-desk' element={<HelpDesk />}/>
-        <Route path='/antiragging-cell' element={<AntiRaggingCell />}/>
-        <Route path='/antiragging-squad' element={<AntiRaggingSquad />}/>
-        <Route path='/ethics-committee' element={<CodeofConduct />}/>
-        <Route path='/industry-cell' element={<InstituteIndustryCell />}/>
+        <Route path="/help-desk" element={<HelpDesk />} />
+        <Route path="/antiragging-cell" element={<AntiRaggingCell />} />
+        <Route path="/antiragging-squad" element={<AntiRaggingSquad />} />
+        <Route path="/ethics-committee" element={<CodeofConduct />} />
+        <Route path="/industry-cell" element={<InstituteIndustryCell />} />
 
-        <Route path='/finance-committee' element={<FinanceCommittee />}/>
-        <Route path='/grievance-committee' element={<GrievanceRedressalCommittee />}/>
-        <Route path='/scst-grievance-committee' element={<GrievanceRedressalCommitteeSCST />}/>
-        <Route path='/internal-complaint-committee' element={<InternalCommiteeSexualPrevention />}/>
-        <Route path='/helpdeskcommittee' element={<HelpDeskCommittee />}/>
-        <Route path='/iqac-audit' element={<IQACAcademicCommittee />}/>
-        <Route path='/research-ipr' element={<ReseaerchIPRCommittee />}/>
-        <Route path='/green-energy-audit' element={<GreenEnergyCommittee />}/>
-        <Route path='/media-cell' element={<MediaCell />}/>
-        <Route path='/iic' element={<IIC />}/>
-        <Route path='/library-committee' element={<LibraryCommittee />}/>
-        <Route path='/counselling-cell' element={<StudentsCounsellingCell />}/>
-        <Route path='/Uhvcell' element={<UHVCell />}/>
-        <Route path='/women-helpline' element={<WomenHelpLine />}/>
-        <Route path='/feedback' element={<Feedback />}/>
+        <Route path="/finance-committee" element={<FinanceCommittee />} />
+        <Route
+          path="/grievance-committee"
+          element={<GrievanceRedressalCommittee />}
+        />
+        <Route
+          path="/scst-grievance-committee"
+          element={<GrievanceRedressalCommitteeSCST />}
+        />
+        <Route
+          path="/internal-complaint-committee"
+          element={<InternalCommiteeSexualPrevention />}
+        />
+        <Route path="/helpdeskcommittee" element={<HelpDeskCommittee />} />
+        <Route path="/iqac-audit" element={<IQACAcademicCommittee />} />
+        <Route path="/research-ipr" element={<ReseaerchIPRCommittee />} />
+        <Route path="/green-energy-audit" element={<GreenEnergyCommittee />} />
+        <Route path="/media-cell" element={<MediaCell />} />
+        <Route path="/iic" element={<IIC />} />
+        <Route path="/library-committee" element={<LibraryCommittee />} />
+        <Route path="/counselling-cell" element={<StudentsCounsellingCell />} />
+        <Route path="/Uhvcell" element={<UHVCell />} />
+        <Route path="/women-helpline" element={<WomenHelpLine />} />
+        <Route path="/feedback" element={<Feedback />} />
 
-        <Route path='/recruitment' element={<Recruitment />}/>
-      
+        <Route path="/recruitment" element={<Recruitment />} />
 
-        <Route path='/kecwebteam' element={<Webteam />}/>
+        <Route path="/kecwebteam" element={<Webteam />} />
         {/* <Route path='/Admission' element={<Admission />}/> */}
-     
 
         {/* Page Under Developement */}
-        <Route path='/PUD' element={<PageUnderDevelopement />} />
-        
-        <Route path='/admission' element={<Admission />} />
+        <Route path="/PUD" element={<PageUnderDevelopement />} />
 
-
+        <Route path="/admission" element={<Admission />} />
       </Routes>
     </Router>
   );

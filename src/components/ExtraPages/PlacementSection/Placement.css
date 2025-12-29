@@ -1,0 +1,154 @@
+/* GENERAL */
+.placement-page {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+/* HERO SECTION */
+.placement-hero {
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.placement-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.placement-overlay h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.placement-overlay p {
+  color: #eaeaea;
+  max-width: 800px;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+/* CONTENT */
+.placement-content {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 40px;
+}
+
+.content-left h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+  color: #0a4fb3;
+}
+
+.content-left p {
+  line-height: 1.8;
+  margin-bottom: 15px;
+}
+
+.placement-points {
+  margin-top: 20px;
+}
+
+.placement-points li {
+  margin-bottom: 12px;
+  line-height: 1.6;
+}
+
+/* STATS */
+.content-right {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.stat-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.stat-card h3 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+.stat-card span {
+  font-size: 14px;
+  color: #666;
+}
+
+/* COLOR ACCENTS */
+.orange h3 { color: #ff7a18; }
+.green h3 { color: #16a34a; }
+.purple h3 { color: #8b5cf6; }
+.blue h3 { color: #2563eb; }
+
+/* TEAM */
+.placement-team {
+  background: #eef9ff;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.placement-team h2 {
+  font-size: 32px;
+  margin-bottom: 40px;
+  color: #0a4fb3;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.team-card img {
+  width: 100%;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.team-card img:hover {
+  transform: translateY(-8px);
+}
+
+/* RESPONSIVE */
+@media (max-width: 992px) {
+  .placement-content {
+    grid-template-columns: 1fr;
+  }
+
+  .placement-overlay h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 576px) {
+  .placement-overlay h1 {
+    font-size: 28px;
+  }
+
+  .placement-overlay p {
+    font-size: 15px;
+  }
+}
