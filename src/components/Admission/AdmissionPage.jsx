@@ -72,7 +72,7 @@ const AdmissionPage = () => {
     {
       q: "How are the placements at KEC?",
       // ✅ UPDATED: Shows Current (25-26) and Previous (24-25) Stats
-      a: "Placements are excellent. For the current 2025-26 year, we have already secured 450+ offers (Phase 1) with a highest package of 21 LPA. In the previous 2024-25 year, we achieved 1612 offers with a highest package of 24.7 LPA.",
+      a: "Placements are excellent. For the current 2025-26 academic year, we have already secured 971+ offers (Phase 1) with a highest package of 21 LPA. In the previous 2024-25 year, we achieved 1693 offers with a highest package of 24.7 LPA.",
     },
     {
       q: "Is there transport facility available?",
@@ -144,15 +144,21 @@ const AdmissionPage = () => {
         </div>
         <div className="stat-box">
           <h2>1691</h2>
-          <span>Offers Made</span>
+          <span>
+            Academic Year 2025 - 2026 <br></br>Offers Made
+          </span>
         </div>
         <div className="stat-box">
           <h2>24.7 LPA</h2>
-          <span>Highest Salary</span>
+          <span>
+            Academic Year 2025 - 2026 <br></br>Highest Salary
+          </span>
         </div>
         <div className="stat-box">
           <h2>385</h2>
-          <span>Companies Visited</span>
+          <span>
+            Academic Year 2025 - 2026 <br></br>Companies Visited
+          </span>
         </div>
       </div>
 
