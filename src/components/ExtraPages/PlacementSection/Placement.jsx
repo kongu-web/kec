@@ -10,6 +10,7 @@ import stat1 from "../../../assets/images/Placement/Frame 260.png";
 import stat2 from "../../../assets/images/Placement/Frame 257.png";
 import stat3 from "../../../assets/images/Placement/Frame 261.png";
 import stat4 from "../../../assets/images/Placement/Frame 259.png";
+import star from "../../../assets/images/Placement/star.png";
 
 const Placement = () => {
   return (
