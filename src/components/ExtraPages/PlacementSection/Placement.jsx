@@ -6,6 +6,10 @@ import Footer from "../../HomePage/Footer/Footer";
 import heroImg from "../../../assets/images/Placement/placement-hero.png";
 import team1 from "../../../assets/images/Placement/team1.png";
 import team2 from "../../../assets/images/Placement/team2.png";
+import stat1 from "../../../assets/images/Placement/Frame 260.png";
+import stat2 from "../../../assets/images/Placement/Frame 257.png";
+import stat3 from "../../../assets/images/Placement/Frame 261.png";
+import stat4 from "../../../assets/images/Placement/Frame 259.png";
 
 const Placement = () => {
   return (
@@ -63,21 +67,32 @@ const Placement = () => {
         </div>
 
         <div className="content-right">
-          <div className="stat-card orange">
-            <h3>4000+</h3>
-            <span>Students Trained Annually</span>
-          </div>
-          <div className="stat-card green">
-            <h3>250+</h3>
-            <span>Industry Partners</span>
-          </div>
-          <div className="stat-card purple">
-            <h3>95%</h3>
-            <span>Placement Success Rate</span>
-          </div>
-          <div className="stat-card blue">
-            <h3>50+</h3>
-            <span>Training Programs</span>
+          <div class="stats-bg"></div>
+          <div className="stats-grid">
+            <div className="stat-card orange">
+              <img src={stat1} alt="Students" className="stat-icon" />
+
+              <h3>4000+</h3>
+              <span>Students Trained Annually</span>
+            </div>
+            <div className="stat-card green">
+              <img src={stat2} alt="Students" className="stat-icon" />
+
+              <h3>250+</h3>
+              <span>Industry Partners</span>
+            </div>
+            <div className="stat-card purple">
+              <img src={stat3} alt="Students" className="stat-icon" />
+
+              <h3>95%</h3>
+              <span>Placement Success Rate</span>
+            </div>
+            <div className="stat-card blue">
+              <img src={stat4} alt="Students" className="stat-icon" />
+
+              <h3>50+</h3>
+              <span>Training Programs</span>
+            </div>
           </div>
         </div>
       </section>

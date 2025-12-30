@@ -7,12 +7,12 @@
 .container {
   max-width: 1200px;
   margin: auto;
-  padding: 60px 20px;
+  padding: 60px 2px;
 }
 
 /* HERO SECTION */
 .placement-hero {
-  height: 90vh;
+  height: 80vh;
   background-size: cover;
   background-position: top;
   position: relative;
@@ -72,18 +72,52 @@
 
 /* STATS */
 .content-right {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.stat-card {
-  background: #fff;
-  border-radius: 14px;
-  padding: 30px 20px;
-  text-align: center;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+.stats-bg {
+  position: absolute;
+  inset: 0;
+  height: 520px;
+  background: url("../../../assets/images/Placement/stat_bg.png")
+              center / 100% auto no-repeat;
+  pointer-events: none;
 }
+
+
+.stats-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 260px);
+  gap: 28px 32px;
+  z-index: 2;
+}
+
+
+.stat-card {
+  position: relative;
+  background: #e5c2c2;
+  border-radius: 16px;
+  padding: 28px 20px;
+  text-align: right;
+  border-right: 5px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* ICON TOP LEFT */
+.stat-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+/* OPTIONAL: colored background circle */
 
 .stat-card h3 {
   font-size: 36px;
@@ -95,11 +129,35 @@
   color: #666;
 }
 
+.stat-card::after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 0;
+  width: 6px;
+  height: calc(100% - 20px);
+  border-radius: 10px;
+  background: #ff7a00;
+}
+
+.stat-card.green::after { background: #22c55e; }
+.stat-card.purple::after { background: #a855f7; }
+.stat-card.blue::after { background: #3b82f6; }
+
+
 /* COLOR ACCENTS */
-.orange h3 { color: #ff7a18; }
-.green h3 { color: #16a34a; }
-.purple h3 { color: #8b5cf6; }
-.blue h3 { color: #2563eb; }
+.orange border-right {
+  color: #ff7a18;
+}
+.green border-right {
+  color: #16a34a;
+}
+.purple border-right {
+  color: #8b5cf6;
+}
+.blue border-right {
+  color: #2563eb;
+}
 
 /* TEAM */
 .placement-team {
@@ -140,6 +198,16 @@
 
   .placement-overlay h1 {
     font-size: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .content-right {
+    grid-template-columns: 1fr;
+  }
+
+  .stat-card {
+    padding: 30px 20px;
   }
 }
 
