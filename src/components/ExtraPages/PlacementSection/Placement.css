@@ -82,11 +82,10 @@
   position: absolute;
   inset: 0;
   height: 520px;
-  background: url("../../../assets/images/Placement/stat_bg.png")
-              center / 100% auto no-repeat;
+  background: url("../../../assets/images/Placement/stat_bg.png") center / 100%
+    auto no-repeat;
   pointer-events: none;
 }
-
 
 .stats-grid {
   position: relative;
@@ -96,7 +95,6 @@
   z-index: 2;
 }
 
-
 .stat-card {
   position: relative;
   background: #e5c2c2;
@@ -104,7 +102,7 @@
   padding: 28px 20px;
   text-align: right;
   border-right: 5px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
 
 /* ICON TOP LEFT */
@@ -140,10 +138,15 @@
   background: #ff7a00;
 }
 
-.stat-card.green::after { background: #22c55e; }
-.stat-card.purple::after { background: #a855f7; }
-.stat-card.blue::after { background: #3b82f6; }
-
+.stat-card.green::after {
+  background: #22c55e;
+}
+.stat-card.purple::after {
+  background: #a855f7;
+}
+.stat-card.blue::after {
+  background: #3b82f6;
+}
 
 /* COLOR ACCENTS */
 .orange border-right {
