@@ -126,6 +126,22 @@ const Navbar = () => {
     return () => document.removeEventListener("mousedown", handleClick);
   }, []);
 
+  useEffect(() => {
+    const setPadding = () => {
+      const header = document.querySelector(".header-container");
+      if (header) {
+        const headerHeight = header.offsetHeight;
+        document.body.style.paddingTop = `${headerHeight}px`;
+      }
+    };
+    // Set padding after a short delay to ensure images are loaded
+    const timer = setTimeout(setPadding, 100);
+    return () => {
+      clearTimeout(timer);
+      document.body.style.paddingTop = "0"; // Cleanup on unmount
+    };
+  }, []);
+
   const toggleDropdown = (i) => {
     clearTimeout(timeoutId);
     setActiveDropdown(activeDropdown === i ? null : i);
