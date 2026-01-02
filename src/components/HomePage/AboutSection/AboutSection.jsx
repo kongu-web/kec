@@ -43,21 +43,21 @@ function AboutSection() {
           </p>
 
           <div className="stats-row">
-            <div className="stat-card">
+            <div className="home-stat-card">
               <h3>NAAC A+</h3>
               <p>Accreditation</p>
             </div>
-            <div className="stat-card">
+            <div className="home-stat-card">
               <h3>NBA</h3>
               <p>Accredited</p>
             </div>
-            <div className="stat-card">
+            <div className="home-stat-card">
               <h3>NIRF</h3>
               <p>Ranked</p>
             </div>
           </div>
 
-          <a href="/" className="know-more">
+          <a href="/aboutkec" className="know-more">
             Know More →
           </a>
         </div>
