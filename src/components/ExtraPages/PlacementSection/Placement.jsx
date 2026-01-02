@@ -146,9 +146,9 @@ const Placement = () => {
           </ul>
           <div className="know-more-wrapper">
             <a href="/placement-details" className="know-more-link">
-            <span>KNOW MORE</span>
-            <div className="arrow-circle">➜</div>
-          </a>
+              <span>KNOW MORE</span>
+              <div className="arrow-circle">➜</div>
+            </a>
           </div>
         </div>
 
@@ -709,6 +709,7 @@ const Placement = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </div>
   );
 };
