@@ -144,6 +144,12 @@ const Placement = () => {
               internships, reducing stress during job hunting.
             </li>
           </ul>
+          <div className="know-more-wrapper">
+            <a href="/placement-details" className="know-more-link">
+            <span>KNOW MORE</span>
+            <div className="arrow-circle">➜</div>
+          </a>
+          </div>
         </div>
 
         <div className="content-right">

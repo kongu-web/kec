@@ -206,8 +206,8 @@ const App = () => {
 
         <Route path="/appliedscience" element={<AppliedScience />} />
         <Route path="/snh" element={<Snh />} />
-        <Route path="/placement" element={<PlacementSection />} />
-        <Route path="/placementnew" element={<Placement />} />
+        <Route path="/placement" element={<Placement />} />
+        <Route path="/placement-details" element={<PlacementSection />} />
 
         <Route path="/onlinepayment" element={<OnlinePayment />} />
         <Route path="/contact" element={<Contact />} />
