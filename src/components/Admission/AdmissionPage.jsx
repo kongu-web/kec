@@ -72,11 +72,7 @@ const AdmissionPage = () => {
     {
       q: "How are the placements at KEC?",
       // ✅ UPDATED: Shows Current (25-26) and Previous (24-25) Stats
-<<<<<<< HEAD
       a: "Placements are excellent. For the academic year 2025-26, we have already secured 971+ offers (Phase 1) with a highest package of 21 LPA. In the academic year 2024-25, we achieved 1693 offers with a highest package of 24.7 LPA.",
-=======
-      a: "Placements are excellent. For the current 2025-26 academic year, we have already secured 971+ offers (Phase 1) with a highest package of 21 LPA. In the previous 2024-25 year, we achieved 1693 offers with a highest package of 24.7 LPA.",
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
     },
     {
       q: "Is there transport facility available?",
@@ -141,11 +137,7 @@ const AdmissionPage = () => {
       </section>
 
       {/* 2. STATS STRIP */}
-<<<<<<< HEAD
           <div className="stats-strip">
-=======
-      <div className="stats-strip">
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
         <div className="stat-box">
           <h2>41 Years</h2>
           <span>Of Excellence</span>
@@ -153,39 +145,23 @@ const AdmissionPage = () => {
         <div className="stat-box">
           <h2>1691</h2>
           <span>
-<<<<<<< HEAD
             Academic Year 2024 - 2025 <br></br>Offers Made
-=======
-            Academic Year 2025 - 2026 <br></br>Offers Made
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
           </span>
         </div>
         <div className="stat-box">
           <h2>24.7 LPA</h2>
           <span>
-<<<<<<< HEAD
             Academic Year 2024 - 2025 <br></br>Highest Salary
-=======
-            Academic Year 2025 - 2026 <br></br>Highest Salary
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
           </span>
         </div>
         <div className="stat-box">
           <h2>385</h2>
           <span>
-<<<<<<< HEAD
             Academic Year 2024 - 2025 <br></br>Companies Visited
-=======
-            Academic Year 2025 - 2026 <br></br>Companies Visited
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
           </span>
         </div>
       </div>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
       {/* 3. PROGRAM EXPLORER */}
       <div className="section-container">
         <div className="section-header">

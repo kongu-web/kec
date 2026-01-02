@@ -51,11 +51,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-item">
           <PhoneIcon />
-<<<<<<< HEAD
           <span>+91 94430 20583, +91 99652 77765</span>
-=======
-          <span>+91 94430 20583, +91 94439 42365</span>
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
         </div>
 
         <div className="footer-top-item">
@@ -315,19 +311,7 @@ const Footer = () => {
               <li>
                 <a href="/audit-report">Audit Report</a>
               </li>
-<<<<<<< HEAD
              
-=======
-              <li>
-                <a
-                  href="https://kongu.directverify.in/student/#/home"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Certificate Genuineness Verification
-                </a>
-              </li>
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
               <li>
                 <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
               </li>
@@ -342,7 +326,6 @@ const Footer = () => {
               </div>
             </div>
             <ul className={`footer-menu ${openIndex === 6 ? "open" : ""}`}>
-<<<<<<< HEAD
  <li>
                 <a
                   href="https://kongu.directverify.in/student/#/app/request"
@@ -353,8 +336,6 @@ const Footer = () => {
                 </a>
               </li>
 
-=======
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
               <li>
                 <a href="/kongucrs">Kongu CRS</a>
               </li>
