@@ -1,0 +1,210 @@
+/* General styles for container */
+.details-container {
+    padding: 20px;
+    overflow: hidden;
+  }
+  
+  .numbers-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+  }
+  
+  .top-value {
+    display: flex;
+  }
+  
+  .number-item {
+    text-align: center;
+    margin: 0 10px;
+  }
+  
+  .number,
+  .value {
+    font-size: 5rem;
+    font-weight: bold;
+    color: #736f6f1e;
+    text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
+    animation: shadow-dance 2s infinite;
+  }
+
+
+
+@keyframes shadow-dance {
+    0%, 100% {
+        text-shadow: 2px 2px 0 #ff005e, 4px 4px 0 #00d4ff;
+    }
+    50% {
+        text-shadow: -2px -2px 0 #00d4ff, -4px -4px 0 #ff005e;
+    }
+}
+
+
+  .label {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 1px;
+    text-transform: capitalize;
+  }
+
+  
+  /* courses */
+
+  
+  .courses-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Spacing between rows */
+  }
+  
+  .courses-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Spacing between containers */
+  }
+  
+  .course-box {
+    width: calc(50% - 10px);
+    border: 1px solid #ff327d;
+    display: flex;
+    cursor: pointer;
+    /* background-color: #00a0c192; */
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .course-box .icon{
+    margin-right: 10px;
+    color: #ff005e;
+    font-size: 20px;
+  }
+  .abbrev {
+    font-size: 20px;
+    /* font-weight: bold; */
+    text-align: center;
+  }
+  
+  .course-box:hover {
+    transform: scale(1.01);
+    background-position: center;
+    color: rgb(0, 0, 0);
+    border:2px solid #ff327d;
+  }
+  
+  
+  .course-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1; /* Ensure the overlay stays above the background image but below the text */
+  }
+  
+
+  .course-box:hover {
+    opacity: 0.9; /* Optional: Add hover effect */
+  }
+
+  @media (max-width: 768px) {
+    .courses-row {
+      flex-direction: column; /* Stack rows */
+      width: 100%; /* Full width */
+    }
+  
+    .abbrev {
+      font-size: 16px;
+      /* font-weight: bold; */
+      text-align: center;
+    }
+    .course-box {
+      width: 100%; /* Each course occupies full width */
+      max-width: 100%; /* Prevents any shrinking */
+    }
+  }
+  
+  
+  .button-container {
+    display: flex;
+    background-color: #007BFF;
+    justify-content: space-around;
+    gap: 15px;
+    margin: 10px 0;
+    width: 100%; /* Full viewport width */
+    padding: 0; /* Remove any padding */
+  }
+
+  
+  .button-container button {
+    width: 100%;
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .button-container button:hover {
+    color: #ff327d;
+  }
+  
+  .button-container button:focus {
+    outline: none;
+    transform: scale(1.05);
+  }
+  
+  .button-container button.active {
+    background-color: #ff9800; /* Orange for active selection */
+    color: white;
+  }
+
+
+  @media (max-width: 768px) {
+    .numbers-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center; 
+      justify-content: center;
+      width: 100vw; /* Ensure full width */
+      text-align: center;
+    }
+  
+    .number-item {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px auto; /* Ensure it is centered */
+    }
+  
+    .top-value {
+      justify-content: center; /* Ensures number and value are centered */
+    }
+  
+    .number {
+      font-size: 4rem;
+    }
+  
+    .value, .label {
+      font-size: 1.3rem;
+    }
+  }
+    
+  /* 📱 Smaller Devices (Phones) */
+  @media (max-width: 480px) {
+    .number-item {
+      width: 100%;
+      padding: 15px;
+    }
+  
+    .number {
+      font-size: 4rem;
+    }
+  
+    .value, .label {
+      font-size: 1.3rem;
+    }
+  }
+  

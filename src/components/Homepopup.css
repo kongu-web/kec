@@ -1,0 +1,116 @@
+.flash-news-popup {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #ffffff;
+  color: #1a1a1a;
+  padding: 1rem 1.2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+  width: 350px;
+  max-width: 95%;
+  text-align: center;
+  animation: slideInUp 0.4s ease-out;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flash-news-close-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: transparent;
+  border: none;
+  color: #888;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+  border-radius: 4px;
+  transition: color 0.2s ease;
+}
+
+.flash-news-close-btn:hover {
+  color: #333;
+}
+
+.flash-news-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.popup-img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 0.6rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.popup-img:hover {
+  transform: scale(1.02);
+}
+
+.flash-news-content a {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #0073e6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.flash-news-content a:hover {
+  color: #004fa3;
+  text-decoration: underline;
+}
+
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* Mobile responsive styles */
+@media screen and (max-width: 480px) {
+  .flash-news-popup {
+    padding: 0.8rem 1rem;
+    border-radius: 0.75rem;
+    width: 90%;
+    animation: slideInMobile 0.4s ease-out;
+  }
+
+  @keyframes slideInMobile {
+    from {
+      opacity: 0;
+      transform: translate(-50%, 50px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(-50%, 0);
+    }
+  }
+
+  .flash-news-close-btn {
+    font-size: 1rem;
+    top: 6px;
+    right: 6px;
+  }
+
+  .flash-news-content {
+    gap: 0.6rem;
+  }
+
+  .flash-news-content a {
+    font-size: 0.95rem;
+  }
+}

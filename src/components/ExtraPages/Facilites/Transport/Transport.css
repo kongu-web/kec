@@ -1,0 +1,125 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.transport-container {
+    padding: 8rem 2rem 2rem;
+    background: linear-gradient(135deg, #f9f9f9, #e0eafc);
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    animation: fadeIn 1s ease-in-out;
+
+  }
+  
+  .transport-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+    color: #2d3436;
+  }
+  
+  .transport-section {
+    margin-bottom: 3rem;
+    background-color: #ffffffdd;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  }
+  
+  .transport-section h3 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: #34495e;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;
+  }
+  
+  .transport-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .transport-list li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.5rem 0.8rem;
+    border-bottom: 1px dashed #ccc;
+    color: #2f3640;
+    font-size: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .transport-list li:last-child {
+    border-bottom: none;
+  }
+  
+  .transport-extra {
+    background: #f1f2f6;
+    border-left: 4px solid #3498db;
+    padding: 1.5rem;
+    border-radius: 10px;
+    color: #2d3436;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+  
+  /* Responsive Styles */
+  
+  @media (max-width: 768px) {
+    .transport-container {
+      padding: 6rem 1rem 2rem;
+    }
+  
+    .transport-title {
+      font-size: 2.2rem;
+      margin-bottom: 2rem;
+    }
+  
+    .transport-section h3 {
+      font-size: 1.4rem;
+    }
+  
+    .transport-list li {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.3rem;
+      font-size: 0.95rem;
+    }
+  
+    .transport-extra {
+      font-size: 0.95rem;
+      padding: 1rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .transport-title {
+      font-size: 2rem;
+    }
+  
+    .transport-section {
+      padding: 1rem;
+    }
+  
+    .transport-section h3 {
+      font-size: 1.3rem;
+    }
+  
+    .transport-list li {
+      font-size: 0.9rem;
+    }
+  
+    .transport-extra {
+      font-size: 0.9rem;
+    }
+  }
+  

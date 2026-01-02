@@ -1,0 +1,89 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.pg-container {
+    padding: 8rem 1rem 3rem;
+    background: linear-gradient(to bottom right, #f9f9f9, #e6f0ff);
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .pg-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+    color: #2c3e50;
+  }
+  
+  .pgpage-table-wrapper {
+    overflow-x: auto;
+  }
+  
+  .pgpage-table {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pgpage-table th,
+  .pgpage-table td {
+    padding: 1rem;
+    text-align: left;
+    font-weight: 500;
+    border-bottom: 1px solid #ddd;
+    font-size: 1rem;
+  }
+  
+  .pgpage-table th {
+    background-color: #303877;
+    color: white;
+    font-weight: 500;
+  }
+
+  .pgpage-table td:nth-child(4),
+  .pgpage-table th:nth-child(4) {
+    text-align: center;
+  }
+  
+  .pgpage-table tr:hover {
+    background-color: #f1f1f1;
+  }
+
+    .pg-link {
+      color: #009EDB;
+      cursor: pointer;
+      transition: color 0.3s;
+    }
+
+    .pg-link:hover {
+      color: #319143;
+      text-decoration: underline;
+    }
+  
+  @media (max-width: 768px) {
+    .pgpage-title {
+      font-size: 2rem;
+    }
+  
+    .pgpage-table th,
+    .pgpage-table td {
+      padding: 0.8rem;
+      font-size: 0.95rem;
+    }
+  }
+  

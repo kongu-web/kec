@@ -1,0 +1,89 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.ug-container {
+    padding: 8rem 1rem 3rem;
+    background: linear-gradient(to bottom right, #f9f9f9, #e6f0ff);
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .ug-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+    font-weight: 700;
+  }
+  
+  .ugpage-table-wrapper {
+    overflow-x: auto;
+    padding: 0 1rem;
+  }
+  
+  .ugpage-table {
+    width: 100%;
+    max-width: 1000px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .ugpage-table thead {
+    background-color: #303877;
+    color: white;
+  }
+  
+  .ugpage-table th,
+  .ugpage-table td {
+    padding: 1rem;
+    text-align: left;
+    font-weight: 500;
+    font-size: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+
+    .ugpage-table td:nth-child(4),
+    .ugpage-table th:nth-child(4) {
+      text-align: center;
+    }
+  
+  .ugpage-table tbody tr:hover {
+    background-color: #f1f9ff;
+  }
+  
+  .ugpage-link {
+    color: #009EDB;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .ugpage-link:hover {
+    color: #319143;
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .ug-title {
+      font-size: 2rem;
+    }
+  
+    .ugpage-table th,
+    .ugpage-table td {
+      padding: 0.8rem;
+      font-size: 0.95rem;
+    }
+  }
+  

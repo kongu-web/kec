@@ -1,0 +1,95 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.hostels-container {
+  padding: 8rem 1rem 4rem;
+  background: linear-gradient(to bottom right, #eef2f3, #ffffff);
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+  animation: fadeIn 1s ease-in-out;
+
+}
+
+.hostels-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1f2937;
+  margin-bottom: 3rem;
+  position: relative;
+}
+
+.hostel-section {
+  margin-bottom: 4rem;
+}
+
+.category-title {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #334155;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  letter-spacing: 1px;
+}
+
+.cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.hostel-card {
+  position: relative;
+  width: 320px;
+  height: 220px;
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  transition: transform 0.4s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  transform-style: preserve-3d;
+}
+
+.hostel-card:hover {
+  transform: scale(1.05) rotateZ(1deg);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
+}
+
+.hostel-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.hostel-card:hover .hostel-image {
+  transform: scale(1.05);
+}
+
+.hostel-name {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0.8rem 1rem;
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-align: center;
+  backdrop-filter: blur(8px);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  letter-spacing: 0.5px;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+}

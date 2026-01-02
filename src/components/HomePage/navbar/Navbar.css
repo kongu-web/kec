@@ -1,0 +1,528 @@
+/* ================= TOP UTILITY BAR ================= */
+.header-container {
+  width: 100%;
+  background: #ffffff;
+  color: #262464;
+  /* padding: 10px 20px; */
+  position: fixed;
+  top: 0px; /* Below Section */
+  /* display: flex;
+  align-items: center; */
+  justify-content: space-between;
+  z-index: 999; /* Lower than Section */
+  transition: background 0.5s ease;
+  border-bottom: 1px solid #b6b6bd;
+}
+
+.top-utility-bar {
+  display: flex;
+  width: 100%;
+  height: 39px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* LEFT GREEN */
+.utility-left {
+  background-color: #91c04a;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 24px;
+  position: relative;
+  white-space: nowrap;
+
+  /* INCREASE LEFT WIDTH */
+  flex: 0 0 620px;
+  /* change this value */
+}
+
+/* ANGLED CUT */
+.utility-left::after {
+  content: "";
+  position: absolute;
+  right: -32px;
+  top: 0;
+  width: 0;
+  height: 0;
+  border-top: 39px solid #91c04a;
+  border-right: 32px solid transparent;
+  z-index: 2;
+}
+
+/* MARQUEE */
+.marquee {
+  width: 100%;
+  overflow: hidden;
+}
+
+.marquee-track {
+  display: inline-flex;
+  color: #ffffff;
+  gap: 30px;
+  animation: marquee-scroll 6s linear infinite;
+}
+
+.utility-left:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+/* MARQUEE ANIMATION */
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+/* RIGHT BLUE */
+.utility-right {
+  background-color: #009edb;
+  color: #fff;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 42px;
+  padding: 0 32px 0 48px;
+  font-weight: 500;
+}
+
+/* NAV ITEM */
+.nav-item {
+  position: relative;
+}
+
+/* SUBMENU */
+.submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 125px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 8px rgb(54, 51, 125); /* padding: 10px 0; */
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.25s ease;
+  z-index: 999;
+}
+
+/* SHOW ON HOVER */
+.has-submenu:hover .submenu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* SUBMENU LINKS */
+.submenu a {
+  display: block;
+  padding: 8px 10px;
+  color: #303877;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.submenu a:hover {
+  background: #f3f6ff;
+}
+
+.utility-right a:hover {
+  /* text-decoration: underline; */
+}
+
+/* ICON SPACING */
+/* .divider {
+  opacity: 1;
+} */
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .utility-right {
+    display: none;
+  }
+
+  .top-utility-bar {
+    height: 25px;
+  }
+
+  .utility-left {
+    flex: 1;
+  }
+
+  .utility-left::after {
+    display: none;
+  }
+}
+
+/* ================= MAIN NAVBAR ================= */
+.main-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 40px;
+  background: #fff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  z-index: 900;
+}
+
+/* STICKY */
+.main-navbar.sticky {
+  position: sticky;
+  top: 0;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+/* LOGO + BADGES WRAPPER */
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+/* MAIN LOGO */
+.nav-logo {
+  height: 54px;
+}
+
+/* BADGES */
+.nav-badges {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.nav-badges img {
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin: 0;
+  padding: 0;
+}
+
+/* MENU ITEM */
+.nav-menu li {
+  position: relative;
+  padding: 8px 8px;
+  font-weight: 600;
+  color: #303877;
+  cursor: pointer;
+}
+
+/* TOP BAR */
+.nav-menu li.active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 20%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: #009edb;
+  border-radius: 3px;
+}
+
+/* BOTTOM BAR */
+.nav-menu li.active::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 80%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: #009edb;
+  border-radius: 3px;
+}
+
+.nav-menu li.has-dropdown {
+  position: relative;
+}
+
+/* CARD DROPDOWN */
+.card-dropdown {
+  position: absolute;
+  top: 130%;
+  left: 0;
+  width: max-content;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 0;
+  box-shadow: 2px 2px 3px rgba(0, 174, 222, 0.987);
+  z-index: 999;
+}
+
+/* ITEMS */
+.card-dropdown span {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 24px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #009edb;
+  cursor: pointer;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.card-dropdown span:hover {
+  background: #009edb;
+  color: #fff;
+}
+
+.card-dropdown span:hover .submenu-icon {
+  filter: brightness(0) invert(1);
+}
+
+.card-dropdown {
+  animation: dropdownFade 0.25s ease;
+}
+
+/* ================= RIGHT ACTIONS ================= */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.enquiry-btn {
+  background: #319143;
+  /* background: #00c853; */
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.enquiry-btn:hover {
+  background: #319143;
+}
+
+/* TNEA BADGE */
+.tnea-badge-img {
+  height: 42px;
+  width: auto;
+  object-fit: contain;
+  cursor: pointer;
+}
+.tnea-badge strong {
+  display: block;
+  font-size: 16px;
+}
+
+.mobile-icon {
+  display: none;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+  /* HEADER CONTAINER */
+  .main-navbar {
+    padding: 10px 14px;
+  }
+
+  /* LOGO + BADGES STACK */
+   .nav-left {
+    flex-direction: row;      /* keep in same line */
+    align-items: center;
+    gap: 8px;
+  }
+
+  .nav-logo {
+    height: 42px;
+    flex-shrink: 0;
+  }
+
+  .nav-badges {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: nowrap;        /* prevent wrapping */
+  }
+
+  .nav-badges img {
+    height: 30px;
+  }
+
+  /* HIDE DESKTOP MENU */
+  .nav-menu {
+    display: none;
+  }
+
+  /* SHOW MOBILE ICON */
+  .mobile-icon {
+    display: block;
+    font-size: 22px;
+  }
+
+  /* CTA BUTTON */
+  .enquiry-btn {
+    display: none !important;
+  }
+
+  .tnea-badge-img {
+    height: 30px;
+  }
+}
+
+/* ===== MOBILE DRAWER ===== */
+.mobile-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 85%;
+  max-width: 360px;
+  height: 100vh;
+  background: #ffffff;
+  z-index: 9999;
+
+  transform: translateX(-100%);
+  transition: transform 0.35s ease;
+  display: flex;
+  flex-direction: column;
+  /* box-shadow: 6px 0 20px rgba(0, 0, 0, 0.25); */
+}
+
+.mobile-drawer {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.mobile-drawer.open {
+  box-shadow: 5px 10px 230px rgba(0, 167, 209, 0.873);
+}
+
+/* OPEN STATE */
+.mobile-drawer.open {
+  transform: translateX(0);
+}
+
+/* HEADER */
+.mobile-drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border-bottom: 1px solid #eee;
+}
+
+.mobile-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.35s ease;
+  z-index: 9998;
+}
+
+.mobile-overlay.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.mobile-header-left {
+  display: flex;
+  align-items: center;
+}
+
+.mobile-logo {
+  height: 40px;
+}
+
+.mobile-header-actions {
+  display: flex;
+  align-items: center;          /* 🔥 aligns button + close */
+  gap: 20px;
+}
+
+.mobile-enquiry-btn {
+  height: 34px;                 /* 🔥 SAME HEIGHT */
+  padding: 0 14px;
+  background: #319143;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;          /* 🔥 center text vertically */
+  justify-content: center;
+  cursor: pointer;
+}
+
+.mobile-close {
+  font-size: 22px;
+  cursor: pointer;
+}
+
+/* BODY */
+.mobile-drawer-body {
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* MENU */
+.mobile-menu-list {
+  list-style: none;
+  padding: 10px 16px;
+}
+
+.mobile-menu-list li {
+  padding: 12px 0;
+  font-size: 16px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+/* SUBMENU */
+.mobile-menu-list .submenu {
+  padding-left: 16px;
+  background: #f9f9f9;
+}
+
+.mobile-menu-list .submenu li {
+  font-size: 14px;
+  padding: 8px 0;
+}
+
+/* DIVIDER */
+.mobile-menu-list .divider {
+  font-weight: 600;
+  margin-top: 16px;
+  border-bottom: none;
+}
+
+/* ENQUIRY BUTTON */
+.mobile-enquiry button {
+  width: 100%;
+  padding: 12px;
+  background: #0b2c6f;
+  color: #fff;
+  border-radius: 6px;
+  font-size: 16px;
+  border: none;
+}

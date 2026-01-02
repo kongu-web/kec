@@ -1,0 +1,124 @@
+{
+  "image": "../../../assets/images/Department Banner/aids.jpg",
+  "about": "Artificial Intelligence and Data Science (AIDS) is a branch of engineering that focuses on developing intelligent systems and analyzing vast amounts of data to derive meaningful insights. It integrates machine learning, deep learning, big data analytics, natural language processing, and cloud computing to solve complex real-world problems. AIDS engineers work on cutting-edge technologies such as AI-driven automation, predictive analytics, computer vision, and cybersecurity, driving innovation across industries like healthcare, finance, e-commerce, and smart cities. With the exponential growth of data and advancements in AI, the field continues to evolve, enhancing decision-making, efficiency, and automation. As the world moves towards an AI-powered future, Artificial Intelligence and Data Science play a crucial role in transforming industries and improving everyday life.",
+  "dept-name": " Artificial Intelligence and Data Science ",
+  "hod_name": "Dr.P.Natesan",
+  "intake": 180,
+  "staffs": 50,
+  "lab_count": 10,
+  "classrooms": 8,
+  "workshops": 5,
+  "research_centers": 2,
+  "patents_filed": 12,
+  "industry_mous": 15,
+  "vision": "To be a centre of excellence in the broad field of Artificial Intelligence by focusing knowledge-centric education, innovation and cutting-edge research to address the needs of industry and society.",
+  "mission": [
+      "To develop technocrats with strong core capabilities in Artificial Intelligence by continuously enhancing teaching and learning with state-of-the-art technologies.",
+      "To provide high-quality, value-based education to gain competence in Artificial Intelligence and allied areas in terms of research and innovation activities for societal benefits.",
+      "To promote students' professional growth by instilling ethical and leadership skills with industry support."
+  ],
+  "objective": "To equip students with the necessary technical and managerial skills.",
+  "peo": [
+      "Demonstrate excellence in cutting-edge technologies of Artificial Intelligence and Data Science and solve problems in society.",
+      "Solve intelligent computing and multidisciplinary challenges using their analytical, decision-making and core skills learned in Artificial Intelligence and Data Science.",
+      "Exhibit professional and ethical mindset and approach problems with social awareness by virtue of teamwork, communication and leadership qualities."
+  ],
+  "po": [
+      "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.",
+      "Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+      "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.",
+      "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+      "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.",
+      "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+      "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+      "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+      "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+      "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+      "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+      "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+      ],
+  "pso": [
+      "Foundations of Artificial Intelligence and Data Science: Identify and apply relevant analytical, statistical and computational methods and tools to build intelligent systems for societal benefits. ",
+      "Developing Data Driven Solutions: Comprehend, design, build and interpret data models and develop Artificial Intelligence driven solutions to address the needs of Industry and Society."
+  ],
+  "Top companies Using AI and Data Science are": [
+      "Google", "Apple", "Amazon", "Tesla", "Twitter", 
+      "Facebook", "Pandora", "Netflix", "uber"
+  ],
+  "highlights": {
+    "Funded Research Project": [
+      "Ongoing: ICMR – DHR sponsored project titled 'Study and development of a tool for Alzheimer's dementia detection from impulsive emotions, speech and language using transfer learning based deep neural network techniques' worth Rs. 19.67 lakh"
+    ],
+    "Faculty Journal Publications": [
+      "2022 – 2023 SCI ‐ 15, Scopus ‐ 34"],
+    "Faculty Book Chapter Publications": [
+        "2022-2023 ‐ 8"]
+  
+    },
+
+    "milestones": [
+      {
+        "year": 2023,
+        "event": "Establishment of Big Data Analytics Lab and Internet of Things Lab."
+      },
+      {
+        "year": 2022,
+        "event": " Establishment of Data Science Lab."
+      },
+     
+      {
+        "year": 2021,
+        "event": "Commencement of B.Tech-AIDS Programme."
+      }
+    ]  ,
+
+    "labs": [
+      {
+        "topic": "Machine Learning Laboratory",
+        "detail": "This Laboratory is used to enable the students to develop software applications using Python, Tableau, R programming, MATLAB, and Oracle.",
+        "image": "/assets/images/Laboratories/Aids/ml_lab.png"
+      },
+      {
+        "topic": "Data Science Laboratory",
+        "detail": "This Laboratory is used to enable the students to develop software applications using Tableau, Python, MongoDB, DEV C++, Eclipse IDE, and Power BI.",
+        "image": "/assets/images/Laboratories/Aids/ds_lab.png"
+      },
+      {
+        "topic": "Big Data Analytics Laboratory",
+        "detail": "This Laboratory is used to enable the students to develop software applications using DEV C++,Eclipse IDE, MongoDB, and Power BI.",
+        "image": "/assets/images/Laboratories/Aids/bda_lab.png"
+      },
+      {
+        "topic": "Internet of Things Laboratory",
+        "detail": "This Laboratory is used to enable the students to develop applications using MATLAB , Python, Arduino UNO kit, Raspberry Pi, Camera module, Ultrasonic sensor, Proximity sensor, Rain sensor, Temperature Sensor, PH Sensor, Humidity Sensor, and Motion sensor.",
+        "image": "/assets/images/Laboratories/Aids/iot_lab.png"
+      },
+      {
+        "topic": "Digital Electronics Laboratory",
+        "detail": "This lab offers the essential infrastructure for circuit prototyping, often equipped with prototyping boards, logic gates, and microcontroller programming facilities",
+        "image": "/assets/images/Laboratories/Aids/de_lab.png"
+      }
+     ],
+    
+    "library": {
+      "name": "Artificial Intelligence and Data Science",
+      "description": "The Artificial Intelligence and Data Science department has a separate department library to cater to the specific needs of the AIDS students. The following is the consolidated data related to the department library.",
+      "details": {
+        "total_area": "232 sq.m",
+        "number_of_volumes": 1786,
+        "number_of_titles": 1378,
+        "number_of_project_report_cd": 107,
+        "value_of_books_in_rs": "6.69Lakh",
+        "number_of_journals_and_magazines": "42/7",
+        "value_of_journals_in_rs": "1,34,150.00",
+        "working_hours": "8:40 AM to 4:30 PM"
+      }
+    },
+    "rnd": {
+      "academic": "https://rnd.kongu.edu/academic/automobile.php",
+      "activities":"https://rnd.kongu.edu/activities/automobile/index.php"
+    },    
+  "dept_images": [
+      "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+  ]
+}

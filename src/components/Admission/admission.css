@@ -1,0 +1,432 @@
+/* admission.css */
+
+:root {
+  /* ✅ UPDATED BLUE (#303877) */
+  --primary-blue: #303877;
+  
+  /* ✅ UPDATED GREEN (#319143) */
+  --accent-green: #319143;
+  
+  --light-bg: #f8f9fa;
+  --white: #ffffff;
+  --text-dark: #333;
+  --text-light: #666;
+  --card-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.admission-page-wrapper {
+  background-color: var(--light-bg);
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  color: var(--text-dark);
+}
+
+/* --- 1. Hero Section --- */
+.admission-hero {
+  position: relative;
+  height: 80vh;
+  min-height: 500px;
+  
+  /* ✅ UPDATED GRADIENT TO MATCH #303877 (RGB: 48, 56, 119) */
+  background: linear-gradient(
+      to right, 
+      rgba(48, 56, 119, 0.95),  /* Deep Blue on text side */
+      rgba(48, 56, 119, 0.5)    /* Transparent Blue on image side */
+    ),
+    url('https://images.unsplash.com/photo-1606761568499-6d2451b23c66?q=80&w=1920&auto=format&fit=crop');
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 5%;
+  color: var(--white);
+  padding-top: 80px;
+}
+
+
+
+.hero-content {
+  max-width: 600px;
+  animation: slideInLeft 0.8s ease-out;
+}
+
+.hero-content h1 {
+  font-size: 52px;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.hero-content p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  border-left: 4px solid var(--accent-green);
+  padding-left: 15px;
+}
+
+.hero-btns {
+  display: flex;
+  gap: 15px;
+}
+
+/* ✅ UPDATED BUTTON COLOR */
+.btn-primary {
+  background: var(--accent-green); /* Uses #319143 */
+  color: var(--white);
+  padding: 12px 30px;
+  border-radius: 4px;
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: #257a36; /* Slightly darker shade of #319143 */
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(49, 145, 67, 0.4);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--white);
+  padding: 15px 35px;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid var(--white);
+  transition: all 0.3s;
+}
+
+.btn-outline:hover {
+  background: var(--white);
+  color: var(--primary-blue);
+}
+
+/* --- 2. Stats Bar --- */
+.stats-strip {
+  background: var(--primary-blue); /* Uses #303877 */
+  color: var(--white);
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 20px;
+  margin-top: -50px;
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.stat-box {
+  text-align: center;
+  border-right: 1px solid rgba(255,255,255,0.2);
+  flex: 1;
+}
+
+.stat-box:last-child { border-right: none; }
+
+.stat-box h2 { font-size: 42px; margin: 0; font-weight: 800; color: var(--accent-green); }
+.stat-box span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
+
+/* --- 3. Program Explorer --- */
+.section-container {
+  max-width: 1200px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.section-header h2 {
+  font-size: 36px;
+  color: var(--primary-blue);
+  font-weight: 700;
+  position: relative;
+  display: inline-block;
+}
+
+.section-header h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: var(--accent-green);
+  margin: 10px auto 0;
+}
+
+/* Tab Navigation */
+.tabs-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.tab-btn {
+  padding: 12px 30px;
+  border: none;
+  background: #e0e0e0;
+  color: #555;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 15px;
+}
+
+.tab-btn.active {
+  background: var(--primary-blue);
+  color: var(--white);
+  box-shadow: 0 5px 15px rgba(48, 56, 119, 0.3);
+}
+
+/* Course Grid */
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+}
+
+.course-card {
+  background: var(--white);
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  border-left: 4px solid var(--accent-green);
+  transition: transform 0.3s;
+  display: flex;
+  align-items: center;
+}
+
+.course-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.course-icon {
+  font-size: 30px;
+  margin-right: 15px;
+  background: #e8f5e9;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.course-info h4 { margin: 0; font-size: 16px; color: var(--text-dark); }
+.course-info span { font-size: 12px; color: #888; }
+
+/* --- 4. Admission Process --- */
+.process-section {
+  background: var(--white);
+  padding: 80px 20px;
+}
+
+.steps-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.steps-container::before {
+  content: '';
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  right: 50px;
+  height: 2px;
+  background: #ddd;
+  z-index: 1;
+}
+
+.step-card {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  width: 200px;
+}
+
+.step-icon {
+  width: 80px;
+  height: 80px;
+  background: var(--white);
+  border: 2px solid var(--primary-blue);
+  color: var(--primary-blue);
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.step-card:hover .step-icon {
+  background: var(--primary-blue);
+  color: var(--white);
+  border-color: var(--primary-blue);
+}
+
+.step-title { font-weight: 700; margin-bottom: 5px; color: var(--text-dark); }
+.step-desc { font-size: 13px; color: #777; line-height: 1.5; }
+
+/* --- 5. FAQ Section --- */
+.faq-container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.faq-card {
+  background: var(--white);
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  margin-bottom: 20px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border-left: 4px solid transparent;
+}
+
+.faq-card.active {
+  border-left: 4px solid var(--accent-green);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.faq-header {
+  padding: 20px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background: var(--white);
+}
+
+.faq-question {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--primary-blue);
+  margin: 0;
+}
+
+.faq-icon {
+  font-size: 24px;
+  color: var(--accent-green);
+  font-weight: bold;
+  transition: transform 0.3s;
+}
+
+.faq-card.active .faq-icon {
+  transform: rotate(45deg);
+  color: #d32f2f;
+}
+
+.faq-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, padding 0.3s ease;
+  background: #fdfdfd;
+}
+
+.faq-card.active .faq-body {
+  max-height: 200px;
+  padding: 0 25px 25px;
+  border-top: 1px solid #eee;
+}
+
+.faq-answer {
+  color: #555;
+  line-height: 1.6;
+  font-size: 14px;
+  margin: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-content h1 { font-size: 36px; }
+  .stats-strip { flex-direction: column; gap: 30px; margin-top: 0; }
+  .stat-box { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 20px; }
+  .steps-container { flex-direction: column; gap: 30px; align-items: center; }
+  .steps-container::before { display: none; }
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-50px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+/* ============================= */
+/* 📱 MOBILE RESPONSIVE FIX */
+/* ============================= */
+@media (max-width: 768px) {
+
+  html, body {
+    overflow-x: hidden;
+  }
+
+  .admission-hero {
+    height: auto;
+    min-height: 100vh;
+    padding: 100px 20px 60px;
+    background-attachment: scroll; /* ❗ FIXES MOBILE OVERFLOW */
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-content {
+    max-width: 100%;
+    animation: none;
+  }
+
+  .hero-content h1 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .hero-content p {
+    font-size: 14px;
+    border-left: none;
+    padding-left: 0;
+  }
+
+  .hero-content p br {
+    display: none;
+  }
+
+  .hero-btns {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .hero-btns button {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .btn-primary,
+  .btn-outline {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+}

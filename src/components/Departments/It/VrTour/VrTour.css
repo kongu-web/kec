@@ -1,0 +1,69 @@
+.vr-tour {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border: none;
+    cursor: pointer;
+    z-index: 999;
+    padding: 0;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .vr-tour:hover {
+    transform: scale(1.1);
+    
+  }
+  
+  .vr-tour .btn-icon {
+    width: 40px;
+    color: #007BFF;
+    height: 40px;
+    border-radius: 50%;
+    animation: spin 10s linear infinite; /* Add this line */
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .iframe-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+  }
+  
+  .iframe-popup {
+    width: 90%;
+    height: 90%;
+    border: none;
+  }
+  
+  .close-modal {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 3000;
+  }
+  

@@ -1,0 +1,420 @@
+{
+    "historical": [
+      {
+        "year": "2004-2005",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 68,
+            "percentage": 72.82,
+            "companiesVisited": 25,
+            "hitRate": 2.68
+          },
+          {
+            "name": "IT",
+            "placed": 41,
+            "percentage": 55.55,
+            "companiesVisited": 25,
+            "hitRate": 1.6
+          },
+          {
+            "name": "ECE",
+            "placed": 52,
+            "percentage": 58.42,
+            "companiesVisited": 26,
+            "hitRate": 2
+          },
+          {
+            "name": "EEE",
+            "placed": 38,
+            "percentage": 57.14,
+            "companiesVisited": 23,
+            "hitRate": 1.56
+          },
+          {
+            "name": "EIE",
+            "placed": 28,
+            "percentage": 71.05,
+            "companiesVisited": 20,
+            "hitRate": 1.35
+          },
+          {
+            "name": "MECH",
+            "placed": 46,
+            "percentage": 61.81,
+            "companiesVisited": 19,
+            "hitRate": 1.78
+          },
+          {
+            "name": "MTRS",
+            "placed": 36,
+            "percentage": 100,
+            "companiesVisited": 16,
+            "hitRate": 2.12
+          },
+          {
+            "name": "CIVIL",
+            "placed": 12,
+            "percentage": 35.29,
+            "companiesVisited": 10,
+            "hitRate": 1.2
+          },
+          {
+            "name": "CHEM",
+            "placed": 22,
+            "percentage": 84.61,
+            "companiesVisited": 12,
+            "hitRate": 1.83
+          }
+        ]
+      },
+      {
+        "year": "2005-2006",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 66,
+            "percentage": 63.61,
+            "companiesVisited": 31,
+            "hitRate": 1.77
+          },
+          {
+            "name": "IT",
+            "placed": 48,
+            "percentage": 62.33,
+            "companiesVisited": 33,
+            "hitRate": 1.45
+          },
+          {
+            "name": "ECE",
+            "placed": 94,
+            "percentage": 77.04,
+            "companiesVisited": 37,
+            "hitRate": 2.54
+          },
+          {
+            "name": "EEE",
+            "placed": 39,
+            "percentage": 69.64,
+            "companiesVisited": 33,
+            "hitRate": 1.15
+          },
+          {
+            "name": "EIE",
+            "placed": 26,
+            "percentage": 72.22,
+            "companiesVisited": 27,
+            "hitRate": 0.96
+          },
+          {
+            "name": "MECH",
+            "placed": 47,
+            "percentage": 86.53,
+            "companiesVisited": 23,
+            "hitRate": 1.95
+          },
+          {
+            "name": "MTRS",
+            "placed": 29,
+            "percentage": 100,
+            "companiesVisited": 16,
+            "hitRate": 1.5
+          },
+          {
+            "name": "CIVIL",
+            "placed": 31,
+            "percentage": 72.09,
+            "companiesVisited": 16,
+            "hitRate": 1.93
+          },
+          {
+            "name": "CHEM",
+            "placed": 32,
+            "percentage": 94.11,
+            "companiesVisited": 16,
+            "hitRate": 2.0
+          }
+        ]
+      },
+      {
+        "year": "2006-2007",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 83,
+            "percentage": 87.36,
+            "companiesVisited": 32,
+            "hitRate": 2.59
+          },
+          {
+            "name": "IT",
+            "placed": 58,
+            "percentage": 74.35,
+            "companiesVisited": 31,
+            "hitRate": 1.87
+          },
+          {
+            "name": "ECE",
+            "placed": 83,
+            "percentage": 88.04,
+            "companiesVisited": 39,
+            "hitRate": 2.07
+          },
+          {
+            "name": "EEE",
+            "placed": 46,
+            "percentage": 76.27,
+            "companiesVisited": 44,
+            "hitRate": 1.02
+          },
+          {
+            "name": "EIE",
+            "placed": 39,
+            "percentage": 90.69,
+            "companiesVisited": 34,
+            "hitRate": 1.14
+          },
+          {
+            "name": "MECH",
+            "placed": 54,
+            "percentage": 100,
+            "companiesVisited": 35,
+            "hitRate": 1.51
+          },
+          {
+            "name": "MTRS",
+            "placed": 37,
+            "percentage": 100,
+            "companiesVisited": 18,
+            "hitRate": 2.05
+          },
+          {
+            "name": "CIVIL",
+            "placed": 48,
+            "percentage": 88.88,
+            "companiesVisited": 22,
+            "hitRate": 2.18
+          },
+          {
+            "name": "CHEM",
+            "placed": 34,
+            "percentage": 86.72,
+            "companiesVisited": 23,
+            "hitRate": 1.43
+          }
+        ]
+      },
+      {
+        "year": "2007-2008",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 106,
+            "percentage": 98.14,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "IT",
+            "placed": 85,
+            "percentage": 93.40,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "ECE",
+            "placed": 116,
+            "percentage": 96.67,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EEE",
+            "placed": 58,
+            "percentage": 96.67,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EIE",
+            "placed": 39,
+            "percentage": 95.12,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MECH",
+            "placed": 61,
+            "percentage": 100,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MTRS",
+            "placed": 44,
+            "percentage": 100,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CIVIL",
+            "placed": 56,
+            "percentage": 100,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CHEM",
+            "placed": 39,
+            "percentage": 97.5,
+            "companiesVisited": null,
+            "hitRate": null
+          }
+        ]
+      },
+      {
+        "year": "2008-2009",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 91,
+            "percentage": 83.49,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "IT",
+            "placed": 60,
+            "percentage": 73.17,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "ECE",
+            "placed": 90,
+            "percentage": 83.33,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EEE",
+            "placed": 67,
+            "percentage": 62.04,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EIE",
+            "placed": 34,
+            "percentage": 62.96,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MECH",
+            "placed": 70,
+            "percentage": 68.63,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MTRS",
+            "placed": 39,
+            "percentage": 72.22,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CIVIL",
+            "placed": 34,
+            "percentage": 60.71,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CHEM",
+            "placed": 37,
+            "percentage": 90.24,
+            "companiesVisited": null,
+            "hitRate": null
+          }
+        ]
+      },
+      {
+        "year": "2009-2010",
+        "departments": [
+          {
+            "name": "CSE",
+            "placed": 98,
+            "percentage": 81.42,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "IT",
+            "placed": 70,
+            "percentage": 77.65,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "ECE",
+            "placed": 100,
+            "percentage": 79.34,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EEE",
+            "placed": 81,
+            "percentage": 65.22,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "EIE",
+            "placed": 42,
+            "percentage": 76.36,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MECH",
+            "placed": 79,
+            "percentage": 61.16,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "MTS",
+            "placed": 32,
+            "percentage": 55.36,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CIVIL",
+            "placed": 43,
+            "percentage": 69.09,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "CHEM",
+            "placed": 40,
+            "percentage": 70.37,
+            "companiesVisited": null,
+            "hitRate": null
+          },
+          {
+            "name": "FT",
+            "placed": 16,
+            "percentage": 75.00,
+            "companiesVisited": null,
+            "hitRate": null
+          }
+        ]
+      }
+    ]
+  }
+  

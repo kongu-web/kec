@@ -1,0 +1,95 @@
+
+.awards-container {
+  padding: 8rem 2rem 3rem;
+  background: linear-gradient(to bottom, #fdfdfd, #f4f7fa);
+  min-height: 100vh;
+  /* font-family: 'Inter', sans-serif; */
+}
+
+.awards-heading {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: #1e2a38;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  /* text-transform: uppercase; */
+}
+
+.awards-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.award-card {
+  background: white;
+  padding: 3rem 1rem 1rem;
+  border-radius: 20px;
+  color: #222;
+  text-decoration: none;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 600;
+  border-left: 10px solid #e0f0ff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  animation: fadeIn 0.5s ease forwards;
+  position: relative;
+  overflow: hidden;
+  font-size: 1rem;
+}
+
+.award-card:hover {
+  transform: translateY(-6px);
+  background: linear-gradient(to right, #e0f0ff, #ffffff);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+}
+
+.award-card::after {
+  content: "📜";
+  font-size: 2rem;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: #dceeff;
+  color: #2c3e50;
+  padding: 0.5rem;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+  z-index: 10; /* ✅ Add this */
+
+}
+
+.award-card:hover::after {
+  transform: rotate(20deg);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Tweaks */
+@media (max-width: 768px) {
+  .awards-heading {
+    font-size: 2rem;
+  }
+
+  .award-card {
+    padding: 1.2rem;
+    font-size: 0.95rem;
+  }
+
+  .awards-container {
+    padding: 6rem 1.2rem 2rem;
+  }
+}

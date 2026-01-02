@@ -1,0 +1,130 @@
+.updates-container {
+    padding: 8rem 3rem 1rem;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .updates-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .updates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1rem;
+    justify-items: center;
+  }
+  
+  .updates-card {
+    background: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .updates-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .updates-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+  }
+  
+  .updates-caption {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.3;
+    font-weight: 500;
+  }
+  
+  /* Responsive tweaks */
+  @media (max-width: 768px) {
+    .updates-title {
+      font-size: 1.5rem;
+    }
+  
+    .updates-img {
+      height: 180px;
+    }
+  
+    .updates-caption {
+      font-size: 0.95rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .updates-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .updates-card {
+      max-width: 90%;
+    }
+  
+    .updates-img {
+      height: 160px;
+    }
+  }
+  .updates-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .updates-modal-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: black;
+  }
+  
+  .updates-modal-image {
+    height: 80%;
+    width: 100%;
+    object-fit: contain;
+    margin: 10px 0px;
+    padding: 0;
+    display: block;
+    background: black;
+  }
+  
+  .updates-modal-text {
+    height: 20%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 0 1rem;
+    background: black;
+  }
+  
+  .updates-modal-close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 2rem;
+    color: white;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  

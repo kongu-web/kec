@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.kec-spinner-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(251, 251, 251);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.kec-spinner-content {
+  text-align: center;
+}
+
+.kec-spinner-content h2 {
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #91C04A;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  animation: fadeSlideIn 1.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(-30px);
+  text-shadow: 2px 2px 4px rgba(29, 78, 216, 0.3);
+}
+
+.kec-spinner-content h2 span {
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #009EDB;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  animation: fadeSlideIn 1.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(-30px);
+  text-shadow: 2px 2px 4px rgba(29, 78, 216, 0.3);
+}
+
+@keyframes fadeSlideIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.kec-spinner-logo {
+  width: 180px;
+  height: 180px;
+  animation: kec-spin 3s linear infinite;
+}
+
+@keyframes kec-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

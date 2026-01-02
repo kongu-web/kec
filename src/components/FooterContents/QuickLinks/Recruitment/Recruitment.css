@@ -1,0 +1,81 @@
+/* Ensures full-screen wrapper with centered content */
+.ief-wrapper {
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  flex-direction: column;  /* Stack buttons vertically */
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+/* Button styling for 'View Old' button */
+.view-old-btn {
+  position: absolute;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  padding: 0.75rem 1.5rem;
+  background-color: #007BFF;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Hover effect for the 'View Old' button */
+.view-old-btn:hover {
+  background-color: #0056b3;
+  /* transform: scale(1.03); - This is commented out, feel free to enable it */
+}
+
+/* Main 'navigate-button' styling */
+.navigate-button {
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 10px;
+  transition: background-color 0.3s ease;
+  width: auto;
+  max-width: 300px; /* Prevents buttons from getting too wide on large screens */
+  display: inline-block;
+  box-sizing: border-box; /* Ensures padding doesn't affect the width */
+}
+
+/* Hover effect for navigate buttons */
+.navigate-button:hover {
+  background-color: #0066cc;
+}
+
+/* Media queries for responsive adjustments */
+@media (max-width: 768px) {
+  .navigate-button {
+    font-size: 0.9rem;
+    padding: 0.75rem 1.5rem;
+    width: 90%; /* Make buttons take up most of the screen width on small screens */
+    margin: 10px auto; /* Center the buttons */
+  }
+}
+
+@media (max-width: 480px) {
+  .navigate-button {
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+    width: 90%; /* Full width on very small screens */
+  }
+}
+
+.iframe-style {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ccc;
+}
