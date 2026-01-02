@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from './navbar/Navbar';
+import Banner from "./Banner/Banner";
+import AboutSection from "./AboutSection/AboutSection";
 import Hero from './Hero/Hero';
 import Slider from './Slider/Slider';
 import About from './About/About';
@@ -18,7 +20,6 @@ import Campus from './Campus/Campus';
 import Ranking from './Ranking/Ranking';
 import Ecosystem from './Ecosystem/Ecosystem';
 import Placement from './Placement/Placement';
-import CampusVideo from './CampusVideo/CampusVideo';
 import ScrollToTopButton from '../ScrollToTopButton';
 import Department from './Department/Department';
 import FlashNews from '../FlashNews';
@@ -28,21 +29,23 @@ import FlashNews from '../FlashNews';
 const HomePage = () => {
 
   return (
-    <div className='body'>
+    <div className="body">
       {/* <Section/> */}
-      <Navbar/>
-      <CampusVideo/>
+      <Navbar />
+      <Banner />
+      <AboutSection />
+      {/* <CampusVideo/>
       <Slider/>
-      <About/>
-      
+      <About/> */}
+
       {/* <Data/> */}
-      <Department/>
+      {/* <Department/>
        <VideoSlider/>
        
       <Ranking/>
-      <Placement/>
+      <Placement/> */}
       {/* <Newsletter/> */}
-      <Cards/>
+      {/* <Cards/>
       <Ecosystem/>
       <Hero/>
       <Campus/>
@@ -50,13 +53,13 @@ const HomePage = () => {
       <EndBanner/>
       <Contact/>
       <Footer/>
-      <ScrollToTopButton/>
+      <ScrollToTopButton/> */}
       {/* <Homepopup/> */}
       {/* <FlashNews/> */}
-      <recuritment/>
-     
+      {/* <recuritment/> */}
+      <Footer />
     </div>
-  )
+  );
 }
 
 export default HomePage;
