@@ -617,6 +617,7 @@ const Navbar = () => {
           </ul>
 
           {/* RIGHT CTA */}
+<<<<<<< HEAD
           {/* <div className="nav-actions">
             <button className="enquiry-btn" onClick={() => setShowForm(true)}>
               Enquiry Now
@@ -639,6 +640,13 @@ const Navbar = () => {
               Enquiry Now
             </a>
 
+=======
+          <div className="nav-actions">
+            <button className="enquiry-btn" onClick={() => setShowForm(true)}>
+              Enquiry Now
+            </button>{" "}
+            {/* Add onClick */}
+>>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
             <img
               src={tneaBadge}
               alt="TNEA Code 2711"
@@ -674,11 +682,16 @@ const Navbar = () => {
               />
 
               <div className="mobile-header-actions">
+<<<<<<< HEAD
                 {/* <button
+=======
+                <button
+>>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
                   className="mobile-enquiry-btn"
                   onClick={() => setShowForm(true)}
                 >
                   Enquiry Now
+<<<<<<< HEAD
                 </button> */}
 
                  <a
@@ -689,6 +702,9 @@ const Navbar = () => {
             >
               Enquiry Now
             </a>
+=======
+                </button>
+>>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
 
                 {/* <FontAwesomeIcon
                   icon={faXmark}
