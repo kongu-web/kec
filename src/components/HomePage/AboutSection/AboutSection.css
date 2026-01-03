@@ -67,6 +67,7 @@
   color: #00a8ff;
   border-radius: 20px;
   font-size: 16px;
+  font-weight: 500;
   margin-bottom: 15px;
 }
 
@@ -89,13 +90,28 @@
 }
 
 .home-stat-card {
+  position: relative;
   flex: 1;
   background: white;
   padding: 10px;
   border-radius: 14px;
   text-align: center;
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  overflow: hidden;
 }
+
+/* Top right corner accent */
+.home-stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  background: #009EDB;
+  clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
 
 .home-stat-card {
   font-size: 24px;
@@ -112,4 +128,110 @@
   font-weight: 600;
   color: #1f3c88;
   text-decoration: none;
+}
+
+/* ===================== Responsive ===================== */
+
+@media (max-width: 1024px) {
+  .about-wrapper {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .about-right h2 {
+    font-size: 26px;
+  }
+
+  .stats-row {
+    flex-wrap: wrap;
+  }
+
+  .home-stat-card {
+    flex: 1 1 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 60px 0;
+  }
+
+  .video-overlay {
+    padding: 12px 14px;
+  }
+
+  .video-text strong {
+    font-size: 15px;
+  }
+
+  .play-btn {
+    width: 38px;
+    height: 38px;
+  }
+
+  .about-right h2 {
+    font-size: 24px;
+  }
+
+  .home-stat-card {
+    flex: 1 1 100%;
+  }
+}
+
+@media (max-width: 576px) {
+
+  .stats-row {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .home-stat-card {
+    flex: 0 0 31.33%;
+    padding: 12px 8px;
+  }
+
+  .home-stat-card h3 {
+    font-size: 18px;
+  }
+
+  .home-stat-card p {
+    font-size: 12px;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .about-section {
+    padding: 40px 0;
+  }
+
+  .about-wrapper {
+    width: 92%;
+  }
+
+  .pill {
+    font-size: 14px;
+  }
+
+  .about-right p {
+    font-size: 14px;
+  }
+
+  .stats-row {
+    gap: 14px;
+  }
+
+  .home-stat-card {
+    padding: 14px 10px;
+  }
+
+  .home-stat-card::before {
+    width: 22px;
+    height: 22px;
+  }
+
+  .know-more {
+    font-size: 14px;
+  }
 }

@@ -1,0 +1,103 @@
+.academics-section {
+  padding: 80px 6%;
+  text-align: center;
+  background: #f4fbff;
+}
+
+.section-pill {
+  background: #e7f4ff;
+  color: #009edb;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.academics-section h2 {
+  margin: 18px 0 8px;
+  font-size: 28px;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 50px;
+}
+
+.academics-layout {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 40px;
+  text-align: left;
+}
+
+/* Left */
+.program-types {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.program-card {
+  background: white;
+  border-radius: 14px;
+  padding: 18px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(0,0,0,.08);
+  transition: .3s;
+}
+
+.program-card h4 { margin: 0; font-size: 22px; font-weight: 500; margin-bottom: 8px; }
+.program-card p { margin: 0; font-size: 16px; font-weight: 500; color: #666; }
+
+.program-card.active {
+  background: #009edb;
+  color: white;
+}
+
+/* Icon Container */
+.card-icon {
+  width: 46px;
+  height: 46px;
+  /* background: #e7f4ff; */
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-icon img {
+  width: 54px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.program-card.active p { color: #eaf7ff; }
+
+/* Right */
+.program-list {
+  background: white;
+  border-radius: 18px;
+  padding: 30px;
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+
+.program-list h3 {
+  margin-bottom: 20px;
+  font-size: 24px; font-weight: 600;
+}
+
+.program-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px 30px;
+}
+
+.program-item {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

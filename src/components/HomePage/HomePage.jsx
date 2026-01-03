@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import Navbar from './navbar/Navbar';
 import Banner from "./Banner/Banner";
 import AboutSection from "./AboutSection/AboutSection";
+import AcademicsSection from "./AcademicsSection/AcademicsSection";
+
 import Hero from './Hero/Hero';
 import Slider from './Slider/Slider';
 import About from './About/About';
@@ -34,6 +36,7 @@ const HomePage = () => {
       <Navbar />
       <Banner />
       <AboutSection />
+      <AcademicsSection />
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}

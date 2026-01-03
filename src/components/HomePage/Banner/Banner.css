@@ -10,3 +10,27 @@
   object-fit: cover;
   transition: opacity 0.8s ease-in-out;
 }
+
+/* ================= Banner Responsive ================= */
+
+@media (max-width: 768px) {
+  .Banner-container {
+    height: 450px;
+  }
+
+  .banner-image {
+    object-position: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .Banner-container {
+    height: 230px;
+  }
+}
+
+@media (max-width: 400px) {
+  .Banner-container {
+    height: 170px;
+  }
+}
