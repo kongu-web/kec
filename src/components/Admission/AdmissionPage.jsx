@@ -143,7 +143,7 @@ const AdmissionPage = () => {
           <span>Of Excellence</span>
         </div>
         <div className="stat-box">
-          <h2>1691</h2>
+          <h2>1693</h2>
           <span>
             Academic Year 2024 - 2025 <br></br>Offers Made
           </span>
@@ -155,7 +155,7 @@ const AdmissionPage = () => {
           </span>
         </div>
         <div className="stat-box">
-          <h2>385</h2>
+          <h2>371</h2>
           <span>
             Academic Year 2024 - 2025 <br></br>Companies Visited
           </span>
