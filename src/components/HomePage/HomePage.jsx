@@ -3,6 +3,9 @@ import Navbar from './navbar/Navbar';
 import Banner from "./Banner/Banner";
 import AboutSection from "./AboutSection/AboutSection";
 import AcademicsSection from "./AcademicsSection/AcademicsSection";
+import FelicitationSection from "./FelicitationSection/FelicitationSection";
+import LegacySection from "./LegacySection/LegacySection";
+import ExcellenceInPlacements from "./ExcellenceInPlacements/ExcellenceInPlacements";
 
 import Hero from './Hero/Hero';
 import Slider from './Slider/Slider';
@@ -37,6 +40,9 @@ const HomePage = () => {
       <Banner />
       <AboutSection />
       <AcademicsSection />
+      <FelicitationSection />
+      <LegacySection />
+      <ExcellenceInPlacements />
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}

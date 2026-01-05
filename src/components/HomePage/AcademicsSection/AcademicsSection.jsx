@@ -6,120 +6,146 @@ import card3 from "../../../assets/images/HomePage/ACADEMICS_card3.png";
 import card4 from "../../../assets/images/HomePage/ACADEMICS_card4.png";
 
 
+import {
+  FaBuilding,
+  FaCogs,
+  FaBroadcastTower,
+  FaLaptopCode,
+  FaFlask,
+  FaBolt,
+  FaMicrochip,
+  FaGlobe,
+  FaRobot,
+  FaAppleAlt,
+  FaCar,
+  FaPalette,
+  FaBrain,
+  FaChartBar,
+  FaUniversity,
+  FaCalculator,
+  FaAtom,
+  FaVial,
+  FaBookOpen,
+  FaGraduationCap,
+} from "react-icons/fa";
+
+
 
 const ugProgrammes = [
   {
     sno: 1,
     name: "B.E Civil Engineering",
-    icon: "🏗️",
+    icon: <FaBuilding />,
     duration: "4 Years",
     route: "civil",
   },
   {
     sno: 2,
     name: "B.E Mechanical Engineering",
-    icon: "⚙️",
+    icon: <FaCogs />,
     duration: "4 Years",
     route: "mech",
   },
   {
     sno: 3,
     name: "B.E Electronics and Communication Engineering",
-    icon: "📡",
+    icon: <FaBroadcastTower />,
     duration: "4 Years",
     route: "ece",
   },
   {
     sno: 4,
     name: "B.E Computer Science and Engineering",
-    icon: "💻",
+    icon: <FaLaptopCode />,
     duration: "4 Years",
     route: "cse",
   },
   {
     sno: 5,
     name: "B.Tech Chemical Engineering",
-    icon: "🧪",
+    icon: <FaFlask />,
     duration: "4 Years",
     route: "chem",
   },
   {
     sno: 6,
     name: "B.E Electrical and Electronics Engineering",
-    icon: "⚡",
+    icon: <FaBolt />,
     duration: "4 Years",
     route: "eee",
   },
   {
     sno: 7,
     name: "B.E Electronics and Instrumentation Engineering",
-    icon: "🎛️",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     route: "eie",
   },
   {
     sno: 8,
     name: "B.Tech Information Technology",
-    icon: "🌐",
+    icon: <FaGlobe />,
     duration: "4 Years",
     route: "it",
   },
   {
     sno: 9,
     name: "B.E Mechatronics Engineering",
-    icon: "🤖",
+    icon: <FaRobot />,
     duration: "4 Years",
     route: "mts",
   },
   {
     sno: 10,
     name: "B.Tech Food Technology",
-    icon: "🍎",
+    icon: <FaAppleAlt />,
     duration: "4 Years",
     route: "foodtech",
   },
   {
     sno: 11,
     name: "B.E Automobile Engineering",
-    icon: "🚗",
+    icon: <FaCar />,
     duration: "4 Years",
     route: "auto",
   },
   {
     sno: 12,
     name: "B.E Computer Science and Design",
-    icon: "🎨",
+    icon: <FaPalette />,
     duration: "4 Years",
     route: "csd",
   },
   {
     sno: 13,
     name: "B.Tech Artificial Intelligence and Machine Learning",
-    icon: "🧠",
+    icon: <FaBrain />,
     duration: "4 Years",
     route: "aiml",
   },
   {
     sno: 14,
     name: "B.Tech Artificial Intelligence and Data Science",
-    icon: "📊",
+    icon: <FaChartBar />,
     duration: "4 Years",
     route: "aids",
   },
   {
     sno: 15,
     name: "B.Arch",
-    icon: "🏛️",
+    icon: <FaUniversity />,
     duration: "5 Years",
     route: "architecture",
   },
 ];
 
 
+
 const pgPrograms = [
   {
     sno: 1,
     name: "M.E Computer Science and Engineering",
+    icon: <FaLaptopCode />,
     duration: "2 Years",
     year: 1999,
     route: "cse",
@@ -127,6 +153,7 @@ const pgPrograms = [
   {
     sno: 2,
     name: "M.E. VLSI Design",
+    icon: <FaMicrochip />,
     duration: "2 Years",
     year: 2003,
     route: "ece",
@@ -134,6 +161,7 @@ const pgPrograms = [
   {
     sno: 3,
     name: "M.E Structural Engineering",
+    icon: <FaBuilding />,
     duration: "2 Years",
     year: 2012,
     route: "civil",
@@ -141,6 +169,7 @@ const pgPrograms = [
   {
     sno: 4,
     name: "M.Tech Food Technology",
+    icon: <FaAppleAlt />,
     duration: "2 Years",
     year: 2013,
     route: "foodtech",
@@ -148,6 +177,7 @@ const pgPrograms = [
   {
     sno: 5,
     name: "Master of Business Administration (MBA)",
+    icon: <FaUniversity />,
     duration: "2 Years",
     year: 1994,
     route: "mba",
@@ -155,16 +185,19 @@ const pgPrograms = [
   {
     sno: 6,
     name: "Master of Computer Applications (MCA)",
+    icon: <FaGraduationCap />,
     duration: "2 Years",
     year: 1993,
     route: "mca",
   },
 ];
 
+
 const phDProgrammes = [
   {
     sno: 1,
     name: "B.E Civil Engineering",
+    icon: <FaBuilding />,
     duration: "4 Years",
     year: 1984,
     route: "civil",
@@ -172,6 +205,7 @@ const phDProgrammes = [
   {
     sno: 2,
     name: "B.E Mechanical Engineering",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     year: 1984,
     route: "mech",
@@ -179,6 +213,7 @@ const phDProgrammes = [
   {
     sno: 3,
     name: "B.E Electronics and Communication Engineering",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     year: 1984,
     route: "ece",
@@ -186,6 +221,7 @@ const phDProgrammes = [
   {
     sno: 4,
     name: "B.E Computer Science and Engineering",
+    icon: <FaLaptopCode />,
     duration: "4 Years",
     year: 1988,
     route: "cse",
@@ -193,6 +229,7 @@ const phDProgrammes = [
   {
     sno: 5,
     name: "B.Tech Chemical Engineering",
+    icon: <FaFlask />,
     duration: "4 Years",
     year: 1994,
     route: "chem",
@@ -200,6 +237,7 @@ const phDProgrammes = [
   {
     sno: 6,
     name: "B.E Electrical and Electronics Engineering",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     year: 1994,
     route: "eee",
@@ -207,6 +245,7 @@ const phDProgrammes = [
   {
     sno: 7,
     name: "B.E Electronics and Instrumentation Engineering",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     year: 1998,
     route: "eie",
@@ -214,6 +253,7 @@ const phDProgrammes = [
   {
     sno: 8,
     name: "B.Tech Information Technology",
+    icon: <FaLaptopCode />,
     duration: "4 Years",
     year: 1998,
     route: "it",
@@ -221,6 +261,7 @@ const phDProgrammes = [
   {
     sno: 9,
     name: "B.E Mechatronics Engineering",
+    icon: <FaMicrochip />,
     duration: "4 Years",
     year: 1999,
     route: "mts",
@@ -228,6 +269,7 @@ const phDProgrammes = [
   {
     sno: 10,
     name: "B.Tech Food Technology",
+    icon: <FaAppleAlt />,
     duration: "4 Years",
     year: 2006,
     route: "foodtech",
@@ -235,6 +277,7 @@ const phDProgrammes = [
   {
     sno: 11,
     name: "Master of Business Administration (MBA)",
+    icon: <FaUniversity />,
     duration: "2 Years",
     year: 1994,
     route: "mba",
@@ -242,20 +285,24 @@ const phDProgrammes = [
   {
     sno: 12,
     name: "Master of Computer Applications (MCA)",
+    icon: <FaGraduationCap />,
     duration: "2 Years",
     year: 1993,
     route: "mca",
   },
-  { sno: 13, name: "Mathematics", route: "maths" },
-  { sno: 14, name: "Physics", route: "physics" },
-  { sno: 15, name: "Chemistry", route: "chemistry" },
-  { sno: 16, name: "English", route: "english" },
+  { sno: 13, name: "Mathematics", icon: <FaCalculator />, route: "maths" },
+  { sno: 14, name: "Physics", icon: <FaAtom />, route: "physics" },
+  { sno: 15, name: "Chemistry", icon: <FaVial />, route: "chemistry" },
+  { sno: 16, name: "English", icon: <FaBookOpen />, route: "english" },
 ];
+
+
 
 const ApsPrograms = [
   {
     sno: 1,
     name: "B.Sc Computer Systems and Design",
+    icon: <FaLaptopCode />,
     duration: "3 Years",
     year: 1996,
     route: "ctug",
@@ -263,6 +310,7 @@ const ApsPrograms = [
   {
     sno: 2,
     name: "B.Sc Information Systems",
+    icon: <FaLaptopCode />,
     duration: "3 Years",
     year: 2000,
     route: "ctug",
@@ -270,11 +318,13 @@ const ApsPrograms = [
   {
     sno: 3,
     name: "B.Sc Software Systems",
+    icon: <FaLaptopCode />,
     duration: "3 Years",
     year: 2007,
     route: "ctug",
   },
 ];
+
 
 const programMap = {
   ug: ugProgrammes,

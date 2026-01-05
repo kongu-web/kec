@@ -58,15 +58,11 @@
 }
 
 /* Icon Container */
-.card-icon {
-  width: 46px;
-  height: 46px;
-  /* background: #e7f4ff; */
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.program-icon {
+  font-size: 20px;
+  color: #91C04A;
 }
+
 
 .card-icon img {
   width: 54px;
@@ -100,4 +96,108 @@
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+
+/* ================= RESPONSIVE ================= */
+
+/* Large Tablets */
+@media (max-width: 1024px) {
+  .academics-layout {
+    grid-template-columns: 320px 1fr;
+    gap: 30px;
+  }
+}
+
+/* Tablets */
+@media (max-width: 900px) {
+  .academics-section {
+    padding: 60px 5%;
+  }
+
+  .academics-layout {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .program-types {
+    flex-direction: row;
+    overflow-x: auto;
+    padding-bottom: 8px;
+  }
+
+  .program-card {
+    min-width: 260px;
+  }
+}
+
+/* Large Phones */
+@media (max-width: 768px) {
+  .academics-section h2 {
+    font-size: 24px;
+  }
+
+  .subtitle {
+    font-size: 15px;
+    margin-bottom: 35px;
+  }
+
+  .program-list {
+    padding: 24px;
+  }
+
+  .program-list h3 {
+    font-size: 20px;
+  }
+
+  .program-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .program-item {
+    font-size: 14px;
+  }
+
+  .program-card h4 {
+    font-size: 18px;
+  }
+
+  .program-card p {
+    font-size: 14px;
+  }
+}
+
+/* Small Phones */
+@media (max-width: 480px) {
+  .academics-section {
+    padding: 40px 4%;
+  }
+
+  .section-pill {
+    font-size: 14px;
+    padding: 5px 12px;
+  }
+
+  .academics-section h2 {
+    font-size: 21px;
+  }
+
+  .program-card {
+    min-width: 220px;
+    padding: 14px;
+  }
+
+  .card-icon img {
+    width: 46px;
+    height: 46px;
+  }
+
+  .program-list {
+    padding: 20px;
+  }
+
+  .program-item {
+    font-size: 13px;
+  }
 }
