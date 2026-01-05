@@ -1,5 +1,16 @@
 import React, { useState } from 'react'
 import Navbar from './navbar/Navbar';
+import Banner from "./Banner/Banner";
+import AboutSection from "./AboutSection/AboutSection";
+import AcademicsSection from "./AcademicsSection/AcademicsSection";
+import FelicitationSection from "./FelicitationSection/FelicitationSection";
+import LegacySection from "./LegacySection/LegacySection";
+import ExcellenceInPlacements from "./ExcellenceInPlacements/ExcellenceInPlacements";
+import InnovationSection from "./InnovationSection/InnovationSection";
+import CampusLife from "./CampusLife/CampusLife";
+import RecruitingPartners from "./RecruitingPartners/RecruitingPartners";
+
+
 import Hero from './Hero/Hero';
 import Slider from './Slider/Slider';
 import About from './About/About';
@@ -18,7 +29,6 @@ import Campus from './Campus/Campus';
 import Ranking from './Ranking/Ranking';
 import Ecosystem from './Ecosystem/Ecosystem';
 import Placement from './Placement/Placement';
-import CampusVideo from './CampusVideo/CampusVideo';
 import ScrollToTopButton from '../ScrollToTopButton';
 import Department from './Department/Department';
 import FlashNews from '../FlashNews';
@@ -28,21 +38,30 @@ import FlashNews from '../FlashNews';
 const HomePage = () => {
 
   return (
-    <div className='body'>
+    <div className="body">
       {/* <Section/> */}
-      <Navbar/>
-      <CampusVideo/>
+      <Navbar />
+      <Banner />
+      <AboutSection />
+      <AcademicsSection />
+      <FelicitationSection />
+      <LegacySection />
+      <ExcellenceInPlacements />
+      <InnovationSection />
+      <CampusLife />
+      <RecruitingPartners />
+      {/* <CampusVideo/>
       <Slider/>
-      <About/>
-      
+      <About/> */}
+
       {/* <Data/> */}
-      <Department/>
+      {/* <Department/>
        <VideoSlider/>
        
       <Ranking/>
-      <Placement/>
+      <Placement/> */}
       {/* <Newsletter/> */}
-      <Cards/>
+      {/* <Cards/>
       <Ecosystem/>
       <Hero/>
       <Campus/>
@@ -50,13 +69,13 @@ const HomePage = () => {
       <EndBanner/>
       <Contact/>
       <Footer/>
-      <ScrollToTopButton/>
+      <ScrollToTopButton/> */}
       {/* <Homepopup/> */}
       {/* <FlashNews/> */}
-      <recuritment/>
-     
+      {/* <recuritment/> */}
+      <Footer />
     </div>
-  )
+  );
 }
 
 export default HomePage;
