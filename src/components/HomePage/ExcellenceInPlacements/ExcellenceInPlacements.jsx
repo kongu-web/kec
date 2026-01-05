@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./ExcellenceInPlacements.css";
+import { Link } from "react-router-dom";
 
 const StatCard = ({ value, label }) => (
   <div className="eip-stat-card">
@@ -29,7 +30,7 @@ function ExcellenceInPlacements() {
           <StatCard value="94.3%" label="Placement Status" />
         </div>
 
-        <button className="eip-know-more-btn">Know More</button>
+        <button className="eip-know-more-btn"><Link to="/placement" className="legacy-link">Know More</Link></button>
       </div>
     </section>
   );

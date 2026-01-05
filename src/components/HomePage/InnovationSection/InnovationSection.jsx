@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./InnovationSection.css";
+import { Link } from "react-router-dom";
 
 export default function InnovationSection() {
   return (
@@ -32,7 +33,9 @@ export default function InnovationSection() {
             <li>Robotics & Automation Hub</li>
             <li>Clean Energy Research</li>
           </ul>
-          <button className="btn purple">Explore Centers</button>
+          <button className="btn purple">
+            <Link to="/coe">Explore Centers</Link>
+          </button>
         </div>
 
         <div className="innovation-card blue">
@@ -48,7 +51,9 @@ export default function InnovationSection() {
             <li>Co-working Spaces</li>
             <li>Industry Networking</li>
           </ul>
-          <button className="btn blue">Join TBI</button>
+          <button className="btn blue">
+            <Link to="https://www.tbi-kec.org/">Join TBI</Link>
+          </button>
         </div>
 
         <div className="innovation-card green">
@@ -64,7 +69,9 @@ export default function InnovationSection() {
             <li>Tech Symposiums</li>
             <li>Innovation Competitions</li>
           </ul>
-          <button className="btn green">View Events</button>
+          <button className="btn green">
+            <Link to="/hackathons">View Events</Link>
+          </button>
         </div>
       </div>
     </section>

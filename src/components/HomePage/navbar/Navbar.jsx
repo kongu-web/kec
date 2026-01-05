@@ -190,6 +190,8 @@ const Navbar = () => {
               )}
             </div>
 
+            <a href="https://kongu.ac.in/blogs/">Blogs</a>
+
             {/* <a>Research & Innovation</a> */}
             <div
               className="nav-item has-submenu"

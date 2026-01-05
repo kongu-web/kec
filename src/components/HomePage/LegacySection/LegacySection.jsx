@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./LegacySection.css";
 import {
   FaGraduationCap,
@@ -13,7 +14,6 @@ import GraduationCap from "../../../assets/images/HomePage/GraduationCap.png";
 import Group from "../../../assets/images/HomePage/Group.png";
 import careergrowth from "../../../assets/images/HomePage/career-growth.png";
 import nirf from "../../../assets/images/HomePage/nirf.png";
-
 
 export default function LegacySection() {
   return (
@@ -100,22 +100,42 @@ export default function LegacySection() {
 
       <div className="legacy-buttons">
         <button>
-          <FaGraduationCap /> Placements
+          <Link to="/placement" className="legacy-link">
+            <FaGraduationCap /> Placements
+          </Link>
         </button>
+
         <button>
-          <FaTrophy /> Rankings
+          <Link to="/rankings" className="legacy-link">
+            <FaTrophy /> Rankings
+          </Link>
         </button>
+
         <button>
-          <FaChartLine /> Achievements
+          <Link to="/achievements" className="legacy-link">
+            <FaChartLine /> Achievements
+          </Link>
         </button>
+
         <button>
-          <FaTrophy /> Awards
+          <Link to="/awards" className="legacy-link">
+            <FaTrophy /> Awards
+          </Link>
         </button>
+
         <button>
-          <FaChartLine /> Updates
+          <Link to="/updates" className="legacy-link">
+            <FaChartLine /> Updates
+          </Link>
         </button>
+
         <button>
-          <FaNewspaper /> News Clippings
+          <Link
+            to="https://kongu.ac.in/kongu.ac.in/newspaper.php"
+            className="legacy-link"
+          >
+            <FaNewspaper /> News Clippings
+          </Link>
         </button>
       </div>
     </section>
