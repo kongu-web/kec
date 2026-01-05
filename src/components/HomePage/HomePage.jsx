@@ -6,6 +6,10 @@ import AcademicsSection from "./AcademicsSection/AcademicsSection";
 import FelicitationSection from "./FelicitationSection/FelicitationSection";
 import LegacySection from "./LegacySection/LegacySection";
 import ExcellenceInPlacements from "./ExcellenceInPlacements/ExcellenceInPlacements";
+import InnovationSection from "./InnovationSection/InnovationSection";
+import CampusLife from "./CampusLife/CampusLife";
+import RecruitingPartners from "./RecruitingPartners/RecruitingPartners";
+
 
 import Hero from './Hero/Hero';
 import Slider from './Slider/Slider';
@@ -43,6 +47,9 @@ const HomePage = () => {
       <FelicitationSection />
       <LegacySection />
       <ExcellenceInPlacements />
+      <InnovationSection />
+      <CampusLife />
+      <RecruitingPartners />
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}
