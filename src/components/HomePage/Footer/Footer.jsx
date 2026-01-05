@@ -10,7 +10,7 @@ import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/
 import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2025.pdf";
 import supporting_staff2025 from "../../../assets/docs/Footer/SupportingStaff/supporting_staff2025.pdf";
 import student_details from "../../../assets/docs/Footer/Student Details/student_details.pdf";
-import kecundertaking from "../../../assets/docs/Footer/Undertaking/kec_undertaking.pdf";
+import kecundertaking from "../../../assets/docs/Footer/Undertaking/undertaking2026.pdf";
 import professional_socieites_2025 from "../../../assets/docs/Footer/KecProfessionalSocieties/professional_socieites_2025.pdf";
 import excessfee from "../../../assets/docs/Footer/ExcessFeeCommittee/excess_fee_committee.pdf";
 
