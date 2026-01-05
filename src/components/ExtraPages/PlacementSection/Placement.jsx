@@ -141,9 +141,9 @@ const Placement = () => {
           </ul>
           <div className="know-more-wrapper">
             <a href="/placement-details" className="know-more-link">
-            <span>KNOW MORE</span>
-            <div className="arrow-circle">➜</div>
-          </a>
+              <span>KNOW MORE</span>
+              <div className="arrow-circle">➜</div>
+            </a>
           </div>
         </div>
 
@@ -222,7 +222,7 @@ const Placement = () => {
                 <img src={card1} />
               </div>
 
-              <div class="stat-value">151</div>
+              <div class="stat-value">180</div>
             </div>
 
             <div class="ps-stat-card blue center">
@@ -234,7 +234,7 @@ const Placement = () => {
                 <img src={card2} />
               </div>
 
-              <div class="stat-value big">794</div>
+              <div class="stat-value big">894</div>
             </div>
 
             <div class="ps-stat-card green">
@@ -246,7 +246,7 @@ const Placement = () => {
                 <img src={card3} />
               </div>
 
-              <div class="stat-value">35</div>
+              <div class="stat-value">35 LPA</div>
             </div>
           </div>
         </div>
@@ -704,6 +704,7 @@ const Placement = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </div>
   );
 };

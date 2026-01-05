@@ -1,5 +1,51 @@
 [
    {
+    "name": "Seminar",
+    "department": "Chemistry",
+    "venue": "Sir C.V.Raman Seminar Hall, S&H Block, KEC",
+    "dates": "January 31 2026",
+    "description": "ACT Sponsored National Seminar on Environmental Applications of Chemical and Nanosciences(EACN-2026)",
+    "poster": "others/events/chemistry-seminar.png",
+    "link": "others/events/chemistry-seminar.pdf"
+  },
+  {
+    "name": "Workshop",
+    "department": "AIDS",
+    "venue": "AI Block",
+    "dates": "January 24 2026",
+    "description": "Hands-On Workshop on UI/UX.",
+    "poster": "others/events/aids-uiux.jpeg",
+    "link": "others/events/aids-uiux.pdf"
+  },
+ 
+   {
+    "name": "Hands-on Training",
+    "department": "CSD",
+    "venue": "AB Block CC5 Lab",
+    "dates": "January 24 2026",
+    "description": "Hands-on Training on Data Visualization and Analytics using PowerBI.",
+    "poster": "others/events/csd-powerbi.png",
+    "link": "others/events/csd-powerbi.pdf"
+  },
+   {
+    "name": "Seminar",
+    "department": "CSE",
+    "venue": "Dr Sarvepalli Radhakrishnan Hall (IT Park)",
+    "dates": "January 8 - 9 2026",
+    "description": "MoES Sponsored National Seminar on NEXT-GENERATION REMOTESENSING AND QUANTUM-AISYNERGIES FOR SUSTAINABLEENVIRONMENTAL MONITORING.",
+    "poster": "others/events/cse-moesseminar.jpg",
+    "link": "others/events/cse-moesseminar.pdf"
+  },
+   {
+    "name": "Symposium",
+    "department": "Information Technology",
+    "venue": "Maharaja Auditorium",
+    "dates": "January 3 2026",
+    "description": "Inter Department Technical Symposium on “VIVERE 2K26”.",
+    "poster": "others/events/it-vivere.jpeg",
+    "link": "others/events/it-vivere.pdf"
+  },
+   {
     "name": "Workshop",
     "department": "CSD",
     "venue": "Thiruvalluvar Seminar Hall - CTUG Block",
