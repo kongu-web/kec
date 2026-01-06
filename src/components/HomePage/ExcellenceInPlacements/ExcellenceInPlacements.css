@@ -1,0 +1,163 @@
+.eip-placement-section {
+  background: linear-gradient(180deg, #0c2b6e, #0a2359);
+  padding: 60px 20px;
+}
+
+.placement-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.placement-pill {
+  display: inline-block;
+  background: rgba(255,255,255,0.15);
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.placement-wrapper h2 {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.placement-subtitle {
+    font-size: 18px;
+  opacity: 0.85;
+  margin-bottom: 50px;
+}
+
+.eip-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 18px;
+  margin-bottom: 50px;
+}
+
+.eip-stat-card {
+  background: rgba(255,255,255,0.08);
+  padding: 26px 10px;
+  border-radius: 16px;
+  backdrop-filter: blur(6px);
+}
+
+.eip-stat-card h3 {
+  font-size: 32px;
+  color: #ffd200;
+  margin-bottom: 6px;
+}
+
+.eip-stat-card span {
+  font-size: 14px;
+  opacity: 0.85;
+    color: #fff;
+
+}
+
+.eip-know-more-btn {
+  background: #ffd200;
+  border: none;
+  color: #0c2b6e;
+  padding: 14px 36px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.eip-know-more-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.3);
+}
+
+/* ===============================
+   EIP PLACEMENT — RESPONSIVE
+================================ */
+
+@media (max-width: 1200px) {
+  .placement-wrapper h2 {
+    font-size: 22px;
+  }
+
+  .placement-subtitle {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .eip-stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .eip-stat-card h3 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .eip-placement-section {
+    padding: 50px 5%;
+  }
+
+  .placement-wrapper h2 {
+    font-size: 20px;
+  }
+
+  .placement-subtitle {
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+
+  .eip-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .eip-stat-card {
+    padding: 22px 10px;
+  }
+
+  .eip-stat-card h3 {
+    font-size: 26px;
+  }
+
+  .eip-know-more-btn {
+    padding: 12px 30px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .eip-placement-section {
+    padding: 40px 18px;
+  }
+
+  .placement-pill {
+    font-size: 13px;
+    padding: 6px 14px;
+  }
+
+  .placement-wrapper h2 {
+    font-size: 18px;
+  }
+
+  .placement-subtitle {
+    font-size: 15px;
+  }
+
+  .eip-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .eip-stat-card h3 {
+    font-size: 24px;
+  }
+
+  .eip-stat-card span {
+    font-size: 13px;
+  }
+}

@@ -5,8 +5,10 @@ import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 
 import heroImg from "../../../assets/images/Placement/placement-hero.png";
-import team1 from "../../../assets/images/Placement/team1.png";
-import team2 from "../../../assets/images/Placement/team2.png";
+import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.jpeg";
+import team2 from "../../../assets/images/Placement/Sukumar.P.jpeg";
+import team3 from "../../../assets/images/Placement/Dineshkumar.P.jpeg";
+
 import stat1 from "../../../assets/images/Placement/Frame 260.png";
 import stat2 from "../../../assets/images/Placement/Frame 257.png";
 import stat3 from "../../../assets/images/Placement/Frame 261.png";
@@ -61,31 +63,24 @@ const placementFiles = require.context(
 export const teamData = [
   {
     id: 1,
-    name: "Dr. S. Kumar",
+    name: "Mr. P. Dhakshinamoorthy ",
     role: "Placement Officer",
-    mobile: "8086423493",
-    img: team2,
+    mobile: "9790004095",
+    img: team1,
   },
   {
     id: 2,
-    name: "Ms. R. Priya",
-    role: "Training Coordinator",
-    mobile: "9086423493",
-    img: team1,
-  },
-  {
-    id: 3,
-    name: "Mr. A. Rajesh",
-    role: "Industry Relations",
-    mobile: "6086423493",
+    name: "Mr. P. Sukumar",
+    role: "Deputy Placement Officer",
+    mobile: "9629455327",
     img: team2,
   },
   {
-    id: 4,
-    name: "Ms. K. Anitha",
-    role: "Career Guidance",
-    mobile: "9086423493",
-    img: team1,
+    id: 3,
+    name: "Mr. P. Dineshkumar",
+    role: "Deputy Placement Officer",
+    mobile: "7373675915",
+    img: team3,
   },
 ];
 

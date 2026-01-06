@@ -1,0 +1,163 @@
+.campus-life {
+  padding: 80px 6%;
+  text-align: center;
+}
+
+.pill {
+  background: #e8f5ff;
+  color: #0284ff;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.campus-life h2 {
+  margin: 18px 0 10px;
+  font-size: 26px;
+}
+
+.subtitle {
+  max-width: 900px;
+  margin: auto;
+  color: #555;
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+/* ================== GRID LAYOUT ================== */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas:
+    "a b c d"
+    "e e e f"
+    "g h i j";
+  gap: 20px;
+}
+
+/* Placement */
+.card:nth-child(1) { grid-area: a; }
+.card:nth-child(2) { grid-area: b; }
+.card:nth-child(3) { grid-area: c; }
+.card:nth-child(4) { grid-area: d; }
+
+.card:nth-child(5) { grid-area: e; }
+.card:nth-child(6) { grid-area: f; }
+
+.card:nth-child(7) { grid-area: g; }
+.card:nth-child(8) { grid-area: h; }
+.card:nth-child(9) { grid-area: i; }
+.card:nth-child(10){ grid-area: j; }
+
+/* ================== CARDS ================== */
+
+.card.small {
+  height: 220px;
+  border-radius: 18px;
+  background-size: cover;
+  background-position: center 30%;
+  position: relative;
+  overflow: hidden;
+  transition: 0.3s ease;
+}
+
+.card:nth-child(5) {
+  width: auto;
+  background-size: cover;
+  background-position: center 30%;
+}
+
+/* ================== OVERLAY ================== */
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,.6), transparent 60%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 18px;
+  color: white;
+}
+
+.overlay h4 {
+  font-size: 18px;
+  margin-bottom: 4px;
+  text-align: left;
+}
+
+.overlay p {
+  font-size: 14px;
+  opacity: .9;
+    text-align: left;
+
+}
+
+/* ================== HOVER ================== */
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 25px rgba(0,0,0,.25);
+}
+
+/* =========================
+   MOBILE FIX
+   ≤ 768px
+========================= */
+@media (max-width: 768px) {
+
+  /* kill grid completely */
+  .gallery {
+    display: block;
+  }
+
+  /* reset all cards */
+  .card {
+    grid-area: unset !important;
+    width: 92% !important;
+    max-width: 92% !important;
+    min-width: 92% !important;
+    margin: 0 auto 18px;
+    position: relative;
+    border-radius: 18px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* 🔥 THIS FIXES THE PILL CARD */
+  .card:nth-child(5) {
+    width: 92% !important;
+    height: 220px;
+  }
+
+  /* .card.small {
+    aspect-ratio: 16 / 10;
+    height: auto;
+  } */
+
+  .overlay {
+    position: absolute;
+    inset: 0;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.25) 50%,
+      transparent
+    );
+  }
+
+  .overlay h4 {
+    font-size: 16px;
+  }
+
+  .overlay p {
+    font-size: 13px;
+  }
+}
