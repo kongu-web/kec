@@ -80,6 +80,9 @@ import WebAlbum from './components/FooterContents/WebAlbum/WebAlbum.jsx';
 import AuditReport from './components/FooterContents/QuickLinks/AuditReport/AuditReport.jsx';
 import BestPractices from './components/FooterContents/QuickLinks/BestPractices/BestPractices.jsx';
 import FitnessProtocol from './components/FooterContents/QuickLinks/FitnessProtocol/FitnessProtocol.jsx';
+import Nbadcs from "./components/FooterContents/QuickLinks/NBADCS/nbadcs";
+
+
 
 import HelpDesk from './components/FooterContents/StudentsCorner/HelpDesk/HelpDesk.jsx';
 import AntiRaggingCell from './components/FooterContents/StudentsCorner/AntiraggingCell/AntiraggingCell.jsx';
@@ -235,6 +238,8 @@ const App = () => {
         <Route path="/audit-report" element={<AuditReport />} />
         <Route path="/best-practices" element={<BestPractices />} />
         <Route path="/fitness-protocols" element={<FitnessProtocol />} />
+        <Route path="/Nbadcs" element={<Nbadcs />} />
+
 
         {/* Footer - Students Corner */}
         <Route path="/help-desk" element={<HelpDesk />} />
