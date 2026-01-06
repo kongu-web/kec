@@ -704,6 +704,7 @@ const Placement = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </div>
   );
 };

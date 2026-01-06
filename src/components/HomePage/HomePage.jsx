@@ -73,6 +73,7 @@ const HomePage = () => {
       {/* <Homepopup/> */}
       {/* <FlashNews/> */}
       {/* <recuritment/> */}
+      <ScrollToTopButton />
       <Footer />
     </div>
   );

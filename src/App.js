@@ -132,7 +132,9 @@ const App = () => {
     <Spinner />
   ) : (
     <Router>
-      <Chatbot />
+        <Chatbot />
+        <ScrollToTop />
+        
 
       <Routes>
         <Route path="/" element={<HomePage />} />
