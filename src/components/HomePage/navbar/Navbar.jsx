@@ -8,10 +8,7 @@ import tneaBadge from "../../../assets/images/tneacode.png";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faBars,
-  faXmark,
-  faChevronDown,
-  faSquareCaretDown,
+  faBars
 } from "@fortawesome/free-solid-svg-icons";
 
 import { ReactComponent as VisionIcon } from "../../../assets/images/Icon/menu/vision.svg";
@@ -635,11 +632,28 @@ const Navbar = () => {
           </ul>
 
           {/* RIGHT CTA */}
-          <div className="nav-actions">
+          {/* <div className="nav-actions">
             <button className="enquiry-btn" onClick={() => setShowForm(true)}>
               Enquiry Now
-            </button>{" "}
+            </button>{" "} */}
             {/* Add onClick */}
+            {/* <img
+              src={tneaBadge}
+              alt="TNEA Code 2711"
+              className="tnea-badge-img"
+            />
+          </div> */}
+
+          <div className="nav-actions">
+            <a
+              href="/admission"
+              className="enquiry-btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Enquiry Now
+            </a>
+
             <img
               src={tneaBadge}
               alt="TNEA Code 2711"
@@ -675,12 +689,21 @@ const Navbar = () => {
               />
 
               <div className="mobile-header-actions">
-                <button
+                {/* <button
                   className="mobile-enquiry-btn"
                   onClick={() => setShowForm(true)}
                 >
                   Enquiry Now
-                </button>
+                </button> */}
+
+                 <a
+              href="/admission"
+              className="mobile-enquiry-btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Enquiry Now
+            </a>
 
                 {/* <FontAwesomeIcon
                   icon={faXmark}

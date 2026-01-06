@@ -10,7 +10,7 @@ import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/
 import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2025.pdf";
 import supporting_staff2025 from "../../../assets/docs/Footer/SupportingStaff/supporting_staff2025.pdf";
 import student_details from "../../../assets/docs/Footer/Student Details/student_details.pdf";
-import kecundertaking from "../../../assets/docs/Footer/Undertaking/kec_undertaking.pdf";
+import kecundertaking from "../../../assets/docs/Footer/Undertaking/undertaking2026.pdf";
 import professional_socieites_2025 from "../../../assets/docs/Footer/KecProfessionalSocieties/professional_socieites_2025.pdf";
 import excessfee from "../../../assets/docs/Footer/ExcessFeeCommittee/excess_fee_committee.pdf";
 
@@ -51,7 +51,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-item">
           <PhoneIcon />
-          <span>+91 94430 20583, +91 94439 42365</span>
+          <span>+91 94430 20583, +91 99652 77765</span>
         </div>
 
         <div className="footer-top-item">
@@ -311,15 +311,7 @@ const Footer = () => {
               <li>
                 <a href="/audit-report">Audit Report</a>
               </li>
-              <li>
-                <a
-                  href="https://kongu.directverify.in/student/#/home"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Certificate Genuineness Verification
-                </a>
-              </li>
+             
               <li>
                 <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
               </li>
@@ -334,6 +326,16 @@ const Footer = () => {
               </div>
             </div>
             <ul className={`footer-menu ${openIndex === 6 ? "open" : ""}`}>
+ <li>
+                <a
+                  href="https://kongu.directverify.in/student/#/app/request"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Certificate Genuineness Verification
+                </a>
+              </li>
+
               <li>
                 <a href="/kongucrs">Kongu CRS</a>
               </li>

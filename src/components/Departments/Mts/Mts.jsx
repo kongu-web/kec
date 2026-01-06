@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import Papa from "papaparse";
 import Navbar from "../../HomePage/navbar/Navbar";
-import Section from "../../HomePage/Section/Section";
+// import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./mechatronics.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/mts.jpg";
+import Deptimg from "../../../assets/images/Department Banner/mts1.jpeg";
 import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
