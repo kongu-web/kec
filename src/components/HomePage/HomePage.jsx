@@ -29,7 +29,7 @@ const HomePage = () => {
 
   return (
     <div className='body'>
-      <Section/>
+      {/* <Section/> */}
       <Navbar/>
       <CampusVideo/>
       <Slider/>
