@@ -20,7 +20,7 @@ const Vision = () => {
     <Spinner />
   ) : (
     <>
-      {/* {/* <Section/> */} */}
+      {/* {/* <Section/> */}
       <Navbar />
       <div className="vision-container">
         {/* Vision & Mission Row */}
