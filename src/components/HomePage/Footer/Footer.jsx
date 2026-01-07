@@ -315,6 +315,9 @@ const Footer = () => {
               <li>
                 <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
               </li>
+               <li>
+                <a href="/nbadcs">NBA - DCS</a>
+              </li>
             </ul>
           </div>
 
@@ -381,9 +384,7 @@ const Footer = () => {
                   Undertaking
                 </a>
               </li>
-               <li>
-                <a href="/nbadcs">NBA - DCS</a>
-              </li>
+              
             </ul>
           </div>
         </div>
