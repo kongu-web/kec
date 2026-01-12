@@ -636,8 +636,8 @@ const Navbar = () => {
             <button className="enquiry-btn" onClick={() => setShowForm(true)}>
               Enquiry Now
             </button>{" "} */}
-            {/* Add onClick */}
-            {/* <img
+          {/* Add onClick */}
+          {/* <img
               src={tneaBadge}
               alt="TNEA Code 2711"
               className="tnea-badge-img"
@@ -696,14 +696,14 @@ const Navbar = () => {
                   Enquiry Now
                 </button> */}
 
-                 <a
-              href="/admission"
-              className="mobile-enquiry-btn"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Enquiry Now
-            </a>
+                <a
+                  href="/admission"
+                  className="mobile-enquiry-btn"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Enquiry Now
+                </a>
 
                 {/* <FontAwesomeIcon
                   icon={faXmark}
@@ -946,6 +946,10 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
                 )}
+
+                <li onClick={() => navigate("https://kongu.ac.in/blogs/")}>
+                  Blogs
+                </li>
 
                 {/* ERP */}
                 <li
