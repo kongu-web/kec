@@ -109,14 +109,14 @@ const CampusLife = () => {
             </div>
 
             {/* Highlights Section */}
-            <section className="section-container">
+            <section className="cl-section-container">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Campus Highlights</h2>
                     <p>Our campus offers world-class facilities and a nurturing environment</p>
                 </div>
                 <div className="highlights-grid">
                     {highlights.map((item, index) => (
-                        <div className="highlight-card" key={index} style={{ backgroundColor: item.color }} data-aos="fade-up" data-aos-delay={index * 100}>
+                        <div className="highlight-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
                             <div className="highlight-icon" style={{ backgroundColor: item.iconColor }}>
                                 {item.icon}
                             </div>
@@ -133,7 +133,7 @@ const CampusLife = () => {
                     <div className="cl-stats-grid">
                         {stats.map((stat, index) => (
                             <div className="cl-stat-item" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
-                                <div className="cl-stat-icon" style={{ backgroundColor: stat.color, color: stat.iconColor }}>
+                                <div className="cl-stat-icon">
                                     {stat.icon}
                                 </div>
                                 <h3>{stat.count}</h3>
@@ -145,7 +145,7 @@ const CampusLife = () => {
             </section>
 
             {/* Facilities Section */}
-            <section className="section-container">
+            <section className="cl-section-container">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Our Facilities</h2>
                     <p>Everything you need for a complete college experience</p>
@@ -164,7 +164,7 @@ const CampusLife = () => {
             </section>
 
             {/* Campus Gallery */}
-            <section className="section-container bg-light">
+            <section className="gallery-section-container bg-light">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Campus Gallery</h2>
                     <p>A glimpse into our vibrant campus life</p>
@@ -180,7 +180,7 @@ const CampusLife = () => {
 
 
             {/* Student Life Section */}
-            <section className="section-container">
+            <section className="cl-section-container">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Student Life & Activities</h2>
                     <p>Beyond academics - clubs, events, and experiences that shape you</p>
@@ -200,7 +200,7 @@ const CampusLife = () => {
             </section>
 
             {/* Clubs Section */}
-            <section className="section-container bg-light">
+            <section className="std-section-container bg-light">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Student Clubs & Organizations</h2>
                     <p>Join over 50+ clubs and find your passion</p>
@@ -218,7 +218,7 @@ const CampusLife = () => {
             </section>
 
             {/* Testimonials */}
-            <section className="section-container">
+            <section className="cl-section-container">
                 <div className="section-header" data-aos="fade-up">
                     <h2>What Our Students Say</h2>
                     <p>Hear from those who live the campus experience every day</p>
