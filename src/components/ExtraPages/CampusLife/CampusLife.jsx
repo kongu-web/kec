@@ -12,7 +12,8 @@ import 'aos/dist/aos.css';
 import {
     FaBook, FaUtensils, FaBed, FaFlask, FaHeartbeat, FaBasketballBall, FaWifi, FaBus,
     FaMusic, FaPalette, FaCamera, FaTheaterMasks, FaNewspaper, FaCode, FaLeaf, FaComments, FaChess, FaRocket,
-    FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaQuoteLeft
+    FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaQuoteLeft,
+    FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
@@ -38,14 +39,19 @@ const CampusLife = () => {
     }, []);
 
     const facilities = [
-        { icon: <FaBook />, name: "Central Library", desc: "50,000+ books & digital resources", color: "#4facfe" },
-        { icon: <FaUtensils />, name: "Dining Halls", desc: "Nutritious meals & diverse cuisine", color: "#f093fb" },
-        { icon: <FaBed />, name: "Hostels", desc: "Comfortable & secure accommodation", color: "#43e97b" },
-        { icon: <FaFlask />, name: "Laboratories", desc: "Advanced research facilities", color: "#fa709a" },
-        { icon: <FaHeartbeat />, name: "Health Center", desc: "24/7 medical care", color: "#ff6b6b" },
-        { icon: <FaBasketballBall />, name: "Sports Complex", desc: "Indoor & outdoor facilities", color: "#f9d423" },
-        { icon: <FaWifi />, name: "Wi-Fi Campus", desc: "High-speed internet everywhere", color: "#667eea" },
-        { icon: <FaBus />, name: "Transportation", desc: "Convenient bus services", color: "#e14fad" },
+        { icon: <FaBasketballBall />, name: "Physical Education", desc: "Indoor & outdoor facilities", color: "#f9d423" },
+        { icon: <FaBook />, name: "Library", desc: "50,000+ books & digital resources", color: "#4facfe" },
+        { icon: <FaBed />, name: "Hostels and Accommodation", desc: "Comfortable & secure accommodation", color: "#43e97b" },
+        { icon: <FaBus />, name: "Transport", desc: "Convenient bus services", color: "#e14fad" },
+        { icon: <FaHeartbeat />, name: "Dispensary", desc: "Medical care & pharmacy", color: "#ff6b6b" },
+        { icon: <FaWifi />, name: "WiFi Facility", desc: "High-speed internet everywhere", color: "#667eea" },
+        { icon: <FaAmbulance />, name: "Ambulance", desc: "24/7 Emergency response", color: "#ff4757" },
+        { icon: <FaUtensils />, name: "Foodcourt", desc: "Nutritious & diverse cuisine", color: "#f093fb" },
+        { icon: <FaTint />, name: "RO Purifier", desc: "Clean drinking water", color: "#2ed573" },
+        { icon: <FaStore />, name: "Amenity Centre", desc: "Stationery & daily needs", color: "#ffa502" },
+        { icon: <FaLandmark />, name: "KVB Bank & ATM", desc: "On-campus banking facility", color: "#1e90ff" },
+        { icon: <FaEnvelope />, name: "Post Office", desc: "Mail & postal services", color: "#ff6348" },
+        { icon: <FaBolt />, name: "24 x 7 Power Supply", desc: "Uninterrupted power backup", color: "#ff9f43" },
     ];
 
     const activities = [
