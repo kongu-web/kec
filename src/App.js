@@ -135,9 +135,8 @@ const App = () => {
     <Spinner />
   ) : (
     <Router>
-        <Chatbot />
-        <ScrollToTop />
-        
+      <Chatbot />
+      <ScrollToTop />
 
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -211,8 +210,8 @@ const App = () => {
 
         <Route path="/appliedscience" element={<AppliedScience />} />
         <Route path="/snh" element={<Snh />} />
-        <Route path="/placement-details" element={<Placement />} />
-        <Route path="/placement" element={<PlacementSection />} />
+        <Route path="/placement-details" element={<PlacementSection />} />
+        <Route path="/placement" element={<Placement />} />
 
         <Route path="/onlinepayment" element={<OnlinePayment />} />
         <Route path="/contact" element={<Contact />} />
@@ -241,7 +240,6 @@ const App = () => {
         <Route path="/best-practices" element={<BestPractices />} />
         <Route path="/fitness-protocols" element={<FitnessProtocol />} />
         <Route path="/Nbadcs" element={<Nbadcs />} />
-
 
         {/* Footer - Students Corner */}
         <Route path="/help-desk" element={<HelpDesk />} />
