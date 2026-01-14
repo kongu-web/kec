@@ -13,7 +13,7 @@ import {
     FaBook, FaUtensils, FaBed, FaFlask, FaHeartbeat, FaBasketballBall, FaWifi, FaBus,
     FaMusic, FaPalette, FaCamera, FaTheaterMasks, FaNewspaper, FaCode, FaLeaf, FaComments, FaChess, FaRocket,
     FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaQuoteLeft,
-    FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt
+    FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt, FaTimes
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
@@ -31,6 +31,7 @@ import avatar1 from '../../../assets/images/principal.jpg';
 
 const CampusLife = () => {
     const [loading, setLoading] = useState(true);
+    const [showVideo, setShowVideo] = useState(false);
 
     useEffect(() => {
         AOS.init({ duration: 1000, once: true });
@@ -101,6 +102,26 @@ const CampusLife = () => {
         <div className="campus-life-page">
             <Navbar />
 
+            {/* Video Modal */}
+            {showVideo && (
+                <div className="video-modal-overlay" onClick={() => setShowVideo(false)}>
+                    <div className="video-modal-content" onClick={(e) => e.stopPropagation()}>
+                        <button className="video-close-btn" onClick={() => setShowVideo(false)}>
+                            <FaTimes />
+                        </button>
+                        <div className="video-wrapper">
+                            <iframe
+                                src="https://www.youtube.com/embed/meJ1nZVSjAM?autoplay=1&mute=1&loop=1&controls=0&playlist=meJ1nZVSjAM"
+                                title="Campus Video"
+                                frameBorder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowFullScreen>
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+            )}
+
             {/* Hero Section */}
             <div className="campus-hero">
                 <div className="campus-hero-overlay"></div>
@@ -109,7 +130,7 @@ const CampusLife = () => {
                     <p>Discover a vibrant community where learning extends beyond the classroom</p>
                     <div className="hero-buttons">
                         {/* <button className="btn-tour">Take a Virtual Tour</button> */}
-                        <button className="btn-video">Watch Video</button>
+                        <button className="btn-video" onClick={() => setShowVideo(true)}>Watch Video</button>
                     </div>
                 </div>
             </div>

@@ -134,8 +134,8 @@
 
 /* --- General Section Styles --- */
 .cl-section-container {
-    margin: 80px auto;
-    padding: 0 40px;
+    margin: 80px 20px;
+    padding: 0 60px;
     background-color: var(--bg-white);
     position: relative;
     /* width: 100%; */
@@ -155,7 +155,7 @@
 
 .section-header h2 {
     font-family: 'Outfit', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-weight: 600;
     color: var(--primary-color);
     margin-bottom: 20px;
@@ -335,14 +335,14 @@
 /* --- Facilities Grid --- */
 .facilities-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 30px;
 }
 
 .facility-card {
     background: #fff;
     border-radius: 20px;
-    padding: 10px 10px;
+    padding: 10px 20px;
     text-align: center;
     transition: var(--transition);
     border: 1px solid rgba(0, 0, 0, 0.05);
@@ -392,67 +392,67 @@
 
 /* --- Gallery Grid --- */
 .gallery-section-container {
-    padding: 60px;
-    background-color: var(--bg-white);
+    padding: 80px 40px;
+    background-color: var(--primary-color);
+    /* Dark Background */
     position: relative;
-    /* width: 100%; */
+    color: #ffffff;
+}
+
+.gallery-section-container .section-header h2 {
+    color: #ffffff;
+}
+
+.gallery-section-container .section-header h2::after {
+    background: var(--secondary-color);
+}
+
+.gallery-section-container .section-header p {
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .gallery-grid {
-    padding: 20px;
+    padding: 10px;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: 280px;
-    gap: 25px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-auto-rows: 250px;
+    gap: 20px;
 }
 
 .gallery-item {
-    border-radius: 20px;
+    border-radius: 12px;
     overflow: hidden;
     position: relative;
-    box-shadow: var(--card-shadow);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     cursor: pointer;
-}
-
-.gallery-item::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.2);
-    opacity: 0;
-    transition: var(--transition);
-}
-
-.gallery-item:hover::after {
-    opacity: 1;
-}
-
-.gallery-item:nth-child(1) {
-    grid-column: span 2;
-    grid-row: span 2;
-}
-
-.gallery-item:nth-child(2) {
-    grid-column: span 1;
-    grid-row: span 1;
-}
-
-.gallery-item:nth-child(5) {
-    grid-column: span 2;
+    transition: all 0.4s ease;
 }
 
 .gallery-item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.8s cubic-bezier(0.2, 1, 0.3, 1);
+    transition: transform 0.6s ease;
 }
 
-.gallery-item:hover img {
-    transform: scale(1.15);
+/* Hover Effects: Sibling Fade */
+.gallery-grid:hover .gallery-item {
+    opacity: 0.4;
+    filter: grayscale(80%);
+}
+
+.gallery-grid .gallery-item:hover {
+    opacity: 1;
+    filter: grayscale(0%);
+    transform: scale(1.05);
+    /* Slight pop out */
+    z-index: 2;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    border: 2px solid var(--secondary-color);
+}
+
+.gallery-grid .gallery-item:hover img {
+    transform: scale(1.1);
 }
 
 /* --- Activities (Student Life) --- */
@@ -557,7 +557,7 @@
 
 .club-card:hover {
     transform: translateY(-8px);
-    border-color: var(--primary-color);
+    border: 1px solid var(--primary-color);
     box-shadow: var(--card-hover-shadow);
 }
 
@@ -659,103 +659,68 @@
     opacity: 0.9;
 }
 
-/* --- Animations --- */
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+/* --- Video Modal Styles --- */
+.video-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    /* Dark semi-transparent background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    /* Extremely high z-index to appear on top of everything */
+    backdrop-filter: blur(5px);
 }
 
-/* --- Responsive --- */
-@media (max-width: 1024px) {
-    .campus-hero-content h1 {
-        font-size: 3.5rem;
-    }
-
-    .gallery-grid {
-        grid-template-columns: repeat(3, 1fr);
-        grid-auto-rows: 220px;
-    }
-
-    .gallery-item:nth-child(1) {
-        grid-column: span 2;
-        grid-row: span 2;
-    }
-
-    .gallery-item:nth-child(5) {
-        grid-column: span 1;
-    }
+.video-modal-content {
+    position: relative;
+    width: 90%;
+    max-width: 900px;
+    background: transparent;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
 }
 
-@media (max-width: 768px) {
-    .campus-hero {
-        height: auto;
-        padding: 150px 5% 100px;
-        text-align: center;
-        justify-content: center;
-    }
-
-    .campus-hero-content {
-        padding-right: 0;
-    }
-
-    .hero-buttons {
-        justify-content: center;
-    }
-
-    .section-container {
-        padding: 80px 5%;
-    }
-
-    .section-header h2 {
-        font-size: 2.2rem;
-    }
-
-    .activities-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .gallery-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-    .gallery-item:nth-child(1) {
-        grid-column: span 2;
-        grid-row: span 2;
-    }
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 Aspect Ratio */
+    height: 0;
+    width: 100%;
+    background: #000;
+    border-radius: 8px;
+    overflow: hidden;
 }
 
-@media (max-width: 480px) {
-    .campus-hero-content h1 {
-        font-size: 2.5rem;
-    }
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
-    .hero-buttons {
-        flex-direction: column;
-    }
+.video-close-btn {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2.5rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-    .btn-tour,
-    .btn-video {
-        width: 100%;
-    }
-
-    .gallery-grid {
-        grid-template-columns: 1fr;
-        grid-auto-rows: 250px;
-    }
-
-    .gallery-item:nth-child(1) {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
-
-    .gallery-item:nth-child(5) {
-        grid-column: span 1;
-    }
+.video-close-btn:hover {
+    transform: rotate(90deg) scale(1.1);
+    color: var(--secondary-color);
 }
