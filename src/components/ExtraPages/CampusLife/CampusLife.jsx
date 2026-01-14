@@ -39,11 +39,11 @@ const CampusLife = () => {
     }, []);
 
     const facilities = [
-        { icon: <FaBasketballBall />, name: "Physical Education", desc: "Indoor & outdoor facilities", color: "#f9d423" },
-        { icon: <FaBook />, name: "Library", desc: "50,000+ books & digital resources", color: "#4facfe" },
-        { icon: <FaBed />, name: "Hostels and Accommodation", desc: "Comfortable & secure accommodation", color: "#43e97b" },
-        { icon: <FaBus />, name: "Transport", desc: "Convenient bus services", color: "#e14fad" },
-        { icon: <FaHeartbeat />, name: "Dispensary", desc: "Medical care & pharmacy", color: "#ff6b6b" },
+        { icon: <FaBasketballBall />, name: "Physical Education", desc: "Indoor & outdoor facilities", color: "#f9d423", link: "/facilities/physicaldept" },
+        { icon: <FaBook />, name: "Library", desc: "50,000+ books & digital resources", color: "#4facfe", link: "/facilities/library" },
+        { icon: <FaBed />, name: "Hostels and Accommodation", desc: "Comfortable & secure accommodation", color: "#43e97b", link: "/facilities/hostelsandaccomodation" },
+        { icon: <FaBus />, name: "Transport", desc: "Convenient bus services", color: "#e14fad", link: "/facilities/transport" },
+        { icon: <FaHeartbeat />, name: "Dispensary", desc: "Medical care & pharmacy", color: "#ff6b6b", link: "/facilities/dispensary" },
         { icon: <FaWifi />, name: "WiFi Facility", desc: "High-speed internet everywhere", color: "#667eea" },
         { icon: <FaAmbulance />, name: "Ambulance", desc: "24/7 Emergency response", color: "#ff4757" },
         { icon: <FaUtensils />, name: "Foodcourt", desc: "Nutritious & diverse cuisine", color: "#f093fb" },
@@ -108,7 +108,7 @@ const CampusLife = () => {
                     <h1>Experience Campus Life</h1>
                     <p>Discover a vibrant community where learning extends beyond the classroom</p>
                     <div className="hero-buttons">
-                        <button className="btn-tour">Take a Virtual Tour</button>
+                        {/* <button className="btn-tour">Take a Virtual Tour</button> */}
                         <button className="btn-video">Watch Video</button>
                     </div>
                 </div>
@@ -157,20 +157,31 @@ const CampusLife = () => {
                     <p>Everything you need for a complete college experience</p>
                 </div>
                 <div className="facilities-grid">
-                    {facilities.map((item, index) => (
-                        <div className="facility-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
-                            <div className="icon-box" style={{ color: item.color, background: `${item.color}20` }}>
-                                {item.icon}
+                    {facilities.map((item, index) => {
+                        const content = (
+                            <>
+                                <div className="icon-box" style={{ color: item.color, background: `${item.color}20` }}>
+                                    {item.icon}
+                                </div>
+                                <h3>{item.name}</h3>
+                                <p>{item.desc}</p>
+                            </>
+                        );
+                        return item.link ? (
+                            <Link to={item.link} className="facility-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50} style={{ textDecoration: 'none', color: 'inherit' }}>
+                                {content}
+                            </Link>
+                        ) : (
+                            <div className="facility-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
+                                {content}
                             </div>
-                            <h3>{item.name}</h3>
-                            <p>{item.desc}</p>
-                        </div>
-                    ))}
+                        );
+                    })}
                 </div>
             </section>
 
             {/* Campus Gallery */}
-            <section className="gallery-section-container bg-light">
+            <section className="gallery-section-container">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Campus Gallery</h2>
                     <p>A glimpse into our vibrant campus life</p>
