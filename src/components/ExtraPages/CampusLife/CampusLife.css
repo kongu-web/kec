@@ -178,7 +178,7 @@
 
 .highlight-card:hover {
     transform: translateY(-8px);
-    border-bottom-color: var(--primary-color);
+    /* border-bottom-color: var(--primary-color); */
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 }
 
@@ -234,20 +234,20 @@
 }
 
 .cl-stat-icon {
-    width: 80px;
-    height: 80px;
+    width: 68px;
+    height: 68px;
     border-radius: 50%;
     /* Circle background coming from JS inline styles mostly now */
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin: 0 auto 15px;
 }
 
 .cl-stat-item h3 {
     font-family: 'Outfit', sans-serif;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 5px;
     color: white;
@@ -265,14 +265,14 @@
 /* --- Facilities Grid --- */
 .facilities-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
 }
 
 .facility-card {
     background: #fff;
     border-radius: 12px;
-    padding: 35px 25px;
+    padding: 15px 1px;
     text-align: center;
     transition: 0.3s;
     border: 1px solid rgba(0, 0, 0, 0.05);
