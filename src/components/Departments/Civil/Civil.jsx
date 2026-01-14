@@ -258,24 +258,20 @@ const Civil = () => {
                 {facultyData.map((faculty, index) => (
                   <div
                     key={index}
-                    className="auto-faculty-card"
+                    className="faculty-portrait-card"
                     onClick={() => window.open(faculty.profileLink, "_blank")}
                   >
-                    <img
-                      src={require(`../../../assets/images/faculty images/civil/${faculty.image}`)}
-                      alt={faculty.name}
-                      style={{
-                        width: "95px",
-                        height: "95px",
-                        objectFit: "cover",
-                        objectPosition: "top",
-                        borderRadius: "50%",
-                      }}
-                    />
-                    <p>
-                      <strong>{faculty.name}</strong>
-                    </p>
-                    <p>{faculty.designation}</p>
+                    <div className="faculty-photo">
+                      <img
+                        src={require(`../../../assets/images/faculty images/civil/${faculty.image}`)}
+                        alt={faculty.name}
+                      />
+                    </div>
+
+                    <div className="faculty-info">
+                      <h4>{faculty.name}</h4>
+                      <p>{faculty.designation}</p>
+                    </div>
                   </div>
                 ))}
               </div>
