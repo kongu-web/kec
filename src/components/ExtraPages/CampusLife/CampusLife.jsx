@@ -241,7 +241,7 @@ const CampusLife = () => {
             <section className="std-section-container bg-light">
                 <div className="section-header" data-aos="fade-up">
                     <h2>Student Clubs & Organizations</h2>
-                    <p>Join over 50+ clubs and find your passion</p>
+                    <p>Join over 10+ clubs and find your passion</p>
                 </div>
                 <div className="clubs-grid">
                     {clubs.map((club, index) => (
