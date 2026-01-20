@@ -10,7 +10,7 @@ import Aids from './components/Departments/Aids/Aids.jsx';
 import Aiml from './components/Departments/Aiml/Aiml.jsx';
 import Chem from './components/Departments/Chemical/Chem.jsx';
 import Chemistry from './components/Departments/Chemistry/Chemistry.jsx';
-import Civil from './components/Departments/Civil/Civil.jsx'; 
+import Civil from './components/Departments/Civil/Civil.jsx';
 import Csd from './components/Departments/Csd/Csd.jsx';
 import Cse from './components/Departments/Cse/Cse.jsx';
 import Ctpg from './components/Departments/Ctpg/Ctpg.jsx';
@@ -119,13 +119,14 @@ import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
 import ScrollToTop from './components/ScrollToTop.jsx';
+import CampusLife from './components/ExtraPages/CampusLife/CampusLife.jsx';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
 
 const App = () => {
   const [loading, setLoading] = useState(true);
-  
+
   useEffect(() => {
     const timer = setTimeout(() => setLoading(false), 1500);
     return () => clearTimeout(timer);
@@ -137,7 +138,6 @@ const App = () => {
     <Router>
       <Chatbot />
       <ScrollToTop />
-
       <Routes>
         <Route path="/" element={<HomePage />} />
 
@@ -202,6 +202,7 @@ const App = () => {
         <Route path="/aictemba" element={<Aictemba />} />
 
         {/* Extra Pages */}
+        <Route path="/campus-life" element={<CampusLife />} />
         <Route path="/facilities" element={<Facilites />} />
         <Route path="/ief" element={<IEF />} />
         <Route path="/ug" element={<Ug />} />
