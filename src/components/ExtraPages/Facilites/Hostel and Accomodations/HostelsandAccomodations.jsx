@@ -71,7 +71,7 @@ const HostelsandAccommodation = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="hostels-container">
-        <h2 className="hostels-title">Hostels and Accommodation</h2>
+        <h2 className="page-title">Hostels and Accommodation</h2>
         {Object.entries(hostels).map(([category, items]) => (
           <div key={category} className="hostel-section">
             <h3 className="category-title">{category}</h3>

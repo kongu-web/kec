@@ -12,7 +12,7 @@
 .library-wrapper {
     max-width: 100%;
     margin: auto;
-    padding: 8rem 1rem 1rem;
+    padding: 2rem 1rem 1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
     text-align: justify;
@@ -39,7 +39,7 @@
   
   .nav-button {
     padding: 0.6rem 1.2rem;
-    background-color: #004080;
+    background-color: #303877;
     color: white;
     border: none;
     border-radius: 25px;
@@ -49,13 +49,13 @@
   }
   
   .nav-button:hover {
-    background-color: #004080;
+    background-color: #303877;
     color: #fff;
   }
   
   .nav-button.active {
     background-color: #ffffff;
-    color: #004080;
+    color: #303877;
     /* font-weight: bold; */
   }
   
@@ -65,10 +65,21 @@
     border-radius: 15px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
-  
+
   .library-section h3 {
-    color: #004080;
-    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    color: #009EDB;
+    margin-bottom: 1rem;
+  }
+
+  .library-section h4 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .library-section-content h3 {
+    color: #303877;
+    margin-top: 1rem;
     font-size: 1.4rem;
   }
   
@@ -97,8 +108,8 @@
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
   }
   
-  .mainlibrary-table thead {
-    background-color: #004080;
+  .mainlibrary-table-thead tr th {
+    background-color: #303877;
     color: white;
   }
   
@@ -127,10 +138,10 @@
   }
   
   .library-section-content h2 {
-    font-size: 1.5rem;
-    color: #303877;
+    font-size: 1.2rem;
+    color: #009EDB;
     margin-top: 2rem;
-    border-left: 4px solid #303877;
+    border-left: 4px solid #009EDB;
     padding-left: 0.75rem;
   }
   
@@ -201,7 +212,6 @@
 
   .library-section-content h2,
 .library-section-content h3 {
-  color: #303877;
   margin-top: 1.5rem;
 }
 

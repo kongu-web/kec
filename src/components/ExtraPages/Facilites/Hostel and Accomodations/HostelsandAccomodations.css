@@ -9,7 +9,7 @@
   }
 }
 .hostels-container {
-  padding: 8rem 1rem 4rem;
+  padding: 2rem 1rem 4rem;
   background: linear-gradient(to bottom right, #eef2f3, #ffffff);
   min-height: 100vh;
   position: relative;
@@ -34,7 +34,7 @@
 .category-title {
   font-size: 1.5rem;
   text-align: center;
-  color: #334155;
+  color: #009EDB;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 2rem;
