@@ -22,11 +22,12 @@ const data = [
     "IETE Student Forum": {
       Coordinators: ["Ms. R. Ramyea / ECE", "Mr. S. Arulmurugan / ECE"],
     },
-    "Centre For Entrepreneurship And Incubation": {
-      Coordinators: [
-        "Dr. R. Parameshwaran / MTS",
-        "Dr. S. Praveenkumar / MTS",
-        "Ms. P. S. Kannan / ECE",
+    "Innovation and Entrepreneurship Forum (IEF)": {
+       Coordinator: "Mr. P. S. Kannan",
+      Members: [
+        "Dr. S. Praveen Kumar / MTS",
+        "Dr. P. Sundharesalingam / MBA",
+        "Dr. R. Rajkumar / EIE",
         "Mr. R. P. Karthik / ECE",
       ],
     },
@@ -52,8 +53,7 @@ const data = [
       Coordinators: ["Dr. T. Mrunalini / EIE", "Ms. S. Anitha / EIE"],
     },
     "Indian Geo Technical Society": {
-      Coordinators: [
-        "Dr. S. Vinodhkumar / Civil",
+      Coordinator: [
         "Dr. K. S. Navaneethan / Civil",
       ],
     },
@@ -71,7 +71,7 @@ const data = [
       ],
     },
     "National Cadet Corps (NCC)": {
-      Army: "Major Dr. P. S. Raghavendran / EEE",
+      Army: "CTO Dr. S. Manoj / Civil",
       Air: "Flying Officer. A. Jeevanantham / IT",
     },
     "Higher Education Competitive Examination Cell": {
@@ -241,6 +241,7 @@ const data = [
         "Dr. N. Shanthi / CSE",
         "Mr. D. Vijay Anand / IT",
         "Mr. B. Bizu / CSE",
+        "Dr. B. S. Hari / Mech",
       ],
     },
     "De-addiction / Anti Drug Committe": {
