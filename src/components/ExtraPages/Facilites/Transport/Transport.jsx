@@ -60,7 +60,7 @@ const Transport = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="transport-container">
-        <h2 className="transport-title">College Transport Facilities</h2>
+        <h2 className="page-title">College Transport Facilities</h2>
 
         <div className="transport-section">
           <h3>Routes</h3>

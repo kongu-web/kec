@@ -28,7 +28,7 @@ const Library = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="library-wrapper">
-        <h1 className="library-title">Central Library</h1>
+        <h1 className="page-title">Central Library</h1>
         <nav className="library-nav">
           {[
             "Home",
@@ -61,7 +61,7 @@ const Library = () => {
               >
                 {item}
               </button>
-            )
+            ),
           )}
         </nav>
 
@@ -124,7 +124,7 @@ const Library = () => {
             <h3>Details of Library Book</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Sl.No.</th>
                     <th>Department</th>
@@ -170,7 +170,7 @@ const Library = () => {
             <h3>National and International Journal</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>S.No.</th>
                     <th>Department</th>
@@ -216,7 +216,7 @@ const Library = () => {
             <h4>AUERC Subscription - E-Journals</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>S.No</th>
                     <th>Publisher's Platform</th>
@@ -243,7 +243,7 @@ const Library = () => {
             <h4>SELF Subscription</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>S.No</th>
                     <th>Publisher's Platform</th>
@@ -277,7 +277,7 @@ const Library = () => {
             <h4>E-Books</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>S.No</th>
                     <th>Publisher</th>
@@ -311,7 +311,7 @@ const Library = () => {
             <h4>Plagiarism Check Tools</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Tool</th>
                     <th>Count</th>
@@ -329,7 +329,7 @@ const Library = () => {
             <h4>Digimate - NPTEL</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Platform</th>
                     <th>Details</th>
@@ -347,7 +347,7 @@ const Library = () => {
             <h4>Reading Facility for Partially Impaired Students</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Facility</th>
                     <th>Access</th>
@@ -365,7 +365,7 @@ const Library = () => {
             <h4>Remote Access</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Platform</th>
                     <th>Access Type</th>
@@ -408,7 +408,7 @@ const Library = () => {
 
         {activeSection === "Sections" && (
           <div className="library-section-content">
-            <h2>STACK ROOM</h2>
+            <h2 className="lsc-h2">STACK ROOM</h2>
             <p>
               There are 516 bookshelves housing the books for lending. The books
               are classified according to the Dewey decimal classification. Bay
@@ -515,7 +515,7 @@ const Library = () => {
 
             <h2>AUERC SUBSCRIPTION - E-Journals</h2>
             <table className="mainlibrary-table">
-              <thead>
+              <thead className="mainlibrary-table-thead">
                 <tr>
                   <th>Sl.No.</th>
                   <th>Publisher's Platform</th>
@@ -1196,7 +1196,7 @@ const Library = () => {
             <h3>Library Staff Members</h3>
             <div className="staff-table-wrapper">
               <table className="staff-table">
-                <thead>
+                <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>Sl. No.</th>
                     <th>Name</th>

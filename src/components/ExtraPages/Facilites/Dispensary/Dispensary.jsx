@@ -21,7 +21,7 @@ const Dispensary = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="dispensary-container">
-        <h2 className="dispensary-title">Dispensary</h2>
+        <h2 className="page-title">Dispensary</h2>
 
         <div className="dispensary-section">
           <h3>Consultants</h3>
