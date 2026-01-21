@@ -140,7 +140,7 @@ const Footer = () => {
                 <a href="/research-ipr">Research & IPR Committee</a>
               </li>
               <li>
-                <a href="#">Institution Innovation Council</a>
+                <a href="#" title="Institution Innovation Council">Institution Innovation Council</a>
               </li>
               <li>
                 <a href="/industry-cell">Institute Industry Cell</a>
@@ -225,22 +225,22 @@ const Footer = () => {
                 <a href="/antiragging-squad">Antiragging Squad</a>
               </li>
               <li>
-                <a href="/ethics-committee">Code of Conduct and Ethics</a>
+                <a href="/ethics-committee" title="Code of Conduct and Ethics">Code of Conduct and Ethics</a>
               </li>
               <li>
                 <a href="/finance-committee">Finance Committee</a>
               </li>
               <li>
-                <a href="/grievance-committee">Grievance Redressal Committee</a>
+                <a href="/grievance-committee" title="Grievance Redressal Committee">Grievance Redressal Committee</a>
               </li>
               <li>
-                <a href="/scst-grievance-committee">
+                <a href="/scst-grievance-committee" title="Grievance Redressal and Empowerment Committee for SC/ST Students">
                   Grievance Redressal and Empowerment Committee for SC/ST
                   Students
                 </a>
               </li>
               <li>
-                <a href="/internal-complaint-committee">
+                <a href="/internal-complaint-committee" title="Internal Complaint Committee / Anti-Sexual Harassment Cell">
                   Internal Complaint Committee / Anti-Sexual Harassment Cell
                 </a>
               </li>
@@ -256,7 +256,7 @@ const Footer = () => {
                 <a href="/research-ipr">Research & IPR Committee</a>
               </li> */}
               <li>
-                <a href="/green-energy-audit">
+                <a href="/green-energy-audit" title="Institution Policy Document & Green, Energy and Environment Audit Committee">
                   Institution Policy Document & Green, Energy and Environment
                   Audit Committee
                 </a>
@@ -311,11 +311,11 @@ const Footer = () => {
               <li>
                 <a href="/audit-report">Audit Report</a>
               </li>
-             
+
               <li>
                 <a href="https://css.aicte.gov.in/login">AICTE - CSS</a>
               </li>
-               <li>
+              <li>
                 <a href="/nbadcs">NBA - DCS</a>
               </li>
             </ul>
@@ -329,39 +329,42 @@ const Footer = () => {
               </div>
             </div>
             <ul className={`footer-menu ${openIndex === 6 ? "open" : ""}`}>
- <li>
+              <li>
                 <a
                   href="https://kongu.directverify.in/student/#/app/request"
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Certificate Genuineness Verification"
                 >
                   Certificate Genuineness Verification
                 </a>
               </li>
 
               <li>
-                <a href="/kongucrs">Kongu CRS</a>
+                <a href="/kongucrs" title="Kongu CRS">Kongu CRS</a>
               </li>
               <li>
-                <a href="/webalbum">KEC Web Album</a>
+                <a href="/webalbum" title="KEC Web Album">KEC Web Album</a>
               </li>
               <li>
                 <a
                   href={student_details}
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Student Details"
                 >
                   Student Details
                 </a>
               </li>
               <li>
-                <a href="/fitness-protocols">Fitness Protocol</a>
+                <a href="/fitness-protocols" title="Fitness Protocol">Fitness Protocol</a>
               </li>
               <li>
                 <a
                   href="https://kms.kongu.edu/grievance/"
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Grievance Portal"
                 >
                   Grievance Portal
                 </a>
@@ -371,6 +374,7 @@ const Footer = () => {
                   href={supporting_staff2025}
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Supporting Staff"
                 >
                   Supporting Staff
                 </a>
@@ -380,11 +384,12 @@ const Footer = () => {
                   href={kecundertaking}
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Undertaking"
                 >
                   Undertaking
                 </a>
               </li>
-              
+
             </ul>
           </div>
         </div>
