@@ -1,0 +1,289 @@
+/* Scoped styles for IQAC Module */
+.iqac-container {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    background-color: #f5f8fe;
+    min-height: 100vh;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.iqac-navbar {
+    width: 280px;
+    flex-shrink: 0;
+    min-height: 80vh;
+    background-image: linear-gradient(to bottom,
+            #012d6f,
+            #03286c,
+            #011d5e,
+            #001150,
+            #000243);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.iqac-nav-ul {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    gap: 10px;
+}
+
+.iqac-nav-link {
+    color: #fdfdfd !important;
+    text-decoration: none;
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.iqac-nav-link:hover,
+.iqac-nav-link.active {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    box-shadow: none;
+    border-left: 4px solid #00d2ff;
+    transform: translateX(5px);
+}
+
+.iqac-nav-icon {
+    margin-right: 12px;
+    width: 20px;
+    text-align: center;
+}
+
+.iqac-content {
+    flex: 1;
+    padding: 25px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.05);
+    margin: 0;
+    max-width: 100%;
+}
+
+/* Responsive Table / Layout */
+@media (max-width: 991px) {
+    .iqac-container {
+        flex-direction: column;
+    }
+
+    .iqac-navbar {
+        width: 100%;
+        min-height: auto;
+        background-image: linear-gradient(to right, #012d6f, #000243);
+    }
+
+    .iqac-nav-ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .iqac-nav-link:hover,
+    .iqac-nav-link.active {
+        transform: translateY(-2px);
+        border-left: none;
+        background-color: #0008ff;
+    }
+}
+
+.iqac-title {
+    color: #219c02;
+    font-weight: 600;
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.iqac-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: #0006ac;
+}
+
+.iqac-section-title {
+    color: #0006ac;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin: 30px 0 20px;
+}
+
+.iqac-grid-outcomes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.iqac-outcome-card {
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+.iqac-outcome-card:hover {
+    transform: scale(1.05);
+}
+
+.iqac-outcome-img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Document/File Links */
+.iqac-file-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+
+.iqac-file-link {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #012d6f;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.iqac-file-link:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-color: #0008ff;
+    transform: translateY(-2px);
+    text-decoration: none;
+}
+
+.iqac-file-icon {
+    font-size: 1.5rem;
+    color: #ff4d4d;
+    margin-right: 15px;
+}
+
+/* Card Style for Composition/Members */
+.iqac-member-card {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s;
+}
+
+.iqac-member-card:hover {
+    transform: transalteY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.iqac-member-role {
+    color: #219c02;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.iqac-member-name {
+    color: #0006ac;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.iqac-badge-new {
+    background-color: #ff4444;
+    color: white;
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 10px;
+    margin-left: 5px;
+    animation: glow 1.5s infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        box-shadow: 0 0 5px #ff4444;
+    }
+
+    to {
+        box-shadow: 0 0 15px #ff4444;
+    }
+}
+
+/* Gallery Styles */
+.iqac-gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.iqac-gallery-item {
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    height: 200px;
+}
+
+.iqac-gallery-item:hover {
+    transform: scale(1.05);
+}
+
+.iqac-gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Tab Styles */
+.custom-tabs .nav-link {
+    color: #012d6f;
+    font-weight: 500;
+}
+
+.custom-tabs .nav-link.active {
+    color: #219c02;
+    font-weight: bold;
+}
+
+/* Text alignment */
+.alignment-justify {
+    text-align: justify;
+}
+
+.iqac-text {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.iqac-ol {
+    line-height: 1.8;
+}
+
+/* Vertical list for Audit */
+.iqac-file-container-vertical .iqac-file-link {
+    margin-bottom: 10px;
+}
