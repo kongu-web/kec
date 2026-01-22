@@ -9,7 +9,7 @@ import "../../../../App.css";
 
 const members = [
   {
-    name: "Thiru.A.K.Ilango",
+    name: "Thiru.E.R.K.KRISHNAN",
     category: "Correspondent",
     mobile: "042924226510",
     email: "principal@kongu.edu",

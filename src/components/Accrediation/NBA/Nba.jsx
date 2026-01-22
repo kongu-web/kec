@@ -280,7 +280,7 @@ const Nba = () => {
       <Navbar />
       <div className="nba-container">
         <h2 className="page-title">
-          Program Bharathidasan University Affiliation
+          Programmes Accredited by NBA - TIER I (Washington Accord)
         </h2>
         {accreditationData.map((item) => (
           <div key={item.slNo} className="nba-programme">

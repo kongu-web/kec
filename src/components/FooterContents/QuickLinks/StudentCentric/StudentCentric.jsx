@@ -81,7 +81,7 @@ const data = [
       ],
     },
     "Human Resource Development Cell": {
-      Coordinator: "Dr. P. N. Palanisamy / CCO Planning",
+      Coordinator: "Dr. P. N. Palanisamy / Dean - Planning",
       Members: [
         "Dr. M. Karthikeyan / Chemistry",
         "Dr. V. Krishnamoorthy / Mgt. Studies",
@@ -234,6 +234,7 @@ const data = [
         "Mr. S. Kavin",
         "Mr. P. Sukumar",
         "Mr. P. Dineshkumar",
+        "Mr. G. Srivaths Karthic",
       ],
     },
     "Training Cell": {
@@ -256,7 +257,7 @@ const data = [
       ],
     },
     "Disciplinary Committee": {
-      Chairman: "Dr. R. Baskar / CCO Alumni Affairs and HOD FT",
+      Chairman: "Dr. R. Baskar / Dean Alumni Affairs and HOD FT",
       Members: [
         "Dr. S. Varadhaganapathy / IT",
         "Dr. N. Senthilnathan / EEE",
