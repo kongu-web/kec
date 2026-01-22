@@ -345,7 +345,7 @@ function AcademicsSection() {
 
   return (
     <section className="academics-section">
-      <span className="section-pill">ACADEMICS @ KEC</span>
+      <span className="section-pill">Academics @ KEC</span>
       <h2>World-Class Academic Programs</h2>
       <p className="subtitle">
         Choose from our diverse range of programs designed to meet industry

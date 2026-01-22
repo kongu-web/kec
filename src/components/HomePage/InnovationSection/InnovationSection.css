@@ -6,10 +6,10 @@
 .innovation-pill {
   display: inline-block;
   background: #e8f5ff;
-  color: #0284ff;
-  padding: 8px 18px;
+  color: #009edb;
+  padding: 8px 16px;
   border-radius: 20px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
   margin-bottom: 18px;
 }
@@ -27,6 +27,7 @@
   color: #444;
   line-height: 1.7;
   margin-bottom: 60px;
+  text-align: justify;
 }
 
 .innovation-cards {

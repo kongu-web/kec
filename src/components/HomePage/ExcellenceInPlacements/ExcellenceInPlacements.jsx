@@ -14,8 +14,7 @@ function ExcellenceInPlacements() {
     <section className="eip-placement-section">
       <div className="placement-wrapper">
         <span className="placement-pill">Excellence In Placements @ KEC</span>
-
-        <h2>Placement Records That Speak</h2>
+        <h2>Placement Records That Speak – 2024 to 2025</h2>
         <p className="placement-subtitle">
           Our students are recruited by the world's leading companies across
           diverse industries

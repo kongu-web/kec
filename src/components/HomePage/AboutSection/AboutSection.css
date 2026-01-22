@@ -30,7 +30,7 @@
   bottom: 20px;
   left: 20px;
   right: 20px;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 14px 18px;
   border-radius: 30px;
@@ -60,14 +60,14 @@
 }
 
 /* Right */
-.pill {
+.about-pill {
   display: inline-block;
-  padding: 6px 14px;
+  padding: 8px 16px;
   background: #e7f4ff;
-  color: #00a8ff;
+  color: #009edb;
   border-radius: 20px;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 15px;
 }
 
@@ -79,7 +79,9 @@
 
 .about-right p {
   color: #555;
+  font-size: 17px;
   line-height: 1.7;
+  text-align: justify;
 }
 
 /* Stats */
@@ -96,7 +98,7 @@
   padding: 10px;
   border-radius: 14px;
   text-align: center;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
   overflow: hidden;
 }
 
