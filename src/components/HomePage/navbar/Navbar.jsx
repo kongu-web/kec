@@ -63,7 +63,18 @@ const Navbar = () => {
   const navigate = useNavigate();
   const location = useLocation(); // ✅ REQUIRED
   const moreRef = useRef(null);
-  let timeoutId = null;
+  const timeoutRef = useRef(null);
+
+  const handleMouseEnter = (index) => {
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    setActiveDropdown(index);
+  };
+
+  const handleMouseLeave = () => {
+    timeoutRef.current = setTimeout(() => {
+      setActiveDropdown(null);
+    }, 200);
+  };
 
   const menuRoutes = {
     about: [
@@ -143,7 +154,7 @@ const Navbar = () => {
   }, []);
 
   const toggleDropdown = (i) => {
-    clearTimeout(timeoutId);
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
     setActiveDropdown(activeDropdown === i ? null : i);
   };
 
@@ -258,24 +269,24 @@ const Navbar = () => {
           <ul className="nav-menu">
             <li
               className={location.pathname === "/" ? "active" : ""}
-              onMouseEnter={() => setActiveDropdown(null)}
+              onMouseEnter={() => handleMouseEnter(null)}
               onClick={() => navigate("/")}
             >
               Home
             </li>
 
             <li
-              className={`${
-                isMenuActive(menuRoutes.about) ? "active" : ""
-              } has-dropdown`}
-              onMouseEnter={() => setActiveDropdown(1)}
+              className={`${isMenuActive(menuRoutes.about) ? "active" : ""
+                } has-dropdown`}
+              onMouseEnter={() => handleMouseEnter(1)}
+              onMouseLeave={handleMouseLeave}
             >
               About Us
               {activeDropdown === 1 && (
                 <div
                   className="card-dropdown"
-                  onMouseEnter={() => setActiveDropdown(1)}
-                  onMouseLeave={() => setActiveDropdown(null)}
+                  onMouseEnter={() => handleMouseEnter(1)}
+                  onMouseLeave={handleMouseLeave}
                 >
                   <span onClick={() => navigate("/aboutkec")}>
                     <MilestonesIcon className="submenu-icon" />
@@ -373,17 +384,17 @@ const Navbar = () => {
               )}
             </li> */}
             <li
-              className={`${
-                isMenuActive(menuRoutes.departments) ? "active" : ""
-              } has-dropdown`}
-              onMouseEnter={() => setActiveDropdown(3)}
+              className={`${isMenuActive(menuRoutes.departments) ? "active" : ""
+                } has-dropdown`}
+              onMouseEnter={() => handleMouseEnter(3)}
+              onMouseLeave={handleMouseLeave}
             >
               Departments
               {activeDropdown === 3 && (
                 <div
                   className="card-dropdown"
-                  onMouseEnter={() => setActiveDropdown(3)}
-                  onMouseLeave={() => setActiveDropdown(null)}
+                  onMouseEnter={() => handleMouseEnter(3)}
+                  onMouseLeave={handleMouseLeave}
                 >
                   <span onClick={() => navigate("/ug")}>
                     <GraduateIcon className="submenu-icon" />
@@ -457,7 +468,7 @@ const Navbar = () => {
             </li> */}
             <li
               className={location.pathname === "/placement" ? "active" : ""}
-              onMouseEnter={() => setActiveDropdown(null)}
+              onMouseEnter={() => handleMouseEnter(null)}
               onClick={() => navigate("/placement")}
             >
               Placement
@@ -542,24 +553,24 @@ const Navbar = () => {
             </li> */}
             <li
               className={location.pathname === "/admission" ? "active" : ""}
-              onMouseEnter={() => setActiveDropdown(null)}
+              onMouseEnter={() => handleMouseEnter(null)}
               onClick={() => navigate("/admission")}
             >
               Admission
             </li>
 
             <li
-              className={`${
-                isMenuActive(menuRoutes.others) ? "active" : ""
-              } has-dropdown`}
-              onMouseEnter={() => setActiveDropdown(6)}
+              className={`${isMenuActive(menuRoutes.others) ? "active" : ""
+                } has-dropdown`}
+              onMouseEnter={() => handleMouseEnter(6)}
+              onMouseLeave={handleMouseLeave}
             >
               Others
               {activeDropdown === 6 && (
                 <div
                   className="card-dropdown"
-                  onMouseEnter={() => setActiveDropdown(6)}
-                  onMouseLeave={() => setActiveDropdown(null)}
+                  onMouseEnter={() => handleMouseEnter(6)}
+                  onMouseLeave={handleMouseLeave}
                 >
                   {/* Internal pages */}
                   <span onClick={() => navigate("/facilities")}>
@@ -946,10 +957,6 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
                 )}
-
-                <li onClick={() => navigate("https://kongu.ac.in/blogs/")}>
-                  Blogs
-                </li>
 
                 {/* ERP */}
                 <li
