@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./Navbar.css";
 import logo from "../../../assets/images/kec11.jpg";
-import badge41 from "../../../assets/images/41years.png";
+import badge41 from "../../../assets/images/41years2.png";
 import nif from "../../../assets/images/nirf.png";
 import naac from "../../../assets/images/naac.png";
 import tneaBadge from "../../../assets/images/tneacode.png";
@@ -260,7 +260,7 @@ const Navbar = () => {
             {/* BADGES */}
             <div className="nav-badges">
               <img src={badge41} alt="41 Years" />
-              <img src={nif} alt="NIRF" />
+              {/* <img src={nif} alt="NIRF" /> */}
               <img src={naac} alt="NAAC" className="naac-badge" />
             </div>
           </div>
@@ -957,6 +957,8 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
                 )}
+
+                <li onClick={() => navigate("https://kongu.ac.in/blogs/")}>Blogs</li>
 
                 {/* ERP */}
                 <li

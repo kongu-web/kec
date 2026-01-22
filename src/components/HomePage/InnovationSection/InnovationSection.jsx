@@ -38,8 +38,8 @@ export default function InnovationSection() {
           </button>
         </div>
 
-        <div className="innovation-card blue">
-          <div className="icon-box blue">🚀</div>
+        <div className="innovation-card icblue">
+          <div className="icon-box icblue">🚀</div>
           <h3>Technology Business Incubator</h3>
           <p>
             State-recognized TBI supporting 50+ student startups with
@@ -51,7 +51,7 @@ export default function InnovationSection() {
             <li>Co-working Spaces</li>
             <li>Industry Networking</li>
           </ul>
-          <button className="btn blue">
+          <button className="btn icblue">
             <Link to="https://www.tbi-kec.org/">Join TBI</Link>
           </button>
         </div>

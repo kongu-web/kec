@@ -49,7 +49,7 @@
 .innovation-card.purple:hover {
   border-color: #9333ea;
 }
-.innovation-card.blue:hover {
+.innovation-card.icblue:hover {
   border-color: #3b82f6;
 }
 .innovation-card.green:hover {
@@ -70,7 +70,7 @@
 .icon-box.purple {
   background: linear-gradient(135deg, #9c2dff, #5d00b0);
 }
-.icon-box.blue {
+.icon-box.icblue {
   background: linear-gradient(135deg, #2263ff, #00298b);
 }
 .icon-box.green {
@@ -126,7 +126,7 @@
   background: #7c3aed;
 }
 
-.innovation-card.blue ul li::before {
+.innovation-card.icblue ul li::before {
   background: #2563eb;
 }
 .innovation-card.green ul li::before {
@@ -147,7 +147,7 @@
 .btn.purple {
   background: #9c2dff;
 }
-.btn.blue {
+.btn.icblue {
   background: #2263ff;
 }
 .btn.green {
