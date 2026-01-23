@@ -24,7 +24,7 @@ function ExcellenceInPlacements() {
           <StatCard value="1693" label="Offers received" />
           <StatCard value="5.5 LPA" label="Average Salary" />
           <StatCard value="143" label="Above 8 LPA" />
-          <StatCard value="24.7 LPA" label="Highest salary" />
+          <StatCard value="61.21 LPA" label="Highest salary" />
           <StatCard value="371" label="Companies Visited" />
           <StatCard value="94.3%" label="Placement Status" />
         </div>

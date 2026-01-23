@@ -15,20 +15,20 @@ function FelicitationSection() {
   const videos = [
     {
       id: "xFd5g7vmZeQ",
-      title: "Annual Convocation 2025",
-      desc: "Celebrating academic achievements and new beginnings",
+      title: "New Logo Launch",
+      desc: "Cheers to New Heights and New Horizons",
       thumb: video1,
     },
     {
       id: "aHDwHF3gerg",
-      title: "Toppers Felicitation 2025",
-      desc: "Honoring our top performers",
+      title: "Centre of Excellence",
+      desc: "Robotics and Automation Tour",
       thumb: video2,
     },
     {
       id: "4u7DNT-wEZ8",
-      title: "Entrepreneurship Journey",
-      desc: "Inspiring innovation & leadership",
+      title: "Entrepreneurship Journey - Idhayam Global Brand",
+      desc: "Thiru.V.R.Muthu CEO, Idhayam Family",
       thumb: video3,
     },
     ];
