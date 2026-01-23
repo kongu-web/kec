@@ -159,7 +159,7 @@ const IqacHome = () => {
                     {/* Reference */}
                     <div className="mb-4 text-center">
                         <p className="text-muted small">
-                            <em>Reference: Guidelines from NAAC for the Creation of the Internal Quality Assurance Cell (IQAC).</em>
+                            <em>Reference: Guidelines from NAAC for the Creation of the Internal Quality Assurance Cell (IQAC) and Submission of Annual Quality Assurance Report (AQAR) in Accredited Institutions.</em>
                         </p>
                     </div>
 

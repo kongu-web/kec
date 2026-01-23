@@ -1,0 +1,191 @@
+/* Premium Redesign for IQAC Composition */
+
+.iqac-composition-card {
+    background: #ffffff;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    overflow: hidden;
+    position: relative;
+    border: 1px solid rgba(0, 158, 219, 0.1);
+    /* Subtle Blue Border */
+    margin: 0 auto;
+}
+
+.iqac-composition-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 158, 219, 0.15);
+    /* Blue Shadow on Hover */
+    border-color: #009EDB;
+}
+
+.iqac-card-accent {
+    height: 5px;
+    /* background: linear-gradient(90deg, #009EDB, #00c6ff); */
+    width: 100%;
+    transform: scaleX(0.8);
+    transform-origin: center;
+    transition: transform 0.4s ease;
+}
+
+.iqac-composition-card:hover .iqac-card-accent {
+    transform: scaleX(1);
+    height: 6px;
+}
+
+.iqac-profile-container {
+    padding: 30px 20px;
+    text-align: center;
+    background: linear-gradient(180deg, #ffffff 0%, #f8faff 100%);
+}
+
+.iqac-profile-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 20px;
+    border: 4px solid #ffffff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    background-color: #f1f5f9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.iqac-composition-card:hover .iqac-profile-img {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0, 158, 219, 0.2);
+    border-color: #009EDB;
+}
+
+.iqac-member-name {
+    color: #1e293b;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.iqac-member-role {
+    color: #319143;
+    /* Theme Blue */
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    background: rgba(0, 158, 219, 0.08);
+    /* Light Blue Badge */
+    padding: 6px 12px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+/* Titles */
+.iqac-section-title,
+.iqac-title {
+    color: #009EDB;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.iqac-title {
+    font-size: 1.75rem;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.iqac-title::after {
+    background: linear-gradient(90deg, #009EDB, #00c6ff);
+}
+
+.iqac-section-title {
+    font-size: 1.2rem;
+    font-weight: 800;
+    text-align: center;
+    margin: 50px 0 40px;
+    background: linear-gradient(135deg, #009EDB 0%, #004e92 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-bottom: none;
+    /* Removed default border */
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.iqac-section-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: #009EDB;
+    border-radius: 2px;
+}
+
+
+/* File Grid */
+.iqac-file-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.iqac-file-link {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #475569;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+}
+
+.iqac-file-link:hover {
+    box-shadow: 0 10px 20px rgba(0, 158, 219, 0.1);
+    border-color: #009EDB;
+    transform: translateY(-3px);
+    color: #009EDB;
+    text-decoration: none;
+}
+
+.iqac-file-icon {
+    font-size: 1.8rem;
+    color: #ef4444;
+    /* PDF Red */
+    margin-right: 18px;
+    transition: transform 0.3s;
+}
+
+.iqac-file-link:hover .iqac-file-icon {
+    transform: scale(1.1);
+}
+
+/* List Styling */
+.iqac-list-styled {
+    list-style: none;
+    padding: 0;
+}
+
+.iqac-list-styled li {
+    padding-left: 25px;
+    position: relative;
+    margin-bottom: 12px;
+    color: #334155;
+}
+
+.iqac-list-styled li::before {
+    content: '•';
+    color: #009EDB;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 0;
+    top: -5px;
+}
