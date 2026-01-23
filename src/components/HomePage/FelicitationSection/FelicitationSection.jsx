@@ -6,11 +6,11 @@ import video2 from "../../../assets/images/HomePage/video2thum.png";
 import video3 from "../../../assets/images/HomePage/video3thum.png";
 
 function FelicitationSection() {
-    const [currentVideo, setCurrentVideo] = useState("xFd5g7vmZeQ");
+  const [currentVideo, setCurrentVideo] = useState("xFd5g7vmZeQ");
   const [showVideo, setShowVideo] = useState(false);
   const [playVideo, setPlayVideo] = useState(false);
 
-  
+
 
   const videos = [
     {
@@ -31,11 +31,11 @@ function FelicitationSection() {
       desc: "Inspiring innovation & leadership",
       thumb: video3,
     },
-    ];
-    
-    const [activeIndex, setActiveIndex] = useState(0);
+  ];
 
-    const activeVideo = videos[activeIndex];
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  const activeVideo = videos[activeIndex];
 
   return (
     <section className="felicitation-section">
@@ -74,7 +74,7 @@ function FelicitationSection() {
               </div>
             ) : (
               <iframe
-                src={`https://www.youtube.com/embed/${activeVideo.id}?autoplay=1`}
+                src={`https://www.youtube.com/embed/${activeVideo.id}?autoplay=1&rel=0`}
                 title={activeVideo.title}
                 frameBorder="0"
                 allow="autoplay; encrypted-media"

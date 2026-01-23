@@ -238,6 +238,7 @@ blockquote {
   margin-top: 12px;
 }
 
+
 /* Bottom buttons */
 .legacy-buttons {
   grid-column: span 2;
@@ -249,71 +250,63 @@ blockquote {
 
 .legacy-buttons .legacy-btn {
   position: relative;
-  overflow: hidden;
-  background: white;
-  border: 1px solid #e0e7ff;
-  color: #111;
-  padding: 18px;
-  border-radius: 14px;
+  background: #ffffff;
+  border: 1px solid rgba(11, 130, 216, 0.15);
+  /* Subtle blue border */
+  color: #303877;
+  /* Dark blue text */
+  padding: 18px 24px;
+  border-radius: 16px;
   font-weight: 600;
   display: flex;
-  gap: 10px;
+  gap: 12px;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  transition: 0.55s ease;
-  z-index: 1;
   text-decoration: none;
-  /* Removed underline */
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+  z-index: 1;
 }
 
-/* sweeping lights */
-.legacy-buttons .legacy-btn::before,
+.legacy-buttons .legacy-btn:hover {
+  transform: translateY(-5px);
+  background: linear-gradient(135deg, #0b82d8, #303877);
+  color: #ffffff;
+  border-color: transparent;
+  box-shadow: 0 15px 30px rgba(11, 130, 216, 0.25);
+}
+
+.legacy-buttons .legacy-btn svg {
+  font-size: 20px;
+  transition: transform 0.4s ease;
+}
+
+.legacy-buttons .legacy-btn:hover svg {
+  transform: scale(1.2) rotate(-10deg);
+}
+
+/* Subtle shine effect on hover */
 .legacy-buttons .legacy-btn::after {
   content: "";
   position: absolute;
-  width: 160%;
-  height: 160%;
-  background: linear-gradient(135deg,
-      transparent 46%,
-      rgba(48, 56, 119, 0.65),
-      transparent 54%);
-  opacity: 0;
-  transition: 1s ease;
-  z-index: -1;
-}
-
-/* bottom-left sweep */
-.legacy-buttons .legacy-btn::before {
-  left: -120%;
-  bottom: -120%;
-}
-
-/* top-right sweep */
-.legacy-buttons .legacy-btn::after {
-  right: -120%;
-  top: -120%;
-}
-
-/* hover animation */
-.legacy-buttons .legacy-btn:hover::before {
-  left: -10%;
-  bottom: -10%;
-  opacity: 1;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to right,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.2) 50%,
+      rgba(255, 255, 255, 0) 100%);
+  transform: skewX(-25deg);
+  transition: left 0.6s ease;
+  z-index: 2;
+  pointer-events: none;
 }
 
 .legacy-buttons .legacy-btn:hover::after {
-  right: -10%;
-  top: -10%;
-  opacity: 1;
-}
-
-/* glow & lift */
-.legacy-buttons .legacy-btn:hover {
-  background: #303877;
-  color: white;
-  border-color: #303877;
-  /* box-shadow: 0 0 28px rgba(48, 56, 119, 0.55); */
+  left: 150%;
+  transition: left 0.6s ease;
 }
 
 
