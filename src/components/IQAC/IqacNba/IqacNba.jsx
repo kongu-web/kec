@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
-import './IQAC.css';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
+import '../IQAC.css';
+import './IqacNba.css';
 
 // Assets (Assuming these are in public/assets/docs/Nba/)
 const nba18042022 = "/assets/docs/Nba/KEC_nba_18_04_2022.pdf";

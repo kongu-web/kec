@@ -1,7 +1,9 @@
 import React from "react";
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
+import '../IQAC.css';
+import './IqacNaac.css';
 // Assets (Assuming these are in public/assets/docs/Naac/)
 const gradeSheet = "/assets/docs/Naac/NAAC_CERTIFICATE_2022.pdf";
 const ssrDVV = "/assets/docs/Naac/SSR_DVV_31_01_2022.pdf";

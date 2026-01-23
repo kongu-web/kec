@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
-import { iqacData } from './iqacData';
-import './IQAC.css';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
+import { iqacData } from '../iqacData';
+import '../IQAC.css';
+import './IqacGallery.css';
 import { Modal } from 'react-bootstrap';
 
 const IqacGallery = () => {

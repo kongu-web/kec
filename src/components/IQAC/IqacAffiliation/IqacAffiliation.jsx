@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import { Tab, Tabs } from 'react-bootstrap';
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
-import { iqacData } from './iqacData';
-import './IQAC.css';
+import { iqacData } from '../iqacData';
+import '../IQAC.css';
+import './IqacAffiliation.css';
 
 const FileGrid = ({ files }) => (
     <div className="iqac-file-grid mt-3">

@@ -1,10 +1,11 @@
 import React from 'react';
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
-import './IQAC.css';
+import '../IQAC.css';
+import './IqacComposition.css';
 
 const teamMembers = [
     {

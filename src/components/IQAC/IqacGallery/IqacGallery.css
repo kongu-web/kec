@@ -1,0 +1,37 @@
+/* Gallery Styles */
+.iqac-gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.iqac-gallery-item {
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    height: 200px;
+}
+
+.iqac-gallery-item:hover {
+    transform: scale(1.05);
+}
+
+.iqac-gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.iqac-section-title {
+    color: #1e3a8a;
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 40px 0 25px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 15px;
+}

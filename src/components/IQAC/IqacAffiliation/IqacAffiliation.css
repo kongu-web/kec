@@ -1,0 +1,62 @@
+/* Document/File Links */
+.iqac-file-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+
+.iqac-file-link {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #012d6f;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.iqac-file-link:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-color: #0008ff;
+    transform: translateY(-2px);
+    text-decoration: none;
+}
+
+.iqac-file-icon {
+    font-size: 1.5rem;
+    color: #ff4d4d;
+    margin-right: 15px;
+}
+
+.iqac-section-title {
+    color: #1e3a8a;
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 40px 0 25px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 15px;
+}
+
+.iqac-text {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #475569;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+/* Tab Styles */
+.custom-tabs .nav-link {
+    color: #012d6f;
+    font-weight: 500;
+}
+
+.custom-tabs .nav-link.active {
+    color: #219c02;
+    font-weight: bold;
+}

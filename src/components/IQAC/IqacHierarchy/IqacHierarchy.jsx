@@ -1,8 +1,9 @@
 import React from 'react';
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
-import './IQAC.css';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
+import '../IQAC.css';
+import './IqacHierarchy.css';
 
 const IqacHierarchy = () => {
     return (

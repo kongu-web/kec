@@ -109,22 +109,22 @@ import Recruitment from './components/FooterContents/QuickLinks/Recruitment/Recr
 import HelpDeskCommittee from './components/FooterContents/StudentsCorner/HelpDeskCommittee/HelpDeskCommittee.jsx';
 
 // IQAC Module
-import IqacHome from './components/IQAC/IqacHome';
-import IqacComposition from './components/IQAC/IqacComposition';
-import IqacHierarchy from './components/IQAC/IqacHierarchy';
-import IqacISO from './components/IQAC/IqacISO';
-import IqacAffiliation from './components/IQAC/IqacAffiliation';
-import IqacMeetings from './components/IQAC/IqacMeetings';
-import IqacAudit from './components/IQAC/IqacAudit';
-import IqacStrategicPlan from './components/IQAC/IqacStrategicPlan';
-import IqacBestPractices from './components/IQAC/IqacBestPractices';
-import IqacAnnualReport from './components/IQAC/IqacAnnualReport';
-import IqacCirculars from './components/IQAC/IqacCirculars';
-import IqacDownloads from './components/IQAC/IqacDownloads';
-import IqacGallery from './components/IQAC/IqacGallery';
-import IqacNaac from './components/IQAC/IqacNaac';
-import IqacNba from './components/IQAC/IqacNba';
-import IqacNirf from './components/IQAC/IqacNirf';
+import IqacHome from './components/IQAC/IqacHome/IqacHome';
+import IqacComposition from './components/IQAC/IqacComposition/IqacComposition';
+import IqacHierarchy from './components/IQAC/IqacHierarchy/IqacHierarchy';
+import IqacISO from './components/IQAC/IqacISO/IqacISO';
+import IqacAffiliation from './components/IQAC/IqacAffiliation/IqacAffiliation';
+import IqacMeetings from './components/IQAC/IqacMeetings/IqacMeetings';
+import IqacAudit from './components/IQAC/IqacAudit/IqacAudit';
+import IqacStrategicPlan from './components/IQAC/IqacStrategicPlan/IqacStrategicPlan';
+import IqacBestPractices from './components/IQAC/IqacBestPractices/IqacBestPractices';
+import IqacAnnualReport from './components/IQAC/IqacAnnualReport/IqacAnnualReport';
+import IqacCirculars from './components/IQAC/IqacCirculars/IqacCirculars';
+import IqacDownloads from './components/IQAC/IqacDownloads/IqacDownloads';
+import IqacGallery from './components/IQAC/IqacGallery/IqacGallery';
+import IqacNaac from './components/IQAC/IqacNaac/IqacNaac';
+import IqacNba from './components/IQAC/IqacNba/IqacNba';
+import IqacNirf from './components/IQAC/IqacNirf/IqacNirf';
 
 import Spinner from './components/Spinner.jsx';
 import Rankings from './components/ExtraPages/Rankings/Rankings.jsx';

@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
-import Navbar from '../HomePage/navbar/Navbar';
-import Footer from '../HomePage/Footer/Footer';
-import IqacNavbar from './IqacNavbar';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFilePdf, faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
-import { recentCirculars, archivedCirculars } from './circularsData';
-import './IQAC.css';
+import { recentCirculars, archivedCirculars } from '../circularsData';
+import '../IQAC.css';
+import './IqacCirculars.css';
 
 const IqacCirculars = () => {
     const [isArchiveOpen, setIsArchiveOpen] = useState(false);
