@@ -122,17 +122,19 @@ const IqacComposition = () => {
                 <IqacNavbar />
 
                 <div className="iqac-content">
-                    <h2 className="iqac-title">COMPOSITION OF IQAC</h2>
+                    <h2 className="page-title">COMPOSITION OF IQAC</h2>
                     <p>The composition of the IQAC in KEC is as follows:</p>
-                    <ul className="mb-4">
-                        <li><b>Chairperson:</b> Head of the Institution</li>
-                        <li>A few senior administrative officers</li>
-                        <li>Three to eight teachers</li>
-                        <li>One member from the Management</li>
-                        <li>One/two nominees from local society, students, and alumni</li>
-                        <li>One/two nominees from employers, industrialists, or stakeholders</li>
-                        <li>The Chief Coordinator of the IQAC</li>
-                    </ul>
+                    <div className="iqac-composition-list">
+                        <ul className="mb-0">
+                            <li><b>Chairperson:</b> Head of the Institution</li>
+                            <li>A few senior administrative officers</li>
+                            <li>Three to eight teachers</li>
+                            <li>One member from the Management</li>
+                            <li>One/two nominees from local society, students, and alumni</li>
+                            <li>One/two nominees from employers, industrialists, or stakeholders</li>
+                            <li>The Chief Coordinator of the IQAC</li>
+                        </ul>
+                    </div>
 
                     <h2 className="iqac-section-title text-center">TEAM IQAC @ KEC</h2>
 

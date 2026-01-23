@@ -1,44 +1,190 @@
 /* Premium Redesign for IQAC Composition */
 
+/* Wrapper for centering the list elegantly */
+.iqac-composition-list {
+    max-width: 850px;
+    margin: 40px auto;
+    /* background: #fff; */
+    /* Remove huge container background to let items breathe */
+    padding: 10px;
+}
+
+/* Composition List Styling - Card Rows */
+.iqac-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.iqac-content ul li {
+    background: white;
+    padding: 18px 25px 18px 60px;
+    /* Space for icon */
+    border-radius: 12px;
+    position: relative;
+    color: #334155;
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: left;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    border: 1px solid #f1f5f9;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.iqac-content ul li:hover {
+    transform: translateX(5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+    border-color: #e2e8f0;
+}
+
+.iqac-content ul li::before {
+    content: '\2713';
+    /* Checkmark Unicode */
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-weight: 900;
+    font-size: 0.9rem;
+    background: linear-gradient(135deg, #319143 0%, #15803d 100%);
+    /* Gradient Green */
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(49, 145, 67, 0.2);
+}
+
+.iqac-content ul li b {
+    color: #0f172a;
+    font-weight: 700;
+    margin-right: 5px;
+}
+
+/* Page Title with Decorative Element */
+.page-title {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 20px;
+    background: linear-gradient(120deg, #303177 0%, #1d7fd5 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.page-title::after {
+    content: '';
+    position: ABSOLUTE;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(90deg, #303177, #1d7fd5);
+    border-radius: 2px;
+}
+
+/* Section Title */
+.iqac-section-title {
+    font-size: 1.8rem;
+    font-weight: 800;
+    text-align: center;
+    margin: 70px 0 50px;
+    color: #0f172a;
+    position: relative;
+    letter-spacing: -0.02em;
+}
+
+.iqac-section-title::before {
+    content: '////';
+    display: block;
+    color: rgba(0, 158, 219, 0.1);
+    font-size: 4rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    font-weight: 900;
+    letter-spacing: 0.5em;
+    width: 100%;
+    pointer-events: none;
+}
+
+.iqac-section-title span {
+    position: relative;
+    z-index: 1;
+}
+
+
+/* Team Member Cards - Ultra Premium */
 .iqac-composition-card {
     background: #ffffff;
-    border-radius: 20px;
+    border-radius: 24px;
     width: 100%;
     max-width: 300px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     overflow: hidden;
     position: relative;
-    border: 1px solid rgba(0, 158, 219, 0.1);
-    /* Subtle Blue Border */
     margin: 0 auto;
+    border: 1px solid rgba(0, 0, 0, 0.04);
 }
 
 .iqac-composition-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(0, 158, 219, 0.15);
-    /* Blue Shadow on Hover */
-    border-color: #009EDB;
+    transform: translateY(-12px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Animated Gradient Border Top */
+.iqac-composition-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 24px;
+    box-shadow: inset 0 0 0 0 #009EDB;
+    transition: box-shadow 0.3s ease;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.iqac-composition-card:hover::after {
+    box-shadow: inset 0 0 0 2px rgba(0, 158, 219, 0.5);
+    /* Thinner, subtler border */
 }
 
 .iqac-card-accent {
-    height: 5px;
-    /* background: linear-gradient(90deg, #009EDB, #00c6ff); */
+    height: 140px;
+    /* Taller accent used as background header */
+    background: linear-gradient(135deg, #009EDB 0%, #00609d 100%);
     width: 100%;
-    transform: scaleX(0.8);
-    transform-origin: center;
-    transition: transform 0.4s ease;
-}
-
-.iqac-composition-card:hover .iqac-card-accent {
-    transform: scaleX(1);
-    height: 6px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .iqac-profile-container {
-    padding: 30px 20px;
+    padding: 0 20px 30px;
     text-align: center;
-    background: linear-gradient(180deg, #ffffff 0%, #f8faff 100%);
+    position: relative;
+    z-index: 2;
+    margin-top: 60px;
+    /* Push content down to overlap with accent */
 }
 
 .iqac-profile-img {
@@ -46,146 +192,101 @@
     height: 130px;
     border-radius: 50%;
     object-fit: cover;
-    margin: 0 auto 20px;
-    border: 4px solid #ffffff;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-    background-color: #f1f5f9;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 0 auto 15px;
+    border: 5px solid #ffffff;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    transition: transform 0.4s ease;
 }
 
 .iqac-composition-card:hover .iqac-profile-img {
-    transform: scale(1.05);
-    box-shadow: 0 10px 25px rgba(0, 158, 219, 0.2);
-    border-color: #009EDB;
+    transform: scale(1.05) rotate(2deg);
+    border-color: #fff;
 }
 
 .iqac-member-name {
     color: #1e293b;
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     font-family: 'Poppins', sans-serif;
 }
 
 .iqac-member-role {
-    color: #319143;
-    /* Theme Blue */
+    color: #64748b;
     font-size: 0.85rem;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
-    background: rgba(0, 158, 219, 0.08);
-    /* Light Blue Badge */
-    padding: 6px 12px;
-    border-radius: 20px;
-    display: inline-block;
+    letter-spacing: 0.05em;
+    margin-bottom: 15px;
 }
 
-/* Titles */
-.iqac-section-title,
-.iqac-title {
+/* Connect Button (Implicit via entire card click, but styled link icon helps) */
+.iqac-profile-container::after {
+    content: 'View Profile →';
+    display: block;
+    margin-top: 15px;
+    font-size: 0.8rem;
     color: #009EDB;
-    font-size: 1.5rem;
     font-weight: 700;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
 }
 
-.iqac-title {
-    font-size: 1.75rem;
-    margin-bottom: 30px;
-    font-weight: 700;
-}
-
-.iqac-title::after {
-    background: linear-gradient(90deg, #009EDB, #00c6ff);
-}
-
-.iqac-section-title {
-    font-size: 1.2rem;
-    font-weight: 800;
-    text-align: center;
-    margin: 50px 0 40px;
-    background: linear-gradient(135deg, #009EDB 0%, #004e92 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border-bottom: none;
-    /* Removed default border */
-    position: relative;
-    padding-bottom: 20px;
-}
-
-.iqac-section-title::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 80px;
-    height: 4px;
-    background: #009EDB;
-    border-radius: 2px;
+.iqac-composition-card:hover .iqac-profile-container::after {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 
-/* File Grid */
+/* File Grid - Cards Look */
 .iqac-file-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     gap: 20px;
+    margin-top: 40px;
 }
 
 .iqac-file-link {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    padding: 20px;
-    background: #fff;
+    justify-content: center;
+    padding: 30px 20px;
+    background: #ffffff;
     border: 1px solid #e2e8f0;
-    border-radius: 12px;
+    border-radius: 16px;
     text-decoration: none;
-    color: #475569;
+    color: #334155;
     font-weight: 600;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+    text-align: center;
+    gap: 15px;
 }
 
 .iqac-file-link:hover {
-    box-shadow: 0 10px 20px rgba(0, 158, 219, 0.1);
-    border-color: #009EDB;
-    transform: translateY(-3px);
-    color: #009EDB;
-    text-decoration: none;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+    transform: translateY(-5px);
+    border-color: #e2e8f0;
 }
 
 .iqac-file-icon {
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     color: #ef4444;
-    /* PDF Red */
-    margin-right: 18px;
-    transition: transform 0.3s;
+    margin-right: 0;
+    /* Centered */
+    filter: drop-shadow(0 4px 6px rgba(239, 68, 68, 0.2));
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 .iqac-file-link:hover .iqac-file-icon {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
-/* List Styling */
-.iqac-list-styled {
-    list-style: none;
-    padding: 0;
-}
-
-.iqac-list-styled li {
-    padding-left: 25px;
-    position: relative;
-    margin-bottom: 12px;
-    color: #334155;
-}
-
-.iqac-list-styled li::before {
-    content: '•';
-    color: #009EDB;
-    font-size: 1.5rem;
-    position: absolute;
-    left: 0;
-    top: -5px;
+/* Responsive */
+@media (max-width: 768px) {
+    .iqac-content ul li {
+        padding-left: 50px;
+    }
 }
