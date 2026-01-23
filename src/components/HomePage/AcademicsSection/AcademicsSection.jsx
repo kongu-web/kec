@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import "./AcademicsSection.css";
 import card1 from "../../../assets/images/HomePage/ACADEMICS_card1.png";
 import card2 from "../../../assets/images/HomePage/ACADEMICS_card2.png";
@@ -194,106 +195,10 @@ const pgPrograms = [
 
 
 const phDProgrammes = [
-  {
-    sno: 1,
-    name: "B.E Civil Engineering",
-    icon: <FaBuilding />,
-    duration: "4 Years",
-    year: 1984,
-    route: "civil",
-  },
-  {
-    sno: 2,
-    name: "B.E Mechanical Engineering",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    year: 1984,
-    route: "mech",
-  },
-  {
-    sno: 3,
-    name: "B.E Electronics and Communication Engineering",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    year: 1984,
-    route: "ece",
-  },
-  {
-    sno: 4,
-    name: "B.E Computer Science and Engineering",
-    icon: <FaLaptopCode />,
-    duration: "4 Years",
-    year: 1988,
-    route: "cse",
-  },
-  {
-    sno: 5,
-    name: "B.Tech Chemical Engineering",
-    icon: <FaFlask />,
-    duration: "4 Years",
-    year: 1994,
-    route: "chem",
-  },
-  {
-    sno: 6,
-    name: "B.E Electrical and Electronics Engineering",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    year: 1994,
-    route: "eee",
-  },
-  {
-    sno: 7,
-    name: "B.E Electronics and Instrumentation Engineering",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    year: 1998,
-    route: "eie",
-  },
-  {
-    sno: 8,
-    name: "B.Tech Information Technology",
-    icon: <FaLaptopCode />,
-    duration: "4 Years",
-    year: 1998,
-    route: "it",
-  },
-  {
-    sno: 9,
-    name: "B.E Mechatronics Engineering",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    year: 1999,
-    route: "mts",
-  },
-  {
-    sno: 10,
-    name: "B.Tech Food Technology",
-    icon: <FaAppleAlt />,
-    duration: "4 Years",
-    year: 2006,
-    route: "foodtech",
-  },
-  {
-    sno: 11,
-    name: "Master of Business Administration (MBA)",
-    icon: <FaUniversity />,
-    duration: "2 Years",
-    year: 1994,
-    route: "mba",
-  },
-  {
-    sno: 12,
-    name: "Master of Computer Applications (MCA)",
-    icon: <FaGraduationCap />,
-    duration: "2 Years",
-    year: 1993,
-    route: "mca",
-  },
-  { sno: 13, name: "Mathematics", icon: <FaCalculator />, route: "maths" },
-  { sno: 14, name: "Physics", icon: <FaAtom />, route: "physics" },
-  { sno: 15, name: "Chemistry", icon: <FaVial />, route: "chemistry" },
-  { sno: 16, name: "English", icon: <FaBookOpen />, route: "english" },
+  { sno: 1, name: "Mathematics", icon: <FaCalculator />, route: "maths" },
+  { sno: 2, name: "Physics", icon: <FaAtom />, route: "physics" },
+  { sno: 3, name: "Chemistry", icon: <FaVial />, route: "chemistry" },
+  { sno: 4, name: "English", icon: <FaBookOpen />, route: "english" },
 ];
 
 
@@ -345,7 +250,7 @@ function AcademicsSection() {
 
   return (
     <section className="academics-section">
-      <span className="section-pill">ACADEMICS @ KEC</span>
+      <span className="section-pill">Academics @ KEC</span>
       <h2>World-Class Academic Programs</h2>
       <p className="subtitle">
         Choose from our diverse range of programs designed to meet industry
@@ -412,13 +317,14 @@ function AcademicsSection() {
 
           <div className="program-grid">
             {programMap[active].map((item) => (
-              <div key={item.sno} className="program-item">
+              <Link
+                key={item.sno}
+                to={`/${item.route}`}
+                className="program-item"
+              >
                 <span className="program-icon">{item.icon}</span>
                 <span>{item.name}</span>
-                {/* {item.duration && (
-                  <span className="duration">{item.duration}</span>
-                )} */}
-              </div>
+              </Link>
             ))}
           </div>
         </div>

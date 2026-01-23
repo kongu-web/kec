@@ -6,8 +6,9 @@ import Footer from "../../HomePage/Footer/Footer";
 
 import heroImg from "../../../assets/images/Placement/placement-hero.png";
 import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.jpeg";
-import team2 from "../../../assets/images/Placement/Sukumar.P.jpeg";
-import team3 from "../../../assets/images/Placement/Dineshkumar.P.jpeg";
+import team2 from "../../../assets/images/Placement/Kavin.S.jpeg";
+import team3 from "../../../assets/images/Placement/Sukumar.P.jpeg";
+import team4 from "../../../assets/images/Placement/Dineshkumar.P.jpeg";
 
 import stat1 from "../../../assets/images/Placement/Frame 260.png";
 import stat2 from "../../../assets/images/Placement/Frame 257.png";
@@ -68,19 +69,26 @@ export const teamData = [
     mobile: "9790004095",
     img: team1,
   },
-  {
+   {
     id: 2,
-    name: "Mr. P. Sukumar",
+    name: "Mr. S. Kavin ",
     role: "Deputy Placement Officer",
-    mobile: "9629455327",
+    mobile: "9600777618",
     img: team2,
   },
   {
     id: 3,
+    name: "Mr. P. Sukumar",
+    role: "Deputy Placement Officer",
+    mobile: "9629455327",
+    img: team3,
+  },
+  {
+    id: 4,
     name: "Mr. P. Dineshkumar",
     role: "Deputy Placement Officer",
     mobile: "7373675915",
-    img: team3,
+    img: team4,
   },
 ];
 
@@ -207,7 +215,7 @@ const Placement = () => {
 
         <div class="container">
           {" "}
-          <h2 class="section-title">Placement Statistics</h2>{" "}
+          <h2 class="section-title">Placement Statistics  2025 - 2026</h2>{" "}
           <p class="section-subtitle">
             {" "}
             A comprehensive overview of our placement performance{" "}
@@ -222,7 +230,7 @@ const Placement = () => {
                 <img src={card1} />
               </div>
 
-              <div class="stat-value">180</div>
+              <div class="stat-value">189</div>
             </div>
 
             <div class="ps-stat-card blue center">
@@ -234,7 +242,7 @@ const Placement = () => {
                 <img src={card2} />
               </div>
 
-              <div class="stat-value big">894</div>
+              <div class="stat-value big">931</div>
             </div>
 
             <div class="ps-stat-card green">
@@ -246,7 +254,7 @@ const Placement = () => {
                 <img src={card3} />
               </div>
 
-              <div class="stat-value">35 LPA</div>
+              <div class="stat-value">61.21 LPA</div>
             </div>
           </div>
         </div>

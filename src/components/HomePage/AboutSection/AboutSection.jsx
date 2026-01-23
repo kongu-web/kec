@@ -22,7 +22,7 @@ function AboutSection() {
 
         {/* Right Content */}
         <div className="about-right">
-          <span className="pill">About @ KEC</span>
+          <span className="about-pill">About @ KEC</span>
           <h2>Building Tomorrow's Innovators Today</h2>
 
           <p>
@@ -44,7 +44,7 @@ function AboutSection() {
 
           <div className="stats-row">
             <div className="home-stat-card">
-              <h3>NAAC A+</h3>
+              <h3>NAAC A++</h3>
               <p>Accreditation</p>
             </div>
             <div className="home-stat-card">

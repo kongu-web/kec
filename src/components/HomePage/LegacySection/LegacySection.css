@@ -8,9 +8,10 @@
 
 .legacy-pill {
   background: #e6f4ff;
-  color: #0b82d8;
+  color: #009edb;
   padding: 8px 16px;
   border-radius: 20px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -29,7 +30,8 @@
 .legacy-left p {
   color: #555;
   max-width: 520px;
-  font-size: 18px;
+  font-size: 17px;
+  text-align: justify;
 }
 
 blockquote {
@@ -67,12 +69,14 @@ blockquote {
   background: white;
   border-radius: 22px;
   padding: 22px 24px;
-  box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
   position: relative;
 }
 
 /* Sizes */
-.wide { grid-column: span 2; }
+.wide {
+  grid-column: span 2;
+}
 
 /* Color Variants */
 .dark {
@@ -81,7 +85,7 @@ blockquote {
 }
 
 .blue {
-  background: linear-gradient(135deg,#1aa7ff,#0b6fe3);
+  background: linear-gradient(135deg, #1aa7ff, #0b6fe3);
   color: white;
 }
 
@@ -98,23 +102,28 @@ blockquote {
 .legacy-card.light .cap img {
   width: 48px;
   height: auto;
-  opacity: 0.75;  /* watermark effect like design */
+  opacity: 0.75;
+  /* watermark effect like design */
 }
 
 .legacy-card.light {
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;   /* pushes content to bottom */
-  align-items: flex-start;    /* locks text to left */
+  justify-content: flex-end;
+  /* pushes content to bottom */
+  align-items: flex-start;
+  /* locks text to left */
   padding: 20px;
 }
 
 .legacy-card.blue {
   display: flex;
   flex-direction: column;
-  justify-content: center;  /* vertical center */
-  align-items: center;      /* horizontal center */
+  justify-content: center;
+  /* vertical center */
+  align-items: center;
+  /* horizontal center */
   text-align: center;
 }
 
@@ -171,13 +180,14 @@ blockquote {
 }
 
 .progress {
-    line-height: 0.1;
-    margin: 0;
+  line-height: 0.1;
+  margin: 0;
 }
+
 /* Badges */
 .tag {
   display: inline-block;
-  background: rgba(255,255,255,.25);
+  background: rgba(255, 255, 255, .25);
   padding: 6px 14px;
   border-radius: 20px;
   font-size: 12px;
@@ -206,10 +216,14 @@ blockquote {
 
   animation: softBounce 2.2s ease-in-out infinite;
 }
+
 @keyframes softBounce {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0);
   }
+
   50% {
     transform: translateY(-10px);
   }
@@ -224,6 +238,7 @@ blockquote {
   margin-top: 12px;
 }
 
+
 /* Bottom buttons */
 .legacy-buttons {
   grid-column: span 2;
@@ -233,72 +248,65 @@ blockquote {
   margin-top: 40px;
 }
 
-.legacy-buttons button {
+.legacy-buttons .legacy-btn {
   position: relative;
-  overflow: hidden;
-  background: white;
-  border: 1px solid #e0e7ff;
-  color: #111;
-  padding: 18px;
-  border-radius: 14px;
+  background: #ffffff;
+  border: 1px solid rgba(11, 130, 216, 0.15);
+  /* Subtle blue border */
+  color: #303877;
+  /* Dark blue text */
+  padding: 18px 24px;
+  border-radius: 16px;
   font-weight: 600;
   display: flex;
-  gap: 10px;
+  gap: 12px;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  transition: 0.55s ease;
+  text-decoration: none;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
   z-index: 1;
 }
 
-/* sweeping lights */
-.legacy-buttons button::before,
-.legacy-buttons button::after {
+.legacy-buttons .legacy-btn:hover {
+  transform: translateY(-5px);
+  background: linear-gradient(135deg, #0b82d8, #303877);
+  color: #ffffff;
+  border-color: transparent;
+  box-shadow: 0 15px 30px rgba(11, 130, 216, 0.25);
+}
+
+.legacy-buttons .legacy-btn svg {
+  font-size: 20px;
+  transition: transform 0.4s ease;
+}
+
+.legacy-buttons .legacy-btn:hover svg {
+  transform: scale(1.2) rotate(-10deg);
+}
+
+/* Subtle shine effect on hover */
+.legacy-buttons .legacy-btn::after {
   content: "";
   position: absolute;
-  width: 160%;
-  height: 160%;
-  background: linear-gradient(
-    135deg,
-    transparent 46%,
-    rgba(48, 56, 119, 0.65),
-    transparent 54%
-  );
-  opacity: 0;
-  transition: 1s ease;
-  z-index: -1;
-}
-/* bottom-left sweep */
-.legacy-buttons button::before {
-  left: -120%;
-  bottom: -120%;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to right,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.2) 50%,
+      rgba(255, 255, 255, 0) 100%);
+  transform: skewX(-25deg);
+  transition: left 0.6s ease;
+  z-index: 2;
+  pointer-events: none;
 }
 
-/* top-right sweep */
-.legacy-buttons button::after {
-  right: -120%;
-  top: -120%;
-}
-
-/* hover animation */
-.legacy-buttons button:hover::before {
-  left: -10%;
-  bottom: -10%;
-  opacity: 1;
-}
-
-.legacy-buttons button:hover::after {
-  right: -10%;
-  top: -10%;
-  opacity: 1;
-}
-
-/* glow & lift */
-.legacy-buttons button:hover {
-  background: #303877;
-  color: white;
-  border-color: #303877;
-  /* box-shadow: 0 0 28px rgba(48, 56, 119, 0.55); */
+.legacy-buttons .legacy-btn:hover::after {
+  left: 150%;
+  transition: left 0.6s ease;
 }
 
 
@@ -309,6 +317,7 @@ blockquote {
 ================================ */
 
 @media (max-width: 1200px) {
+
   .legacy-left h1,
   .legacy-left h1 span {
     font-size: 42px;
@@ -337,6 +346,7 @@ blockquote {
 }
 
 @media (max-width: 768px) {
+
   .legacy-left h1,
   .legacy-left h1 span {
     font-size: 34px;
@@ -396,7 +406,7 @@ blockquote {
     font-size: 14px;
   }
 
-  .legacy-buttons button {
+  .legacy-buttons .legacy-btn {
     padding: 14px;
     font-size: 14px;
   }

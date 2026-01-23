@@ -6,36 +6,36 @@ import video2 from "../../../assets/images/HomePage/video2thum.png";
 import video3 from "../../../assets/images/HomePage/video3thum.png";
 
 function FelicitationSection() {
-    const [currentVideo, setCurrentVideo] = useState("xFd5g7vmZeQ");
+  const [currentVideo, setCurrentVideo] = useState("xFd5g7vmZeQ");
   const [showVideo, setShowVideo] = useState(false);
   const [playVideo, setPlayVideo] = useState(false);
 
-  
+
 
   const videos = [
     {
       id: "xFd5g7vmZeQ",
-      title: "Annual Convocation 2025",
-      desc: "Celebrating academic achievements and new beginnings",
+      title: "New Logo Launch",
+      desc: "Cheers to New Heights and New Horizons",
       thumb: video1,
     },
     {
       id: "aHDwHF3gerg",
-      title: "Toppers Felicitation 2025",
-      desc: "Honoring our top performers",
+      title: "Centre of Excellence",
+      desc: "Robotics and Automation Tour",
       thumb: video2,
     },
     {
       id: "4u7DNT-wEZ8",
-      title: "Entrepreneurship Journey",
-      desc: "Inspiring innovation & leadership",
+      title: "Entrepreneurship Journey - Idhayam Global Brand",
+      desc: "Thiru.V.R.Muthu CEO, Idhayam Family",
       thumb: video3,
     },
-    ];
-    
-    const [activeIndex, setActiveIndex] = useState(0);
+  ];
 
-    const activeVideo = videos[activeIndex];
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  const activeVideo = videos[activeIndex];
 
   return (
     <section className="felicitation-section">
@@ -74,7 +74,7 @@ function FelicitationSection() {
               </div>
             ) : (
               <iframe
-                src={`https://www.youtube.com/embed/${activeVideo.id}?autoplay=1`}
+                src={`https://www.youtube.com/embed/${activeVideo.id}?autoplay=1&rel=0`}
                 title={activeVideo.title}
                 frameBorder="0"
                 allow="autoplay; encrypted-media"
