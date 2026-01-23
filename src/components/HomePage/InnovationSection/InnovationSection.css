@@ -49,9 +49,11 @@
 .innovation-card.purple:hover {
   border-color: #9333ea;
 }
+
 .innovation-card.icblue:hover {
   border-color: #3b82f6;
 }
+
 .innovation-card.green:hover {
   border-color: #16a34a;
 }
@@ -70,9 +72,11 @@
 .icon-box.purple {
   background: linear-gradient(135deg, #9c2dff, #5d00b0);
 }
+
 .icon-box.icblue {
   background: linear-gradient(135deg, #2263ff, #00298b);
 }
+
 .icon-box.green {
   background: linear-gradient(135deg, #009f3b, #004c1c);
 }
@@ -129,6 +133,7 @@
 .innovation-card.icblue ul li::before {
   background: #2563eb;
 }
+
 .innovation-card.green ul li::before {
   background: #059669;
 }
@@ -142,14 +147,24 @@
   font-weight: 600;
   cursor: pointer;
   font-size: 15px;
+  display: inline-block;
+  /* Changed from default */
+  text-decoration: none;
+  /* No underline */
+  text-align: center;
+  /* Center text */
+  box-sizing: border-box;
+  /* Include padding in width */
 }
 
 .btn.purple {
   background: #9c2dff;
 }
+
 .btn.icblue {
   background: #2263ff;
 }
+
 .btn.green {
   background: #009f3b;
 }

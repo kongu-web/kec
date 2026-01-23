@@ -99,44 +99,34 @@ export default function LegacySection() {
       </div>
 
       <div className="legacy-buttons">
-        <button>
-          <Link to="/placement" className="legacy-link">
-            <FaGraduationCap /> Placements
-          </Link>
-        </button>
+        <Link to="/placement" className="legacy-btn">
+          <FaGraduationCap /> Placements
+        </Link>
 
-        <button>
-          <Link to="/rankings" className="legacy-link">
-            <FaTrophy /> Rankings
-          </Link>
-        </button>
+        <Link to="/rankings" className="legacy-btn">
+          <FaTrophy /> Rankings
+        </Link>
 
-        <button>
-          <Link to="/achievements" className="legacy-link">
-            <FaChartLine /> Achievements
-          </Link>
-        </button>
+        <Link to="/achievements" className="legacy-btn">
+          <FaChartLine /> Achievements
+        </Link>
 
-        <button>
-          <Link to="/awards" className="legacy-link">
-            <FaTrophy /> Awards
-          </Link>
-        </button>
+        <Link to="/awards" className="legacy-btn">
+          <FaTrophy /> Awards
+        </Link>
 
-        <button>
-          <Link to="/updates" className="legacy-link">
-            <FaChartLine /> Updates
-          </Link>
-        </button>
+        <Link to="/updates" className="legacy-btn">
+          <FaChartLine /> Updates
+        </Link>
 
-        <button>
-          <Link
-            to="https://kongu.ac.in/kongu.ac.in/newspaper.php"
-            className="legacy-link"
-          >
-            <FaNewspaper /> News Clippings
-          </Link>
-        </button>
+        <Link
+          to="https://kongu.ac.in/kongu.ac.in/newspaper.php"
+          className="legacy-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaNewspaper /> News Clippings
+        </Link>
       </div>
     </section>
   );

@@ -247,7 +247,7 @@ blockquote {
   margin-top: 40px;
 }
 
-.legacy-buttons button {
+.legacy-buttons .legacy-btn {
   position: relative;
   overflow: hidden;
   background: white;
@@ -263,11 +263,13 @@ blockquote {
   cursor: pointer;
   transition: 0.55s ease;
   z-index: 1;
+  text-decoration: none;
+  /* Removed underline */
 }
 
 /* sweeping lights */
-.legacy-buttons button::before,
-.legacy-buttons button::after {
+.legacy-buttons .legacy-btn::before,
+.legacy-buttons .legacy-btn::after {
   content: "";
   position: absolute;
   width: 160%;
@@ -282,32 +284,32 @@ blockquote {
 }
 
 /* bottom-left sweep */
-.legacy-buttons button::before {
+.legacy-buttons .legacy-btn::before {
   left: -120%;
   bottom: -120%;
 }
 
 /* top-right sweep */
-.legacy-buttons button::after {
+.legacy-buttons .legacy-btn::after {
   right: -120%;
   top: -120%;
 }
 
 /* hover animation */
-.legacy-buttons button:hover::before {
+.legacy-buttons .legacy-btn:hover::before {
   left: -10%;
   bottom: -10%;
   opacity: 1;
 }
 
-.legacy-buttons button:hover::after {
+.legacy-buttons .legacy-btn:hover::after {
   right: -10%;
   top: -10%;
   opacity: 1;
 }
 
 /* glow & lift */
-.legacy-buttons button:hover {
+.legacy-buttons .legacy-btn:hover {
   background: #303877;
   color: white;
   border-color: #303877;
@@ -411,7 +413,7 @@ blockquote {
     font-size: 14px;
   }
 
-  .legacy-buttons button {
+  .legacy-buttons .legacy-btn {
     padding: 14px;
     font-size: 14px;
   }

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import "./AcademicsSection.css";
 import card1 from "../../../assets/images/HomePage/ACADEMICS_card1.png";
 import card2 from "../../../assets/images/HomePage/ACADEMICS_card2.png";
@@ -316,13 +317,14 @@ function AcademicsSection() {
 
           <div className="program-grid">
             {programMap[active].map((item) => (
-              <div key={item.sno} className="program-item">
+              <Link
+                key={item.sno}
+                to={`/${item.route}`}
+                className="program-item"
+              >
                 <span className="program-icon">{item.icon}</span>
                 <span>{item.name}</span>
-                {/* {item.duration && (
-                  <span className="duration">{item.duration}</span>
-                )} */}
-              </div>
+              </Link>
             ))}
           </div>
         </div>

@@ -958,7 +958,9 @@ const Navbar = () => {
                   </ul>
                 )}
 
-                <li onClick={() => navigate("https://kongu.ac.in/blogs/")}>Blogs</li>
+                <li onClick={() => window.open("https://kongu.ac.in/blogs/", "_blank")}>
+                  Blogs
+                </li>
 
                 {/* ERP */}
                 <li

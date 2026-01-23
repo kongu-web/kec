@@ -33,9 +33,9 @@ export default function InnovationSection() {
             <li>Robotics & Automation Hub</li>
             <li>Clean Energy Research</li>
           </ul>
-          <button className="btn purple">
-            <Link to="/coe">Explore Centers</Link>
-          </button>
+          <Link to="/coe" className="btn purple">
+            Explore Centers
+          </Link>
         </div>
 
         <div className="innovation-card icblue">
@@ -51,9 +51,9 @@ export default function InnovationSection() {
             <li>Co-working Spaces</li>
             <li>Industry Networking</li>
           </ul>
-          <button className="btn icblue">
-            <Link to="https://www.tbi-kec.org/">Join TBI</Link>
-          </button>
+          <Link to="https://www.tbi-kec.org/" className="btn icblue">
+            Join TBI
+          </Link>
         </div>
 
         <div className="innovation-card green">
@@ -69,9 +69,9 @@ export default function InnovationSection() {
             <li>Tech Symposiums</li>
             <li>Innovation Competitions</li>
           </ul>
-          <button className="btn green">
-            <Link to="/hackathons">View Events</Link>
-          </button>
+          <Link to="/hackathons" className="btn green">
+            View Events
+          </Link>
         </div>
       </div>
     </section>
