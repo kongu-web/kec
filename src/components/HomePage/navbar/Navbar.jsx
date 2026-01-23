@@ -165,12 +165,24 @@ const Navbar = () => {
         <div className="top-utility-bar">
           <div className="utility-left">
             <div class="marquee">
-              <div class="marquee-track">
-                <span onClick={() => setShowForm(true)}>
+              <div className="marquee-track">
+                <a
+                  href="https://kongu.ac.in/admission"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   📣 Admission Enquiry 2026
-                </span>
-                <span className="divider">⚡Hands-on Training!</span>
+                </a>
+
+                <a
+                  href="https://ngcast2026.kongu.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ⚡ International conference - NG-CAST 2026
+                </a>
               </div>
+
             </div>
           </div>
 
