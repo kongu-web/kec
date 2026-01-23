@@ -117,7 +117,7 @@ const IqacComposition = () => {
     return (
         <div className="iqac-wrapper">
             <Navbar />
-            <div className="iqac-container container-fluid p-4">
+            <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
 
                 <div className="iqac-content">
@@ -140,27 +140,19 @@ const IqacComposition = () => {
                         {teamMembers.map((member) => (
                             <div key={member.id} className="col-lg-3 col-md-4 col-sm-6 mb-4 d-flex justify-content-center">
                                 <div
-                                    className="iqac-member-card card1"
-                                    style={{ width: '250px', cursor: member.link ? 'pointer' : 'default' }}
+                                    className="iqac-composition-card"
+                                    style={{ cursor: member.link ? 'pointer' : 'default' }}
                                     onClick={() => handleCardClick(member.link)}
                                 >
-                                    <div className="card-border-top" style={{ borderRadius: '15px 15px 0 0', height: '5px', background: '#010582', width: '100%' }}></div>
-                                    <div
-                                        className="profile-image mt-3 mx-auto"
-                                        style={{
-                                            width: '100px',
-                                            height: '100px',
-                                            borderRadius: '50%',
-                                            backgroundSize: 'cover',
-                                            backgroundImage: `url('${member.image}')`,
-                                            backgroundColor: '#f0f0f0',
-                                            border: '3px solid #fff',
-                                            boxShadow: '0 0 10px rgba(0,0,0,0.1)'
-                                        }}
-                                    ></div>
-                                    <div className="mt-3">
+                                    <div className="iqac-card-accent"></div>
+                                    <div className="iqac-profile-container">
+                                        <img
+                                            src={member.image}
+                                            alt={member.name}
+                                            className="iqac-profile-img"
+                                        />
                                         <div className="iqac-member-name">{member.name}</div>
-                                        <div className="iqac-member-role text-muted small">{member.role}</div>
+                                        <div className="iqac-member-role">{member.role}</div>
                                     </div>
                                 </div>
                             </div>
@@ -171,27 +163,16 @@ const IqacComposition = () => {
                     <div className="row justify-content-center p-3">
                         {staffMembers.map((member, index) => (
                             <div key={index} className="col-lg-3 col-md-4 col-sm-6 mb-4 d-flex justify-content-center">
-                                <div
-                                    className="iqac-member-card card1"
-                                    style={{ width: '250px' }}
-                                >
-                                    <div className="card-border-top" style={{ borderRadius: '15px 15px 0 0', height: '5px', background: '#010582', width: '100%' }}></div>
-                                    <div
-                                        className="profile-image mt-3 mx-auto"
-                                        style={{
-                                            width: '100px',
-                                            height: '100px',
-                                            borderRadius: '50%',
-                                            backgroundSize: 'cover',
-                                            backgroundImage: `url('${member.image}')`,
-                                            backgroundColor: '#f0f0f0',
-                                            border: '3px solid #fff',
-                                            boxShadow: '0 0 10px rgba(0,0,0,0.1)'
-                                        }}
-                                    ></div>
-                                    <div className="mt-3">
+                                <div className="iqac-composition-card">
+                                    <div className="iqac-card-accent"></div>
+                                    <div className="iqac-profile-container">
+                                        <img
+                                            src={member.image}
+                                            alt={member.name}
+                                            className="iqac-profile-img"
+                                        />
                                         <div className="iqac-member-name">{member.name}</div>
-                                        <div className="iqac-member-role text-muted small">{member.role}</div>
+                                        <div className="iqac-member-role">{member.role}</div>
                                     </div>
                                 </div>
                             </div>

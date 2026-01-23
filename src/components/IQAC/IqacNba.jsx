@@ -267,26 +267,26 @@ const IqacNba = () => {
     return (
         <div className="iqac-wrapper">
             <Navbar />
-            <div className="iqac-container container-fluid p-4">
+            <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
                 <div className="iqac-content">
                     <h1 className="iqac-section-title">NBA</h1>
                     <div className="nba-container">
                         <h2 className="iqac-title">
-                            Program Accredited by NBA
+                            Programs Accredited by NBA
                         </h2>
                         {accreditationData.map((item) => (
-                            <div key={item.slNo} className="mb-4">
-                                <h3 className="text-secondary font-weight-bold" style={{ fontSize: '1.2rem' }}>
-                                    {item.slNo}. {item.programme}
+                            <div key={item.slNo} className="mb-5">
+                                <h3 className="iqac-program-title">
+                                    <span className="iqac-program-number">{item.slNo}.</span> {item.programme}
                                 </h3>
                                 <ul className="iqac-ol">
                                     {item.letters.map((l, idx) => (
-                                        <li key={idx} className="mb-2">
-                                            <a href={l.pdf} target="_blank" rel="noopener noreferrer" className="text-primary font-weight-bold">
-                                                {l.letter}
-                                            </a>{" "}
-                                            — <span className="text-muted">{l.period}</span>
+                                        <li key={idx} className="mb-3">
+                                            <a href={l.pdf} target="_blank" rel="noopener noreferrer" className="iqac-doc-link">
+                                                <span className="iqac-doc-title">{l.letter}</span>
+                                            </a>
+                                            <span className="iqac-doc-period"> — {l.period}</span>
                                         </li>
                                     ))}
                                 </ul>

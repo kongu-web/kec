@@ -4,103 +4,140 @@
     background-color: #f5f8fe;
     min-height: 100vh;
     display: flex;
-    gap: 20px;
+    gap: 0;
+    /* Removed gap as requested */
     align-items: flex-start;
 }
 
 .iqac-navbar {
-    width: 280px;
+    width: 260px;
     flex-shrink: 0;
     min-height: 80vh;
-    background-image: linear-gradient(to bottom,
-            #012d6f,
-            #03286c,
-            #011d5e,
-            #001150,
-            #000243);
-    padding: 15px;
-    border-radius: 10px;
-    margin-bottom: 0;
-}
-
-.iqac-nav-ul {
+    background: linear-gradient(135deg, #063970 0%, #1e3a8a 100%);
+    /* Royal Blue Gradient */
+    padding: 24px 16px;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: column;
-    padding: 0;
+    gap: 32px;
+    /* Gap between sections */
+    border: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+/* New Section & Category Styles */
+.iqac-nav-section {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.iqac-nav-category {
+    color: #e2e8f0;
+    /* Lighter slate/white for better contrast */
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    font-weight: 800;
+    padding: 0 12px;
     margin: 0;
-    list-style: none;
+    display: flex;
+    align-items: center;
     gap: 10px;
 }
 
-.iqac-nav-link {
-    color: #fdfdfd !important;
-    text-decoration: none;
-    padding: 12px 15px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    transition: all 0.3s ease;
-    font-size: 0.95rem;
-    font-weight: 500;
+.iqac-nav-category::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.2) 0%, transparent 100%);
 }
 
-.iqac-nav-link:hover,
+.iqac-nav-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.iqac-nav-link {
+    color: #f1f5f9 !important;
+    /* Almost white for links */
+    text-decoration: none;
+    padding: 11px 16px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+}
+
+.iqac-nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.06);
+    color: #fff !important;
+    transform: translateX(3px);
+}
+
 .iqac-nav-link.active {
-    background-color: rgba(255, 255, 255, 0.1);
-    color: #fff;
-    box-shadow: none;
-    border-left: 4px solid #00d2ff;
-    transform: translateX(5px);
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    color: #fff !important;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    transform: translateX(3px);
 }
 
 .iqac-nav-icon {
-    margin-right: 12px;
-    width: 20px;
+    margin-right: 14px;
+    width: 18px;
     text-align: center;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.iqac-nav-link:hover .iqac-nav-icon,
+.iqac-nav-link.active .iqac-nav-icon {
+    opacity: 1;
 }
 
 .iqac-content {
     flex: 1;
     padding: 25px;
     background: white;
-    border-radius: 15px;
+    border-radius: 20px;
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.05);
     margin: 0;
     max-width: 100%;
 }
 
-/* Responsive Table / Layout */
-@media (max-width: 991px) {
-    .iqac-container {
-        flex-direction: column;
-    }
+.iqac-content h1,
+.iqac-content h2,
+.iqac-content h3 {
+    color: #1e3a8a;
+    /* Royal Blue */
+}
 
-    .iqac-navbar {
-        width: 100%;
-        min-height: auto;
-        background-image: linear-gradient(to right, #012d6f, #000243);
-    }
-
-    .iqac-nav-ul {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-
-    .iqac-nav-link:hover,
-    .iqac-nav-link.active {
-        transform: translateY(-2px);
-        border-left: none;
-        background-color: #0008ff;
-    }
+/* Updated Typography for Titles */
+.iqac-maintext h1 {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #0e1b4d 0%, #1e3a8a 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .iqac-title {
-    color: #219c02;
-    font-weight: 600;
-    margin-bottom: 20px;
+    color: #0f172a;
+    font-weight: 700;
+    margin-bottom: 24px;
     position: relative;
-    padding-bottom: 10px;
+    padding-bottom: 12px;
+    font-size: 1.5rem;
+    letter-spacing: -0.02em;
 }
 
 .iqac-title::after {
@@ -108,16 +145,96 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 50px;
-    height: 3px;
-    background: #0006ac;
+    width: 60px;
+    height: 4px;
+    background: linear-gradient(90deg, #2563eb, #60a5fa);
+    border-radius: 2px;
 }
 
 .iqac-section-title {
-    color: #0006ac;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-    margin: 30px 0 20px;
+    color: #1e3a8a;
+    font-weight: 800;
+    font-size: 2rem;
+    margin: 40px 0 25px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 15px;
+}
+
+/* Premium Text Styling */
+.iqac-text {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #475569;
+    /* Slate 600 */
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.iqac-ol {
+    padding-left: 20px;
+}
+
+.iqac-ol li {
+    margin-bottom: 12px;
+    position: relative;
+    padding-left: 10px;
+}
+
+/* Composition Card Styles (Replaces Inline Styles) */
+.iqac-composition-card {
+    background: white;
+    border-radius: 16px;
+    width: 260px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    /* Soft shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #f1f5f9;
+}
+
+.iqac-composition-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+.iqac-card-accent {
+    height: 6px;
+    background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+    width: 100%;
+}
+
+.iqac-profile-container {
+    padding: 25px 20px;
+    text-align: center;
+}
+
+.iqac-profile-img {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 15px;
+    border: 4px solid white;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    background-color: #f8fafc;
+}
+
+.iqac-member-name {
+    color: #0f172a;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.iqac-member-role {
+    color: #64748b;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 .iqac-grid-outcomes {
@@ -183,49 +300,35 @@
 }
 
 /* Card Style for Composition/Members */
-.iqac-member-card {
-    background: white;
-    border-radius: 15px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s;
-}
-
-.iqac-member-card:hover {
-    transform: transalteY(-5px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-}
-
-.iqac-member-role {
-    color: #219c02;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.iqac-member-name {
-    color: #0006ac;
-    font-size: 1.1rem;
-    font-weight: 600;
-}
+/* Removed old member styles to avoid conflict, replaced with new ones above */
 
 .iqac-badge-new {
-    background-color: #ff4444;
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
     color: white;
-    font-size: 0.7rem;
-    padding: 2px 6px;
-    border-radius: 10px;
-    margin-left: 5px;
-    animation: glow 1.5s infinite alternate;
+    font-size: 0.65rem;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 12px;
+    margin-left: auto;
+    box-shadow: 0 2px 10px rgba(239, 68, 68, 0.4);
+    position: relative;
+    overflow: hidden;
 }
 
-@keyframes glow {
-    from {
-        box-shadow: 0 0 5px #ff4444;
-    }
+.iqac-badge-new::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: shimmer 2s infinite;
+}
 
-    to {
-        box-shadow: 0 0 15px #ff4444;
+@keyframes shimmer {
+    100% {
+        left: 100%;
     }
 }
 

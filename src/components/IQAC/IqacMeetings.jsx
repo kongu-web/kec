@@ -11,7 +11,7 @@ const IqacMeetings = () => {
     return (
         <div className="iqac-wrapper">
             <Navbar />
-            <div className="iqac-container container-fluid p-4">
+            <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
                 <div className="iqac-content">
                     <h1 className="iqac-section-title">MEETING & MINUTES</h1>

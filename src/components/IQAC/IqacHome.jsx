@@ -30,7 +30,7 @@ const IqacHome = () => {
     return (
         <div className="iqac-wrapper">
             <Navbar />
-            <div className="iqac-container container-fluid p-4">
+            <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
 
                 <div className="iqac-content">
@@ -38,7 +38,7 @@ const IqacHome = () => {
                     <div className="row mb-4">
                         <div className="col-md-4 d-flex align-items-center justify-content-center">
                             <div className="iqac-maintext text-center">
-                                <h1 style={{ fontSize: '3rem', fontWeight: 'bold', borderRight: '5px solid #0006ac', paddingRight: '20px', display: 'inline-block' }}>Internal Quality Assurance Cell (IQAC)</h1>
+                                <h1 className="iqac-hero-title">Internal Quality Assurance Cell (IQAC)</h1>
                             </div>
                         </div>
                         <div className="col-md-8">
