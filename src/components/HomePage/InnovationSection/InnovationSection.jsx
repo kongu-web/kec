@@ -22,7 +22,7 @@ export default function InnovationSection() {
       <div className="innovation-cards">
         <div className="innovation-card purple">
           <div className="icon-box purple">💡</div>
-          <h3>Centers of Excellence</h3>
+          <h3>Centre of Excellence</h3>
           <p>
             15+ specialized research centers focusing on AI, IoT, Robotics,
             Renewable Energy, and Advanced Manufacturing

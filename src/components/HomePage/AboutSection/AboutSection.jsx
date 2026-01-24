@@ -27,7 +27,7 @@ function AboutSection() {
 
           <p>
             Kongu Engineering College, one of the foremost multi professional
-            research-led Institutions is internationally a recognized leader in
+            research-led Institution is internationally a recognized leader in
             professional and career-oriented education. It provides an integral,
             inter-disciplinary education - a unique intersection between theory
             and practice, passion and reason. The College offers courses of

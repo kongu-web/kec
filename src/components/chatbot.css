@@ -9,10 +9,17 @@
 }
 
 /* 1. Floating Chat Icon */
-.chat-toggle-btn {
+.chat-button-container {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 0px;
+  right: 6px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chat-toggle-btn {
   width: 60px;
   height: 60px;
   background: var(--chat-blue); /* KEC Blue */
@@ -22,7 +29,6 @@
   cursor: pointer;
   box-shadow: 0 4px 20px rgba(0, 51, 102, 0.4);
   transition: all 0.3s ease;
-  z-index: 9999;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,6 +44,30 @@
   width: 65%;
   height: 65%;
   object-fit: contain;
+}
+
+/* Hover Tooltip */
+.chat-hover-tooltip {
+  background: var(--chat-blue);
+  color: white;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 3px 15px rgba(0, 51, 102, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px) scale(0.8);
+  transition: all 0.3s ease;
+  margin-bottom: 10px;
+  letter-spacing: 0.3px;
+}
+
+.chat-button-container:hover .chat-hover-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
 }
 
 /* 2. Main Chat Window */

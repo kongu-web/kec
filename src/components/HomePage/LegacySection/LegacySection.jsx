@@ -39,7 +39,7 @@ export default function LegacySection() {
         <blockquote>
           “With a cutting-edge curriculum, hands-on learning approach, dynamic
           faculty, and world-class infrastructure, we take pride in being a
-          <strong> Top Placements College year after year!</strong>”
+          <strong> Top Placement-Offering College year after year!</strong>”
         </blockquote>
       </div>
 
@@ -59,7 +59,7 @@ export default function LegacySection() {
             <img src={GraduationCap} alt="Graduation Cap" />
           </div>
           <h3>Band 101–150</h3>
-          <p>Business Today (Best B School)</p>
+
           <small>National Ranking in India</small>
           <div className="nirf">
             <img src={nirf} alt="nirf" />

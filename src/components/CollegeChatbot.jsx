@@ -104,9 +104,12 @@ function CollegeChatbot() {
   return (
     <>
       {!isOpen && (
-        <button className="chat-toggle-btn" onClick={() => setIsOpen(true)}>
-          <img src={chatIcon} alt="Chat" />
-        </button>
+        <div className="chat-button-container">
+          <button className="chat-toggle-btn" onClick={() => setIsOpen(true)}>
+            <img src={chatIcon} alt="Chat" />
+          </button>
+          <span className="chat-hover-tooltip">Need Help?</span>
+        </div>
       )}
 
       {isOpen && (
