@@ -137,7 +137,7 @@ import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
 import ScrollToTop from './components/ScrollToTop.jsx';
-import CampusLife from './components/ExtraPages/CampusLife/CampusLife.jsx';
+import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife.jsx';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
