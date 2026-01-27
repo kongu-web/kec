@@ -195,10 +195,27 @@ const pgPrograms = [
 
 
 const phDProgrammes = [
-  { sno: 1, name: "Mathematics", icon: <FaCalculator />, route: "maths" },
-  { sno: 2, name: "Physics", icon: <FaAtom />, route: "physics" },
-  { sno: 3, name: "Chemistry", icon: <FaVial />, route: "chemistry" },
-  { sno: 4, name: "English", icon: <FaBookOpen />, route: "english" },
+  { sno: 1, name: "Computer Science and Engineering", icon: <FaLaptopCode />, route: "cse" },
+  { sno: 2, name: "Information Technology", icon: <FaGlobe />, route: "it" },
+  { sno: 3, name: "Artificial Intelligence and Data Science", icon: <FaChartBar />, route: "aids" },
+  { sno: 4, name: "Artificial Intelligence and Machine Learning", icon: <FaBrain />, route: "aiml" },
+  { sno: 5, name: "Computer Science and Design", icon: <FaPalette />, route: "csd" },
+  { sno: 6, name: "Electronics and Communication Engineering", icon: <FaBroadcastTower />, route: "ece" },
+  { sno: 7, name: "Electrical and Electronics Engineering", icon: <FaBolt />, route: "eee" },
+  { sno: 8, name: "Electronics and Instrumentation Engineering", icon: <FaMicrochip />, route: "eie" },
+  { sno: 9, name: "Chemical Engineering", icon: <FaFlask />, route: "chemical" },
+  { sno: 10, name: "Food Technology", icon: <FaAppleAlt />, route: "food_technology" },
+  { sno: 11, name: "Mechanical Engineering", icon: <FaCogs />, route: "mechanical" },
+  { sno: 12, name: "Mechatronics Engineering", icon: <FaRobot />, route: "mechatronics" },
+  { sno: 13, name: "Automobile Engineering", icon: <FaCar />, route: "automobile" },
+  { sno: 14, name: "Civil Engineering", icon: <FaBuilding />, route: "civil" },
+  { sno: 15, name: "Computer Technology", icon: <FaLaptopCode />, route: "ctug" },
+  { sno: 16, name: "Master of Computer Applications", icon: <FaGraduationCap />, route: "mca" },
+  { sno: 17, name: "Master of Business Administration", icon: <FaUniversity />, route: "mba" },
+  { sno: 18, name: "Mathematics", icon: <FaCalculator />, route: "maths" },
+  { sno: 19, name: "Physics", icon: <FaAtom />, route: "physics" },
+  { sno: 20, name: "Chemistry", icon: <FaVial />, route: "chemistry" },
+  { sno: 21, name: "English", icon: <FaBookOpen />, route: "english" },
 ];
 
 
@@ -228,6 +245,14 @@ const ApsPrograms = [
     year: 2007,
     route: "ctug",
   },
+  {
+    sno: 4,
+    name: "	M.Sc Software Systems",
+    icon: <FaLaptopCode />,
+    duration: "3 Years",
+    year: 2007,
+    route: "ctug",
+  }
 ];
 
 
@@ -239,10 +264,10 @@ const programMap = {
 };
 
 const programTitles = {
-  ug: "Undergraduate Programs",
-  pg: "Postgraduate Programs",
-  as: "Applied Science Programs",
-  sh: "Science & Humanities Programs",
+  ug: "Undergraduate Programmes",
+  pg: "Postgraduate Programmes",
+  as: "Applied Science Programmes",
+  sh: "Doctorate Programmes",
 };
 
 function AcademicsSection() {
@@ -251,9 +276,9 @@ function AcademicsSection() {
   return (
     <section className="academics-section">
       <span className="section-pill">Academics @ KEC</span>
-      <h2>World-Class Academic Programs</h2>
+      <h2>Programmes Offered</h2>
       <p className="subtitle">
-        Choose from our diverse range of programs designed to meet industry
+        Choose from our diverse range of programmes designed to meet industry
         demands and foster innovation
       </p>
 
@@ -306,8 +331,8 @@ function AcademicsSection() {
               <img src={card4} />
             </div>
             <div>
-              <h4>Science & Humanities</h4>
-              <p>Foundation of Engineering</p>
+              <h4>Doctorate Programmes</h4>
+              <p>Ph.D</p>
             </div>
           </div>
         </div>

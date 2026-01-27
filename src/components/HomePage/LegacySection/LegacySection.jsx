@@ -27,19 +27,17 @@ export default function LegacySection() {
         </h1>
 
         <p>
-          Our commitment to excellence spans across every dimension of education
-          and development.
+          1.	Excellence in Education, Innovation in Practice
         </p>
 
         <p>
-          Kongu Engineering College stands as the first choice for ambitious
-          students striving for academic and professional excellence.
+          We are committed to excellence across every dimension of education and development. Kongu Engineering College is the first choice for ambitious students pursuing academic and professional success.
         </p>
 
         <blockquote>
           “With a cutting-edge curriculum, hands-on learning approach, dynamic
           faculty, and world-class infrastructure, we take pride in being a
-          <strong> Top Placements College year after year!</strong>”
+          <strong> Top Placement-Offering College year after year!</strong>”
         </blockquote>
       </div>
 
@@ -59,7 +57,7 @@ export default function LegacySection() {
             <img src={GraduationCap} alt="Graduation Cap" />
           </div>
           <h3>Band 101–150</h3>
-          <p>Business Today (Best B School)</p>
+
           <small>National Ranking in India</small>
           <div className="nirf">
             <img src={nirf} alt="nirf" />

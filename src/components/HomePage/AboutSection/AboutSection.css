@@ -115,14 +115,18 @@
 }
 
 
-.home-stat-card {
+.home-stat-card h3 {
   font-size: 24px;
   color: #303177;
+  margin: 0;
+  text-align: center;
 }
 
 .home-stat-card p {
   font-size: 14px;
   color: #303177;
+  text-align: center;
+  margin: 5px 0 0 0;
 }
 
 /* Link */

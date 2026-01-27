@@ -28,42 +28,16 @@ const AboutKec = () => {
           <img src={aboutImg} alt="About KEC" className="aboutkec-banner" />
 
           <p>
-            Kongu Engineering College, one of the foremost multi professional
-            research-led Institutions is internationally a recognized leader in
-            professional and career-oriented education. It provides an integral,
-            inter-disciplinary education - a unique intersection between theory
-            and practice, passion and reason. The College offers courses of
-            study that are on the frontiers of knowledge and it connects the
-            spiritual and practical dimensions of intellectual life, in a
-            stimulating environment that fosters rigorous scholarship and
-            supportive community. This Institute is a great possession of the
-            committed Trust called 'The Kongu Vellalar Institute of Technology
-            Trust' in Erode District, Tamilnadu. The noble Trust has taken the
-            institute to greater heights since its inception in 1983 and has
-            established the college as a forum for imparting value based
-            education for men and women.
+            Kongu Engineering College is an internationally recognised leader in multi-professional, research-led education. It offers interdisciplinary learning at the unique intersection of theory and practice, passion and reason. The college delivers frontier courses that bridge spiritual and practical aspects of intellectual life, within an environment that nurtures rigorous scholarship and a supportive community.
           </p>
           <p>
-            The word 'Kongu' refers to a region of the southern state of India
-            and the term 'Kongu Vellalar' specially means the agricultural
-            community, predominated in the west of Tamilnadu, which was deprived
-            of educational facility in those days. To achieve technical
-            excellence in their rural areas, 41 philanthropists from different
-            walks of life who realized the need for technical education for
-            their region's economic strides, formed collectively a Trust called
-            'The Kongu Vellalar Institute of Technology Trust' and they tried to
-            promote and develop equality of opportunity for the rich and the
-            poor.
+            The institution is managed by the Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu. The Trust has elevated the college to great heights since its inception in 1983, establishing it as a beacon for value-based education.
           </p>
           <p>
-            Affiliated to Anna University Chennai, the college has completed
-            more than three decades of dedicated service to the people of India
-            and abroad in the field of Technical Education. The Institution has
-            an area of 167 acres of land richly endowed with beautiful
-            greeneries. The college with its state-of-the-art infrastructural
-            facilities and excellent academic records has earned recognition as
-            one of the reputed educational institutions for men and women in
-            India.
+            The word "Kongu" refers to a region in southern India, and "Kongu Vellalar" denotes the agricultural community predominant in western Tamil Nadu, which previously lacked educational facilities. To achieve technical excellence in rural areas, 41 philanthropists from diverse walks of life recognised the need for technical education to drive the region's economic progress. They collectively formed the Trust to promote equality of opportunity for all.
+          </p>
+          <p>
+            Affiliated with Anna University, Chennai, the college has delivered more than 40 years of committed service in technical education. The 167-acre campus is richly endowed with greenery and state-of-the-art infrastructure. With an excellent academic record, it has earned recognition as one of India's reputed educational institutions.
           </p>
 
           <p>
