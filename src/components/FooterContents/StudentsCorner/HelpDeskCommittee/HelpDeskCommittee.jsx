@@ -26,11 +26,11 @@ const members = [
     email: "egothai@kongu.ac.in",
   },
   {
-    name: "Dr.C.Duraisamy",
+    name: "Dr.R.Viswanathan",
     category:
       "Grievances Redressal and Empowerment for SC/ST Students&Employees",
-    mobile: "9715814284",
-    email: "cd@kongu.ac.in",
+    mobile: "9487151694",
+    email: "visu@kongu.ac.in",
   },
   {
     name: "Dr.R.Rajalaxmi",
@@ -55,12 +55,6 @@ const members = [
     category: "Alumni Matters",
     mobile: "9842294264",
     email: "erbaskar@kongu.ac.in",
-  },
-  {
-    name: "Dr.K.Kannan",
-    category: "Hostel Matters",
-    mobile: "9842823432",
-    email: "kannank@kongu.ac.in",
   },
   {
     name: "Mr.R.Gokulakrishnan",
@@ -102,12 +96,6 @@ const members = [
     name: "Mr.N.Rajadurai",
     category: "Housekeeping",
     mobile: "9940987456",
-    email: "",
-  },
-  {
-    name: "Mr.M.Ponnarasan",
-    category: "Gardening",
-    mobile: "8012284714",
     email: "",
   },
 ];
