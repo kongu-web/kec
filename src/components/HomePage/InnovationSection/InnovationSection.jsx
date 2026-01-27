@@ -10,13 +10,7 @@ export default function InnovationSection() {
       <h2>Fostering Innovation & Entrepreneurship</h2>
 
       <p className="innovation-desc">
-        At Kongu Engineering College, we foster a culture of creativity and
-        groundbreaking innovation. Our students and faculty thrive on fresh
-        perspectives, pioneering solutions, and the implementation of ideas that
-        push the boundaries of conventional thinking. We instill an
-        entrepreneurial spirit in our learners, empowering them with the freedom
-        to ideate, experiment, and innovate. At Kongu, innovation isn't just
-        encouraged—it’s a way of life!
+        Kongu Engineering College is where ideas become impact. We champion a culture of relentless creativity and transformative innovation. Our students and faculty challenge norms, engineer breakthrough solutions, and turn visionary thinking into reality. We fuel an entrepreneurial mindset that empowers learners to dream big, dare boldly, and deliver excellence. At Kongu, innovation isn't just a goal it's our identity.
       </p>
 
       <div className="innovation-cards">

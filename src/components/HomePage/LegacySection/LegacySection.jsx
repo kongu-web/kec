@@ -27,13 +27,11 @@ export default function LegacySection() {
         </h1>
 
         <p>
-          Our commitment to excellence spans across every dimension of education
-          and development.
+          1.	Excellence in Education, Innovation in Practice
         </p>
 
         <p>
-          Kongu Engineering College stands as the first choice for ambitious
-          students striving for academic and professional excellence.
+          We are committed to excellence across every dimension of education and development. Kongu Engineering College is the first choice for ambitious students pursuing academic and professional success.
         </p>
 
         <blockquote>

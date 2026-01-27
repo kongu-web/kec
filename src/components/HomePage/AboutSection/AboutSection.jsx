@@ -26,20 +26,7 @@ function AboutSection() {
           <h2>Building Tomorrow's Innovators Today</h2>
 
           <p>
-            Kongu Engineering College, one of the foremost multi professional
-            research-led Institution is internationally a recognized leader in
-            professional and career-oriented education. It provides an integral,
-            inter-disciplinary education - a unique intersection between theory
-            and practice, passion and reason. The College offers courses of
-            study that are on the frontiers of knowledge and it connects the
-            spiritual and practical dimensions of intellectual life, in a
-            stimulating environment that fosters rigorous scholarship and
-            supportive community. This Institute is a great possession of the
-            committed Trust called 'The Kongu Vellalar Institute of Technology
-            Trust' in Erode District, Tamilnadu. The noble Trust has taken the
-            institute to greater heights since its inception in 1983 and has
-            established the college as a forum for imparting value based
-            education for men and women.
+            Kongu Engineering College is an internationally recognised leader in multi-professional, research-led education. It offers a unique blend of theory and practice, providing interdisciplinary courses at the frontiers of knowledge. The college connects spiritual and practical dimensions of learning in a stimulating environment that fosters rigorous scholarship and community. Established in 1983 by The Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu, this institution has been elevated to great heights through the Trust's commitment to value-based education for all.
           </p>
 
           <div className="stats-row">

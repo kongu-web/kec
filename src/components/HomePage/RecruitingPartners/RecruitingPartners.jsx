@@ -11,8 +11,7 @@ export default function RecruitingPartners() {
       <span className="pill">100+ Top-Notch Companies @ KEC</span>
       <h2>Our Recruiting Partners</h2>
       <p>
-        Leading global companies trust KEC graduates for their talent, skills,
-        and work ethic
+        Distinguished global and national companies partner with KEC year after year, drawn by the proven capabilities and professional caliber of our graduates.
       </p>
 
       <div className="scroll-wrapper">
