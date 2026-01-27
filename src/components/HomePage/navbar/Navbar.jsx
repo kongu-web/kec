@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./Navbar.css";
 import logo from "../../../assets/images/kec11.jpg";
-import badge41 from "../../../assets/images/41years.png";
+import badge41 from "../../../assets/images/41years2.png";
 import nif from "../../../assets/images/nirf.png";
 import naac from "../../../assets/images/naac.png";
 import tneaBadge from "../../../assets/images/tneacode.png";
@@ -165,12 +165,24 @@ const Navbar = () => {
         <div className="top-utility-bar">
           <div className="utility-left">
             <div class="marquee">
-              <div class="marquee-track">
-                <span onClick={() => setShowForm(true)}>
+              <div className="marquee-track">
+                <a
+                  href="https://kongu.ac.in/admission"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   📣 Admission Enquiry 2026
-                </span>
-                <span className="divider">⚡Hands-on Training!</span>
+                </a>
+
+                <a
+                  href="https://ngcast2026.kongu.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ⚡ International conference - NG-CAST 2026
+                </a>
               </div>
+
             </div>
           </div>
 
@@ -260,7 +272,7 @@ const Navbar = () => {
             {/* BADGES */}
             <div className="nav-badges">
               <img src={badge41} alt="41 Years" />
-              <img src={nif} alt="NIRF" />
+              {/* <img src={nif} alt="NIRF" /> */}
               <img src={naac} alt="NAAC" className="naac-badge" />
             </div>
           </div>
@@ -957,6 +969,10 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
                 )}
+
+                <li onClick={() => window.open("https://kongu.ac.in/blogs/", "_blank")}>
+                  Blogs
+                </li>
 
                 {/* ERP */}
                 <li

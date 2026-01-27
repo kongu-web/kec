@@ -31,7 +31,7 @@ function getSimilarity(s1, s2) {
 function editDistance(s1, s2) {
   s1 = s1.toLowerCase();
   s2 = s2.toLowerCase();
-  const costs = new Array();
+  const costs = [];
   for (let i = 0; i <= s1.length; i++) {
     let lastValue = i;
     for (let j = 0; j <= s2.length; j++) {
@@ -56,7 +56,7 @@ function editDistance(s1, s2) {
  * Threshold: 0.8 (High confidence required)
  */
 function matchIntent(userKeywords, targetKeywords) {
-  return userKeywords.some(uWord => 
+  return userKeywords.some(uWord =>
     targetKeywords.some(tWord => getSimilarity(uWord, tWord) > 0.8)
   );
 }
@@ -87,7 +87,7 @@ export function getCollegeReply(input) {
   for (const [key, words] of Object.entries(intents)) {
     if (matchIntent(userKeywords, words)) {
       detectedIntent = key;
-      break; 
+      break;
     }
   }
 
@@ -106,10 +106,10 @@ export function getCollegeReply(input) {
     // Check against Course ID (e.g., "cse") OR Course Name keywords
     // We treat the ID as a very strong keyword.
     const courseKeywords = extractKeywords(course.course_name).concat(course.id);
-    
+
     // Check if user keywords match course keywords
     const matchCount = userKeywords.reduce((count, uWord) => {
-        return count + (courseKeywords.some(cWord => getSimilarity(uWord, cWord) > 0.85) ? 1 : 0);
+      return count + (courseKeywords.some(cWord => getSimilarity(uWord, cWord) > 0.85) ? 1 : 0);
     }, 0);
 
     // If matches found, pick the one with most keyword overlap
@@ -124,11 +124,11 @@ export function getCollegeReply(input) {
 
 
   // --- 4. COMBINATION LOGIC (Intent + Course) ---
-  
+
   if (detectedIntent === "fees" && detectedCourse) {
-     return `**Fee Structure for ${detectedCourse.id.toUpperCase()}:**\n\nWhile the general fee range is ${data.college_info.fees}, the exact fee for **${detectedCourse.course_name}** depends on your quota (Government/Management).\n\n👉 Please use the **Enquiry Now** button for the official fee quote.`;
+    return `**Fee Structure for ${detectedCourse.id.toUpperCase()}:**\n\nWhile the general fee range is ${data.college_info.fees}, the exact fee for **${detectedCourse.course_name}** depends on your quota (Government/Management).\n\n👉 Please use the **Enquiry Now** button for the official fee quote.`;
   }
-  
+
   if (detectedIntent === "placement" && detectedCourse) {
     // If we had specific placement data per course in JSON, we'd return it here.
     // For now, return general highlights + specific encouragement.
@@ -137,41 +137,44 @@ export function getCollegeReply(input) {
 
 
   // --- 5. INTENT RESPONSES (General) ---
-  
+
   if (detectedIntent) {
     switch (detectedIntent) {
       case "admission":
-         return `**Admissions ${data.admissions.status}**\n\n**Eligibility:**\n${data.admissions.eligibility.ug}\n\n**Process:**\n1. Register online\n2. Fill Application\n3. Counseling/Merit Selection`;
-      
+        return `**Admissions ${data.admissions.status}**\n\n**Eligibility:**\n${data.admissions.eligibility.ug}\n\n**Process:**\n1. Register online\n2. Fill Application\n3. Counseling/Merit Selection`;
+
       case "fees":
-         return "For the most accurate **Fee Structure**, please fill out the **Enquiry Form** on this page.\n\nOr contact the office: **+91 94430 20583**.";
-      
+        return "For the most accurate **Fee Structure**, please fill out the **Enquiry Form** on this page.\n\nOr contact the office: **+91 94430 20583**.";
+
       case "placement":
-         const p = data.placements.highlights;
-         return `**${p.title}**\n\n${p.stats.map(s => `• ${s}`).join("\n")}\n\n**Top Recruiters:** ${data.placements.recruiters.list.slice(0,4).join(", ")}...`;
-      
+        const p = data.placements.highlights;
+        return `**${p.title}**\n\n${p.stats.map(s => `• ${s}`).join("\n")}\n\n**Top Recruiters:** ${data.placements.recruiters.list.slice(0, 4).join(", ")}...`;
+
       case "hostel":
-         return `**Hostel Facilities:**\n${data.hostel}\n\n• 24/7 Wi-Fi & Medical Support\n• Hygienic Mess (Veg/Non-Veg)\n• Gym & Recreation Centers`;
-      
+        return `**Hostel Facilities:**\n${data.hostel}\n\n• 24/7 Wi-Fi & Medical Support\n• Hygienic Mess (Veg/Non-Veg)\n• Gym & Recreation Centers`;
+
       case "contact":
-         return `**Contact Us:**\n📞 ${data.college_info.contact.phone}\n📧 ${data.college_info.contact.email}\n📍 Perundurai, Erode.`;
-         
+        return `**Contact Us:**\n📞 ${data.college_info.contact.phone}\n📧 ${data.college_info.contact.email}\n📍 Perundurai, Erode.`;
+
       case "courses":
-         // If they just asked for "courses" without a specific name
-         if (!detectedCourse) {
-            return "We offer **B.E./B.Tech**, **M.E./M.Tech**, **MBA**, **MCA**, and **B.Sc** programs.\n\nWhich department are you interested in? (e.g., 'CSE', 'Food Tech', 'Mechanical')";
-         }
+        // If they just asked for "courses" without a specific name
+        if (!detectedCourse) {
+          return "We offer **B.E./B.Tech**, **M.E./M.Tech**, **MBA**, **MCA**, and **B.Sc** programs.\n\nWhich department are you interested in? (e.g., 'CSE', 'Food Tech', 'Mechanical')";
+        }
+
+      default:
+        break;
     }
   }
 
 
   // --- 6. COURSE DESCRIPTION (Only Course detected, no intent) ---
-  
+
   if (detectedCourse) {
     return `**${detectedCourse.course_name}**\n\n${detectedCourse.description}\n\n👉 [View Official Course Page](${detectedCourse.link})`;
   }
 
   // --- 7. FALLBACK (Fault Tolerance) ---
-  
+
   return "I didn't quite catch that. Could you rephrase?\n\nYou can ask about:\n• **Admissions**\n• **Placements**\n• **Fees**\n• **Hostel**\n• Or specific courses like **CSE**, **ECE**, **B.Sc**.";
 }

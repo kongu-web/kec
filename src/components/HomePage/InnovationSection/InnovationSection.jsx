@@ -10,19 +10,13 @@ export default function InnovationSection() {
       <h2>Fostering Innovation & Entrepreneurship</h2>
 
       <p className="innovation-desc">
-        At Kongu Engineering College, we foster a culture of creativity and
-        groundbreaking innovation. Our students and faculty thrive on fresh
-        perspectives, pioneering solutions, and the implementation of ideas that
-        push the boundaries of conventional thinking. We instill an
-        entrepreneurial spirit in our learners, empowering them with the freedom
-        to ideate, experiment, and innovate. At Kongu, innovation isn't just
-        encouraged—it’s a way of life!
+        Kongu Engineering College is where ideas become impact. We champion a culture of relentless creativity and transformative innovation. Our students and faculty challenge norms, engineer breakthrough solutions, and turn visionary thinking into reality. We fuel an entrepreneurial mindset that empowers learners to dream big, dare boldly, and deliver excellence. At Kongu, innovation isn't just a goal it's our identity.
       </p>
 
       <div className="innovation-cards">
         <div className="innovation-card purple">
           <div className="icon-box purple">💡</div>
-          <h3>Centers of Excellence</h3>
+          <h3>Centre of Excellence</h3>
           <p>
             15+ specialized research centers focusing on AI, IoT, Robotics,
             Renewable Energy, and Advanced Manufacturing
@@ -33,13 +27,13 @@ export default function InnovationSection() {
             <li>Robotics & Automation Hub</li>
             <li>Clean Energy Research</li>
           </ul>
-          <button className="btn purple">
-            <Link to="/coe">Explore Centers</Link>
-          </button>
+          <Link to="/coe" className="btn purple">
+            Explore Centers
+          </Link>
         </div>
 
-        <div className="innovation-card blue">
-          <div className="icon-box blue">🚀</div>
+        <div className="innovation-card icblue">
+          <div className="icon-box icblue">🚀</div>
           <h3>Technology Business Incubator</h3>
           <p>
             State-recognized TBI supporting 50+ student startups with
@@ -51,9 +45,9 @@ export default function InnovationSection() {
             <li>Co-working Spaces</li>
             <li>Industry Networking</li>
           </ul>
-          <button className="btn blue">
-            <Link to="https://www.tbi-kec.org/">Join TBI</Link>
-          </button>
+          <Link to="https://www.tbi-kec.org/" className="btn icblue">
+            Join TBI
+          </Link>
         </div>
 
         <div className="innovation-card green">
@@ -69,9 +63,9 @@ export default function InnovationSection() {
             <li>Tech Symposiums</li>
             <li>Innovation Competitions</li>
           </ul>
-          <button className="btn green">
-            <Link to="/hackathons">View Events</Link>
-          </button>
+          <Link to="/hackathons" className="btn green">
+            View Events
+          </Link>
         </div>
       </div>
     </section>

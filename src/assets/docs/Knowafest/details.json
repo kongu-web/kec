@@ -8,6 +8,24 @@
     "poster": "others/events/sparkfund.jpeg",
     "link": "others/events/sparkfund.pdf"
   },
+  {
+    "name": "Symposium",
+    "department": "ECE",
+    "venue": "Maharaja Auditorium",
+    "dates": "February 7 2026",
+    "description": "A National Level Technical Symposium - ACUMEN'26",
+    "poster": "others/events/ece-symposium.jpeg",
+    "link": "https://acumen26.vercel.app"
+  },
+  {
+    "name": "Hackathon",
+    "department": "CSD",
+    "venue": "AB Block CC5&6 Lab",
+    "dates": "February 6 - 7 2026",
+    "description": "HACKNOVAYTE'26",
+    "poster": "others/events/csd-hackathon.jpeg",
+    "link": "others/events/csd-hackathon.pdf"
+  },
    {
     "name": "Seminar",
     "department": "Chemistry",
@@ -16,6 +34,24 @@
     "description": "ACT Sponsored National Seminar on Environmental Applications of Chemical and Nanosciences(EACN-2026)",
     "poster": "others/events/chemistry-seminar.png",
     "link": "others/events/chemistry-seminar.pdf"
+  },
+    {
+    "name": "FDP",
+    "department": "CT - PG",
+    "venue": "CC-1 MBA Block",
+    "dates": "January 19 - 24 2026",
+    "description": "Six day FDP on Securing the Future: Research Driven Approaches to Cyber Defense & Ethical Hacking.",
+    "poster": "others/events/ct-pgfdp.jpeg",
+    "link": "others/events/ct-pgfdp.pdf"
+  },
+    {
+    "name": "Symposium",
+    "department": "CT - PG",
+    "venue": "C K Prahalad Seminar Hall",
+    "dates": "January 24 2026",
+    "description": "MARK-US 2K26 An Inter-Department Technical Symposium.",
+    "poster": "others/events/ctpg-symposium.jpeg",
+    "link": "others/events/ctpg-symposium.pdf"
   },
   {
     "name": "Workshop",

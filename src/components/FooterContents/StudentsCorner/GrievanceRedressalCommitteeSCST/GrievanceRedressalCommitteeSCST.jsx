@@ -10,7 +10,7 @@ import "../../../../App.css";
 
 const members = [
   {
-    name: "Dr.R.Viswanathan (CCO S&H)",
+    name: "Dr.R.Viswanathan (Dean S&H)",
     role: "Chairman",
     mobile: "9715814284",
   },

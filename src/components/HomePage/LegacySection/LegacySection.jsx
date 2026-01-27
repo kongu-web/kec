@@ -27,19 +27,17 @@ export default function LegacySection() {
         </h1>
 
         <p>
-          Our commitment to excellence spans across every dimension of education
-          and development.
+          1.	Excellence in Education, Innovation in Practice
         </p>
 
         <p>
-          Kongu Engineering College stands as the first choice for ambitious
-          students striving for academic and professional excellence.
+          We are committed to excellence across every dimension of education and development. Kongu Engineering College is the first choice for ambitious students pursuing academic and professional success.
         </p>
 
         <blockquote>
           “With a cutting-edge curriculum, hands-on learning approach, dynamic
           faculty, and world-class infrastructure, we take pride in being a
-          <strong> Top Placements College year after year!</strong>”
+          <strong> Top Placement-Offering College year after year!</strong>”
         </blockquote>
       </div>
 
@@ -59,7 +57,7 @@ export default function LegacySection() {
             <img src={GraduationCap} alt="Graduation Cap" />
           </div>
           <h3>Band 101–150</h3>
-          <p>Business Today (Best B School)</p>
+
           <small>National Ranking in India</small>
           <div className="nirf">
             <img src={nirf} alt="nirf" />
@@ -99,44 +97,34 @@ export default function LegacySection() {
       </div>
 
       <div className="legacy-buttons">
-        <button>
-          <Link to="/placement" className="legacy-link">
-            <FaGraduationCap /> Placements
-          </Link>
-        </button>
+        <Link to="/placement" className="legacy-btn">
+          <FaGraduationCap /> Placements
+        </Link>
 
-        <button>
-          <Link to="/rankings" className="legacy-link">
-            <FaTrophy /> Rankings
-          </Link>
-        </button>
+        <Link to="/rankings" className="legacy-btn">
+          <FaTrophy /> Rankings
+        </Link>
 
-        <button>
-          <Link to="/achievements" className="legacy-link">
-            <FaChartLine /> Achievements
-          </Link>
-        </button>
+        <Link to="/achievements" className="legacy-btn">
+          <FaChartLine /> Achievements
+        </Link>
 
-        <button>
-          <Link to="/awards" className="legacy-link">
-            <FaTrophy /> Awards
-          </Link>
-        </button>
+        <Link to="/awards" className="legacy-btn">
+          <FaTrophy /> Awards
+        </Link>
 
-        <button>
-          <Link to="/updates" className="legacy-link">
-            <FaChartLine /> Updates
-          </Link>
-        </button>
+        <Link to="/updates" className="legacy-btn">
+          <FaChartLine /> Updates
+        </Link>
 
-        <button>
-          <Link
-            to="https://kongu.ac.in/kongu.ac.in/newspaper.php"
-            className="legacy-link"
-          >
-            <FaNewspaper /> News Clippings
-          </Link>
-        </button>
+        <Link
+          to="https://kongu.ac.in/kongu.ac.in/newspaper.php"
+          className="legacy-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaNewspaper /> News Clippings
+        </Link>
       </div>
     </section>
   );

@@ -21,12 +21,27 @@ function CollegeChatbot() {
     }
   }, [messages, isOpen, isTyping]);
 
+  const [isVisible, setIsVisible] = useState(true);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const isAtBottom =
+        window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 50;
+      setIsVisible(!isAtBottom);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  if (!isVisible) return null;
+
   const sendMessage = (text = input) => {
     if (!text.trim()) return;
 
     const userMessage = { sender: "user", text: text };
     setMessages(prev => [...prev, userMessage]);
-    
+
     if (text === input) setInput("");
     setIsTyping(true); // Show typing indicator
 
@@ -35,7 +50,7 @@ function CollegeChatbot() {
       const reply = getCollegeReply(text);
       setMessages(prev => [...prev, { sender: "bot", text: reply }]);
       setIsTyping(false); // Hide typing
-    }, 600); 
+    }, 600);
   };
 
   // Helper to parse bold text (**text**)
@@ -64,7 +79,7 @@ function CollegeChatbot() {
       const [fullMatch, title, url] = match;
       const matchStart = match.index;
       if (matchStart > lastIndex) parts.push(...parseBold(text.slice(lastIndex, matchStart)));
-      
+
       const titleContent = parseBold(title);
 
       if (url.startsWith("chat:")) {
@@ -89,9 +104,12 @@ function CollegeChatbot() {
   return (
     <>
       {!isOpen && (
-        <button className="chat-toggle-btn" onClick={() => setIsOpen(true)}>
-          <img src={chatIcon} alt="Chat" />
-        </button>
+        <div className="chat-button-container">
+          <button className="chat-toggle-btn" onClick={() => setIsOpen(true)}>
+            <img src={chatIcon} alt="Chat" />
+          </button>
+          <span className="chat-hover-tooltip">Need Help?</span>
+        </div>
       )}
 
       {isOpen && (
@@ -118,13 +136,13 @@ function CollegeChatbot() {
               value={input}
               onChange={e => setInput(e.target.value)}
               // ✅ Removed strict placeholder text
-              placeholder="Type your question..." 
+              placeholder="Type your question..."
               onKeyDown={e => e.key === "Enter" && sendMessage()}
             />
             <button onClick={() => sendMessage()}>
               {/* Arrow Icon */}
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M2.01 21L23 12L2.01 3L2 10L17 12L2 14L2.01 21Z" fill="white"/>
+                <path d="M2.01 21L23 12L2.01 3L2 10L17 12L2 14L2.01 21Z" fill="white" />
               </svg>
             </button>
           </div>

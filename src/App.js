@@ -1,4 +1,4 @@
-import React,{useState,useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 import './index.css';
 
 import HomePage from './components/HomePage/HomePage';
@@ -100,13 +100,31 @@ import LibraryCommittee from './components/FooterContents/StudentsCorner/Library
 import MediaCell from './components/FooterContents/StudentsCorner/MediaCell/MediaCell.jsx';
 import ReseaerchIPRCommittee from './components/FooterContents/StudentsCorner/ResearchIPRCommittee/ResearchIPRCommittee.jsx';
 import StudentsCounsellingCell from './components/FooterContents/StudentsCorner/StudentsCounsellingCell/StudentsCounsellingCell.jsx';
-import UHVCell  from './components/FooterContents/StudentsCorner/UHVCell/Uhvcell.jsx';
+import UHVCell from './components/FooterContents/StudentsCorner/UHVCell/Uhvcell.jsx';
 import WomenHelpLine from './components/FooterContents/StudentsCorner/WomenHelpLine/WomenHelpLine.jsx';
 import Feedback from './components/FooterContents/StudentsCorner/Feedback/Feedback.jsx';
 import Recruitment from './components/FooterContents/QuickLinks/Recruitment/Recruitment.jsx';
 // import IQAC from './components/FooterContents/QuickLinks/IQAC/IQAC.jsx';
 
 import HelpDeskCommittee from './components/FooterContents/StudentsCorner/HelpDeskCommittee/HelpDeskCommittee.jsx';
+
+// IQAC Module
+import IqacHome from './components/IQAC/IqacHome/IqacHome';
+import IqacComposition from './components/IQAC/IqacComposition/IqacComposition';
+import IqacHierarchy from './components/IQAC/IqacHierarchy/IqacHierarchy';
+import IqacISO from './components/IQAC/IqacISO/IqacISO';
+import IqacAffiliation from './components/IQAC/IqacAffiliation/IqacAffiliation';
+import IqacMeetings from './components/IQAC/IqacMeetings/IqacMeetings';
+import IqacAudit from './components/IQAC/IqacAudit/IqacAudit';
+import IqacStrategicPlan from './components/IQAC/IqacStrategicPlan/IqacStrategicPlan';
+import IqacBestPractices from './components/IQAC/IqacBestPractices/IqacBestPractices';
+import IqacAnnualReport from './components/IQAC/IqacAnnualReport/IqacAnnualReport';
+import IqacCirculars from './components/IQAC/IqacCirculars/IqacCirculars';
+import IqacDownloads from './components/IQAC/IqacDownloads/IqacDownloads';
+import IqacGallery from './components/IQAC/IqacGallery/IqacGallery';
+import IqacNaac from './components/IQAC/IqacNaac/IqacNaac';
+import IqacNba from './components/IQAC/IqacNba/IqacNba';
+import IqacNirf from './components/IQAC/IqacNirf/IqacNirf';
 
 import Spinner from './components/Spinner.jsx';
 import Rankings from './components/ExtraPages/Rankings/Rankings.jsx';
@@ -119,7 +137,7 @@ import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
 import ScrollToTop from './components/ScrollToTop.jsx';
-import CampusLife from './components/ExtraPages/CampusLife/CampusLife.jsx';
+import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife.jsx';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
@@ -275,8 +293,25 @@ const App = () => {
         <Route path="/feedback" element={<Feedback />} />
 
         <Route path="/recruitment" element={<Recruitment />} />
-
         <Route path="/kecwebteam" element={<Webteam />} />
+
+        {/* IQAC Routes */}
+        <Route path="/iqac" element={<IqacHome />} />
+        <Route path="/iqac/composition" element={<IqacComposition />} />
+        <Route path="/iqac/hierarchy" element={<IqacHierarchy />} />
+        <Route path="/iqac/iso" element={<IqacISO />} />
+        <Route path="/iqac/affiliation" element={<IqacAffiliation />} />
+        <Route path="/iqac/meetings" element={<IqacMeetings />} />
+        <Route path="/iqac/audit" element={<IqacAudit />} />
+        <Route path="/iqac/strategic-plan" element={<IqacStrategicPlan />} />
+        <Route path="/iqac/best-practices" element={<IqacBestPractices />} />
+        <Route path="/iqac/annual-report" element={<IqacAnnualReport />} />
+        <Route path="/iqac/circulars" element={<IqacCirculars />} />
+        <Route path="/iqac/downloads" element={<IqacDownloads />} />
+        <Route path="/iqac/gallery" element={<IqacGallery />} />
+        <Route path="/iqac/naac" element={<IqacNaac />} />
+        <Route path="/iqac/nba" element={<IqacNba />} />
+        <Route path="/iqac/nirf" element={<IqacNirf />} />
         {/* <Route path='/Admission' element={<Admission />}/> */}
 
         {/* Page Under Developement */}

@@ -1,0 +1,48 @@
+/* IqacAffiliation.css */
+/* Common styles are now imported from ../IQAC.css */
+
+/* Custom Tabs Styling - keeping this as it is specific */
+.iqac-custom-tabs {
+    border-bottom: none !important;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.iqac-custom-tabs .nav-item {
+    margin-bottom: 0;
+}
+
+.iqac-custom-tabs .nav-link {
+    border: none !important;
+    background: #f1f5f9 !important;
+    color: #64748b !important;
+    border-radius: 30px !important;
+    padding: 12px 30px !important;
+    font-weight: 600 !important;
+    transition: all 0.3s ease !important;
+}
+
+.iqac-custom-tabs .nav-link:hover {
+    background: #e2e8f0 !important;
+    color: #334155 !important;
+    transform: translateY(-2px);
+}
+
+.iqac-custom-tabs .nav-link.active {
+    background: linear-gradient(135deg, #1e3a8a 0%, #009EDB 100%) !important;
+    color: #ffffff !important;
+    box-shadow: 0 8px 20px rgba(0, 158, 219, 0.3) !important;
+    transform: translateY(-2px);
+}
+
+/* Sub-Heading for Tab Content */
+.iqac-tab-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 30px 0 25px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}

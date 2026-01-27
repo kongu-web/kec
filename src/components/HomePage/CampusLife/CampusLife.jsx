@@ -79,10 +79,9 @@ export default function CampusLife() {
   return (
     <section className="campus-life">
       <span className="pill">Campus Life - Fun, Thrive & Learn @ KEC</span>
-      <h2>Where Learning Meets Living</h2>
+      <h2>Where energy ignites excellence and every moment fuels your future</h2>
       <p className="subtitle">
-        Always buzzing with energy and enthusiasm, Kongu Engineering College is
-        a dynamic hub of activity...
+        Kongu Engineering College is a vibrant academic community where rigorous scholarship, innovation, and holistic development come together to shape future-ready professionals.
       </p>
 
       <div className="gallery">
