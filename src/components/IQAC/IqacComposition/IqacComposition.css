@@ -10,63 +10,6 @@
 }
 
 /* Composition List Styling - Card Rows */
-.iqac-content ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-.iqac-content ul li {
-    background: white;
-    padding: 18px 25px 18px 60px;
-    /* Space for icon */
-    border-radius: 12px;
-    position: relative;
-    color: #334155;
-    font-size: 1.05rem;
-    font-weight: 500;
-    line-height: 1.5;
-    text-align: left;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
-    border: 1px solid #f1f5f9;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.iqac-content ul li:hover {
-    transform: translateX(5px);
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
-    border-color: #e2e8f0;
-}
-
-.iqac-content ul li::before {
-    content: '\2713';
-    /* Checkmark Unicode */
-    position: absolute;
-    left: 15px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #fff;
-    font-weight: 900;
-    font-size: 0.9rem;
-    background: linear-gradient(135deg, #319143 0%, #15803d 100%);
-    /* Gradient Green */
-    width: 28px;
-    height: 28px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 4px 6px rgba(49, 145, 67, 0.2);
-}
-
-.iqac-content ul li b {
-    color: #0f172a;
-    font-weight: 700;
-    margin-right: 5px;
-}
 
 /* Section Title */
 .iqac-section-title {
