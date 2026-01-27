@@ -1,123 +1,37 @@
-/* Premium Redesign for IQAC Composition */
+/* Simple Composition List Style */
 
-/* Wrapper for centering the list elegantly */
 .iqac-composition-list {
-    max-width: 850px;
-    margin: 40px auto;
-    /* background: #fff; */
-    /* Remove huge container background to let items breathe */
-    padding: 10px;
+    margin: 20px auto 40px;
+    padding-left: 10px;
+    max-width: 900px;
+    width: 100%;
 }
 
-/* Composition List Styling - Card Rows */
-/* Composition List Styling - Connected Tree Structure */
 .iqac-composition-list ul {
-    list-style: none;
-    padding: 20px 0 20px 20px;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
-    position: relative;
-}
-
-/* The Vertical Spine */
-.iqac-composition-list ul::before {
-    content: '';
-    position: absolute;
-    left: 20px;
-    top: 0;
-    bottom: 0;
-    width: 3px;
-    background: linear-gradient(to bottom, #3b82f6, #06b6d4, #e2e8f0);
-    border-radius: 2px;
+    list-style-type: disc;
+    padding-left: 40px;
+    color: #1e293b;
+    font-size: 1.15rem;
+    /* Slightly larger text for readability */
+    line-height: 2;
+    margin-bottom: 0;
+    text-align: left;
 }
 
 .iqac-composition-list li {
-    background: #ffffff;
-    padding: 18px 25px;
-    border-radius: 8px;
-    position: relative;
-    color: #475569;
-    font-size: 1.05rem;
-    font-weight: 500;
-    line-height: 1.5;
-    text-align: left;
-    margin-left: 35px;
-    /* Space for connector */
-    border: 1px solid #f1f5f9;
-    /* Minimal border */
-    transition: all 0.3s ease;
+    margin-bottom: 8px;
 }
 
-/* The Connector Arm */
-.iqac-composition-list li::before {
-    content: '';
-    position: absolute;
-    left: -35px;
-    /* Connect to spine */
-    top: 50%;
-    width: 35px;
-    height: 2px;
-    background: #e2e8f0;
-    transition: width 0.3s ease, background 0.3s ease;
-}
-
-/* The Node Dot */
-.iqac-composition-list li::after {
-    content: '';
-    position: absolute;
-    left: -41px;
-    /* On the spine */
-    top: 50%;
-    transform: translateY(-50%);
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background: #fff;
-    border: 3px solid #3b82f6;
-    z-index: 2;
-    transition: all 0.3s ease;
-}
-
-/* Hover Effects */
-.iqac-composition-list li:hover {
-    transform: translateX(5px);
-    background: #f8fafc;
-    border-color: #3b82f6;
-    color: #0f172a;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-}
-
-.iqac-composition-list li:hover::before {
-    background: #3b82f6;
-}
-
-.iqac-composition-list li:hover::after {
-    background: #3b82f6;
-    border-color: #fff;
-    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
-    transform: translateY(-50%) scale(1.2);
-}
-
-.iqac-composition-list li b {
-    color: #0f172a;
+.iqac-composition-list li b,
+.iqac-composition-list li strong {
     font-weight: 700;
-    margin-right: 8px;
-    font-size: 1.1rem;
-    display: inline-block;
-}
-
-.iqac-composition-list li b {
     color: #0f172a;
-    font-weight: 700;
-    margin-right: 6px;
-    font-size: 1.15rem;
+    margin-right: 5px;
 }
 
-/* Section Title */
-/* Removed duplicate iqac-section-title styles */
+/* Response to user request for simple bullet list style */
 
+/* --- Existing Team Card Styles Preserved --- */
 
 /* Team Member Cards - Ultra Premium */
 .iqac-composition-card {
@@ -155,12 +69,10 @@
 
 .iqac-composition-card:hover::after {
     box-shadow: inset 0 0 0 2px rgba(0, 158, 219, 0.5);
-    /* Thinner, subtler border */
 }
 
 .iqac-card-accent {
     height: 140px;
-    /* Taller accent used as background header */
     background: linear-gradient(135deg, #009EDB 0%, #00609d 100%);
     width: 100%;
     position: absolute;
@@ -175,7 +87,6 @@
     position: relative;
     z-index: 2;
     margin-top: 60px;
-    /* Push content down to overlap with accent */
 }
 
 .iqac-profile-img {
@@ -212,7 +123,6 @@
     margin-bottom: 15px;
 }
 
-/* Connect Button (Implicit via entire card click, but styled link icon helps) */
 .iqac-profile-container::after {
     content: 'View Profile →';
     display: block;
@@ -277,7 +187,7 @@
 
 /* Responsive */
 @media (max-width: 768px) {
-    .iqac-content ul li {
-        padding-left: 50px;
+    .iqac-composition-list {
+        padding-left: 20px;
     }
 }
