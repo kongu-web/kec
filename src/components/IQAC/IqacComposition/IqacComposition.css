@@ -10,6 +10,110 @@
 }
 
 /* Composition List Styling - Card Rows */
+/* Composition List Styling - Connected Tree Structure */
+.iqac-composition-list ul {
+    list-style: none;
+    padding: 20px 0 20px 20px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    position: relative;
+}
+
+/* The Vertical Spine */
+.iqac-composition-list ul::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom, #3b82f6, #06b6d4, #e2e8f0);
+    border-radius: 2px;
+}
+
+.iqac-composition-list li {
+    background: #ffffff;
+    padding: 18px 25px;
+    border-radius: 8px;
+    position: relative;
+    color: #475569;
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 35px;
+    /* Space for connector */
+    border: 1px solid #f1f5f9;
+    /* Minimal border */
+    transition: all 0.3s ease;
+}
+
+/* The Connector Arm */
+.iqac-composition-list li::before {
+    content: '';
+    position: absolute;
+    left: -35px;
+    /* Connect to spine */
+    top: 50%;
+    width: 35px;
+    height: 2px;
+    background: #e2e8f0;
+    transition: width 0.3s ease, background 0.3s ease;
+}
+
+/* The Node Dot */
+.iqac-composition-list li::after {
+    content: '';
+    position: absolute;
+    left: -41px;
+    /* On the spine */
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid #3b82f6;
+    z-index: 2;
+    transition: all 0.3s ease;
+}
+
+/* Hover Effects */
+.iqac-composition-list li:hover {
+    transform: translateX(5px);
+    background: #f8fafc;
+    border-color: #3b82f6;
+    color: #0f172a;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.iqac-composition-list li:hover::before {
+    background: #3b82f6;
+}
+
+.iqac-composition-list li:hover::after {
+    background: #3b82f6;
+    border-color: #fff;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
+    transform: translateY(-50%) scale(1.2);
+}
+
+.iqac-composition-list li b {
+    color: #0f172a;
+    font-weight: 700;
+    margin-right: 8px;
+    font-size: 1.1rem;
+    display: inline-block;
+}
+
+.iqac-composition-list li b {
+    color: #0f172a;
+    font-weight: 700;
+    margin-right: 6px;
+    font-size: 1.15rem;
+}
 
 /* Section Title */
 .iqac-section-title {

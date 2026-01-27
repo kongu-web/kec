@@ -12,9 +12,14 @@ import './IqacAffiliation.css';
 const FileGrid = ({ files }) => (
     <div className="iqac-file-grid mt-3">
         {files.map((file, idx) => (
-            <a key={idx} href={file.path} target="_blank" rel="noopener noreferrer" className="iqac-file-link">
-                <FontAwesomeIcon icon={faFilePdf} className="iqac-file-icon" />
-                {file.name}
+            <a key={idx} href={file.path} target="_blank" rel="noopener noreferrer" className="iqac-file-card">
+                <div className="iqac-file-icon-box">
+                    <FontAwesomeIcon icon={faFilePdf} />
+                </div>
+                <div className="iqac-file-info">
+                    <span className="iqac-file-name">{file.name}</span>
+                    <span className="iqac-file-action">Download PDF &rarr;</span>
+                </div>
             </a>
         ))}
     </div>
@@ -26,16 +31,19 @@ const IqacAffiliation = () => {
             <Navbar />
             <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
-                <div className="iqac-content">
-                    <h1 className="iqac-section-title">AFFILIATION & APPROVAL</h1>
-                    <p className="mb-4 iqac-text">
-                        Affiliation and approvals are crucial for educational institutions to ensure they meet established standards of quality and rigor. These credentials validate the institution's programs and operations, providing assurance to students, parents, and employers about the education provided. They also facilitate access to funding, resources, and collaborative opportunities, enhancing the institution's overall credibility and standing in the academic community.
-                    </p>
+                <div className="iqac-content fade-in-up">
+                    <h1 className="iqac-page-title">AFFILIATION & APPROVAL</h1>
 
-                    <Tabs defaultActiveKey="aicte" id="affiliation-tabs" className="mb-3 custom-tabs">
-                        <Tab eventKey="aicte" title="AICTE">
-                            <h3 className="mt-3 text-primary">AICTE Approval</h3>
-                            <Tabs defaultActiveKey="eng" id="aicte-tabs" className="mb-3 mt-3">
+                    <div className="iqac-intro-card">
+                        <p className="iqac-text">
+                            Affiliation and approvals are crucial for educational institutions to ensure they meet established standards of quality and rigor. These credentials validate the institution's programs and operations, providing assurance to students, parents, and employers about the education provided. They also facilitate access to funding, resources, and collaborative opportunities, enhancing the institution's overall credibility and standing in the academic community.
+                        </p>
+                    </div>
+
+                    <Tabs defaultActiveKey="aicte" id="affiliation-tabs" className="iqac-custom-tabs mb-4">
+                        <Tab eventKey="aicte" title="AICTE Approval">
+                            <h3 className="iqac-tab-heading">AICTE Documents</h3>
+                            <Tabs defaultActiveKey="eng" id="aicte-tabs" className="iqac-custom-tabs mb-3 mt-3" variant="pills">
                                 <Tab eventKey="eng" title="Engineering">
                                     <FileGrid files={iqacData.affiliation.aicte.eng} />
                                 </Tab>
@@ -44,12 +52,12 @@ const IqacAffiliation = () => {
                                 </Tab>
                             </Tabs>
                         </Tab>
-                        <Tab eventKey="au" title="AU Affiliation">
-                            <h3 className="mt-3 text-primary">Anna University Affiliation</h3>
+                        <Tab eventKey="au" title="Anna University">
+                            <h3 className="iqac-tab-heading">Anna University Affiliation</h3>
                             <FileGrid files={iqacData.affiliation.au} />
                         </Tab>
-                        <Tab eventKey="autonomous" title="Autonomous">
-                            <h3 className="mt-3 text-primary">Autonomous Status</h3>
+                        <Tab eventKey="autonomous" title="Autonomous Status">
+                            <h3 className="iqac-tab-heading">Autonomous Status</h3>
                             <FileGrid files={iqacData.affiliation.autonomous} />
                         </Tab>
                     </Tabs>

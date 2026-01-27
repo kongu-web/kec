@@ -1,4 +1,167 @@
-/* Styles for IqacISO */
+/* Premium ISO Page Styling */
+
+/* Page Title with Gradient */
+.iqac-iso-page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 50px;
+    background: linear-gradient(135deg, #1e3a8a 0%, #009EDB 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.iqac-iso-page-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: #009EDB;
+    border-radius: 2px;
+}
+
+/* Content Cards */
+.iqac-content-card {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.iqac-content-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+.iqac-content-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #009EDB, #06b6d4);
+}
+
+.iqac-card-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.iqac-card-icon-wrapper {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    background: rgba(0, 158, 219, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #009EDB;
+    font-size: 1.5rem;
+}
+
+.iqac-card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0;
+}
+
+.iqac-text-content {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #475569;
+    text-align: justify;
+}
+
+/* Certificates Grid */
+.iqac-iso-certificates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.iqac-cert-card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.iqac-cert-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+    border-color: #009EDB;
+}
+
+.iqac-cert-icon-box {
+    width: 60px;
+    height: 60px;
+    background: #fef2f2;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ef4444;
+    font-size: 1.8rem;
+    transition: transform 0.3s ease;
+}
+
+.iqac-cert-card:hover .iqac-cert-icon-box {
+    transform: scale(1.1) rotate(5deg);
+    background: #ef4444;
+    color: #fff;
+}
+
+.iqac-cert-name {
+    font-weight: 600;
+    color: #1e293b;
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+.iqac-cert-arrow {
+    margin-top: auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #f1f5f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #64748b;
+    transition: all 0.3s ease;
+}
+
+.iqac-cert-card:hover .iqac-cert-arrow {
+    background: #009EDB;
+    color: #fff;
+    transform: translateX(5px);
+}
+
 .iqac-file-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
