@@ -116,36 +116,7 @@
 }
 
 /* Section Title */
-.iqac-section-title {
-    font-size: 1.8rem;
-    font-weight: 800;
-    text-align: center;
-    margin: 70px 0 50px;
-    color: #0f172a;
-    position: relative;
-    letter-spacing: -0.02em;
-}
-
-.iqac-section-title::before {
-    content: '////';
-    display: block;
-    color: rgba(0, 158, 219, 0.1);
-    font-size: 4rem;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 0;
-    font-weight: 900;
-    letter-spacing: 0.5em;
-    width: 100%;
-    pointer-events: none;
-}
-
-.iqac-section-title span {
-    position: relative;
-    z-index: 1;
-}
+/* Removed duplicate iqac-section-title styles */
 
 
 /* Team Member Cards - Ultra Premium */

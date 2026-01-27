@@ -96,5 +96,36 @@ export const iqacData = {
             "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
             "alt": "ISO 9001-2015 surveillance audit 2"
         }
+    ],
+    "naac": {
+        "certificates": [
+            { "name": "Certificate-Cycle-2 2022.pdf", "path": "/files/iqac/naac/NAAC Certificate/Certificate-Cycle-2 2022.pdf" },
+            { "name": "Certificate Cycle-1 2016.pdf", "path": "/files/iqac/naac/NAAC Certificate/Certificate Cycle-1 2016.pdf" }
+        ],
+        "ssr": [
+            { "name": "Cycle 2.pdf", "path": "/files/iqac/naac/NAAC SSR/Cycle 2.pdf" }
+        ],
+        "aqar": [
+            { "name": "2023-2024.pdf", "path": "/files/iqac/naac/AQAR/2023-2024.pdf" },
+            { "name": "2022-2023.pdf", "path": "/files/iqac/naac/AQAR/2022-2023.pdf" },
+            { "name": "2021-2022.pdf", "path": "/files/iqac/naac/AQAR/2021-2022.pdf" },
+            { "name": "2020-2021.pdf", "path": "/files/iqac/naac/AQAR/2020-2021.pdf" },
+            { "name": "2019-2020.pdf", "path": "/files/iqac/naac/AQAR/2019-2020.pdf" },
+            { "name": "2018-2019.pdf", "path": "/files/iqac/naac/AQAR/2018-2019.pdf" },
+            { "name": "2017-2018.pdf", "path": "/files/iqac/naac/AQAR/2017-2018.pdf" },
+            { "name": "2016-2017.pdf", "path": "/files/iqac/naac/AQAR/2016-2017.pdf" },
+            { "name": "2015-2016.pdf", "path": "/files/iqac/naac/AQAR/2015-2016.pdf" }
+        ]
+    },
+    "nirf": [
+        { "name": "2025.pdf", "path": "/files/iqac/NIRF & Other Ranking/2025.pdf" },
+        { "name": "2024.pdf", "path": "/files/iqac/NIRF & Other Ranking/2024.pdf" },
+        { "name": "2023.pdf", "path": "/files/iqac/NIRF & Other Ranking/2023.pdf" },
+        { "name": "2022.pdf", "path": "/files/iqac/NIRF & Other Ranking/2022.pdf" },
+        { "name": "2021.pdf", "path": "/files/iqac/NIRF & Other Ranking/2021.pdf" },
+        { "name": "2020.pdf", "path": "/files/iqac/NIRF & Other Ranking/2020.pdf" },
+        { "name": "2019.pdf", "path": "/files/iqac/NIRF & Other Ranking/2019.pdf" },
+        { "name": "2018.pdf", "path": "/files/iqac/NIRF & Other Ranking/2018.pdf" },
+        { "name": "2017.pdf", "path": "/files/iqac/NIRF & Other Ranking/2017.pdf" }
     ]
 }

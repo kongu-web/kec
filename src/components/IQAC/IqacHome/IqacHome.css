@@ -88,10 +88,10 @@
 }
 
 /* Card Titles with Modern Icons */
-.iqac-card-title {
+.iqac-card-title-home {
     font-size: 1.35rem;
     font-weight: 700;
-    color: #303177 !important;
+    color: #319143 !important;
     margin-bottom: 25px;
     display: flex;
     align-items: center;

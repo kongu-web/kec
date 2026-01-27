@@ -1,79 +1,91 @@
-/* Styles for IqacNba and others using program/list styles */
-.iqac-program-title {
-    color: #1e3a8a;
-    font-size: 1.25rem;
+/* IqacNba.css */
+/* Common styles are now imported from ../IQAC.css */
+
+/* --- NBA Specific Table Styles --- */
+.nba-table-wrapper {
+    overflow-x: auto;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+
+.nba-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+.nba-table th,
+.nba-table td {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: middle;
+}
+
+.nba-table th {
+    background: #f1f5f9;
+    color: #334155;
     font-weight: 700;
-    margin-bottom: 15px;
-    display: flex;
-    align-items: baseline;
-    gap: 10px;
-}
-
-.iqac-program-number {
-    color: #3b82f6;
-    font-weight: 800;
-    font-size: 1.4rem;
-}
-
-.iqac-doc-link {
-    text-decoration: none;
-    color: #0f172a;
-    font-weight: 600;
-    transition: color 0.2s;
-    border-bottom: 2px solid rgba(59, 130, 246, 0.2);
-    padding-bottom: 2px;
-}
-
-.iqac-doc-link:hover {
-    color: #2563eb;
-    border-bottom-color: #2563eb;
-}
-
-.iqac-doc-period {
-    color: #64748b;
-    font-size: 0.95rem;
-    font-style: italic;
-    margin-left: 8px;
-}
-
-.iqac-ol {
-    padding-left: 20px;
-}
-
-.iqac-ol li {
-    margin-bottom: 12px;
-    position: relative;
-    padding-left: 10px;
-}
-
-.iqac-section-title {
-    color: #009EDB;
-    font-weight: 800;
-    font-size: 1.4rem;
-    margin: 40px 0 25px;
     text-transform: uppercase;
+    font-size: 0.85rem;
     letter-spacing: 0.05em;
-    border-bottom: 2px solid #e2e8f0;
-    padding-bottom: 15px;
+    text-align: left;
+    white-space: nowrap;
 }
 
-.iqac-title {
-    color: #0f172a;
-    font-weight: 700;
-    margin-bottom: 24px;
-    position: relative;
-    padding-bottom: 12px;
-    font-size: 1.5rem;
-    letter-spacing: -0.02em;
+.nba-table tbody tr:last-child td {
+    border-bottom: none;
 }
 
-.iqac-title::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
+.nba-table tbody tr:hover {
+    background-color: #fafbfc;
+}
+
+.sn-col {
+    color: #64748b;
+    background-color: #f8fafc;
     width: 60px;
-    height: 4px;
-    background: linear-gradient(90deg, #2563eb, #60a5fa);
-    border-radius: 2px;
+}
+
+.prog-col {
+    font-weight: 600;
+    color: #1e293b;
+    font-size: 1rem;
+    background-color: #ffffff;
+}
+
+.letter-col {
+    font-size: 0.95rem;
+}
+
+.period-col {
+    font-size: 0.95rem;
+    color: #475569;
+    white-space: nowrap;
+}
+
+.nba-link {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.nba-link:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
+.nba-link i {
+    color: #dc2626;
+    /* PDF icon color */
+}
+
+@media (max-width: 768px) {
+
+    .nba-table th,
+    .nba-table td {
+        padding: 12px 15px;
+    }
 }

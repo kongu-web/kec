@@ -122,7 +122,7 @@ const IqacComposition = () => {
                 <IqacNavbar />
 
                 <div className="iqac-content">
-                    <h2 className="page-title">COMPOSITION OF IQAC</h2>
+                    <h2 className="iqac-section-title">Composition Of IQAC</h2>
                     <p>The composition of the IQAC in KEC is as follows:</p>
                     <div className="iqac-composition-list">
                         <ul className="mb-0">
@@ -183,27 +183,29 @@ const IqacComposition = () => {
                     </div>
 
 
-                    <h2 className="iqac-section-title">FORMATION OF IQAC</h2>
-                    <div className="iqac-file-grid">
-                        {formationFiles.map((file, idx) => (
-                            <a
-                                key={idx}
-                                href={`/files/iqac/Formation of IQAC/${file}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="iqac-file-link"
-                            >
-                                <FontAwesomeIcon icon={faFilePdf} className="iqac-file-icon" />
-                                {file}
-                            </a>
-                        ))}
-                    </div>
 
-                    <div className="mt-5 text-center text-muted small">
-                        <p>Developed By Karan T - 22ITR041 - Department of Information Technology</p>
-                        <p>Maintained by IQAC Cell</p>
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">Formation of IQAC</h2>
+                        <div className="iqac-card-body">
+                            <div className="file-grid">
+                                {formationFiles.map((file, idx) => (
+                                    <a
+                                        key={idx}
+                                        href={`/files/iqac/Formation of IQAC/${file}`}
+                                        className="file-card"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <div className="file-icon-wrapper">
+                                            <i className="fa-regular fa-file-pdf"></i>
+                                        </div>
+                                        <span className="file-name">{file}</span>
+                                        <i className="fa-solid fa-download download-icon"></i>
+                                    </a>
+                                ))}
+                            </div>
+                        </div>
                     </div>
-
                 </div>
             </div>
             <Footer />

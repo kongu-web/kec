@@ -68,7 +68,7 @@ const IqacHome = () => {
 
                     {/* About Section - Full Width */}
                     <div className="iqac-info-card mb-5">
-                        <h2 className="iqac-card-title">
+                        <h2 className="iqac-card-title-home">
                             <FontAwesomeIcon icon={faInfoCircle} className="iqac-card-icon" />
                             ABOUT IQAC
                         </h2>
@@ -80,7 +80,7 @@ const IqacHome = () => {
                     {/* Info Grid 1 */}
                     <div className="iqac-home-content-grid">
                         <div className="iqac-info-card">
-                            <h2 className="iqac-card-title">
+                            <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faBullseye} className="iqac-card-icon" />
                                 OBJECTIVES
                             </h2>
@@ -92,7 +92,7 @@ const IqacHome = () => {
                         </div>
 
                         <div className="iqac-info-card">
-                            <h2 className="iqac-card-title">
+                            <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faChessKnight} className="iqac-card-icon" />
                                 STRATEGIES
                             </h2>
@@ -109,7 +109,7 @@ const IqacHome = () => {
                     {/* Info Grid 2 */}
                     <div className="iqac-home-content-grid">
                         <div className="iqac-info-card">
-                            <h2 className="iqac-card-title">
+                            <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faCogs} className="iqac-card-icon" />
                                 FUNCTIONS
                             </h2>
@@ -124,7 +124,7 @@ const IqacHome = () => {
                         </div>
 
                         <div className="iqac-info-card">
-                            <h2 className="iqac-card-title">
+                            <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faChartLine} className="iqac-card-icon" />
                                 BENEFITS
                             </h2>
@@ -142,7 +142,7 @@ const IqacHome = () => {
                     {/* Outcomes Section */}
                     <div className="mb-5">
                         <div className="iqac-info-card bg-light border-0">
-                            <h2 className="iqac-card-title justify-content-center">
+                            <h2 className="iqac-card-title-home justify-content-center">
                                 <FontAwesomeIcon icon={faTrophy} className="iqac-card-icon" />
                                 OUTCOMES & RECOGNITION
                             </h2>

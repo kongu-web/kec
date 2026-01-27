@@ -14,7 +14,7 @@ const IqacHierarchy = () => {
                 <div className="iqac-content fade-in-up">
 
                     <div className="iqac-hierarchy-header">
-                        <h1 className="iqac-hierarchy-title">Organizational Structure</h1>
+                        <h1 className="iqac-section-title">Organizational Structure</h1>
                         <p className="iqac-hierarchy-subtitle">
                             Visual representation of the reporting structure and functional hierarchy within the IQAC.
                         </p>

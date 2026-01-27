@@ -15,19 +15,28 @@ const IqacDownloads = () => {
             <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
                 <div className="iqac-content">
-                    <h1 className="iqac-section-title">DOWNLOADS</h1>
-                    <div className="mb-4">
-                        <p>Access important documents and files related to IQAC.</p>
-                    </div>
-
-                    <h3 className="text-primary mt-4">IQAC Formation & Composition</h3>
-                    <div className="iqac-file-grid mb-4">
-                        {iqacData.composition.map((file, idx) => (
-                            <a key={idx} href={file.path} target="_blank" rel="noopener noreferrer" className="iqac-file-link">
-                                <FontAwesomeIcon icon={faFilePdf} className="iqac-file-icon" />
-                                {file.name}
-                            </a>
-                        ))}
+                    <h1 className="iqac-section-title">Downloads</h1>
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">IQAC Formation & Composition</h2>
+                        <div className="iqac-card-body">
+                            <div className="file-grid">
+                                {iqacData.composition.map((file, idx) => (
+                                    <a
+                                        key={idx}
+                                        href={file.path}
+                                        className="file-card"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <div className="file-icon-wrapper">
+                                            <i className="fa-regular fa-file-pdf"></i>
+                                        </div>
+                                        <span className="file-name">{file.name}</span>
+                                        <i className="fa-solid fa-download download-icon"></i>
+                                    </a>
+                                ))}
+                            </div>
+                        </div>
                     </div>
                     {/* Add more download sections here if needed */}
                 </div>

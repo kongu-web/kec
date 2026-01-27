@@ -1,4 +1,6 @@
-/* Gallery Styles */
+/* IqacGallery.css */
+/* Common styles are now imported from ../IQAC.css */
+
 .iqac-gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -23,15 +25,4 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-}
-
-.iqac-section-title {
-    color: #009EDB;
-    font-weight: 800;
-    font-size: 1.4rem;
-    margin: 40px 0 25px;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    border-bottom: 2px solid #e2e8f0;
-    padding-bottom: 15px;
 }

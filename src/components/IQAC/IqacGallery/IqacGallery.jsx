@@ -27,7 +27,7 @@ const IqacGallery = () => {
             <div className="iqac-container container-fluid p-0">
                 <IqacNavbar />
                 <div className="iqac-content">
-                    <h1 className="iqac-section-title">GALLERY</h1>
+                    <h1 className="iqac-section-title">Gallery</h1>
 
                     <div className="iqac-gallery-grid">
                         {iqacData.gallery.map((img, idx) => (
