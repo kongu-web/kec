@@ -427,6 +427,11 @@ const Navbar = () => {
                     <AppliedIcon className="submenu-icon" />
                     Applied Science
                   </span>
+
+                  <span onClick={() => navigate("/snh")}>
+                    <AppliedIcon className="submenu-icon" />
+                    Science & Humanities
+                  </span>
                 </div>
               )}
             </li>
@@ -822,6 +827,9 @@ const Navbar = () => {
                     <li onClick={() => navigate("/doctoral")}>Doctoral</li>
                     <li onClick={() => navigate("/appliedscience")}>
                       Applied Science
+                    </li>
+                    <li onClick={() => navigate("/snh")}>
+                      Science & Humanities
                     </li>
                   </ul>
                 )}
