@@ -4,7 +4,7 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf, faUniversity, faAward, faBuildingColumns } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faUniversity, faAward, faBuildingColumns, faDownload } from '@fortawesome/free-solid-svg-icons';
 import { iqacData } from '../iqacData';
 import '../IQAC.css';
 import './IqacAffiliation.css';
@@ -19,10 +19,12 @@ const FileGrid = ({ files }) => (
                     </div>
                     <div className="file-info">
                         <h4 className="file-name" title={file.name}>{file.name}</h4>
-                        <span className="file-action">Download</span>
+                        <span className="file-action">View Document</span>
+                    </div>
+                    <div className="file-arrow-box">
+                        <FontAwesomeIcon icon={faDownload} className="action-arrow" />
                     </div>
                 </div>
-                <div className="file-card-hover-overlay"></div>
             </a>
         ))}
     </div>
