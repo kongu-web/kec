@@ -40,12 +40,16 @@ const IqacStrategicPlan = () => {
                             <p className="alignment-justify iqac-text">
                                 A strategic plan is a document that outlines an organization’s goals, objectives, and strategies for achieving success. It defines where the organization wants to go, how it will get there, and what resources it will need to allocate to achieve its objectives.
                             </p>
-                            <p className="iqac-text">A strategic plan for an educational institution typically includes:</p>
+                            <div className="strategic-components-header">
+                                <span className="header-line"></span>
+                                <span className="header-text">A strategic plan for an educational institution typically includes:</span>
+                                <span className="header-line"></span>
+                            </div>
                             <div className="iqac-grid">
                                 {planComponents.map((item, index) => (
                                     <div key={index} className="iqac-feature-card">
-                                        <div className="feature-icon-wrapper">
-                                            <FontAwesomeIcon icon={item.icon} className="feature-icon" />
+                                        <div className="strategic-icon-box">
+                                            <FontAwesomeIcon icon={item.icon} className="strategic-icon" />
                                         </div>
                                         <div className="feature-content">
                                             <h4 className="feature-title">{item.title}</h4>
