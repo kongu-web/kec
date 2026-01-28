@@ -26,8 +26,8 @@ const IqacNavbar = () => {
                     <li><NavLink to="/iqac/naac" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faChartBar} className="iqac-nav-icon" /> NAAC</NavLink></li>
                     <li><NavLink to="/iqac/nba" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faGraduationCap} className="iqac-nav-icon" /> NBA</NavLink></li>
                     <li><NavLink to="/iqac/nirf" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faCheckDouble} className="iqac-nav-icon" /> NIRF</NavLink></li>
-                    {/* <li><NavLink to="/iqac/iso" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faStar} className="iqac-nav-icon" /> ISO</NavLink></li>
-                    <li><NavLink to="/iqac/affiliation" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faThumbsUp} className="iqac-nav-icon" /> Affiliation</NavLink></li> */}
+                    <li><NavLink to="/iqac/iso" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faStar} className="iqac-nav-icon" /> ISO</NavLink></li>
+                    <li><NavLink to="/iqac/affiliation" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faThumbsUp} className="iqac-nav-icon" /> Affiliation</NavLink></li>
                 </ul>
             </div>
 
