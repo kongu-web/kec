@@ -251,7 +251,7 @@ const ApsPrograms = [
     icon: <FaLaptopCode />,
     duration: "3 Years",
     year: 2007,
-    route: "ctug",
+    route: "ctpg",
   }
 ];
 
