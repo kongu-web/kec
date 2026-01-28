@@ -3,10 +3,25 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faCompass, faMagnifyingGlassChart, faCrosshairs, faGraduationCap, faUsers, faBuilding, faHandshake, faGavel, faAward, faSackDollar, faBullhorn, faClipboardCheck } from '@fortawesome/free-solid-svg-icons';
 import { iqacData } from '../iqacData';
 import '../IQAC.css';
 import './IqacStrategicPlan.css';
+
+const planComponents = [
+    { title: "Mission & Vision", desc: "Define the institution’s purpose, values, and goals.", icon: faCompass },
+    { title: "SWOT Analysis", desc: "Identify Strengths, Weaknesses, Opportunities, and Threats.", icon: faMagnifyingGlassChart },
+    { title: "Strategic Objectives", desc: "Set specific, measurable, achievable, relevant, and time-bound goals.", icon: faCrosshairs },
+    { title: "Academic Excellence", desc: "Enhance teaching, learning, research, and innovation.", icon: faGraduationCap },
+    { title: "Student Experience", desc: "Foster a supportive, inclusive, and engaging environment.", icon: faUsers },
+    { title: "Infrastructure", desc: "Develop and maintain modern facilities, technology, and resources.", icon: faBuilding },
+    { title: "Community Engagement", desc: "Build partnerships with local communities and industries.", icon: faHandshake },
+    { title: "Governance", desc: "Ensure effective management, leadership, and decision–making.", icon: faGavel },
+    { title: "Quality Assurance", desc: "Establish processes for continuous evaluation and improvement.", icon: faAward },
+    { title: "Financial Sustainability", desc: "Ensure stable funding, resource allocation, and budget management.", icon: faSackDollar },
+    { title: "Marketing", desc: "Promote the institution’s brand, programs, and achievements.", icon: faBullhorn },
+    { title: "Monitoring", desc: "Regularly assess progress and adjust strategies accordingly.", icon: faClipboardCheck },
+];
 
 const IqacStrategicPlan = () => {
     return (
@@ -26,20 +41,20 @@ const IqacStrategicPlan = () => {
                                 A strategic plan is a document that outlines an organization’s goals, objectives, and strategies for achieving success. It defines where the organization wants to go, how it will get there, and what resources it will need to allocate to achieve its objectives.
                             </p>
                             <p className="iqac-text">A strategic plan for an educational institution typically includes:</p>
-                            <ol className="iqac-ol">
-                                <li>Mission and Vision statements: Define the institution’s purpose, values, and goals.</li>
-                                <li>SWOT Analysis: Identify Strengths, Weaknesses, Opportunities, and Threats to inform strategic decisions.</li>
-                                <li>Strategic Objectives: Set specific, measurable, achievable, relevant, and time-bound (SMART) goals.</li>
-                                <li>Academic Excellence: Enhance teaching, learning, research, and innovation.</li>
-                                <li>Student Experience: Foster a supportive, inclusive, and engaging environment.</li>
-                                <li>Infrastructure and Resources: Develop and maintain modern facilities, technology, and resources.</li>
-                                <li>Community Engagement: Build partnerships with local communities, industries, and organizations.</li>
-                                <li>Governance and Leaderships: Ensure effective management, leadership, and decision–making processes.</li>
-                                <li>Quality Assurance: Establish processes for continuous evaluation and improvement.</li>
-                                <li>Financial Sustainability: Ensure stable funding, resource allocation, and budget management.</li>
-                                <li>Marketing and Communication: Promote the institution’s brand, programs, and achievements.</li>
-                                <li>Monitoring and Evaluation: Regularly assess progress, identify areas for improvement, and adjust strategies accordingly.</li>
-                            </ol>
+                            <div className="iqac-grid">
+                                {planComponents.map((item, index) => (
+                                    <div key={index} className="iqac-feature-card">
+                                        <div className="feature-icon-wrapper">
+                                            <FontAwesomeIcon icon={item.icon} className="feature-icon" />
+                                        </div>
+                                        <div className="feature-content">
+                                            <h4 className="feature-title">{item.title}</h4>
+                                            <p className="feature-desc">{item.desc}</p>
+                                        </div>
+                                        <div className="feature-number">{index + 1 < 10 ? `0${index + 1}` : index + 1}</div>
+                                    </div>
+                                ))}
+                            </div>
                         </div>
                     </div>
 

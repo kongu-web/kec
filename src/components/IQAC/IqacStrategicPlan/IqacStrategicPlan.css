@@ -1,14 +1,125 @@
 /* IqacStrategicPlan.css */
-/* Common styles are now imported from ../IQAC.css */
 
-.iqac-ol {
-    padding-left: 20px;
-    margin-top: 20px;
+/* --- Grid Layout --- */
+.iqac-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
 }
 
-.iqac-ol li {
-    font-size: 1.05rem;
-    line-height: 1.6;
+/* --- Feature Card Designs --- */
+.iqac-feature-card {
+    background: #ffffff;
+    border: 2px solid #f1f5f9;
+    /* Clean subtle border */
+    border-radius: 20px;
+    /* Highly rounded corners */
+    padding: 40px 25px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center Align */
+    justify-content: flex-start;
+    text-align: center;
+    /* Center Content */
+    gap: 20px;
+    height: 100%;
+}
+
+.iqac-feature-card:hover {
+    transform: translateY(-8px);
+    border-color: #009EDB;
+    /* Brand color on hover */
+    box-shadow: 0 15px 35px rgba(0, 158, 219, 0.1);
+}
+
+/* Icon Styling - Large & Bold */
+.feature-icon-wrapper {
+    width: auto;
+    height: auto;
+    background: transparent;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+    z-index: 2;
+}
+
+.feature-icon {
+    font-size: 2.5rem;
+    /* Large prominent icon */
     color: #475569;
+    /* Dark Slate Gray */
+    transition: all 0.3s ease;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.iqac-feature-card:hover .feature-icon {
+    color: #009EDB;
+    /* Highlight color */
+    transform: scale(1.1) rotate(5deg);
+}
+
+/* Typography */
+.feature-content {
+    z-index: 2;
+    position: relative;
+}
+
+.feature-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+    /* Extra Bold */
+    color: #1e293b;
     margin-bottom: 12px;
+    transition: color 0.3s ease;
+}
+
+.feature-desc {
+    font-size: 0.95rem;
+    color: #64748b;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.iqac-feature-card:hover .feature-title {
+    color: #009EDB;
+}
+
+/* Big Background Number */
+.feature-number {
+    position: absolute;
+    bottom: -20px;
+    right: 0;
+    font-size: 7rem;
+    font-weight: 900;
+    color: #f8fafc;
+    /* Very light gray */
+    opacity: 1;
+    z-index: 1;
+    line-height: 1;
+    font-family: 'Arial', sans-serif;
+    transition: all 0.3s ease;
+    pointer-events: none;
+}
+
+.iqac-feature-card:hover .feature-number {
+    color: #f1f5f9;
+    transform: scale(1.05) translateX(-5px);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .iqac-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .feature-number {
+        font-size: 5rem;
+    }
 }
