@@ -244,15 +244,18 @@ const ApsPrograms = [
     duration: "3 Years",
     year: 2007,
     route: "ctug",
-  },
+  }
+];
+
+const ApsPgPrograms = [
   {
-    sno: 4,
-    name: "	M.Sc Software Systems",
+    sno: 1,
+    name: "M.Sc Software Systems",
     icon: <FaLaptopCode />,
-    duration: "3 Years",
+    duration: "5 Years",
     year: 2007,
     route: "ctpg",
-  }
+  },
 ];
 
 
@@ -266,7 +269,7 @@ const programMap = {
 const programTitles = {
   ug: "Undergraduate Programmes",
   pg: "Postgraduate Programmes",
-  as: "Applied Science Programmes",
+  as: "Computer Technology (UG)",
   sh: "Doctorate Programmes",
 };
 
@@ -318,8 +321,8 @@ function AcademicsSection() {
               <img src={card3} />
             </div>
             <div>
-              <h4>Applied Science</h4>
-              <p>Computer Technology</p>
+              <h4>Computer Technology</h4>
+              <p>B.Sc / M.Sc</p>
             </div>
           </div>
 
@@ -352,6 +355,24 @@ function AcademicsSection() {
               </Link>
             ))}
           </div>
+
+          {active === "as" && (
+            <>
+              <h3 style={{ marginTop: "30px" }}>Computer Technology (PG)</h3>
+              <div className="program-grid">
+                {ApsPgPrograms.map((item) => (
+                  <Link
+                    key={item.sno}
+                    to={`/${item.route}`}
+                    className="program-item"
+                  >
+                    <span className="program-icon">{item.icon}</span>
+                    <span>{item.name}</span>
+                  </Link>
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </section>
