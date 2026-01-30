@@ -425,7 +425,7 @@ const Navbar = () => {
 
                   <span onClick={() => navigate("/appliedscience")}>
                     <AppliedIcon className="submenu-icon" />
-                    Applied Science
+                    Computer Technology
                   </span>
 
                   <span onClick={() => navigate("/snh")}>
@@ -826,7 +826,7 @@ const Navbar = () => {
                     <li onClick={() => navigate("/pg")}>Post Graduate</li>
                     <li onClick={() => navigate("/doctoral")}>Doctoral</li>
                     <li onClick={() => navigate("/appliedscience")}>
-                      Applied Science
+                      Computer Technology
                     </li>
                     <li onClick={() => navigate("/snh")}>
                       Science & Humanities
