@@ -145,64 +145,118 @@
     font-weight: 600;
 }
 
-/* --- Simple File List (Clean Text Design) --- */
-.simple-file-list {
-    margin-top: 20px;
-    padding-left: 10px;
+/* --- Affiliation File Cards (Premium Grid) --- */
+.affiliation-file-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+    margin-top: 30px;
 }
 
-.simple-doc-item {
-    margin-bottom: 25px;
-}
-
-.doc-text {
-    font-size: 1rem;
-    color: #333;
-    line-height: 1.6;
-    margin-bottom: 0;
-    font-weight: 500;
-}
-
-.download-link {
-    color: #007bff;
-    text-decoration: none;
-    font-weight: 600;
-    transition: color 0.2s ease;
-}
-
-.download-link:hover {
-    color: #0056b3;
-    text-decoration: underline;
-}
-
-/* Action Section */
-
-
-/* Action Section */
-.doc-action {
-    margin-left: auto;
+.affiliation-file-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 20px;
     display: flex;
     align-items: center;
+    gap: 16px;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.02);
 }
 
-.action-btn {
-    width: 42px;
-    height: 42px;
+.affiliation-file-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #e2e8f0;
+    transition: background 0.3s ease;
+}
+
+.affiliation-file-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.08);
+    border-color: #cbd5e1;
+}
+
+.affiliation-file-card:hover::before {
+    background: #ef4444;
+    /* PDF Red Accent */
+}
+
+/* Icon Box */
+.file-icon-box {
+    width: 48px;
+    height: 48px;
+    background: #fef2f2;
     border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #ef4444;
+    font-size: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.affiliation-file-card:hover .file-icon-box {
+    background: #ef4444;
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+/* File Info */
+.file-info {
+    flex: 1;
+    min-width: 0;
+    /* For truncation text */
+}
+
+.file-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1e293b;
+    margin: 0;
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.affiliation-file-card:hover .file-title {
+    color: #0f172a;
+}
+
+/* Download Button */
+.file-download-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
     background: #f1f5f9;
     color: #64748b;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-size: 1rem;
+    margin-left: auto;
+    flex-shrink: 0;
 }
 
-.document-row:hover .action-btn {
-    background: #2563eb;
+.affiliation-file-card:hover .file-download-btn {
+    background: #3b82f6;
+    /* Blue Highlight */
     color: #ffffff;
-    transform: scale(1.1);
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
+
+
 
 /* --- Headings --- */
 .iqac-tab-heading {
@@ -244,61 +298,301 @@
     .tab-content-wrapper {
         padding: 20px;
     }
+
+    .affiliation-file-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
 }
 
 /* --- Utilities --- */
 .fade-in {
-    animation: fadeIn 0.4s ease-in-out;
+    animation: fadeIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 @keyframes fadeIn {
     from {
         opacity: 0;
+        transform: translateY(10px);
     }
 
     to {
         opacity: 1;
+        transform: translateY(0);
     }
 }
 
-/* --- Simple File List Styles --- */
-.simple-file-list {
+/* --- Premium Tabs Navigation --- */
+.tab-nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.outer-tab-nav {
+    background: #0f172a;
+    /* Slate 900 */
+    padding: 12px 16px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.3);
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tab-link {
+    background: transparent;
+    border: none;
+    color: #94a3b8;
+    /* Slate 400 */
+    font-weight: 600;
+    padding: 12px 24px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.outer-tab-nav .tab-link:hover {
+    color: #cbd5e1;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.outer-tab-nav .tab-link.active {
+    background: #3b82f6;
+    /* Blue 500 */
+    color: #ffffff;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.5);
+}
+
+/* Inner Tabs (Underline Style) */
+.inner-tab-nav {
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 0;
+    gap: 30px;
+    margin-bottom: 35px;
+    justify-content: flex-start;
+}
+
+.inner-tab-nav .tab-link {
+    color: #64748b;
+    border-radius: 0;
+    padding: 12px 5px;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.inner-tab-nav .tab-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #009EDB;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.inner-tab-nav .tab-link.active {
+    color: #009EDB;
+}
+
+.inner-tab-nav .tab-link.active::after {
+    transform: scaleX(1);
+}
+
+/* --- Premium Tables --- */
+.table-responsive {
+    overflow-x: auto;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    background: white;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 20px;
+    max-width: 900px;
+    /* Constrain width to avoid empty space */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-responsive.wide-table {
+    max-width: 100%;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    color: #334155;
+}
+
+.table thead th {
+    background: #f8fafc;
+    color: #475569;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    padding: 16px 20px;
+    border-bottom: 2px solid #e2e8f0;
+    text-align: center;
+    /* Default center for headers */
+}
+
+/* First column left align usually looks better for names, but user asked for centers. Keeping versatile. */
+.table tbody td {
+    padding: 16px 20px;
+    border-bottom: 1px solid #f1f5f9;
+    vertical-align: middle;
+    transition: background 0.2s;
+}
+
+.table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.table tbody tr:hover td {
+    background: #f8fafc;
+}
+
+/* Links inside tables */
+.table a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: color 0.2s;
+}
+
+.table a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
+/* --- Typography --- */
+.heading {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin-bottom: 25px;
+    /* background: linear-gradient(90deg, #1e293b, #334155); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    position: relative;
+    display: block;
+    border-bottom: 3px solid #e2e8f0;
+    padding-bottom: 15px;
+}
+
+.heading::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: #3b82f6;
+}
+
+h5 {
+    color: #475569;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* --- Content Areas --- */
+.tab-render-area {
+    min-height: 300px;
+}
+
+/* Helper for lists of downloads */
+.clean-file-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
     margin-top: 20px;
 }
 
-.simple-doc-item {
-    margin-bottom: 25px;
+.clean-file-item {
+    background: #f8fafc;
+    padding: 16px 20px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #f1f5f9;
+    transition: all 0.2s;
 }
 
-.doc-text {
-    font-size: 1rem;
-    color: #333;
-    line-height: 1.6;
-    margin-bottom: 0;
+.clean-file-item:hover {
+    background: #fff;
+    border-color: #cbd5e1;
+    box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.05);
+    transform: translateY(-2px);
+}
+
+.file-name-text {
     font-weight: 500;
+    color: #334155;
 }
 
-.download-link {
-    color: #007bff;
-    text-decoration: none;
+.text-download-link {
+    color: #ef4444;
+    /* Red 500 */
     font-weight: 600;
-    transition: color 0.2s ease;
+    text-decoration: none;
+    font-size: 0.85rem;
+    background: rgba(239, 68, 68, 0.1);
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: all 0.2s;
+    white-space: nowrap;
 }
 
-.download-link:hover {
-    color: #0056b3;
-    text-decoration: underline;
+.text-download-link:hover {
+    background: #ef4444;
+    color: white;
+    box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+}
+
+/* Helper for alignment */
+.text-center {
+    text-align: center !important;
+}
+
+.text-left {
+    text-align: left !important;
 }
 
 /* --- Simplified Headings override --- */
 .iqac-tab-heading {
     font-size: 1.5rem;
-    font-weight: 500;
-    color: #1a1a1a;
-    margin-bottom: 20px;
-    display: block;
-    background: none;
-    -webkit-text-fill-color: initial;
+    font-weight: 700;
+    color: #1e3a8a;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.iqac-tab-heading::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, rgba(30, 58, 138, 0.2), transparent);
 }
 
 .iqac-tab-heading::before {
