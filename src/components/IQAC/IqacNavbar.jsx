@@ -45,11 +45,11 @@ const IqacNavbar = () => {
             <div className="iqac-nav-section">
                 <h4 className="iqac-nav-category">Resources</h4>
                 <ul className="iqac-nav-items">
-                    <li><NavLink to="/iqac/downloads" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faDownload} className="iqac-nav-icon" /> Downloads</NavLink></li>
+                    <li><NavLink to="/iqac/downloads" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faDownload} className="iqac-nav-icon" /> Download IQAC Files</NavLink></li>
                     <li>
                         <NavLink to="/iqac/circulars" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}>
                             <FontAwesomeIcon icon={faBullhorn} className="iqac-nav-icon" /> Circulars
-                            <span className="iqac-badge-new">NEW</span>
+                            {/* <span className="iqac-badge-new">NEW</span> */}
                         </NavLink>
                     </li>
                     <li><NavLink to="/iqac/gallery" className={({ isActive }) => `iqac-nav-link ${isActive ? 'active' : ''}`}><FontAwesomeIcon icon={faImages} className="iqac-nav-icon" /> Gallery</NavLink></li>

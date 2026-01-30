@@ -518,6 +518,36 @@ h5 {
     min-height: 300px;
 }
 
+.outer-tab-content {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 35px;
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    box-shadow: 0 10px 40px -5px rgba(0, 0, 0, 0.03);
+    position: relative;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+/* Subtle gradient accent at the top */
+.outer-tab-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #3b82f6, #06b6d4);
+    opacity: 0.8;
+}
+
+.outer-tab-content .heading {
+    margin-top: 0;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #f1f5f9;
+}
+
 /* Helper for lists of downloads */
 .clean-file-list {
     display: flex;
