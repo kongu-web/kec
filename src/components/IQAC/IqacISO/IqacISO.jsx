@@ -1,0 +1,66 @@
+import React from 'react';
+import Navbar from '../../HomePage/navbar/Navbar';
+import Footer from '../../HomePage/Footer/Footer';
+import IqacNavbar from '../IqacNavbar';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
+import { iqacData } from '../iqacData';
+import '../IQAC.css';
+import './IqacISO.css';
+
+const IqacISO = () => {
+    return (
+        <div className="iqac-wrapper">
+            <Navbar />
+            <div className="iqac-container container-fluid p-0">
+                <IqacNavbar />
+                <div className="iqac-content fade-in-up">
+                    <h1 className="iqac-section-title">International Organization for Standardization (ISO)</h1>
+
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">About ISO</h2>
+                        <div className="iqac-card-body">
+                            <p className="alignment-justify iqac-text">
+                                ISO certifications represent a commitment to excellence and adherence to internationally recognized standards of quality, safety, and efficiency. The International Organization for Standardization (ISO) is an independent, non-governmental international organization that develops and publishes a wide range of standards across various industries and sectors. ISO certifications are valuable for organizations seeking to enhance their operational efficiency, improve customer satisfaction, and gain a competitive edge in the Nation and beyond.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">ISO @ KEC</h2>
+                        <div className="iqac-card-body">
+                            <p className="alignment-justify iqac-text">
+                                Kongu Engineering College is certified by ISO in accordance with ISO 9001:1993 from 1999, subsequently by ISO 9001:2000, and currently by ISO 9001:2015 in 2020, and recertified in 2023 for the scope of Curriculum Development and Conducting Undergraduate, Post Graduate, and Research Programmes in Engineering, Applied Sciences, and Management.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">Certificates & Downloads</h2>
+                        <div className="iqac-card-body">
+                            <div className="file-grid">
+                                {iqacData.iso.map((file, index) => (
+                                    <a
+                                        key={index}
+                                        href={file.path}
+                                        className="file-card"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <div className="file-icon-wrapper">
+                                            <i className="fa-regular fa-file-pdf"></i>
+                                        </div>
+                                        <span className="file-name">{file.name}</span>
+                                        <i className="fa-solid fa-download download-icon"></i>
+                                    </a>
+                                ))}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <Footer />
+        </div>
+    );
+};
+export default IqacISO;

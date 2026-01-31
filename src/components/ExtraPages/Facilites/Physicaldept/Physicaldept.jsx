@@ -62,7 +62,7 @@ const Physicaldept = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="physical-wrapper">
-        <h1 className="physical-title">Department of Physical Education</h1>
+        <h1 className="page-title">Department of Physical Education</h1>
 
         <nav className="physical-nav">
           {[

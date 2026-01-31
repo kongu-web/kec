@@ -1,0 +1,91 @@
+/* IqacGallery.css */
+/* Common styles are now imported from ../IQAC.css */
+
+.iqac-gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.iqac-gallery-item {
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    height: 200px;
+}
+
+.iqac-gallery-item:hover {
+    transform: scale(1.05);
+}
+
+.iqac-gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Archive Section Styles */
+.archived-section {
+    margin-top: 40px;
+    border-top: 1px solid #e2e8f0;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.archive-toggle {
+    background: #fff;
+    border: 1px solid #cbd5e1;
+    color: #475569;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    margin: 0 auto 20px;
+    /* Center button */
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    outline: none;
+}
+
+.archive-toggle:hover,
+.archive-toggle.active {
+    background: #1e3a8a;
+    color: #fff;
+    border-color: #1e3a8a;
+    box-shadow: 0 5px 15px rgba(30, 58, 138, 0.2);
+}
+
+.archive-collapse {
+    /* Simple Animation */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out, opacity 0.5s ease;
+    opacity: 0;
+}
+
+.archive-collapse.show {
+    max-height: 2000px;
+    /* Arbitrary large height */
+    opacity: 1;
+}
+
+/* Responsive Adjustments for Gallery */
+@media (max-width: 768px) {
+    .iqac-gallery-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .iqac-gallery-item {
+        height: 250px;
+        /* Increased height on mobile */
+    }
+}

@@ -1,0 +1,91 @@
+/* IqacNba.css */
+/* Common styles are now imported from ../IQAC.css */
+
+/* --- NBA Specific Table Styles --- */
+.nba-table-wrapper {
+    overflow-x: auto;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+
+.nba-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+.nba-table th,
+.nba-table td {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: middle;
+}
+
+.nba-table th {
+    background: #f1f5f9;
+    color: #334155;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.nba-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.nba-table tbody tr:hover {
+    background-color: #fafbfc;
+}
+
+.sn-col {
+    color: #64748b;
+    background-color: #f8fafc;
+    width: 60px;
+}
+
+.prog-col {
+    font-weight: 600;
+    color: #1e293b;
+    font-size: 1rem;
+    background-color: #ffffff;
+}
+
+.letter-col {
+    font-size: 0.95rem;
+}
+
+.period-col {
+    font-size: 0.95rem;
+    color: #475569;
+    white-space: nowrap;
+}
+
+.nba-link {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.nba-link:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
+.nba-link i {
+    color: #dc2626;
+    /* PDF icon color */
+}
+
+@media (max-width: 768px) {
+
+    .nba-table th,
+    .nba-table td {
+        padding: 12px 15px;
+    }
+}

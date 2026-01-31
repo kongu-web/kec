@@ -9,7 +9,7 @@
   }
 }
 .dispensary-container {
-    padding: 8rem 2rem 2rem;
+    padding: 2rem 2rem 2rem;
     background: linear-gradient(135deg, #e0f7fa, #e0f2f1);
     min-height: 100vh;
     font-family: 'Segoe UI', sans-serif;
@@ -36,7 +36,7 @@
   
   .dispensary-section h3 {
     font-size: 1.6rem;
-    color: #00695c;
+    color: #009edb;
     margin-bottom: 1rem;
     border-bottom: 2px solid #b2dfdb;
     padding-bottom: 0.5rem;
