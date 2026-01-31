@@ -14,7 +14,7 @@ function ExcellenceInPlacements() {
     <section className="eip-placement-section">
       <div className="placement-wrapper">
         <span className="placement-pill">Excellence In Placements @ KEC</span>
-        <h2>Results That Resonate – 2024 to 2025</h2>
+        <h2>Results That Resonate (2024 - 2025)</h2>
         <p className="placement-subtitle">
           The leading companies across diverse industries recruit our students.
         </p>

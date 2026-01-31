@@ -203,11 +203,11 @@ const phDProgrammes = [
   { sno: 6, name: "Electronics and Communication Engineering", icon: <FaBroadcastTower />, route: "ece" },
   { sno: 7, name: "Electrical and Electronics Engineering", icon: <FaBolt />, route: "eee" },
   { sno: 8, name: "Electronics and Instrumentation Engineering", icon: <FaMicrochip />, route: "eie" },
-  { sno: 9, name: "Chemical Engineering", icon: <FaFlask />, route: "chemical" },
-  { sno: 10, name: "Food Technology", icon: <FaAppleAlt />, route: "food_technology" },
-  { sno: 11, name: "Mechanical Engineering", icon: <FaCogs />, route: "mechanical" },
-  { sno: 12, name: "Mechatronics Engineering", icon: <FaRobot />, route: "mechatronics" },
-  { sno: 13, name: "Automobile Engineering", icon: <FaCar />, route: "automobile" },
+  { sno: 9, name: "Chemical Engineering", icon: <FaFlask />, route: "chem" },
+  { sno: 10, name: "Food Technology", icon: <FaAppleAlt />, route: "foodtech" },
+  { sno: 11, name: "Mechanical Engineering", icon: <FaCogs />, route: "mech" },
+  { sno: 12, name: "Mechatronics Engineering", icon: <FaRobot />, route: "mts" },
+  { sno: 13, name: "Automobile Engineering", icon: <FaCar />, route: "auto" },
   { sno: 14, name: "Civil Engineering", icon: <FaBuilding />, route: "civil" },
   { sno: 15, name: "Computer Technology", icon: <FaLaptopCode />, route: "ctug" },
   { sno: 16, name: "Master of Computer Applications", icon: <FaGraduationCap />, route: "mca" },
@@ -244,15 +244,18 @@ const ApsPrograms = [
     duration: "3 Years",
     year: 2007,
     route: "ctug",
-  },
-  {
-    sno: 4,
-    name: "	M.Sc Software Systems",
-    icon: <FaLaptopCode />,
-    duration: "3 Years",
-    year: 2007,
-    route: "ctug",
   }
+];
+
+const ApsPgPrograms = [
+  {
+    sno: 1,
+    name: "M.Sc Software Systems",
+    icon: <FaLaptopCode />,
+    duration: "5 Years",
+    year: 2007,
+    route: "ctpg",
+  },
 ];
 
 
@@ -266,7 +269,7 @@ const programMap = {
 const programTitles = {
   ug: "Undergraduate Programmes",
   pg: "Postgraduate Programmes",
-  as: "Applied Science Programmes",
+  as: "Computer Technology (UG)",
   sh: "Doctorate Programmes",
 };
 
@@ -318,8 +321,8 @@ function AcademicsSection() {
               <img src={card3} />
             </div>
             <div>
-              <h4>Applied Science</h4>
-              <p>Computer Technology</p>
+              <h4>Computer Technology</h4>
+              <p>B.Sc / M.Sc</p>
             </div>
           </div>
 
@@ -352,6 +355,24 @@ function AcademicsSection() {
               </Link>
             ))}
           </div>
+
+          {active === "as" && (
+            <>
+              <h3 style={{ marginTop: "30px" }}>Computer Technology (PG)</h3>
+              <div className="program-grid">
+                {ApsPgPrograms.map((item) => (
+                  <Link
+                    key={item.sno}
+                    to={`/${item.route}`}
+                    className="program-item"
+                  >
+                    <span className="program-icon">{item.icon}</span>
+                    <span>{item.name}</span>
+                  </Link>
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </section>

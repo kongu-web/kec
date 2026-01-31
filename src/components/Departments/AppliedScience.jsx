@@ -53,7 +53,7 @@ const AppliedScience = () => {
       {/* <Section/> */}
       <Navbar />
       <div className="ug-container">
-        <h2 className="page-title">Applied Sciences Programmes (UG)</h2>
+        <h2 className="page-title">Computer Technology Programmes (UG)</h2>
         <div className="aps-table-wrapper">
           <table className="aps-table">
             <thead>
@@ -83,7 +83,7 @@ const AppliedScience = () => {
             </tbody>
           </table>
         </div>
-        <h2 className="page-title">Master of Science</h2>
+        <h2 className="page-title">Computer Technology Programmes (PG)</h2>
         <div className="aps-table-wrapper">
           <table className="aps-table">
             <thead>
