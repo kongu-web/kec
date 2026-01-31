@@ -195,30 +195,60 @@
 /* Specific Card Styling & Grid Placement */
 
 /* Quality Plan (Small Card) */
+/* Quality Plan (Small Card) */
 .quality-plan {
     grid-column: span 4;
 }
 
-.quality-plan h4::before {
-    background: #8b5cf6;
+/* Header Styling - White Background */
+.quality-plan h4 {
+    background: #ffffff !important;
+    border-bottom: 1px solid #f1f5f9;
+    color: #1e293b;
+    font-size: 1.15rem;
+    font-weight: 800;
 }
 
-/* Purple */
+/* Purple Accent Bar */
+.quality-plan h4::before {
+    background: #8b5cf6 !important;
+    width: 5px;
+    height: 20px;
+    border-radius: 4px;
+}
+
+/* Center Content */
+.quality-plan ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 1rem;
+}
+
+/* Purple Button Styling */
 .quality-plan .download-link {
     background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
     color: white;
     justify-content: center;
-    padding: 1rem;
-    margin-top: 1rem;
-    font-weight: 600;
-    box-shadow: 0 4px 6px -1px rgba(139, 92, 246, 0.3);
+    padding: 16px 24px;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+    width: 100%;
+    max-width: 300px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: none;
 }
 
 .quality-plan .download-link:hover {
     background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
-    padding-left: 1rem;
-    transform: translateY(-2px);
-    box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.3);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(139, 92, 246, 0.5);
+    padding-left: 24px;
+    /* Override generic slide effect */
+    color: white;
 }
 
 
