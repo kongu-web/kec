@@ -1,7 +1,7 @@
 import React from "react";
 import "./AboutSection.css";
 // import campusImg from "../../../assets/images/2.png";
-import campusImg from "../../../assets/images/WebAlbum/kec.jpg";
+import campusImg from "../../../assets/images/WebAlbum/kec.jpeg";
 
 
 function AboutSection() {
