@@ -70,7 +70,7 @@ const IqacHome = () => {
                     <div className="iqac-info-card mb-5">
                         <h2 className="iqac-card-title-home">
                             <FontAwesomeIcon icon={faInfoCircle} className="iqac-card-icon" />
-                            ABOUT IQAC
+                            About IQAC
                         </h2>
                         <p className="iqac-text mb-0">
                             Kongu Engineering College has established the Internal Quality Assurance Cell (IQAC) from 2015 for performance evaluation, assessment, accreditation, and quality upgradation. Since quality enhancement is a continuous process, the IQAC becomes a vital part of the institution’s system, working towards the realization of goals for quality enhancement and sustenance.
@@ -82,7 +82,7 @@ const IqacHome = () => {
                         <div className="iqac-info-card">
                             <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faBullseye} className="iqac-card-icon" />
-                                OBJECTIVES
+                                Objectives
                             </h2>
                             <ul className="iqac-list-styled">
                                 <li>To enhance the quality of teaching, learning, evaluation and research activities across the campus.</li>
@@ -94,7 +94,7 @@ const IqacHome = () => {
                         <div className="iqac-info-card">
                             <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faChessKnight} className="iqac-card-icon" />
-                                STRATEGIES
+                                Strategies
                             </h2>
                             <ul className="iqac-list-styled">
                                 <li>Ensuring timely, efficient, and progressive performance of academic, administrative, and financial tasks.</li>
@@ -111,7 +111,7 @@ const IqacHome = () => {
                         <div className="iqac-info-card">
                             <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faCogs} className="iqac-card-icon" />
-                                FUNCTIONS
+                                Functions
                             </h2>
                             <ul className="iqac-list-styled">
                                 <li>Development and application of quality benchmarks/parameters.</li>
@@ -126,7 +126,7 @@ const IqacHome = () => {
                         <div className="iqac-info-card">
                             <h2 className="iqac-card-title-home">
                                 <FontAwesomeIcon icon={faChartLine} className="iqac-card-icon" />
-                                BENEFITS
+                                Benefits
                             </h2>
                             <ul className="iqac-list-styled">
                                 <li>Ensure heightened level of clarity and focus in institutional functioning.</li>
@@ -144,7 +144,7 @@ const IqacHome = () => {
                         <div className="iqac-info-card bg-light border-0">
                             <h2 className="iqac-card-title-home justify-content-center">
                                 <FontAwesomeIcon icon={faTrophy} className="iqac-card-icon" />
-                                OUTCOMES & RECOGNITION
+                                Outcomes & Recognition
                             </h2>
                             <div className="iqac-grid-outcomes">
                                 {outcomeImages.map((outcome, idx) => (
