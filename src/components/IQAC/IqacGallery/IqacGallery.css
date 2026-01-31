@@ -3,7 +3,7 @@
 
 .iqac-gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 15px;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -75,4 +75,17 @@
     max-height: 2000px;
     /* Arbitrary large height */
     opacity: 1;
+}
+
+/* Responsive Adjustments for Gallery */
+@media (max-width: 768px) {
+    .iqac-gallery-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .iqac-gallery-item {
+        height: 250px;
+        /* Increased height on mobile */
+    }
 }
