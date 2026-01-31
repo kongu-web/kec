@@ -453,7 +453,8 @@
     }
 
     .college-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
+        /* Slightly smaller for mobile */
     }
 
     .quality-plan,
@@ -463,4 +464,11 @@
     .doc-files {
         grid-column: span 1;
     }
+}
+
+/* Ensure text doesn't overflow */
+.file-list li a,
+.download-link {
+    word-break: break-word;
+    hyphens: auto;
 }

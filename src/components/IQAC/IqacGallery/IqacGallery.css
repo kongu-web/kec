@@ -76,3 +76,17 @@
     /* Arbitrary large height */
     opacity: 1;
 }
+
+/* Responsive Adjustments for Gallery */
+@media (max-width: 768px) {
+    .iqac-gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        /* Smaller cards on mobile */
+        gap: 10px;
+    }
+
+    .iqac-gallery-item {
+        height: 150px;
+        /* Reduced height on mobile */
+    }
+}
