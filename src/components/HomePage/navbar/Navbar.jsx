@@ -187,28 +187,28 @@ const Navbar = () => {
           </div>
 
           <div className="utility-right">
-            <div
+            {/* <div
               className="nav-item has-submenu"
               onMouseEnter={() => {
                 setActiveUtilityMenu(true);
                 setActiveDropdown(null); // 🔥 CLOSE CENTER MENU
               }}
               onMouseLeave={() => setActiveUtilityMenu(false)}
-            >
-              <a href="#">Accreditation</a>
+            > */}
+              <a href="/iqac">Accreditation</a>
 
-              {activeUtilityMenu && (
+              {/* {activeUtilityMenu && (
                 <div className="submenu">
                   <a href="/nba">NBA</a>
                   <a href="/naac">NAAC</a>
                   {/* <a href="/iqac">IQAC</a> */}
-                  <a href="/nirf">NIRF</a>
+                  {/* <a href="/nirf">NIRF</a>
                   <a href="/aicteet">AICTE - E&T</a>
                   <a href="/aictemca">AICTE - MCA</a>
                   <a href="/aictemba">AICTE - MBA</a>
                 </div>
               )}
-            </div>
+            </div> */}
 
             <a href="https://kongu.ac.in/blogs/">Blogs</a>
 
