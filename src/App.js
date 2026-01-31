@@ -109,22 +109,22 @@ import Recruitment from './components/FooterContents/QuickLinks/Recruitment/Recr
 import HelpDeskCommittee from './components/FooterContents/StudentsCorner/HelpDeskCommittee/HelpDeskCommittee.jsx';
 
 // IQAC Module
-import IqacHome from './components/IQAC/IqacHome/IqacHome';
-import IqacComposition from './components/IQAC/IqacComposition/IqacComposition';
-import IqacHierarchy from './components/IQAC/IqacHierarchy/IqacHierarchy';
-import IqacISO from './components/IQAC/IqacISO/IqacISO';
-import IqacAffiliation from './components/IQAC/IqacAffiliation/IqacAffiliation';
-import IqacMeetings from './components/IQAC/IqacMeetings/IqacMeetings';
-import IqacAudit from './components/IQAC/IqacAudit/IqacAudit';
-import IqacStrategicPlan from './components/IQAC/IqacStrategicPlan/IqacStrategicPlan';
-import IqacBestPractices from './components/IQAC/IqacBestPractices/IqacBestPractices';
-import IqacAnnualReport from './components/IQAC/IqacAnnualReport/IqacAnnualReport';
-import IqacCirculars from './components/IQAC/IqacCirculars/IqacCirculars';
-import IqacDownloads from './components/IQAC/IqacDownloads/IqacDownloads';
-import IqacGallery from './components/IQAC/IqacGallery/IqacGallery';
-import IqacNaac from './components/IQAC/IqacNaac/IqacNaac';
-import IqacNba from './components/IQAC/IqacNba/IqacNba';
-import IqacNirf from './components/IQAC/IqacNirf/IqacNirf';
+import IqacHome from './components/IQAC/IqacHome/IqacHome.jsx';
+import IqacComposition from './components/IQAC/IqacComposition/IqacComposition.jsx';
+import IqacHierarchy from './components/IQAC/IqacHierarchy/IqacHierarchy.jsx';
+import IqacISO from './components/IQAC/IqacISO/IqacISO.jsx';
+import IqacAffiliation from './components/IQAC/IqacAffiliation/IqacAffiliation.jsx';
+import IqacMeetings from './components/IQAC/IqacMeetings/IqacMeetings.jsx';
+import IqacAudit from './components/IQAC/IqacAudit/IqacAudit.jsx';
+import IqacStrategicPlan from './components/IQAC/IqacStrategicPlan/IqacStrategicPlan.jsx';
+import IqacBestPractices from './components/IQAC/IqacBestPractices/IqacBestPractices.jsx';
+import IqacAnnualReport from './components/IQAC/IqacAnnualReport/IqacAnnualReport.jsx';
+import IqacCirculars from './components/IQAC/IqacCirculars/IqacCirculars.jsx';
+import IqacDownloads from './components/IQAC/IqacDownloads/IqacDownloads.jsx';
+import IqacGallery from './components/IQAC/IqacGallery/IqacGallery.jsx';
+import IqacNaac from './components/IQAC/IqacNaac/IqacNaac.jsx';
+import IqacNba from './components/IQAC/IqacNba/IqacNba.jsx';
+import IqacNirf from './components/IQAC/IqacNirf/IqacNirf.jsx';
 
 import Spinner from './components/Spinner.jsx';
 import Rankings from './components/ExtraPages/Rankings/Rankings.jsx';
@@ -137,7 +137,7 @@ import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
 import ScrollToTop from './components/ScrollToTop.jsx';
-import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife.jsx';
+import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
