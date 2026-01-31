@@ -1,3 +1,436 @@
 /* IqacDownloads.css */
-/* Common styles are now imported from ../IQAC.css */
-/* Add specific overrides here if needed */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+/* Main Page Container Override */
+.iqac-content.downloads-page {
+    background: #f0f4f8;
+    background-image:
+        radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 0) 0, hsla(253, 16%, 7%, 0) 50%),
+        radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 0.05) 0, hsla(225, 39%, 30%, 0) 50%),
+        radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 0) 0, hsla(339, 49%, 30%, 0) 50%);
+    box-shadow: none;
+    border-radius: 0;
+    min-height: 100vh;
+    padding: 3rem;
+    font-family: 'Outfit', sans-serif;
+    color: #1e293b;
+}
+
+/* Header Redesign */
+.downloads-header-modern {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 4rem;
+    position: relative;
+    padding: 2.5rem;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(12px);
+    border-radius: 20px;
+    box-shadow:
+        0 4px 6px -1px rgba(0, 0, 0, 0.05),
+        /* Small shadow */
+        0 10px 15px -3px rgba(0, 0, 0, 0.05);
+    /* Spread shadow */
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.header-decoration {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    background: linear-gradient(90deg, #2563eb, #8b5cf6, #ec4899);
+    border-radius: 20px 20px 0 0;
+}
+
+.header-text-comp {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.college-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin: 0;
+    letter-spacing: -0.02em;
+    background: linear-gradient(to right, #0f172a, #334155);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.dept-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #64748b;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+}
+
+.page-label {
+    background: linear-gradient(to bottom, #ffffff, #f1f5f9);
+    padding: 0.75rem 1.5rem;
+    border-radius: 12px;
+    font-weight: 700;
+    color: #334155;
+    border: 1px solid #e2e8f0;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+/* Grid Layout */
+.downloads-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 2rem;
+    align-items: start;
+}
+
+/* Card General Styles */
+.download-card {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.download-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.01);
+    border-color: rgba(37, 99, 235, 0.1);
+}
+
+/* Card Header */
+.download-card h4 {
+    background: #f8fafc;
+    color: #334155;
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid #e2e8f0;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.download-card h4::before {
+    content: '';
+    display: block;
+    width: 4px;
+    height: 18px;
+    background: #2563eb;
+    border-radius: 2px;
+}
+
+/* Content Area */
+.download-card ul {
+    padding: 1rem;
+    margin: 0;
+    list-style: none;
+    flex-grow: 1;
+}
+
+/* Styling for specific lists */
+.file-list li {
+    margin-bottom: 0.5rem;
+}
+
+.file-list li:last-child {
+    margin-bottom: 0;
+}
+
+/* Interactive List Items */
+.file-list li a,
+.download-link {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #475569;
+    font-size: 0.95rem;
+    font-weight: 500;
+    background: transparent;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.file-list li a:hover,
+.download-link:hover {
+    background: #eff6ff;
+    color: #1d4ed8;
+    border-color: rgba(37, 99, 235, 0.1);
+    padding-left: 1.25rem;
+    /* Slide effect */
+}
+
+/* Icon Styling */
+.file-icon {
+    width: 2rem;
+    text-align: center;
+    margin-right: 0.75rem;
+    font-size: 1.25rem;
+    transition: transform 0.2s ease;
+}
+
+.file-list li a:hover .file-icon {
+    transform: scale(1.1);
+}
+
+/* Specific Card Styling & Grid Placement */
+
+/* Quality Plan (Small Card) */
+.quality-plan {
+    grid-column: span 4;
+}
+
+.quality-plan h4::before {
+    background: #8b5cf6;
+}
+
+/* Purple */
+.quality-plan .download-link {
+    background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    color: white;
+    justify-content: center;
+    padding: 1rem;
+    margin-top: 1rem;
+    font-weight: 600;
+    box-shadow: 0 4px 6px -1px rgba(139, 92, 246, 0.3);
+}
+
+.quality-plan .download-link:hover {
+    background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+    padding-left: 1rem;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.3);
+}
+
+
+/* === Roles Card Specific Styling (Enhanced) === */
+.roles {
+    grid-column: span 4;
+}
+
+/* Clean White Header */
+.roles h4 {
+    background: #ffffff !important;
+    border-bottom: 1px solid #f1f5f9;
+    color: #1e293b;
+    font-size: 1.15rem;
+    font-weight: 800;
+}
+
+/* Amber Accent Bar */
+.roles h4::before {
+    background: #f59e0b !important;
+    width: 5px;
+    height: 20px;
+    border-radius: 4px;
+}
+
+/* Centered Button Layout */
+.roles ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 1rem;
+}
+
+.roles-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    background: #fff;
+    border: 2px solid #f1f5f9;
+    padding: 1.5rem 3rem;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    color: #334155;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.roles-link::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: -1;
+}
+
+.roles-link:hover {
+    border-color: #f59e0b;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px -5px rgba(245, 158, 11, 0.15);
+}
+
+.roles-link:hover::before {
+    opacity: 1;
+}
+
+.roles-link .icon-box {
+    font-size: 2rem;
+    color: #cbd5e1;
+    /* Initial muted color */
+    transition: all 0.3s ease;
+    background: #f8fafc;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roles-link:hover .icon-box {
+    color: #f59e0b;
+    /* Amber active color */
+    background: #fff;
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(245, 158, 11, 0.2);
+}
+
+.roles-link span {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #475569;
+    transition: color 0.3s ease;
+}
+
+.roles-link:hover span {
+    color: #d97706;
+    /* Darker amber text */
+}
+
+
+/* === Other Cards Restored === */
+
+/* CO-PO (Medium Card) */
+.copo-sheet {
+    grid-column: span 4;
+}
+
+.copo-sheet h4::before {
+    background: #10b981;
+}
+
+/* Emerald */
+
+/* PDF Files (Large Card) */
+.pdf-files {
+    grid-column: span 6;
+    background: linear-gradient(to bottom, #ffffff, #fdf4f4);
+    /* Subtle red tint */
+}
+
+.pdf-files h4::before {
+    background: #ef4444;
+}
+
+/* Red Header */
+
+/* DOC Files (Large Card) */
+.doc-files {
+    grid-column: span 6;
+    background: linear-gradient(to bottom, #ffffff, #f0f9ff);
+    /* Subtle blue tint */
+}
+
+.doc-files h4::before {
+    background: #3b82f6;
+}
+
+/* Blue Header */
+
+
+/* Global File Icon Colors */
+.file-icon.pdf {
+    color: #ef4444;
+    /* Red */
+}
+
+.file-icon.word {
+    color: #3b82f6;
+    /* Blue */
+}
+
+.file-icon.excel {
+    color: #10b981;
+    /* Green */
+}
+
+
+/* Responsive Behavior */
+@media (max-width: 1200px) {
+
+    .quality-plan,
+    .roles,
+    .copo-sheet {
+        grid-column: span 6;
+    }
+
+    .pdf-files,
+    .doc-files {
+        grid-column: span 12;
+    }
+}
+
+@media (max-width: 991px) {
+    .downloads-header-modern {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+    }
+
+    .page-label {
+        align-self: flex-start;
+    }
+}
+
+@media (max-width: 768px) {
+    .downloads-page {
+        padding: 1.5rem;
+    }
+
+    .downloads-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .college-title {
+        font-size: 2rem;
+    }
+
+    .quality-plan,
+    .roles,
+    .copo-sheet,
+    .pdf-files,
+    .doc-files {
+        grid-column: span 1;
+    }
+}
