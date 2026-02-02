@@ -600,6 +600,11 @@ const Navbar = () => {
                     IEF
                   </span>
 
+                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank") }>
+                    <GeneralIcon className="submenu-icon" />
+                    SCC (Student Counselling Cell - Portal)
+                  </span>
+
                   {/* External pages (open in new tab) */}
                   <span
                     onClick={() =>
@@ -899,6 +904,8 @@ const Navbar = () => {
                     <li onClick={() => navigate("/facilities")}>Facilities</li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
+
+                    <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
 
                     {/* External pages */}
                     <li

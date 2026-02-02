@@ -78,4 +78,41 @@
       transform: translateY(0);
     }
   }
+
+  /* Portal CTA */
+  .counselling-portal {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .portal-text {
+    font-size: 1.05rem;
+    color: #374151;
+    margin-bottom: 0.6rem;
+  }
+
+  .portal-btn {
+    display: inline-block;
+    background-color: #0066cc;
+    color: #fff;
+    padding: 0.7rem 1.2rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+    box-shadow: 0 6px 18px rgba(3, 102, 214, 0.16);
+  }
+
+  .portal-btn:hover {
+    transform: translateY(-2px);
+    opacity: 0.95;
+  }
+
+  @media (max-width: 768px) {
+    .portal-btn {
+      width: 90%;
+      max-width: 320px;
+      padding: 0.7rem 1rem;
+    }
+  }
   
