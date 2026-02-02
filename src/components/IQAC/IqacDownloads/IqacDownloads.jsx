@@ -3,9 +3,13 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf, faFileExcel, faFileWord, faDownload, faUserTie } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faFileExcel, faFileWord, faDownload, faUserTie, faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
+import { faGoogle } from '@fortawesome/free-brands-svg-icons';
 import '../IQAC.css';
 import './IqacDownloads.css';
+import { useAuth } from '../../../context/AuthContext';
+import { useState } from 'react';
+
 
 const BASE_PATH = "/files/iqac/downloads";
 
@@ -37,6 +41,62 @@ const docFiles = [
 ];
 
 const IqacDownloads = () => {
+    const { isAuthenticated, loginWithGoogle, logout, user } = useAuth();
+    const [error, setError] = useState('');
+
+    const handleGoogleLogin = async () => {
+        setError('');
+        const result = await loginWithGoogle();
+        if (!result.success) {
+            setError(result.error);
+        }
+    };
+
+    if (!isAuthenticated) {
+        return (
+            <div className="iqac-wrapper">
+                <Navbar />
+                <div className="iqac-container container-fluid p-0">
+                    <IqacNavbar />
+                    <div className="iqac-content downloads-page">
+                        <div className="downloads-header-modern">
+                            <div className="header-decoration"></div>
+                            <div className="header-text-comp">
+                                <h1 className="college-title">Kongu Engineering College</h1>
+                                <h2 className="dept-title">Internal Quality Assurance Cell (IQAC)</h2>
+                            </div>
+                            <div className="page-label">
+                                <span>IQAC Documents Format</span>
+                            </div>
+                        </div>
+
+                        <div className="d-flex justify-content-center align-items-center" style={{ minHeight: '400px' }}>
+                            <div className="card p-4 shadow" style={{ maxWidth: '400px', width: '100%', borderRadius: '15px' }}>
+                                <h3 className="text-center mb-4" style={{ color: '#2c3e50', fontWeight: '600' }}>Login to Download</h3>
+
+                                <div className="text-center mb-4">
+                                    <p className="text-muted">Please sign in with your institutional account to access IQAC documents.</p>
+                                </div>
+
+                                <button onClick={handleGoogleLogin} className="google-sign-in-btn">
+                                    <FontAwesomeIcon icon={faGoogle} className="google-icon-wrapper" />
+                                    <span>Sign in with Google</span>
+                                </button>
+
+                                {error && <div className="alert alert-danger mt-3 p-2" style={{ fontSize: '0.9rem' }}>{error}</div>}
+
+                                <div className="mt-4 text-center text-muted" style={{ fontSize: '0.8rem' }}>
+                                    <small>Restricted to @kongu.edu email addresses only</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <Footer />
+            </div>
+        );
+    }
+
     return (
         <div className="iqac-wrapper">
             <Navbar />
@@ -51,6 +111,26 @@ const IqacDownloads = () => {
                         </div>
                         <div className="page-label">
                             <span>IQAC Documents Format</span>
+                        </div>
+                    </div>
+
+                    {/* User Controls */}
+                    <div className="user-controls-bar">
+                        <div className="user-profile-pill">
+                            <div className="user-info">
+                                <div className="user-avatar-icon">
+                                    <FontAwesomeIcon icon={faUserTie} />
+                                </div>
+                                <span>{user?.email}</span>
+                            </div>
+                            <div className="v-divider" style={{ height: '20px', width: '1px', background: '#e2e8f0' }}></div>
+                            <button
+                                onClick={logout}
+                                className="logout-btn-modern"
+                            >
+                                <FontAwesomeIcon icon={faSignOutAlt} />
+                                Logout
+                            </button>
                         </div>
                     </div>
 
