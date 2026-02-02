@@ -5,7 +5,7 @@
     display: grid;
     grid-template-columns: 1fr 1.3fr;
     gap: 50px;
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
     align-items: center;
     position: relative;
     padding: 20px;
@@ -50,14 +50,14 @@
 .iqac-home-content-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 35px;
-    margin-bottom: 60px;
+    gap: 25px;
+    margin-bottom: 20px;
 }
 
 .iqac-info-card {
     background: #ffffff;
     border-radius: 20px;
-    padding: 40px;
+    padding: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
     border: 1px solid rgba(0, 158, 219, 0.1);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -127,7 +127,7 @@
     position: relative;
     color: #556987;
     font-weight: 500;
-    line-height: 1.6;
+    line-height: 1.4;
     text-align: start;
 }
 
