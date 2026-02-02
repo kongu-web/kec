@@ -679,7 +679,7 @@ const Navbar = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Enquiry Now
+              Enquire Now
             </a>
 
             <img
@@ -730,7 +730,7 @@ const Navbar = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Enquiry Now
+                  Enquire Now
                 </a>
 
                 {/* <FontAwesomeIcon
