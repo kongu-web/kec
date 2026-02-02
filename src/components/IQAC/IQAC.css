@@ -267,6 +267,11 @@
         flex-direction: column;
     }
 
+    .iqac-content {
+        width: 100% !important;
+        padding: 10px;
+    }
+
     .iqac-navbar {
         width: 100%;
         min-height: auto;
