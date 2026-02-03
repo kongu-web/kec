@@ -8,6 +8,15 @@
     "poster": "others/events/sparkfund.jpeg",
     "link": "others/events/sparkfund.pdf"
   },
+   {
+    "name": "Hands-on Training",
+    "department": "AI",
+    "venue": "CC9 AI Block",
+    "dates": "February 27 2026",
+    "description": "Hands-On Training on Data Visualization and Analytics using Power BI",
+    "poster": "others/events/ai-powerbi.jpeg",
+    "link": "others/events/ai-powerbi.pdf"
+  },
     {
     "name": "Expert Lecture",
     "department": "Chemical Engineering",
@@ -25,6 +34,33 @@
     "description": "Inter Department Technical Symposium - EAREYES 2K26",
     "poster": "others/events/eie-eareyes.jpeg",
     "link": "https://eareyes2026.vercel.app"
+  },
+  {
+    "name": "Speaktron",
+    "department": "English",
+    "venue": "Sir C.V.Raman Seminar Hall, S&H Block, KEC",
+    "dates": "February 7 2026",
+    "description": "SPEAKTRON'26",
+    "poster": "others/events/english-speaktron.jpeg",
+    "link": "others/events/english-speaktron.pdf"
+  },
+  {
+    "name": "Workshop",
+    "department": "IT - MADC Events",
+    "venue": "G01 - IT Park",
+    "dates": "February 7 2026",
+    "description": "Generative AI : From Prompts to Intelligence Workshop",
+    "poster": "others/events/madc-ai.jpeg",
+    "link": "others/events/madc-ai.pdf"
+  },
+  {
+    "name": "Symposium",
+    "department": "Information Technology",
+    "venue": "MBA Seminar Hall",
+    "dates": "February 7 2026",
+    "description": "A National Level Technical Symposium - EPOCH'26",
+    "poster": "others/events/it-epoch.jpeg",
+    "link": "others/events/it-epoch.pdf"
   },
   {
     "name": "Symposium",
