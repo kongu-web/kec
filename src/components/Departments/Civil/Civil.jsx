@@ -128,9 +128,8 @@ const Civil = () => {
               {["vision", "mission", "peo", "po", "pso"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -216,9 +215,8 @@ const Civil = () => {
                 {autoData.labs.map((lab, index) => (
                   <div
                     key={index}
-                    className={`lab-card ${
-                      selectedLab === index ? "active" : ""
-                    }`}
+                    className={`lab-card ${selectedLab === index ? "active" : ""
+                      }`}
                     onClick={() => setSelectedLab(index)}
                   >
                     {lab.topic}
