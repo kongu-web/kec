@@ -71,8 +71,8 @@ const data = [
       ],
     },
     "National Cadet Corps (NCC)": {
-      Army: "CTO Dr. S. Manoj / Civil",
       Air: "Flying Officer. A. Jeevanantham / IT",
+      Army: "CTO Dr. S. Manoj / Civil",
     },
     "Higher Education Competitive Examination Cell": {
       Coordinators: [

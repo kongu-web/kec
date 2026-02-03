@@ -27,7 +27,7 @@ const AboutKec = () => {
           <h2 className="page-title">About KEC</h2>
           <img src={aboutImg} alt="About KEC" className="aboutkec-banner" />
 
-          <p>
+          {/* <p>
             Kongu Engineering College is an internationally recognised leader in multi-professional, research-led education. It offers interdisciplinary learning at the unique intersection of theory and practice, passion and reason. The college delivers frontier courses that bridge spiritual and practical aspects of intellectual life, within an environment that nurtures rigorous scholarship and a supportive community.
           </p>
           <p>
@@ -38,6 +38,19 @@ const AboutKec = () => {
           </p>
           <p>
             Affiliated with Anna University, Chennai, the college has delivered more than 40 years of committed service in technical education. The 167-acre campus is richly endowed with greenery and state-of-the-art infrastructure. With an excellent academic record, it has earned recognition as one of India's reputed educational institutions.
+          </p> */}
+
+          <p>
+            Kongu Engineering College is a recognised institution offering multi-disciplinary, research-oriented education. It provides interdisciplinary learning that integrates theoretical knowledge with practical application. The college offers programs designed to bridge technical expertise with broader intellectual development, fostering an environment of rigorous scholarship and community engagement.
+          </p>
+          <p>
+            The institution is managed by the Kongu Vellalar Institute of Technology Trust, located in Erode District, Tamil Nadu. Since its establishment in 1983, the Trust has developed the college into a prominent institution for value-based technical education.
+          </p>
+          <p>
+            The term "Kongu" refers to a region in southern India, while "Kongu Vellalar" denotes an agricultural community predominant in western Tamil Nadu. Historically, this region had limited access to higher educational facilities. Recognising the need for technical education to advance the region's economic development, 41 philanthropists from diverse backgrounds came together to form the Trust to provide equal educational opportunities for all.
+          </p>
+          <p>
+            Affiliated with Anna University, Chennai, the college has provided over 40 years of service in technical education. The 167-acre campus features extensive greenery and modern infrastructure. The institution has established a strong academic record and is recognised as one of India's reputable educational institutions.
           </p>
 
           <p>

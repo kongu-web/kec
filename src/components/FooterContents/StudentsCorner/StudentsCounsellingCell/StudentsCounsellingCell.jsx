@@ -42,6 +42,18 @@ const StudentsCounsellingCell = () => {
             </tbody>
           </table>
         </div>
+
+        <div className="counselling-portal">
+          <p className="portal-text">Ready to access counselling services?</p>
+          <a
+            className="portal-btn"
+            href="https://cpf-frontend.onrender.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Take me to the portal
+          </a>
+        </div>
       </div>
       <ScrollToTopButton />
       <Footer />
