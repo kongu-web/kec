@@ -15,7 +15,7 @@ import img5 from "../../../assets/images/5.png";
 import img6 from "../../../assets/images/6.png";
 import img7 from "../../../assets/images/7.png";
 import img8 from "../../../assets/images/8.png";
-import img9 from "../../../assets/images/9.png";
+import img9 from "../../../assets/images/9.jpeg";
 
 export default function Banner() {
   const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9];
