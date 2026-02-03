@@ -11,7 +11,8 @@
 .iqac-navbar {
     width: 270px;
     flex-shrink: 0;
-    min-height: 100vh;
+    min-height: auto;
+    /* Let it stretch */
     background: linear-gradient(135deg, #063970 0%, #1e3a8a 100%);
     padding: 24px 16px;
     /* border-radius: 20px; */
@@ -35,6 +36,7 @@
     letter-spacing: 0.15em;
     font-weight: 800;
     padding: 0 12px;
+    padding-top: 10px;
     margin: 0;
     display: flex;
     align-items: center;
@@ -257,6 +259,10 @@
     color: #009EDB;
 }
 
+.iqac-mobile-header {
+    display: none;
+}
+
 @media (max-width: 991px) {
     .iqac-container {
         flex-direction: column;
@@ -270,28 +276,93 @@
     .iqac-navbar {
         width: 100%;
         min-height: auto;
-        flex-direction: row;
-        overflow-x: auto;
-        padding: 15px 20px;
-        gap: 30px;
-        align-items: flex-start;
+        flex-direction: column;
+        /* Stack vertically on mobile */
+        padding: 10px;
+        /* Remove padding to let header stretch */
         background: #0f172a;
-        scrollbar-width: none;
-        -ms-overflow-style: none;
+        gap: 0;
+        overflow-x: hidden;
+        /* No more horizontal scroll */
+        position: relative;
     }
 
-    .iqac-navbar::-webkit-scrollbar {
-        display: none;
+    /* Mobile Header/Toggle Bar */
+    .iqac-mobile-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 15px 20px;
+        cursor: pointer;
+        background: rgba(255, 255, 255, 0.05);
+    }
+
+    .iqac-mobile-title {
+        color: #fff;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .iqac-mobile-toggle {
+        background: transparent;
+        border: none;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        padding: 5px;
+        cursor: pointer;
+    }
+
+    .iqac-mobile-toggle span {
+        display: block;
+        width: 24px;
+        height: 2px;
+        background-color: #fff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    /* Toggle Animation */
+    .iqac-mobile-toggle.open span:nth-child(1) {
+        transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .iqac-mobile-toggle.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .iqac-mobile-toggle.open span:nth-child(3) {
+        transform: rotate(-45deg) translate(5px, -5px);
+    }
+
+    /* Collapsible Content */
+    .iqac-nav-content {
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-in-out;
+        flex-direction: column;
+        display: flex;
+    }
+
+    .iqac-nav-content.show {
+        max-height: 1000px;
+        /* Large enough to fit content */
+        padding: 20px;
+        gap: 25px;
+        /* Re-add gap when open */
     }
 
     .iqac-nav-section {
-        min-width: 220px;
-        flex-shrink: 0;
+        width: 100%;
+        min-width: auto;
     }
 
-    .iqac-nav-link:hover,
-    .iqac-nav-link.active {
-        transform: none;
+    .iqac-nav-link {
+        white-space: normal;
+        /* Allow text wrap again since it's vertical now */
     }
 }
 
