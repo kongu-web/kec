@@ -261,7 +261,7 @@ const Civil = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/Civil/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty images/civil/${faculty.image}`)}
                         alt={faculty.name}
                       />
                     </div>
