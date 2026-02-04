@@ -268,7 +268,7 @@ const data = [
     "Examination Committee": {
       Coordinators: [
         // "Dr. V. Balusamy, Principal",
-        "Dr. P. Shanmugam",
+        "Dr. R. Thamilselvan",
         "Dr. T. Gunasekar",
         "Dr. K. Sangeetha",
       ],
