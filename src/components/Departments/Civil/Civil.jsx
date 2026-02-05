@@ -50,7 +50,7 @@ const Civil = () => {
           skipEmptyLines: true,
           complete: (result) => {
             const formattedData = result.data.map((row) => ({
-              image: row[0],
+              image: row[0] ? row[0].trim().replace(/^\uFEFF/, "") : "",
               name: row[1],
               designation: row[2],
               profileLink: row[3],
@@ -260,10 +260,12 @@ const Civil = () => {
                     onClick={() => window.open(faculty.profileLink, "_blank")}
                   >
                     <div className="faculty-photo">
-                      <img
-                        src={require(`../../../assets/images/faculty images/civil/${faculty.image}`)}
-                        alt={faculty.name}
-                      />
+                      {faculty.image && (
+                        <img
+                          src={require(`../../../assets/images/faculty images/Civil/${faculty.image}`)}
+                          alt={faculty.name}
+                        />
+                      )}
                     </div>
 
                     <div className="faculty-info">
