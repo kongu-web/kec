@@ -9,6 +9,7 @@ import ExcellenceInPlacements from "./ExcellenceInPlacements/ExcellenceInPlaceme
 import InnovationSection from "./InnovationSection/InnovationSection";
 import CampusLife from "./CampusLife/CampusLife";
 import RecruitingPartners from "./RecruitingPartners/RecruitingPartners";
+import Testimonials from "./Testimonials/Testimonials";
 
 import Hero from "./Hero/Hero";
 import Slider from "./Slider/Slider";
@@ -47,6 +48,7 @@ const HomePage = () => {
       <InnovationSection />
       <CampusLife />
       <RecruitingPartners />
+      <Testimonials />
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}
