@@ -39,7 +39,7 @@
 .testimonials-container {
     display: flex;
     overflow-x: auto;
-    scroll-snap-type: x mandatory;
+    /* scroll-snap-type: x mandatory;  -- Removed for continuous marquee */
     gap: 40px;
     padding: 20px 5px;
     /* Padding for shadows */
@@ -56,7 +56,7 @@
 .testimonial-card {
     flex: 0 0 calc((100% - 80px) / 3);
     /* (100% - 2 * 40px gap) / 3 */
-    scroll-snap-align: start;
+    /* scroll-snap-align: start; -- Removed for continuous marquee */
     background: #fff;
     border-radius: 20px;
     padding: 40px 30px;

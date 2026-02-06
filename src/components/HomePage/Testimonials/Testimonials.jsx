@@ -1,5 +1,6 @@
 import React from "react";
 import "./Testimonials.css";
+import RajkumarR from "../../../assets/images/Testimonials/RajkumarR.png";
 
 const testimonialsData = [
     {
@@ -14,7 +15,7 @@ const testimonialsData = [
         id: 2,
         name: "Rajkumar R",
         role: "Co-Founder & Managing Director, Chennai Rice Industries India Private Limited",
-        avatar: "https://ui-avatars.com/api/?name=Rajkumar+R&background=random",
+        avatar: RajkumarR,
         content:
             "I am Rajkumar R, MBA (1995-1997 batch) alumnus of Kongu Engineering College.The strong management foundation, practical learning, and dedicated faculty played a vital role in shaping my leadership skills and entrepreneurial journey.Today, as Co-Founder & Managing Director of Chennai Rice Industries India Private Limited, I credit my college for my professional success.",
     },
@@ -84,15 +85,36 @@ const Testimonials = () => {
     const scrollRef = React.useRef(null);
     const [isPaused, setIsPaused] = React.useState(false);
 
+    const [manualPause, setManualPause] = React.useState(false);
+    const timeoutRef = React.useRef(null);
+
+    const handleManualInteraction = () => {
+        setManualPause(true);
+        if (timeoutRef.current) clearTimeout(timeoutRef.current);
+
+        timeoutRef.current = setTimeout(() => {
+            setManualPause(false);
+        }, 3000); // Resume auto-scroll after 3 seconds of inactivity
+    };
+
     const scrollLeft = () => {
+        handleManualInteraction();
         if (scrollRef.current) {
-            const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
+            const container = scrollRef.current;
+            const scrollWidth = container.scrollWidth;
+            const oneSetWidth = scrollWidth / 2;
+            const cardWidth = container.children[0]?.offsetWidth || 350;
             const gap = 40;
-            scrollRef.current.scrollBy({ left: -(cardWidth + gap), behavior: "smooth" });
+
+            if (container.scrollLeft <= 10) {
+                container.scrollLeft += oneSetWidth;
+            }
+            container.scrollBy({ left: -(cardWidth + gap), behavior: "smooth" });
         }
     };
 
     const scrollRight = () => {
+        handleManualInteraction();
         if (scrollRef.current) {
             const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
             const gap = 40;
@@ -103,28 +125,34 @@ const Testimonials = () => {
     // Duplicate data for infinite loop effect
     const extendedTestimonials = [...testimonialsData, ...testimonialsData];
 
+    // Auto-scroll effect (Continuous)
     React.useEffect(() => {
-        let interval;
-        if (!isPaused) {
-            interval = setInterval(() => {
-                if (scrollRef.current) {
-                    const { scrollLeft, scrollWidth } = scrollRef.current;
-                    const oneSetWidth = scrollWidth / 2;
-                    const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
-                    const gap = 40;
+        if (isPaused || manualPause) return;
 
-                    // If we have scrolled past the first set, reset smoothly to start
-                    if (scrollLeft >= oneSetWidth) {
-                        scrollRef.current.scrollLeft -= oneSetWidth;
-                    }
+        const scrollContainer = scrollRef.current;
+        let animationFrameId;
 
-                    // Scroll next
-                    scrollRef.current.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
+        const scrollStep = () => {
+            if (scrollContainer) {
+                const scrollWidth = scrollContainer.scrollWidth;
+                const oneSetWidth = scrollWidth / 2;
+
+                // Move 1px
+                scrollContainer.scrollLeft += 1;
+
+                // Reset if reached part 2
+                if (scrollContainer.scrollLeft >= oneSetWidth) {
+                    scrollContainer.scrollLeft -= oneSetWidth;
                 }
-            }, 3000);
-        }
-        return () => clearInterval(interval);
-    }, [isPaused]);
+
+                animationFrameId = requestAnimationFrame(scrollStep);
+            }
+        };
+
+        animationFrameId = requestAnimationFrame(scrollStep);
+
+        return () => cancelAnimationFrame(animationFrameId);
+    }, [isPaused, manualPause]);
 
     return (
         <section className="testimonials-section">
