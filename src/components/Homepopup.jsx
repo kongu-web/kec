@@ -1,74 +1,39 @@
 import './Homepopup.css';
 import React, { useState, useEffect } from 'react';
+import eventsData from './HomePage/EventsSection/eventsData';
 
 const Homepopup = () => {
-  const [showAdmissionNews, setShowAdmissionNews] = useState(true);
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [showEventPopup, setShowEventPopup] = useState(false);
 
-  const images = [
-    // {
-    //   src: 'others/INAUGURALINVITATION-2025.jpg',
-    //   alt: 'INAUGURAL',
-    //   link: 'https://youtube.com/live/cUnIxkotoIw?feature=share',
-    //   text: '📢 BE/BTech & B.Arch Inaugural Function Live Link',
-    //   extraLink: {
-    //     url: 'https://kongu.ac.in/admission',
-    //     text: '📢 BE/BTech Admission 2025–26 [TNEA Category]'
-    //   }
-    // },
-    {
-      src: 'others/technofest.jpeg',
-      alt: 'Scholarship Info',
-       link: 'https://kongu.ac.in/admission',
-      text: '📢 BE/BTech Admission 2025–26 [TNEA Category]',
-    }
-  ];
-
-  // Auto-scroll every 3 seconds
   useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, [images.length]);
+    // Show popup on mount
+    setShowEventPopup(true);
+  }, []);
 
-  const currentImage = images[currentImageIndex];
+  const currentEvent = eventsData[0]; // Display the first upcoming event
+
+  if (!currentEvent) return null;
 
   return (
     <>
-      {showAdmissionNews && (
-        <div className="flash-news-popup">
-          <button
-            className="flash-news-close-btn"
-            onClick={() => setShowAdmissionNews(false)}
-          >
-            ×
-          </button>
-          <div className="flash-news-content">
-            <img
-              src={currentImage.src}
-              alt={currentImage.alt}
-              className="popup-img"
-            />
-            <a
-              href={currentImage.link}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {currentImage.text}
-            </a>
-
-            {/* Conditionally render extra link if exists */}
-            {currentImage.extraLink && (
-              <a
-                href={currentImage.extraLink.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="extra-link"
+      {showEventPopup && (
+        <div className="popup-overlay">
+          <div className="event-popup-container">
+            <div className="popup-content">
+              <button
+                className="popup-close-btn"
+                onClick={() => setShowEventPopup(false)}
               >
-                {currentImage.extraLink.text}
-              </a>
-            )}
+                ×
+              </button>
+              {currentEvent.image && (
+                <img
+                  src={currentEvent.image}
+                  alt={currentEvent.title}
+                  className="event-popup-img"
+                />
+              )}
+            </div>
           </div>
         </div>
       )}

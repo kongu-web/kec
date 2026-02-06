@@ -86,7 +86,7 @@ const IqacDownloads = () => {
                                 {error && <div className="alert alert-danger mt-3 p-2" style={{ fontSize: '0.9rem' }}>{error}</div>}
 
                                 <div className="mt-4 text-center text-muted" style={{ fontSize: '0.8rem' }}>
-                                    <small>Restricted to @kongu.edu email addresses only</small>
+                                    <small>Access provided for @kongu.edu users only</small>
                                 </div>
                             </div>
                         </div>

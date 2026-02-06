@@ -42,7 +42,7 @@ import ITSoftware_20 from "../assets/images/Placement/Companies/IT & Software/7-
 import ITSoftware_21 from "../assets/images/Placement/Companies/IT & Software/8-Mu-sigma.png";
 import ITSoftware_22 from "../assets/images/Placement/Companies/IT & Software/9-ELGi.png";
 import Management_0 from "../assets/images/Placement/Companies/Management/45-blubridge.jpeg";
-import Management_1 from "../assets/images/Placement/Companies/Management/46-valeo.png";
+import Management_1 from "../assets/images/Placement/Companies/46-valeo.jpeg";
 import Management_2 from "../assets/images/Placement/Companies/Management/47-Bi3-Logo.png";
 import Management_3 from "../assets/images/Placement/Companies/Management/48-CDW Sirius.png";
 import Management_4 from "../assets/images/Placement/Companies/Management/49-codemagen_logo.jpeg";

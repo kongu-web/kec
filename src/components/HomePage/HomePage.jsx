@@ -9,6 +9,8 @@ import ExcellenceInPlacements from "./ExcellenceInPlacements/ExcellenceInPlaceme
 import InnovationSection from "./InnovationSection/InnovationSection";
 import CampusLife from "./CampusLife/CampusLife";
 import RecruitingPartners from "./RecruitingPartners/RecruitingPartners";
+import Testimonials from "./Testimonials/Testimonials";
+import EventsSection from "./EventsSection/EventsSection";
 
 import Hero from "./Hero/Hero";
 import Slider from "./Slider/Slider";
@@ -31,7 +33,7 @@ import Placement from "./Placement/Placement";
 import ScrollToTopButton from "../ScrollToTopButton";
 import Department from "./Department/Department";
 import FlashNews from "../FlashNews";
-// import Homepopup from '../Homepopup';
+import Homepopup from '../Homepopup';
 
 const HomePage = () => {
   return (
@@ -45,8 +47,10 @@ const HomePage = () => {
       <LegacySection />
       <ExcellenceInPlacements />
       <InnovationSection />
+      <EventsSection />
       <CampusLife />
       <RecruitingPartners />
+      <Testimonials />
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}
@@ -67,7 +71,7 @@ const HomePage = () => {
       <Contact/>
       <Footer/>
       <ScrollToTopButton/> */}
-      {/* <Homepopup/> */}
+      <Homepopup />
       {/* <FlashNews/> */}
       {/* <recuritment/> */}
       <ScrollToTopButton />

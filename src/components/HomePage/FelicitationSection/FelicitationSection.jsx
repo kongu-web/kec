@@ -1,18 +1,34 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import "./FelicitationSection.css";
 
 import video1 from "../../../assets/images/HomePage/video1thum.png";
 import video2 from "../../../assets/images/HomePage/video2thum.png";
 import video3 from "../../../assets/images/HomePage/video3thum.png";
+import video4 from "../../../assets/images/HomePage/video4thum.png";
+import video5 from "../../../assets/images/HomePage/video5thum.png";
+
 
 function FelicitationSection() {
   const [currentVideo, setCurrentVideo] = useState("xFd5g7vmZeQ");
   const [showVideo, setShowVideo] = useState(false);
   const [playVideo, setPlayVideo] = useState(false);
+  const scrollRef = useRef(null);
 
 
 
   const videos = [
+    {
+      id: "mOQsJJ7bc5E",
+      title: "Grand Guest Lecture on Role of Youth in Nation Building",
+      desc: "Thiru.K.Annamalai IPS, Chief Servant",
+      thumb: video4,
+    },
+    {
+      id: "zCHAk4zMi5E?si",
+      title: "Shaping your life beyond the Class rooms",
+      desc: "Dr.Jayanthasri Balakrishnan at KEC",
+      thumb: video5,
+    },
     {
       id: "xFd5g7vmZeQ",
       title: "New Logo Launch",
@@ -36,6 +52,20 @@ function FelicitationSection() {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const activeVideo = videos[activeIndex];
+
+  const handleThumbnailClick = (index) => {
+    setActiveIndex(index);
+    setShowVideo(true);
+    setPlayVideo(false);
+
+    if (scrollRef.current && scrollRef.current.children[index]) {
+      scrollRef.current.children[index].scrollIntoView({
+        behavior: 'smooth',
+        block: 'nearest',
+        inline: 'start'
+      });
+    }
+  };
 
   return (
     <section className="felicitation-section">
@@ -86,25 +116,38 @@ function FelicitationSection() {
       </div>
 
       {/* Thumbnails */}
-      <div className="video-thumbnails">
-        {videos.map((item, i) => (
-          <div
-            key={i}
-            className={`thumb-card ${activeIndex === i ? "active-thumb" : ""}`}
-            onClick={() => {
-              setActiveIndex(i);
-              setShowVideo(true);
-              setPlayVideo(false);
-            }}
-          >
-            <img src={item.thumb} alt={item.title} />
+      {/* Thumbnails Carousel */}
+      <div className="carousel-container">
+        <button
+          className="carousel-btn left-btn"
+          onClick={() => scrollRef.current.scrollBy({ left: -325, behavior: 'smooth' })}
+        >
+          ‹
+        </button>
 
-            <div className="thumb-overlay">
-              <button className="thumb-play">▶</button>
-              <p>{item.title}</p>
+        <div className="video-thumbnails" ref={scrollRef}>
+          {videos.map((item, i) => (
+            <div
+              key={i}
+              className={`thumb-card ${activeIndex === i ? "active-thumb" : ""}`}
+              onClick={() => handleThumbnailClick(i)}
+            >
+              <img src={item.thumb} alt={item.title} />
+
+              <div className="thumb-overlay">
+                <button className="thumb-play">▶</button>
+                <p>{item.title}</p>
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
+
+        <button
+          className="carousel-btn right-btn"
+          onClick={() => scrollRef.current.scrollBy({ left: 325, behavior: 'smooth' })}
+        >
+          ›
+        </button>
       </div>
     </section>
   );

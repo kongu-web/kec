@@ -39,7 +39,7 @@ export const AuthProvider = ({ children }) => {
             } else {
                 // Invalid domain
                 await signOut(auth);
-                return { success: false, error: 'Access restricted to @kongu.edu emails only.' };
+                return { success: false, error: 'Access provided for @kongu.edu users only.' };
             }
         } catch (error) {
             console.error("Login Error", error);

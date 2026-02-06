@@ -55,6 +55,7 @@ export const iqacData = {
     ],
     "audit": {
         "files": [
+            { "name": "2024-2025 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2024-25 Audit Report.pdf" },
             { "name": "2023-2024 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2023-2024 Report & Action Taken.pdf" },
             { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit details/2022-2023 Report & Action Taken Report.pdf" }
         ],
@@ -486,18 +487,18 @@ export const iqacData = {
             ]
         }
     }
-,
+    ,
     "gallery": {
-    "current": [
-        {
-            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg",
-            "alt": "WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg"
-        },
-        {
-            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
-            "alt": "WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg"
-        }
-    ],
-    "archived": []
-}
+        "current": [
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg",
+                "alt": "WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
+                "alt": "WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg"
+            }
+        ],
+        "archived": []
+    }
 };
