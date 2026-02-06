@@ -81,15 +81,74 @@ const TestimonialCard = ({ testimonial }) => {
 };
 
 const Testimonials = () => {
+    const scrollRef = React.useRef(null);
+    const [isPaused, setIsPaused] = React.useState(false);
+
+    const scrollLeft = () => {
+        if (scrollRef.current) {
+            const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
+            const gap = 40;
+            scrollRef.current.scrollBy({ left: -(cardWidth + gap), behavior: "smooth" });
+        }
+    };
+
+    const scrollRight = () => {
+        if (scrollRef.current) {
+            const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
+            const gap = 40;
+            scrollRef.current.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
+        }
+    };
+
+    // Duplicate data for infinite loop effect
+    const extendedTestimonials = [...testimonialsData, ...testimonialsData];
+
+    React.useEffect(() => {
+        let interval;
+        if (!isPaused) {
+            interval = setInterval(() => {
+                if (scrollRef.current) {
+                    const { scrollLeft, scrollWidth } = scrollRef.current;
+                    const oneSetWidth = scrollWidth / 2;
+                    const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
+                    const gap = 40;
+
+                    // If we have scrolled past the first set, reset smoothly to start
+                    if (scrollLeft >= oneSetWidth) {
+                        scrollRef.current.scrollLeft -= oneSetWidth;
+                    }
+
+                    // Scroll next
+                    scrollRef.current.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
+                }
+            }, 3000);
+        }
+        return () => clearInterval(interval);
+    }, [isPaused]);
+
     return (
         <section className="testimonials-section">
             <span className="pill">Voices of KEC</span>
             <h2>What Our Community Says</h2>
 
-            <div className="testimonials-container">
-                {testimonialsData.map((testimonial) => (
-                    <TestimonialCard key={testimonial.id} testimonial={testimonial} />
-                ))}
+            <div
+                className="testimonials-carousel-wrapper"
+                onMouseEnter={() => setIsPaused(true)}
+                onMouseLeave={() => setIsPaused(false)}
+            >
+                <button className="carousel-btn left-btn" onClick={scrollLeft}>
+                    &#8249;
+                </button>
+
+                <div className="testimonials-container" ref={scrollRef}>
+                    {extendedTestimonials.map((testimonial, index) => (
+                        <TestimonialCard key={`${testimonial.id}-${index}`} testimonial={testimonial} />
+                    ))}
+                </div>
+
+                <button className="carousel-btn right-btn" onClick={scrollRight}>
+                    &#8250;
+                </button>
             </div>
         </section>
     );
