@@ -429,19 +429,19 @@
 
       },
        {
-        "topic": "Schneider Smart Electrical Laboratory",
+        "topic": "Foundation Laboratory",
         "detail": [
-          "The Centre of Excellence focuses on recent industrial trends in Home and Industrial Automation.",
-          "* Module 4B: Home and Building Installation:",
-          "- Basic Automation Safety and Security with smoke detectors, emergency lighting, lightning arrestors.",
-          "- Wiring standards, measuring instruments, tools, circuits, design estimation, and planning.",
-          "* Module 4A: Industrial Control and Drives:",
-          "- Motors/engines, Integrated starter, Electronic Starter, Drives to analyze the functions of an LV switchboard.",
-          "- Carry out commissioning and maintenance operations on LV switchboards.",
-          "- Configure parameters for communication networks and install PLCs.",
-          "- Operation and maintenance on LV Panels."
+          "Electrical provides hands-on training in basic electrical systems, wiring and Safety practices, protection techniques and renewable energy applications. Students perform experiments on load current calculation and selection of suitable protective components. The lab covers domestic wiring circuits for incandescent and fluorescent lamps, staircase wiring, calling bell systems and dimmable lighting. Practical exposure is also given in single-phase motor wiring and operation. In addition, students work on IoT-based energy monitoring and control systems. Measurement and analysis of solar PV parameters introduce students to renewable energy technologies."
         ],
-        "image": "/assets/images/Laboratories/Eee/schneider_lab.jpg"
+        "image": "/assets/images/Laboratories/Eee/foundation_lab.jpg"
+
+      },
+      {
+        "topic": "Electric Vehicle Laboratory",
+        "detail": [
+          "The Centre for E-Mobility focuses on practical exposure to electric drive systems. The lab includes a two-wheeler setup with a BLDC motor and mid-drive configuration and a four-wheeler setup using a Switched Reluctance Motor (SRM). Students gain practical understanding of motor control, power electronics and performance analysis of EV drive systems. The laboratory supports learning of real-time operation, efficiency and control strategies in electric vehicles."
+        ],
+        "image": "/assets/images/Laboratories/Eee/ev_lab.jpg"
 
       }
     ],
