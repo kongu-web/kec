@@ -62,8 +62,7 @@ const IqacDownloads = () => {
                         <div className="downloads-header-modern">
                             <div className="header-decoration"></div>
                             <div className="header-text-comp">
-                                <h1 className="college-title">Kongu Engineering College</h1>
-                                <h2 className="dept-title">Internal Quality Assurance Cell (IQAC)</h2>
+                                <h1 className="college-title">Internal Quality Assurance Cell (IQAC)</h1>
                             </div>
                             <div className="page-label">
                                 <span>IQAC Documents Format</span>

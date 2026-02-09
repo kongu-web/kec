@@ -21,13 +21,19 @@ import heroBg from '../../../assets/images/kecglobe.png';
 import culturalImg from '../../../assets/images/slider-background.jpg';
 import techImg from '../../../assets/images/cc.jpg';
 import sportsImg from '../../../assets/images/physicaldept.jpg';
-import socialImg from '../../../assets/images/mission.png';
-import gallery1 from '../../../assets/images/kec1.jpg';
+import socialImg from '../../../assets/images/HomePage/healthcare.png';
+import gallery1 from '../../../assets/images/itpark.jpg';
 import gallery2 from '../../../assets/images/library.jfif';
 import gallery3 from '../../../assets/images/hostel.jpg';
 import gallery4 from '../../../assets/images/foodcourt.jfif';
+import gallery5 from '../../../assets/images/Events/E-Horizon-2025.jpg';
+import gallery6 from '../../../assets/images/Events/Pongal Celebration.jpg';
+import gallery7 from '../../../assets/images/Events/Kongu Trophy.png';
+import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.JPG';
+import enthusia from '../../../assets/images/WebAlbum/enthusia.jpg';
+
 // Using placeholders for avatars if specific ones aren't available
-import avatar1 from '../../../assets/images/principal.jpg';
+// import avatar1 from '../../../assets/images/principal.jpg';
 
 const CampusLife = () => {
     const [loading, setLoading] = useState(true);
@@ -56,7 +62,7 @@ const CampusLife = () => {
     ];
 
     const activities = [
-        { title: "Cultural Events", desc: "Annual festivals, competitions, and celebrations showcasing diverse talents", img: culturalImg, color: "#ff0080" },
+        { title: "Cultural Events", desc: "Annual festivals, competitions, and celebrations showcasing diverse talents", img: enthusia, color: "#ff0080" },
         { title: "Technical Clubs", desc: "Robotics, coding, innovation labs and hackathons for tech enthusiasts", img: techImg, color: "#00b09b" },
         { title: "Sports Tournaments", desc: "Inter-college competitions, athletics, and team sports throughout the year", img: sportsImg, color: "#fc4a1a" },
         { title: "Social Service", desc: "Community outreach programs and initiatives for social impact", img: socialImg, color: "#f7b733" },
@@ -89,12 +95,12 @@ const CampusLife = () => {
     ];
 
     const testimonials = [
-        { name: "Sarah Johnson", role: "Computer Science, 3rd Year", text: "The campus life here is incredible! From tech clubs to cultural events, there's always something exciting happening.", rating: 5 },
-        { name: "Michael Chen", role: "Mech Engineering, 4th Year", text: "The sports facilities are world-class. I've represented the college at national level competitions thanks to their support.", rating: 5 },
+        { name: "Sangeetha P", role: "Computer Science, 3rd Year", text: "The campus life here is incredible! From tech clubs to cultural events, there's always something exciting happening.", rating: 5 },
+        { name: "Aravind Kumar", role: "Mech Engineering, 4th Year", text: "The sports facilities are world-class. I've represented the college at national level competitions thanks to their support.", rating: 5 },
         { name: "Priya Sharma", role: "MBA, 2nd Year", text: "The diversity on campus is beautiful. I've learned so much from peers from different backgrounds.", rating: 5 },
     ];
 
-    const gallery = [gallery1, gallery2, gallery3, gallery4, culturalImg, techImg, sportsImg, socialImg];
+    const gallery = [gallery1, gallery2, gallery3, gallery4, gallery5, gallery6, gallery7, gallery8];
 
     return loading ? (
         <Spinner />
@@ -265,7 +271,9 @@ const CampusLife = () => {
                     {testimonials.map((testi, index) => (
                         <div className="testimonial-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
                             <div className="testi-header">
-                                <img src={avatar1} alt="Avatar" className="testi-avatar" />
+                                <div className="testi-avatar" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#303877', color: '#fff', fontSize: '1.5rem', fontWeight: 'bold' }}>
+                                    {testi.name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase()}
+                                </div>
                                 <div>
                                     <h4>{testi.name}</h4>
                                     <span>{testi.role}</span>
