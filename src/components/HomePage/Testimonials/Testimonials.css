@@ -45,7 +45,7 @@
     /* Padding for shadows */
     scrollbar-width: none;
     -ms-overflow-style: none;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; REMOVED to prevent rewind on infinite loop reset */
     justify-content: flex-start;
 }
 
