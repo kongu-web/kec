@@ -139,11 +139,11 @@ const EventsSection = () => {
                 <button className="event-nav-btn next-btn" onClick={scrollRight}>&#8250;</button>
             </div>
 
-            <div className="events-footer">
+            {/* <div className="events-footer">
                 <a href="/events" className="know-more-btn-new">
                     KNOW MORE <span className="arrow-icon">&rarr;</span>
                 </a>
-            </div>
+            </div> */}
         </section>
     );
 };
