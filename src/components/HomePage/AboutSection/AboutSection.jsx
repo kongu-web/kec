@@ -1,10 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import "./AboutSection.css";
 // import campusImg from "../../../assets/images/2.png";
 import campusImg from "../../../assets/images/WebAlbum/kec.jpeg";
 
 
 function AboutSection() {
+  const [showMore, setShowMore] = useState(false);
+
   return (
     <section className="about-section">
       <div className="about-wrapper">
@@ -31,9 +33,16 @@ function AboutSection() {
           <p>
             Kongu Engineering College is a multi-disciplinary institution offering research-oriented education. The college provides undergraduate and postgraduate programs that integrate theoretical knowledge with practical application across various engineering and technology disciplines.
           </p>
-          <p>
-            Established in 1983, the institution was founded by the Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu. The college operates under the Trust's educational philosophy, which emphasises holistic development and ethical principles alongside technical competence. The institution maintains academic standards through a curriculum designed to address contemporary challenges in engineering and technology.
-          </p>
+
+          {showMore && (
+            <p>
+              Established in 1983, the institution was founded by the Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu. The college operates under the Trust's educational philosophy, which emphasises holistic development and ethical principles alongside technical competence. The institution maintains academic standards through a curriculum designed to address contemporary challenges in engineering and technology.
+            </p>
+          )}
+
+          <button className="read-more-btn" onClick={() => setShowMore(!showMore)}>
+            {showMore ? "Read Less" : "Read More..."}
+          </button>
 
           <div className="stats-row">
             <div className="home-stat-card">

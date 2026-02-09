@@ -4,11 +4,11 @@
 }
 
 .about-wrapper {
-  width: 90%;
+  width: 100%;
   max-width: 1200px;
   margin: auto;
   display: grid;
-  grid-template-columns: 1fr 1.1fr;
+  grid-template-columns: 1.1fr 0.9fr;
   gap: 50px;
 }
 
@@ -23,6 +23,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 20px;
 }
 
 .video-overlay {
@@ -240,4 +241,23 @@
   .know-more {
     font-size: 14px;
   }
+}
+
+.read-more-btn {
+  background: transparent;
+  border: none;
+  color: #009edb;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding: 0;
+  transition: color 0.3s ease;
+  font-family: inherit;
+}
+
+.read-more-btn:hover {
+  color: #007bb5;
+  text-decoration: underline;
 }
