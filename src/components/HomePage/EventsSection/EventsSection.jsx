@@ -56,12 +56,30 @@ const EventsSection = () => {
         }
     };
 
+    // Filter for upcoming and completed events
+    const currentDate = new Date();
+    currentDate.setHours(0, 0, 0, 0);
+
+    const upcomingEvents = eventsData.filter(event => {
+        const eventDate = new Date(event.date);
+        return eventDate >= currentDate;
+    });
+
+    const completedEvents = eventsData.filter(event => {
+        const eventDate = new Date(event.date);
+        return eventDate < currentDate;
+    });
+
+    const hasUpcoming = upcomingEvents.length > 0;
+    const displayEvents = hasUpcoming ? upcomingEvents : completedEvents;
+    const title = hasUpcoming ? "Upcoming" : "Completed";
+
     // Duplicate data for continuous scrolling
-    const extendedEvents = [...eventsData, ...eventsData];
+    const extendedEvents = [...displayEvents, ...displayEvents];
 
     // Auto-scroll effect (Continuous)
     React.useEffect(() => {
-        if (isPaused || manualPause) return;
+        if (isPaused || manualPause || displayEvents.length === 0) return;
 
         const scrollContainer = scrollRef.current;
         let animationFrameId;
@@ -76,12 +94,14 @@ const EventsSection = () => {
         animationFrameId = requestAnimationFrame(scrollStep);
 
         return () => cancelAnimationFrame(animationFrameId);
-    }, [isPaused, manualPause]);
+    }, [isPaused, manualPause, displayEvents.length]);
+
+    if (displayEvents.length === 0) return null;
 
     return (
         <section className="events-section">
             <div className="events-header">
-                <h2>Upcoming <span>Events</span></h2>
+                <h2>{title} <span>Events</span></h2>
                 <div className="header-decoration">
                     <span className="dot"></span>
                     <span className="line"></span>

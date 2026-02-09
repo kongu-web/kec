@@ -259,3 +259,14 @@
         /* Hide nav on mobile, swipe works */
     }
 }
+
+.no-events-container {
+    text-align: center;
+    padding: 40px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    color: #666;
+    font-size: 1.1rem;
+    font-weight: 500;
+}

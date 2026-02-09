@@ -10,7 +10,15 @@ const Homepopup = () => {
     setShowEventPopup(true);
   }, []);
 
-  const currentEvent = eventsData[0]; // Display the first upcoming event
+  const currentDate = new Date();
+  currentDate.setHours(0, 0, 0, 0);
+
+  const upcomingEvents = eventsData.filter(event => {
+    const eventDate = new Date(event.date);
+    return eventDate >= currentDate;
+  });
+
+  const currentEvent = upcomingEvents[0]; // Display the first upcoming event
 
   if (!currentEvent) return null;
 

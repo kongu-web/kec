@@ -8,13 +8,13 @@ const eventsData = [
         id: 1,
         image: eHorizonImg,
         date: "September 13, 2025",
-        title: "E-Horizon 2025 - Technical Symposium",
+        title: "E-Horizon 2026 - Technical Symposium",
     },
     {
         id: 2,
         image: swaramImg,
         date: "September 13, 2025",
-        title: "Swaram 2025 - Cultural Fest",
+        title: "Swaram 2026 - Cultural Fest",
     },
     {
         id: 3,
