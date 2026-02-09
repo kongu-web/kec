@@ -22,11 +22,11 @@ const outcomeImages = [
     { src: '/assets/iqac/outcomes/NAAC.png', alt: 'NAAC', link: '/naac' },
     { src: '/assets/iqac/outcomes/ISO.png', alt: 'ISO', link: '/iqac/iso' },
     { src: '/assets/iqac/outcomes/NIRF.jpg', alt: 'NIRF', link: '/nirf' },
-    { src: '/assets/iqac/outcomes/ARIIA.png', alt: 'ARIIA', link: '/ariia' },
-    { src: '/assets/iqac/outcomes/BUSINESS WORLD.jpg', alt: 'Business World', link: '#' },
-    { src: '/assets/iqac/outcomes/CAREERS 360.jpg', alt: 'Careers 360', link: '#' },
-    { src: '/assets/iqac/outcomes/INDIA TODAY.png', alt: 'India Today', link: '#' },
-    { src: '/assets/iqac/outcomes/THE_WEEK.jpg', alt: 'The Week', link: '#' },
+    // { src: '/assets/iqac/outcomes/ARIIA.png', alt: 'ARIIA', link: '/ariia' },
+    // { src: '/assets/iqac/outcomes/BUSINESS WORLD.jpg', alt: 'Business World', link: '#' },
+    // { src: '/assets/iqac/outcomes/CAREERS 360.jpg', alt: 'Careers 360', link: '#' },
+    // { src: '/assets/iqac/outcomes/INDIA TODAY.png', alt: 'India Today', link: '#' },
+    // { src: '/assets/iqac/outcomes/THE_WEEK.jpg', alt: 'The Week', link: '#' },
 ];
 
 const IqacHome = () => {
