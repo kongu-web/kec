@@ -97,18 +97,37 @@ const Testimonials = () => {
         }, 3000); // Resume auto-scroll after 3 seconds of inactivity
     };
 
+    // Duplicate data for infinite loop effect (3 sets for smoother bidirectional scroll)
+    const extendedTestimonials = [...testimonialsData, ...testimonialsData, ...testimonialsData];
+
+    const handleScroll = () => {
+        if (scrollRef.current) {
+            const container = scrollRef.current;
+            const scrollWidth = container.scrollWidth;
+            const oneSetWidth = scrollWidth / 3;
+
+            // Infinite scroll reset
+            if (container.scrollLeft >= 2 * oneSetWidth) {
+                container.scrollLeft -= oneSetWidth;
+            } else if (container.scrollLeft <= 0) {
+                container.scrollLeft = oneSetWidth;
+            }
+        }
+    };
+
     const scrollLeft = () => {
         handleManualInteraction();
         if (scrollRef.current) {
             const container = scrollRef.current;
-            const scrollWidth = container.scrollWidth;
-            const oneSetWidth = scrollWidth / 2;
             const cardWidth = container.children[0]?.offsetWidth || 350;
             const gap = 40;
+            const oneSetWidth = container.scrollWidth / 3;
 
-            if (container.scrollLeft <= 10) {
+            // Pre-warp if near start
+            if (container.scrollLeft <= gap) {
                 container.scrollLeft += oneSetWidth;
             }
+
             container.scrollBy({ left: -(cardWidth + gap), behavior: "smooth" });
         }
     };
@@ -116,14 +135,19 @@ const Testimonials = () => {
     const scrollRight = () => {
         handleManualInteraction();
         if (scrollRef.current) {
-            const cardWidth = scrollRef.current.children[0]?.offsetWidth || 350;
+            const container = scrollRef.current;
+            const cardWidth = container.children[0]?.offsetWidth || 350;
             const gap = 40;
-            scrollRef.current.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
+            const oneSetWidth = container.scrollWidth / 3;
+
+            // Pre-warp if near end (of the second set)
+            if (container.scrollLeft >= 2 * oneSetWidth - cardWidth) {
+                container.scrollLeft -= oneSetWidth;
+            }
+
+            container.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
         }
     };
-
-    // Duplicate data for infinite loop effect
-    const extendedTestimonials = [...testimonialsData, ...testimonialsData];
 
     // Auto-scroll effect (Continuous)
     React.useEffect(() => {
@@ -134,17 +158,7 @@ const Testimonials = () => {
 
         const scrollStep = () => {
             if (scrollContainer) {
-                const scrollWidth = scrollContainer.scrollWidth;
-                const oneSetWidth = scrollWidth / 2;
-
-                // Move 1px
                 scrollContainer.scrollLeft += 1;
-
-                // Reset if reached part 2
-                if (scrollContainer.scrollLeft >= oneSetWidth) {
-                    scrollContainer.scrollLeft -= oneSetWidth;
-                }
-
                 animationFrameId = requestAnimationFrame(scrollStep);
             }
         };
@@ -153,6 +167,15 @@ const Testimonials = () => {
 
         return () => cancelAnimationFrame(animationFrameId);
     }, [isPaused, manualPause]);
+
+    // Initialize scroll position to the middle set
+    React.useEffect(() => {
+        if (scrollRef.current) {
+            const scrollWidth = scrollRef.current.scrollWidth;
+            const oneSetWidth = scrollWidth / 3;
+            scrollRef.current.scrollLeft = oneSetWidth; // Start at Set 2
+        }
+    }, []);
 
     return (
         <section className="testimonials-section">
@@ -168,7 +191,11 @@ const Testimonials = () => {
                     &#8249;
                 </button>
 
-                <div className="testimonials-container" ref={scrollRef}>
+                <div
+                    className="testimonials-container"
+                    ref={scrollRef}
+                    onScroll={handleScroll}
+                >
                     {extendedTestimonials.map((testimonial, index) => (
                         <TestimonialCard key={`${testimonial.id}-${index}`} testimonial={testimonial} />
                     ))}

@@ -590,9 +590,9 @@ const Navbar = () => {
                   onMouseLeave={handleMouseLeave}
                 >
                   {/* Internal pages */}
-                  <span onClick={() => navigate("/facilities")}>
+                  <span onClick={() => navigate("/campus-life")}>
                     <LifeIcon className="submenu-icon" />
-                    Facilities
+                    Campus Life
                   </span>
 
                   <span onClick={() => navigate("/ief")}>
@@ -901,7 +901,7 @@ const Navbar = () => {
                 {openMobileMenu === "others" && (
                   <ul className="mobile-submenu">
                     {/* Internal pages */}
-                    <li onClick={() => navigate("/facilities")}>Facilities</li>
+                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
 
