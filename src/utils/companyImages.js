@@ -10,7 +10,7 @@ import CoreEngineering_8 from "../assets/images/Placement/Companies/Core Enginee
 import CoreEngineering_9 from "../assets/images/Placement/Companies/Core Engineering/34-vuram.png";
 import CoreEngineering_10 from "../assets/images/Placement/Companies/Core Engineering/35-rane.jpg";
 import CoreEngineering_11 from "../assets/images/Placement/Companies/Core Engineering/36-sakthi.png";
-import CoreEngineering_12 from "../assets/images/Placement/Companies/Core Engineering/brakesindia.jpg";
+import CoreEngineering_12 from "../assets/images/Placement/Companies/Core Engineering/brakesindia.png";
 import CoreEngineering_13 from "../assets/images/Placement/Companies/Core Engineering/38-delphi.png";
 import CoreEngineering_14 from "../assets/images/Placement/Companies/Core Engineering/39-kbr.png";
 import CoreEngineering_15 from "../assets/images/Placement/Companies/Core Engineering/40-airlight.png";
@@ -28,7 +28,7 @@ import ITSoftware_6 from "../assets/images/Placement/Companies/IT & Software/bos
 import ITSoftware_7 from "../assets/images/Placement/Companies/IT & Software/17-Polaris.png";
 import ITSoftware_8 from "../assets/images/Placement/Companies/IT & Software/18-Soliton.png";
 import ITSoftware_9 from "../assets/images/Placement/Companies/IT & Software/19-Hyundai.png";
-import ITSoftware_10 from "../assets/images/Placement/Companies/IT & Software/2-wipro.png";
+import ITSoftware_10 from "../assets/images/Placement/Companies/IT & Software/wipro.png";
 import ITSoftware_11 from "../assets/images/Placement/Companies/IT & Software/20-sanmar.png";
 import ITSoftware_12 from "../assets/images/Placement/Companies/IT & Software/21-LarsenToubro.png";
 import ITSoftware_13 from "../assets/images/Placement/Companies/IT & Software/22-hatsun.jpg";
@@ -53,7 +53,7 @@ import Management_8 from "../assets/images/Placement/Companies/Management/53-Rub
 import Management_9 from "../assets/images/Placement/Companies/Management/adrasti_logo.jpg";
 import Management_10 from "../assets/images/Placement/Companies/Management/coreelteh.png";
 import Management_11 from "../assets/images/Placement/Companies/Management/Endava Solutions logo.png";
-import Management_12 from "../assets/images/Placement/Companies/Management/ERP Roots Logo (1).jpeg";
+import Management_12 from "../assets/images/Placement/Companies/Management/erproots.png";
 import Management_13 from "../assets/images/Placement/Companies/Management/Green Collar Agritech Solutions Pvt. Ltd. Logo.png";
 import Management_14 from "../assets/images/Placement/Companies/Management/hitech calibration logo.jpeg";
 import Management_15 from "../assets/images/Placement/Companies/Management/IamNeo.ai logo.png";
