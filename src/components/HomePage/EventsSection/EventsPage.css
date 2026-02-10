@@ -1,0 +1,263 @@
+.events-page {
+    padding: 15px 5%;
+    background-color: #f9f9f9;
+    min-height: 80vh;
+    font-family: 'Outfit', sans-serif;
+}
+
+.events-page-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Page Title Design */
+.events-page-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1a3c87;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 25px;
+    position: relative;
+    display: inline-block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.events-page-header h1::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(90deg, #fdbf2d, #f5af19);
+    border-radius: 10px;
+}
+
+/* Filter Controls Layout */
+.events-controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 50px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdowns-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.events-filter-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+/* Category Dropdown */
+.category-select {
+    padding: 10px 20px;
+    border: 2px solid #e0e0e0;
+    background: white;
+    color: #555;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    min-width: 200px;
+    font-family: inherit;
+    /* Ensure font matches */
+}
+
+/* Date Input Specifics */
+input[type="date"].category-select {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.category-select:hover,
+.category-select:focus {
+    border-color: #1a3c87;
+    color: #1a3c87;
+    box-shadow: 0 4px 15px rgba(26, 60, 135, 0.1);
+}
+
+.filter-btn {
+    padding: 10px 25px;
+    border: 2px solid #e0e0e0;
+    background: white;
+    color: #555;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+    border-color: #1a3c87;
+    color: #1a3c87;
+}
+
+.filter-btn.active {
+    background: #1a3c87;
+    color: white;
+    border-color: #1a3c87;
+    box-shadow: 0 4px 15px rgba(26, 60, 135, 0.2);
+}
+
+/* All Events Container Grid */
+.all-events-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.event-grid-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+
+.event-grid-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Completed Event Styles */
+/* Completed Event Styles */
+.completed-event {
+    opacity: 0.9;
+    /* Slightly fade the whole card but keep text readable */
+}
+
+.completed-event .grid-card-image {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.completed-event:hover .grid-card-image {
+    filter: grayscale(0%);
+    /* Restore color on hover */
+}
+
+.completed-event .grid-date-tag {
+    background: #e0e0e0;
+    /* Grey out date tag */
+    color: #888;
+    box-shadow: none;
+}
+
+.completed-event:hover .grid-date-tag {
+    background: #fdbf2d;
+    /* restore date tag color on hover optional? User said only gray date and image. Let's keep it gray or restore? usually restore is nice. Let's keep it gray as per strict request "gray the event date and image" implies permanent state or initial state. I will restore on hover for consistency with previous behavior. */
+    color: #1a3c87;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.grid-card-image {
+    position: relative;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+}
+
+.grid-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.event-grid-card:hover .grid-card-image img {
+    transform: scale(1.05);
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.grid-date-tag {
+    background: #fdbf2d;
+    color: #1a3c87;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.grid-card-content {
+    padding: 15px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.grid-card-content h3 {
+    font-size: 1.2rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    line-height: 1;
+}
+
+.grid-location {
+    color: #777;
+    font-size: 0.95rem;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.read-more {
+    color: #1a3c87;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    transition: transform 0.2s ease;
+}
+
+.event-grid-card:hover .read-more {
+    transform: translateX(5px);
+}
+
+.no-events-found {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 50px;
+    color: #888;
+}
+
+@media (max-width: 768px) {
+    .events-page-header h1 {
+        font-size: 2rem;
+    }
+
+    .all-events-container {
+        grid-template-columns: 1fr;
+    }
+}

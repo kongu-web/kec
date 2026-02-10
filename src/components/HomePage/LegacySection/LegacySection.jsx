@@ -49,7 +49,7 @@ export default function LegacySection() {
           <h3>
             AAAA <span>Grade</span>
           </h3>
-          <p>Career 360, April 2024</p>
+          <p>Career 360, September 2025</p>
         </div>
 
         <div className="legacy-card dark">
@@ -69,10 +69,10 @@ export default function LegacySection() {
             <img src={Group} alt="Group" />
           </div>
           <h1>
-            123<sup>rd</sup>
+            126<sup>th</sup>
           </h1>
           <p>Position in All India Rank</p>
-          <span className="tag">NATIONAL BENCHMARK</span>
+          <span className="tag">Education World, May 2025</span>
         </div>
 
         <div className="legacy-card light">
@@ -80,18 +80,18 @@ export default function LegacySection() {
             <img src={careergrowth} alt="Capcareergrowth" />
           </div>
           <h2>
-            22<sup>nd</sup> <span>Position</span>
+            53<sup>rd</sup> <span>Position</span>
           </h2>
-          <p>Career 360, April 2024</p>
+          <p>IIRF, January 2025</p>
           <div className="progress"></div>
         </div>
 
         <div className="legacy-card wide">
           <div className="star">⭐</div>
           <h2>
-            58<sup>th</sup> in India
+            55<sup>th</sup> in India
           </h2>
-          <p>HANSA Research Survey, June 2024</p>
+          <p>HANSA Research Survey, June 2025</p>
           <span className="green-tag">INCLUDING IITS & NITS</span>
         </div>
       </div>
