@@ -7,26 +7,26 @@ const eventsData = [
     {
         id: 1,
         image: eHorizonImg,
-        date: "September 13, 2025",
-        title: "E-Horizon 2025 - Technical Symposium",
+        date: "February 19-26, 2026",
+        title: "E-Horizon 2026 - Technical Symposium",
     },
     {
         id: 2,
         image: swaramImg,
-        date: "September 13, 2025",
-        title: "Swaram 2025 - Cultural Fest",
+        date: "February 25, 2026",
+        title: "Swaram 2026 - Cultural Fest",
     },
     {
         id: 3,
         image: sportsDayImg,
-        date: "September 12, 2025",
-        title: "Annual Sports Day Celebration",
+        date: "March 16, 2026",
+        title: "Sports Day",
     },
     {
         id: 4,
         image: annualDayImg,
-        date: "September 10, 2025",
-        title: "College Annual Day Function",
+        date: "March 18, 2026",
+        title: "Annual Day",
     },
 ];
 
