@@ -53,8 +53,7 @@
 .event-hero-img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
-    /* Show full image */
+    object-fit: fit;
     transition: transform 0.3s ease;
 }
 

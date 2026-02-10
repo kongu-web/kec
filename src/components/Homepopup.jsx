@@ -6,8 +6,12 @@ const Homepopup = () => {
   const [showEventPopup, setShowEventPopup] = useState(false);
 
   useEffect(() => {
-    // Show popup on mount
-    setShowEventPopup(true);
+    // Show popup on mount only if not already shown in this session
+    const hasShownPopup = sessionStorage.getItem('popupShown');
+    if (!hasShownPopup) {
+      setShowEventPopup(true);
+      sessionStorage.setItem('popupShown', 'true');
+    }
   }, []);
 
   const currentDate = new Date();

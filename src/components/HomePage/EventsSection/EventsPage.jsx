@@ -8,6 +8,12 @@ import './EventsPage.css';
 const EventsPage = () => {
     const navigate = useNavigate();
     const [filter, setFilter] = useState('all'); // all, upcoming, completed
+    const [category, setCategory] = useState('All');
+    const [department, setDepartment] = useState('All');
+
+    // Get unique categories and departments
+    const categories = ['All', ...new Set(eventsData.map(e => e.category).filter(Boolean))];
+    const departments = ['All', ...new Set(eventsData.map(e => e.department).filter(Boolean))];
 
     // Filter logic
     const currentDate = new Date();
@@ -15,9 +21,15 @@ const EventsPage = () => {
 
     const filteredEvents = eventsData.filter(event => {
         const eventDate = new Date(event.date);
-        if (filter === 'upcoming') return eventDate >= currentDate;
-        if (filter === 'completed') return eventDate < currentDate;
-        return true;
+        const matchesCategory = category === 'All' || event.category === category;
+        const matchesDepartment = department === 'All' || event.department === department;
+        const matchesTime = (() => {
+            if (filter === 'upcoming') return eventDate >= currentDate;
+            if (filter === 'completed') return eventDate < currentDate;
+            return true;
+        })();
+
+        return matchesCategory && matchesDepartment && matchesTime;
     });
 
     // Sort events: Upcoming (nearest first), Completed (newest first for recent context)
@@ -36,26 +48,61 @@ const EventsPage = () => {
                     <h1 className='page-title'>College Events</h1>
                 </div>
 
-                {/* Filter Tabs */}
-                <div className="events-filter-container">
-                    <button
-                        className={`filter-btn ${filter === 'all' ? 'active' : ''}`}
-                        onClick={() => setFilter('all')}
-                    >
-                        All Events
-                    </button>
-                    <button
-                        className={`filter-btn ${filter === 'upcoming' ? 'active' : ''}`}
-                        onClick={() => setFilter('upcoming')}
-                    >
-                        Upcoming
-                    </button>
-                    <button
-                        className={`filter-btn ${filter === 'completed' ? 'active' : ''}`}
-                        onClick={() => setFilter('completed')}
-                    >
-                        Completed
-                    </button>
+                {/* Filter Controls */}
+                <div className="events-controls">
+                    {/* Time Filter Tabs */}
+                    <div className="events-filter-tabs">
+                        <button
+                            className={`filter-btn ${filter === 'all' ? 'active' : ''}`}
+                            onClick={() => setFilter('all')}
+                        >
+                            All Events
+                        </button>
+                        <button
+                            className={`filter-btn ${filter === 'upcoming' ? 'active' : ''}`}
+                            onClick={() => setFilter('upcoming')}
+                        >
+                            Upcoming
+                        </button>
+                        <button
+                            className={`filter-btn ${filter === 'completed' ? 'active' : ''}`}
+                            onClick={() => setFilter('completed')}
+                        >
+                            Completed
+                        </button>
+                    </div>
+
+                    <div className="dropdowns-container">
+                        {/* Category Filter */}
+                        <div className="category-filter">
+                            <select
+                                value={category}
+                                onChange={(e) => setCategory(e.target.value)}
+                                className="category-select"
+                            >
+                                {categories.map((cat, index) => (
+                                    <option key={index} value={cat}>
+                                        {cat === 'All' ? 'All Categories' : cat}
+                                    </option>
+                                ))}
+                            </select>
+                        </div>
+
+                        {/* Department Filter */}
+                        <div className="department-filter">
+                            <select
+                                value={department}
+                                onChange={(e) => setDepartment(e.target.value)}
+                                className="category-select" // Reusing same style class
+                            >
+                                {departments.map((dept, index) => (
+                                    <option key={index} value={dept}>
+                                        {dept === 'All' ? 'All Departments' : dept}
+                                    </option>
+                                ))}
+                            </select>
+                        </div>
+                    </div>
                 </div>
 
                 {/* Events Grid */}

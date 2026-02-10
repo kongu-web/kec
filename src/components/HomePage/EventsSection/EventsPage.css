@@ -22,11 +22,53 @@
     color: #fdbf2d;
 }
 
-.events-filter-container {
+/* Filter Controls Layout */
+.events-controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 50px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdowns-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.events-filter-tabs {
     display: flex;
     justify-content: center;
     gap: 15px;
-    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+/* Category Dropdown */
+.category-select {
+    padding: 10px 20px;
+    border: 2px solid #e0e0e0;
+    background: white;
+    color: #555;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    min-width: 200px;
+}
+
+.category-select:hover,
+.category-select:focus {
+    border-color: #1a3c87;
+    color: #1a3c87;
+    box-shadow: 0 4px 15px rgba(26, 60, 135, 0.1);
 }
 
 .filter-btn {
@@ -53,6 +95,7 @@
     box-shadow: 0 4px 15px rgba(26, 60, 135, 0.2);
 }
 
+/* All Events Container Grid */
 .all-events-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
