@@ -296,7 +296,7 @@ function AcademicsSection() {
             </div>
             <div>
               <h4>Undergraduate</h4>
-              <p>B.E / B.Tech / B.Arch</p>
+              <p>B.E. / B.Tech / B.Arch</p>
             </div>
           </div>
 
@@ -309,7 +309,7 @@ function AcademicsSection() {
             </div>
             <div>
               <h4>Postgraduate</h4>
-              <p>M.E / M.Tech / MBA / MCA</p>
+              <p>M.E. / M.Tech / MBA / MCA</p>
             </div>
           </div>
 
@@ -322,7 +322,7 @@ function AcademicsSection() {
             </div>
             <div>
               <h4>Computer Technology</h4>
-              <p>B.Sc / M.Sc</p>
+              <p>B.Sc. / M.Sc.</p>
             </div>
           </div>
 
@@ -335,7 +335,7 @@ function AcademicsSection() {
             </div>
             <div>
               <h4>Doctorate Programmes</h4>
-              <p>Ph.D</p>
+              <p>Ph.D.</p>
             </div>
           </div>
         </div>

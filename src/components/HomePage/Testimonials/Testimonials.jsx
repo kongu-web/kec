@@ -1,5 +1,6 @@
 import React from "react";
 import "./Testimonials.css";
+import RajkumarR from "../../../assets/images/Testimonials/RajkumarR.png";
 
 const testimonialsData = [
     {
@@ -14,7 +15,7 @@ const testimonialsData = [
         id: 2,
         name: "Rajkumar R",
         role: "Co-Founder & Managing Director, Chennai Rice Industries India Private Limited",
-        avatar: "https://ui-avatars.com/api/?name=Rajkumar+R&background=random",
+        avatar: RajkumarR,
         content:
             "I am Rajkumar R, MBA (1995-1997 batch) alumnus of Kongu Engineering College.The strong management foundation, practical learning, and dedicated faculty played a vital role in shaping my leadership skills and entrepreneurial journey.Today, as Co-Founder & Managing Director of Chennai Rice Industries India Private Limited, I credit my college for my professional success.",
     },
@@ -81,15 +82,128 @@ const TestimonialCard = ({ testimonial }) => {
 };
 
 const Testimonials = () => {
+    const scrollRef = React.useRef(null);
+    const [isPaused, setIsPaused] = React.useState(false);
+
+    const [manualPause, setManualPause] = React.useState(false);
+    const timeoutRef = React.useRef(null);
+
+    const handleManualInteraction = () => {
+        setManualPause(true);
+        if (timeoutRef.current) clearTimeout(timeoutRef.current);
+
+        timeoutRef.current = setTimeout(() => {
+            setManualPause(false);
+        }, 3000); // Resume auto-scroll after 3 seconds of inactivity
+    };
+
+    // Duplicate data for infinite loop effect (3 sets for smoother bidirectional scroll)
+    const extendedTestimonials = [...testimonialsData, ...testimonialsData, ...testimonialsData];
+
+    const handleScroll = () => {
+        if (scrollRef.current) {
+            const container = scrollRef.current;
+            const scrollWidth = container.scrollWidth;
+            const oneSetWidth = scrollWidth / 3;
+
+            // Infinite scroll reset
+            if (container.scrollLeft >= 2 * oneSetWidth) {
+                container.scrollLeft -= oneSetWidth;
+            } else if (container.scrollLeft <= 0) {
+                container.scrollLeft = oneSetWidth;
+            }
+        }
+    };
+
+    const scrollLeft = () => {
+        handleManualInteraction();
+        if (scrollRef.current) {
+            const container = scrollRef.current;
+            const cardWidth = container.children[0]?.offsetWidth || 350;
+            const gap = 40;
+            const oneSetWidth = container.scrollWidth / 3;
+
+            // Pre-warp if near start
+            if (container.scrollLeft <= gap) {
+                container.scrollLeft += oneSetWidth;
+            }
+
+            container.scrollBy({ left: -(cardWidth + gap), behavior: "smooth" });
+        }
+    };
+
+    const scrollRight = () => {
+        handleManualInteraction();
+        if (scrollRef.current) {
+            const container = scrollRef.current;
+            const cardWidth = container.children[0]?.offsetWidth || 350;
+            const gap = 40;
+            const oneSetWidth = container.scrollWidth / 3;
+
+            // Pre-warp if near end (of the second set)
+            if (container.scrollLeft >= 2 * oneSetWidth - cardWidth) {
+                container.scrollLeft -= oneSetWidth;
+            }
+
+            container.scrollBy({ left: cardWidth + gap, behavior: "smooth" });
+        }
+    };
+
+    // Auto-scroll effect (Continuous)
+    React.useEffect(() => {
+        if (isPaused || manualPause) return;
+
+        const scrollContainer = scrollRef.current;
+        let animationFrameId;
+
+        const scrollStep = () => {
+            if (scrollContainer) {
+                scrollContainer.scrollLeft += 1;
+                animationFrameId = requestAnimationFrame(scrollStep);
+            }
+        };
+
+        animationFrameId = requestAnimationFrame(scrollStep);
+
+        return () => cancelAnimationFrame(animationFrameId);
+    }, [isPaused, manualPause]);
+
+    // Initialize scroll position to the middle set
+    React.useEffect(() => {
+        if (scrollRef.current) {
+            const scrollWidth = scrollRef.current.scrollWidth;
+            const oneSetWidth = scrollWidth / 3;
+            scrollRef.current.scrollLeft = oneSetWidth; // Start at Set 2
+        }
+    }, []);
+
     return (
         <section className="testimonials-section">
             <span className="pill">Voices of KEC</span>
             <h2>What Our Community Says</h2>
 
-            <div className="testimonials-container">
-                {testimonialsData.map((testimonial) => (
-                    <TestimonialCard key={testimonial.id} testimonial={testimonial} />
-                ))}
+            <div
+                className="testimonials-carousel-wrapper"
+                onMouseEnter={() => setIsPaused(true)}
+                onMouseLeave={() => setIsPaused(false)}
+            >
+                <button className="carousel-btn left-btn" onClick={scrollLeft}>
+                    &#8249;
+                </button>
+
+                <div
+                    className="testimonials-container"
+                    ref={scrollRef}
+                    onScroll={handleScroll}
+                >
+                    {extendedTestimonials.map((testimonial, index) => (
+                        <TestimonialCard key={`${testimonial.id}-${index}`} testimonial={testimonial} />
+                    ))}
+                </div>
+
+                <button className="carousel-btn right-btn" onClick={scrollRight}>
+                    &#8250;
+                </button>
             </div>
         </section>
     );
