@@ -1,8 +1,10 @@
 import React, { useRef } from "react";
+import { useNavigate } from 'react-router-dom';
 import "./EventsSection.css";
 import eventsData from "./eventsData";
 
 const EventsSection = () => {
+    const navigate = useNavigate();
     const scrollRef = useRef(null);
     const [isPaused, setIsPaused] = React.useState(false);
     const [manualPause, setManualPause] = React.useState(false);
@@ -122,7 +124,12 @@ const EventsSection = () => {
                     onScroll={handleScroll}
                 >
                     {extendedEvents.map((event, index) => (
-                        <div key={`${event.id}-${index}`} className="event-card-new">
+                        <div
+                            key={`${event.id}-${index}`}
+                            className="event-card-new"
+                            onClick={() => navigate(`/event/${event.id}`)}
+                            style={{ cursor: 'pointer' }}
+                        >
                             <div className="card-image-wrapper">
                                 <img src={event.image} alt={event.title} />
                                 <div className="event-date-overlay">
@@ -139,11 +146,11 @@ const EventsSection = () => {
                 <button className="event-nav-btn next-btn" onClick={scrollRight}>&#8250;</button>
             </div>
 
-            {/* <div className="events-footer">
+            <div className="events-footer">
                 <a href="/events" className="know-more-btn-new">
-                    KNOW MORE <span className="arrow-icon">&rarr;</span>
+                    View All Events <span className="arrow-icon">&rarr;</span>
                 </a>
-            </div> */}
+            </div>
         </section>
     );
 };
