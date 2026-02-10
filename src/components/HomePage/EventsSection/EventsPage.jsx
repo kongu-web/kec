@@ -69,9 +69,6 @@ const EventsPage = () => {
                             >
                                 <div className="grid-card-image">
                                     <img src={event.image} alt={event.title} />
-                                    <div className="grid-date-badge">
-                                        {event.date}
-                                    </div>
                                 </div>
                                 <div className="grid-card-content">
                                     <h3>{event.title}</h3>
@@ -81,7 +78,12 @@ const EventsPage = () => {
                                         </svg>
                                         {event.location || "Location TBD"}
                                     </p>
-                                    <div className="read-more">Read More &rarr;</div>
+                                    <div className="card-footer">
+                                        <div className="grid-date-tag">
+                                            {event.date}
+                                        </div>
+                                        <div className="read-more">Read More &rarr;</div>
+                                    </div>
                                 </div>
                             </div>
                         ))

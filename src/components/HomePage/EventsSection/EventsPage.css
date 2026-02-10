@@ -1,5 +1,5 @@
 .events-page {
-    padding: 60px 5%;
+    padding: 15px 5%;
     background-color: #f9f9f9;
     min-height: 80vh;
     font-family: 'Outfit', sans-serif;
@@ -7,7 +7,7 @@
 
 .events-page-header {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .events-page-header h1 {
@@ -79,7 +79,9 @@
 
 .grid-card-image {
     position: relative;
-    height: 220px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
     overflow: hidden;
 }
 
@@ -94,21 +96,25 @@
     transform: scale(1.05);
 }
 
-.grid-date-badge {
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.grid-date-tag {
     background: #fdbf2d;
     color: #1a3c87;
     padding: 6px 12px;
     border-radius: 4px;
     font-weight: 700;
     font-size: 0.85rem;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .grid-card-content {
-    padding: 10px;
+    padding: 15px;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
@@ -124,14 +130,13 @@
 .grid-location {
     color: #777;
     font-size: 0.95rem;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     display: flex;
     align-items: center;
     gap: 5px;
 }
 
 .read-more {
-    margin-top: auto;
     color: #1a3c87;
     font-weight: 700;
     text-transform: uppercase;

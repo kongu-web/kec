@@ -76,12 +76,15 @@ const EventsSection = () => {
     const displayEvents = hasUpcoming ? upcomingEvents : completedEvents;
     const title = hasUpcoming ? "Upcoming" : "Completed";
 
-    // Duplicate data for continuous scrolling
-    const extendedEvents = [...displayEvents, ...displayEvents];
+    // Determine if we should duplicate and loop (only if more than 1 event)
+    const shouldLoop = displayEvents.length > 1;
+
+    // Duplicate data for continuous scrolling only if looping is enabled
+    const extendedEvents = shouldLoop ? [...displayEvents, ...displayEvents] : displayEvents;
 
     // Auto-scroll effect (Continuous)
     React.useEffect(() => {
-        if (isPaused || manualPause || displayEvents.length === 0) return;
+        if (!shouldLoop || isPaused || manualPause || displayEvents.length === 0) return;
 
         const scrollContainer = scrollRef.current;
         let animationFrameId;
@@ -96,7 +99,7 @@ const EventsSection = () => {
         animationFrameId = requestAnimationFrame(scrollStep);
 
         return () => cancelAnimationFrame(animationFrameId);
-    }, [isPaused, manualPause, displayEvents.length]);
+    }, [isPaused, manualPause, displayEvents.length, shouldLoop]);
 
     if (displayEvents.length === 0) return null;
 
@@ -116,12 +119,15 @@ const EventsSection = () => {
                 onMouseEnter={() => setIsPaused(true)}
                 onMouseLeave={() => setIsPaused(false)}
             >
-                <button className="event-nav-btn prev-btn" onClick={scrollLeft}>&#8249;</button>
+                {shouldLoop && (
+                    <button className="event-nav-btn prev-btn" onClick={scrollLeft}>&#8249;</button>
+                )}
 
                 <div
                     className="events-container"
                     ref={scrollRef}
-                    onScroll={handleScroll}
+                    onScroll={shouldLoop ? handleScroll : undefined}
+                    style={{ justifyContent: shouldLoop ? 'flex-start' : 'center' }}
                 >
                     {extendedEvents.map((event, index) => (
                         <div
@@ -143,7 +149,9 @@ const EventsSection = () => {
                     ))}
                 </div>
 
-                <button className="event-nav-btn next-btn" onClick={scrollRight}>&#8250;</button>
+                {shouldLoop && (
+                    <button className="event-nav-btn next-btn" onClick={scrollRight}>&#8250;</button>
+                )}
             </div>
 
             <div className="events-footer">

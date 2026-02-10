@@ -41,12 +41,27 @@ const EventDetails = () => {
                     <div className="event-content">
                         <div className="event-info-grid">
                             <div className="info-item">
-                                <span className="info-label">Time</span>
-                                <span className="info-value">{event.time || "Time not specified"}</span>
+                                <div className="info-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    </svg>
+                                </div>
+                                <div className="info-text">
+                                    <span className="info-label">Time</span>
+                                    <span className="info-value">{event.time || "Time not specified"}</span>
+                                </div>
                             </div>
                             <div className="info-item">
-                                <span className="info-label">Location</span>
-                                <span className="info-value">{event.location || "Venue not specified"}</span>
+                                <div className="info-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                    </svg>
+                                </div>
+                                <div className="info-text">
+                                    <span className="info-label">Location</span>
+                                    <span className="info-value">{event.location || "Venue not specified"}</span>
+                                </div>
                             </div>
                         </div>
 
@@ -54,9 +69,12 @@ const EventDetails = () => {
                             <h3>About the Event</h3>
                             <p>{event.description || "No description available for this event."}</p>
                         </div>
+
+
                     </div>
                 </div>
             </div>
+
             <Footer />
         </>
     );
