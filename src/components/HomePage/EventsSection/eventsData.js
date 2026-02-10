@@ -7,7 +7,7 @@ const eventsData = [
     {
         id: 1,
         image: eHorizonImg,
-        date: "September 13, 2025",
+        date: "September 13, 2026",
         title: "E-Horizon 2025 - Technical Symposium",
         description: "A grand technical symposium showcasing student innovations, project displays, and technical workshops. Join us for a day of learning and technology.",
         location: "KEC Auditorium",
