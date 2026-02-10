@@ -76,8 +76,8 @@ const EventsSection = () => {
     const displayEvents = hasUpcoming ? upcomingEvents : completedEvents;
     const title = hasUpcoming ? "Upcoming" : "Completed";
 
-    // Determine if we should duplicate and loop (only if more than 1 event)
-    const shouldLoop = displayEvents.length > 1;
+    // Determine if we should duplicate and loop (only if more than 3 events)
+    const shouldLoop = displayEvents.length > 3;
 
     // Duplicate data for continuous scrolling only if looping is enabled
     const extendedEvents = shouldLoop ? [...displayEvents, ...displayEvents] : displayEvents;
