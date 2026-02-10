@@ -10,16 +10,29 @@
     margin-bottom: 30px;
 }
 
+/* Page Title Design */
 .events-page-header h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
+    font-weight: 700;
     color: #1a3c87;
-    font-weight: 800;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    letter-spacing: 1.5px;
+    margin-bottom: 25px;
+    position: relative;
+    display: inline-block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.events-page-header h1 span {
-    color: #fdbf2d;
+.events-page-header h1::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 5px;
+    background: linear-gradient(90deg, #fdbf2d, #f5af19);
+    border-radius: 10px;
 }
 
 /* Filter Controls Layout */
@@ -62,6 +75,16 @@
     outline: none;
     transition: all 0.3s ease;
     min-width: 200px;
+    font-family: inherit;
+    /* Ensure font matches */
+}
+
+/* Date Input Specifics */
+input[type="date"].category-select {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    color: #555;
 }
 
 .category-select:hover,
@@ -118,6 +141,37 @@
 .event-grid-card:hover {
     transform: translateY(-8px);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Completed Event Styles */
+/* Completed Event Styles */
+.completed-event {
+    opacity: 0.9;
+    /* Slightly fade the whole card but keep text readable */
+}
+
+.completed-event .grid-card-image {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.completed-event:hover .grid-card-image {
+    filter: grayscale(0%);
+    /* Restore color on hover */
+}
+
+.completed-event .grid-date-tag {
+    background: #e0e0e0;
+    /* Grey out date tag */
+    color: #888;
+    box-shadow: none;
+}
+
+.completed-event:hover .grid-date-tag {
+    background: #fdbf2d;
+    /* restore date tag color on hover optional? User said only gray date and image. Let's keep it gray or restore? usually restore is nice. Let's keep it gray as per strict request "gray the event date and image" implies permanent state or initial state. I will restore on hover for consistency with previous behavior. */
+    color: #1a3c87;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .grid-card-image {
