@@ -9,25 +9,46 @@ const eventsData = [
         image: eHorizonImg,
         date: "February 19-26, 2026",
         title: "E-Horizon 2026 - Technical Symposium",
+        description: "A grand technical symposium showcasing student innovations, project displays, and technical workshops. Join us for a day of learning and technology.",
+        location: "KEC Auditorium",
+        time: "9:00 AM - 4:00 PM",
+        popupImage: eHorizonImg, // Add your popup image source here if available
+        category: "Technical",
+        department: "IT"
     },
     {
         id: 2,
         image: swaramImg,
         date: "February 25, 2026",
         title: "Swaram 2026 - Cultural Fest",
+        description: "An evening of music, dance, and cultural performances by our talented students. Experience the vibrant culture of our college.",
+        location: "Open Air Theatre",
+        time: "5:00 PM - 9:00 PM",
+        category: "Cultural",
+        department: "College Level"
     },
     {
         id: 3,
         image: sportsDayImg,
         date: "March 16, 2026",
         title: "Sports Day",
+        description: "Celebrating the spirit of sportsmanship. Watch our athletes compete in various track and field events.",
+        location: "College Ground",
+        time: "8:00 AM - 5:00 PM",
+        category: "Sports",
+        department: "Physical Education"
     },
     {
         id: 4,
         image: annualDayImg,
         date: "March 18, 2026",
         title: "Annual Day",
-    },
+        description: "The most awaited event of the year, celebrating our achievements, awards, and the togetherness of our college community.",
+        location: "Convention Center",
+        time: "10:00 AM - 1:00 PM",
+        category: "College Function",
+        department: "College Level"
+    }
 ];
 
 export default eventsData;
