@@ -180,6 +180,47 @@ const coeData = [
       "Enhanced employability through practical engineering training",
     ],
   },
+   {
+    title:
+      "Automobile Engineering - Centre of Excellence for Design",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-design.jpeg"),
+    content: null,
+    features: null,
+    objectives: [
+      "To impart hands-on training in 3D design, digital manufacturing, and simulation using Autodesk tools.",
+      "To provide a platform for students to explore, design, and innovate with real-world applications.",
+      "To encourage participation in national-level events like India Design Week, fostering a culture of design excellence.",
+      "To establish a continuous learning ecosystem through workshops, FDPs, and Autodesk Learning Partner Network.",
+    ],
+    outcomes: [
+      "Students trained with Autodesk tools to become job-ready with practical design and simulation skills.",
+      "Graduates gain competitive advantage in core engineering and design-related placements.",
+      "Students actively participate in India Design Week and similar platforms, showcasing their creative projects.",
+      "Faculty members gain proficiency in modern design tools, enabling better knowledge transfer in classrooms.",
+      "Stronger links between academia and industry through Autodesk-supported events and projects.",
+    ],
+  },
+     {
+    title:
+      "Automobile Engineering - Centre of Excellence in Advanced Fuel Injection System",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-delphi.jpeg"),
+    content: null,
+    features: null,
+    objectives: [
+      "To establish a dedicated Centre of Excellence that provides hands-on training, technical skill development, and exposure to emerging automotive and mobility technologies.",
+      "To facilitate industry-oriented internships and real-time project opportunities that enable students to gain practical exposure to industrial challenges.",
+      "To promote joint research initiatives and conduct Faculty Development Programs aimed at knowledge exchange, innovation, and technological advancement.",
+      "To organize expert lectures and technical sessions by industry professionals to bridge the gap between academic learning and industrial applications.",
+      "To establish a structured industry–institute recruitment framework that enhances student employability and creates a sustainable talent pipeline for Delphi TVS.",
+    ],
+    outcomes: [
+      "Students gain industry-relevant skills leading to improved placement opportunities and career readiness in automotive and mobility sectors.",
+      "Hands-on exposure to advanced tools, technologies, and real-time industrial practices strengthens practical knowledge and technical expertise.",
+      "Increased participation in collaborative research projects, patents, publications, and funded R&D activities for both students and faculty.",
+      "Upgraded curriculum aligned with industry standards enhances academic quality and relevance of teaching-learning processes.",
+      "Faculty members gain exposure to latest industrial trends through FDPs, workshops, and collaborative technical programs.",
+    ],
+  },
 ];
 
 const Coe = () => {
