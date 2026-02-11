@@ -17,12 +17,29 @@ const Homepopup = () => {
   const currentDate = new Date();
   currentDate.setHours(0, 0, 0, 0);
 
-  const upcomingEvents = eventsData.filter(event => {
-    const eventDate = new Date(event.date);
-    return eventDate >= currentDate;
-  });
+  // Helper to parse date strings that might be ranges like "February 19-26, 2026"
+  const parseEventDate = (dateStr) => {
+    // If it resembles a range with a hyphen before the comma/year
+    // e.g. "February 19-26, 2026"
+    if (dateStr.includes('-')) {
+      const parts = dateStr.split(','); // ["February 19-26", " 2026"]
+      if (parts.length === 2) {
+        const monthDayRange = parts[0].trim(); // "February 19-26"
+        const year = parts[1].trim(); // "2026"
+        const monthDay = monthDayRange.split('-')[0].trim(); // "February 19"
+        return new Date(`${monthDay}, ${year}`);
+      }
+    }
+    return new Date(dateStr);
+  };
 
-  const currentEvent = upcomingEvents[0]; // Display the first upcoming event
+  const upcomingEvents = eventsData.filter(event => {
+    const eventDate = parseEventDate(event.date);
+    return eventDate >= currentDate;
+  }).sort((a, b) => parseEventDate(a.date) - parseEventDate(b.date));
+
+  // Find the first upcoming event that HAS a popupImage
+  const currentEvent = upcomingEvents.find(event => event.popupImage);
 
   if (!currentEvent || !currentEvent.popupImage) return null;
 

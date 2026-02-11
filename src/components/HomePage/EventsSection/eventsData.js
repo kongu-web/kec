@@ -53,7 +53,7 @@ const eventsData = [
     {
         id: 5,
         image:  ITConference,
-        date: "December 3, 2026",
+        date: "December 3-4, 2026",
         title: "International Conference",
         description: "Next-Gen Cyber AI for Sustainable Technologies.",
         location: "IT Park",
