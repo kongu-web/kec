@@ -96,7 +96,7 @@ const teamMembers = [
         id: '12',
         name: 'J.Charanya',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/Charanya.jpg',
+        image: '/assets/iqac/Team/charanya.jpg',
         link: 'https://docs.google.com/document/u/1/d/e/2PACX-1vTPauYocWakPYAuJc3WoAC9oOgTfX3Lmqx54n0L8bLFqg3vKp1uVR-rXIeCd9PYvQ/pub'
     }
 ];
