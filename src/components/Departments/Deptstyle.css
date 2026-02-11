@@ -127,6 +127,31 @@ body {
 }
 
 
+
+/* Dynamic Content Section */
+.auto-content {
+  background: transparent;
+  padding: 0 60px;
+  margin: 30px auto;
+  max-width: 1400px;
+}
+
+.auto-content h2 {
+  color: #009EDB;
+  border-bottom: 2px solid #009EDB;
+  font-size: 24px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.auto-content h3 {
+  color: #319143;
+  font-size: 18px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
 /* Department Details Table */
 .dept-details-table {
   width: 100%;
