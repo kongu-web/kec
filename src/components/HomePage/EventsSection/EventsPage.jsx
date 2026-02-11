@@ -35,15 +35,29 @@ const EventsPage = () => {
     const currentDate = new Date();
     currentDate.setHours(0, 0, 0, 0);
 
+    // Helper to parse date
+    const parseEventDate = (dateStr) => {
+        if (dateStr.includes('-')) {
+            const parts = dateStr.split(',');
+            if (parts.length === 2) {
+                const monthDayRange = parts[0].trim();
+                const year = parts[1].trim();
+                const monthDay = monthDayRange.split('-')[0].trim();
+                return new Date(`${monthDay}, ${year}`);
+            }
+        }
+        return new Date(dateStr);
+    };
+
     const filteredEvents = eventsData.filter(event => {
-        const eventDate = new Date(event.date);
+        const eventDate = parseEventDate(event.date);
         const matchesCategory = category === 'All' || event.category === category;
         const matchesDepartment = department === 'All' || event.department === department;
 
         const matchesDate = (() => {
             if (selectedDate) {
                 const d = new Date(selectedDate);
-                const e = new Date(event.date);
+                const e = eventDate;
                 return d.getFullYear() === e.getFullYear() &&
                     d.getMonth() === e.getMonth() &&
                     d.getDate() === e.getDate();
@@ -66,8 +80,10 @@ const EventsPage = () => {
 
     // Sort events
     const sortedEvents = (() => {
-        const upcoming = filteredEvents.filter(e => new Date(e.date) >= currentDate).sort((a, b) => new Date(a.date) - new Date(b.date));
-        const completed = filteredEvents.filter(e => new Date(e.date) < currentDate).sort((a, b) => new Date(b.date) - new Date(a.date));
+        const upcoming = filteredEvents.filter(e => parseEventDate(e.date) >= currentDate)
+            .sort((a, b) => parseEventDate(a.date) - parseEventDate(b.date));
+        const completed = filteredEvents.filter(e => parseEventDate(e.date) < currentDate)
+            .sort((a, b) => parseEventDate(b.date) - parseEventDate(a.date));
 
         if (filter === 'upcoming') return upcoming;
         if (filter === 'completed') return completed;
@@ -190,7 +206,7 @@ const EventsPage = () => {
                 <div className="all-events-container">
                     {sortedEvents.length > 0 ? (
                         sortedEvents.map((event) => {
-                            const isCompleted = new Date(event.date) < currentDate;
+                            const isCompleted = parseEventDate(event.date) < currentDate;
                             return (
                                 <div
                                     key={event.id}

@@ -58,17 +58,31 @@ const EventsSection = () => {
         }
     };
 
-    // Filter for upcoming and completed events
+    // Flter for upcoming and completed events
     const currentDate = new Date();
     currentDate.setHours(0, 0, 0, 0);
 
+    // Helper to parse date strings that might be ranges like "February 19-26, 2026"
+    const parseEventDate = (dateStr) => {
+        if (dateStr.includes('-')) {
+            const parts = dateStr.split(',');
+            if (parts.length === 2) {
+                const monthDayRange = parts[0].trim();
+                const year = parts[1].trim();
+                const monthDay = monthDayRange.split('-')[0].trim();
+                return new Date(`${monthDay}, ${year}`);
+            }
+        }
+        return new Date(dateStr);
+    };
+
     const upcomingEvents = eventsData.filter(event => {
-        const eventDate = new Date(event.date);
+        const eventDate = parseEventDate(event.date);
         return eventDate >= currentDate;
     });
 
     const completedEvents = eventsData.filter(event => {
-        const eventDate = new Date(event.date);
+        const eventDate = parseEventDate(event.date);
         return eventDate < currentDate;
     });
 

@@ -1,6 +1,13 @@
 import React from "react";
 import "./Testimonials.css";
 import RajkumarR from "../../../assets/images/Testimonials/RajkumarR.png";
+import Manoshrinivas from "../../../assets/images/Testimonials/Manoshrinivas.jpeg";
+import Harish from "../../../assets/images/Testimonials/Harish.jpeg";
+import kasthuri from "../../../assets/images/Testimonials/kasthuri.jpeg";
+import Manikandan from "../../../assets/images/Testimonials/Manikandan.jpg";
+import venkat from "../../../assets/images/Testimonials/venkat.jpeg";
+import vignesh from "../../../assets/images/Testimonials/vignesh.jpeg";
+import dhanraj from "../../../assets/images/Testimonials/dhanraj.jpeg";
 
 const testimonialsData = [
     {
@@ -51,7 +58,64 @@ const testimonialsData = [
         content:
             "I am Tamilselvan C, BE Mechatronics (2012-2016 batch) alumnus of Kongu Engineering College. The strong academic foundation, disciplined learning environment, and guidance from dedicated faculty members played a significant role in shaping my technical thinking, leadership mindset, and professional values. The emphasis on practical exposure, responsibility, and continuous improvement helped me build confidence early in my career. Today, as the Founder & CEO of Winfomi Technologies, I sincerely credit my college for laying the foundation for my professional journey and entrepreneurial mindset. I remain grateful to my institution for being an integral part of my success.",
     },
+    {
+        id: 7,
+        name: "Mr. N. M. Manoshrinivas",
+        role: "Software Developer, Zoho Corporation, Chennai",
+        avatar: Manoshrinivas,
+        content:
+            " It was a privilege to be a part of Department of Automobile Engineering, which provided a strong academic foundation and continuous guidance from dedicated faculty members. The knowledge, discipline, and problem-solving skills gained during my academic journey have supported my 3.5 years of professional experience as a Software Developer at Zoho Corporation, enabling me to confidently address real-world engineering challenges.",
+    },
+      {
+        id: 8,
+        name: "Mr. M. R. Harish Kumar",
+        role: "Vehicle Development Engineer, Mahindra & Mahindra – R&D Division",
+        avatar: Harish,
+        content:
+            "I am proud to be an alumnus of Automobile Engineering Department, KEC, which provided me with a strong academic foundation and continuous guidance from dedicated faculty members. The values of discipline, critical thinking, and problem-solving that I developed during my college days played a significant role in shaping my professional journey. These learnings have supported in my professional 3.7 years of experience as a vehicle Development engineer at Mahindra & Mahindra - R&D Division, enabling me to confidently work on  vehicle attributes engineering challenges.",
+    },
+      {
+        id: 9,
+        name: "Kasthuri ganeshguru",
+        role: "Cyber Security Architect, Cognizant, Chennai",
+        avatar: kasthuri,
+        content:
+            "I am Kasthuri Ganeshguru, alumna of Kongu Engineering College, 5 Years Integrated M.Sc. Software Engineering (2007–2012 batch). The strong academic foundation, disciplined learning environment, and continuous guidance from the faculty played a significant role in shaping my mindset, confidence, and professional readiness. Today, as a Senior Cybersecurity Architect at Cognizant, I carry forward the values and lessons gained from my time at Kongu Engineering College and credit the institution for my personal and professional growth.",
+    },
+     {
+        id: 10,
+        name: "Manikandan Venkatachalam",
+        role: "Enterprise Architectt, iDatalytics, USA",
+        avatar: Manikandan,
+        content:
+            "I am Manikandan Venkatachalam, alumnus of Kongu Engineering College, M.Sc. Software Engineering (Integrated 5-Year Program), 2008–2013 batch. The strong academic foundation, innovative learning environment, and dedicated mentorship—particularly from the Department of M.Sc. Software Engineering—played a key role in transforming my passion for software into a global career. Currently based in the USA, I work as an Enterprise Architect – Cloud & AI at iDatalytics, where I lead multi-cloud transformations and architect AI-driven enterprise solutions across industries. The rigorous training at KEC not only strengthened my technical expertise but also instilled leadership, resilience, and a problem-solving mindset, and I proudly credit my alma mater for shaping the values and excellence that continue to guide my professional growth.",
+    },
+     {
+        id: 11,
+        name: "Venkat Dharmalingam",
+        role: "Senior Associate Project Manager, Cognizant",
+        avatar: venkat,
+        content:
+            "The Department of EIE, Kongu Engineering College gave me more than technical knowledge—it gave me confidence, clarity, and career direction. The strong fundamentals and mentorship I received here laid the foundation for my growth as a Senior Associate Project Manager at cognizant",
+    },
+     {
+        id: 12,
+        name: "Vignesh Saravanan",
+        role: "Mobile Marketing Manager, Shriram Finance Limited",
+        avatar: vignesh,
+        content:
+            "My time at the Department of EIE, Kongu Engineering College built the strategic thinking and data-driven mindset essential for today’s business world. The exposure and discipline I gained here continue to drive my impact as a Mobile Marketing Manager.",
+    },
+      {
+        id: 13,
+        name: "Dhanraj Rajendran",
+        role: "Associate R&D Engineer, ABB Global Industries and Services Private Limited",
+        avatar: dhanraj,
+        content:
+            "From classroom concepts to global innovation, my journey at the Department of EIE, Kongu Engineering College shaped who I am today. The guidance and hands-on learning here powered my path to becoming an Associate R&D Engineer at ABB Global Industries.",
+    },
 ];
+
 
 const TestimonialCard = ({ testimonial }) => {
     const [isExpanded, setIsExpanded] = React.useState(false);

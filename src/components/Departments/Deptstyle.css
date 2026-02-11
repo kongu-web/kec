@@ -1,706 +1,1487 @@
 /* General Page Styling */
 body {
-    margin: 0;
-    font-family: "Arial", sans-serif;
-    background-color: #f4f4f4;
-  }
-  
-  .bigdata {
-    text-align: justify;
-    line-height: 2;
-    margin-bottom: 15px; /* Adds space between paragraphs */
-  }
-  
-  /* Navbar and Section Wrapper */
-  .navbar-section-wrapper {
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
-    background-color: #fff;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Main Container */
-  .auto-container {
-    max-width: 1200px;
-    margin: auto;
-    padding-top: 1px; /* Offset for fixed navbar */
-  }
-  
-  /* Banner Section */
-  .auto-banner-container {
-    position: relative;
-    width: 100%;
-    height: 250px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-  }
-  
-  .auto-banner {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5);
-  }
-  
-  .auto-header {
-    position: absolute;
-    color: #faf8f8;
-    font-size: 32px;
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adds dark shadow */
-    z-index: 10; /* Ensures it's above the image */
-    width: 100%; /* Optional: spans across */
-  }
-  
-  
-  /* Navigation Bar */
-  .auto-navbar {
-    display: flex;
-    justify-content: center;
-    gap: 1px;
-    background-color: #303877;
-    padding: 0;
-    position: sticky;
-    top: 115px;
-    z-index: 999;
-  }
-  
-  .auto-navbar button {
-    width: 150px;
-    background: none;
-    border: none;
-    color: white;
-    font-size: 12px;
-    padding: 10px;
-    cursor: pointer;
-    transition: 0.3s;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .auto-navbar button:hover,
-  .auto-navbar button.active {
-    background-color: #ffffff;
-    color: #303877;
-    height: 100%;
-  }
-  
-  /* Dynamic Content Section */
-  .auto-content {
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    margin: 20px 0;
-  }
-  
-  .auto-content h2 {
-    /* color: #319143;
-    border-bottom: 2px solid #319143; */
-    color: #009EDB;
-    border-bottom: 2px solid #009EDB;
-    font-size: 24px;
-    padding-bottom: 5px;
-  }
-
-  .auto-content h3 {
-    color: #319143;
-    font-size: 15px;
-    padding-bottom: 5px;
-  }
-  
-  /* Faculty Section */
-.auto-faculty-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 32px;
-  padding: 30px 10px;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
 }
 
+/* About/Programme Scope Section */
+.about-section {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  /* Center vertically */
+  margin-bottom: 20px;
+  background: white;
+  /* Clean background */
+}
+
+.about-text {
+  flex: 1;
+}
+
+/* Override default H2 styles for this specific title */
+.auto-content .about-title {
+  color: #1a3c87;
+  font-size: 1.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  border-left: none;
+  padding-left: 0;
+  letter-spacing: 0.5px;
+}
+
+/* Custom Dashed Underline */
+.about-underline {
+  width: 120px;
+  height: 5px;
+  background: linear-gradient(to right,
+      #fdbf2d 0%, #fdbf2d 60%,
+      transparent 60%, transparent 70%,
+      #fdbf2d 70%, #fdbf2d 85%,
+      transparent 85%, transparent 90%,
+      #fdbf2d 90%, #fdbf2d 100%);
+  margin-bottom: 30px;
+  border-radius: 2px;
+}
+
+.about-section p {
+  text-align: justify;
+  line-height: 1.8;
+  color: #555;
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.about-image {
+  flex: 1;
+  height: 400px;
+  /* Fixed height for consistency */
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.about-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.about-image:hover img {
+  transform: scale(1.08);
+}
+
+/* Responsive adjustment */
+@media (max-width: 900px) {
+  .about-section {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .about-image {
+    width: 100%;
+    height: 300px;
+  }
+
+  .about-underline {
+    margin: 0 auto 20px auto;
+    /* Center on mobile */
+  }
+
+  .auto-content .about-title {
+    text-align: center;
+  }
+}
+
+/* Navbar and Section Wrapper */
+.navbar-section-wrapper {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Main Container */
+.auto-container {
+  /* max-width: 1200px; */
+  margin: auto;
+  padding-top: 1px;
+}
+
+/* Banner Section */
+.auto-banner-container {
+  position: relative;
+  width: 100%;
+  height: 350px;
+  /* Increased height for impact */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: -40px;
+  /* Overlap effect with content */
+}
+
+.auto-banner {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1.05);
+  /* Slight zoom for depth */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(48, 56, 119, 0.4), rgba(48, 56, 119, 0.9));
+}
+
+.auto-header {
+  position: absolute;
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  text-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+  width: 100%;
+  letter-spacing: 1px;
+  animation: fadeInDown 1s ease-out;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Navigation Bar */
+.auto-navbar {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  background-color: #303877;
+  /* Deep Blue Background */
+  padding: 15px 0;
+  position: sticky;
+  top: 115px;
+  /* Fixed: Increased to clear the main header */
+  z-index: 990;
+  /* Adjusted to sit nicely under main header */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.auto-navbar button {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  min-width: auto;
+  /* Remove fixed width constraint */
+}
+
+.auto-navbar button:hover,
+.auto-navbar button.active {
+  background-color: #f8c401;
+  color: #303877;
+  border-color: #f8c401;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Dynamic Content Section */
+.auto-content {
+  background: transparent;
+  /* padding: 0 60px; */
+  margin: 30px auto;
+  max-width: 1400px;
+}
+
+.auto-content h2 {
+  color: #303877;
+  font-size: 1.4rem;
+  font-weight: 800;
+  margin-bottom: 25px;
+  position: relative;
+  padding-left: 20px;
+  border-left: 6px solid #fdbf2d;
+  /* Yellow pill accent */
+  line-height: 1.2;
+}
+
+.auto-content h3 {
+  color: #319143;
+  font-size: 18px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+/* Department Details Table - Modern Clean Look */
+/* Department Details - Stat Cards Layout */
+.dept-stats-grid {
+  display: flex;
+  gap: 40px;
+  margin: 50px 0;
+  flex-wrap: wrap;
+}
+
+.dept-stat-card {
+  flex: 1;
+  min-width: 300px;
+  background: #ffffff;
+  padding: 20px 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-top: 6px solid #1a3c87;
+  /* Blue accent */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dept-stat-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+  border-top-color: #fdbf2d;
+  /* Yellow hover accent */
+}
+
+/* Background Number Decoration */
+.dept-stat-card::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, rgba(26, 60, 135, 0.05) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #888;
+  margin-bottom: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #1a3c87;
+  line-height: 1.2;
+  position: relative;
+  z-index: 1;
+  transition: color 0.3s ease;
+}
+
+.dept-stat-card:hover .stat-value {
+  color: #1a3c87;
+  /* Keep consistent or change */
+}
+
+
+/* Responsive Stats */
+@media (max-width: 768px) {
+  .dept-stats-grid {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+
+/* Dropdown Accordion - Modern Strip Style */
+.dropdown-section {
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: transparent;
+  box-shadow: none;
+  /* Remove container shadow */
+  transition: all 0.3s ease;
+}
+
+.dropdown-section button {
+  background: #f4f7fb;
+  /* Light grayish blue */
+  color: #303877;
+  border: none;
+  padding: 20px 30px;
+  width: 100%;
+  text-align: left;
+  font-size: 1.1rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  /* Rounded individual strips */
+  transition: all 0.3s ease;
+}
+
+.dropdown-section.active button {
+  background: #1a3c87;
+  /* Active Blue */
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  /* Flat bottom when open */
+  box-shadow: 0 4px 10px rgba(26, 60, 135, 0.2);
+}
+
+.dropdown-section button:hover {
+  background-color: #e2e8f0;
+  padding-left: 35px;
+  /* Slide effect */
+}
+
+.dropdown-section.active button:hover {
+  background-color: #1a3c87;
+  /* Keep blue on active hover */
+  padding-left: 30px;
+  /* No slide when active */
+}
+
+/* CSS Arrow inside button */
+.dropdown-section button::after {
+  content: "+";
+  /* Plus sign */
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  transition: transform 0.3s ease;
+  color: inherit;
+  border: none;
+  width: auto;
+  height: auto;
+  margin: 0;
+  transform: none;
+}
+
+.dropdown-section.active button::after {
+  content: "−";
+  /* Minus sign */
+  transform: rotate(0deg);
+  /* No rotation needed for char change */
+  border: none;
+}
+
+/* Keyframes for fade up */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply animation */
+.auto-content,
+.dept-details-table,
+.dropdown-section {
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Stagger animations if possible (requires nth-child which might be tricky dynamically, so keep simple) */
+.dept-details-table {
+  animation-delay: 0.1s;
+  opacity: 0;
+}
+
+/* Vision & Mission Section - Blue Theme */
+.vision-mission-grid {
+  display: flex;
+  gap: 60px;
+  background-color: #1a3c87;
+  /* Deep Corporate Blue */
+  padding: 60px;
+  border-radius: 12px;
+  color: white;
+  margin: 60px 0;
+  box-shadow: 0 10px 30px rgba(26, 60, 135, 0.2);
+  position: relative;
+  overflow: hidden;
+  align-items: flex-start;
+}
+
+/* Decorative background element */
+.vision-mission-grid::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.05) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(30%, -30%);
+}
+
+.vm-card {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.vm-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #fdbf2d;
+  /* Bright Yellow */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+  display: inline-block;
+  position: relative;
+}
+
+/* Custom Dashed Underline */
+.vm-title::after {
+  content: "";
+  display: block;
+  width: 50px;
+  /* Short accent line */
+  height: 4px;
+  background: #fdbf2d;
+  /* Solid Yellow */
+  margin-top: 10px;
+  border-radius: 2px;
+}
+
+.vm-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.95);
+  text-align: left;
+  /* Ensure left alignment */
+}
+
+.vm-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.vm-content li {
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 15px;
+  display: block;
+  color: inherit;
+  /* White */
+}
+
+/* Checkmark Icon for list items */
+.vm-content li::before {
+  content: "✔";
+  /* Tick mark */
+  position: absolute;
+  left: 0;
+  top: 3px;
+  width: 22px;
+  height: 22px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  color: white;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+/* Vision Text Adjustment */
+.vm-card:first-child .vm-content {
+  text-align: justify;
+}
+
+.vm-card:first-child .vm-content li::before {
+  display: none;
+  /* Hide tick for Vision usually */
+}
+
+.vm-card:first-child .vm-content li {
+  padding-left: 0;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .vision-mission-grid {
+    flex-direction: column;
+    padding: 40px 30px;
+    gap: 40px;
+  }
+}
+
+/* Dropdown Content */
+.dropdown-content {
+  display: block;
+  /* Always block, use max-height for toggle */
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
+  /* Slightly slower for elegance */
+  background-color: #ffffff;
+  border-left: 5px solid #fdbf2d;
+  /* Yellow accent line */
+  padding: 0 25px;
+  /* Collapsed padding handled by max-height usually but let's keep horizontal padding */
+  margin-top: 0;
+}
+
+/* Show content when dropdown is active */
+.dropdown-section.active .dropdown-content {
+  max-height: 500px;
+  /* Arbitrary large height */
+  opacity: 1;
+  padding: 20px 25px;
+  /* Expand vertical padding */
+  border-top: 1px solid #f0f0f0;
+}
+
+/* List inside dropdown */
+.dropdown-content ul {
+  list-style-type: none;
+  /* Custom bullets */
+  padding-left: 0;
+  margin: 0;
+}
+
+.dropdown-content li {
+  margin-bottom: 12px;
+  font-size: 1rem;
+  line-height: 1.6;
+  position: relative;
+  padding-left: 25px;
+  color: #555;
+}
+
+.dropdown-content li::before {
+  content: "•";
+  color: #319143;
+  /* Green bullet */
+  font-weight: bold;
+  font-size: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: -5px;
+}
+
+/* CSS Arrow inside button */
+.dropdown-section button::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #1a3c87;
+  border-bottom: 2px solid #1a3c87;
+  transform: rotate(45deg);
+  transition: transform 0.3s ease;
+  margin-left: 10px;
+  margin-bottom: 3px;
+  /* visual alignment */
+}
+
+.dropdown-section.active button::after {
+  transform: rotate(-135deg);
+  /* Flips the arrow up */
+  border-color: #fdbf2d;
+  /* Highlight color on active */
+}
+
+/* Highlights Section */
+/* Highlights Section - Modern Feature Grid */
+.highlights-list {
+  margin-top: 40px;
+  padding-left: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+}
+
+.highlights-list li {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0;
+  /* Grid handles gap */
+  background: white;
+  padding: 30px 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 1px solid #f0f0f0;
+  transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.highlights-list li:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(26, 60, 135, 0.15);
+  border-color: #1a3c87;
+}
+
+/* Accent Line on Left */
+.highlights-list li::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background: #1a3c87;
+  border-radius: 4px 0 0 4px;
+}
+
+.highlights-list li:hover::after {
+  background: #fdbf2d;
+}
+
+/* Icon / Badge Styling */
+.highlights-list li::before {
+  content: "★";
+  /* Star icon for highlights */
+  flex-shrink: 0;
+  /* Prevent squishing */
+  width: 45px;
+  height: 45px;
+  background: #f0f4ff;
+  /* Light blue bg */
+  color: #1a3c87;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: normal;
+  transition: all 0.3s ease;
+}
+
+.highlights-list li:hover::before {
+  background: #1a3c87;
+  color: #fdbf2d;
+  transform: rotate(360deg);
+}
+
+
+
+/* Highlights Table - Modern Data Grid */
+.highlights-table {
+  width: 100%;
+  border-collapse: separate;
+  /* Allows border-radius on table */
+  border-spacing: 0;
+  margin: 40px 0;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eee;
+}
+
+.highlights-table thead {
+  background: #303877;
+  color: white;
+}
+
+.highlights-table th {
+  padding: 18px 30px;
+  text-align: left;
+  font-weight: 600;
+  /* text-transform: uppercase; */
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+  /* border-bottom: 4px solid #fdbf2d; */
+  /* Yellow accent line under header */
+}
+
+.highlights-table td {
+  padding: 20px 30px;
+  border-bottom: 1px solid #f0f0f0;
+  color: #555;
+  line-height: 1.6;
+  vertical-align: top;
+  font-size: 1rem;
+}
+
+.highlights-table tr:last-child td {
+  border-bottom: none;
+}
+
+.highlights-table tr:nth-child(even) {
+  background-color: #fcfcfc;
+}
+
+.highlights-table tbody tr:hover {
+  background-color: #f0f6ff;
+  /* Light blue hover */
+}
+
+.highlights-table td:first-child {
+  font-weight: 700;
+  color: #1a3c87;
+  width: 30%;
+  border-right: 1px dashed #e0e0e0;
+}
+
+/* Responsive Highlights Table */
+@media (max-width: 768px) {
+
+  .highlights-table,
+  .highlights-table tbody,
+  .highlights-table tr,
+  .highlights-table td,
+  .highlights-table th {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .highlights-table thead {
+    display: none;
+    /* Hide header on mobile styling */
+  }
+
+  .highlights-table tr {
+    margin-bottom: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  }
+
+  .highlights-table td {
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+  }
+
+  .highlights-table td:first-child {
+    background: #1a3c87;
+    color: white;
+    width: 100%;
+    border-right: none;
+    border-bottom: none;
+  }
+}
+
+/* Milestones Timeline */
+.milestone-container {
+  width: 80%;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  border-left: 4px solid #e0e0e0;
+  /* Lighter line */
+  padding-left: 30px;
+  position: relative;
+}
+
+.milestone {
+  position: relative;
+  padding: 20px;
+  background: white;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  /* Softer shadow */
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border: 1px solid #f0f0f0;
+}
+
+.milestone:hover {
+  transform: translateX(10px);
+  border-color: #303877;
+}
+
+/* Timeline Dot */
+.milestone::before {
+  content: '';
+  position: absolute;
+  left: -44px;
+  /* Adjust based on padding-left of container (30px) + border (4px) + gap */
+  top: 20px;
+  width: 20px;
+  height: 20px;
+  background: #303877;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px #e0e0e0;
+  z-index: 1;
+}
+
+/* Timeline Arrow */
+.milestone::after {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 24px;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid white;
+}
+
+.milestone-year {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #1a3c87;
+  margin-bottom: 10px;
+  display: inline-block;
+  border-bottom: 2px solid #fdbf2d;
+}
+
+.milestone-events {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.milestone-events ul {
+  padding-left: 20px;
+  margin: 10px 0 0 0;
+}
+
+.milestone-events li {
+  margin-bottom: 8px;
+}
+
+/* Laboratory List Section */
+.lab-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.lab-card {
+  background: #303877;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  width: 220px;
+  transition: 0.3s ease-in-out;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.lab-detail h2 {
+  color: #319143;
+  font-size: 20px;
+  border-bottom: 2px solid #319143;
+  padding-bottom: 1px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.lab-card:hover,
+.lab-card.active {
+  background-color: #ffffff;
+  color: #303877;
+  border: 2px solid #319143;
+}
+
+/* Lab Detail Section */
+.lab-detail {
+  margin-top: 25px;
+  padding: 25px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  text-align: justify;
+
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lab-detail h3 {
+  font-size: 22px;
+  color: #009EDB;
+  margin-bottom: 15px;
+}
+
+.lab-detail img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-top: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.lab-detail p {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .lab-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .lab-card {
+    width: 80%;
+  }
+
+  .lab-detail {
+    padding: 20px;
+  }
+
+  .lab-detail img {
+    width: 100%;
+  }
+}
+
+.lab-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Header */
+.lab-table thead {
+  background: #007bff;
+  color: white;
+  text-align: left;
+}
+
+.lab-table th,
+.lab-table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+}
+
+/* Zebra Striping for Rows */
+.lab-table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+.lab-table tbody tr:hover {
+  background: #e9ecef;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .lab-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .lab-table th,
+  .lab-table td {
+    padding: 10px;
+    font-size: 14px;
+  }
+}
+
+/* Library Section - Modern Book Design */
+.library-container {
+  padding: 40px;
+  margin: 40px auto;
+  max-width: 900px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  /* Soft shadow */
+  font-family: 'Segoe UI', sans-serif;
+  border-top: 6px solid #1a3c87;
+  /* Blue accent top */
+}
+
+.library-container h2 {
+  font-size: 1.8rem;
+  color: #1a3c87;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.library-description {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 30px;
+  text-align: center;
+  font-style: italic;
+  position: relative;
+  padding: 0 20px;
+}
+
+.library-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+  /* Gap between rows */
+}
+
+.library-table tr {
+  transition: transform 0.2s ease;
+}
+
+.library-table tr:hover {
+  transform: scale(1.01);
+}
+
+.library-key {
+  font-weight: 700;
+  text-align: left;
+  padding: 20px 30px;
+  width: 40%;
+  color: #1a3c87;
+  /* Key color */
+  background: #f4f7fb;
+  /* Light blue bg */
+  border-radius: 8px 0 0 8px;
+  text-transform: capitalize;
+  border-bottom: none;
+}
+
+.library-value {
+  text-align: left;
+  padding: 20px 30px;
+  color: #333;
+  font-weight: 500;
+  background: #fff;
+  border: 1px solid #f4f7fb;
+  border-left: none;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+  border-bottom: none;
+}
+
+/* Mobile Library */
+@media (max-width: 600px) {
+
+  .library-table,
+  .library-table tbody,
+  .library-table tr,
+  .library-table td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .library-key {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    color: #1a3c87;
+    background: #eef2ff;
+  }
+
+  .library-value {
+    width: 100%;
+    border-radius: 0 0 8px 8px;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+  }
+}
+
+
+
+.patents-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.patents-container h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #009EDB;
+}
+
+/* Civil Faculty Section - Profile Card Design */
+/* Faculty Container (Shared) */
+.auto-faculty-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 30px;
+  margin: 40px 0;
+  padding: 10px;
+}
+
+/* =========================================
+   1. AIML / Generic Faculty Card Style
+   ========================================= */
+.auto-faculty-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  text-align: center;
+  padding: 30px 20px;
+  border: 1px solid #f0f0f0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.auto-faculty-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(26, 60, 135, 0.12);
+  border-color: #1a3c87;
+}
+
+.auto-faculty-card img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 50%;
+  border: 4px solid #f4f7fb;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.auto-faculty-card:hover img {
+  border-color: #fdbf2d;
+  transform: scale(1.05);
+}
+
+.auto-faculty-card p:first-of-type,
+.auto-faculty-card p strong {
+  color: #1a3c87;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.auto-faculty-card p:last-child {
+  color: #666;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+/* =========================================
+   2. CIVIL Faculty Card Style (Gallery Frame - Specific)
+   ========================================= */
+.civil-faculty-card {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* Left Align */
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.civil-faculty-card:hover {
+  transform: translateY(-5px);
+}
+
+.civil-faculty-card .faculty-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1.1;
+  /* Portrait Ratio */
+  background: #eee;
+  border: 4px solid #fff;
+  /* White Frame */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  /* Frame Shadow */
+  overflow: hidden;
+  margin: 0;
+  border-radius: 0;
+  /* Square corners */
+}
+
+.civil-faculty-card .faculty-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 0;
+  transition: transform 0.5s ease;
+  display: block;
+}
+
+.civil-faculty-card:hover .faculty-photo img {
+  transform: scale(1.03);
+}
+
+.civil-faculty-card .faculty-info {
+  text-align: left;
+  padding: 15px 0 0 0;
+  width: 100%;
+  background: transparent;
+}
+
+.civil-faculty-card .faculty-info h4 {
+  color: #222;
+  font-size: 1.25rem;
+  /* Larger Name */
+  font-weight: 300;
+  /* Thin Font */
+  margin: 0 0 4px 0;
+  letter-spacing: 0.5px;
+}
+
+.civil-faculty-card .faculty-info p {
+  color: #666;
+  font-size: 0.9rem;
+  font-weight: 300;
+  /* Thin Font */
+  margin: 0;
+  text-transform: capitalize;
+}
+
+/* =========================================
+   3. AIDS Faculty Card Style (Blue Header Overlap - Standard)
+   ========================================= */
 .faculty-portrait-card {
   background: #ffffff;
-  border-radius: 22px;
-  box-shadow: 0 12px 28px rgba(0,0,0,0.08);
-  transition: all 0.35s ease;
+  border-radius: 16px;
   overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+  border: 1px solid #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
   cursor: pointer;
+}
+
+/* Decorative Blue Header Background */
+.faculty-portrait-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 90px;
+  background: linear-gradient(135deg, #1a3c87, #303877);
+  z-index: 0;
 }
 
 .faculty-portrait-card:hover {
   transform: translateY(-10px);
-  box-shadow: 0 18px 40px rgba(0,0,0,0.12);
+  box-shadow: 0 20px 40px rgba(26, 60, 135, 0.15);
 }
 
-.faculty-photo {
-  width: 100%;
-  aspect-ratio: 6336 / 7344; /* same as your 2nd image */
-  overflow: hidden;
+.faculty-portrait-card .faculty-photo {
+  position: relative;
+  z-index: 1;
+  margin-top: 40px;
+  /* Push down to center overlapping header */
+  padding: 6px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  width: auto;
+  /* Reset form gallery style if inherited */
+  aspect-ratio: auto;
+  border: none;
+  overflow: visible;
 }
 
-.faculty-photo img {
-  width: 100%;
-  height: 100%;
+.faculty-portrait-card .faculty-photo img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
   object-fit: cover;
-  object-position: center bottom; /* keeps face visible */
-  border-top-left-radius: 22px;
-  border-top-right-radius: 22px;
-  transition: transform 0.4s ease;
+  object-position: top;
+  display: block;
 }
 
-.faculty-portrait-card:hover img {
+.faculty-portrait-card:hover .faculty-photo {
   transform: scale(1.05);
 }
 
-.faculty-info {
-  padding: 20px 18px 24px;
+.faculty-portrait-card .faculty-info {
   text-align: center;
+  padding: 20px 20px 30px;
+  z-index: 1;
+  width: 100%;
+}
+
+.faculty-portrait-card .faculty-info h4 {
+  color: #1a3c87;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 15px 0 8px;
+}
+
+.faculty-portrait-card .faculty-info p {
+  color: #555;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.patent-table {
+  width: 100%;
+  border-collapse: collapse;
   background: #fff;
 }
 
-.faculty-info h4 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #0c2b6e;
-  margin-bottom: 6px;
+.patent-table th,
+.patent-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  font-size: 15px;
 }
 
-.faculty-info p {
-  font-size: 0.9rem;
-  color: #555;
+.patent-table th {
+  background-color: #303877;
+  color: #fff;
+  font-weight: 500;
 }
 
-  
-  /* Department Details Table */
-  .dept-details-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 16px;
-    text-align: left;
-    background-color: #fff;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .dept-details-table th,
-  .dept-details-table td {
-    padding: 12px 15px;
-    border: 1px solid #ddd;
-  }
-  
-  .dept-details-table th {
-    background-color: #004aad;
-    color: white;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-  
-  .dept-details-table tr:nth-child(even) {
-    background-color: #f8f8f8;
-  }
-  
-  .dept-details-table tr:hover {
-    background-color: #e2e8f0;
-  }
-  
-  /* Make table responsive */
-  @media screen and (max-width: 768px) {
-    .dept-details-table {
-      font-size: 14px;
-    }
-    
-    .dept-details-table th,
-    .dept-details-table td {
-      padding: 10px;
-    }
-  }
-  
-  
-  /* Dropdown Section */
-  .dropdown-section {
-    margin-top: 10px;
-    width: 100%;
-    position: relative; /* Ensures content aligns properly */
-    display: flex;
-    flex-direction: column; /* Keeps button & content stacked */
-  }
-  
-  /* Dropdown Button */
-  .dropdown-section button {
-    background-color: #009EDB;
-    color: white;
-    border: none;
-    padding: 12px;
-    width: 100%;
-    text-align: left;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    transition: background 0.3s ease;
-  }
-  
-  .dropdown-section button:hover {
-    background-color: #319143;
-  }
-  
-  /* Dropdown Content */
-  .dropdown-content {
-    display: none;
-    width: 100%;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-    padding: 10px;
-    margin-top: 5px; /* Ensures it appears below button */
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
-    font-size: 14px;
-    opacity: 0;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
-    position: relative; /* Keeps content in the same section */
-  }
-  
-  /* Show content when dropdown is active */
-  .dropdown-section.active .dropdown-content {
-    display: block;
-    opacity: 1;
-    max-height: 100%; /* Adjust based on content */
-  }
-  
-  /* List inside dropdown */
-  .dropdown-content ul {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin: 0;
-  }
-  
-  .dropdown-content li {
-    margin-bottom: 5px;
-    font-size: 14px;
-  }
-  
-  /* Arrow inside button */
-  .dropdown-section button::after {
-    content: "▼";
-    font-size: 14px;
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .dropdown-section.active button::after {
-    content: "▲";
-    transform: rotate(180deg);
-  }
-  
-  /* Highlights Section */
-  .highlights-list {
-    margin-top: 20px;
-    padding-left: 20px;
-  }
-  
-  .highlights-list li {
-    font-size: 16px;
-    margin-bottom: 5px;
-  }
-  
-  .highlights-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-  }
-  
-  .highlights-table th,
-  .highlights-table td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
-    font-size: 15px;
-  }
-  
-  .highlights-table th {
-    background-color: #f4f4f4;
-    font-weight: bold;
-  }
-  
-  
-  .milestone-container {
-    width: 70%; /* Set width */
-    margin: 0 auto; /* Center align */
-    display: flex;
-    flex-direction: column;
-    border-left: 4px solid #303877;
-    padding-left: 20px;
-    margin-top: 20px;
-  }
-  
-  
-  .milestone {
-    position: relative;
-    padding: 10px 15px;
-    background: white;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .milestone:hover {
-    background-color: #9dbfe4;
-    color: white;
-  }
-  
-  .milestone-year {
-    font-size: 20px;
-    font-weight: bold;
-    color: #303877;
-  }
-  
-  .milestone-events {
-    font-size: 16px;
-    color: #333;
-    margin-top: 5px;
-  }
-  
-  .milestone-events ul {
-    padding-left: 20px;
-    margin: 5px 0;
-  }
-  
-  .milestone-events li {
-    margin-bottom: 5px;
-  }
-  
-  /* Laboratory List Section */
-  .lab-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    justify-content: center;
-    margin-top: 20px;
-  }
-  
-  .lab-card {
-    background: #303877;
-    color: white;
-    padding: 12px 18px;
-    border-radius: 8px;
-    cursor: pointer;
-    text-align: center;
-    width: 220px;
-    transition: 0.3s ease-in-out;
-    font-size: 14px;
-    font-weight: 500;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  .lab-detail h2{
-    color: #319143;
-    font-size: 20px;
-    border-bottom: 2px solid #319143;
-    padding-bottom: 1px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-  }
-  .lab-card:hover,
-  .lab-card.active {
-    background-color: #ffffff;
-    color: #303877;
-    border: 2px solid #319143;
-  }
-  
-  /* Lab Detail Section */
-  .lab-detail {
-    margin-top: 25px;
-    padding: 25px;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
-    text-align: justify;
-    
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .lab-detail h3 {
-    font-size: 22px;
-    color: #009EDB;
-    margin-bottom: 15px;
-  }
-  
-  .lab-detail img {
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-top: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  
-  }
-    
-  .lab-detail p {
-    margin-top: 15px;
-    font-size: 16px;
-    color: #333;
-    line-height: 1.5;
-  }
-  
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .lab-list {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .lab-card {
-      width: 80%;
-    }
-  
-    .lab-detail {
-      padding: 20px;
-    }
-  
-    .lab-detail img {
-      width: 100%;
-    }
-  }
+.patent-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 
-  .lab-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-    background: #fff;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Table Header */
-  .lab-table thead {
-    background: #007bff;
-    color: white;
-    text-align: left;
-  }
-  
-  .lab-table th, .lab-table td {
-    padding: 12px 15px;
-    border: 1px solid #ddd;
-  }
-  
-  /* Zebra Striping for Rows */
-  .lab-table tbody tr:nth-child(even) {
-    background: #f8f9fa;
-  }
-  
-  .lab-table tbody tr:hover {
-    background: #e9ecef;
-  }
-  
-  /* Mobile Responsiveness */
-  @media (max-width: 768px) {
-    .lab-table {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      white-space: nowrap;
-    }
-    
-    .lab-table th, .lab-table td {
-      padding: 10px;
-      font-size: 14px;
-    }
-  }
-  
-  .library-container {
-    padding: 2rem;
-    margin: 2rem auto;
-    max-width: 1000px;
-    background-color: #f9f9f9;
-    border-radius: 16px;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-    text-transform: capitalize;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  
-  .library-container h2 {
+.patent-table tr:hover {
+  background-color: #f1f1f1;
+}
 
-    font-size: 1.4rem;
-    color: #009EDB;
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-
-
-  
-  .library-description {
-    font-size: 1rem;
-    color: #319143;
-    margin-bottom: 2rem;
-    text-align: center;
-  }
-  
-  .library-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  
-  .library-table tr:nth-child(even) {
-    background-color: #f0f0f0;
-  }
-  
-  .library-table tr:hover {
-    background-color: #e0e0e0;
-  }
-  
-  .library-key {
-    font-weight: 600;
-    text-align: left;
-    padding: 0.75rem;
-    width: 40%;
-    color: #2c3e50;
-    border-bottom: 1px solid #ccc;
-  }
-  
-  .library-value {
-    text-align: left;
-    padding: 0.75rem;
-    color: #333;
-    border-bottom: 1px solid #ccc;
-  }
-  
-  
-
+/* Responsive Table for Mobile */
+@media (max-width: 768px) {
   .patents-container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    overflow-x: auto;
+    padding: 10px;
   }
-  
-  .patents-container h2 {
-    text-align: center;
-    font-size: 1.8rem;
-    margin-bottom: 15px;
-    color: #009EDB;
-  }
-  
+
   .patent-table {
+    display: block;
     width: 100%;
-    border-collapse: collapse;
-    background: #fff;
+    overflow-x: auto;
+    white-space: nowrap;
   }
-  
-  .patent-table th, 
+
+  .patent-table th,
   .patent-table td {
-    border: 1px solid #ddd;
-    padding: 12px;
-    text-align: left;
-    font-size: 15px;
+    font-size: 14px;
+    padding: 8px;
   }
-  
-  .patent-table th {
-    background-color: #303877;
-    color: #fff;
-    font-weight: 500;
+}
+
+/* Further Optimization for Small Screens */
+@media (max-width: 480px) {
+  .patents-container h2 {
+    font-size: 1.5rem;
   }
-  
-  .patent-table tr:nth-child(even) {
-    background-color: #f9f9f9;
+
+  .patent-table th,
+  .patent-table td {
+    font-size: 12px;
+    padding: 6px;
   }
-  
-  .patent-table tr:hover {
-    background-color: #f1f1f1;
-  }
-  
-  /* Responsive Table for Mobile */
-  @media (max-width: 768px) {
-    .patents-container {
-      padding: 10px;
-    }
-  
-    .patent-table {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      white-space: nowrap;
-    }
-  
-    .patent-table th, 
-    .patent-table td {
-      font-size: 14px;
-      padding: 8px;
-    }
-  }
-  
-  /* Further Optimization for Small Screens */
-  @media (max-width: 480px) {
-    .patents-container h2 {
-      font-size: 1.5rem;
-    }
-  
-    .patent-table th, 
-    .patent-table td {
-      font-size: 12px;
-      padding: 6px;
-    }
-  }
-  
-  
-  
-  /* Footer */
-  /* .footer {
+}
+
+
+
+/* Footer */
+/* .footer {
     text-align: center;
     padding: 20px;
     background-color: #303877;
     color: white;
     margin-top: 30px;
   } */
-  
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .auto-navbar {
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-  
-    .auto-navbar button {
-      width: auto;
-      height: 45px;
-      font-size: 13px;
-    }
-  
-    .auto-header {
-      font-size: 24px;
-    }
-  
-    .auto-banner-container {
-      height: 200px;
-    }
-  
-    .auto-content {
-      padding: 15px;
-    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .auto-navbar {
+    flex-wrap: wrap;
+    justify-content: center;
   }
-  
+
+  .auto-navbar button {
+    width: auto;
+    height: 45px;
+    font-size: 13px;
+  }
+
+  .auto-header {
+    font-size: 24px;
+  }
+
+  .auto-banner-container {
+    height: 200px;
+  }
+
+  .auto-content {
+    padding: 15px;
+  }
+}
