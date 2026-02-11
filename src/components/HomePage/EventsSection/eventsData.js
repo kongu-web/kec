@@ -2,6 +2,7 @@ import eHorizonImg from "../../../assets/images/Events/E-Horizon-2025.jpg";
 import annualDayImg from "../../../assets/images/Events/Annual Day.png";
 import sportsDayImg from "../../../assets/images/Events/Sports Day.jpg";
 import swaramImg from "../../../assets/images/Events/Swaram 2025.jpg";
+import ITConference from "../../../assets/images/Events/ITConference.jpeg";
 
 const eventsData = [
     {
@@ -12,7 +13,7 @@ const eventsData = [
         description: "A grand technical symposium showcasing student innovations, project displays, and technical workshops. Join us for a day of learning and technology.",
         location: "KEC Auditorium",
         time: "9:00 AM - 4:00 PM",
-        popupImage: eHorizonImg, // Add your popup image source here if available
+        
         category: "Technical",
         department: "IT"
     },
@@ -48,6 +49,18 @@ const eventsData = [
         time: "10:00 AM - 1:00 PM",
         category: "College Function",
         department: "College Level"
+    },
+    {
+        id: 5,
+        image:  ITConference,
+        date: "December 3, 2026",
+        title: "International Conference",
+        description: "Next-Gen Cyber AI for Sustainable Technologies.",
+        location: "IT Park",
+        time: "10:00 AM - 4:00 PM",
+        category: "Conference",
+        department: "IT",
+        popupImage: ITConference, // Add your popup image source here if available
     }
 ];
 
