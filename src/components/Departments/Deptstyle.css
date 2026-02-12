@@ -288,7 +288,7 @@ body {
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -299,7 +299,7 @@ body {
 }
 
 .stat-value {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 700;
   color: #1a3c87;
   line-height: 1.2;
@@ -1059,7 +1059,7 @@ body {
   margin-bottom: 20px;
   text-align: center;
   font-weight: 800;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 1px;
 }
 
@@ -1144,19 +1144,28 @@ body {
 
 
 
+/* Patents Section - Modern Grid Look */
 .patents-container {
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-  overflow-x: auto;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  /* Soft shadow like Library */
+  border-top: 6px solid #1a3c87;
+  /* Yellow accent top for patents */
 }
 
 .patents-container h2 {
   text-align: center;
   font-size: 1.8rem;
-  margin-bottom: 15px;
-  color: #009EDB;
+  margin-bottom: 25px;
+  color: #1a3c87;
+  font-weight: 800;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
 }
 
 /* Civil Faculty Section - Profile Card Design */
@@ -1390,62 +1399,100 @@ body {
 
 .patent-table {
   width: 100%;
-  border-collapse: collapse;
-  background: #fff;
-}
-
-.patent-table th,
-.patent-table td {
-  border: 1px solid #ddd;
-  padding: 12px;
-  text-align: left;
-  font-size: 15px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #eee;
 }
 
 .patent-table th {
-  background-color: #303877;
+  background-color: #1a3c87;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
+  padding: 18px;
+  text-align: left;
+  /* text-transform: uppercase; */
+  font-size: 0.95rem;
 }
 
-.patent-table tr:nth-child(even) {
-  background-color: #f9f9f9;
+.patent-table td {
+  padding: 18px;
+  border-bottom: 1px solid #f0f0f0;
+  color: #444;
+  vertical-align: top;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-.patent-table tr:hover {
-  background-color: #f1f1f1;
+.patent-table tr:last-child td {
+  border-bottom: none;
 }
 
-/* Responsive Table for Mobile */
+.patent-table tbody tr:nth-child(even) {
+  background-color: #fcfcfc;
+}
+
+.patent-table tbody tr:hover {
+  background-color: #f0f6ff;
+}
+
+/* Mobile Patents - Card Style */
 @media (max-width: 768px) {
-  .patents-container {
-    padding: 10px;
+  .patent-table thead {
+    display: none;
   }
 
-  .patent-table {
+  .patent-table,
+  .patent-table tbody,
+  .patent-table tr,
+  .patent-table td {
     display: block;
     width: 100%;
-    overflow-x: auto;
-    white-space: nowrap;
   }
 
-  .patent-table th,
+  .patent-table tr {
+    margin-bottom: 25px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    background: white;
+  }
+
   .patent-table td {
-    font-size: 14px;
-    padding: 8px;
-  }
-}
-
-/* Further Optimization for Small Screens */
-@media (max-width: 480px) {
-  .patents-container h2 {
-    font-size: 1.5rem;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
   }
 
-  .patent-table th,
-  .patent-table td {
-    font-size: 12px;
-    padding: 6px;
+  .patent-table td::before {
+    content: attr(data-label);
+    font-weight: 700;
+    color: #1a3c87;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* Automatic Labels for standard columns */
+  .patent-table td:nth-of-type(1)::before {
+    content: "Title";
+  }
+
+  .patent-table td:nth-of-type(2)::before {
+    content: "Students Involved";
+  }
+
+  .patent-table td:nth-of-type(3)::before {
+    content: "Faculty";
+  }
+
+  .patent-table td:nth-of-type(4)::before {
+    content: "Status";
   }
 }
 
