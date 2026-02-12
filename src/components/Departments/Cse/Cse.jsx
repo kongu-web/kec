@@ -298,7 +298,7 @@ const Cse = () => {
                 {facultyData.map((faculty, index) => (
                   <div
                     key={index}
-                    className="faculty-portrait-card"
+                    className="civil-faculty-card"
                     onClick={() => window.open(faculty.profileLink, "_blank")}
                   >
                     <div className="faculty-photo">
