@@ -259,37 +259,39 @@ const Civil = () => {
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="lab-list">
-                {autoData.labs.map((lab, index) => (
-                  <div
-                    key={index}
-                    className={`lab-card ${selectedLab === index ? "active" : ""
-                      }`}
-                    onClick={() => setSelectedLab(index)}
-                  >
-                    {lab.topic}
-                  </div>
-                ))}
-              </div>
-
-              {selectedLab !== null && (
-                <div className="lab-detail">
-                  <h3>{autoData.labs[selectedLab].topic}</h3>
-                  <img
-                    src={autoData.labs[selectedLab].image}
-                    alt={autoData.labs[selectedLab].topic}
-                  />
-                  {autoData.labs[selectedLab].detail.map((item, index) => {
-                    if (item.startsWith("* ")) {
-                      return <h2 key={index}>{item.substring(2)}</h2>;
-                    } else if (item.startsWith("- ")) {
-                      return <li key={index}>{item.substring(2)}</li>;
-                    } else {
-                      return <p key={index}>{item}</p>;
-                    }
-                  })}
+              <div className="civil-lab-wrapper">
+                <div className="civil-lab-grid">
+                  {autoData.labs.map((lab, index) => (
+                    <div
+                      key={index}
+                      className={`civil-lab-card ${selectedLab === index ? "active" : ""
+                        }`}
+                      onClick={() => setSelectedLab(index)}
+                    >
+                      {lab.topic}
+                    </div>
+                  ))}
                 </div>
-              )}
+
+                {selectedLab !== null && (
+                  <div className="civil-lab-detail">
+                    <h3>{autoData.labs[selectedLab].topic}</h3>
+                    <img
+                      src={autoData.labs[selectedLab].image}
+                      alt={autoData.labs[selectedLab].topic}
+                    />
+                    {autoData.labs[selectedLab].detail.map((item, index) => {
+                      if (item.startsWith("* ")) {
+                        return <h2 key={index}>{item.substring(2)}</h2>;
+                      } else if (item.startsWith("- ")) {
+                        return <li key={index}>{item.substring(2)}</li>;
+                      } else {
+                        return <p key={index}>{item}</p>;
+                      }
+                    })}
+                  </div>
+                )}
+              </div>
             </div>
           )}
 
