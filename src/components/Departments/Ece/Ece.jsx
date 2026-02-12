@@ -101,36 +101,83 @@ const Ece = () => {
         <div className="auto-content">
           {activeSection === "Home" && autoData && (
             <div className="auto-content">
-              <h2>About the Department</h2>
-              <p className="bigdata">
-                {autoData.about || "Information not available."}
-              </p>
+              <div className="about-section">
+                <div className="about-text">
+                  <h2 className="about-title">About the Department</h2>
+                  <div className="about-underline"></div>
+                  <p>
+                    {autoData.about || "Information not available."}
+                  </p>
+                </div>
+                <div className="about-image">
+                  <img
+                    src={
+                      (autoData.dept_images && autoData.dept_images[0]) ||
+                      Deptimg
+                    }
+                    alt="Department"
+                  />
+                </div>
+              </div>
 
               <h2>Department Details</h2>
-              <table className="dept-details-table">
-                <tbody>
-                  {[
-                    ["HOD", autoData.hod_name],
-                    ["Intake", autoData.intake],
-                    ["M.E VLSI Design", autoData.me],
-                    ["Ph.D", autoData.phd],
-                  ].map(([label, value], index) => (
-                    <tr key={index}>
-                      <td>
-                        <strong>{label}</strong>
-                      </td>
-                      <td>{value || "N/A"}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+              <div className="dept-stats-grid">
+                <div className="dept-stat-card">
+                  <div className="stat-label">Head of Department</div>
+                  <div className="stat-value">{autoData.hod_name || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">Total Intake</div>
+                  <div className="stat-value">{autoData.intake || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">M.E VLSI</div>
+                  <div className="stat-value">{autoData.me || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">Ph.D</div>
+                  <div className="stat-value">{autoData.phd || "N/A"}</div>
+                </div>
+              </div>
 
-              {["vision", "mission", "peo", "po", "pso"].map((key) => (
+              {/* Vision and Mission Section */}
+              <div className="vision-mission-grid">
+                <div className="vm-card">
+                  <h3 className="vm-title">Vision</h3>
+                  <div className="vm-content">
+                    <ul>
+                      {Array.isArray(autoData.vision) ? (
+                        autoData.vision.map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData.vision || "N/A"}</li>
+                      )}
+                    </ul>
+                  </div>
+                </div>
+                <div className="vm-card">
+                  <h3 className="vm-title">Mission</h3>
+                  <div className="vm-content">
+                    <ul>
+                      {Array.isArray(autoData.mission) ? (
+                        autoData.mission.map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData.mission || "N/A"}</li>
+                      )}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              {/* Remaining Dropdowns */}
+              {["peo", "po", "pso"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -210,72 +257,73 @@ const Ece = () => {
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="lab-list">
-                {autoData.labs.map((lab, index) => (
-                  <div
-                    key={index}
-                    className={`lab-card ${
-                      selectedLab === index ? "active" : ""
-                    }`}
-                    onClick={() => setSelectedLab(index)}
-                  >
-                    {lab.topic}
-                  </div>
-                ))}
-              </div>
-
-              {selectedLab !== null && (
-                <div className="lab-detail">
-                  <h3>{autoData.labs[selectedLab].topic}</h3>
-
-                  {/* Render Image */}
-                  <img
-                    src={autoData.labs[selectedLab].image}
-                    alt={autoData.labs[selectedLab].topic}
-                    className="lab-image"
-                  />
-
-                  {/* Render Lab Details */}
-                  {autoData.labs[selectedLab].detail.map((item, index) => {
-                    if (item.startsWith("* ")) {
-                      return <h2 key={index}>{item.substring(2)}</h2>;
-                    } else if (item.startsWith("- ")) {
-                      return <li key={index}>{item.substring(2)}</li>;
-                    } else {
-                      return <p key={index}>{item}</p>;
-                    }
-                  })}
-
-                  {/* Render Software Table Only If Software Exists */}
-                  {autoData.labs[selectedLab].table &&
-                  autoData.labs[selectedLab].table.length > 0 ? (
-                    <table className="lab-table">
-                      <thead>
-                        <tr>
-                          <th>S.No</th>
-                          <th>Name of the Software</th>
-                          <th>Version</th>
-                          <th>Users</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {autoData.labs[selectedLab].table.map(
-                          (table, index) => (
-                            <tr key={index}>
-                              <td>{table.s_no}</td>
-                              <td>{table.name}</td>
-                              <td>{table.version}</td>
-                              <td>{table.users}</td>
-                            </tr>
-                          )
-                        )}
-                      </tbody>
-                    </table>
-                  ) : (
-                    <div></div>
-                  )}
+              <div className="lab-wrapper">
+                <div className="lab-list">
+                  {autoData.labs.map((lab, index) => (
+                    <div
+                      key={index}
+                      className={`lab-card ${selectedLab === index ? "active" : ""
+                        }`}
+                      onClick={() => setSelectedLab(index)}
+                    >
+                      {lab.topic}
+                    </div>
+                  ))}
                 </div>
-              )}
+
+                {selectedLab !== null && (
+                  <div className="lab-detail">
+                    <h3>{autoData.labs[selectedLab].topic}</h3>
+
+                    {/* Render Image */}
+                    <img
+                      src={autoData.labs[selectedLab].image}
+                      alt={autoData.labs[selectedLab].topic}
+                      className="lab-image"
+                    />
+
+                    {/* Render Lab Details */}
+                    {autoData.labs[selectedLab].detail.map((item, index) => {
+                      if (item.startsWith("* ")) {
+                        return <h2 key={index}>{item.substring(2)}</h2>;
+                      } else if (item.startsWith("- ")) {
+                        return <li key={index}>{item.substring(2)}</li>;
+                      } else {
+                        return <p key={index}>{item}</p>;
+                      }
+                    })}
+
+                    {/* Render Software Table Only If Software Exists */}
+                    {autoData.labs[selectedLab].table &&
+                      autoData.labs[selectedLab].table.length > 0 ? (
+                      <table className="lab-table">
+                        <thead>
+                          <tr>
+                            <th>S.No</th>
+                            <th>Name of the Software</th>
+                            <th>Version</th>
+                            <th>Users</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {autoData.labs[selectedLab].table.map(
+                            (table, index) => (
+                              <tr key={index}>
+                                <td>{table.s_no}</td>
+                                <td>{table.name}</td>
+                                <td>{table.version}</td>
+                                <td>{table.users}</td>
+                              </tr>
+                            )
+                          )}
+                        </tbody>
+                      </table>
+                    ) : (
+                      <div></div>
+                    )}
+                  </div>
+                )}
+              </div>
             </div>
           )}
 

@@ -130,6 +130,10 @@ const Aiml = () => {
                   <div className="stat-label">Total Intake</div>
                   <div className="stat-value">{autoData.intake || "N/A"}</div>
                 </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">Ph.D</div>
+                  <div className="stat-value">{autoData.phd || "N/A"}</div>
+                </div>
               </div>
 
               {/* Vision and Mission Section */}
@@ -251,29 +255,31 @@ const Aiml = () => {
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="lab-list">
-                {autoData.labs.map((lab, index) => (
-                  <div
-                    key={index}
-                    className={`lab-card ${selectedLab === index ? "active" : ""
-                      }`}
-                    onClick={() => setSelectedLab(index)}
-                  >
-                    {lab.topic}
-                  </div>
-                ))}
-              </div>
-
-              {selectedLab !== null && (
-                <div className="lab-detail">
-                  <h3>{autoData.labs[selectedLab].topic}</h3>
-                  <img
-                    src={autoData.labs[selectedLab].image}
-                    alt={autoData.labs[selectedLab].topic}
-                  />
-                  <p>{autoData.labs[selectedLab].detail}</p>
+              <div className="lab-wrapper">
+                <div className="lab-list">
+                  {autoData.labs.map((lab, index) => (
+                    <div
+                      key={index}
+                      className={`lab-card ${selectedLab === index ? "active" : ""
+                        }`}
+                      onClick={() => setSelectedLab(index)}
+                    >
+                      {lab.topic}
+                    </div>
+                  ))}
                 </div>
-              )}
+
+                {selectedLab !== null && (
+                  <div className="lab-detail">
+                    <h3>{autoData.labs[selectedLab].topic}</h3>
+                    <img
+                      src={autoData.labs[selectedLab].image}
+                      alt={autoData.labs[selectedLab].topic}
+                    />
+                    <p>{autoData.labs[selectedLab].detail}</p>
+                  </div>
+                )}
+              </div>
             </div>
           )}
 

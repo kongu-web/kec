@@ -259,12 +259,12 @@ const Civil = () => {
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="civil-lab-wrapper">
-                <div className="civil-lab-grid">
+              <div className="lab-wrapper">
+                <div className="lab-list">
                   {autoData.labs.map((lab, index) => (
                     <div
                       key={index}
-                      className={`civil-lab-card ${selectedLab === index ? "active" : ""
+                      className={`lab-card ${selectedLab === index ? "active" : ""
                         }`}
                       onClick={() => setSelectedLab(index)}
                     >
@@ -274,7 +274,7 @@ const Civil = () => {
                 </div>
 
                 {selectedLab !== null && (
-                  <div className="civil-lab-detail">
+                  <div className="lab-detail">
                     <h3>{autoData.labs[selectedLab].topic}</h3>
                     <img
                       src={autoData.labs[selectedLab].image}
