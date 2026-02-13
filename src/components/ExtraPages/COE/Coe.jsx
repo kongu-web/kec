@@ -244,55 +244,61 @@ const Coe = () => {
 
               {selectedIndex === index && (
                 <div className="coe-details">
-                  <img
-                    src={coe.image}
-                    alt={coe.title}
-                    className="coe-detail-image"
-                  />
+                  <div className="coe-details-layout">
+                    <div className="coe-content-column">
+                      {coe.content && (
+                        <div className="coe-section">
+                          <h3>Content</h3>
+                          <ul>
+                            {coe.content.map((item, idx) => (
+                              <li key={idx}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
 
-                  {coe.content && (
-                    <div className="coe-section">
-                      <h3>Content</h3>
-                      <ul>
-                        {coe.content.map((item, idx) => (
-                          <li key={idx}>{item}</li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
+                      {coe.features && (
+                        <div className="coe-section">
+                          <h3>Features</h3>
+                          <ul>
+                            {coe.features.map((item, idx) => (
+                              <li key={idx}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
 
-                  {coe.features && (
-                    <div className="coe-section">
-                      <h3>Features</h3>
-                      <ul>
-                        {coe.features.map((item, idx) => (
-                          <li key={idx}>{item}</li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
+                      {coe.objectives && (
+                        <div className="coe-section">
+                          <h3>Objectives</h3>
+                          <ul>
+                            {coe.objectives.map((item, idx) => (
+                              <li key={idx}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
 
-                  {coe.objectives && (
-                    <div className="coe-section">
-                      <h3>Objectives</h3>
-                      <ul>
-                        {coe.objectives.map((item, idx) => (
-                          <li key={idx}>{item}</li>
-                        ))}
-                      </ul>
+                      {coe.outcomes && (
+                        <div className="coe-section">
+                          <h3>Outcomes</h3>
+                          <ul>
+                            {coe.outcomes.map((item, idx) => (
+                              <li key={idx}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
                     </div>
-                  )}
 
-                  {coe.outcomes && (
-                    <div className="coe-section">
-                      <h3>Outcomes</h3>
-                      <ul>
-                        {coe.outcomes.map((item, idx) => (
-                          <li key={idx}>{item}</li>
-                        ))}
-                      </ul>
+                    <div className="coe-image-column">
+                      <img
+                        src={coe.image}
+                        alt={coe.title}
+                        className="coe-detail-image"
+                      />
                     </div>
-                  )}
+                  </div>
                 </div>
               )}
             </div>

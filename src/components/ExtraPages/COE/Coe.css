@@ -269,9 +269,10 @@
 .coe-details {
   margin-top: 0;
   padding: 2.5rem;
-  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
-  animation: slideDown 0.4s ease-out;
-  border-top: 3px solid #3b82f6;
+  background: #fafbfc;
+  animation: slideDown 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  border-top: none;
+  position: relative;
 }
 
 @keyframes slideDown {
@@ -284,95 +285,150 @@
 
   to {
     opacity: 1;
-    max-height: 3000px;
+    max-height: 5000px;
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
   }
 }
 
+/* Flex Layout for Image and Content */
+.coe-details-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.coe-image-column {
+  flex: 0 0 520px;
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+}
+
+.coe-content-column {
+  flex: 1;
+  min-width: 0;
+  padding-right: 1rem;
+}
+
 /* Detail Image */
 .coe-detail-image {
   display: block;
-  margin: 0 auto 2.5rem;
-  max-width: 600px;
   width: 100%;
-  border-radius: 16px;
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
   object-fit: cover;
-  transition: transform 0.4s ease;
-  border: 5px solid white;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 3px solid white;
+  background: white;
+  padding: 6px;
 }
 
 .coe-detail-image:hover {
-  transform: scale(1.02);
-  box-shadow: 0 16px 50px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 12px 36px rgba(59, 130, 246, 0.18);
+  transform: translateY(-3px);
+  border-color: #f0f9ff;
 }
 
 /* Section Inside Each Detail */
 .coe-section {
-  margin-top: 2.5rem;
-  padding: 1.5rem;
-  background: rgba(255, 255, 255, 0.6);
-  border-radius: 12px;
-  border-left: 5px solid #3b82f6;
-  transition: all 0.3s ease;
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  padding: 0;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+  transition: none;
+  box-shadow: none;
+  position: relative;
+  overflow: visible;
+}
+
+.coe-section:last-child {
+  margin-bottom: 0;
 }
 
 .coe-section:hover {
-  background: rgba(255, 255, 255, 0.9);
-  transform: translateX(5px);
-  box-shadow: 0 4px 16px rgba(59, 130, 246, 0.1);
+  border-color: transparent;
+  box-shadow: none;
+  transform: none;
 }
 
 .coe-section h3 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #1e40af;
-  margin-bottom: 1.25rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin-bottom: 1.5rem;
   padding-left: 0;
-  border-left: none;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+  padding-bottom: 0.5rem;
+  display: block;
+  position: relative;
+  letter-spacing: -0.3px;
+  border-bottom: 2px solid #e2e8f0;
 }
 
 .coe-section h3::before {
-  content: '●';
-  color: #3b82f6;
-  font-size: 1.2rem;
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  transition: width 0.3s ease;
+}
+
+.coe-section:hover h3::before {
+  width: 100px;
 }
 
 .coe-section ul {
   list-style: none;
   padding-left: 0;
   color: #475569;
+  display: block;
 }
 
 .coe-section li {
   margin-bottom: 1rem;
-  line-height: 1.8;
-  font-size: 1.05rem;
-  padding-left: 2rem;
+  line-height: 1.75;
+  font-size: 1rem;
+  padding: 0;
+  padding-left: 1.75rem;
   position: relative;
+  background: transparent;
+  border-radius: 0;
+  border: none;
   transition: all 0.2s ease;
+  font-weight: 400;
+  color: #334155;
 }
 
 .coe-section li::before {
-  content: '→';
+  content: '';
   position: absolute;
   left: 0;
-  color: #3b82f6;
-  font-weight: bold;
-  transition: transform 0.2s ease;
+  top: 0.7em;
+  width: 7px;
+  height: 7px;
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);
+  border-radius: 50%;
+  transition: all 0.2s ease;
 }
 
 .coe-section li:hover {
-  color: #1e40af;
-  transform: translateX(5px);
+  background: transparent;
+  border-color: transparent;
+  transform: translateX(6px);
+  box-shadow: none;
+  color: #0f172a;
 }
 
 .coe-section li:hover::before {
-  transform: translateX(3px);
+  transform: scale(1.4);
+  background: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
 }
 
 /* Responsive Design */
