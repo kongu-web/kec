@@ -221,6 +221,51 @@ const coeData = [
       "Faculty members gain exposure to latest industrial trends through FDPs, workshops, and collaborative technical programs.",
     ],
   },
+   {
+    title:
+      "Artificial Intelligence - Centre of Excellence in Intel® Unnati Data-Centric Labs in Emerging Technologies",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-intel.jpeg"),
+    content: null,
+    features: null,
+    objectives: [
+      "Internships to students.",
+      "Industrial Training Programs to Students.",
+      "Training Programs to both faculty and students.",
+      "Webinars to both faculty and students.",
+      "Involvement of students in live industrial projects.",
+      "Placement opportunities.",
+      "Ideathons.",
+    ],
+    outcomes: [
+      "Academic / Hackathon / Ideathon Projects with excessive data handling and computation will be completed.",
+      "Ph.D scholars can do their research work.",
+      "Relevant R&D activities with large datasets can be completed.",
+      "IoT related R&D projects can be carried out.",
+    ],
+  },
+   {
+    title:
+      "Artificial Intelligence - Centre of Excellence in Real-Time Analytics",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-realtime.png"),
+    content: null,
+    features: null,
+    objectives: [
+      "Facilitate real-time industry project exposure for both students and faculty of KEC.",
+      "Foster collaboration with PUNCHBIZ to jointly execute industry-driven projects involving KEC students and faculty.",
+      "Equip students with industry-relevant skillsets aligned with current employability standards.",
+      "Provide internship opportunities at PUNCHBIZ for KEC students.",
+      "Enable placement opportunities for KEC students through partnership with PUNCHBIZ.",
+      "Collaborate with PUNCHBIZ in applying for sponsored research and innovation projects.",
+      "Conduct specialized training programs on industry-specific tools, technologies, and methodologies for students and faculty.",
+    ],
+    outcomes: [
+      "Conducted value-added courses.",
+      "KEC students got internship offers.",
+      "Student academic projects were developed using NVIDIA Jetson.",
+      "Students actively participated in national level project expo events like L&T TECHGIUM.",
+      "Organized workshop for faculty",
+    ],
+  },
 ];
 
 const Coe = () => {
