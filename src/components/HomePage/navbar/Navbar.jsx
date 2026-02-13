@@ -195,14 +195,14 @@ const Navbar = () => {
               }}
               onMouseLeave={() => setActiveUtilityMenu(false)}
             > */}
-              <a href="/iqac">Accreditation</a>
+            <a href="/iqac">Accreditation</a>
 
-              {/* {activeUtilityMenu && (
+            {/* {activeUtilityMenu && (
                 <div className="submenu">
                   <a href="/nba">NBA</a>
                   <a href="/naac">NAAC</a>
                   {/* <a href="/iqac">IQAC</a> */}
-                  {/* <a href="/nirf">NIRF</a>
+            {/* <a href="/nirf">NIRF</a>
                   <a href="/aicteet">AICTE - E&T</a>
                   <a href="/aictemca">AICTE - MCA</a>
                   <a href="/aictemba">AICTE - MBA</a>
@@ -600,7 +600,7 @@ const Navbar = () => {
                     IEF
                   </span>
 
-                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank") }>
+                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>
                     <GeneralIcon className="submenu-icon" />
                     SCC (Student Counselling Cell - Portal)
                   </span>
@@ -960,9 +960,11 @@ const Navbar = () => {
 
                 {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
                 <li className="divider">Utility Menu</li>
+                <li onClick={() => navigate("/iqac")}>Accreditation</li>
+
 
                 {/* ACCREDITATION */}
-                <li
+                {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
@@ -983,7 +985,7 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
-                )}
+                )} */}
 
                 <li onClick={() => window.open("https://kongu.ac.in/blogs/", "_blank")}>
                   Blogs
