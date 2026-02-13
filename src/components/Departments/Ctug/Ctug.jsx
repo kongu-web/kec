@@ -129,9 +129,8 @@ const Ctug = () => {
               {["vision", "mission", "po"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -155,9 +154,8 @@ const Ctug = () => {
               {["csd-peo", "csd-pso"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -181,9 +179,8 @@ const Ctug = () => {
               {["is-peo", "is-pso"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -207,9 +204,8 @@ const Ctug = () => {
               {["ss-peo", "ss-pso"].map((key) => (
                 <div
                   key={key}
-                  className={`dropdown-section ${
-                    dropdowns[key] ? "active" : ""
-                  }`}
+                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
+                    }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
                     {key.toUpperCase()}
@@ -271,30 +267,31 @@ const Ctug = () => {
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="lab-list">
-                {autoData.labs.map((lab, index) => (
-                  <div
-                    key={index}
-                    className={`lab-card ${
-                      selectedLab === index ? "active" : ""
-                    }`}
-                    onClick={() => setSelectedLab(index)}
-                  >
-                    {lab.topic}
-                  </div>
-                ))}
-              </div>
-
-              {selectedLab !== null && (
-                <div className="lab-detail">
-                  <h3>{autoData.labs[selectedLab].topic}</h3>
-                  <img
-                    src={autoData.labs[selectedLab].image}
-                    alt={autoData.labs[selectedLab].topic}
-                  />
-                  <p>{autoData.labs[selectedLab].detail}</p>
+              <div className="lab-wrapper">
+                <div className="lab-list">
+                  {autoData.labs.map((lab, index) => (
+                    <div
+                      key={index}
+                      className={`lab-card ${selectedLab === index ? "active" : ""
+                        }`}
+                      onClick={() => setSelectedLab(index)}
+                    >
+                      {lab.topic}
+                    </div>
+                  ))}
                 </div>
-              )}
+
+                {selectedLab !== null && (
+                  <div className="lab-detail">
+                    <h3>{autoData.labs[selectedLab].topic}</h3>
+                    <img
+                      src={autoData.labs[selectedLab].image}
+                      alt={autoData.labs[selectedLab].topic}
+                    />
+                    <p>{autoData.labs[selectedLab].detail}</p>
+                  </div>
+                )}
+              </div>
             </div>
           )}
 
@@ -309,25 +306,20 @@ const Ctug = () => {
                 {facultyData.map((faculty, index) => (
                   <div
                     key={index}
-                    className="auto-faculty-card"
+                    className="civil-faculty-card"
                     onClick={() => window.open(faculty.profileLink, "_blank")}
                   >
-                    <img
-                      src={require(`../../../assets/images/faculty images/ct-ug/${faculty.image}`)}
-                      alt={faculty.name}
-                      style={{
-                        width: "95px",
-                        height: "95px",
-                        objectFit: "cover",
-                        objectPosition: "top",
-                        borderRadius: "50%",
-                      }}
-                    />
+                    <div className="faculty-photo">
+                      <img
+                        src={require(`../../../assets/images/faculty images/ct-ug/${faculty.image}`)}
+                        alt={faculty.name}
+                      />
+                    </div>
 
-                    <p>
-                      <strong>{faculty.name}</strong>
-                    </p>
-                    <p>{faculty.designation}</p>
+                    <div className="faculty-info">
+                      <h4>{faculty.name}</h4>
+                      <p>{faculty.designation}</p>
+                    </div>
                   </div>
                 ))}
               </div>
