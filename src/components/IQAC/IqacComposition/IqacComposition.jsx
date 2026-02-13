@@ -36,13 +36,13 @@ const teamMembers = [
         image: '/assets/iqac/Team/sujiprasad.jpg',
         link: 'https://sites.google.com/a/kongu.edu/sjsujiprasad/'
     },
-    {
-        id: '4',
-        name: 'Dr.T.Abirami',
-        role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/abirami.jpeg',
-        link: 'https://sites.google.com/kongu.edu/abirami/kec-faculty-profile'
-    },
+    // {
+    //     id: '4',
+    //     name: 'Dr.T.Abirami',
+    //     role: 'Coordinator, IQAC',
+    //     image: '/assets/iqac/Team/abirami.jpeg',
+    //     link: 'https://sites.google.com/kongu.edu/abirami/kec-faculty-profile'
+    // },
     {
         id: '6',
         name: 'Dr.V.Surendar',
@@ -84,6 +84,20 @@ const teamMembers = [
         role: 'Coordinator, IQAC',
         image: '/assets/iqac/Team/Ms.P.Ananthi.png',
         link: 'https://docs.google.com/document/d/e/2PACX-1vS5FFf7_UfYT4PF1a5ySn647zlbZMaQZ4Z6b-cbx0YmEV1oTjIBtAIJ8xMXR1Vxvg/pub'
+    },
+     {
+        id: '11',
+        name: 'E.Sowmiya',
+        role: 'Coordinator, IQAC',
+        image: '/assets/iqac/Team/Sowmiya.jpeg',
+        link: 'https://docs.google.com/document/d/e/2PACX-1vQg5hECooDHuglo3a63pf6YGhu7lyC2T0hNOUQCOKm5x5_zJhdbP_9JjrtX3iqkeA/pub'
+    },
+     {
+        id: '12',
+        name: 'J.Charanya',
+        role: 'Coordinator, IQAC',
+        image: '/assets/iqac/Team/charanya.jpg',
+        link: 'https://docs.google.com/document/u/1/d/e/2PACX-1vTPauYocWakPYAuJc3WoAC9oOgTfX3Lmqx54n0L8bLFqg3vKp1uVR-rXIeCd9PYvQ/pub'
     }
 ];
 
