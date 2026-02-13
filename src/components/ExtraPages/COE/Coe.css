@@ -403,6 +403,7 @@
   transition: all 0.2s ease;
   font-weight: 400;
   color: #334155;
+  text-align: justify;
 }
 
 .coe-section li::before {
@@ -434,7 +435,7 @@
 /* Responsive Design */
 @media screen and (max-width: 768px) {
   .coe-container {
-    padding: 9rem 1.5rem 2rem;
+    padding: 1rem 1.5rem 2rem;
   }
 
   .coe-title {
@@ -470,22 +471,59 @@
     padding: 1rem 1.25rem;
   }
 
+  /* Stack layout on mobile */
+  .coe-details {
+    padding: 2rem 1.5rem;
+  }
+
+  .coe-details-layout {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .coe-image-column {
+    flex: none;
+    width: 100%;
+    position: relative;
+    top: 0;
+    order: 2;
+  }
+
+  .coe-content-column {
+    width: 100%;
+    padding-right: 0;
+    order: 1;
+  }
+
   .coe-detail-image {
     max-width: 100%;
   }
 
+  .coe-section {
+    margin-bottom: 2rem;
+  }
+
   .coe-section h3 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    margin-bottom: 1.25rem;
   }
 
   .coe-section li {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.65;
+    margin-bottom: 0.85rem;
+    padding-left: 1.5rem;
+  }
+
+  .coe-section li::before {
+    width: 6px;
+    height: 6px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .coe-container {
-    padding: 8rem 1rem 1.5rem;
+    padding: 2rem 1rem 1.5rem;
   }
 
   .coe-title {
@@ -507,24 +545,45 @@
   }
 
   .coe-details {
-    padding: 1.5rem;
+    padding: 1.5rem 1rem;
+  }
+
+  .coe-details-layout {
+    gap: 1.5rem;
   }
 
   .coe-section {
-    padding: 1rem;
+    margin-bottom: 1.5rem;
   }
 
   .coe-section h3 {
-    font-size: 1.15rem;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .coe-section h3::before {
+    width: 40px;
+  }
+
+  .coe-section:hover h3::before {
+    width: 80px;
   }
 
   .coe-section li {
-    font-size: 0.95rem;
-    padding-left: 1.5rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+    padding-left: 1.25rem;
+  }
+
+  .coe-section li::before {
+    width: 5px;
+    height: 5px;
   }
 
   .coe-detail-image {
-    border-radius: 12px;
-    border-width: 3px;
+    border: 2px solid white;
+    padding: 4px;
   }
 }
