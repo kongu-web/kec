@@ -200,35 +200,93 @@ const Physics = () => {
                     ) : null
                 )}
               </ul>
+
+              <table className="highlights-table">
+                <thead>
+                  <tr>
+                    <th>Category</th>
+                    <th>Details</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {Object.entries(autoData.highlights || {}).map(
+                    ([category, details], index) =>
+                      details !== true && details !== "" ? (
+                        <tr key={index}>
+                          <td>{category.replace(/_/g, " ")}</td>
+                          <td>
+                            {Array.isArray(details)
+                              ? details.join(", ")
+                              : details}
+                          </td>
+                        </tr>
+                      ) : null
+                  )}
+                </tbody>
+              </table>
+
+              {autoData.milestones && (
+                <>
+                  <h2>Milestones</h2>
+                  <div className="milestone-container">
+                    {autoData.milestones.map((milestone, index) => (
+                      <div key={index} className="milestone">
+                        <div className="milestone-year">{milestone.year}</div>
+                        <div className="milestone-events">
+                          {Array.isArray(milestone.events) ? (
+                            <ul>
+                              {milestone.events.map((event, idx) => (
+                                <li key={idx}>{event}</li>
+                              ))}
+                            </ul>
+                          ) : (
+                            <p>{milestone.event}</p>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </>
+              )}
             </div>
           )}
 
           {activeSection === "Laboratories" && (
             <div>
               <h2>Laboratories</h2>
-              <div className="lab-list">
-                {autoData.labs.map((lab, index) => (
-                  <div
-                    key={index}
-                    className={`lab-card ${selectedLab === index ? "active" : ""
-                      }`}
-                    onClick={() => setSelectedLab(index)}
-                  >
-                    {lab.topic}
-                  </div>
-                ))}
-              </div>
-
-              {selectedLab !== null && (
-                <div className="lab-detail">
-                  <h3>{autoData.labs[selectedLab].topic}</h3>
-                  <img
-                    src={autoData.labs[selectedLab].image}
-                    alt={autoData.labs[selectedLab].topic}
-                  />
-                  <p>{autoData.labs[selectedLab].detail}</p>
+              <div className="lab-wrapper">
+                <div className="lab-list">
+                  {autoData.labs.map((lab, index) => (
+                    <div
+                      key={index}
+                      className={`lab-card ${selectedLab === index ? "active" : ""
+                        }`}
+                      onClick={() => setSelectedLab(index)}
+                    >
+                      {lab.topic}
+                    </div>
+                  ))}
                 </div>
-              )}
+
+                {selectedLab !== null && (
+                  <div className="lab-detail">
+                    <h3>{autoData.labs[selectedLab].topic}</h3>
+                    <img
+                      src={autoData.labs[selectedLab].image}
+                      alt={autoData.labs[selectedLab].topic}
+                    />
+                    {autoData.labs[selectedLab].detail.map((item, index) => {
+                      if (item.startsWith("* ")) {
+                        return <h2 key={index}>{item.substring(2)}</h2>;
+                      } else if (item.startsWith("- ")) {
+                        return <li key={index}>{item.substring(2)}</li>;
+                      } else {
+                        return <p key={index}>{item}</p>;
+                      }
+                    })}
+                  </div>
+                )}
+              </div>
             </div>
           )}
 
