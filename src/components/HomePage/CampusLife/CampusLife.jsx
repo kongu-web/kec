@@ -91,7 +91,7 @@ export default function CampusLife() {
             className={`card ${item.size}`}
             style={{ backgroundImage: `url(${item.img})` }}
           >
-            <div className="overlay">
+            <div className="overlay_home">
               <h4>{item.title}</h4>
               <p>{item.desc}</p>
             </div>

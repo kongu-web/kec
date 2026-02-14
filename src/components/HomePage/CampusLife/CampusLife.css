@@ -71,7 +71,7 @@
 
 /* ================== OVERLAY ================== */
 
-.overlay {
+.overlay_home {
   position: absolute;
   inset: 0;
   background: linear-gradient(to top, rgba(0,0,0,.6), transparent 60%);
@@ -82,13 +82,13 @@
   color: white;
 }
 
-.overlay h4 {
+.overlay_home h4 {
   font-size: 18px;
   margin-bottom: 4px;
   text-align: left;
 }
 
-.overlay p {
+.overlay_home p {
   font-size: 14px;
   opacity: .9;
     text-align: left;
