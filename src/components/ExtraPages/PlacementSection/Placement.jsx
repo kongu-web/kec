@@ -5,10 +5,11 @@ import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 
 import heroImg from "../../../assets/images/Placement/placement-hero.png";
-import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.jpeg";
-import team2 from "../../../assets/images/Placement/Kavin.S.jpeg";
-import team3 from "../../../assets/images/Placement/Sukumar.P.jpeg";
-import team4 from "../../../assets/images/Placement/Dineshkumar.P.jpeg";
+import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.jpg";
+import team2 from "../../../assets/images/Placement/Kavin.S.jpg";
+import team3 from "../../../assets/images/Placement/Sukumar.P.jpg";
+import team4 from "../../../assets/images/Placement/Dineshkumar.P.jpg";
+import team5 from "../../../assets/images/Placement/G.Srivaths Karthic.jpg";
 
 import stat1 from "../../../assets/images/Placement/Frame 260.png";
 import stat2 from "../../../assets/images/Placement/Frame 257.png";
@@ -89,6 +90,13 @@ export const teamData = [
     role: "Deputy Placement Officer",
     mobile: "7373675915",
     img: team4,
+  },
+  {
+    id: 5,
+    name: "Mr.G.Srivaths Karthic",
+    role: "Assistant Placement Officer",
+    mobile: "9442751513",
+    img: team5,
   },
 ];
 
@@ -230,7 +238,7 @@ const Placement = () => {
                 <img src={card1} />
               </div>
 
-              <div class="stat-value">211</div>
+              <div class="stat-value">242</div>
             </div>
 
             <div class="ps-stat-card blue center">
@@ -242,7 +250,7 @@ const Placement = () => {
                 <img src={card2} />
               </div>
 
-              <div class="stat-value big">990</div>
+              <div class="stat-value big">1103</div>
             </div>
 
             <div class="ps-stat-card green">

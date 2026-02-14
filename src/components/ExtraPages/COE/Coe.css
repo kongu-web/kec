@@ -1,193 +1,589 @@
-
+/* Modern COE Page Styling */
 .coe-container {
-    padding: 8rem 4rem 1rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: justify;
+  padding: 2rem 4rem 3rem;
+  font-family: 'Graphik', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: linear-gradient(135deg, #f5f7fa 0%, #e8eef5 100%);
+  min-height: 100vh;
+}
+
+/* Header Section */
+.coe-header {
+  margin-bottom: 4rem;
+  animation: fadeInDown 0.8s ease-out;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
   }
-  
-  .coe-header {
-    margin-bottom: 3rem;
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
-  
-  .coe-title {
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 1.5rem;
-  }
-  
-  .coe-description {
-    padding: 0.5rem 4rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .coe-text {
-    flex: 1;
-    min-width: 60%;
-    text-align: justify;
-  }
-  
-  .coe-text p {
-    margin-bottom: 1rem;
-    line-height: 1.6;
-  }
-  
-  .coe-image-container {
-    flex: 1;
-    min-width: 300px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .coe-top-image {
-    max-width: 100%;
-    width: 50%;
-    height: auto;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-  
-  .coe-card-section {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-  
-  .coe-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-  
-  .coe-card-title {
-    font-size: 1.2rem;
-    font-weight: 600;
-    background-color: #006699;
-    color: white;
-    padding: 0.7rem 1rem;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    width: 100%;
-    text-align: left;
-  }
-  /* CoE Details Container */
+}
+
+.coe-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #06b6d4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -0.5px;
+  position: relative;
+}
+
+.coe-title::after {
+  content: '';
+  display: block;
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  margin: 1rem auto 0;
+  border-radius: 2px;
+}
+
+.coe-description {
+  padding: 2rem 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.coe-text {
+  flex: 1;
+  min-width: 55%;
+  text-align: justify;
+}
+
+.coe-text p {
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  color: #334155;
+  font-weight: 400;
+}
+
+.coe-text p:first-child::first-letter {
+  font-size: 3.5rem;
+  font-weight: 700;
+  float: left;
+  line-height: 1;
+  margin: 0 0.1em 0 0;
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.coe-image-container {
+  flex: 1;
+  min-width: 320px;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.coe-top-image {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 20px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  border: 4px solid rgba(255, 255, 255, 0.9);
+}
+
+.coe-top-image:hover {
+  transform: scale(1.03) translateY(-5px);
+  box-shadow: 0 25px 70px rgba(0, 0, 0, 0.2);
+}
+
+/* Card Section */
+.coe-card-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.coe-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  position: relative;
+}
+
+/* Left Accent Border */
+.coe-card::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background: linear-gradient(180deg, #3b82f6, #06b6d4);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.coe-card:hover::before {
+  opacity: 1;
+}
+
+.coe-card:hover {
+  transform: translateX(8px);
+  box-shadow: 0 8px 24px rgba(59, 130, 246, 0.15);
+  border-color: #bfdbfe;
+}
+
+.coe-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
+  color: white;
+  padding: 1.5rem 4.5rem 1.5rem 2rem;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: visible;
+  letter-spacing: 0.2px;
+  line-height: 1.6;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Department Icon */
+.coe-card-title::before {
+  content: '🎓';
+  font-size: 1.5rem;
+  filter: grayscale(100%) brightness(200%);
+  transition: all 0.3s ease;
+}
+
+.coe-card:nth-child(1) .coe-card-title::before {
+  content: '🚗';
+}
+
+.coe-card:nth-child(2) .coe-card-title::before {
+  content: '⚡';
+}
+
+.coe-card:nth-child(3) .coe-card-title::before {
+  content: '🤖';
+}
+
+.coe-card:nth-child(4) .coe-card-title::before {
+  content: '🔒';
+}
+
+.coe-card:nth-child(5) .coe-card-title::before {
+  content: '📊';
+}
+
+.coe-card:nth-child(6) .coe-card-title::before {
+  content: '🥽';
+}
+
+.coe-card:nth-child(7) .coe-card-title::before {
+  content: '🔌';
+}
+
+.coe-card:nth-child(8) .coe-card-title::before {
+  content: '💡';
+}
+
+.coe-card:nth-child(9) .coe-card-title::before {
+  content: '🏭';
+}
+
+.coe-card:nth-child(10) .coe-card-title::before {
+  content: '🧪';
+}
+
+.coe-card-title:hover::before {
+  transform: scale(1.15) rotate(5deg);
+}
+
+/* Expand/Collapse Indicator */
+.coe-card-title::after {
+  content: '';
+  position: absolute;
+  right: 1.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='white' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: transform 0.3s ease;
+  opacity: 0.9;
+}
+
+.coe-card:has(.coe-details) .coe-card-title::after {
+  transform: translateY(-50%) rotate(180deg);
+}
+
+.coe-card-title:hover::after {
+  opacity: 1;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.coe-card:has(.coe-details) .coe-card-title:hover::after {
+  transform: translateY(-50%) rotate(180deg) scale(1.1);
+}
+
+/* Gradient Overlay on Hover */
+.coe-card-title:hover {
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+}
+
+/* Active State */
+.coe-card-title:active {
+  transform: scale(0.99);
+}
+
+/* Details Container */
 .coe-details {
-    margin-top: 2rem;
-    padding: 1.5rem;
-    background-color: #ffffff;
-    border-radius: 16px;
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-    transition: all 0.3s ease;
+  margin-top: 0;
+  padding: 2.5rem;
+  background: #fafbfc;
+  animation: slideDown 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  border-top: none;
+  position: relative;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
   }
-  
-  /* Detail Image */
-  .coe-detail-image {
-    display: block;
-    margin: 0 auto 1.5rem;
-    max-width: 30%;
-    width: 600px;
-    border-radius: 12px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
-    object-fit: cover;
+
+  to {
+    opacity: 1;
+    max-height: 5000px;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
   }
-    
-  /* Section Inside Each Detail (Content / Features / Objectives / Outcomes) */
-  .coe-section {
-    margin-top: 1.5rem;
-  }
-  
-  .coe-section h3 {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #004080;
-    margin-bottom: 0.75rem;
-    border-left: 4px solid #0073e6;
-    padding-left: 0.75rem;
-  }
-  
-  .coe-section ul {
-    list-style: disc;
-    padding-left: 2rem;
-    color: #333;
-  }
-  
-  .coe-section li {
-    margin-bottom: 0.6rem;
-    line-height: 1.6;
-    font-size: 1rem;
-  }
-  
+}
+
+/* Flex Layout for Image and Content */
+.coe-details-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.coe-image-column {
+  flex: 0 0 520px;
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+}
+
+.coe-content-column {
+  flex: 1;
+  min-width: 0;
+  padding-right: 1rem;
+}
+
+/* Detail Image */
+.coe-detail-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 3px solid white;
+  background: white;
+  padding: 6px;
+}
+
+.coe-detail-image:hover {
+  box-shadow: 0 12px 36px rgba(59, 130, 246, 0.18);
+  transform: translateY(-3px);
+  border-color: #f0f9ff;
+}
+
+/* Section Inside Each Detail */
+.coe-section {
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  padding: 0;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+  transition: none;
+  box-shadow: none;
+  position: relative;
+  overflow: visible;
+}
+
+.coe-section:last-child {
+  margin-bottom: 0;
+}
+
+.coe-section:hover {
+  border-color: transparent;
+  box-shadow: none;
+  transform: none;
+}
+
+.coe-section h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin-bottom: 1.5rem;
+  padding-left: 0;
+  padding-bottom: 0.5rem;
+  display: block;
+  position: relative;
+  letter-spacing: -0.3px;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.coe-section h3::before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  transition: width 0.3s ease;
+}
+
+.coe-section:hover h3::before {
+  width: 100px;
+}
+
+.coe-section ul {
+  list-style: none;
+  padding-left: 0;
+  color: #475569;
+  display: block;
+}
+
+.coe-section li {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+  font-size: 1rem;
+  padding: 0;
+  padding-left: 1.75rem;
+  position: relative;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+  transition: all 0.2s ease;
+  font-weight: 400;
+  color: #334155;
+  text-align: justify;
+}
+
+.coe-section li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.7em;
+  width: 7px;
+  height: 7px;
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.coe-section li:hover {
+  background: transparent;
+  border-color: transparent;
+  transform: translateX(6px);
+  box-shadow: none;
+  color: #0f172a;
+}
+
+.coe-section li:hover::before {
+  transform: scale(1.4);
+  background: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
 /* Responsive Design */
 @media screen and (max-width: 768px) {
-    .coe-container {
-      padding: 9rem 1.5rem 1rem;
-    }
-  
-    .coe-title {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }
-  
-    .coe-description {
-      flex-direction: column;
-      padding: 0.5rem 1rem;
-    }
-  
-    .coe-text {
-      min-width: 100%;
-      text-align: justify;
-    }
-  
-    .coe-top-image {
-      width: 80%;
-    }
-  
-    .coe-card-title {
-      font-size: 1rem;
-      padding: 0.6rem 0.8rem;
-    }
-  
-    .coe-detail-image {
-      max-width: 90%;
-      width: 100%;
-    }
-  
-    .coe-section h3 {
-      font-size: 1.1rem;
-    }
-  
-    .coe-section li {
-      font-size: 0.95rem;
-    }
+  .coe-container {
+    padding: 1rem 1.5rem 2rem;
   }
-  
-  @media screen and (max-width: 480px) {
-    .coe-container {
-      padding: 8rem 1rem 0.5rem;
-    }
-  
-    .coe-title {
-      font-size: 1.6rem;
-    }
-  
-    .coe-card-title {
-      font-size: 0.95rem;
-    }
-  
-    .coe-section h3 {
-      font-size: 1rem;
-    }
-  
-    .coe-section li {
-      font-size: 0.9rem;
-    }
-  
-    .coe-detail-image {
-      max-width: 100%;
-      border-radius: 8px;
-    }
+
+  .coe-title {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
   }
-  
+
+  .coe-description {
+    flex-direction: column;
+    padding: 1.5rem 1.5rem;
+    gap: 2rem;
+  }
+
+  .coe-text {
+    min-width: 100%;
+  }
+
+  .coe-text p {
+    font-size: 1rem;
+  }
+
+  .coe-image-container {
+    max-width: 100%;
+  }
+
+  .coe-top-image {
+    width: 100%;
+    max-height: 300px;
+  }
+
+  .coe-card-title {
+    font-size: 1.1rem;
+    padding: 1rem 1.25rem;
+  }
+
+  /* Stack layout on mobile */
+  .coe-details {
+    padding: 2rem 1.5rem;
+  }
+
+  .coe-details-layout {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .coe-image-column {
+    flex: none;
+    width: 100%;
+    position: relative;
+    top: 0;
+    order: 2;
+  }
+
+  .coe-content-column {
+    width: 100%;
+    padding-right: 0;
+    order: 1;
+  }
+
+  .coe-detail-image {
+    max-width: 100%;
+  }
+
+  .coe-section {
+    margin-bottom: 2rem;
+  }
+
+  .coe-section h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .coe-section li {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    margin-bottom: 0.85rem;
+    padding-left: 1.5rem;
+  }
+
+  .coe-section li::before {
+    width: 6px;
+    height: 6px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .coe-container {
+    padding: 2rem 1rem 1.5rem;
+  }
+
+  .coe-title {
+    font-size: 2rem;
+  }
+
+  .coe-title::after {
+    width: 60px;
+    height: 3px;
+  }
+
+  .coe-description {
+    padding: 1.25rem;
+  }
+
+  .coe-card-title {
+    font-size: 1rem;
+    padding: 0.9rem 1rem;
+  }
+
+  .coe-details {
+    padding: 1.5rem 1rem;
+  }
+
+  .coe-details-layout {
+    gap: 1.5rem;
+  }
+
+  .coe-section {
+    margin-bottom: 1.5rem;
+  }
+
+  .coe-section h3 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .coe-section h3::before {
+    width: 40px;
+  }
+
+  .coe-section:hover h3::before {
+    width: 80px;
+  }
+
+  .coe-section li {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+    padding-left: 1.25rem;
+  }
+
+  .coe-section li::before {
+    width: 5px;
+    height: 5px;
+  }
+
+  .coe-detail-image {
+    border: 2px solid white;
+    padding: 4px;
+  }
+}

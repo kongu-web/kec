@@ -288,7 +288,7 @@ body {
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -299,7 +299,7 @@ body {
 }
 
 .stat-value {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 700;
   color: #1a3c87;
   line-height: 1.2;
@@ -892,102 +892,187 @@ body {
   margin-bottom: 8px;
 }
 
-/* Laboratory List Section */
-.lab-list {
+/* Laboratory Section Redesign (Universal) */
+.lab-wrapper {
   display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  margin-top: 20px;
+  gap: 30px;
+  align-items: flex-start;
+  /* Sidebar alignment */
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.lab-list {
+  /* Sidebar */
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  flex-shrink: 0;
+  gap: 10px;
+  margin: 0;
 }
 
 .lab-card {
-  background: #303877;
-  color: white;
-  padding: 12px 18px;
+  background: #ffffff;
+  color: #333;
+  padding: 10px 10px;
   border-radius: 8px;
   cursor: pointer;
-  text-align: center;
-  width: 220px;
-  transition: 0.3s ease-in-out;
-  font-size: 14px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 60px;
+  font-size: 0.95rem;
   font-weight: 500;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border: 1px solid #cbd5e1;
+  border-left: 5px solid transparent;
 }
 
-.lab-detail h2 {
-  color: #319143;
-  font-size: 20px;
-  border-bottom: 2px solid #319143;
-  padding-bottom: 1px;
-  margin-bottom: 10px;
-  margin-top: 10px;
+.lab-card:hover {
+  transform: translateX(5px);
+  background: #f8fafc;
+  border-color: #cbd5e1;
+  color: #1a3c87;
 }
 
-.lab-card:hover,
 .lab-card.active {
-  background-color: #ffffff;
-  color: #303877;
-  border: 2px solid #319143;
+  background-color: #303877;
+  color: #ffffff;
+  border: 1px solid #303877;
+  border-left: 5px solid #303877;
+  box-shadow: 0 5px 15px rgba(48, 56, 119, 0.2);
+  font-weight: 600;
 }
 
-/* Lab Detail Section */
 .lab-detail {
-  margin-top: 25px;
-  padding: 25px;
+  flex: 1;
   background: white;
-  border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
-  text-align: justify;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+  margin-top: 0;
+  position: relative;
+  overflow: hidden;
+  animation: fadeInRight 0.5s ease-out;
+  min-height: 500px;
+}
 
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+/* Gradient Top Bar */
+.lab-detail::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, #303877, #fdbf2d);
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
 .lab-detail h3 {
-  font-size: 22px;
-  color: #009EDB;
-  margin-bottom: 15px;
+  color: #1e293b;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #f1f5f9;
+  padding-bottom: 20px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 .lab-detail img {
-  width: 300px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 8px;
-  margin-top: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-
+  margin: 0 auto 30px auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
 }
 
-.lab-detail p {
-  margin-top: 15px;
-  font-size: 16px;
-  color: #333;
-  line-height: 1.5;
+.lab-detail img:hover {
+  transform: scale(1.01);
+}
+
+.lab-detail p,
+.lab-detail li {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #475569;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.lab-detail ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.lab-detail li {
+  list-style: none;
+  /* remove default dot */
+  padding-left: 25px;
+  position: relative;
+  border-bottom: none;
+}
+
+.lab-detail li::before {
+  content: "•";
+  color: #303877;
+  font-weight: bold;
+  font-size: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: -5px;
+}
+
+.lab-detail h2 {
+  font-size: 1.4rem;
+  color: #334155;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  padding-left: 0;
+  border-left: none;
+  font-weight: 700;
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
-  .lab-list {
+@media (max-width: 900px) {
+  .lab-wrapper {
     flex-direction: column;
-    align-items: center;
+  }
+
+  .lab-list {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .lab-card {
-    width: 80%;
+    flex: 1;
+    min-width: 200px;
+    width: auto;
+    justify-content: center;
+    text-align: center;
   }
 
   .lab-detail {
     padding: 20px;
-  }
-
-  .lab-detail img {
-    width: 100%;
   }
 }
 
@@ -1059,7 +1144,7 @@ body {
   margin-bottom: 20px;
   text-align: center;
   font-weight: 800;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 1px;
 }
 
@@ -1144,19 +1229,28 @@ body {
 
 
 
+/* Patents Section - Modern Grid Look */
 .patents-container {
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-  overflow-x: auto;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  /* Soft shadow like Library */
+  border-top: 6px solid #1a3c87;
+  /* Yellow accent top for patents */
 }
 
 .patents-container h2 {
   text-align: center;
   font-size: 1.8rem;
-  margin-bottom: 15px;
-  color: #009EDB;
+  margin-bottom: 25px;
+  color: #1a3c87;
+  font-weight: 800;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
 }
 
 /* Civil Faculty Section - Profile Card Design */
@@ -1390,62 +1484,100 @@ body {
 
 .patent-table {
   width: 100%;
-  border-collapse: collapse;
-  background: #fff;
-}
-
-.patent-table th,
-.patent-table td {
-  border: 1px solid #ddd;
-  padding: 12px;
-  text-align: left;
-  font-size: 15px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #eee;
 }
 
 .patent-table th {
-  background-color: #303877;
+  background-color: #1a3c87;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
+  padding: 18px;
+  text-align: left;
+  /* text-transform: uppercase; */
+  font-size: 0.95rem;
 }
 
-.patent-table tr:nth-child(even) {
-  background-color: #f9f9f9;
+.patent-table td {
+  padding: 18px;
+  border-bottom: 1px solid #f0f0f0;
+  color: #444;
+  vertical-align: top;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-.patent-table tr:hover {
-  background-color: #f1f1f1;
+.patent-table tr:last-child td {
+  border-bottom: none;
 }
 
-/* Responsive Table for Mobile */
+.patent-table tbody tr:nth-child(even) {
+  background-color: #fcfcfc;
+}
+
+.patent-table tbody tr:hover {
+  background-color: #f0f6ff;
+}
+
+/* Mobile Patents - Card Style */
 @media (max-width: 768px) {
-  .patents-container {
-    padding: 10px;
+  .patent-table thead {
+    display: none;
   }
 
-  .patent-table {
+  .patent-table,
+  .patent-table tbody,
+  .patent-table tr,
+  .patent-table td {
     display: block;
     width: 100%;
-    overflow-x: auto;
-    white-space: nowrap;
   }
 
-  .patent-table th,
+  .patent-table tr {
+    margin-bottom: 25px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    background: white;
+  }
+
   .patent-table td {
-    font-size: 14px;
-    padding: 8px;
-  }
-}
-
-/* Further Optimization for Small Screens */
-@media (max-width: 480px) {
-  .patents-container h2 {
-    font-size: 1.5rem;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
   }
 
-  .patent-table th,
-  .patent-table td {
-    font-size: 12px;
-    padding: 6px;
+  .patent-table td::before {
+    content: attr(data-label);
+    font-weight: 700;
+    color: #1a3c87;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* Automatic Labels for standard columns */
+  .patent-table td:nth-of-type(1)::before {
+    content: "Title";
+  }
+
+  .patent-table td:nth-of-type(2)::before {
+    content: "Students Involved";
+  }
+
+  .patent-table td:nth-of-type(3)::before {
+    content: "Faculty";
+  }
+
+  .patent-table td:nth-of-type(4)::before {
+    content: "Status";
   }
 }
 
