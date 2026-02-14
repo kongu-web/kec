@@ -298,9 +298,11 @@ const Ctug = () => {
           {activeSection === "Faculty" && (
             <div>
               <h2>Faculty Members</h2>
-              <h3>
-                <strong>Total Faculty Members: {facultyData.length}</strong>
-              </h3>
+              {facultyData.length > 0 && (
+                <h3>
+                  <strong>Total Faculty Members: {facultyData.length}</strong>
+                </h3>
+              )}
 
               <div className="auto-faculty-container">
                 {facultyData.map((faculty, index) => (
