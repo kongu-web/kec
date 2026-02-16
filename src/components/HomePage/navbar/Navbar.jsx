@@ -153,6 +153,28 @@ const Navbar = () => {
     };
   }, []);
 
+  // Prevent background scrolling when mobile menu or form is open
+  useEffect(() => {
+    const lockScroll = mobileMenu || showForm;
+    if (lockScroll) {
+      document.body.style.overflow = "hidden";
+      document.documentElement.style.overflow = "hidden";
+      document.body.style.height = "100%";
+      document.documentElement.style.height = "100%";
+    } else {
+      document.body.style.overflow = "auto";
+      document.documentElement.style.overflow = "auto";
+      document.body.style.height = "auto";
+      document.documentElement.style.height = "auto";
+    }
+    return () => {
+      document.body.style.overflow = "auto";
+      document.documentElement.style.overflow = "auto";
+      document.body.style.height = "auto";
+      document.documentElement.style.height = "auto";
+    };
+  }, [mobileMenu, showForm]);
+
   const toggleDropdown = (i) => {
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
     setActiveDropdown(activeDropdown === i ? null : i);
@@ -195,14 +217,14 @@ const Navbar = () => {
               }}
               onMouseLeave={() => setActiveUtilityMenu(false)}
             > */}
-              <a href="/iqac">Accreditation</a>
+            <a href="/iqac">Accreditation</a>
 
-              {/* {activeUtilityMenu && (
+            {/* {activeUtilityMenu && (
                 <div className="submenu">
                   <a href="/nba">NBA</a>
                   <a href="/naac">NAAC</a>
                   {/* <a href="/iqac">IQAC</a> */}
-                  {/* <a href="/nirf">NIRF</a>
+            {/* <a href="/nirf">NIRF</a>
                   <a href="/aicteet">AICTE - E&T</a>
                   <a href="/aictemca">AICTE - MCA</a>
                   <a href="/aictemba">AICTE - MBA</a>
@@ -600,7 +622,7 @@ const Navbar = () => {
                     IEF
                   </span>
 
-                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank") }>
+                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>
                     <GeneralIcon className="submenu-icon" />
                     SCC (Student Counselling Cell - Portal)
                   </span>
