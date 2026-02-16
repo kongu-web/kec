@@ -16,6 +16,8 @@ import muruganandam from "../../../assets/images/Testimonials/muruganandam.jpeg"
 import suhaag from "../../../assets/images/Testimonials/suhaag.jpeg";
 import daniel from "../../../assets/images/Testimonials/daniel.jpeg";
 import menaka from "../../../assets/images/Testimonials/menaka.jpeg";
+import nagarajan from "../../../assets/images/Testimonials/nagarajan.jpeg";
+import kalaiyarasi from "../../../assets/images/Testimonials/kalaiyarasi.jpeg";
 
 const testimonialsData = [
     {
@@ -185,6 +187,22 @@ const testimonialsData = [
         avatar: menaka,
         content:
             "The supportive faculty and well-equipped labs gave me the flexibility to explore, learn and adapt to new technologies. Collaborative projects helped me grow as a team player and develop leadership skills. Being actively involved in department activities and receiving continuous guidance for placements played a key role in shaping my career. The exposure to real-time problem solving boosted my confidence to take on challenges. I am grateful for the strong foundation that continues to drive my professional growth.",
+    },
+    {
+        id: 22,
+        name: "Nagarajan Raju",
+        role: "Principal Technical Program Manager, Senior Manager, Amazon.com, Seattle, USA",
+        avatar: nagarajan,
+        content:
+            "Kongu Engineering College played a critical role in shaping my career by giving me strong fundamentals, discipline, and a supportive learning environment. I started my career through campus placement. Serving as Department Secretary (CSE & MCA) and being a founding member of ORION, our first PG inter-college event, strengthened my leadership and teamwork. I’m grateful for the opportunities and proud to be associated with my department.",
+    },
+     {
+        id: 23,
+        name: "Kalaiyarasi Ramachandran",
+        role: "Founder - Raatai handloom, Kavindapadi, India",
+        avatar: kalaiyarasi,
+        content:
+            "As an alumna of the MCA Department, Kongu Engineering College, I received strong guidance and encouragement to explore ideas and think independently. The support from the department played an important role in shaping my path.",
     },
 ];
 
