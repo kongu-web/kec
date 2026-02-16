@@ -8,6 +8,8 @@ import Manikandan from "../../../assets/images/Testimonials/Manikandan.jpg";
 import venkat from "../../../assets/images/Testimonials/venkat.jpeg";
 import vignesh from "../../../assets/images/Testimonials/vignesh.jpeg";
 import dhanraj from "../../../assets/images/Testimonials/dhanraj.jpeg";
+import aravindh from "../../../assets/images/Testimonials/aravindh.jpeg";
+import siva from "../../../assets/images/Testimonials/siva.jpeg";
 
 const testimonialsData = [
     {
@@ -113,6 +115,22 @@ const testimonialsData = [
         avatar: dhanraj,
         content:
             "From classroom concepts to global innovation, my journey at the Department of EIE, Kongu Engineering College shaped who I am today. The guidance and hands-on learning here powered my path to becoming an Associate R&D Engineer at ABB Global Industries.",
+    },
+     {
+        id: 14,
+        name: "S.Aravindh",
+        role: "Associate Full Stack Engineer, Rubrik, Bangalore",
+        avatar: aravindh,
+        content:
+            "My time at KEC was one of the most defining phases of my life, shaping both my personal and professional growth. The IT department played a major role in this journey, offering a strong academic foundation along with exposure to emerging technologies. The department faculty were highly supportive and constantly encouraged us to explore, innovate, and improve our skills. I actively participated in culturals, hackathons, technical events, and placement activities, which helped me develop confidence, teamwork, and real-world problem-solving abilities. These experiences enhanced both my technical expertise and personality. The vibrant campus culture allowed me to balance academics with extracurricular growth while building lifelong friendships. The values, discipline, and skills I gained during my years at KEC, especially through the IT department, continue to guide me in my career and make me proud to be an alumnus.",
+    },
+      {
+        id: 15,
+        name: "Siva Paramasivam",
+        role: "Sr. Product Engineer, XKIG, Virginia, USA",
+        avatar: siva,
+        content:
+            "I am a proud 2015 graduate of the KEC, IT Department, and looking back, I am filled with gratitude for the incredible foundation it gave me. The department offered outstanding facilities, a supportive learning environment, and faculty members who treated every student like family. The friendships, the culture, and the overall atmosphere shaped not just our academic journey but who we became as individuals. The department has always been known for producing students with strong technical caliber and grounded values, and I’m happy to see that tradition continuing even today. A special thanks to SVG sir, whose personal connection with students and alumni remains unmatched. His guidance, warmth, and continued engagement with us long after graduation speak volumes about the heart of the department. It’s inspiring to see the IT Department still nurturing exceptional talent and helping students shine in their careers. I am truly grateful to have been a part of it.",
     },
 ];
 
