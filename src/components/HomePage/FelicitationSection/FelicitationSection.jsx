@@ -120,7 +120,10 @@ function FelicitationSection() {
       <div className="carousel-container">
         <button
           className="carousel-btn left-btn"
-          onClick={() => scrollRef.current.scrollBy({ left: -325, behavior: 'smooth' })}
+          onClick={() => {
+            const scrollAmount = window.innerWidth <= 480 ? 300 : (window.innerWidth <= 768 ? 278 : 325);
+            scrollRef.current.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+          }}
         >
           ‹
         </button>
@@ -144,7 +147,10 @@ function FelicitationSection() {
 
         <button
           className="carousel-btn right-btn"
-          onClick={() => scrollRef.current.scrollBy({ left: 325, behavior: 'smooth' })}
+          onClick={() => {
+            const scrollAmount = window.innerWidth <= 480 ? 300 : (window.innerWidth <= 768 ? 278 : 325);
+            scrollRef.current.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+          }}
         >
           ›
         </button>

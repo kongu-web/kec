@@ -400,7 +400,7 @@ const Civil = () => {
                 </tbody>
               </table>
               <br />
-              <h2>Research Facilities</h2>
+              <h2 className="research-facilities-title">Research Facilities</h2>
 
               <table className="library-table">
                 <tbody>
