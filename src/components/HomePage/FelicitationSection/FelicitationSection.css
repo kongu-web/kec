@@ -147,16 +147,16 @@
   background: white;
   color: #333;
   font-size: 24px;
-  display: none;
-  /* Hidden on desktop/tablet */
+  display: flex;
+  /* Always visible where needed */
   align-items: center;
   justify-content: center;
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  z-index: 10;
+  z-index: 100 !important;
   transition: all 0.2s ease;
   line-height: 1;
-  padding-bottom: 4px;
+  padding-bottom: 2px;
   /* Optical center adjustment */
 }
 
@@ -372,20 +372,30 @@
   }
 
   .carousel-container {
-    padding: 0 40px;
+    padding: 0;
+    /* Remove container padding to allow full-width scroll area */
     position: relative;
-    overflow: visible;
-    margin-top: 20px;
+    overflow: hidden;
+    /* Keep buttons within container */
+    margin-top: 10px;
   }
 
   .video-thumbnails {
-    gap: 20px;
-    padding: 15px 0;
-    scroll-padding: 0 20px;
+    gap: 100px;
+    /* Reduced gap for better stability while still isolating cards */
+    padding: 15px calc(50% - 140px);
+    /* Strictly center a 280px card */
+    scroll-padding: 0 calc(50% - 140px);
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
   }
 
   .thumb-card {
     flex: 0 0 280px;
+    /* Constant size for predictable centering */
     width: 280px;
     scroll-snap-align: center;
     border-radius: 16px;
@@ -400,20 +410,22 @@
   }
 
   .carousel-btn {
-    background: transparent;
-    border: none;
-    box-shadow: none;
-    width: 45px;
-    height: 100%;
+    background: #f5f5f5 !important;
+    /* Refined: Light grey background */
+    color: #666 !important;
+    /* Refined: Dark grey arrow */
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 5px 15px rgba(11, 130, 216, 0.4);
+    width: 42px;
+    height: 42px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 40px;
-    color: rgba(0, 0, 0, 0.4);
-    display: flex;
+    font-size: 32px;
+    display: flex !important;
     align-items: center;
     justify-content: center;
-    border-radius: 0;
-    z-index: 10;
+    border-radius: 50%;
+    z-index: 1000 !important;
   }
 
   .carousel-btn:hover {
@@ -422,10 +434,10 @@
   }
 
   .left-btn {
-    left: 0;
+    left: 10px;
   }
 
   .right-btn {
-    right: 0;
+    right: 10px;
   }
 }
