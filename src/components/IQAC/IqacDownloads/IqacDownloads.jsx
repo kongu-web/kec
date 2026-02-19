@@ -61,15 +61,6 @@ const eomsCopoFiles = [
 
 const eomsMdfFiles = [
     { name: "00_MDI_01 MASTER LIST.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/00_MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
-    { name: "10_Association.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/10_Association.pdf`, type: "pdf" },
-    { name: "11_Budget.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/11_Budget.pdf`, type: "pdf" },
-    { name: "12_Alumni.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/12_Alumni.pdf`, type: "pdf" },
-    { name: "13_Test.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/13_Test.pdf`, type: "pdf" },
-    { name: "14_Placement.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/14_Placement.pdf`, type: "pdf" },
-    { name: "15_MinutesofMeeting.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/15_MinutesofMeeting.pdf`, type: "pdf" },
-    { name: "17_LIBRARY.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/17_LIBRARY.pdf`, type: "pdf" },
-    { name: "18_PHYSICAL EDUCATION.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/18_PHYSICAL EDUCATION.pdf`, type: "pdf" },
-    { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" },
     { name: "1_Timetable.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/1_Timetable.pdf`, type: "pdf" },
     { name: "2_Academic.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/2_Academic.pdf`, type: "pdf" },
     { name: "3_Project.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/3_Project.pdf`, type: "pdf" },
@@ -78,7 +69,18 @@ const eomsMdfFiles = [
     { name: "6_Feedback.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/6_Feedback.pdf`, type: "pdf" },
     { name: "7_IIPC.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/7_IIPC.pdf`, type: "pdf" },
     { name: "8_Research.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/8_Research.pdf`, type: "pdf" },
-    { name: "9_TrainingFaculty_Staff.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/9_TrainingFaculty_Staff.pdf`, type: "pdf" }
+    { name: "9_TrainingFaculty_Staff.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/9_TrainingFaculty_Staff.pdf`, type: "pdf" },
+    { name: "10_Association.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/10_Association.pdf`, type: "pdf" },
+    { name: "11_Budget.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/11_Budget.pdf`, type: "pdf" },
+    { name: "12_Alumni.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/12_Alumni.pdf`, type: "pdf" },
+    { name: "13_Test.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/13_Test.pdf`, type: "pdf" },
+    { name: "14_Placement.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/14_Placement.pdf`, type: "pdf" },
+    { name: "15_MinutesofMeeting.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/15_MinutesofMeeting.pdf`, type: "pdf" },
+    { name: "17_LIBRARY.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/17_LIBRARY.pdf`, type: "pdf" },
+    { name: "18_PHYSICAL EDUCATION.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/18_PHYSICAL EDUCATION.pdf`, type: "pdf" },
+    { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" }
+
+   
 ];
 
 const eomsMdiFiles = [
