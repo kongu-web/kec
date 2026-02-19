@@ -3,7 +3,7 @@ import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
 import IqacNavbar from '../IqacNavbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf, faFileExcel, faFileWord, faDownload, faUserTie, faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faFileExcel, faFileWord, faDownload, faUserTie, faSignOutAlt, faFolder, faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { faGoogle } from '@fortawesome/free-brands-svg-icons';
 import '../IQAC.css';
 import './IqacDownloads.css';
@@ -49,10 +49,78 @@ const archivedCopoFiles = archivedData.copo || [];
 const archivedPdfFiles = archivedData.pdf || [];
 const archivedDocFiles = archivedData.doc || [];
 
+const EOMS_BASE_PATH = "/files/iqac/downloads/EOMS";
+
+const eomsCopoFiles = [
+    { name: "1.THEORY COURSE.xlsx", path: `${EOMS_BASE_PATH}/COPO/1.THEORY COURSE.xlsx` },
+    { name: "2.LABORATORY COURSE.xlsx", path: `${EOMS_BASE_PATH}/COPO/2.LABORATORY COURSE.xlsx` },
+    { name: "3.THEORY CUM LABORATORY COURSE.xlsx", path: `${EOMS_BASE_PATH}/COPO/3.THEORY CUM LABORATORY COURSE.xlsx` },
+    { name: "4.PROJECT_WORK FINAL YEAR.xlsx", path: `${EOMS_BASE_PATH}/COPO/4.PROJECT_WORK FINAL YEAR.xlsx` },
+    { name: "5.PROJECT_WORK THIRD YEAR.xlsx", path: `${EOMS_BASE_PATH}/COPO/5.PROJECT_WORK THIRD YEAR.xlsx` }
+];
+
+const eomsMdfFiles = [
+    { name: "00_MDI_01 MASTER LIST.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/00_MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
+    { name: "10_Association.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/10_Association.pdf`, type: "pdf" },
+    { name: "11_Budget.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/11_Budget.pdf`, type: "pdf" },
+    { name: "12_Alumni.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/12_Alumni.pdf`, type: "pdf" },
+    { name: "13_Test.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/13_Test.pdf`, type: "pdf" },
+    { name: "14_Placement.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/14_Placement.pdf`, type: "pdf" },
+    { name: "15_MinutesofMeeting.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/15_MinutesofMeeting.pdf`, type: "pdf" },
+    { name: "17_LIBRARY.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/17_LIBRARY.pdf`, type: "pdf" },
+    { name: "18_PHYSICAL EDUCATION.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/18_PHYSICAL EDUCATION.pdf`, type: "pdf" },
+    { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" },
+    { name: "1_Timetable.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/1_Timetable.pdf`, type: "pdf" },
+    { name: "2_Academic.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/2_Academic.pdf`, type: "pdf" },
+    { name: "3_Project.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/3_Project.pdf`, type: "pdf" },
+    { name: "4_CO-PO.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/4_CO-PO.pdf`, type: "pdf" },
+    { name: "5_Lab.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/5_Lab.pdf`, type: "pdf" },
+    { name: "6_Feedback.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/6_Feedback.pdf`, type: "pdf" },
+    { name: "7_IIPC.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/7_IIPC.pdf`, type: "pdf" },
+    { name: "8_Research.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/8_Research.pdf`, type: "pdf" },
+    { name: "9_TrainingFaculty_Staff.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/9_TrainingFaculty_Staff.pdf`, type: "pdf" }
+];
+
+const eomsMdiFiles = [
+    { name: "MDI_03 MDI List.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_03 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
+    { name: "MDI_04 Format Change.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_04 FORMAT CHANGE REQUISITION SLIP.pdf`, type: "pdf" },
+    { name: "MDI_08 Complaint Reg.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_08 CUSTOMER COMPLAINT REGISTER.pdf`, type: "pdf" },
+    { name: "MDI_09 Quality Plan.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_09 QUALITY PLAN.pdf`, type: "pdf" },
+    { name: "MDI_11 Intra Audit.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_11 INTRA DEPARTMENT AUDIT REPORT.pdf`, type: "pdf" },
+    { name: "MDI_12 Inter Audit.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_12 INTER DEPARTMENT AUDIT REPORT.pdf`, type: "pdf" },
+    { name: "MDI_13 NC Report.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_13 NON CONFIRMATIVE REPORT.pdf`, type: "pdf" },
+    { name: "MDI_15 Action Taken.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_15 ACTION TAKEN REPORT FOR AUDIT.pdf`, type: "pdf" },
+    { name: "MDI_16 Student Feedback.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_16 ACTION TAKEN FOR STUDENT FEEDBACK ABOUT THE FACULTY.pdf`, type: "pdf" },
+    { name: "MDI_17 Improvement Reg.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.pdf`, type: "pdf" }
+];
+
+const eomsMdfDocFiles = [
+    "00_MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.docx",
+    "1_Timetable.docx", "2_Academic.docx", "3_Project.docx", "4_CO-PO.docx",
+    "5_Lab.docx", "6_Feedback.docx", "7_IIPC.docx", "8_Research.doc",
+    "9_TrainingFaculty_Staff.doc", "10_Association.doc", "11_Budget.doc", "12_Alumni.docx",
+    "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx",
+    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx"
+];
+
+const eomsMdiDocFiles = [
+    "MDI_03 MASTER LIST OF SM DOCUMENTS INFORMATION.docx",
+    "MDI_04 FORMAT CHANGE REQUISITION SLIP.doc",
+    "MDI_08 CUSTOMER COMPLAINT REGISTER.docx",
+    "MDI_09 QUALITY PLAN.docx",
+    "MDI_11 INTRA DEPARTMENT AUDIT REPORT.doc",
+    "MDI_12 INTER DEPARTMENT AUDIT REPORT.doc",
+    "MDI_13 NON CONFIRMATIVE REPORT.docx",
+    "MDI_15 ACTION TAKEN REPORT FOR AUDIT.docx",
+    "MDI_16 ACTION TAKEN FOR STUDENT FEEDBACK ABOUT THE FACULTY.docx",
+    "MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.doc"
+];
+
 const IqacDownloads = () => {
     const { isAuthenticated, loginWithGoogle, logout, user } = useAuth();
     const [error, setError] = useState('');
     const [showArchived, setShowArchived] = useState(false);
+    const [activeFolder, setActiveFolder] = useState(null);
 
     const handleGoogleLogin = async () => {
         setError('');
@@ -115,39 +183,24 @@ const IqacDownloads = () => {
                     <div className="downloads-header-modern">
                         <div className="header-decoration"></div>
                         <div className="header-text-comp">
-                            <h2 className="dept-title">Internal Quality Assurance Cell (IQAC)</h2>
+                            <h2 className="college-title">Internal Quality Assurance Cell (IQAC)</h2>
                         </div>
                         <div className="page-label">
                             <span>{showArchived ? 'Archived Documents' : 'IQAC Documents Format'}</span>
                         </div>
                     </div>
 
-                    {/* User Controls */}
-                    {/* User Controls */}
-                    <div className="user-controls-bar" style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '15px', paddingBottom: '20px' }}>
-                        <button
-                            onClick={() => setShowArchived(!showArchived)}
-                            style={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: '8px',
-                                border: `1px solid ${showArchived ? '#0284c7' : '#e2e8f0'}`,
-                                background: showArchived ? '#0284c7' : '#ffffff',
-                                color: showArchived ? '#ffffff' : '#475569',
-                                padding: '8px 20px',
-                                borderRadius: '50px',
-                                fontSize: '0.85rem',
-                                fontWeight: '600',
-                                cursor: 'pointer',
-                                transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
-                                boxShadow: showArchived ? '0 4px 12px rgba(2, 132, 199, 0.25)' : '0 2px 4px rgba(0,0,0,0.03)'
-                            }}
-                        >
-                            <FaHistory style={{ fontSize: '0.9rem' }} />
-                            {showArchived ? 'Current Files' : 'Archives'}
-                        </button>
+                    {/* User Controls & Navigation */}
+                    <div className="user-controls-bar" style={{ display: 'flex', alignItems: 'center', paddingBottom: '20px' }}>
+                        {/* Back Button (Left Aligned) */}
+                        {activeFolder && (
+                            <button className="back-btn-iqac" onClick={() => setActiveFolder(null)}>
+                                <FontAwesomeIcon icon={faArrowLeft} />Back to Folders
+                            </button>
+                        )}
 
-                        <div className="user-profile-pill">
+                        {/* User Profile (Right Aligned) */}
+                        <div className="user-profile-pill" style={{ marginLeft: 'auto' }}>
                             <div className="user-info">
                                 <div className="user-avatar-icon">
                                     <FontAwesomeIcon icon={faUserTie} />
@@ -167,163 +220,284 @@ const IqacDownloads = () => {
                         </div>
                     </div>
 
-                    <div className="downloads-grid">
-                        {showArchived ? (
-                            // ARCHIVED VIEW
-                            <>
-                                {archivedCopoFiles.length === 0 && archivedPdfFiles.length === 0 && archivedDocFiles.length === 0 ? (
-                                    <div className="no-files-message" style={{ gridColumn: '1 / -1', textAlign: 'center', padding: '50px', color: '#64748b' }}>
-                                        <p>No archived documents available at this time.</p>
+                    {/* Folder Selection View */}
+                    {!activeFolder && (
+                        <div className="folder-selection-container">
+                            <div className="folder-card iso-card" onClick={() => setActiveFolder('iso9001')}>
+                                <div className="card-bg-decoration"></div>
+                                <div className="folder-content-wrapper">
+                                    <div className="icon-container">
+                                        <div className="icon-glow"></div>
+                                        <FontAwesomeIcon icon={faFolder} className="folder-icon-main" />
                                     </div>
-                                ) : (
-                                    <>
-                                        {/* Archived CO-PO */}
-                                        {archivedCopoFiles.length > 0 && (
-                                            <div className="download-card copo-sheet">
-                                                <h4>Archived CO-PO Sheets</h4>
-                                                <ul className="file-list">
-                                                    {archivedCopoFiles.map((file, idx) => (
-                                                        <li key={idx}>
-                                                            <a href={`${ARCHIVED_BASE_PATH}/${file}`} download>
-                                                                <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
-                                                                {file}
-                                                            </a>
-                                                        </li>
-                                                    ))}
-                                                </ul>
-                                            </div>
-                                        )}
+                                    <div className="folder-text">
+                                        <h3 className="folder-title">ISO 9001</h3>
+                                        <p className="folder-subtitle">International Organization for Standardization</p>
+                                    </div>
+                                    <div className="folder-action">
+                                        <span>View Format</span>
+                                        <FontAwesomeIcon icon={faArrowRight} />
+                                    </div>
+                                </div>
+                            </div>
 
-                                        {/* Archived PDFs */}
-                                        {archivedPdfFiles.length > 0 && (
-                                            <div className="download-card pdf-files">
-                                                <h4>Archived PDF Files</h4>
-                                                <ul className="file-list">
-                                                    {archivedPdfFiles.map((name, idx) => (
-                                                        <li key={idx}>
-                                                            <a href={`${ARCHIVED_BASE_PATH}/${name}`} target="_blank" rel="noopener noreferrer">
-                                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
-                                                                {name}
-                                                            </a>
-                                                        </li>
-                                                    ))}
-                                                </ul>
-                                            </div>
-                                        )}
+                            <div className="folder-card eoms-card" onClick={() => setActiveFolder('eoms21001')}>
+                                <div className="card-bg-decoration"></div>
+                                <div className="folder-content-wrapper">
+                                    <div className="icon-container">
+                                        <div className="icon-glow"></div>
+                                        <FontAwesomeIcon icon={faFolder} className="folder-icon-main" />
+                                    </div>
+                                    <div className="folder-text">
+                                        <h3 className="folder-title">EOMS 21001</h3>
+                                        <p className="folder-subtitle">Educational Organizations Management System</p>
+                                    </div>
+                                    <div className="folder-action">
+                                        <span>View Format</span>
+                                        <FontAwesomeIcon icon={faArrowRight} />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    )}
 
-                                        {/* Archived DOCs */}
-                                        {archivedDocFiles.length > 0 && (
-                                            <div className="download-card doc-files">
-                                                <h4>Archived DOC Files</h4>
-                                                <ul className="file-list">
-                                                    {archivedDocFiles.map((name, idx) => (
-                                                        <li key={idx}>
-                                                            <a href={`${ARCHIVED_BASE_PATH}/${name}`} download>
-                                                                {name.endsWith('.xlsx') ? (
+                    {/* ISO 9001 Content */}
+                    {activeFolder === 'iso9001' && (
+                        <div className="downloads-grid">
+                            {showArchived ? (
+                                // ARCHIVED VIEW
+                                <>
+                                    {archivedCopoFiles.length === 0 && archivedPdfFiles.length === 0 && archivedDocFiles.length === 0 ? (
+                                        <div className="no-files-message" style={{ gridColumn: '1 / -1', textAlign: 'center', padding: '50px', color: '#64748b' }}>
+                                            <p>No archived documents available at this time.</p>
+                                        </div>
+                                    ) : (
+                                        <>
+                                            {/* Archived CO-PO */}
+                                            {archivedCopoFiles.length > 0 && (
+                                                <div className="download-card copo-sheet">
+                                                    <h4>Archived CO-PO Sheets</h4>
+                                                    <ul className="iqac-file-list">
+                                                        {archivedCopoFiles.map((file, idx) => (
+                                                            <li key={idx}>
+                                                                <a href={`${ARCHIVED_BASE_PATH}/${file}`} download>
                                                                     <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
-                                                                ) : (
-                                                                    <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
-                                                                )}
-                                                                {name}
-                                                            </a>
-                                                        </li>
-                                                    ))}
-                                                </ul>
-                                            </div>
-                                        )}
-                                    </>
-                                )}
-                            </>
-                        ) : (
-                            // CURRENT VIEW (Existing Layout)
-                            <>
-                                {/* Row 1 */}
-                                <div className="download-card quality-plan">
-                                    <h4>Quality Plan</h4>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href={`${BASE_PATH}/qualityplan/00_IQAC_PLAN_01.09.2023.pdf`}
-                                                className="download-link"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                download
-                                            >
-                                                <FontAwesomeIcon icon={faDownload} className="me-2" />
-                                                Download Quality Plan
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-
-                                <div className="download-card roles">
-                                    <h4>Roles and Responsibilities</h4>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href={`${BASE_PATH}/roles/Roles_v1.pdf`}
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="roles-link"
-                                            >
-                                                <div className="icon-box">
-                                                    <FontAwesomeIcon icon={faUserTie} />
+                                                                    {file}
+                                                                </a>
+                                                            </li>
+                                                        ))}
+                                                    </ul>
                                                 </div>
-                                                <span>View Roles</span>
+                                            )}
+
+                                            {/* Archived PDFs */}
+                                            {archivedPdfFiles.length > 0 && (
+                                                <div className="download-card pdf-files">
+                                                    <h4>Archived PDF Files</h4>
+                                                    <ul className="iqac-file-list">
+                                                        {archivedPdfFiles.map((name, idx) => (
+                                                            <li key={idx}>
+                                                                <a href={`${ARCHIVED_BASE_PATH}/${name}`} target="_blank" rel="noopener noreferrer">
+                                                                    <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
+                                                                    {name}
+                                                                </a>
+                                                            </li>
+                                                        ))}
+                                                    </ul>
+                                                </div>
+                                            )}
+
+                                            {/* Archived DOCs */}
+                                            {archivedDocFiles.length > 0 && (
+                                                <div className="download-card doc-files">
+                                                    <h4>Archived DOC Files</h4>
+                                                    <ul className="iqac-file-list">
+                                                        {archivedDocFiles.map((name, idx) => (
+                                                            <li key={idx}>
+                                                                <a href={`${ARCHIVED_BASE_PATH}/${name}`} download>
+                                                                    {name.endsWith('.xlsx') ? (
+                                                                        <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
+                                                                    ) : (
+                                                                        <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
+                                                                    )}
+                                                                    {name}
+                                                                </a>
+                                                            </li>
+                                                        ))}
+                                                    </ul>
+                                                </div>
+                                            )}
+                                        </>
+                                    )}
+                                </>
+                            ) : (
+                                // CURRENT VIEW (Existing Layout)
+                                <>
+                                    {/* Row 1 */}
+                                    <div className="download-card quality-plan">
+                                        <h4>Quality Plan</h4>
+                                        <ul>
+                                            <li>
+                                                <a
+                                                    href={`${BASE_PATH}/qualityplan/00_IQAC_PLAN_01.09.2023.pdf`}
+                                                    className="iqac-download-link"
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    download
+                                                >
+                                                    <FontAwesomeIcon icon={faDownload} className="me-2" />
+                                                    Download Quality Plan
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <div className="download-card roles">
+                                        <h4>Roles and Responsibilities</h4>
+                                        <ul>
+                                            <li>
+                                                <a
+                                                    href={`${BASE_PATH}/roles/Roles_v1.pdf`}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="roles-link"
+                                                >
+                                                    <div className="icon-box">
+                                                        <FontAwesomeIcon icon={faUserTie} />
+                                                    </div>
+                                                    <span>View Roles</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    {/* Row 2 / Large Columns */}
+                                    <div className="download-card copo-sheet">
+                                        <h4>CO-PO ATTAINMENT SHEET</h4>
+                                        <ul className="iqac-file-list">
+                                            {copoFiles.map((file, idx) => (
+                                                <li key={idx}>
+                                                    <a href={file.path} download>
+                                                        <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
+                                                        {file.name}
+                                                    </a>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+
+                                    <div className="download-card pdf-files">
+                                        <h4>Download PDF Files</h4>
+                                        <ul className="iqac-file-list">
+                                            {pdfFiles.map((name, idx) => (
+                                                <li key={idx}>
+                                                    <a href={`${BASE_PATH}/${name}`} target="_blank" rel="noopener noreferrer">
+                                                        <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
+                                                        {name}
+                                                    </a>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+
+                                    <div className="download-card doc-files">
+                                        <h4>Download DOC Files</h4>
+                                        <ul className="iqac-file-list">
+                                            {docFiles.map((name, idx) => (
+                                                <li key={idx}>
+                                                    <a href={`${BASE_PATH}/${name}`} download>
+                                                        {name.endsWith('.xlsx') ? (
+                                                            <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
+                                                        ) : (
+                                                            <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
+                                                        )}
+                                                        {name}
+                                                    </a>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                </>
+                            )}
+                        </div>
+                    )}
+
+                    {/* EOMS 21001 Content */}
+                    {activeFolder === 'eoms21001' && (
+                        <div className="downloads-grid">
+                            {/* MDI Documents */}
+                            <div className="download-card pdf-files">
+                                <h4>EOMS - MDI (PDF Documents)</h4>
+                                <ul className="iqac-file-list">
+                                    {eomsMdiFiles.map((file, idx) => (
+                                        <li key={idx}>
+                                            <a href={file.path} target="_blank" rel="noopener noreferrer">
+                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
+                                                {file.name}
                                             </a>
                                         </li>
-                                    </ul>
-                                </div>
+                                    ))}
+                                </ul>
+                            </div>
 
-                                {/* Row 2 / Large Columns */}
-                                <div className="download-card copo-sheet">
-                                    <h4>CO-PO ATTAINMENT SHEET</h4>
-                                    <ul className="file-list">
-                                        {copoFiles.map((file, idx) => (
-                                            <li key={idx}>
-                                                <a href={file.path} download>
-                                                    <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
-                                                    {file.name}
-                                                </a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
+                            <div className="download-card doc-files">
+                                <h4>EOMS - MDI (Word Documents)</h4>
+                                <ul className="iqac-file-list">
+                                    {eomsMdiDocFiles.map((name, idx) => (
+                                        <li key={idx}>
+                                            <a href={`${EOMS_BASE_PATH}/MDI/WORD/${name}`} download>
+                                                <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
+                                                {name}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
 
-                                <div className="download-card pdf-files">
-                                    <h4>Download PDF Files</h4>
-                                    <ul className="file-list">
-                                        {pdfFiles.map((name, idx) => (
-                                            <li key={idx}>
-                                                <a href={`${BASE_PATH}/${name}`} target="_blank" rel="noopener noreferrer">
-                                                    <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
-                                                    {name}
-                                                </a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
+                            {/* MDF Documents */}
+                            <div className="download-card pdf-files">
+                                <h4>EOMS - MDF (PDF Documents)</h4>
+                                <ul className="iqac-file-list">
+                                    {eomsMdfFiles.map((file, idx) => (
+                                        <li key={idx}>
+                                            <a href={file.path} target="_blank" rel="noopener noreferrer">
+                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
+                                                {file.name}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
 
-                                <div className="download-card doc-files">
-                                    <h4>Download DOC Files</h4>
-                                    <ul className="file-list">
-                                        {docFiles.map((name, idx) => (
-                                            <li key={idx}>
-                                                <a href={`${BASE_PATH}/${name}`} download>
-                                                    {name.endsWith('.xlsx') ? (
-                                                        <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
-                                                    ) : (
-                                                        <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
-                                                    )}
-                                                    {name}
-                                                </a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-                            </>
-                        )}
-                    </div>
+                            <div className="download-card doc-files">
+                                <h4>EOMS - MDF (Word Documents)</h4>
+                                <ul className="iqac-file-list">
+                                    {eomsMdfDocFiles.map((name, idx) => (
+                                        <li key={idx}>
+                                            <a href={`${EOMS_BASE_PATH}/MDF/WORD/${name}`} download>
+                                                <FontAwesomeIcon icon={faFileWord} className="file-icon word" />
+                                                {name}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+
+                            <div className="download-card copo-sheet">
+                                <h4>EOMS - CO-PO ATTAINMENT SHEET</h4>
+                                <ul className="iqac-file-list">
+                                    {eomsCopoFiles.map((file, idx) => (
+                                        <li key={idx}>
+                                            <a href={file.path} download>
+                                                <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
+                                                {file.name}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        </div>
+                    )}
                 </div>
             </div>
             <Footer />
