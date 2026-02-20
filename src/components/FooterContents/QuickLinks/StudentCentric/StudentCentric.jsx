@@ -149,6 +149,9 @@ const data = [
         "Ms. T. E. Ramya / CSE",
       ],
     },
+    " Computer Society of India (CSI)": {
+      Coordinator: ["Dr. P. S. Nandhini / CSE"],
+    },
     "Srinivasa Ramanujan Mathematics Club": {
       Coordinators: ["Dr. AL. Nachammai / Maths", "Dr. K. Radhika / Maths"],
     },
