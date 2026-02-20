@@ -1379,7 +1379,7 @@ body {
   color: #222;
   font-size: 1.25rem;
   /* Larger Name */
-  font-weight: 300;
+  font-weight: 400;
   /* Thin Font */
   margin: 0 0 4px 0;
   letter-spacing: 0.5px;
@@ -1388,7 +1388,7 @@ body {
 .civil-faculty-card .faculty-info p {
   color: #666;
   font-size: 0.9rem;
-  font-weight: 300;
+  font-weight: 400;
   /* Thin Font */
   margin: 0;
   text-transform: capitalize;
