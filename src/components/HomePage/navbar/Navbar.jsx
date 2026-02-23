@@ -612,9 +612,9 @@ const Navbar = () => {
                   onMouseLeave={handleMouseLeave}
                 >
                   {/* Internal pages */}
-                  <span onClick={() => navigate("/facilities")}>
+                  <span onClick={() => navigate("/campus-life")}>
                     <LifeIcon className="submenu-icon" />
-                    Facilities
+                    Campus Life
                   </span>
 
                   <span onClick={() => navigate("/ief")}>
@@ -923,7 +923,7 @@ const Navbar = () => {
                 {openMobileMenu === "others" && (
                   <ul className="mobile-submenu">
                     {/* Internal pages */}
-                    <li onClick={() => navigate("/facilities")}>Facilities</li>
+                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
 
@@ -982,9 +982,11 @@ const Navbar = () => {
 
                 {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
                 <li className="divider">Utility Menu</li>
+                <li onClick={() => navigate("/iqac")}>Accreditation</li>
+
 
                 {/* ACCREDITATION */}
-                <li
+                {/* <li
                   className="mobile-menu-item"
                   onClick={() =>
                     setOpenMobileMenu(
@@ -1005,7 +1007,7 @@ const Navbar = () => {
                     <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
                     <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
                   </ul>
-                )}
+                )} */}
 
                 <li onClick={() => window.open("https://kongu.ac.in/blogs/", "_blank")}>
                   Blogs

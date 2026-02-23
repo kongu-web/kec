@@ -1,74 +1,66 @@
 import './Homepopup.css';
 import React, { useState, useEffect } from 'react';
+import eventsData from './HomePage/EventsSection/eventsData';
 
 const Homepopup = () => {
-  const [showAdmissionNews, setShowAdmissionNews] = useState(true);
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [showEventPopup, setShowEventPopup] = useState(false);
 
-  const images = [
-    // {
-    //   src: 'others/INAUGURALINVITATION-2025.jpg',
-    //   alt: 'INAUGURAL',
-    //   link: 'https://youtube.com/live/cUnIxkotoIw?feature=share',
-    //   text: '📢 BE/BTech & B.Arch Inaugural Function Live Link',
-    //   extraLink: {
-    //     url: 'https://kongu.ac.in/admission',
-    //     text: '📢 BE/BTech Admission 2025–26 [TNEA Category]'
-    //   }
-    // },
-    {
-      src: 'others/technofest.jpeg',
-      alt: 'Scholarship Info',
-       link: 'https://kongu.ac.in/admission',
-      text: '📢 BE/BTech Admission 2025–26 [TNEA Category]',
-    }
-  ];
-
-  // Auto-scroll every 3 seconds
   useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, [images.length]);
+    // Show popup on mount only if not already shown in this session
+    const hasShownPopup = sessionStorage.getItem('popupShown');
+    if (!hasShownPopup) {
+      setShowEventPopup(true);
+      sessionStorage.setItem('popupShown', 'true');
+    }
+  }, []);
 
-  const currentImage = images[currentImageIndex];
+  const currentDate = new Date();
+  currentDate.setHours(0, 0, 0, 0);
+
+  // Helper to parse date strings that might be ranges like "February 19-26, 2026"
+  const parseEventDate = (dateStr) => {
+    // If it resembles a range with a hyphen before the comma/year
+    // e.g. "February 19-26, 2026"
+    if (dateStr.includes('-')) {
+      const parts = dateStr.split(','); // ["February 19-26", " 2026"]
+      if (parts.length === 2) {
+        const monthDayRange = parts[0].trim(); // "February 19-26"
+        const year = parts[1].trim(); // "2026"
+        const monthDay = monthDayRange.split('-')[0].trim(); // "February 19"
+        return new Date(`${monthDay}, ${year}`);
+      }
+    }
+    return new Date(dateStr);
+  };
+
+  const upcomingEvents = eventsData.filter(event => {
+    const eventDate = parseEventDate(event.date);
+    return eventDate >= currentDate;
+  }).sort((a, b) => parseEventDate(a.date) - parseEventDate(b.date));
+
+  // Find the first upcoming event that HAS a popupImage
+  const currentEvent = upcomingEvents.find(event => event.popupImage);
+
+  if (!currentEvent || !currentEvent.popupImage) return null;
 
   return (
     <>
-      {showAdmissionNews && (
-        <div className="flash-news-popup">
-          <button
-            className="flash-news-close-btn"
-            onClick={() => setShowAdmissionNews(false)}
-          >
-            ×
-          </button>
-          <div className="flash-news-content">
-            <img
-              src={currentImage.src}
-              alt={currentImage.alt}
-              className="popup-img"
-            />
-            <a
-              href={currentImage.link}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {currentImage.text}
-            </a>
-
-            {/* Conditionally render extra link if exists */}
-            {currentImage.extraLink && (
-              <a
-                href={currentImage.extraLink.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="extra-link"
+      {showEventPopup && (
+        <div className="popup-overlay">
+          <div className="event-popup-container">
+            <div className="popup-content">
+              <button
+                className="popup-close-btn"
+                onClick={() => setShowEventPopup(false)}
               >
-                {currentImage.extraLink.text}
-              </a>
-            )}
+                ×
+              </button>
+              <img
+                src={currentEvent.popupImage}
+                alt={currentEvent.title}
+                className="event-popup-img"
+              />
+            </div>
           </div>
         </div>
       )}

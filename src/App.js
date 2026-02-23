@@ -142,6 +142,8 @@ import ScrollToTop from './components/ScrollToTop.jsx';
 import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
+import EventDetails from './components/HomePage/EventsSection/EventDetails.jsx';
+import EventsPage from './components/HomePage/EventsSection/EventsPage.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
 
 const App = () => {
@@ -162,6 +164,8 @@ const App = () => {
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/event/:id" element={<EventDetails />} />
+          <Route path="/events" element={<EventsPage />} />
 
           {/* Cards */}
           <Route path="/rankings" element={<Rankings />} />

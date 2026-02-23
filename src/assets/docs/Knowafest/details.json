@@ -8,6 +8,42 @@
     "poster": "others/events/sparkfund.jpeg",
     "link": "others/events/sparkfund.pdf"
   },
+  {
+    "name": "AI Conclave 2.0",
+    "department": "AI",
+    "venue": "AI Block",
+    "dates": "March 10 - 11 2026",
+    "description": "ZORAX - AI CONCLAVE 2.0.",
+    "poster": "others/events/ai-conclave.jpeg",
+    "link": " https://aiconclave.ai"
+  },
+    {
+    "name": "Symposium",
+    "department": "CSE",
+    "venue": "Maharaja Auditorium",
+    "dates": "March 6 - 7 2026",
+    "description": "National Level Hackathon & Symposium - CRESCITA.",
+    "poster": "others/events/cse-crescita.jpeg",
+    "link": "https://crescita2k26.vercel.app/"
+  },
+    {
+    "name": "Symposium",
+    "department": "EEE",
+    "venue": "EEE Block",
+    "dates": "March 6 - 7 2026",
+    "description": "National Level Technical Symposium & Hackathon - ECOWATT 2K26.",
+    "poster": "others/events/eee-ecowatt.jpeg",
+    "link": "https://ecowatt2k26.web.app/"
+  },
+   {
+    "name": "Symposium",
+    "department": "Civil Engineering",
+    "venue": "Civil Block",
+    "dates": "February 27 2026",
+    "description": "National Level Technical Symposium - CEANS.",
+    "poster": "others/events/civil-ceans.jpg",
+    "link": "others/events/civil-ceans.pdf"
+  },
    {
     "name": "Symposium",
     "department": "CT - PG",
@@ -35,6 +71,78 @@
     "poster": "others/events/chemical-lecture.jpeg",
     "link": "others/events/chemical-lecture.pdf"
   },
+    {
+    "name": "Symposium",
+    "department": "Automobile Engineering",
+    "venue": "Automobile Block",
+    "dates": "February 26 2026",
+    "description": "National level technical Symposium - ZHAKRA'26",
+    "poster": "others/events/auto-zhakra.jpeg",
+    "link": "https://aea-kec-website.onrender.com/"
+  },
+   {
+    "name": "Workshop",
+    "department": "English",
+    "venue": "-",
+    "dates": "February 26 2026",
+    "description": "A One Day National Online Workshop on Soft Skills Mastery",
+    "poster": "others/events/english-mastery.jpeg",
+    "link": "others/events/english-mastery.pdf"
+  },
+   {
+    "name": "Hands-on Training",
+    "department": "AIDS",
+    "venue": "CC-1&2 AI Block",
+    "dates": "February 21 2026",
+    "description": "Hands-On Training on Working with AI Agents",
+    "poster": "others/events/aids-aiagents.jpeg",
+    "link": "others/events/aids-aiagents.pdf"
+  },
+  {
+    "name": "Workshop",
+    "department": "MCA",
+    "venue": "C K Prahalad Seminar Hall",
+    "dates": "February 21 2026",
+    "description": "From Idea to App : Practical Experience on No-Code Platforms",
+    "poster": "others/events/mca-nocode.jpeg",
+    "link": "others/events/mca-nocode.pdf"
+  },
+   {
+    "name": "Hands-on Training",
+    "department": "CSD",
+    "venue": "AB Block CC5 Lab",
+    "dates": "February 21 2026",
+    "description": "Hands-On Training on Game Design using Unity",
+    "poster": "others/events/csd-unity.jpg",
+    "link": "others/events/csd-unity.pdf"
+  },
+  {
+    "name": "Workshop",
+    "department": "MCA",
+    "venue": "CC-1 MCA Block",
+    "dates": "February 20 2026",
+    "description": "Hands on UI/UX Design Techniques for web and Mobile Applications",
+    "poster": "others/events/mca-uiux.jpg",
+    "link": "others/events/mca-uiux.pdf"
+  },
+  {
+    "name": "Hackathon",
+    "department": "EEE",
+    "venue": "EEE Block",
+    "dates": "February 18 - 19 2026",
+    "description": "ELECTROTHON 2K26 - 24 hours Hackathon",
+    "poster": "others/events/eee-hackathon26.jpeg",
+    "link": "others/events/eee-hackathon26.pdf"
+  },
+    {
+    "name": "Symposium",
+    "department": "CSD",
+    "venue": "Kalingarayan Seminar Hall - Civil Block",
+    "dates": "February 18 2026",
+    "description": "National Level Technical Symposium - NEXOVATE'26",
+    "poster": "others/events/csd-nexovate.jpeg",
+    "link": "https://nexovate.framer.website/"
+  },
    {
     "name": "Symposium",
     "department": "EIE",
@@ -43,6 +151,15 @@
     "description": "Inter Department Technical Symposium - EAREYES 2K26",
     "poster": "others/events/eie-eareyes.jpeg",
     "link": "https://eareyes2026.vercel.app"
+  },
+  {
+    "name": "Symposium",
+    "department": "Mechatronics Engineering",
+    "venue": "MTS Block",
+    "dates": "February 16 2026",
+    "description": "National Level Technical Symposium - NEXUS'26",
+    "poster": "others/events/mts-nexus.jpeg",
+    "link": "https://mcea.in/nexus"
   },
   {
     "name": "Speaktron",
