@@ -1166,6 +1166,16 @@ body {
   letter-spacing: 1px;
 }
 
+.title-bracket {
+  display: inline;
+  margin-left: 5px;
+}
+
+.research-facilities-title {
+  padding: 0;
+  /* Reset or base */
+}
+
 .library-description {
   font-size: 1.1rem;
   color: #555;
@@ -1220,6 +1230,29 @@ body {
 
 /* Mobile Library */
 @media (max-width: 600px) {
+  .library-container {
+    padding: 20px 15px;
+    margin: 20px 10px;
+  }
+
+  .library-container h2 {
+    font-size: 1.4rem;
+    word-break: break-word;
+    padding: 0 5px;
+  }
+
+  .title-bracket {
+    display: block;
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: 5px;
+    font-weight: 600;
+  }
+
+  .research-facilities-title {
+    padding: 25px 0 5px 0;
+    /* Increased spacing for mobile as requested */
+  }
 
   .library-table,
   .library-table tbody,
@@ -1380,6 +1413,10 @@ body {
   border-radius: 0;
   transition: transform 0.5s ease;
   display: block;
+}
+
+.faculty-photo img.zoom-fit {
+  transform: scale(1.2);
 }
 
 .civil-faculty-card:hover .faculty-photo img {
@@ -1615,6 +1652,7 @@ body {
   .auto-navbar {
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 10px;
   }
 
   .auto-navbar button {
@@ -1633,5 +1671,6 @@ body {
 
   .auto-content {
     padding: 15px;
+    margin-top: 10px;
   }
 }

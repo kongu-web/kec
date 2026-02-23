@@ -34,7 +34,7 @@ const Snh = () => {
     <>
       {/* <Section/> */}
       <Navbar />
-      <div className="ug-container">
+      <div className="snh-container">
         <h2 className="page-title">Postgraduate Programmes</h2>
         <div className="ug-table-wrapper">
           <table className="ug-table">

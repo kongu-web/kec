@@ -70,7 +70,7 @@ export const teamData = [
     mobile: "9790004095",
     img: team1,
   },
-   {
+  {
     id: 2,
     name: "Mr. S. Kavin ",
     role: "Deputy Placement Officer",
@@ -288,9 +288,9 @@ const Placement = () => {
             ))}
           </div>
 
-          <div className="logo-grid">
+          <div className="placement-logo-grid">
             {companyImages[activeCategory].map((img, index) => (
-              <div className="logo-card" key={index}>
+              <div className="placement-logo-card" key={index}>
                 <img src={img} alt="company" />
               </div>
             ))}
