@@ -149,7 +149,7 @@ const AdmissionPage = () => {
           </span>
         </div>
         <div className="stat-box">
-          <h2>24.7 LPA</h2>
+          <h2>61.21 LPA</h2>
           <span>
             Academic Year 2024 - 2025 <br></br>Highest Salary
           </span>
