@@ -153,6 +153,28 @@ const Navbar = () => {
     };
   }, []);
 
+  // Prevent background scrolling when mobile menu or form is open
+  useEffect(() => {
+    const lockScroll = mobileMenu || showForm;
+    if (lockScroll) {
+      document.body.style.overflow = "hidden";
+      document.documentElement.style.overflow = "hidden";
+      document.body.style.height = "100%";
+      document.documentElement.style.height = "100%";
+    } else {
+      document.body.style.overflow = "auto";
+      document.documentElement.style.overflow = "auto";
+      document.body.style.height = "auto";
+      document.documentElement.style.height = "auto";
+    }
+    return () => {
+      document.body.style.overflow = "auto";
+      document.documentElement.style.overflow = "auto";
+      document.body.style.height = "auto";
+      document.documentElement.style.height = "auto";
+    };
+  }, [mobileMenu, showForm]);
+
   const toggleDropdown = (i) => {
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
     setActiveDropdown(activeDropdown === i ? null : i);
@@ -195,7 +217,7 @@ const Navbar = () => {
               }}
               onMouseLeave={() => setActiveUtilityMenu(false)}
             > */}
-            <a href="/iqac">Accreditation & IQAC</a>
+            <a href="/iqac">Accreditation</a>
 
             {/* {activeUtilityMenu && (
                 <div className="submenu">
