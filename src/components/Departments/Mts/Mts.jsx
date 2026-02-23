@@ -311,6 +311,7 @@ const Mts = () => {
                       <img
                         src={require(`../../../assets/images/faculty images/mts/${faculty.image}`)}
                         alt={faculty.name}
+                        className={faculty.name === "Dr.K.Krishnamurthy" ? "zoom-fit" : ""}
                       />
                     </div>
 
