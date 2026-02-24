@@ -9,13 +9,14 @@ import Footer from "../HomePage/Footer/Footer";
 // ✅ IMPORT THE FORM
 import AdmissionForm from "../AdmissionForm/AdmissionForm";
 import brochurePdf from "../../assets/docs/KEC admission.pdf";
+import admissionHero from "../../assets/images/AdmissionForm/admissionhero.jpeg";
 
 const AdmissionPage = () => {
   const [activeTab, setActiveTab] = useState("ug");
   const [openFaq, setOpenFaq] = useState(null);
 
   // ✅ STATE TO CONTROL THE FORM POPUP
-  const [showForm, setShowForm] = useState(false); 
+  const [showForm, setShowForm] = useState(false);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -89,7 +90,10 @@ const AdmissionPage = () => {
       <Navbar />
 
       {/* 1. HERO SECTION */}
-      <section className="admission-hero">
+      <section
+        className="admission-hero"
+        style={{ "--hero-bg": `url(${admissionHero})` }}
+      >
         <div className="hero-content">
           <h1>Admission Enquiry 2026-27</h1>
           <p>
@@ -137,7 +141,7 @@ const AdmissionPage = () => {
       </section>
 
       {/* 2. STATS STRIP */}
-          <div className="stats-strip">
+      <div className="stats-strip">
         <div className="stat-box">
           <h2>41 Years</h2>
           <span>Of Excellence</span>
