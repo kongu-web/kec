@@ -217,7 +217,7 @@ const Navbar = () => {
               }}
               onMouseLeave={() => setActiveUtilityMenu(false)}
             > */}
-            <a href="/iqac">Accreditation</a>
+            <a href="/iqac">Accreditation & IQAC</a>
 
             {/* {activeUtilityMenu && (
                 <div className="submenu">
