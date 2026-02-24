@@ -17,14 +17,14 @@ const IqacISO = () => {
                 <div className="iqac-content fade-in-up">
                     <h1 className="iqac-section-title">International Organization for Standardization (ISO)</h1>
 
-                    <div className="iqac-card">
+                    {/* <div className="iqac-card">
                         <h2 className="iqac-card-title">About ISO</h2>
                         <div className="iqac-card-body">
                             <p className="alignment-justify iqac-text">
                                 ISO certifications represent a commitment to excellence and adherence to internationally recognized standards of quality, safety, and efficiency. The International Organization for Standardization (ISO) is an independent, non-governmental international organization that develops and publishes a wide range of standards across various industries and sectors. ISO certifications are valuable for organizations seeking to enhance their operational efficiency, improve customer satisfaction, and gain a competitive edge in the Nation and beyond.
                             </p>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="iqac-card">
                         <h2 className="iqac-card-title">ISO @ KEC</h2>

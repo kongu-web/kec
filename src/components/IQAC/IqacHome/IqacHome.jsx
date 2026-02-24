@@ -98,9 +98,10 @@ const IqacHome = () => {
                             </h2>
                             <ul className="iqac-list-styled">
                                 <li>Ensuring timely, efficient, and progressive performance of academic, administrative, and financial tasks.</li>
-                                <li>Relevance and quality of academic and research programmes.</li>
+                                <li>The relevance and quality of academic and research programmes.</li>
                                 <li>Optimization and integration of modern methods of teaching and learning.</li>
                                 <li>Ensuring the credibility of evaluation procedures.</li>
+                                <li>Ensuring the adequacy, maintenance, and functioning of the support structure and services.</li>
                                 <li>Research sharing and networking with other institutions in India and abroad.</li>
                             </ul>
                         </div>
@@ -114,12 +115,16 @@ const IqacHome = () => {
                                 Functions
                             </h2>
                             <ul className="iqac-list-styled">
-                                <li>Development and application of quality benchmarks/parameters.</li>
-                                <li>Facilitating the creation of a learner-centric environment.</li>
-                                <li>Arrangement for feedback response from stakeholders.</li>
-                                <li>Dissemination of information on various quality parameters.</li>
-                                <li>Organization of workshops and seminars on quality-related themes.</li>
-                                <li>Preparation of the Annual Quality Assurance Report (AQAR).</li>
+                                <li>Development and application of quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
+                                <li>Facilitating the creation of a learner-centric environment conducive to quality education and faculty maturation to adopt the required knowledge and technology for participatory teaching and learning process.</li>
+                                <li>Arrangement for feedback response from students, parents, and other stakeholders on quality-related institutional processes.</li>
+                                <li>Dissemination of information on various quality parameters of higher education.</li>
+                                <li>Organization of inter and intra-institutional workshops, seminars on quality-related themes.</li>
+                                <li>Documentation of the various programmes/activities leading to quality improvement.</li>
+                                <li>Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices.</li>
+                                <li>Development and maintenance of institutional database through Management Information System (MIS) for the purpose of maintaining/enhancing the institutional quality.</li>
+                                <li>Development of Quality Culture in the institution.</li>
+                                <li>Preparation of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC, to be submitted to NAAC.</li>
                             </ul>
                         </div>
 
@@ -129,12 +134,12 @@ const IqacHome = () => {
                                 Benefits
                             </h2>
                             <ul className="iqac-list-styled">
-                                <li>Ensure heightened level of clarity and focus in institutional functioning.</li>
+                                <li>Ensure heightened level of clarity and focus in institutional functioning towards quality enhancement.</li>
                                 <li>Ensure internalization of the quality culture.</li>
-                                <li>Ensure enhancement and coordination among various activities.</li>
-                                <li>Provide a sound basis for decision-making.</li>
-                                <li>Act as a dynamic system for quality changes.</li>
-                                <li>Build an organised methodology of documentation.</li>
+                                <li>Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices.</li>
+                                <li>Provide a sound basis for decision-making to improve institutional functioning.</li>
+                                <li>Act as a dynamic system for quality changes in Institution.</li>
+                                <li>Build an organised methodology of documentation and internal communication.</li>
                             </ul>
                         </div>
                     </div>
@@ -159,7 +164,7 @@ const IqacHome = () => {
                     {/* Reference */}
                     <div className="mb-4 text-center">
                         <p className="text-muted small">
-                            <em>Reference: Guidelines from NAAC for the Creation of the Internal Quality Assurance Cell (IQAC) and Submission of Annual Quality Assurance Report (AQAR) in Accredited Institutions.</em>
+                            <em><h2>Reference</h2>Guidelines from NAAC for the Creation of the Internal Quality Assurance Cell (IQAC) and Submission of Annual Quality Assurance Report (AQAR) in Accredited Institutions.</em>
                         </p>
                     </div>
 

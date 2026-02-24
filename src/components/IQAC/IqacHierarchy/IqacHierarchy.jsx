@@ -39,7 +39,7 @@ const IqacHierarchy = () => {
                             <span style={{ marginLeft: '15px', color: '#64748b', fontSize: '13px', fontWeight: '500' }}>iqac-chart.pdf</span>
                         </div>
                         <iframe
-                            src="/files/iqac/iqac chart.pdf"
+                            src="/files/iqac/iqac2026.pdf"
                             className="iqac-pdf-frame"
                             title="Organization Hierarchy"
                         ></iframe>

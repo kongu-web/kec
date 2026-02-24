@@ -47,14 +47,14 @@ const IqacNirf = () => {
                     <h1 className="iqac-section-title">National Institutional Ranking Framework (NIRF)</h1>
 
                     {/* About NIRF */}
-                    <div className="iqac-card">
+                    {/* <div className="iqac-card">
                         <h2 className="iqac-card-title">NIRF &amp; Other Rankings</h2>
                         <div className="iqac-card-body">
                             <p className="alignment-justify iqac-text">
                                 Rankings offer a critical overview of higher education institutions, providing a comparative analysis of their performance on various scales. Rankings are compiled by different organizations, each employing distinct methodologies to evaluate and rank institutions based on criteria such as academic reputation, research output, faculty quality, and student satisfaction.
                             </p>
                         </div>
-                    </div>
+                    </div> */}
 
                     {/* Ranking @ KEC */}
                     <div className="iqac-card">
