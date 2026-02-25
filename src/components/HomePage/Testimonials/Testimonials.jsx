@@ -238,9 +238,17 @@ const TestimonialCard = ({ testimonial }) => {
 const Testimonials = () => {
     const scrollRef = React.useRef(null);
     const [isPaused, setIsPaused] = React.useState(false);
+    const [isMobile, setIsMobile] = React.useState(window.innerWidth <= 768);
 
     const [manualPause, setManualPause] = React.useState(false);
     const timeoutRef = React.useRef(null);
+
+    // Detect mobile screen size
+    React.useEffect(() => {
+        const handleResize = () => setIsMobile(window.innerWidth <= 768);
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     const handleManualInteraction = () => {
         setManualPause(true);
@@ -303,9 +311,9 @@ const Testimonials = () => {
         }
     };
 
-    // Auto-scroll effect (Continuous)
+    // Auto-scroll effect (Continuous — desktop only)
     React.useEffect(() => {
-        if (isPaused || manualPause) return;
+        if (isMobile || isPaused || manualPause) return;
 
         const scrollContainer = scrollRef.current;
         let animationFrameId;
@@ -320,7 +328,7 @@ const Testimonials = () => {
         animationFrameId = requestAnimationFrame(scrollStep);
 
         return () => cancelAnimationFrame(animationFrameId);
-    }, [isPaused, manualPause]);
+    }, [isMobile, isPaused, manualPause]);
 
     // Initialize scroll position to the middle set
     React.useEffect(() => {
