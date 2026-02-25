@@ -611,22 +611,6 @@ const Navbar = () => {
                   onMouseEnter={() => handleMouseEnter(6)}
                   onMouseLeave={handleMouseLeave}
                 >
-                  {/* Internal pages */}
-                  <span onClick={() => navigate("/campus-life")}>
-                    <LifeIcon className="submenu-icon" />
-                    Campus Life
-                  </span>
-
-                  <span onClick={() => navigate("/ief")}>
-                    <HostelIcon className="submenu-icon" />
-                    IEF
-                  </span>
-
-                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>
-                    <GeneralIcon className="submenu-icon" />
-                    SCC (Student Counselling Cell - Portal)
-                  </span>
-
                   {/* External pages (open in new tab) */}
                   <span
                     onClick={() =>
@@ -635,15 +619,6 @@ const Navbar = () => {
                   >
                     <LibraryIcon className="submenu-icon" />
                     Academic
-                  </span>
-
-                  <span
-                    onClick={() =>
-                      window.open("https://coe.kongu.edu/", "_blank")
-                    }
-                  >
-                    <ClubIcon className="submenu-icon" />
-                    COE
                   </span>
 
                   <span
@@ -657,6 +632,29 @@ const Navbar = () => {
 
                   <span
                     onClick={() =>
+                      window.open("http://iipc.kongu.edu", "_blank")
+                    }
+                  >
+                    <DanceIcon className="submenu-icon" />
+                    IIPC
+                  </span>
+
+                  <span
+                    onClick={() =>
+                      window.open("https://coe.kongu.edu/", "_blank")
+                    }
+                  >
+                    <ClubIcon className="submenu-icon" />
+                    COE
+                  </span>
+
+                  <span onClick={() => navigate("/ief")}>
+                    <HostelIcon className="submenu-icon" />
+                    IEF
+                  </span>
+
+                  <span
+                    onClick={() =>
                       window.open("https://kecidealab.kongu.edu/", "_blank")
                     }
                   >
@@ -664,13 +662,15 @@ const Navbar = () => {
                     KEC - AICTE Idea Lab
                   </span>
 
-                  <span
-                    onClick={() =>
-                      window.open("http://iipc.kongu.edu", "_blank")
-                    }
-                  >
-                    <DanceIcon className="submenu-icon" />
-                    IIPC
+                  {/* Internal pages */}
+                  <span onClick={() => navigate("/campus-life")}>
+                    <LifeIcon className="submenu-icon" />
+                    Campus Life
+                  </span>
+
+                  <span onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>
+                    <GeneralIcon className="submenu-icon" />
+                    SCC (Student Counselling Cell - Portal)
                   </span>
 
                   <span
@@ -922,13 +922,6 @@ const Navbar = () => {
 
                 {openMobileMenu === "others" && (
                   <ul className="mobile-submenu">
-                    {/* Internal pages */}
-                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
-
-                    <li onClick={() => navigate("/ief")}>IEF</li>
-
-                    <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
-
                     {/* External pages */}
                     <li
                       onClick={() =>
@@ -936,14 +929,6 @@ const Navbar = () => {
                       }
                     >
                       Academic
-                    </li>
-
-                    <li
-                      onClick={() =>
-                        window.open("https://coe.kongu.edu/", "_blank")
-                      }
-                    >
-                      COE
                     </li>
 
                     <li
@@ -956,19 +941,35 @@ const Navbar = () => {
 
                     <li
                       onClick={() =>
+                        window.open("http://iipc.kongu.edu", "_blank")
+                      }
+                    >
+                      IIPC
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://coe.kongu.edu/", "_blank")
+                      }
+                    >
+                      COE
+                    </li>
+
+                    <li onClick={() => navigate("/ief")}>IEF</li>
+
+                    <li
+                      onClick={() =>
                         window.open("https://kecidealab.kongu.edu/", "_blank")
                       }
                     >
                       KEC - AICTE Idea Lab
                     </li>
 
-                    <li
-                      onClick={() =>
-                        window.open("http://iipc.kongu.edu", "_blank")
-                      }
-                    >
-                      IIPC
-                    </li>
+                    {/* Internal pages */}
+                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
+
+
+                    <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
 
                     <li
                       onClick={() =>

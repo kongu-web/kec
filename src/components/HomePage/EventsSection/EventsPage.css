@@ -238,10 +238,12 @@ input[type="date"].category-select {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 0.9rem;
-    transition: transform 0.2s ease;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.2s ease;
 }
 
 .event-grid-card:hover .read-more {
+    opacity: 1;
     transform: translateX(5px);
 }
 

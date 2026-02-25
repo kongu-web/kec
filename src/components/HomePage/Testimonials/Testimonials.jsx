@@ -76,7 +76,7 @@ const testimonialsData = [
         content:
             " It was a privilege to be a part of Department of Automobile Engineering, which provided a strong academic foundation and continuous guidance from dedicated faculty members. The knowledge, discipline, and problem-solving skills gained during my academic journey have supported my 3.5 years of professional experience as a Software Developer at Zoho Corporation, enabling me to confidently address real-world engineering challenges.",
     },
-      {
+    {
         id: 8,
         name: "Mr. M. R. Harish Kumar",
         role: "Vehicle Development Engineer, Mahindra & Mahindra – R&D Division",
@@ -84,7 +84,7 @@ const testimonialsData = [
         content:
             "I am proud to be an alumnus of Automobile Engineering Department, KEC, which provided me with a strong academic foundation and continuous guidance from dedicated faculty members. The values of discipline, critical thinking, and problem-solving that I developed during my college days played a significant role in shaping my professional journey. These learnings have supported in my professional 3.7 years of experience as a vehicle Development engineer at Mahindra & Mahindra - R&D Division, enabling me to confidently work on  vehicle attributes engineering challenges.",
     },
-      {
+    {
         id: 9,
         name: "Kasthuri ganeshguru",
         role: "Cyber Security Architect, Cognizant, Chennai",
@@ -92,7 +92,7 @@ const testimonialsData = [
         content:
             "I am Kasthuri Ganeshguru, alumna of Kongu Engineering College, 5 Years Integrated M.Sc. Software Engineering (2007–2012 batch). The strong academic foundation, disciplined learning environment, and continuous guidance from the faculty played a significant role in shaping my mindset, confidence, and professional readiness. Today, as a Senior Cybersecurity Architect at Cognizant, I carry forward the values and lessons gained from my time at Kongu Engineering College and credit the institution for my personal and professional growth.",
     },
-     {
+    {
         id: 10,
         name: "Manikandan Venkatachalam",
         role: "Enterprise Architectt, iDatalytics, USA",
@@ -100,7 +100,7 @@ const testimonialsData = [
         content:
             "I am Manikandan Venkatachalam, alumnus of Kongu Engineering College, M.Sc. Software Engineering (Integrated 5-Year Program), 2008–2013 batch. The strong academic foundation, innovative learning environment, and dedicated mentorship—particularly from the Department of M.Sc. Software Engineering—played a key role in transforming my passion for software into a global career. Currently based in the USA, I work as an Enterprise Architect – Cloud & AI at iDatalytics, where I lead multi-cloud transformations and architect AI-driven enterprise solutions across industries. The rigorous training at KEC not only strengthened my technical expertise but also instilled leadership, resilience, and a problem-solving mindset, and I proudly credit my alma mater for shaping the values and excellence that continue to guide my professional growth.",
     },
-     {
+    {
         id: 11,
         name: "Venkat Dharmalingam",
         role: "Senior Associate Project Manager, Cognizant",
@@ -108,7 +108,7 @@ const testimonialsData = [
         content:
             "The Department of EIE, Kongu Engineering College gave me more than technical knowledge—it gave me confidence, clarity, and career direction. The strong fundamentals and mentorship I received here laid the foundation for my growth as a Senior Associate Project Manager at cognizant",
     },
-     {
+    {
         id: 12,
         name: "Vignesh Saravanan",
         role: "Mobile Marketing Manager, Shriram Finance Limited",
@@ -116,7 +116,7 @@ const testimonialsData = [
         content:
             "My time at the Department of EIE, Kongu Engineering College built the strategic thinking and data-driven mindset essential for today’s business world. The exposure and discipline I gained here continue to drive my impact as a Mobile Marketing Manager.",
     },
-      {
+    {
         id: 13,
         name: "Dhanraj Rajendran",
         role: "Associate R&D Engineer, ABB Global Industries and Services Private Limited",
@@ -124,7 +124,7 @@ const testimonialsData = [
         content:
             "From classroom concepts to global innovation, my journey at the Department of EIE, Kongu Engineering College shaped who I am today. The guidance and hands-on learning here powered my path to becoming an Associate R&D Engineer at ABB Global Industries.",
     },
-     {
+    {
         id: 14,
         name: "S. Aravindh",
         role: "Associate Full Stack Engineer, Rubrik, Bangalore",
@@ -132,7 +132,7 @@ const testimonialsData = [
         content:
             "My time at KEC was one of the most defining phases of my life, shaping both my personal and professional growth. The IT department played a major role in this journey, offering a strong academic foundation along with exposure to emerging technologies. The department faculty were highly supportive and constantly encouraged us to explore, innovate, and improve our skills. I actively participated in culturals, hackathons, technical events, and placement activities, which helped me develop confidence, teamwork, and real-world problem-solving abilities. These experiences enhanced both my technical expertise and personality. The vibrant campus culture allowed me to balance academics with extracurricular growth while building lifelong friendships. The values, discipline, and skills I gained during my years at KEC, especially through the IT department, continue to guide me in my career and make me proud to be an alumnus.",
     },
-      {
+    {
         id: 15,
         name: "Siva Paramasivam",
         role: "Sr. Product Engineer, XKIG, Virginia, USA",
@@ -140,7 +140,7 @@ const testimonialsData = [
         content:
             "I am a proud 2015 graduate of the KEC, IT Department, and looking back, I am filled with gratitude for the incredible foundation it gave me. The department offered outstanding facilities, a supportive learning environment, and faculty members who treated every student like family. The friendships, the culture, and the overall atmosphere shaped not just our academic journey but who we became as individuals. The department has always been known for producing students with strong technical caliber and grounded values, and I’m happy to see that tradition continuing even today. A special thanks to SVG sir, whose personal connection with students and alumni remains unmatched. His guidance, warmth, and continued engagement with us long after graduation speak volumes about the heart of the department. It’s inspiring to see the IT Department still nurturing exceptional talent and helping students shine in their careers. I am truly grateful to have been a part of it.",
     },
-      {
+    {
         id: 16,
         name: "Sahithya",
         role: "Software Engineer, HCL GUVI",
@@ -148,7 +148,7 @@ const testimonialsData = [
         content:
             "I am Sahithya from the 2020-2024 B.E. Computer Science and Engineering batch of Kongu Engineering College. My journey at CSE-KEC was shaped by strong technical learning, hands-on projects, and active leadership across academic, service, and cultural platforms, which strengthened my problem-solving, communication, and decision-making skills. These experiences built a solid foundation for my growth as a Software Engineer. I am grateful to my professors, advisors, and HODs for their continuous guidance, and being recognized as the Best Outgoing Student of the CSE Department (2020-2024) stands as a proud reflection of the empowering ecosystem at KEC.",
     },
-       {
+    {
         id: 17,
         name: "S. Alex Raj",
         role: "Lead Developer Engineer, COMCAST",
@@ -156,7 +156,7 @@ const testimonialsData = [
         content:
             "My journey at Kongu Engineering College within the Computer Science and Engineering department was a period of immense growth. The department's comprehensive syllabus provided me with a deep, fundamental knowledge of the CSE domain, which has been instrumental in my career progression. Additionally, the structured placement preparation was a key factor in building my confidence and technical expertise, enabling me to successfully crack multiple interviews. Currently, I am specializing in the Cyber Security domain at Comcast India Engineering Centre, and I owe much of my professional success to the strong foundation laid at KEC.",
     },
-       {
+    {
         id: 18,
         name: "V. Muruganandam",
         role: "General Manager, Airports Authority of India, Chennai",
@@ -172,7 +172,7 @@ const testimonialsData = [
         content:
             "Kongu Engineering College is a foundation for excellence, leadership, and lifelong success. My years at KEC, especially in the Department of Electronics and Communication Engineering, shaped my thinking, discipline, and global outlook. The culture of hard work, integrity, and continuous learning at Kongu continues to influence every decision I make as a leader. I carry the spirit of Kongu with pride wherever I go. My journey from KEC to global organizations and entrepreneurship stands as a testament to the strong foundation this institution provides to its students.",
     },
-     {
+    {
         id: 20,
         name: "Daniel Jacob",
         role: "Senior Vice President, EC-Group DataSoft Pvt Ltd, Chennai",
@@ -180,7 +180,7 @@ const testimonialsData = [
         content:
             "My time at Kongu Engineering College in the Computer Technology (UG) Department was truly transformative. Coming from a government school, vernacular background, I initially struggled with fear and self-doubt. The constant encouragement and belief in me from my professors gave me the confidence to succeed. The excellent infrastructure and exposure through events and activities played a crucial role in shaping my learning journey and the person I am today. I remain deeply grateful to Kongu.",
     },
-     {
+    {
         id: 21,
         name: "Menaka",
         role: "Cloud and DevOps Engineer, Presidio",
@@ -196,7 +196,7 @@ const testimonialsData = [
         content:
             "Kongu Engineering College played a critical role in shaping my career by giving me strong fundamentals, discipline, and a supportive learning environment. I started my career through campus placement. Serving as Department Secretary (CSE & MCA) and being a founding member of ORION, our first PG inter-college event, strengthened my leadership and teamwork. I’m grateful for the opportunities and proud to be associated with my department.",
     },
-     {
+    {
         id: 23,
         name: "Kalaiyarasi Ramachandran",
         role: "Founder - Raatai handloom, Kavindapadi, India",
@@ -238,9 +238,17 @@ const TestimonialCard = ({ testimonial }) => {
 const Testimonials = () => {
     const scrollRef = React.useRef(null);
     const [isPaused, setIsPaused] = React.useState(false);
+    const [isMobile, setIsMobile] = React.useState(window.innerWidth <= 768);
 
     const [manualPause, setManualPause] = React.useState(false);
     const timeoutRef = React.useRef(null);
+
+    // Detect mobile screen size
+    React.useEffect(() => {
+        const handleResize = () => setIsMobile(window.innerWidth <= 768);
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     const handleManualInteraction = () => {
         setManualPause(true);
@@ -303,9 +311,9 @@ const Testimonials = () => {
         }
     };
 
-    // Auto-scroll effect (Continuous)
+    // Auto-scroll effect (Continuous — desktop only)
     React.useEffect(() => {
-        if (isPaused || manualPause) return;
+        if (isMobile || isPaused || manualPause) return;
 
         const scrollContainer = scrollRef.current;
         let animationFrameId;
@@ -320,7 +328,7 @@ const Testimonials = () => {
         animationFrameId = requestAnimationFrame(scrollStep);
 
         return () => cancelAnimationFrame(animationFrameId);
-    }, [isPaused, manualPause]);
+    }, [isMobile, isPaused, manualPause]);
 
     // Initialize scroll position to the middle set
     React.useEffect(() => {
@@ -333,8 +341,8 @@ const Testimonials = () => {
 
     return (
         <section className="testimonials-section">
-            <span className="pill">Voices of KEC</span>
-            <h2>What Our Community Says</h2>
+            {/* <span className="pill">Voices of KEC</span> */}
+            <h2>Voices of KEC</h2>
 
             <div
                 className="testimonials-carousel-wrapper"

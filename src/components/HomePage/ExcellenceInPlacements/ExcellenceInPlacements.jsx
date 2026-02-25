@@ -16,7 +16,7 @@ function ExcellenceInPlacements() {
         <span className="placement-pill">Excellence In Placements @ KEC</span>
         <h2>Results That Resonate (2024 - 2025)</h2>
         <p className="placement-subtitle">
-          The leading companies across diverse industries recruit our students.
+          The leading companies across diverse industries recruit our students
         </p>
 
         <div className="eip-stats-grid">
