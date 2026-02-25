@@ -72,7 +72,7 @@ const IqacHome = () => {
                             <FontAwesomeIcon icon={faInfoCircle} className="iqac-card-icon" />
                             About IQAC
                         </h2>
-                        <p className="iqac-text mb-0">
+                        <p className="iqac-text mb-0 alignment-justify">
                             Kongu Engineering College has established the Internal Quality Assurance Cell (IQAC) from 2015 for performance evaluation, assessment, accreditation, and quality upgradation. Since quality enhancement is a continuous process, the IQAC becomes a vital part of the institution’s system, working towards the realization of goals for quality enhancement and sustenance.
                         </p>
                     </div>

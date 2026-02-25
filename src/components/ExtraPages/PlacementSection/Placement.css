@@ -62,7 +62,7 @@
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 15px;
-  text-align: left;
+  text-align: justify;
 }
 
 .placement-points {
@@ -1475,6 +1475,7 @@
   margin: 16px 0 28px;
   font-size: 16px;
   line-height: 1.6;
+  text-align: justify;
 }
 
 /* Feature Boxes */
@@ -1589,7 +1590,7 @@
 
 /* Gradients */
 .blue .II-card-header {
-  background: linear-gradient(135deg, #dbe9ff, #c7dbff);
+  background: linear-gradient(135deg, #7e899c, #7887a2);
 }
 
 .purple .II-card-header {
