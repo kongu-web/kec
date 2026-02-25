@@ -10,7 +10,7 @@ export default function InnovationSection() {
       <h2>Fostering Innovation & Entrepreneurship</h2>
 
       <p className="innovation-desc">
-        Kongu Engineering College is where ideas become impact. We champion a culture of relentless creativity and transformative innovation. Our students and faculty challenge norms, engineer breakthrough solutions, and turn visionary thinking into reality. We fuel an entrepreneurial mindset that empowers learners to dream big, dare boldly, and deliver excellence. At Kongu, innovation isn't just a goal it's our identity.
+        Kongu Engineering College is where ideas become impact. We champion a culture of relentless creativity and transformative innovation. Our students and faculty challenge norms, engineer breakthrough solutions, and turn visionary thinking into reality. We fuel an entrepreneurial mindset that empowers learners to dream big, dare boldly, and deliver excellence. At Kongu, innovation isn't just a goal it's our identity
       </p>
 
       <div className="innovation-cards">

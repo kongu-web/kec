@@ -55,33 +55,53 @@
 
 .testimonial-card {
     flex: 0 0 calc((100% - 80px) / 3);
-    /* (100% - 2 * 40px gap) / 3 */
-    /* scroll-snap-align: start; -- Removed for continuous marquee */
-    background: #fff;
     border-radius: 20px;
     padding: 40px 30px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border: 1px solid rgba(0, 0, 0, 0.03);
+    border: none;
     text-align: left;
-    /* Reset text align for card content */
     height: auto;
     align-items: flex-start;
 }
 
+/* 6 rotating color themes — soft pastel shades */
+.testimonial-card:nth-child(6n+1) {
+    background: linear-gradient(135deg, #6b8dd6 0%, #a8c0f0 100%);
+}
+
+.testimonial-card:nth-child(6n+2) {
+    background: linear-gradient(135deg, #4db6ac 0%, #80cbc4 100%);
+}
+
+.testimonial-card:nth-child(6n+3) {
+    background: linear-gradient(135deg, #9575cd 0%, #c5a8f5 100%);
+}
+
+.testimonial-card:nth-child(6n+4) {
+    background: linear-gradient(135deg, #e09b42 0%, #f5c97a 100%);
+}
+
+.testimonial-card:nth-child(6n+5) {
+    background: linear-gradient(135deg, #e06c85 0%, #f7a8b8 100%);
+}
+
+.testimonial-card:nth-child(6n+6) {
+    background: linear-gradient(135deg, #4a9ec4 0%, #82cce8 100%);
+}
+
 .testimonial-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-    border-color: rgba(33, 46, 160, 0.1);
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.2);
 }
 
 .quote-icon {
     font-size: 4rem;
-    color: rgba(33, 46, 160, 0.1);
+    color: rgba(0, 0, 0, 0.12);
     line-height: 1;
     position: absolute;
     top: 20px;
@@ -92,7 +112,7 @@
 .testimonial-text {
     font-family: "Inter", sans-serif;
     font-size: 1.1rem;
-    color: #555;
+    color: #1a1a2e;
     line-height: 1.6;
     margin-bottom: 20px;
     position: relative;
@@ -107,7 +127,6 @@
     overflow: hidden;
     text-overflow: ellipsis;
     min-height: 8em;
-    /* Ensures smooth grid alignment */
     transition: max-height 0.3s ease;
 }
 
@@ -122,7 +141,7 @@
 .read-more-btn {
     background: none;
     border: none;
-    color: #212EA0;
+    color: #009edb;
     font-family: "Outfit", sans-serif;
     font-weight: 600;
     font-size: 0.95rem;
@@ -131,11 +150,11 @@
     margin-bottom: 20px;
     text-decoration: underline;
     transition: color 0.2s;
-    align-self: flex-start;
+    align-self: flex-end;
 }
 
 .read-more-btn:hover {
-    color: #009EDB;
+    color: #007bb5;
 }
 
 .testimonial-author {
@@ -151,22 +170,22 @@
     height: 60px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #fff;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .author-info h4 {
     font-family: "Outfit", sans-serif;
     font-size: 1.1rem;
     font-weight: 700;
-    color: #333;
+    color: #1a1a2e;
     margin-bottom: 4px;
 }
 
 .author-info span {
     font-family: "Inter", sans-serif;
     font-size: 0.9rem;
-    color: #777;
+    color: rgba(0, 0, 0, 0.6);
     display: block;
 }
 

@@ -22,13 +22,9 @@ export default function LegacySection() {
         <span className="legacy-pill">Legacy @ KEC</span>
 
         <h1>
-          Excellence in Every Aspect, <br />
-          <span>Learning Beyond Limits.</span>
+          Excellence in Every Aspect <br />
+          <span>Learning Beyond Limits</span>
         </h1>
-
-        <p>
-          1.	Excellence in Education, Innovation in Practice
-        </p>
 
         <p>
           We are committed to excellence across every dimension of education and development. Kongu Engineering College is the first choice for ambitious students pursuing academic and professional success.
