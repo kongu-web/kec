@@ -87,7 +87,7 @@ export const teamData = [
   {
     id: 4,
     name: "Mr. P. Dineshkumar",
-    role: "Deputy Placement Officer",
+    role: "Assistant Placement Officer",
     mobile: "7373675915",
     img: team4,
   },
