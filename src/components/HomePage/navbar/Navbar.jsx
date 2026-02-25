@@ -672,7 +672,7 @@ const Navbar = () => {
                     <GeneralIcon className="submenu-icon" />
                     SCC (Student Counselling Cell - Portal)
                   </span>
-                  
+
                   <span
                     onClick={() =>
                       window.open("https://kongu.irins.org/", "_blank")
@@ -922,13 +922,6 @@ const Navbar = () => {
 
                 {openMobileMenu === "others" && (
                   <ul className="mobile-submenu">
-                    {/* Internal pages */}
-                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
-
-                    <li onClick={() => navigate("/ief")}>IEF</li>
-
-                    <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
-
                     {/* External pages */}
                     <li
                       onClick={() =>
@@ -936,14 +929,6 @@ const Navbar = () => {
                       }
                     >
                       Academic
-                    </li>
-
-                    <li
-                      onClick={() =>
-                        window.open("https://coe.kongu.edu/", "_blank")
-                      }
-                    >
-                      COE
                     </li>
 
                     <li
@@ -956,19 +941,35 @@ const Navbar = () => {
 
                     <li
                       onClick={() =>
+                        window.open("http://iipc.kongu.edu", "_blank")
+                      }
+                    >
+                      IIPC
+                    </li>
+
+                    <li
+                      onClick={() =>
+                        window.open("https://coe.kongu.edu/", "_blank")
+                      }
+                    >
+                      COE
+                    </li>
+
+                    <li onClick={() => navigate("/ief")}>IEF</li>
+
+                    <li
+                      onClick={() =>
                         window.open("https://kecidealab.kongu.edu/", "_blank")
                       }
                     >
                       KEC - AICTE Idea Lab
                     </li>
 
-                    <li
-                      onClick={() =>
-                        window.open("http://iipc.kongu.edu", "_blank")
-                      }
-                    >
-                      IIPC
-                    </li>
+                    {/* Internal pages */}
+                    <li onClick={() => navigate("/campus-life")}>Campus Life</li>
+
+
+                    <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
 
                     <li
                       onClick={() =>
