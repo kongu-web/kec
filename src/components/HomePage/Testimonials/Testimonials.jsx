@@ -253,11 +253,11 @@ const TestimonialCard = ({ testimonial, onReadMore }) => {
                     <div className="stars">
                         ★★★★★
                     </div>
-                    <div className="dots">
+                    {/* <div className="dots">
                         <span className="dot dot-1"></span>
                         <span className="dot dot-2"></span>
                         <span className="dot dot-3"></span>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
@@ -373,7 +373,7 @@ const Testimonials = () => {
 
     return (
         <section className="testimonials-section">
-            {/* <span className="pill">Voices of KEC</span> */}
+            <span className="pill">Testimonials</span>
             <h2>Voices of KEC</h2>
 
             <div
