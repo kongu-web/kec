@@ -8,7 +8,6 @@ import autoData from "./aids.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/aids.jpg";
 import Depthomeimg from "../../../assets/images/Department Banner/aids_home.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -343,7 +342,6 @@ const Aids = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

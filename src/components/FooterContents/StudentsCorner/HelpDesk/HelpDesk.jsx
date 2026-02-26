@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom';
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 
 const sections = [
   { id: "helpdesk", label: "Help Desk", formUrl: "https://forms.gle/Mnf4FzQ4ZU6AGn3e9" },
@@ -46,7 +45,6 @@ const HelpDesk = () => {
         </span>
         </p>
       </div>
-      <ScrollToTopButton />
       <Footer />
     </>
   );

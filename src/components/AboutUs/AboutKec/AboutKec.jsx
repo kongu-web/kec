@@ -4,7 +4,6 @@ import aboutImg from "../../../assets/images/aboutkec.jpg";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 import Spinner from "../../Spinner";
 
@@ -156,7 +155,6 @@ const AboutKec = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

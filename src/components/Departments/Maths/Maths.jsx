@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./maths.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/math.avif";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -325,7 +324,6 @@ const Maths = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

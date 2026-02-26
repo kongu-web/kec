@@ -8,7 +8,6 @@ import autoData from "./civil.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/civil.jpg";
 import Depthomeimg from "../../../assets/images/Department Banner/civil_home.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -418,7 +417,6 @@ const Civil = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./OnlinePayment.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Footer from "../../HomePage/Footer/Footer";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUniversity, faBus } from "@fortawesome/free-solid-svg-icons";
@@ -154,7 +153,6 @@ const OnlinePayment = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -11,7 +11,6 @@ import mobile from "../../../assets/images/mobile.webp";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
 const rules = [
   {
@@ -123,7 +122,6 @@ const CollegeRules = () => {
       </div>
 
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

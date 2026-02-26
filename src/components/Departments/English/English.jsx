@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./english.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/english.webp";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -353,7 +352,6 @@ const English = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

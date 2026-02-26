@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./ct-pg.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/ctpg.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -324,7 +323,6 @@ const Ctpg = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

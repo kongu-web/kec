@@ -3,7 +3,6 @@ import "./Awards.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
 
 const Awards = () => {
@@ -60,7 +59,6 @@ const Awards = () => {
           </div>
         )}
       </div>
-      <ScrollToTopButton />
       <Footer />
     </>
   );

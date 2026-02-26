@@ -9,7 +9,6 @@ import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/auto.webp";
 import Depthomeimg from "../../../assets/images/Department Banner/auto_home.jpg";
 
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -343,7 +342,6 @@ const Auto = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

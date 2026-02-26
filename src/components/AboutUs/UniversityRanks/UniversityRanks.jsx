@@ -3,7 +3,6 @@ import "./UniversityRanks.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
 
 const rankData = [
@@ -148,7 +147,6 @@ const UniversityRanks = () => {
         <h3> From 2010-2011 onwards Autonomous </h3>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

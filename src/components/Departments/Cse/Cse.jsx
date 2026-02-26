@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./cse.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/cse.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -360,7 +359,6 @@ const Cse = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

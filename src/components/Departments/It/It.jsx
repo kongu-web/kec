@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./it.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/it.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import VrTour from "./VrTour/VrTour";
 
 const NAV_ITEMS = [
@@ -375,7 +374,6 @@ const It = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
       {/* <VrTour /> */}
     </div>
   );

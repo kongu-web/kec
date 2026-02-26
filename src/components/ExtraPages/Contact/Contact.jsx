@@ -3,7 +3,6 @@ import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Contactimg from "../../../assets/images/aboutkec.jpg";
 import Spinner from "../../Spinner";
 
@@ -122,7 +121,6 @@ const Contact = () => {
       </div>
 
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

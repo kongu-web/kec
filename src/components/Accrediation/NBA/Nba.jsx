@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import "./Nba.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 
 import nba18042022 from "../../../assets/docs/Nba/KEC_nba_18_04_2022.pdf";
@@ -301,7 +300,6 @@ const Nba = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

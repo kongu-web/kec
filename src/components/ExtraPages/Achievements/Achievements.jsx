@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Achievements.css";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Spinner from "../../Spinner";
@@ -165,7 +164,6 @@ const Achievements = () => {
         )}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

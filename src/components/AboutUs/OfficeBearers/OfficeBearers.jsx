@@ -3,7 +3,6 @@ import './OfficeBearers.css';
 import Section from '../../HomePage/Section/Section';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../ScrollToTopButton';
 import Kvit from '../../../assets/images/kvitbuilding.jpg'
 import Spinner from '../../Spinner';
 
@@ -82,7 +81,6 @@ const OfficeBearers = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

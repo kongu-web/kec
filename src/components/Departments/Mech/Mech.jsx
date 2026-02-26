@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./mechanical.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mech.jfif";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -462,7 +461,6 @@ const Mech = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./chemical.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/chem.jfif";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -382,7 +381,6 @@ const Chem = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

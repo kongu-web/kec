@@ -55,6 +55,7 @@ import University from './components/Accrediation/University/University.jsx';
 import Admission from './components/Admission/AdmissionPage.jsx';
 // import Admissionform from './components/ExtraPages/Admission/Admissionform.jsx';
 import Chatbot from './components/CollegeChatbot.jsx';
+import ScrollToTopButton from './components/ScrollToTopButton.jsx';
 // Other Pages
 import Facilites from './components/ExtraPages/Facilites/Facilites.jsx';
 import Ug from './components/Departments/Ug.jsx';
@@ -138,7 +139,6 @@ import Coe from './components/ExtraPages/COE/Coe.jsx';
 import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
-import ScrollToTop from './components/ScrollToTop.jsx';
 import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
@@ -161,7 +161,7 @@ const App = () => {
       <Router>
 
         <Chatbot />
-        <ScrollToTop />
+        <ScrollToTopButton />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/event/:id" element={<EventDetails />} />

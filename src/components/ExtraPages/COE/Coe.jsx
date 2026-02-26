@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Coe.css";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import topImage from "../../../assets/images/InnovationEcosystem/Coe/coe.jpg";
@@ -392,7 +391,6 @@ const Coe = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

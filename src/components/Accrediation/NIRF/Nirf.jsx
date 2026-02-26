@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./Nirf.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 import Spinner from "../../Spinner";
 import "../../../App.css";
@@ -32,7 +31,6 @@ const Nirf = () => {
         </p>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

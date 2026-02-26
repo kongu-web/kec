@@ -3,7 +3,6 @@ import "./Autonomous.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import pdf2023_2033 from "../../../assets/docs/Autonomous/KEC_autonomous_approval_23-33.pdf";
 import pdf2022_2023 from "../../../assets/docs/Autonomous/KEC_autonomous_approval.pdf";
 import pdf2012_2013 from "../../../assets/docs/Autonomous/KEC_autonomous_approval1.pdf";
@@ -63,7 +62,6 @@ const Autonomous = () => {
         </ul>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./mca.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mca.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -345,7 +344,6 @@ const Mca = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

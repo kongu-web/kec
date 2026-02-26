@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./eee.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/eee.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -433,7 +432,6 @@ const Eee = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };
