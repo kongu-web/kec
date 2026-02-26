@@ -11,7 +11,7 @@
   justify-content: space-between;
   z-index: 999; /* Lower than Section */
   transition: background 0.5s ease;
-  border-bottom: 1px solid #b6b6bd;
+  /* border-bottom: 1px solid #b6b6bd; */
 }
 
 .top-utility-bar {
@@ -195,7 +195,7 @@
 
 /* MAIN LOGO */
 .nav-logo {
-  height: 54px;
+  height: 64px;
 }
 
 /* BADGES */
@@ -206,7 +206,7 @@
 }
 
 .nav-badges img {
-  height: 48px;
+  height: 56px;
   width: auto;
   object-fit: contain;
 }
@@ -250,7 +250,7 @@
   left: 80%;
   transform: translateX(-50%);
   width: 60px;
-  height: 2px;
+  height: 3px;
   background: #009edb;
   border-radius: 3px;
 }

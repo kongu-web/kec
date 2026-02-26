@@ -55,18 +55,21 @@
 
 .testimonial-card {
     flex: 0 0 calc((100% - 80px) / 3);
-    border-radius: 20px;
-    padding: 40px 30px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+    border-radius: 24px;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    /* subtle glass border */
     text-align: left;
     height: auto;
     align-items: flex-start;
+    overflow: hidden;
+    /* contain large watermark quote */
 }
 
 /* 6 rotating color themes — soft pastel shades */
@@ -95,29 +98,35 @@
 }
 
 .testimonial-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.2);
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 
 .quote-icon {
-    font-size: 4rem;
-    color: rgba(0, 0, 0, 0.12);
+    font-size: 12rem;
+    color: rgba(255, 255, 255, 0.35);
+    /* Elegant white watermark */
     line-height: 1;
     position: absolute;
-    top: 20px;
-    right: 20px;
-    font-family: serif;
+    top: -30px;
+    right: -10px;
+    font-family: Georgia, serif;
+    z-index: 0;
+    pointer-events: none;
 }
 
 .testimonial-text {
     font-family: "Inter", sans-serif;
-    font-size: 1.1rem;
-    color: #1a1a2e;
-    line-height: 1.6;
+    font-size: 1.05rem;
+    color: rgba(0, 0, 0, 0.85);
+    /* Highly readable neutral dark */
+    line-height: 1.7;
     margin-bottom: 20px;
     position: relative;
     z-index: 1;
-    font-style: italic;
+    font-style: normal;
+    /* Cleaner, modern look */
+    font-weight: 500;
 
     /* Line Clamping for truncation */
     display: -webkit-box;
@@ -141,20 +150,26 @@
 .read-more-btn {
     background: none;
     border: none;
-    color: #009edb;
+    color: rgba(0, 0, 0, 0.6);
+    /* Neutral color for any gradient background */
     font-family: "Outfit", sans-serif;
-    font-weight: 600;
-    font-size: 0.95rem;
+    font-weight: 700;
+    font-size: 0.9rem;
     cursor: pointer;
     padding: 0;
-    margin-bottom: 20px;
-    text-decoration: underline;
-    transition: color 0.2s;
+    margin-bottom: 30px;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    transition: all 0.2s;
     align-self: flex-end;
+    /* Aligned to right side */
+    position: relative;
+    z-index: 1;
 }
 
 .read-more-btn:hover {
-    color: #007bb5;
+    color: rgba(0, 0, 0, 0.9);
+    border-bottom-color: rgba(0, 0, 0, 0.9);
 }
 
 .testimonial-author {
@@ -163,29 +178,46 @@
     gap: 15px;
     margin-top: auto;
     width: 100%;
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.4);
+    /* Premium Frosted Glass effect */
+    padding: 12px 16px;
+    border-radius: 100px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.avatar-container {
+    flex-shrink: 0;
 }
 
 .avatar-container img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border: 2px solid #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: block;
+}
+
+.author-info {
+    flex-grow: 1;
 }
 
 .author-info h4 {
     font-family: "Outfit", sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     font-weight: 700;
     color: #1a1a2e;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 
 .author-info span {
     font-family: "Inter", sans-serif;
-    font-size: 0.9rem;
-    color: rgba(0, 0, 0, 0.6);
+    font-size: 0.85rem;
+    color: rgba(0, 0, 0, 0.7);
     display: block;
 }
 
