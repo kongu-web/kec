@@ -3,7 +3,6 @@ import "./IQACAcademicCommittee.css";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Section from "../../../HomePage/Section/Section";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import "../../../../App.css";
 
 const members = [
@@ -46,7 +45,6 @@ const IQACAcademicCommittee = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

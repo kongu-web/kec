@@ -7,7 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./civil.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/civil.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
+import Depthomeimg from "../../../assets/images/Department Banner/civil_home.jpg";
 
 const NAV_ITEMS = [
   "Home",
@@ -111,10 +111,7 @@ const Civil = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
+                    src={Depthomeimg}
                     alt="Department"
                   />
                 </div>
@@ -400,7 +397,7 @@ const Civil = () => {
                 </tbody>
               </table>
               <br />
-              <h2>Research Facilities</h2>
+              <h2 className="research-facilities-title">Research Facilities</h2>
 
               <table className="library-table">
                 <tbody>
@@ -420,7 +417,6 @@ const Civil = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

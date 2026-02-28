@@ -3,7 +3,6 @@ import "./InternalCommiteeSexualPrevention.css";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import pdf from "../../../../assets/docs/Footer/InternalCompliantandAntiSexual/act_InternalComplaintsCommittee.pdf";
 import "../../../../App.css";
 
@@ -162,7 +161,6 @@ const InternalCommiteeSexualPrevention = () => {
         </h3>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

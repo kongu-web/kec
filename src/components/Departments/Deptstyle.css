@@ -560,24 +560,42 @@ body {
   max-height: 0;
   opacity: 0;
   overflow: hidden;
-  transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
-  /* Slightly slower for elegance */
+  transition: max-height 0.8s ease-in-out, opacity 0.5s ease;
   background-color: #ffffff;
   border-left: 5px solid #fdbf2d;
   /* Yellow accent line */
   padding: 0 25px;
-  /* Collapsed padding handled by max-height usually but let's keep horizontal padding */
   margin-top: 0;
 }
 
 /* Show content when dropdown is active */
 .dropdown-section.active .dropdown-content {
-  max-height: 500px;
-  /* Arbitrary large height */
+  max-height: 5000px;
+  /* Very large height to accommodate all PO/PEO/PSO items on all screen sizes */
   opacity: 1;
   padding: 20px 25px;
   /* Expand vertical padding */
   border-top: 1px solid #f0f0f0;
+}
+
+/* Mobile: ensure full dropdown content is visible */
+@media (max-width: 768px) {
+  .dropdown-section.active .dropdown-content {
+    max-height: 10000px;
+    /* Unconstrained for mobile where text wraps more */
+    overflow: visible;
+  }
+
+  .dropdown-content li {
+    font-size: 0.92rem;
+    line-height: 1.7;
+    margin-bottom: 14px;
+  }
+
+  .dropdown-section button {
+    padding: 15px 20px;
+    font-size: 0.97rem;
+  }
 }
 
 /* List inside dropdown */
@@ -994,14 +1012,17 @@ body {
 }
 
 .lab-detail img {
-  width: 100%;
+  width: 70%;
   max-width: 100%;
+  max-height: 420px;
   height: auto;
+  object-fit: fit;
   border-radius: 12px;
   display: block;
   margin: 0 auto 30px auto;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
+  position: top center;
 }
 
 .lab-detail img:hover {
@@ -1148,6 +1169,16 @@ body {
   letter-spacing: 1px;
 }
 
+.title-bracket {
+  display: inline;
+  margin-left: 5px;
+}
+
+.research-facilities-title {
+  padding: 0;
+  /* Reset or base */
+}
+
 .library-description {
   font-size: 1.1rem;
   color: #555;
@@ -1202,6 +1233,29 @@ body {
 
 /* Mobile Library */
 @media (max-width: 600px) {
+  .library-container {
+    padding: 20px 15px;
+    margin: 20px 10px;
+  }
+
+  .library-container h2 {
+    font-size: 1.4rem;
+    word-break: break-word;
+    padding: 0 5px;
+  }
+
+  .title-bracket {
+    display: block;
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: 5px;
+    font-weight: 600;
+  }
+
+  .research-facilities-title {
+    padding: 25px 0 5px 0;
+    /* Increased spacing for mobile as requested */
+  }
 
   .library-table,
   .library-table tbody,
@@ -1364,6 +1418,10 @@ body {
   display: block;
 }
 
+.faculty-photo img.zoom-fit {
+  transform: scale(1.2);
+}
+
 .civil-faculty-card:hover .faculty-photo img {
   transform: scale(1.03);
 }
@@ -1379,7 +1437,7 @@ body {
   color: #222;
   font-size: 1.25rem;
   /* Larger Name */
-  font-weight: 300;
+  font-weight: 400;
   /* Thin Font */
   margin: 0 0 4px 0;
   letter-spacing: 0.5px;
@@ -1388,7 +1446,7 @@ body {
 .civil-faculty-card .faculty-info p {
   color: #666;
   font-size: 0.9rem;
-  font-weight: 300;
+  font-weight: 400;
   /* Thin Font */
   margin: 0;
   text-transform: capitalize;
@@ -1597,6 +1655,7 @@ body {
   .auto-navbar {
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 10px;
   }
 
   .auto-navbar button {
@@ -1615,5 +1674,6 @@ body {
 
   .auto-content {
     padding: 15px;
+    margin-top: 10px;
   }
 }

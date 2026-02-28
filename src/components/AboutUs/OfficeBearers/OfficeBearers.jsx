@@ -3,7 +3,6 @@ import './OfficeBearers.css';
 import Section from '../../HomePage/Section/Section';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../ScrollToTopButton';
 import Kvit from '../../../assets/images/kvitbuilding.jpg'
 import Spinner from '../../Spinner';
 
@@ -18,12 +17,11 @@ const OfficeBearers = () => {
   
     return loading ? <Spinner /> : (
     <>
-      <Section />
       <Navbar />
       <div className="office-container">
       <div className="office-intro">
         <div className="office-text">
-            <h2 className="office-heading">KVITT TRUST</h2>
+            <h2 className="office-heading">KVIT TRUST</h2>
             <p className="office-description">
             The Kongu Vellalar Institute of Technology Trust" (KVITT), came into being on account of the continuous and magnanimous efforts of a group of illustrious people from all walks of life during 1983. The origin of the term " K O N G U " dates back to putative race called " C H E R A " who ruled the south in those days. Thus, the word "Kongu Vellalar" refers to a community called Kongu Vellalar Gounders, mainly concentrated in and around Erode District. The Community "KONGU" as it is called, was pushed to the background, owing to the privatisation of facilities in the field of education, especially, Technical Education. Hence, this Trust was created by a group of philanthropists from Kongu Vellalar Gounders to promote technical education and cultural activities and to encourage literary and scientific knowledge.
             </p>
@@ -83,7 +81,6 @@ const OfficeBearers = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

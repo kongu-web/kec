@@ -3,7 +3,6 @@ import "./nbadcs.css";
 import Footer from "../../../HomePage/Footer/Footer";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import "../../../../App.css";
 
 // Import all NBADCS PDFs from folder
@@ -46,7 +45,6 @@ const Nbadcs = () => {
       </div>
 
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./cse.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/cse.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -322,7 +321,18 @@ const Cse = () => {
 
           {activeSection === "Library" && autoData.library && (
             <div className="library-container">
-              <h2>{autoData.library.name || "Library"}</h2>
+              <h2>
+                {autoData.library.name && autoData.library.name.includes("(") ? (
+                  <>
+                    {autoData.library.name.split("(")[0]}
+                    <span className="title-bracket">
+                      ({autoData.library.name.split("(")[1]}
+                    </span>
+                  </>
+                ) : (
+                  autoData.library.name || "Library"
+                )}
+              </h2>
               <p className="library-description">
                 {autoData.library.description ||
                   "Library details are provided below."}
@@ -349,7 +359,6 @@ const Cse = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

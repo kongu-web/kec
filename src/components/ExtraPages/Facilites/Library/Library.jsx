@@ -3,7 +3,6 @@ import "./Library.css";
 import Spinner from "../../../Spinner";
 
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 
@@ -1322,7 +1321,6 @@ const Library = () => {
         {/* Add other sections here using the same pattern */}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Coe.css";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import topImage from "../../../assets/images/InnovationEcosystem/Coe/coe.jpg";
@@ -223,7 +222,7 @@ const coeData = [
   },
    {
     title:
-      "Artificial Intelligence - Centre of Excellence in Intel® Unnati Data-Centric Labs in Emerging Technologies",
+      "Artificial Intelligence and Data Science - Centre of Excellence in Intel® Unnati Data-Centric Labs in Emerging Technologies",
     image: require("../../../assets/images/InnovationEcosystem/Coe/ai-intel.jpeg"),
     content: null,
     features: null,
@@ -245,7 +244,7 @@ const coeData = [
   },
    {
     title:
-      "Artificial Intelligence - Centre of Excellence in Real-Time Analytics",
+      "Artificial Intelligence and Machine Learning - Centre of Excellence in Real-Time Analytics",
     image: require("../../../assets/images/InnovationEcosystem/Coe/ai-realtime.png"),
     content: null,
     features: null,
@@ -392,7 +391,6 @@ const Coe = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./ct-ug.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/ctug.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -357,7 +356,6 @@ const Ctug = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

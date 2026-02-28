@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import "./Ug.css";
 import Footer from "../HomePage/Footer/Footer";
 import Section from "../HomePage/Section/Section";
-import ScrollToTopButton from "../ScrollToTopButton";
 import Navbar from "../HomePage/navbar/Navbar";
 import Spinner from "../Spinner";
 import "../../App.css";
@@ -80,7 +79,6 @@ const Phd = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./foodtech.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/foodtech.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -349,7 +348,6 @@ const Foodtech = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

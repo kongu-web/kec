@@ -3,7 +3,6 @@ import "./StudentCentric.css";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 
 const data = [
   {
@@ -148,6 +147,9 @@ const data = [
         "Mr. S. Selvaraj  / CSD",
         "Ms. T. E. Ramya / CSE",
       ],
+    },
+    " Computer Society of India (CSI)": {
+      Coordinator: ["Dr. P. S. Nandhini / CSE"],
     },
     "Srinivasa Ramanujan Mathematics Club": {
       Coordinators: ["Dr. AL. Nachammai / Maths", "Dr. K. Radhika / Maths"],
@@ -373,7 +375,6 @@ const StudentCentric = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

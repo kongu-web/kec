@@ -132,7 +132,7 @@ const IqacNba = () => {
                 <div className="iqac-content">
                     <h1 className="iqac-section-title">The National Board of Accreditation (NBA)</h1>
 
-                    <div className="iqac-card">
+                    {/* <div className="iqac-card">
                         <h2 className="iqac-card-title">About NBA</h2>
                         <div className="iqac-card-body">
                             <p className="alignment-justify iqac-text">
@@ -142,7 +142,7 @@ const IqacNba = () => {
                                 On June 13, 2014, the National Board of Accreditation (NBA) of India became a permanent signatory member of the Washington Accord. The undergraduate and postgraduate programs accredited by the NBA under Tier-1 are eligible for recognition by other signatories of the Washington Accord.
                             </p>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="iqac-card">
                         <h2 className="iqac-card-title">NBA @ KEC</h2>

@@ -7,7 +7,8 @@ import "../Deptstyle.css";
 import autoData from "./Auto.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/auto.webp";
-import ScrollToTopButton from "../../ScrollToTopButton";
+import Depthomeimg from "../../../assets/images/Department Banner/auto_home.jpg";
+
 
 const NAV_ITEMS = [
   "Home",
@@ -110,10 +111,7 @@ const Auto = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
+                    src={Depthomeimg}
                     alt="Department"
                   />
                 </div>
@@ -344,7 +342,6 @@ const Auto = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

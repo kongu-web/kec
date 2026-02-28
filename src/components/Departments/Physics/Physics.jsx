@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./physics.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/physics.webp";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -352,7 +351,6 @@ const Physics = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

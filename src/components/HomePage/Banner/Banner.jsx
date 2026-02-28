@@ -22,9 +22,13 @@ import img12 from "../../../assets/images/12.png";
 import img13 from "../../../assets/images/13.png";
 import img14 from "../../../assets/images/14.png";
 import img15 from "../../../assets/images/15.png";
+import img16 from "../../../assets/images/16.png";
+import img17 from "../../../assets/images/17.png";
+import img18 from "../../../assets/images/18.png";
+import img19 from "../../../assets/images/19.png";
 
 export default function Banner() {
-  const images = [img1, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img13, img12];
+  const images = [img1, img19, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img13, img12];
 
   return (
     <div className="Banner-container">

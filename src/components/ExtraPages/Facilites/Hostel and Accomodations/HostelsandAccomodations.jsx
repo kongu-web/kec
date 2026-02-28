@@ -19,7 +19,6 @@ import staff from "../../../../assets/images/HostelandAccomodation/staff.jpg";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 
 const hostels = {
   "Guest Houses": ["Guest House", "Alumni Guest House"],
@@ -91,7 +90,6 @@ const HostelsandAccommodation = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

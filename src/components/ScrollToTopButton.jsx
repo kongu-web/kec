@@ -1,14 +1,27 @@
-import React, { useState, useEffect } from "react";
-import "./ScrollToTopButton.css";
-import Keclogo from "../../src/assets/images/kecglobe.png"; // Make sure the path is correct
+import { useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+import moveToTopGif from '../assets/gif/move-to-top.gif';
+import './ScrollToTopButton.css';
 
 const ScrollToTopButton = () => {
   const [isVisible, setIsVisible] = useState(false);
+  const { pathname } = useLocation();
 
-  const handleScroll = () => {
-    setIsVisible(window.scrollY > 200);
+  // Scroll to top instantly on every page navigation
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  // Show button when page is scrolled down
+  const toggleVisibility = () => {
+    if (window.scrollY > 300) {
+      setIsVisible(true);
+    } else {
+      setIsVisible(false);
+    }
   };
 
+  // Smooth scroll to top
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -17,16 +30,24 @@ const ScrollToTopButton = () => {
   };
 
   useEffect(() => {
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+    window.addEventListener("scroll", toggleVisibility);
+    return () => window.removeEventListener("scroll", toggleVisibility);
   }, []);
 
   return (
-    isVisible && (
-      <button className="scroll-to-top" onClick={scrollToTop}>
-        <img src={Keclogo} alt="Scroll to top" className="kec-logo" />
+    <div className={`scroll-to-top-wrapper ${isVisible ? 'scroll-visible' : 'scroll-hidden'}`}>
+      <button
+        onClick={scrollToTop}
+        className="scroll-to-top-btn"
+        aria-label="Scroll to top"
+      >
+        <img
+          src={moveToTopGif}
+          alt="Scroll to Top"
+          className="scroll-to-top-img"
+        />
       </button>
-    )
+    </div>
   );
 };
 

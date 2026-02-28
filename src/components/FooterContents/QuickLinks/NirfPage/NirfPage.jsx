@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./NirfPage.css";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import "../../../../App.css";
@@ -100,7 +99,6 @@ const NirfPage = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

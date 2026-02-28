@@ -3,7 +3,6 @@ import "./AcademicCouncil.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import "../../../App.css";
 
 import Spinner from "../../Spinner";
@@ -119,7 +118,6 @@ const AcademicCouncil = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

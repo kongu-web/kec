@@ -3,15 +3,15 @@
 :root {
   /* ✅ UPDATED BLUE (#303877) */
   --primary-blue: #303877;
-  
+
   /* ✅ UPDATED GREEN (#319143) */
   --accent-green: #319143;
-  
+
   --light-bg: #f8f9fa;
   --white: #ffffff;
   --text-dark: #333;
   --text-light: #666;
-  --card-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  --card-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 
 .admission-page-wrapper {
@@ -25,14 +25,11 @@
   position: relative;
   height: 70vh;
   min-height: 500px;
-  
-  /* ✅ UPDATED GRADIENT TO MATCH #303877 (RGB: 48, 56, 119) */
-  background: linear-gradient(
-      to right, 
-      rgba(48, 56, 119, 0.95),  /* Deep Blue on text side */
-      rgba(48, 56, 119, 0.5)    /* Transparent Blue on image side */
-    ),
-    url('https://images.unsplash.com/photo-1606761568499-6d2451b23c66?q=80&w=1920&auto=format&fit=crop');
+
+  background: linear-gradient(to right,
+      rgba(48, 56, 119, 0.55),
+      rgba(48, 56, 119, 0.15)),
+    var(--hero-bg);
 
   background-size: cover;
   background-position: center;
@@ -42,14 +39,8 @@
   justify-content: flex-start;
   padding: 0 5%;
   color: var(--white);
-  /* padding-top: 80px; */
 }
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 9f21a8b1f96f9201432d3bce646052f7b4d101e0
 .hero-content {
   max-width: 600px;
   animation: slideInLeft 0.8s ease-out;
@@ -77,7 +68,8 @@
 
 /* ✅ UPDATED BUTTON COLOR */
 .btn-primary {
-  background: var(--accent-green); /* Uses #319143 */
+  background: var(--accent-green);
+  /* Uses #319143 */
   color: var(--white);
   padding: 12px 30px;
   border-radius: 4px;
@@ -91,7 +83,8 @@
 }
 
 .btn-primary:hover {
-  background: #257a36; /* Slightly darker shade of #319143 */
+  background: #257a36;
+  /* Slightly darker shade of #319143 */
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(49, 145, 67, 0.4);
 }
@@ -115,7 +108,8 @@
 
 /* --- 2. Stats Bar --- */
 .stats-strip {
-  background: var(--primary-blue); /* Uses #303877 */
+  background: var(--primary-blue);
+  /* Uses #303877 */
   color: var(--white);
   display: flex;
   justify-content: space-around;
@@ -123,19 +117,31 @@
   margin-top: -50px;
   position: relative;
   z-index: 2;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 
 .stat-box {
   text-align: center;
-  border-right: 1px solid rgba(255,255,255,0.2);
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
   flex: 1;
 }
 
-.stat-box:last-child { border-right: none; }
+.stat-box:last-child {
+  border-right: none;
+}
 
-.stat-box h2 { font-size: 42px; margin: 0; font-weight: 800; color: var(--accent-green); }
-.stat-box span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
+.stat-box h2 {
+  font-size: 42px;
+  margin: 0;
+  font-weight: 800;
+  color: var(--accent-green);
+}
+
+.stat-box span {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
 /* --- 3. Program Explorer --- */
 .section-container {
@@ -234,8 +240,16 @@
   border-radius: 50%;
 }
 
-.course-info h4 { margin: 0; font-size: 16px; color: var(--text-dark); }
-.course-info span { font-size: 12px; color: #888; }
+.course-info h4 {
+  margin: 0;
+  font-size: 16px;
+  color: var(--text-dark);
+}
+
+.course-info span {
+  font-size: 12px;
+  color: #888;
+}
 
 /* --- 4. Admission Process --- */
 .process-section {
@@ -291,8 +305,17 @@
   border-color: var(--primary-blue);
 }
 
-.step-title { font-weight: 700; margin-bottom: 5px; color: var(--text-dark); }
-.step-desc { font-size: 13px; color: #777; line-height: 1.5; }
+.step-title {
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: var(--text-dark);
+}
+
+.step-desc {
+  font-size: 13px;
+  color: #777;
+  line-height: 1.5;
+}
 
 /* --- 5. FAQ Section --- */
 .faq-container {
@@ -313,7 +336,7 @@
 
 .faq-card.active {
   border-left: 4px solid var(--accent-green);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
 .faq-header {
@@ -366,16 +389,43 @@
 
 /* Responsive */
 @media (max-width: 768px) {
-  .hero-content h1 { font-size: 36px; }
-  .stats-strip { flex-direction: column; gap: 30px; margin-top: 0; }
-  .stat-box { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.2); padding-bottom: 20px; }
-  .steps-container { flex-direction: column; gap: 30px; align-items: center; }
-  .steps-container::before { display: none; }
+  .hero-content h1 {
+    font-size: 36px;
+  }
+
+  .stats-strip {
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 0;
+  }
+
+  .stat-box {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 20px;
+  }
+
+  .steps-container {
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+  }
+
+  .steps-container::before {
+    display: none;
+  }
 }
 
 @keyframes slideInLeft {
-  from { opacity: 0; transform: translateX(-50px); }
-  to { opacity: 1; transform: translateX(0); }
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
 /* ============================= */
@@ -383,7 +433,8 @@
 /* ============================= */
 @media (max-width: 768px) {
 
-  html, body {
+  html,
+  body {
     overflow-x: hidden;
   }
 
@@ -391,7 +442,8 @@
     height: auto;
     min-height: 100vh;
     padding: 100px 20px 60px;
-    background-attachment: scroll; /* ❗ FIXES MOBILE OVERFLOW */
+    background-attachment: scroll;
+    /* ❗ FIXES MOBILE OVERFLOW */
     justify-content: center;
     text-align: center;
   }

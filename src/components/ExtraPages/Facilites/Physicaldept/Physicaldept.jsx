@@ -11,7 +11,6 @@ import achi2021 from "../../../../assets/docs/Sports/Achievement_2021_2022.pdf";
 import achi2022 from "../../../../assets/docs/Sports/Achievement_2022_23.pdf";
 import achi2023 from "../../../../assets/docs/Sports/Achievement 2023-2024.pdf";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 
@@ -634,7 +633,6 @@ const Physicaldept = () => {
         )}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

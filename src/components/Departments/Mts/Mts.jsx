@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./mechatronics.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mts1.jpeg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -311,6 +310,7 @@ const Mts = () => {
                       <img
                         src={require(`../../../assets/images/faculty images/mts/${faculty.image}`)}
                         alt={faculty.name}
+                        className={faculty.name === "Dr.K.Krishnamurthy" ? "zoom-fit" : ""}
                       />
                     </div>
 
@@ -353,7 +353,6 @@ const Mts = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

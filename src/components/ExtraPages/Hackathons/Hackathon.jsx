@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./Hackathon.css";
 import eventData from "../../../assets/docs/Knowafest/details.json";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 
@@ -171,7 +170,6 @@ const Hackathon = () => {
         )}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

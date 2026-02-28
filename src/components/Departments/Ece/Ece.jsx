@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./ece.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/ece.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -418,7 +417,6 @@ const Ece = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

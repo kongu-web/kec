@@ -62,7 +62,7 @@
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 15px;
-  text-align: left;
+  text-align: justify;
 }
 
 .placement-points {
@@ -717,7 +717,7 @@
 }
 
 /* Grid */
-.logo-grid {
+.placement-logo-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 28px;
@@ -725,12 +725,13 @@
   margin: auto;
 }
 
-.logo-card {
+.placement-logo-card {
   background: #ffffff;
   border-radius: 14px;
   padding: 22px;
   display: flex;
   align-items: center;
+  justify-content: center;
   justify-content: center;
 
   /* Key part */
@@ -743,12 +744,12 @@
 }
 
 
-.logo-card:hover {
+.placement-logo-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 18px 36px rgba(0, 0, 0, .15);
 }
 
-.logo-card img {
+.placement-logo-card img {
   max-height: 48px;
   max-width: 100%;
   object-fit: contain;
@@ -772,7 +773,7 @@
     padding: 10px 22px;
   }
 
-  .logo-grid {
+  .placement-logo-grid {
     grid-template-columns: repeat(4, 1fr);
     gap: 24px;
   }
@@ -798,16 +799,17 @@
     padding: 8px 20px;
   }
 
-  .logo-grid {
+  .placement-logo-grid {
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
   }
 
-  .logo-card {
+  .placement-logo-card {
     padding: 18px;
+    height: 90px;
   }
 
-  .logo-card img {
+  .placement-logo-card img {
     max-height: 42px;
   }
 }
@@ -835,16 +837,17 @@
     padding: 7px 16px;
   }
 
-  .logo-grid {
+  .placement-logo-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
   }
 
-  .logo-card {
+  .placement-logo-card {
     padding: 16px;
+    height: 80px;
   }
 
-  .logo-card img {
+  .placement-logo-card img {
     max-height: 38px;
   }
 }
@@ -1472,6 +1475,7 @@
   margin: 16px 0 28px;
   font-size: 16px;
   line-height: 1.6;
+  text-align: justify;
 }
 
 /* Feature Boxes */
@@ -1586,7 +1590,7 @@
 
 /* Gradients */
 .blue .II-card-header {
-  background: linear-gradient(135deg, #dbe9ff, #c7dbff);
+  background: linear-gradient(135deg, #7e899c, #7887a2);
 }
 
 .purple .II-card-header {

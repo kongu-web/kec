@@ -3,7 +3,6 @@ import "./Aicteet.css";
 import Footer from "../../HomePage/Footer/Footer";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
 import "../../../App.css";
 
@@ -3446,7 +3445,6 @@ const Aicteet = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

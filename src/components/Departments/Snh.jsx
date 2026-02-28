@@ -4,7 +4,6 @@ import "./Snh.css";
 import Section from "../HomePage/Section/Section";
 import Navbar from "../HomePage/navbar/Navbar";
 import Footer from "../HomePage/Footer/Footer";
-import ScrollToTopButton from "../ScrollToTopButton";
 import Spinner from "../Spinner";
 
 const pgPrograms = [
@@ -34,7 +33,7 @@ const Snh = () => {
     <>
       {/* <Section/> */}
       <Navbar />
-      <div className="ug-container">
+      <div className="snh-container">
         <h2 className="page-title">Postgraduate Programmes</h2>
         <div className="ug-table-wrapper">
           <table className="ug-table">
@@ -63,7 +62,6 @@ const Snh = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

@@ -3,7 +3,6 @@ import "./FitnessProtocol.css";
 import Footer from "../../../HomePage/Footer/Footer";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import "../../../../App.css";
 
 // Import all ARIIA PDFs from folder
@@ -39,7 +38,6 @@ const FitnessProtocol = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

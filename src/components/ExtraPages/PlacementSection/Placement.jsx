@@ -70,7 +70,7 @@ export const teamData = [
     mobile: "9790004095",
     img: team1,
   },
-   {
+  {
     id: 2,
     name: "Mr. S. Kavin ",
     role: "Deputy Placement Officer",
@@ -87,7 +87,7 @@ export const teamData = [
   {
     id: 4,
     name: "Mr. P. Dineshkumar",
-    role: "Deputy Placement Officer",
+    role: "Assistant Placement Officer",
     mobile: "7373675915",
     img: team4,
   },
@@ -238,7 +238,7 @@ const Placement = () => {
                 <img src={card1} />
               </div>
 
-              <div class="stat-value">249</div>
+              <div class="stat-value">269</div>
             </div>
 
             <div class="ps-stat-card blue center">
@@ -250,7 +250,7 @@ const Placement = () => {
                 <img src={card2} />
               </div>
 
-              <div class="stat-value big">1124</div>
+              <div class="stat-value big">1199</div>
             </div>
 
             <div class="ps-stat-card green">
@@ -288,9 +288,9 @@ const Placement = () => {
             ))}
           </div>
 
-          <div className="logo-grid">
+          <div className="placement-logo-grid">
             {companyImages[activeCategory].map((img, index) => (
-              <div className="logo-card" key={index}>
+              <div className="placement-logo-card" key={index}>
                 <img src={img} alt="company" />
               </div>
             ))}

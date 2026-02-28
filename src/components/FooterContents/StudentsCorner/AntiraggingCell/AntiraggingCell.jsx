@@ -2,7 +2,6 @@ import React from "react";
 import "./AntiraggingCell.css";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 import Footer from "../../../HomePage/Footer/Footer";
 import "../../../../App.css";
 
@@ -94,7 +93,6 @@ const AntiraggingCell = () => {
         </div>
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

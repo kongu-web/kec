@@ -4,7 +4,6 @@ import { useNavigate } from "react-router-dom";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Spinner from "../../Spinner";
 
 import pe from "../../../assets/images/physicaldept.jpg";
@@ -90,7 +89,6 @@ const Facilities = () => {
         ))}
       </div>
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

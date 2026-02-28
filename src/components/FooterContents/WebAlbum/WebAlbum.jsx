@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import "./WebAlbum.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
-import ScrollToTopButton from "../../ScrollToTopButton";
 import Footer from "../../HomePage/Footer/Footer";
 import "../../../App.css";
 
@@ -66,7 +65,6 @@ const WebAlbum = () => {
       )}
 
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

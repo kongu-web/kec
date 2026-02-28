@@ -3,7 +3,6 @@ import "./Feedback.css";
 import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 
 const sections = [
   { id: "parents", label: "Parents Feedback", formUrl: "https://forms.gle/du4uNPdwLnfpgyWk8"},
@@ -55,7 +54,6 @@ const Feedback = () => {
           Send your suggestions to <a href="mailto:feedback@kongu.edu">feedback@kongu.edu</a>
         </p>
       </div>
-      <ScrollToTopButton />
       <Footer />
     </>
   );

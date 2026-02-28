@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./eee.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/eee.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -404,7 +403,7 @@ const Eee = () => {
                 </tbody>
               </table>
               <br />
-              <h2>Major Associated Companies</h2>
+              <h2 className="research-facilities-title">Major Associated Companies</h2>
 
               <table className="library-table">
                 <tbody>
@@ -415,7 +414,8 @@ const Eee = () => {
                   ))}
                 </tbody>
               </table>
-              <h2>Certified Energy Auditors & Manager</h2>
+              <br />
+              <h2 className="research-facilities-title">Certified Energy Auditors & Manager</h2>
               <table className="library-table">
                 <tbody>
                   {(autoData.testing.caa || []).map((item, index) => (
@@ -432,7 +432,6 @@ const Eee = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

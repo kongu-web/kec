@@ -7,7 +7,6 @@ import "../Deptstyle.css";
 import autoData from "./csd.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/csd.jpg";
-import ScrollToTopButton from "../../ScrollToTopButton";
 
 const NAV_ITEMS = [
   "Home",
@@ -345,7 +344,6 @@ const Csd = () => {
 
       <Slider />
       <Footer />
-      <ScrollToTopButton />
     </div>
   );
 };

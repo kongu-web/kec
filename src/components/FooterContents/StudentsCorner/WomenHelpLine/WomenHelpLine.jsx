@@ -3,7 +3,6 @@ import "./WomenHelpLine.css";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Section from "../../../HomePage/Section/Section";
 import Footer from "../../../HomePage/Footer/Footer";
-import ScrollToTopButton from "../../../ScrollToTopButton";
 
 const WomenHelpLine = () => {
   return (
@@ -39,7 +38,6 @@ const WomenHelpLine = () => {
           </table>
         </div>
       </div>
-      <ScrollToTopButton />
       <Footer />
     </>
   );

@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import './CampusLife.css';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import ScrollToTopButton from '../../ScrollToTopButton';
 import Spinner from '../../Spinner';
 import { Link } from 'react-router-dom';
 import AOS from 'aos';
@@ -289,7 +288,6 @@ const CampusLife = () => {
             </section>
 
             <Footer />
-            <ScrollToTopButton />
         </div>
     );
 };

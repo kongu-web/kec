@@ -30,7 +30,6 @@ import Campus from "./Campus/Campus";
 import Ranking from "./Ranking/Ranking";
 import Ecosystem from "./Ecosystem/Ecosystem";
 import Placement from "./Placement/Placement";
-import ScrollToTopButton from "../ScrollToTopButton";
 import Department from "./Department/Department";
 import FlashNews from "../FlashNews";
 import Homepopup from '../Homepopup';
@@ -70,11 +69,9 @@ const HomePage = () => {
       <EndBanner/>
       <Contact/>
       <Footer/>
-      <ScrollToTopButton/> */}
       <Homepopup />
       {/* <FlashNews/> */}
       {/* <recuritment/> */}
-      <ScrollToTopButton />
       <Footer />
     </div>
   );
