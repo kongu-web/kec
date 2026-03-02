@@ -209,33 +209,74 @@ const Navbar = () => {
       {showContactModal && (
         <div className="modal-overlay" onClick={handleCloseModal}>
           <div className="modal-content" onClick={e => e.stopPropagation()}>
-            <button className="modal-close" onClick={handleCloseModal}>&times;</button>
-            <h3>Contact Us</h3>
-            <div className="modal-grid">
-              <div className="modal-column">
-                <p>
-                  <strong>Dr. Praveen Kumar Subramanian</strong><br />
-                  Convener – Innovation and Entrepreneurship Forum KEC (IEF @ KEC)
-                </p>
+            <button className="modal-close-btn" onClick={handleCloseModal}>
+              <i className="fas fa-times"></i>
+            </button>
+
+            <div className="modal-header">
+              <h3>Connect With Us</h3>
+              <div className="modal-divider"></div>
+            </div>
+
+            <div className="modal-body-premium">
+              <div className="contact-person-card">
+                <div className="person-avatar">
+                  <i className="fas fa-user-tie"></i>
+                </div>
+                <div className="person-details">
+                  <h4>Dr. Praveen Kumar Subramanian</h4>
+                  <p>Convener – Innovation and Entrepreneurship Forum KEC (IEF @ KEC)</p>
+                </div>
               </div>
 
-              <div className="modal-column">
-                <ul className="contact-info">
-                  <li><i className="fas fa-phone"></i> Whatsapp: +91-9500-575-414</li>
-                  <li><i className="fas fa-phone-alt"></i> Call: +91-6382-650-340</li>
-                  <li><i className="fas fa-envelope"></i> Personal: <a href="mailto:praveenkumar.mts@kongu.edu">praveenkumar.mts@kongu.edu</a></li>
-                  <li><i className="fas fa-envelope"></i> Official: <a href="mailto:iickec@kongu.edu">iickec@kongu.edu</a></li>
-                </ul>
+              <div className="contact-methods-grid">
+                <a href="https://wa.me/919500575414" target="_blank" rel="noopener noreferrer" className="contact-method-card whatsapp">
+                  <div className="method-icon"><i className="fab fa-whatsapp"></i></div>
+                  <div className="method-info">
+                    <span>Whatsapp</span>
+                    <strong>+91-9500-575-414</strong>
+                  </div>
+                </a>
+
+                <a href="tel:+916382650340" className="contact-method-card phone">
+                  <div className="method-icon"><i className="fas fa-phone-alt"></i></div>
+                  <div className="method-info">
+                    <span>Call Us</span>
+                    <strong>+91-6382-650-340</strong>
+                  </div>
+                </a>
+
+                <a href="mailto:praveenkumar.mts@kongu.edu" className="contact-method-card email">
+                  <div className="method-icon"><i className="fas fa-envelope"></i></div>
+                  <div className="method-info">
+                    <span>Personal</span>
+                    <strong>praveenkumar.mts@kongu.edu</strong>
+                  </div>
+                </a>
+
+                <a href="mailto:iickec@kongu.edu" className="contact-method-card email-official">
+                  <div className="method-icon"><i className="fas fa-building"></i></div>
+                  <div className="method-info">
+                    <span>Official</span>
+                    <strong>iickec@kongu.edu</strong>
+                  </div>
+                </a>
               </div>
 
-              <div className="modal-column">
-                <ul className="social-links">
-                  <li><a href="https://www.facebook.com/iickec"><i className="fab fa-facebook"></i> Facebook</a></li>
-                  <li><a href="https://twitter.com/IicKongu"><i className="fab fa-twitter"></i> Twitter</a></li>
-                  <li><a href="https://www.instagram.com/iic_kec/"><i className="fab fa-instagram"></i> Instagram</a></li>
-                </ul>
+              <div className="social-connect">
+                <p>Follow our Journey</p>
+                <div className="social-pills">
+                  <a href="https://www.facebook.com/iickec" target="_blank" rel="noopener noreferrer" className="social-pill fb">
+                    <i className="fab fa-facebook-f"></i> Facebook
+                  </a>
+                  <a href="https://twitter.com/IicKongu" target="_blank" rel="noopener noreferrer" className="social-pill tw">
+                    <i className="fab fa-twitter"></i> Twitter
+                  </a>
+                  <a href="https://www.instagram.com/iic_kec/" target="_blank" rel="noopener noreferrer" className="social-pill ig">
+                    <i className="fab fa-instagram"></i> Instagram
+                  </a>
+                </div>
               </div>
-              <a>Designed by karan <a href="https://kongu.ac.in/kecwebteam ">kecwebteam</a></a>
             </div>
           </div>
         </div>

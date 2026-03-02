@@ -624,22 +624,358 @@ body {
   display: block;
 }
 
-/* Modal Enhancements */
+/* Premium Modal Enhancements */
 .modal-overlay {
-  background-color: rgba(0, 0, 0, 0.85);
-  backdrop-filter: blur(15px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  animation: fadeInModal 0.4s ease-out forwards;
+}
+
+@keyframes fadeInModal {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 .modal-content {
-  background-color: #0d0d0d;
+  background: linear-gradient(145deg, #0d0d0d, #141414);
   border: 1px solid rgba(255, 217, 0, 0.2);
-  padding: 4rem;
+  border-radius: 24px;
+  padding: 3.5rem 4rem;
+  width: 90%;
+  max-width: 800px;
+  position: relative;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.8), inset 0 0 40px rgba(255, 217, 0, 0.05);
+  transform: translateY(30px) scale(0.95);
+  animation: slideUpModal 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  overflow: hidden;
 }
 
-.modal-content h3 {
+.modal-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+}
+
+@keyframes slideUpModal {
+  to {
+    transform: translateY(0) scale(1);
+  }
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 25px;
+  right: 30px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-white);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.modal-close-btn:hover {
+  background: var(--accent);
+  color: #000;
+  transform: rotate(90deg);
+  box-shadow: 0 0 20px var(--accent-glow);
+  border-color: var(--accent);
+}
+
+.modal-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.modal-header h3 {
   font-family: 'Impact', sans-serif;
-  font-size: 2.2rem;
+  font-size: 2.8rem;
   letter-spacing: 2px;
+  margin: 0;
+  background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+}
+
+.modal-divider {
+  width: 60px;
+  height: 4px;
+  background: var(--accent);
+  margin: 15px auto 0;
+  border-radius: 2px;
+  box-shadow: 0 0 15px var(--accent-glow);
+}
+
+.modal-body-premium {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.contact-person-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 1.5rem 2rem;
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.3s ease;
+}
+
+.contact-person-card:hover {
+  border-color: rgba(255, 217, 0, 0.3);
+  background: rgba(255, 217, 0, 0.05);
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.person-avatar {
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(135deg, rgba(255, 217, 0, 0.2), rgba(0, 12, 99, 0.5));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: var(--accent);
+  border: 2px solid rgba(255, 217, 0, 0.4);
+  flex-shrink: 0;
+  box-shadow: 0 0 20px rgba(255, 217, 0, 0.15);
+}
+
+.person-details h4 {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+  margin: 0 0 8px 0;
+  letter-spacing: 1px;
+}
+
+.person-details p {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.contact-methods-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem;
+}
+
+.contact-method-card {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 1.2rem 1.5rem;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 12px;
+  text-decoration: none;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.contact-method-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(255, 217, 0, 0.3);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.6), inset 0 0 20px rgba(255, 217, 0, 0.05);
+  background: rgba(255, 217, 0, 0.05);
+}
+
+.method-icon {
+  width: 45px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: var(--accent);
+  transition: all 0.3s ease;
+}
+
+.contact-method-card:hover .method-icon {
+  background: var(--accent);
+  color: #000;
+  box-shadow: 0 0 15px var(--accent-glow);
+}
+
+.method-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.method-info span {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.method-info strong {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.05rem;
+  color: #fff;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.3s ease;
+}
+
+.contact-method-card:hover .method-info strong {
+  color: var(--accent);
+}
+
+.social-connect {
+  text-align: center;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.social-connect p {
+  font-family: 'Share Tech', sans-serif;
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 0 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.social-pills {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.social-pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.social-pill:hover {
+  transform: translateY(-5px);
+}
+
+.social-pill.fb:hover {
+  background: #1877F2;
+  border-color: #1877F2;
+  box-shadow: 0 10px 25px rgba(24, 119, 242, 0.4);
+}
+
+.social-pill.tw:hover {
+  background: #1DA1F2;
+  border-color: #1DA1F2;
+  box-shadow: 0 10px 25px rgba(29, 161, 242, 0.4);
+}
+
+.social-pill.ig:hover {
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  border-color: transparent;
+  box-shadow: 0 10px 25px rgba(220, 39, 67, 0.4);
+}
+
+.modal-footer-credits {
+  margin-top: 3rem;
+  text-align: center;
+  font-family: 'Share Tech', sans-serif;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.webteam-link {
+  color: var(--accent);
+  text-decoration: none;
+  margin-left: 5px;
+  position: relative;
+  transition: color 0.3s ease;
+  font-weight: bold;
+}
+
+.webteam-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+
+.webteam-link:hover {
+  color: #fff;
+}
+
+.webteam-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+@media (max-width: 768px) {
+  .modal-content {
+    padding: 2.5rem 2rem;
+  }
+
+  .contact-person-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .contact-methods-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .modal-header h3 {
+    font-size: 2rem;
+  }
 }
 
 /* Global Tech Background Orbs */
