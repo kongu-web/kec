@@ -3,7 +3,7 @@ import './OfficeBearers.css';
 import Section from '../../HomePage/Section/Section';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import Kvit from '../../../assets/images/kvitbuilding.jpg'
+import Kvit from '../../../assets/images/kvitbuilding.webp'
 import Spinner from '../../Spinner';
 
 const OfficeBearers = () => {

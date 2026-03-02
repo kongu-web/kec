@@ -3,8 +3,8 @@ import "./Vision.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import mission from "../../../assets/images/visionmission.png";
-import qualitypolicy from "../../../assets/images/qualitypolicy.png";
+import mission from "../../../assets/images/visionmission.webp";
+import qualitypolicy from "../../../assets/images/qualitypolicy.webp";
 import Spinner from "../../Spinner";
 
 const Vision = () => {

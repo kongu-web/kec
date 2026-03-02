@@ -49,7 +49,7 @@ blockquote {
   gap: 20px;
 
   /* 🔽 NEW */
-  background-image: url("../../../assets/images/HomePage/legacy_bg.png");
+  background-image: url("../../../assets/images/HomePage/legacy_bg.webp");
   background-size: cover;
   background-position: fit;
   background-repeat: no-repeat;

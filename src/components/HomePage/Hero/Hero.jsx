@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-// import dark_arrow from '../../assets/images/icons8-arrow-24.png'
+// import dark_arrow from '../../assets/images/icons8-arrow-24.webp'
 
 const Hero = () => {
   return (

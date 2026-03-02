@@ -4,47 +4,47 @@ import "./Placement.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 
-import heroImg from "../../../assets/images/Placement/placement-hero.png";
-import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.jpg";
-import team2 from "../../../assets/images/Placement/Kavin.S.jpg";
-import team3 from "../../../assets/images/Placement/Sukumar.P.jpg";
-import team4 from "../../../assets/images/Placement/Dineshkumar.P.jpg";
-import team5 from "../../../assets/images/Placement/G.Srivaths Karthic.jpg";
+import heroImg from "../../../assets/images/Placement/placement-hero.webp";
+import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.webp";
+import team2 from "../../../assets/images/Placement/Kavin.S.webp";
+import team3 from "../../../assets/images/Placement/Sukumar.P.webp";
+import team4 from "../../../assets/images/Placement/Dineshkumar.P.webp";
+import team5 from "../../../assets/images/Placement/G.Srivaths Karthic.webp";
 
-import stat1 from "../../../assets/images/Placement/Frame 260.png";
-import stat2 from "../../../assets/images/Placement/Frame 257.png";
-import stat3 from "../../../assets/images/Placement/Frame 261.png";
-import stat4 from "../../../assets/images/Placement/Frame 259.png";
-import star from "../../../assets/images/Placement/star.png";
-import card1 from "../../../assets/images/Placement/card1.png";
-import card2 from "../../../assets/images/Placement/card2.png";
-import card3 from "../../../assets/images/Placement/card3.png";
+import stat1 from "../../../assets/images/Placement/Frame 260.webp";
+import stat2 from "../../../assets/images/Placement/Frame 257.webp";
+import stat3 from "../../../assets/images/Placement/Frame 261.webp";
+import stat4 from "../../../assets/images/Placement/Frame 259.webp";
+import star from "../../../assets/images/Placement/star.webp";
+import card1 from "../../../assets/images/Placement/card1.webp";
+import card2 from "../../../assets/images/Placement/card2.webp";
+import card3 from "../../../assets/images/Placement/card3.webp";
 
-import tp_card1 from "../../../assets/images/Placement/tp_card1.png";
-import tp_card2 from "../../../assets/images/Placement/tp_card2.png";
-import tp_card3 from "../../../assets/images/Placement/tp_card3.png";
-import tp_card4 from "../../../assets/images/Placement/tp_card4.png";
-import tp_card5 from "../../../assets/images/Placement/tp_card5.png";
-import tp_card6 from "../../../assets/images/Placement/tp_card6.png";
+import tp_card1 from "../../../assets/images/Placement/tp_card1.webp";
+import tp_card2 from "../../../assets/images/Placement/tp_card2.webp";
+import tp_card3 from "../../../assets/images/Placement/tp_card3.webp";
+import tp_card4 from "../../../assets/images/Placement/tp_card4.webp";
+import tp_card5 from "../../../assets/images/Placement/tp_card5.webp";
+import tp_card6 from "../../../assets/images/Placement/tp_card6.webp";
 
-import cg_bicon from "../../../assets/images/Placement/cg_bicon.png";
-import cg_bicon1 from "../../../assets/images/Placement/cg_bicon1.png";
-import cg_bicon2 from "../../../assets/images/Placement/cg_bicon2.png";
-import cg_bicon3 from "../../../assets/images/Placement/cg_bicon3.png";
-import cg_bicon4 from "../../../assets/images/Placement/cg_bicon4.png";
+import cg_bicon from "../../../assets/images/Placement/cg_bicon.webp";
+import cg_bicon1 from "../../../assets/images/Placement/cg_bicon1.webp";
+import cg_bicon2 from "../../../assets/images/Placement/cg_bicon2.webp";
+import cg_bicon3 from "../../../assets/images/Placement/cg_bicon3.webp";
+import cg_bicon4 from "../../../assets/images/Placement/cg_bicon4.webp";
 
-import cg_gicon1 from "../../../assets/images/Placement/cg_gicon1.png";
-import cg_gicon2 from "../../../assets/images/Placement/cg_gicon2.png";
-import cg_gicon3 from "../../../assets/images/Placement/cg_gicon3.png";
-import cg_gicon4 from "../../../assets/images/Placement/cg_gicon4.png";
-import cg_gicon from "../../../assets/images/Placement/cg_gicon.png";
+import cg_gicon1 from "../../../assets/images/Placement/cg_gicon1.webp";
+import cg_gicon2 from "../../../assets/images/Placement/cg_gicon2.webp";
+import cg_gicon3 from "../../../assets/images/Placement/cg_gicon3.webp";
+import cg_gicon4 from "../../../assets/images/Placement/cg_gicon4.webp";
+import cg_gicon from "../../../assets/images/Placement/cg_gicon.webp";
 
-import II_card1 from "../../../assets/images/Placement/II_card1.png";
-import II_card2 from "../../../assets/images/Placement/II_card2.png";
-import II_card3 from "../../../assets/images/Placement/II_card3.png";
-import II_card4 from "../../../assets/images/Placement/II_card4.png";
-import II_card5 from "../../../assets/images/Placement/II_card5.png";
-import II_card6 from "../../../assets/images/Placement/II_card6.png";
+import II_card1 from "../../../assets/images/Placement/II_card1.webp";
+import II_card2 from "../../../assets/images/Placement/II_card2.webp";
+import II_card3 from "../../../assets/images/Placement/II_card3.webp";
+import II_card4 from "../../../assets/images/Placement/II_card4.webp";
+import II_card5 from "../../../assets/images/Placement/II_card5.webp";
+import II_card6 from "../../../assets/images/Placement/II_card6.webp";
 
 
 import { companyImages } from "../../../utils/companyImages";

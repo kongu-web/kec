@@ -1,10 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./Navbar.css";
-import logo from "../../../assets/images/kec11.jpg";
-import badge41 from "../../../assets/images/41years2.png";
-import nif from "../../../assets/images/nirf.png";
-import naac from "../../../assets/images/naac.png";
-import tneaBadge from "../../../assets/images/tneacode.png";
+import logo from "../../../assets/images/kec11.webp";
+import badge41 from "../../../assets/images/41years2.webp";
+import nif from "../../../assets/images/nirf.webp";
+import naac from "../../../assets/images/naac.webp";
+import tneaBadge from "../../../assets/images/tneacode.webp";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {

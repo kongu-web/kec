@@ -3,7 +3,7 @@ import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
-import Contactimg from "../../../assets/images/aboutkec.jpg";
+import Contactimg from "../../../assets/images/aboutkec.webp";
 import Spinner from "../../Spinner";
 
 const Contact = () => {

@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./eie.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/eie.jpg";
+import Deptimg from "../../../assets/images/Department Banner/eie.webp";
 
 const NAV_ITEMS = [
   "Home",

@@ -1,6 +1,6 @@
 import React from "react";
 import "./EndBanner.css";
-import bannerImage from "../../../assets/images/cc-banner.png";
+import bannerImage from "../../../assets/images/cc-banner.webp";
 
 const EndBanner = () => {
   return (
