@@ -207,28 +207,57 @@ const testimonialsData = [
 ];
 
 
-const TestimonialCard = ({ testimonial }) => {
-    const [isExpanded, setIsExpanded] = React.useState(false);
+const TestimonialCard = ({ testimonial, onReadMore }) => {
+    // Attempt to split the role to style the company/location differently
+    const roleParts = testimonial.role.split(',');
+    const primaryRole = roleParts[0];
+    const secondaryRole = roleParts.slice(1).join(',').trim();
 
     return (
-        <div className={`testimonial-card ${isExpanded ? "expanded" : ""}`}>
-            <div className="quote-icon">❝</div>
-            <p className="testimonial-text">
-                {testimonial.content}
-            </p>
-            <button
-                className="read-more-btn"
-                onClick={() => setIsExpanded(!isExpanded)}
-            >
-                {isExpanded ? "Read Less" : "Read More"}
-            </button>
-            <div className="testimonial-author">
-                <div className="avatar-container">
-                    <img src={testimonial.avatar} alt={testimonial.name} />
+        <div className="testimonial-card">
+            <div className="card-top-gradient"></div>
+            <div className="card-inner">
+                <div className="quote-box">
+                    <svg viewBox="0 0 24 24" fill="currentColor" className="quote-svg">
+                        <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                    </svg>
                 </div>
-                <div className="author-info">
-                    <h4>{testimonial.name}</h4>
-                    <span>{testimonial.role}</span>
+
+                <p className="testimonial-text">
+                    "{testimonial.content}"
+                </p>
+                <button
+                    className="read-more-btn"
+                    onClick={() => onReadMore(testimonial)}
+                >
+                    Read More
+                </button>
+
+                <div className="testimonial-author">
+                    <div className="avatar-container">
+                        <div className="avatar-wrapper">
+                            <img src={testimonial.avatar} alt={testimonial.name} />
+                        </div>
+                        <div className="verified-badge">
+                            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2l-3.5-3.5 1.4-1.4L9 13.4l7.1-7.1 1.4 1.4z" /></svg>
+                        </div>
+                    </div>
+                    <div className="author-info">
+                        <h4>{testimonial.name}</h4>
+                        <span className="primary-role">{primaryRole}</span>
+                        {secondaryRole && <span className="secondary-role">{secondaryRole}</span>}
+                    </div>
+                </div>
+
+                <div className="testimonial-bottom-bar">
+                    <div className="stars">
+                        ★★★★★
+                    </div>
+                    {/* <div className="dots">
+                        <span className="dot dot-1"></span>
+                        <span className="dot dot-2"></span>
+                        <span className="dot dot-3"></span>
+                    </div> */}
                 </div>
             </div>
         </div>
@@ -239,6 +268,9 @@ const Testimonials = () => {
     const scrollRef = React.useRef(null);
     const [isPaused, setIsPaused] = React.useState(false);
     const [isMobile, setIsMobile] = React.useState(window.innerWidth <= 768);
+
+    // Popup Modal State
+    const [activeModal, setActiveModal] = React.useState(null);
 
     const [manualPause, setManualPause] = React.useState(false);
     const timeoutRef = React.useRef(null);
@@ -313,7 +345,7 @@ const Testimonials = () => {
 
     // Auto-scroll effect (Continuous — desktop only)
     React.useEffect(() => {
-        if (isMobile || isPaused || manualPause) return;
+        if (isMobile || isPaused || manualPause || activeModal) return;
 
         const scrollContainer = scrollRef.current;
         let animationFrameId;
@@ -328,7 +360,7 @@ const Testimonials = () => {
         animationFrameId = requestAnimationFrame(scrollStep);
 
         return () => cancelAnimationFrame(animationFrameId);
-    }, [isMobile, isPaused, manualPause]);
+    }, [isMobile, isPaused, manualPause, activeModal]);
 
     // Initialize scroll position to the middle set
     React.useEffect(() => {
@@ -341,7 +373,7 @@ const Testimonials = () => {
 
     return (
         <section className="testimonials-section">
-            {/* <span className="pill">Voices of KEC</span> */}
+            <span className="pill">Testimonials</span>
             <h2>Voices of KEC</h2>
 
             <div
@@ -359,7 +391,11 @@ const Testimonials = () => {
                     onScroll={handleScroll}
                 >
                     {extendedTestimonials.map((testimonial, index) => (
-                        <TestimonialCard key={`${testimonial.id}-${index}`} testimonial={testimonial} />
+                        <TestimonialCard
+                            key={`${testimonial.id}-${index}`}
+                            testimonial={testimonial}
+                            onReadMore={setActiveModal}
+                        />
                     ))}
                 </div>
 
@@ -367,6 +403,38 @@ const Testimonials = () => {
                     &#8250;
                 </button>
             </div>
+
+            {/* Testimonial Popup Modal */}
+            {activeModal && (
+                <div className="testi-modal-overlay" onClick={() => setActiveModal(null)}>
+                    <div className="testi-modal-content" onClick={(e) => e.stopPropagation()}>
+                        <button className="testi-modal-close" onClick={() => setActiveModal(null)}>
+                            &times;
+                        </button>
+                        <div className="testi-modal-header">
+                            <div className="avatar-wrapper">
+                                <img src={activeModal.avatar} alt={activeModal.name} />
+                            </div>
+                            <div className="author-info">
+                                <h4>{activeModal.name}</h4>
+                                <span className="primary-role">{activeModal.role.split(',')[0]}</span>
+                                {activeModal.role.split(',').slice(1).length > 0 && (
+                                    <span className="secondary-role">{activeModal.role.split(',').slice(1).join(',').trim()}</span>
+                                )}
+                            </div>
+                        </div>
+                        <div className="testi-modal-body">
+                            <svg viewBox="0 0 24 24" fill="rgba(14, 165, 233, 0.15)" className="modal-quote-bg">
+                                <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                            </svg>
+                            <p>"{activeModal.content}"</p>
+                        </div>
+                        <div className="testi-modal-footer">
+                            <div className="stars">★★★★★</div>
+                        </div>
+                    </div>
+                </div>
+            )}
         </section>
     );
 };
