@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./mca.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/mca.jpg";
+import Deptimg from "../../../assets/images/Department Banner/mca.webp";
 
 const NAV_ITEMS = [
   "Home",

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Spinner.css";
-import logo from "../assets/images/kecglobe.png";
+import logo from "../assets/images/kecglobe.webp";
 
 const Spinner = () => {
   return (

@@ -1,15 +1,15 @@
 import "./CampusLife.css";
 
-import sports from "../../../assets/images/HomePage/sports.jpg";
-import recreation from "../../../assets/images/HomePage/recreation.jpg";
-import clubs from "../../../assets/images/HomePage/clubs.jpg";
-import dining from "../../../assets/images/HomePage/dining.png";
-import cultural from "../../../assets/images/HomePage/cultural.jpg";
-import music from "../../../assets/images/HomePage/music.jpg";
-import healthcare from "../../../assets/images/HomePage/healthcare.png";
-import gym from "../../../assets/images/HomePage/gym.jpg";
-import learning from "../../../assets/images/HomePage/learning.png";
-import hostel from "../../../assets/images/HomePage/hostel.jpg";
+import sports from "../../../assets/images/HomePage/sports.webp";
+import recreation from "../../../assets/images/HomePage/recreation.webp";
+import clubs from "../../../assets/images/HomePage/clubs.webp";
+import dining from "../../../assets/images/HomePage/dining.webp";
+import cultural from "../../../assets/images/HomePage/cultural.webp";
+import music from "../../../assets/images/HomePage/music.webp";
+import healthcare from "../../../assets/images/HomePage/healthcare.webp";
+import gym from "../../../assets/images/HomePage/gym.webp";
+import learning from "../../../assets/images/HomePage/learning.webp";
+import hostel from "../../../assets/images/HomePage/hostel.webp";
 
 const items = [
   {

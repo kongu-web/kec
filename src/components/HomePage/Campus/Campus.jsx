@@ -1,6 +1,6 @@
 import React from 'react';
 import './Campus.css';
-import kongubanner from "../../../assets/images/kecglobe.png";
+import kongubanner from "../../../assets/images/kecglobe.webp";
 import Newsletter from '../Newsletter/Newletter';
 
 const About = () => {

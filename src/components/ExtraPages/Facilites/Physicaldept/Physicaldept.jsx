@@ -594,7 +594,7 @@ const Physicaldept = () => {
                   <img
                     src={require(`../../../../assets/images/PhysicalDept/Achievements/achievement-${
                       i + 1
-                    }.jpg`)}
+                    }.webp`)}
                     alt={title}
                   />
                   <p>{title}</p>

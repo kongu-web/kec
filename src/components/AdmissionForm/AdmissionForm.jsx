@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 import "./AdmissionForm.css";
-import bgImage from "../../assets/images/AdmissionForm/Frame23.png"; // blue abstract
-import cutShape from "../../assets/images/AdmissionForm/Subtract.png"; // white cut shape
-import kecImage from "../../assets/images/AdmissionForm/Frame23-logo.png"; // logo illustration
+import bgImage from "../../assets/images/AdmissionForm/Frame23.webp"; // blue abstract
+import cutShape from "../../assets/images/AdmissionForm/Subtract.webp"; // white cut shape
+import kecImage from "../../assets/images/AdmissionForm/Frame23-logo.webp"; // logo illustration
 import { ReactComponent as CloseIcon } from "../../assets/images/AdmissionForm/closeicon.svg";
 
 import { ReactComponent as PhoneIcon } from "../../assets/images/Icon/footer_icon/phone.svg";

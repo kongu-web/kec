@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./foodtech.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/foodtech.jpg";
+import Deptimg from "../../../assets/images/Department Banner/foodtech.webp";
 
 const NAV_ITEMS = [
   "Home",

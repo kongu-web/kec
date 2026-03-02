@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./it.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/it.jpg";
+import Deptimg from "../../../assets/images/Department Banner/it.webp";
 import VrTour from "./VrTour/VrTour";
 
 const NAV_ITEMS = [

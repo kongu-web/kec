@@ -83,11 +83,11 @@ export const iqacData = {
     ],
     "gallery": [
         {
-            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg",
+            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.webp",
             "alt": "ISO 9001-2015 surveillance audit 1"
         },
         {
-            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
+            "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).webp",
             "alt": "ISO 9001-2015 surveillance audit 2"
         }
     ],
@@ -491,12 +491,12 @@ export const iqacData = {
     "gallery": {
         "current": [
             {
-                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg",
-                "alt": "WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg"
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.webp",
+                "alt": "WhatsApp Image 2025-02-04 at 9.34.02 AM.webp"
             },
             {
-                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
-                "alt": "WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg"
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).webp",
+                "alt": "WhatsApp Image 2025-02-04 at 9.34.04 AM (1).webp"
             }
         ],
         "archived": []

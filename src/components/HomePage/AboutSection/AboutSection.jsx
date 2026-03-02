@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./AboutSection.css";
-// import campusImg from "../../../assets/images/2.png";
-import campusImg from "../../../assets/images/WebAlbum/kec.jpeg";
+// import campusImg from "../../../assets/images/2.webp";
+import campusImg from "../../../assets/images/WebAlbum/kec.webp";
 
 
 function AboutSection() {

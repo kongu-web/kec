@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./CollegeRules.css";
-import ruleImg from "../../../assets/images/rules.png";
+import ruleImg from "../../../assets/images/rules.webp";
 import codeofConduct from "../../../assets/images/codeofconduct.webp";
 import antiragging from "../../../assets/images/antiragging.webp";
-import dresscode from "../../../assets/images/dresscode.jpg";
-import attendance from "../../../assets/images/attendance.png";
-import idcard from "../../../assets/images/idcard.png";
-import helmet from "../../../assets/images/helmet.jpg";
+import dresscode from "../../../assets/images/dresscode.webp";
+import attendance from "../../../assets/images/attendance.webp";
+import idcard from "../../../assets/images/idcard.webp";
+import helmet from "../../../assets/images/helmet.webp";
 import mobile from "../../../assets/images/mobile.webp";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";

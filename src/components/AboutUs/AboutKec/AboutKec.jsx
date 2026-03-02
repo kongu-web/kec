@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./AboutKec.css";
-import aboutImg from "../../../assets/images/aboutkec.jpg";
+import aboutImg from "../../../assets/images/aboutkec.webp";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
