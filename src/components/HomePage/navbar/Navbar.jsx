@@ -666,7 +666,7 @@ const Navbar = () => {
                     window.open("https://www.aicte.gov.in/schemes/students-development-schemes", "_blank")
                   }>
                     <ValueaddIcon className="submenu-icon" />
-                    AICTE Scheme
+                    AICTE Schemes
                   </span>
 
                   {/* Internal pages */}
@@ -976,7 +976,7 @@ const Navbar = () => {
                         window.open("https://www.aicte.gov.in/schemes/students-development-schemes", "_blank")
                       }
                     >
-                      AICTE Scheme
+                      AICTE Schemes
                     </li>
 
                     {/* Internal pages */}
