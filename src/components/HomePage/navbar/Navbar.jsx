@@ -662,6 +662,13 @@ const Navbar = () => {
                     KEC - AICTE Idea Lab
                   </span>
 
+                  <span onClick={() =>
+                    window.open("https://www.aicte.gov.in/schemes/students-development-schemes", "_blank")
+                  }>
+                    <ValueaddIcon className="submenu-icon" />
+                    AICTE Scheme
+                  </span>
+
                   {/* Internal pages */}
                   <span onClick={() => navigate("/campus-life")}>
                     <LifeIcon className="submenu-icon" />
@@ -963,6 +970,13 @@ const Navbar = () => {
                       }
                     >
                       KEC - AICTE Idea Lab
+                    </li>
+                    <li
+                      onClick={() =>
+                        window.open("https://www.aicte.gov.in/schemes/students-development-schemes", "_blank")
+                      }
+                    >
+                      AICTE Scheme
                     </li>
 
                     {/* Internal pages */}
