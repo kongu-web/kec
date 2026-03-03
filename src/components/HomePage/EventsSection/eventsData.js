@@ -1,6 +1,6 @@
 import eHorizonImg from "../../../assets/images/Events/E-Horizon-2025.jpg";
 import annualDayImg from "../../../assets/images/Events/Annual Day.png";
-import sportsDayImg from "../../../assets/images/Events/Sports Day.jpg";
+import sportsDayImg from "../../../assets/images/Events/sports.jpeg";
 import swaramImg from "../../../assets/images/Events/Swaram 2025.jpg";
 import ITConference from "../../../assets/images/Events/ITConference.jpeg";
 
