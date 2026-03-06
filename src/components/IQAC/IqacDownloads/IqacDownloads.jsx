@@ -76,6 +76,7 @@ const eomsMdfFiles = [
     { name: "13_Test.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/13_Test.pdf`, type: "pdf" },
     { name: "14_Placement.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/14_Placement.pdf`, type: "pdf" },
     { name: "15_MinutesofMeeting.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/15_MinutesofMeeting.pdf`, type: "pdf" },
+    { name: "16_COE.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/16_COE.pdf`, type: "pdf" },
     { name: "17_LIBRARY.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/17_LIBRARY.pdf`, type: "pdf" },
     { name: "18_PHYSICAL EDUCATION.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/18_PHYSICAL EDUCATION.pdf`, type: "pdf" },
     { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" }
@@ -84,7 +85,7 @@ const eomsMdfFiles = [
 ];
 
 const eomsMdiFiles = [
-    { name: "MDI_03 MDI List.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_03 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
+    { name: "MDI_01 MDI List.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
     { name: "MDI_04 Format Change.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_04 FORMAT CHANGE REQUISITION SLIP.pdf`, type: "pdf" },
     { name: "MDI_08 Complaint Reg.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_08 CUSTOMER COMPLAINT REGISTER.pdf`, type: "pdf" },
     { name: "MDI_09 Quality Plan.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_09 QUALITY PLAN.pdf`, type: "pdf" },
@@ -101,12 +102,13 @@ const eomsMdfDocFiles = [
     "1_Timetable.docx", "2_Academic.docx", "3_Project.docx", "4_CO-PO.docx",
     "5_Lab.docx", "6_Feedback.docx", "7_IIPC.docx", "8_Research.doc",
     "9_TrainingFaculty_Staff.doc", "10_Association.doc", "11_Budget.doc", "12_Alumni.docx",
-    "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx",
-    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx"
+    "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx", "16_COE.docx",
+    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx",
+    "AC-06.xlsx", "AC-07.xlsx", "AC-08.xlsx"
 ];
 
 const eomsMdiDocFiles = [
-    "MDI_03 MASTER LIST OF SM DOCUMENTS INFORMATION.docx",
+    "MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.docx",
     "MDI_04 FORMAT CHANGE REQUISITION SLIP.doc",
     "MDI_08 CUSTOMER COMPLAINT REGISTER.docx",
     "MDI_09 QUALITY PLAN.docx",
