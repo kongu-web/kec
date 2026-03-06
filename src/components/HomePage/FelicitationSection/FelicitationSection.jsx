@@ -18,6 +18,18 @@ function FelicitationSection() {
 
   const videos = [
     {
+      id: "FxDbwNgap4k",
+      title: "ENTHUSIA",
+      desc: "DAY 2 GLIMPSE",
+      
+    },
+    {
+      id: "B7NsaTDIJ_8",
+      title: "ENTHUSIA",
+      desc: "DAY 1 GLIMPSE",
+      
+    },
+    {
       id: "mOQsJJ7bc5E",
       title: "Grand Guest Lecture on Role of Youth in Nation Building",
       desc: "Thiru.K.Annamalai IPS, Chief Servant",
