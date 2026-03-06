@@ -6,7 +6,7 @@ import '../IQAC.css';
 import './IqacNba.css';
 
 const IqacNba = () => {
-    // Define base path for documents
+    // Define base path for documents (per-programme subfolders)
     const docPath = "/assets/docs/Nba/";
 
     const accreditationData = [
@@ -14,112 +14,130 @@ const IqacNba = () => {
             slNo: 1,
             programme: "B.E. Mechanical Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_nba_18_04_2022.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 05.08.2021", period: "For 2021-2022", pdf: `${docPath}NBA_ECE_CHEM_MECH_EIE_05082021.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.09.2020", period: "For 2020-2021", pdf: `${docPath}NBA_KEC_11.09.2020_MECH_ECE_CHEM_EIE_oneyearextension.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_11.06.2018.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}MECH/6.F.No.33-50-2010 NBA dated 18.04.2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}MECH/5.F.No.33-50-2010 NBA dated 11.06.2018.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 08.07.2016", period: "From 2016-2017", pdf: `${docPath}MECH/4.F.No.33-50-2010 NBA dated 08.07.2016.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 22.09.2014", period: "From 2014-2015 to 2015-2016", pdf: `${docPath}MECH/3.F.No.33-50-2010 NBA dated 22.09.2014.pdf` },
+                { letter: "F.No. NBA ACCR-666-04 dated 22.01.2008", period: "From 2008-2009 to 2010-2011", pdf: `${docPath}MECH/2.F.No. NBA ACCR-666-04 dated 22.01.2008.pdf` },
+                { letter: "F.No. NBA 23rd-BRD-ATR-2001 dated 21.11.2001", period: "From 2001-2002", pdf: `${docPath}MECH/1.F.No. NBA 23rd-BRD-ATR-2001dated 21.11.2001.pdf` },
             ]
         },
         {
             slNo: 2,
             programme: "B.E. Electronics and Communication Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_nba_18_04_2022.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 05.08.2021", period: "For 2021-2022", pdf: `${docPath}NBA_ECE_CHEM_MECH_EIE_05082021.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.09.2020", period: "For 2020-2021", pdf: `${docPath}NBA_KEC_11.09.2020_MECH_ECE_CHEM_EIE_oneyearextension.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_11.06.2018.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}ECE/6.F.No.33-50-2010 NBA dated 18.04.2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}ECE/5.F.No.33-50-2010 NBA dated 11.06.2018.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 08.07.2016", period: "From 2016-2017", pdf: `${docPath}ECE/4.F.No.33-50-2010 NBA dated 08.07.2016.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 22.09.2014", period: "From 2014-2015 to 2015-2016", pdf: `${docPath}ECE/3.F.No.33-50-2010 NBA dated 22.09.2014.pdf` },
+                { letter: "F.No. NBA ACCR-666-04 dated 22.01.2008", period: "From 2008-2009 to 2010-2011", pdf: `${docPath}ECE/2.F.No. NBA ACCR-666-04 dated 22.01.2008.pdf` },
+                { letter: "F.No. NBA 23rd-BRD-ATR-2001 dated 21.11.2001", period: "From 2001-2002", pdf: `${docPath}ECE/1.F.No. NBA 23rd-BRD-ATR-2001dated 21.11.2001.pdf` },
             ]
         },
         {
             slNo: 3,
             programme: "B.E. Electronics and Instrumentation Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_nba_18_04_2022.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 05.08.2021", period: "For 2021-2022", pdf: `${docPath}NBA_ECE_CHEM_MECH_EIE_05082021.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.09.2020", period: "For 2020-2021", pdf: `${docPath}NBA_KEC_11.09.2020_MECH_ECE_CHEM_EIE_oneyearextension.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_11.06.2018.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}EIE/6.F.No.33-50-2010 NBA dated 18.04.2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}EIE/5.F.No.33-50-2010 NBA dated 11.06.2018.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 08.07.2016", period: "From 2016-2017", pdf: `${docPath}EIE/4.F.No.33-50-2010 NBA dated 08.07.2016.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 22.09.2014", period: "From 2014-2015 to 2015-2016", pdf: `${docPath}EIE/3.F.No.33-50-2010 NBA dated 22.09.2014.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 02.06.2009", period: "From 2009-2010 to 2011-2012", pdf: `${docPath}EIE/2.F.No. NBA ACCR-666-2004 dated 02.06.2009.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 15.09.2004", period: "From 2004-2005", pdf: `${docPath}EIE/1.F.No. NBA ACCR-666-2004 dated 15.09.2004.pdf` },
             ]
         },
         {
             slNo: 4,
             programme: "B.Tech. Chemical Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_nba_18_04_2022.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 05.08.2021", period: "For 2021-2022", pdf: `${docPath}NBA_ECE_CHEM_MECH_EIE_05082021.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.09.2020", period: "For 2020-2021", pdf: `${docPath}NBA_KEC_11.09.2020_MECH_ECE_CHEM_EIE_oneyearextension.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_11.06.2018.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}CHEMICAL/6.F.No.33-50-2010 NBA dated 18.04.2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}CHEMICAL/5.F.No.33-50-2010 NBA dated 11.06.2018.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 08.07.2016", period: "From 2016-2017", pdf: `${docPath}CHEMICAL/4.F.No.33-50-2010 NBA dated 08.07.2016.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 03.06.2014", period: "From 2014-2015 to 2015-2016", pdf: `${docPath}CHEMICAL/3.F.No.33-50-2010 NBA dated 03.06.2014.pdf` },
+                { letter: "F.No. NBA ACCR-666-04 dated 22.01.2008", period: "From 2008-2009 to 2010-2011", pdf: `${docPath}CHEMICAL/2.F.No. NBA ACCR-666-04 dated 22.01.2008.pdf` },
+                { letter: "F.No. NBA 23rd-BRD ATR-2001 dated 21.11.2001", period: "From 2001-2002", pdf: `${docPath}CHEMICAL/1.F.No. NBA 23rd-BRD ATR-2001 21.11.2001.pdf` },
             ]
         },
         {
             slNo: 5,
             programme: "B.E. Mechatronics Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2028-2029", pdf: `${docPath}NBA_Accreditation_Letter_03012024.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "For 2020-2021 to 2022-2023", pdf: `${docPath}NBA_Accreditation_Letter_28052020.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_13.10.2017.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2028-2029", pdf: `${docPath}MTS/5.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}MTS/4.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}MTS/3.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 02.06.2009", period: "From 2009-2010 to 2011-2012", pdf: `${docPath}MTS/2.F.No. NBA ACCR-666-2004 dated 02.06.2009.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 15.09.2004", period: "From 2004-2005", pdf: `${docPath}MTS/1.F.No. NBA ACCR-666-2004 dated 15.09.2004.pdf` },
             ]
         },
         {
             slNo: 6,
             programme: "B.E. Computer Science and Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}NBA_Accreditation_Letter_03012024.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}NBA_Accreditation_Letter_28052020.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_13.10.2017.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}CSE/6.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}CSE/5.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}CSE/4.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 17.09.2012", period: "From 2012-2013 to 2014-2015", pdf: `${docPath}CSE/3.F.No.33-50-2010 NBA dated 17.09.2012.pdf` },
+                { letter: "F.No. NBA ACCR-666-2005 dated 19.09.2006", period: "From 2006-2007 to 2008-2009", pdf: `${docPath}CSE/2.F.No. NBA ACCR-666-2005 dated 19.09.2006.pdf` },
+                { letter: "F.No. NBA 24-BRD-ATR-2002 dated 13.05.2002", period: "From 2002-2003", pdf: `${docPath}CSE/1.F.No. NBA 24-BRD-ATR-2002dated 13.05.2002.pdf` },
             ]
         },
         {
             slNo: 7,
             programme: "B.Tech. Information Technology",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}NBA_Accreditation_Letter_03012024.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}NBA_Accreditation_Letter_28052020.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_13.10.2017.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}IT/5.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}IT/4.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}IT/3.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 02.06.2009", period: "From 2009-2010 to 2011-2012", pdf: `${docPath}IT/2.F.No. NBA ACCR-666-2004 dated 02.06.2009.pdf` },
+                { letter: "F.No. NBA ACCR-666-2004 dated 15.09.2004", period: "From 2004-2005", pdf: `${docPath}IT/1.F.No. NBA ACCR-666-2004 dated15.09.2004.pdf` },
             ]
         },
         {
             slNo: 8,
             programme: "B.E. Electrical and Electronics Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}NBA_Accreditation_Letter_03012024.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}NBA_Accreditation_Letter_28052020.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_13.10.2017.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}EEE/6.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}EEE/5.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}EEE/4.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 17.09.2012", period: "From 2012-2013 to 2014-2015", pdf: `${docPath}EEE/3.F.No.33-50-2010 NBA dated 17.09.2012.pdf` },
+                { letter: "F.No. NBA ACCR-666-2005 dated 19.09.2006", period: "From 2006-2007 to 2008-2009", pdf: `${docPath}EEE/2.F.No. NBA ACCR-666-2005 dated 19.09.2006.pdf` },
+                { letter: "F.No. NBA 23rd-BRD-ATR 2001 dated 21.11.2001", period: "From 2001-2002", pdf: `${docPath}EEE/1.F.No. NBA 23rd-BRD-ATR 2001dated 21.11.2001.pdf` },
             ]
         },
         {
             slNo: 9,
             programme: "B.Tech. Food Technology",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2028-2029", pdf: `${docPath}NBA_Accreditation_Letter_03012024.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}NBA_Accreditation_Letter_28052020.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}NBA_KEC_13.10.2017.pdf` }
+                { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2028-2029", pdf: `${docPath}FT/3.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}FT/2.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}FT/1.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
             ]
         },
         {
             slNo: 10,
-            programme: "BE Civil Engineering",
+            programme: "B.E. Civil Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_nba_18_04_2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 18.04.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}CIVIL/6.F.No.33-50-2010 NBA dated 18.04.2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 11.06.2018", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}CIVIL/5.F.No.33-50-2010 NBA dated 11.06.2018.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 08.07.2016", period: "From 2016-2017", pdf: `${docPath}CIVIL/4.F.No.33-50-2010 NBA dated 08.07.2016.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 03.06.2014", period: "From 2014-2015 to 2015-2016", pdf: `${docPath}CIVIL/3.F.No.33-50-2010 NBA dated 03.06.2014.pdf` },
+                { letter: "F.No. NBA ACCR-666-04 dated 22.01.2008", period: "From 2008-2009 to 2010-2011", pdf: `${docPath}CIVIL/2.F.No. NBA ACCR-666-04 dated 22.01.2008.pdf` },
+                { letter: "F.No. NBA 23rd-BRD-ATR-2001 dated 21.11.2001", period: "From 2001-2002", pdf: `${docPath}CIVIL/1.F.No. NBA 23rd-BRD-ATR-2001dated 21.11.2001.pdf` },
             ]
         },
         {
             slNo: 11,
-            programme: "BE Automobile Engineering",
+            programme: "B.E. Automobile Engineering",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 15.04.2025", period: "From 2025-2026 to 2027-2028", pdf: `${docPath}18_AUTO_CIVIL_MECH_ECE_EIE_CHEM_ 15_04_2025.pdf` },
-                { letter: "F.No. 33-50-2010-NBA dated 19.10.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_NBA_AUTO_19_10_2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 19.10.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}AUTO/1.F.No.33-50-2010 NBA dated 19.10.2022.pdf` },
             ]
         },
         {
             slNo: 12,
             programme: "MBA",
             letters: [
-                { letter: "F.No. 33-50-2010-NBA dated 12.12.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}KEC_NBA_MBA_12_12_2022.pdf` },
+                { letter: "F.No. 33-50-2010-NBA dated 12.12.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}MBA/2.F.No.33-50-2010 NBA dated 12.12.2022.pdf` },
+                { letter: "F.No. NBA 24-BRD-ATR-2002 dated 13.05.2002", period: "From 2002-2003", pdf: `${docPath}MBA/1.F.No. NBA 24-BRD-ATR-2002dated 13.05.2002.pdf` },
             ]
         },
     ];
