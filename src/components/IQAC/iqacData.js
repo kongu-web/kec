@@ -491,12 +491,84 @@ export const iqacData = {
     "gallery": {
         "current": [
             {
-                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg",
-                "alt": "WhatsApp Image 2025-02-04 at 9.34.02 AM.jpeg"
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/AUTO-2.jpeg",
+                "alt": "Automobile Engineering Surveillance Audit"
             },
             {
-                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg",
-                "alt": "WhatsApp Image 2025-02-04 at 9.34.04 AM (1).jpeg"
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/Chemistry-2.jpeg",
+                "alt": "Chemistry Department Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/CSE-3.jpeg",
+                "alt": "Computer Science Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/ECE 1.jpeg",
+                "alt": "Electronics & Communication Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/FT-2.jpeg",
+                "alt": "Food Technology Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IQAC coordinator meeting.jpeg",
+                "alt": "IQAC Coordinator Meeting"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IQAC coordinator meeting1.jpeg",
+                "alt": "IQAC Coordinator Meeting Session"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IQAC coordinator meeting22.jpeg",
+                "alt": "IQAC Coordinator Meeting Review"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IT 1.jpeg",
+                "alt": "Information Technology Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/MECH-2.jpeg",
+                "alt": "Mechanical Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/OBE Programe for Faculty.jpeg",
+                "alt": "OBE Programme for Faculty"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/OBE Programe for Faculty (2).jpeg",
+                "alt": "OBE Programme for Faculty Session 2"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/OBE Programe for Faculty (3).jpeg",
+                "alt": "OBE Programme for Faculty Session 3"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/OBE Programe for Faculty (4).jpeg",
+                "alt": "OBE Programme for Faculty Session 4"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/OBE Programe for Faculty (5).jpeg",
+                "alt": "OBE Programme for Faculty Session 5"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/Orientation Progrsme for student.jpeg",
+                "alt": "Orientation Programme for Students"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/Orientation Progrsme for student (2).jpeg",
+                "alt": "Orientation Programme for Students Session 2"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/Orientation Progrsme for student (3).jpeg",
+                "alt": "Orientation Programme for Students Session 3"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/SAR meeting.jpeg",
+                "alt": "SAR Meeting"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/SAR meeting1.jpeg",
+                "alt": "SAR Meeting Session"
             }
         ],
         "archived": []
