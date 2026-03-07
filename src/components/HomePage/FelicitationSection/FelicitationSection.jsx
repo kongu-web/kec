@@ -6,6 +6,8 @@ import video2 from "../../../assets/images/HomePage/video2thum.png";
 import video3 from "../../../assets/images/HomePage/video3thum.png";
 import video4 from "../../../assets/images/HomePage/video4thum.png";
 import video5 from "../../../assets/images/HomePage/video5thum.png";
+import video6 from "../../../assets/images/HomePage/video6thum.png";
+import video7 from "../../../assets/images/HomePage/video7thum.jpeg";
 
 
 function FelicitationSection() {
@@ -21,13 +23,13 @@ function FelicitationSection() {
       id: "FxDbwNgap4k",
       title: "ENTHUSIA",
       desc: "DAY 2 GLIMPSE",
-      
+      thumb: video7,
     },
     {
       id: "B7NsaTDIJ_8",
       title: "ENTHUSIA",
       desc: "DAY 1 GLIMPSE",
-      
+     thumb: video6,
     },
     {
       id: "mOQsJJ7bc5E",
