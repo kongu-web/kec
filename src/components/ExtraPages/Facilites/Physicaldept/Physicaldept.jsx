@@ -10,6 +10,7 @@ import achi2019 from "../../../../assets/docs/Sports/Achievements 2019-20.pdf";
 import achi2021 from "../../../../assets/docs/Sports/Achievement_2021_2022.pdf";
 import achi2022 from "../../../../assets/docs/Sports/Achievement_2022_23.pdf";
 import achi2023 from "../../../../assets/docs/Sports/Achievement 2023-2024.pdf";
+import achi2024 from "../../../../assets/docs/Sports/Achievement 2024-2025.pdf";
 import Footer from "../../../HomePage/Footer/Footer";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import staff1 from "../../../../assets/images/PhysicalDept/Staff/kkannan.jpg";
@@ -49,6 +50,7 @@ const achievements = [
   { year: "2021-22", file: achi2021 },
   { year: "2022-23", file: achi2022 },
   { year: "2023-24", file: achi2023 },
+  { year: "2024-25", file: achi2024 },
 ];
 
 // Dynamically import all images from the folder
