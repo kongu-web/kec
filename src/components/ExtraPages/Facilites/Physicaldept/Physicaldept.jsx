@@ -11,8 +11,34 @@ import achi2021 from "../../../../assets/docs/Sports/Achievement_2021_2022.pdf";
 import achi2022 from "../../../../assets/docs/Sports/Achievement_2022_23.pdf";
 import achi2023 from "../../../../assets/docs/Sports/Achievement 2023-2024.pdf";
 import Footer from "../../../HomePage/Footer/Footer";
-import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
+import staff1 from "../../../../assets/images/PhysicalDept/Staff/kkannan.jpg";
+import staff2 from "../../../../assets/images/PhysicalDept/Staff/Jeyaraman.jpg";
+import staff3 from "../../../../assets/images/PhysicalDept/Staff/vkannan.jpg";
+import staff4 from "../../../../assets/images/PhysicalDept/Staff/pavithra.jpg";
+
+const staffMembers = [
+  {
+    role: "Professor-Incharge",
+    name: "Dr. K. Kannan, M.Tech, Ph.D",
+    image: staff1,
+  },
+  {
+    role: "Director of Physical Education",
+    name: "Dr. R. Jeyaraman, M.P.Ed, M.Phil, Ph.D",
+    image: staff2,
+  },
+  {
+    role: "Assistant Physical Director",
+    name: "Mr. V. Kannan, M.P.Ed, M.Phil",
+    image: staff3,
+  },
+  {
+    role: "Assistant Physical Director",
+    name: "Ms. D. Pavithra, M.P.Ed",
+    image: staff4,
+  },
+];
 
 const achievements = [
   { year: "2015-16", file: achi2015 },
@@ -144,24 +170,19 @@ const Physicaldept = () => {
             </ul>
 
             <h3>Staff</h3>
-            <ul>
-              <li>
-                <strong>Professor-Incharge:</strong>
-                <br /> Dr. K. Kannan, M.Tech, Ph.D
-              </li>
-              <li>
-                <strong>Director of Physical Education:</strong>
-                <br /> Dr. R. Jeyaraman, M.P.Ed, M.Phil, Ph.D
-              </li>
-              <li>
-                <strong>Assistant Physical Director:</strong>
-                <br /> Mr. V. Kannan, M.P.Ed, M.Phil
-              </li>
-              <li>
-                <strong>Assistant Physical Director:</strong>
-                <br /> Ms. D. Pavithra, M.P.Ed
-              </li>
-            </ul>
+            <div className="staff-grid">
+              {staffMembers.map((member, index) => (
+                <div key={index} className="staff-card">
+                  <div className="staff-image-container">
+                    <img src={member.image} alt={member.name} />
+                  </div>
+                  <div className="staff-info">
+                    <strong>{member.role}:</strong>
+                    <p>{member.name}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
 
             <h3>Contact</h3>
             <p>
