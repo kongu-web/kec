@@ -1,10 +1,10 @@
 import "./CampusLife.css";
 
-import sports from "../../../assets/images/HomePage/sports.jpg";
+import sports from "../../../assets/images/HomePage/sports.jpeg";
 import recreation from "../../../assets/images/HomePage/recreation.jpg";
 import clubs from "../../../assets/images/HomePage/clubs.jpg";
 import dining from "../../../assets/images/HomePage/dining.png";
-import cultural from "../../../assets/images/HomePage/cultural.jpg";
+import cultural from "../../../assets/images/HomePage/cultural.jpeg";
 import music from "../../../assets/images/HomePage/music.jpg";
 import healthcare from "../../../assets/images/HomePage/healthcare.png";
 import gym from "../../../assets/images/HomePage/gym.jpg";
