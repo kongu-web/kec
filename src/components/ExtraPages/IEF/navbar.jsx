@@ -34,8 +34,8 @@ const Navbar = () => {
         <ul className="navItems"> {/* Apply className */}
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('policies')}
-              onMouseLeave={() => handleMouseLeave('policies')}>
+            onMouseEnter={() => handleMouseEnter('policies')}
+            onMouseLeave={() => handleMouseLeave('policies')}>
             Policies
             {activeDropdowns.policies && (
               <ul className="dropdownMenu"> {/* Apply className */}
@@ -49,8 +49,8 @@ const Navbar = () => {
           <li><a href="/ief/docs/memberslist2024-2025.pdf" className="link">Members</a></li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('yearPlan')}
-              onMouseLeave={() => handleMouseLeave('yearPlan')}>
+            onMouseEnter={() => handleMouseEnter('yearPlan')}
+            onMouseLeave={() => handleMouseLeave('yearPlan')}>
             Year Plan
             {activeDropdowns.yearPlan && (
               <ul className="dropdownMenu">
@@ -58,15 +58,15 @@ const Navbar = () => {
                 <li><a href="/ief/docs/celebration_activities.pdf" className="link">Celebration Activities</a></li>
                 <li><a href="/ief/docs/year_plan2024-2025.pdf" className="link">KEC Year Plan 2024-2025</a></li>
                 <li className="nestedDropdown"
-                    onMouseEnter={() => handleMouseEnter('previousYearPlan')}
-                    onMouseLeave={() => handleMouseLeave('previousYearPlan')}>
+                  onMouseEnter={() => handleMouseEnter('previousYearPlan')}
+                  onMouseLeave={() => handleMouseLeave('previousYearPlan')}>
                   Previous Year Plan
                   {activeDropdowns.previousYearPlan && (
                     <ul className="nestedDropdownMenu">
-                      <li><a href="ief/docs/PreviousYear/Action PLan_2023-24.pdf" className="link">2023-2024</a></li>
-                      <li><a href="ief/docs/PreviousYear/Action PLan_2022-23.pdf" className="link">2022-2023</a></li>
-                      <li><a href="ief/docs/PreviousYear/Action PLan_2021-22.pdf" className="link">2021-2022</a></li>
-                      <li><a href="ief/docs/PreviousYear/Action PLan_2020-21.pdf"className="link">2020-2021</a></li>
+                      <li><a href="/ief/docs/PreviousYear/Action PLan_2023-24.pdf" className="link">2023-2024</a></li>
+                      <li><a href="/ief/docs/PreviousYear/Action PLan_2022-23.pdf" className="link">2022-2023</a></li>
+                      <li><a href="/ief/docs/PreviousYear/Action PLan_2021-22.pdf" className="link">2021-2022</a></li>
+                      <li><a href="/ief/docs/PreviousYear/Action PLan_2020-21.pdf" className="link">2020-2021</a></li>
                     </ul>
                   )}
                 </li>
@@ -75,8 +75,8 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('iicActivities')}
-              onMouseLeave={() => handleMouseLeave('iicActivities')}>
+            onMouseEnter={() => handleMouseEnter('iicActivities')}
+            onMouseLeave={() => handleMouseLeave('iicActivities')}>
             IIC - Activities
             {activeDropdowns.iicActivities && (
               <ul className="dropdownMenu">
@@ -87,8 +87,8 @@ const Navbar = () => {
                 <li><a href="/ief/docs/iic_2019_20.pdf" className="link">2019-2020</a></li>
                 <li><a href="/ief/docs/iic_2018_19.pdf" className="link">2018-2019</a></li>
                 <li className="nestedDropdown"
-                    onMouseEnter={() => handleMouseEnter('overallReport')}
-                    onMouseLeave={() => handleMouseLeave('overallReport')}>
+                  onMouseEnter={() => handleMouseEnter('overallReport')}
+                  onMouseLeave={() => handleMouseLeave('overallReport')}>
                   Overall Report Year
                   {activeDropdowns.overallReport && (
                     <ul className="nestedDropdownMenu">
@@ -103,8 +103,8 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('emdcActivities')}
-              onMouseLeave={() => handleMouseLeave('emdcActivities')}>
+            onMouseEnter={() => handleMouseEnter('emdcActivities')}
+            onMouseLeave={() => handleMouseLeave('emdcActivities')}>
             EMDC- Activities
             {activeDropdowns.emdcActivities && (
               <ul className="dropdownMenu">
@@ -118,14 +118,14 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('ratings')}
-              onMouseLeave={() => handleMouseLeave('ratings')}>
+            onMouseEnter={() => handleMouseEnter('ratings')}
+            onMouseLeave={() => handleMouseLeave('ratings')}>
             Ratings
             {activeDropdowns.ratings && (
               <ul className="dropdownMenu">
                 <li className="nestedDropdown"
-                    onMouseEnter={() => handleMouseEnter('nirfAriia')}
-                    onMouseLeave={() => handleMouseLeave('nirfAriia')}>
+                  onMouseEnter={() => handleMouseEnter('nirfAriia')}
+                  onMouseLeave={() => handleMouseLeave('nirfAriia')}>
                   NIRF/ARIIA
                   {activeDropdowns.nirfAriia && (
                     <ul className="nestedDropdownMenu">
@@ -137,14 +137,14 @@ const Navbar = () => {
                   )}
                 </li>
                 <li className="nestedDropdown"
-                    onMouseEnter={() => handleMouseEnter('iicRatings')}
-                    onMouseLeave={() => handleMouseLeave('iicRatings')}>
+                  onMouseEnter={() => handleMouseEnter('iicRatings')}
+                  onMouseLeave={() => handleMouseLeave('iicRatings')}>
                   IIC Ratings
                   {activeDropdowns.iicRatings && (
                     <ul className="nestedDropdownMenu">
                       <li><a href="/ief/docs/IICRating2023-2024.pdf" className="link">2023-2024</a></li>
                       <li><a href="/ief/docs/IIC_ 2022-23.pdf" className="link">2022-2023</a></li>
-                      <li><a href="/ief/docs/IIC_ 2021-22.pdf" className="link">2021-2022</a></li>
+                      <li><a href="/ief/docs/IIC_2021-22.pdf" className="link">2021-2022</a></li>
                       <li><a href="/ief/docs/RatingCertificate_2020-21.pdf" className="link">2020-2021</a></li>
                       <li><a href="/ief/docs/RatingCertificate_2019-20.pdf" className="link">2019-2020</a></li>
                       <li><a href="/ief/docs/RatingCertificate_2018-19.pdf" className="link">2018-2019</a></li>
@@ -157,8 +157,8 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('sparkFund')}
-              onMouseLeave={() => handleMouseLeave('sparkFund')}>
+            onMouseEnter={() => handleMouseEnter('sparkFund')}
+            onMouseLeave={() => handleMouseLeave('sparkFund')}>
             Spark Fund
             {activeDropdowns.sparkFund && (
               <ul className="dropdownMenu">
@@ -170,8 +170,8 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('annualReport')}
-              onMouseLeave={() => handleMouseLeave('annualReport')}>
+            onMouseEnter={() => handleMouseEnter('annualReport')}
+            onMouseLeave={() => handleMouseLeave('annualReport')}>
             Annual Report
             {activeDropdowns.annualReport && (
               <ul className="dropdownMenu">
@@ -184,8 +184,8 @@ const Navbar = () => {
           </li>
 
           <li className="dropdown"
-              onMouseEnter={() => handleMouseEnter('kapilaIpr')}
-              onMouseLeave={() => handleMouseLeave('kapilaIpr')}>
+            onMouseEnter={() => handleMouseEnter('kapilaIpr')}
+            onMouseLeave={() => handleMouseLeave('kapilaIpr')}>
             KAPILA / IPR
             {activeDropdowns.kapilaIpr && (
               <ul className="dropdownMenu">
@@ -209,33 +209,74 @@ const Navbar = () => {
       {showContactModal && (
         <div className="modal-overlay" onClick={handleCloseModal}>
           <div className="modal-content" onClick={e => e.stopPropagation()}>
-            <button className="modal-close" onClick={handleCloseModal}>&times;</button>
-            <h3>Contact Us</h3>
-            <div className="modal-grid">
-              <div className="modal-column">
-                <p>
-                  <strong>Dr. Praveen Kumar Subramanian</strong><br />
-                  Convener – Innovation and Entrepreneurship Forum KEC (IEF @ KEC)
-                </p>
+            <button className="modal-close-btn" onClick={handleCloseModal}>
+              <i className="fas fa-times"></i>
+            </button>
+
+            <div className="modal-header">
+              <h3>Connect With Us</h3>
+              <div className="modal-divider"></div>
+            </div>
+
+            <div className="modal-body-premium">
+              <div className="contact-person-card">
+                <div className="person-avatar">
+                  <i className="fas fa-user-tie"></i>
+                </div>
+                <div className="person-details">
+                  <h4>Dr. Praveen Kumar Subramanian</h4>
+                  <p>Convener – Innovation and Entrepreneurship Forum KEC (IEF @ KEC)</p>
+                </div>
               </div>
 
-              <div className="modal-column">
-                <ul className="contact-info">
-                  <li><i className="fas fa-phone"></i> Whatsapp: +91-9500-575-414</li>
-                  <li><i className="fas fa-phone-alt"></i> Call: +91-6382-650-340</li>
-                  <li><i className="fas fa-envelope"></i> Personal: <a href="mailto:praveenkumar.mts@kongu.edu">praveenkumar.mts@kongu.edu</a></li>
-                  <li><i className="fas fa-envelope"></i> Official: <a href="mailto:iickec@kongu.edu">iickec@kongu.edu</a></li>
-                </ul>
+              <div className="contact-methods-grid">
+                <a href="https://wa.me/919500575414" target="_blank" rel="noopener noreferrer" className="contact-method-card whatsapp">
+                  <div className="method-icon"><i className="fab fa-whatsapp"></i></div>
+                  <div className="method-info">
+                    <span>Whatsapp</span>
+                    <strong>+91-9500-575-414</strong>
+                  </div>
+                </a>
+
+                <a href="tel:+916382650340" className="contact-method-card phone">
+                  <div className="method-icon"><i className="fas fa-phone-alt"></i></div>
+                  <div className="method-info">
+                    <span>Call Us</span>
+                    <strong>+91-6382-650-340</strong>
+                  </div>
+                </a>
+
+                <a href="mailto:praveenkumar.mts@kongu.edu" className="contact-method-card email">
+                  <div className="method-icon"><i className="fas fa-envelope"></i></div>
+                  <div className="method-info">
+                    <span>Personal</span>
+                    <strong>praveenkumar.mts@kongu.edu</strong>
+                  </div>
+                </a>
+
+                <a href="mailto:iickec@kongu.edu" className="contact-method-card email-official">
+                  <div className="method-icon"><i className="fas fa-building"></i></div>
+                  <div className="method-info">
+                    <span>Official</span>
+                    <strong>iickec@kongu.edu</strong>
+                  </div>
+                </a>
               </div>
 
-              <div className="modal-column">
-                <ul className="social-links">
-                  <li><a href="https://www.facebook.com/iickec"><i className="fab fa-facebook"></i> Facebook</a></li>
-                  <li><a href="https://twitter.com/IicKongu"><i className="fab fa-twitter"></i> Twitter</a></li>
-                  <li><a href="https://www.instagram.com/iic_kec/"><i className="fab fa-instagram"></i> Instagram</a></li>
-                </ul>
+              <div className="social-connect">
+                <p>Follow our Journey</p>
+                <div className="social-pills">
+                  <a href="https://www.facebook.com/iickec" target="_blank" rel="noopener noreferrer" className="social-pill fb">
+                    <i className="fab fa-facebook-f"></i> Facebook
+                  </a>
+                  <a href="https://twitter.com/IicKongu" target="_blank" rel="noopener noreferrer" className="social-pill tw">
+                    <i className="fab fa-twitter"></i> Twitter
+                  </a>
+                  <a href="https://www.instagram.com/iic_kec/" target="_blank" rel="noopener noreferrer" className="social-pill ig">
+                    <i className="fab fa-instagram"></i> Instagram
+                  </a>
+                </div>
               </div>
-              <a>Designed by karan <a href="https://kongu.ac.in/kecwebteam ">kecwebteam</a></a>
             </div>
           </div>
         </div>

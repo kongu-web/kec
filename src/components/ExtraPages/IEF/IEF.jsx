@@ -1,17 +1,42 @@
+import React, { useEffect, useRef } from 'react';
 import './IEF.css';
 import Navbar from './navbar';
 import AnimatedBackground from './AnimatedBackground';
 
 const IEF = () => {
+  const sectionsRef = useRef([]);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('reveal');
+        }
+      });
+    }, { threshold: 0.15 });
+
+    sectionsRef.current.forEach(section => {
+      if (section) observer.observe(section);
+    });
+
+    return () => observer.disconnect();
+  }, []);
+
   return (
-    <div>
+    <div className="ief-page">
+      {/* Dynamic Background Elements */}
+      <div className="tech-glow glow-1"></div>
+      <div className="tech-glow glow-2"></div>
 
       <div className="land">
         <AnimatedBackground />
         <Navbar />
         <div className='info'>
-          <h1> KEC Innovation and Entrepreneurship Forum (KEC IEF)</h1>
-          <p>is a combined platform of Entrepreneurship and Management Development Centre (EMDC), Institution's Innovation Council (IIC) and Technology Business Incubator (TBI). IEF creates awareness about Entrepreneurship; kindles ideas and nurtures innovation and incubates campus startups. Initiatives of IEF are: KEC Spark Fund, Freelancer forum, Business Cell, Women Entrepreneurship Cell, Ideathon, Hackathon, Proof of Concept (PoC) & Prototype expos.
+          <h1>KEC Innovation & Entrepreneurship Forum</h1>
+          <p>
+            The ultimate convergence of <strong>EMDC</strong>, <strong>IIC</strong>, and <strong>TBI</strong>.
+            We engineer the bridge between academic research and commercial success,
+            empowering the next generation of industrial leaders.
           </p>
         </div>
       </div>
