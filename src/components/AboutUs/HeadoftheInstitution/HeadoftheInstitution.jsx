@@ -3,7 +3,7 @@ import "./HeadoftheInstitution.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import ProfilePic from "../../../assets/images/principal.jpg";
+import ProfilePic from "../../../assets/images/principal.webp";
 import Spinner from "../../Spinner";
 import "../../../App.css";
 

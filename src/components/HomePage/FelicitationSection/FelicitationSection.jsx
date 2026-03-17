@@ -1,11 +1,11 @@
 import React, { useState, useRef } from "react";
 import "./FelicitationSection.css";
 
-import video1 from "../../../assets/images/HomePage/video1thum.png";
-import video2 from "../../../assets/images/HomePage/video2thum.png";
-import video3 from "../../../assets/images/HomePage/video3thum.png";
-import video4 from "../../../assets/images/HomePage/video4thum.png";
-import video5 from "../../../assets/images/HomePage/video5thum.png";
+import video1 from "../../../assets/images/HomePage/video1thum.webp";
+import video2 from "../../../assets/images/HomePage/video2thum.webp";
+import video3 from "../../../assets/images/HomePage/video3thum.webp";
+import video4 from "../../../assets/images/HomePage/video4thum.webp";
+import video5 from "../../../assets/images/HomePage/video5thum.webp";
 
 
 function FelicitationSection() {

@@ -1,7 +1,6 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
 import './About.css';
-import vid from "../../../assets/video/campus tour.mp4"
 
 const About = () => {
   const navigate = useNavigate();
@@ -17,13 +16,6 @@ const About = () => {
           Know More
         </button>
       </div>
-      
-      {<div className="about-video">
-        <video width="100%" height="100%" controls autoPlay muted loop>
-        <source src={vid} type="video/mp4" />
-            Your browser does not support the video tag.
-        </video>
-      </div> }
     </div>
   );
 };

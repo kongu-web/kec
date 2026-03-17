@@ -6,18 +6,18 @@ import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
 import Spinner from "../../Spinner";
 
-import pe from "../../../assets/images/physicaldept.jpg";
-import hostel from "../../../assets/images/hostel.jpg";
+import pe from "../../../assets/images/physicaldept.webp";
+import hostel from "../../../assets/images/hostel.webp";
 import transport from "../../../assets/images/bus.jfif";
-import dispensary from "../../../assets/images/dispensary.jpg";
-import wifi from "../../../assets/images/wifi.jpg";
-import ambulance from "../../../assets/images/ambulance.jpg";
+import dispensary from "../../../assets/images/dispensary.webp";
+import wifi from "../../../assets/images/wifi.webp";
+import ambulance from "../../../assets/images/ambulance.webp";
 import foodcourt from "../../../assets/images/foodcourt.jfif";
 import ro from "../../../assets/images/ro.jfif";
-import amentiy from "../../../assets/images/amenity.jpg";
-import atm from "../../../assets/images/bank.jpg";
-import postoffice from "../../../assets/images/postoffice.jpg";
-import powersupply from "../../../assets/images/power.jpg";
+import amentiy from "../../../assets/images/amenity.webp";
+import atm from "../../../assets/images/bank.webp";
+import postoffice from "../../../assets/images/postoffice.webp";
+import powersupply from "../../../assets/images/power.webp";
 import library from "../../../assets/images/library.jfif";
 
 const facilities = [

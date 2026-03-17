@@ -18,13 +18,13 @@ const importImage = (id) => {
     return require(`../../../assets/images/Scroller/${id}.webp`); // Attempt to load .webp
   } catch (e) {
     try {
-      return require(`../../../assets/images/Scroller/${id}.jpg`); // Fallback to .jpg
+      return require(`../../../assets/images/Scroller/${id}.webp`); // Fallback to .jpg
     } catch (e) {
       try {
         return require(`../../../assets/images/Scroller/${id}.jfif`); // Fallback to .jfif
       } catch (e) {
         try {
-          return require(`../../../assets/images/Scroller/${id}.jpeg`); // Fallback to .png
+          return require(`../../../assets/images/Scroller/${id}.webp`); // Fallback to .png
         } catch (e) {
           return ""; // If no image is found, return an empty string (you can also return a placeholder)
         }

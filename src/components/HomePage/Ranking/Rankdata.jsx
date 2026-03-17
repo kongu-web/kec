@@ -1,7 +1,7 @@
 import React from "react";
 import "./Rankdata.css";
-import img1 from "../../../assets/images/WebAlbum/kec.jpg"
-import img2 from "../../../assets/images/WebAlbum/itpark.jpg"
+import img1 from "../../../assets/images/WebAlbum/kec.webp"
+import img2 from "../../../assets/images/WebAlbum/itpark.webp"
 
 const Rankdata = () => {
   return (
@@ -45,7 +45,7 @@ const Rankdata = () => {
             <p>Career 360, April 2024</p>
           </div>
           <div className="rankdata-item rankdata-follower">
-            <img src="https://archello.s3.eu-central-1.amazonaws.com/images/2012/09/14/PANAROMIC-20VIEW-20OF-20THE-20AUDITORIUM.1506068373.395.jpg" alt="" />
+            <img src="https://archello.s3.eu-central-1.amazonaws.com/images/2012/09/14/PANAROMIC-20VIEW-20OF-20THE-20AUDITORIUM.1506068373.395.webp" alt="" />
           </div>
         </div>
       </section>

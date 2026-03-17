@@ -88,7 +88,7 @@
   top: 1px;
   width: 20px;
   height: 20px;
-  background-image: url("../../../assets/images/Placement/star.png");
+  background-image: url("../../../assets/images/Placement/star.webp");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -105,7 +105,7 @@
   position: absolute;
   inset: 0;
   height: 520px;
-  background: url("../../../assets/images/Placement/stat_bg.png") center / 100% auto no-repeat;
+  background: url("../../../assets/images/Placement/stat_bg.webp") center / 100% auto no-repeat;
   pointer-events: none;
 }
 
@@ -460,7 +460,7 @@
 .wave-bg {
   position: absolute;
   inset: 0;
-  background: url("../../../assets/images/Placement/wave-bg.png") center / cover no-repeat;
+  background: url("../../../assets/images/Placement/wave-bg.webp") center / cover no-repeat;
   z-index: 0;
 }
 
@@ -518,7 +518,7 @@
 .card-bg {
   position: absolute;
   inset: 0;
-  background: url("../../../assets/images/Placement/blue-bg.png") center/cover no-repeat;
+  background: url("../../../assets/images/Placement/blue-bg.webp") center/cover no-repeat;
   opacity: 0.8;
   z-index: 1;
   pointer-events: none;
