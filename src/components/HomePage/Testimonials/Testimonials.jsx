@@ -236,7 +236,7 @@ const TestimonialCard = ({ testimonial, onReadMore }) => {
                 <div className="testimonial-author">
                     <div className="avatar-container">
                         <div className="avatar-wrapper">
-                            <img src={testimonial.avatar} alt={testimonial.name} />
+                            <img src={testimonial.avatar} alt={testimonial.name} loading="lazy" />
                         </div>
                         <div className="verified-badge">
                             <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.2l-3.5-3.5 1.4-1.4L9 13.4l7.1-7.1 1.4 1.4z" /></svg>
@@ -413,7 +413,7 @@ const Testimonials = () => {
                         </button>
                         <div className="testi-modal-header">
                             <div className="avatar-wrapper">
-                                <img src={activeModal.avatar} alt={activeModal.name} />
+                                <img src={activeModal.avatar} alt={activeModal.name} loading="lazy" />
                             </div>
                             <div className="author-info">
                                 <h4>{activeModal.name}</h4>

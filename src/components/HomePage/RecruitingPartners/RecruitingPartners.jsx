@@ -19,7 +19,7 @@ export default function RecruitingPartners() {
         <div className="scroll-row scroll-right">
           {[...coreEngineering, ...coreEngineering].map((img, i) => (
             <div className="logo-card" key={`core-${i}`}>
-              <img src={img} alt="Core Engineering Company" />
+              <img src={img} alt="Core Engineering Company" loading="lazy" />
             </div>
           ))}
         </div>
@@ -28,7 +28,7 @@ export default function RecruitingPartners() {
         <div className="scroll-row scroll-left">
           {[...itSoftware, ...itSoftware].map((img, i) => (
             <div className="logo-card" key={`it-${i}`}>
-              <img src={img} alt="IT & Software Company" />
+              <img src={img} alt="IT & Software Company" loading="lazy" />
             </div>
           ))}
         </div>
@@ -37,7 +37,7 @@ export default function RecruitingPartners() {
         <div className="scroll-row scroll-right">
           {[...management, ...management].map((img, i) => (
             <div className="logo-card" key={`mgmt-${i}`}>
-              <img src={img} alt="Management Company" />
+              <img src={img} alt="Management Company" loading="lazy" />
             </div>
           ))}
         </div>

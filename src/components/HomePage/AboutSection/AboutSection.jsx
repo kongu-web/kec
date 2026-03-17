@@ -12,7 +12,7 @@ function AboutSection() {
       <div className="about-wrapper">
         {/* Left Video Card */}
         <div className="about-left">
-          <img src={campusImg} alt="Campus" />
+          <img src={campusImg} alt="Campus" loading="lazy" />
           {/* <div className="video-overlay">
             <div className="video-text">
               <span>Watch Our Story</span>

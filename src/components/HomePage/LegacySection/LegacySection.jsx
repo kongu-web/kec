@@ -40,7 +40,7 @@ export default function LegacySection() {
       <div className="legacy-right">
         <div className="legacy-card light">
           <div className="icon-circle">
-            <img src={award} alt="Award" />
+            <img src={award} alt="Award" loading="lazy" />
           </div>
           <h3>
             AAAA <span>Grade</span>
@@ -50,19 +50,19 @@ export default function LegacySection() {
 
         <div className="legacy-card dark">
           <div className="cap">
-            <img src={GraduationCap} alt="Graduation Cap" />
+            <img src={GraduationCap} alt="Graduation Cap" loading="lazy" />
           </div>
           <h3>Band 101–150</h3>
 
           <small>National Ranking in India</small>
           <div className="nirf">
-            <img src={nirf} alt="nirf" />
+            <img src={nirf} alt="nirf" loading="lazy" />
           </div>
         </div>
 
         <div className="legacy-card blue">
           <div className="cap">
-            <img src={Group} alt="Group" />
+            <img src={Group} alt="Group" loading="lazy" />
           </div>
           <h1>
             126<sup>th</sup>
@@ -73,7 +73,7 @@ export default function LegacySection() {
 
         <div className="legacy-card light">
           <div className="cap">
-            <img src={careergrowth} alt="Capcareergrowth" />
+            <img src={careergrowth} alt="Capcareergrowth" loading="lazy" />
           </div>
           <h2>
             53<sup>rd</sup> <span>Position</span>

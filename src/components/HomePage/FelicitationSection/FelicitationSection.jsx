@@ -95,7 +95,7 @@ function FelicitationSection() {
       <div className="video-card">
         {!showVideo ? (
           <div className="video-poster" onClick={() => setShowVideo(true)}>
-            <img src={activeVideo.thumb} alt={activeVideo.title} />
+            <img src={activeVideo.thumb} alt={activeVideo.title} loading="lazy" />
             <button className="play-btn">▶</button>
 
             <div className="video-overlay">
@@ -107,7 +107,7 @@ function FelicitationSection() {
           <div className="video-frame">
             {!playVideo ? (
               <div className="video-poster" onClick={() => setPlayVideo(true)}>
-                <img src={activeVideo.thumb} alt={activeVideo.title} />
+                <img src={activeVideo.thumb} alt={activeVideo.title} loading="lazy" />
 
                 <div className="video-overlay">
                   <h3>{activeVideo.title}</h3>
@@ -149,7 +149,7 @@ function FelicitationSection() {
               className={`thumb-card ${activeIndex === i ? "active-thumb" : ""}`}
               onClick={() => handleThumbnailClick(i)}
             >
-              <img src={item.thumb} alt={item.title} />
+              <img src={item.thumb} alt={item.title} loading="lazy" />
 
               <div className="thumb-overlay">
                 <button className="thumb-play">▶</button>

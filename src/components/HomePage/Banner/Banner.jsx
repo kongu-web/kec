@@ -41,7 +41,12 @@ export default function Banner() {
       >
         {images.map((img, index) => (
           <SwiperSlide key={index}>
-            <img src={img} className="banner-image" alt="Campus" />
+            <img 
+              src={img} 
+              className="banner-image" 
+              alt="Campus" 
+              loading={index === 0 ? "eager" : "lazy"} 
+            />
           </SwiperSlide>
         ))}
       </Swiper>
