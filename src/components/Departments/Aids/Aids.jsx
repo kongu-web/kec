@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./aids.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/aids.jpg";
+import Deptimg from "../../../assets/images/Department Banner/aids.webp";
 import Depthomeimg from "../../../assets/images/Department Banner/aids_home.jpg";
 
 const NAV_ITEMS = [
