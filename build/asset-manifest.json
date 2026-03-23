@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dec3b2b9.css",
-    "main.js": "/static/js/main.42857270.js",
+    "main.js": "/static/js/main.257e7ed7.js",
     "static/js/488.0d31fab4.chunk.js": "/static/js/488.0d31fab4.chunk.js",
     "static/media/campus tour.mp4": "/static/media/campus tour.6a3f81033de7f43a2d2e.mp4",
     "static/media/video6thum.png": "/static/media/video6thum.bfaa1b9922e4941b97a9.png",
@@ -32,7 +32,6 @@
     "static/media/Independence Day Celebrations at KEC on 15.8.2025.JPG": "/static/media/Independence Day Celebrations at KEC on 15.8.2025.09c960c955a0a4a16b44.JPG",
     "static/media/kvitbuilding.jpg": "/static/media/kvitbuilding.cb2c2debef96d852113c.jpg",
     "static/media/6.png": "/static/media/6.749b6b647cc3bcb2ad75.png",
-    "static/media/11.png": "/static/media/11.b27a86c2f1d3c1ad3e91.png",
     "static/media/Techno - Cultural Fest Celebrations at KEC on 21.8.2025 & 22.8.2025.JPG": "/static/media/Techno - Cultural Fest Celebrations at KEC on 21.8.2025 & 22.8.2025.4c0ccfa351353b9feaeb.JPG",
     "static/media/Techno - Cultural Fest.JPG": "/static/media/Techno - Cultural Fest.4c0ccfa351353b9feaeb.JPG",
     "static/media/41st Annual Day Celebrations at KEC on 20.3.2025.JPG": "/static/media/41st Annual Day Celebrations at KEC on 20.3.2025.1d9103d715d0b4a18266.JPG",
@@ -60,6 +59,7 @@
     "static/media/ac-5_18yrs.pdf": "/static/media/ac-5_18yrs.303a2a37bd687a86893d.pdf",
     "static/media/MCA-001-1995-96 first approval 16.08.1995.pdf": "/static/media/MCA-001-1995-96 first approval 16.08.1995.6f67fc8c3956d8d5e902.pdf",
     "static/media/MBA-003-1996-97 ext of approval increase in intkae 40 to 60 06.11.1996.pdf": "/static/media/MBA-003-1996-97 ext of approval increase in intkae 40 to 60 06.11.1996.f9160cf05ef7f68d5355.pdf",
+    "static/media/11.png": "/static/media/11.8d1ef3304b47393c9546.png",
     "static/media/MBA-001-1994-96 firt approval 31.03.1994.pdf": "/static/media/MBA-001-1994-96 firt approval 31.03.1994.9141810ec7834007c4c5.pdf",
     "static/media/MCA-002-1996-97 ext of approval 01.07.1996.pdf": "/static/media/MCA-002-1996-97 ext of approval 01.07.1996.57eb71f67aa98aa8a8c6.pdf",
     "static/media/csr2016.pdf": "/static/media/csr2016.d41d496b9d1dde2f62be.pdf",
@@ -319,6 +319,7 @@
     "static/media/an-mithilai.png": "/static/media/an-mithilai.df55cf9ddd6bc53d9b43.png",
     "static/media/9.png": "/static/media/9.8be6bbec6f717e698bd7.png",
     "static/media/aaa-it.jpeg": "/static/media/aaa-it.16da7913e4283b8c94a7.jpeg",
+    "static/media/foodtech.webp": "/static/media/foodtech.327e95f3e4d50e5fcb12.webp",
     "static/media/am-Best Performing Institution Innovation Council from the South Zone.pdf": "/static/media/am-Best Performing Institution Innovation Council from the South Zone.032a2ac1dcf05d9e26e8.pdf",
     "static/media/eie.png": "/static/media/eie.ee51707103e6d9ed38b9.png",
     "static/media/permanent_affiliation_2014_15_ME_MTS.pdf": "/static/media/permanent_affiliation_2014_15_ME_MTS.4273338d4170833c648e.pdf",
@@ -1204,7 +1205,6 @@
     "static/media/Kongu Engineering College, Perundurai Inked MoU with Adani Cement on 10.10.2025.jpeg": "/static/media/Kongu Engineering College, Perundurai Inked MoU with Adani Cement on 10.10.2025.d093ff0574b93d8024ab.jpeg",
     "static/media/bf-conventioncentre.jpg": "/static/media/bf-conventioncentre.92dff0c0828c40cbd27c.jpg",
     "static/media/ab-EEE Department of Kongu Engineering College awarded as the Best Industry linked Technical Institute by AICTE CII Survey.pdf": "/static/media/ab-EEE Department of Kongu Engineering College awarded as the Best Industry linked Technical Institute by AICTE CII Survey.77e970a658232462b56e.pdf",
-    "static/media/foodtech.jpg": "/static/media/foodtech.f928a9a394482a576f90.jpg",
     "static/media/delta-eee.jpg": "/static/media/delta-eee.36dbd3eeeab423147352.jpg",
     "static/media/jgc-eie.jpeg": "/static/media/jgc-eie.d6acf4be5da01130bfdb.jpeg",
     "static/media/delta-eie1.jpeg": "/static/media/delta-eie1.3e516a0cb2878bb22be3.jpeg",
@@ -1502,11 +1502,11 @@
     "static/media/doctoral.svg": "/static/media/doctoral.c3e0af1a36dc15c8803ae4f75ac89525.svg",
     "static/media/syllabus.svg": "/static/media/syllabus.442d59515a332811bb5778b0e5519d18.svg",
     "main.dec3b2b9.css.map": "/static/css/main.dec3b2b9.css.map",
-    "main.42857270.js.map": "/static/js/main.42857270.js.map",
+    "main.257e7ed7.js.map": "/static/js/main.257e7ed7.js.map",
     "488.0d31fab4.chunk.js.map": "/static/js/488.0d31fab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dec3b2b9.css",
-    "static/js/main.42857270.js"
+    "static/js/main.257e7ed7.js"
   ]
 }
