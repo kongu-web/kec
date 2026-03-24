@@ -70,9 +70,9 @@ const HomePage = () => {
       <EndBanner/>
       <Contact/>
       <Footer/>
+      <FlashNews/>
+      <recuritment/> */}
       <Homepopup />
-      <FlashNews/> 
-      {/* <recuritment/> */}
       <Footer />
     </div>
   );
