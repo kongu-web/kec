@@ -209,7 +209,7 @@ const Navbar = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  ⚡ 38th Graduation Day
+                  ⚡ 38th Graduation Day Registration Link
                 </a>
               </div>
 
