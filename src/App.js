@@ -140,6 +140,7 @@ import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 
 import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife';
+import ClubDetail from './components/Common/CellClubTemplate/ClubDetail';
 
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 import EventDetails from './components/HomePage/EventsSection/EventDetails.jsx';
@@ -302,6 +303,9 @@ const App = () => {
 
           <Route path="/recruitment" element={<Recruitment />} />
           <Route path="/kecwebteam" element={<Webteam />} />
+
+          {/* New Clubs & Cells Dynamic Route */}
+          <Route path="/clubs/:id" element={<ClubDetail />} />
 
           {/* IQAC Routes */}
           <Route path="/iqac" element={<IqacHome />} />
