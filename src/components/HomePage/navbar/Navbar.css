@@ -37,7 +37,9 @@
 
   /* INCREASE LEFT WIDTH */
   flex: 0 0 620px;
-  /* change this value */
+  width: 680px;
+  min-width: 680px;
+  max-width: 680px;
 }
 
 /* ANGLED CUT */

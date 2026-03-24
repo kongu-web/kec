@@ -50,6 +50,7 @@ const HomePage = () => {
       <CampusLife />
       <RecruitingPartners />
       <Testimonials />
+      <FlashNews/> 
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}
@@ -70,7 +71,7 @@ const HomePage = () => {
       <Contact/>
       <Footer/>
       <Homepopup />
-      {/* <FlashNews/> */}
+      <FlashNews/> 
       {/* <recuritment/> */}
       <Footer />
     </div>

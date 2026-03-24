@@ -186,7 +186,7 @@ const Navbar = () => {
       <div className="header-container">
         <div className="top-utility-bar">
           <div className="utility-left">
-            <div class="marquee">
+            <div className="marquee">
               <div className="marquee-track">
                 <a
                   href="https://kongu.ac.in/admission"
@@ -202,6 +202,14 @@ const Navbar = () => {
                   rel="noopener noreferrer"
                 >
                   ⚡ International conference - NG-CAST 2026
+                </a>
+
+                 <a
+                  href="https://grad2026.kongu.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ⚡ 38th Graduation Day Registration Link
                 </a>
               </div>
 
