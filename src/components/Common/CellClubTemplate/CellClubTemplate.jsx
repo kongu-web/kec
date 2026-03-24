@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './CellClubTemplate.css';
+import { useParams, Navigate, Link } from 'react-router-dom';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import { FaPhoneAlt, FaEnvelope, FaFilePdf, FaExternalLinkAlt, FaCalendarAlt, FaStar, FaUsers, FaLightbulb, FaHistory, FaCheckCircle, FaFileDownload } from 'react-icons/fa';
+import { FaPhoneAlt, FaEnvelope, FaFilePdf, FaExternalLinkAlt, FaCalendarAlt, FaStar, FaUsers, FaLightbulb, FaHistory, FaCheckCircle, FaFileDownload, FaChevronRight } from 'react-icons/fa';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -49,8 +50,20 @@ const CellClubTemplate = ({
 
             {/* 1. Name of the Cell / Club - Hero Section */}
             <header className="cell-club-hero" data-aos="fade">
-                <div className="breadcrumb">Home / Cells & Clubs / {name}</div>
-                <h1 data-aos="zoom-in">{name}</h1>
+                <div className="hero-overlay"></div>
+                <div className="hero-content">
+                    <div className="breadcrumb" data-aos="fade-down">
+                        <Link to="/" style={{ color: 'inherit', textDecoration: 'none' }}>Home</Link> / 
+                        <Link to="/campus-life" style={{ color: 'inherit', textDecoration: 'none' }}> Campus Life</Link> / 
+                        <span> {name}</span>
+                    </div>
+                    <h1 data-aos="zoom-in">{name}</h1>
+                    <div className="hero-actions" data-aos="fade-up" data-aos-delay="200">
+                        <Link to="/student-centric-activities" className="back-to-all-btn">
+                            <FaChevronRight className="rotate-180" /> Back to All Clubs & Cells
+                        </Link>
+                    </div>
+                </div>
                 <div className="hero-scroll-indicator">
                     <div className="mouse"></div>
                 </div>
