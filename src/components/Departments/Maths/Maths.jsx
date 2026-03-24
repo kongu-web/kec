@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./maths.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/math.avif";
+import Deptimg from "../../../assets/images/Department Banner/maths.webp";
 
 const NAV_ITEMS = [
   "Home",

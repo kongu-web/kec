@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./ct-ug.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/ctug.jpg";
+import Deptimg from "../../../assets/images/Department Banner/ctug.webp";
 
 const NAV_ITEMS = [
   "Home",
