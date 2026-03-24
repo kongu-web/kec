@@ -27,6 +27,7 @@ const FlashNews = () => {
               </a>
             </span>
             
+            
           </div>
         </div>
       )}

@@ -3,6 +3,7 @@ import annualDayImg from "../../../assets/images/Events/Annual Day.png";
 import sportsDayImg from "../../../assets/images/Events/sports.jpeg";
 import swaramImg from "../../../assets/images/Events/Swaram 2025.jpg";
 import ITConference from "../../../assets/images/Events/ITConference.jpeg";
+import graduationday from "../../../assets/images/Events/graduationday.jpg";
 
 const eventsData = [
     {
@@ -60,7 +61,18 @@ const eventsData = [
         time: "10:00 AM - 4:00 PM",
         category: "Conference",
         department: "IT",
-        popupImage: ITConference, // Add your popup image source here if available
+    },
+    {
+        id: 6,
+        image:  graduationday,
+        date: "April 25, 2026",
+        title: "Graduation Day",
+        description: "38th Graduation Day.",
+        location: "Convention Center",
+        time: "9:00 AM - 4:00 PM",
+        category: "College Function",
+        department: "College Level",
+        popupImage: "graduationday", // Add your popup image source here if available
     }
 ];
 
