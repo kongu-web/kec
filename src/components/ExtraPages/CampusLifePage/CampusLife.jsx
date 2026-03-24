@@ -24,7 +24,7 @@ import gallery2 from '../../../assets/images/library.jfif';
 import gallery3 from '../../../assets/images/hostel.jpg';
 import gallery4 from '../../../assets/images/foodcourt.jfif';
 import gallery5 from '../../../assets/images/Events/E-Horizon-2025.jpg';
-import gallery6 from '../../../assets/images/Events/Pongal Celebration.jpg';
+import gallery6 from '../../../assets/images/Events/Pongal Celebration.webp';
 import gallery7 from '../../../assets/images/Events/Kongu Trophy.png';
 import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.JPG';
 import enthusia from '../../../assets/images/WebAlbum/swaram2026.jpeg';
