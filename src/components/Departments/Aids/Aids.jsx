@@ -7,11 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./aids.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/aids.webp";
-<<<<<<< HEAD
 import Depthomeimg from "../../../assets/images/Department Banner/aids_home.webp";
-=======
-import Depthomeimg from "../../../assets/images/Department Banner/aids_home.jpg";
->>>>>>> cellclub
 
 const NAV_ITEMS = [
   "Home",
