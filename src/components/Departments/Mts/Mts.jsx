@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./mechatronics.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mts1.jpeg";
+import Depthomeimg from "../../../assets/images/Department Banner/mts_home.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -110,12 +111,9 @@ const Mts = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
-                    alt="Department"
-                  />
+                      src={Depthomeimg}
+                      alt="Department"
+                 />
                 </div>
               </div>
 

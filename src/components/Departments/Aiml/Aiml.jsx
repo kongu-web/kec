@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./aiml.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/aiml.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/aiml_home.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -110,12 +111,9 @@ const Aiml = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
-                    alt="Department"
-                  />
+                      src={Depthomeimg}
+                      alt="Department"
+                   />
                 </div>
               </div>
 

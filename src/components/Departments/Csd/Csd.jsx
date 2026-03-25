@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./csd.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/csd.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/csd_home.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -110,11 +111,8 @@ const Csd = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
-                    alt="Department"
+                      src={Depthomeimg}
+                      alt="Department"
                   />
                 </div>
               </div>
