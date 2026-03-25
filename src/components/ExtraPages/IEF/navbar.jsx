@@ -53,14 +53,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('policies')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('policies')}>
-            Policies
-=======
             onMouseLeave={() => handleMouseLeave('policies')}
             onClick={() => handleDropdownClick('policies')}>
             Policies ▾
->>>>>>> cellclub
             {activeDropdowns.policies && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/kisp2020.pdf" className="link">KEC Innovation and Startup Policy - KISP 2020</a></li>
@@ -74,14 +69,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('yearPlan')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('yearPlan')}>
-            Year Plan
-=======
             onMouseLeave={() => handleMouseLeave('yearPlan')}
             onClick={() => handleDropdownClick('yearPlan')}>
             Year Plan ▾
->>>>>>> cellclub
             {activeDropdowns.yearPlan && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/calendar_activities2024-2025.pdf" className="link">Calendar Activities</a></li>
@@ -106,14 +96,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('iicActivities')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('iicActivities')}>
-            IIC - Activities
-=======
             onMouseLeave={() => handleMouseLeave('iicActivities')}
             onClick={() => handleDropdownClick('iicActivities')}>
             IIC - Activities ▾
->>>>>>> cellclub
             {activeDropdowns.iicActivities && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/iicactivities_2023_24.pdf" className="link">2023-2024</a></li>
@@ -140,14 +125,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('emdcActivities')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('emdcActivities')}>
-            EMDC- Activities
-=======
             onMouseLeave={() => handleMouseLeave('emdcActivities')}
             onClick={() => handleDropdownClick('emdcActivities')}>
             EMDC Activities ▾
->>>>>>> cellclub
             {activeDropdowns.emdcActivities && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/EMDC_2023_24.pdf" className="link">2023-2024</a></li>
@@ -161,14 +141,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('ratings')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('ratings')}>
-            Ratings
-=======
             onMouseLeave={() => handleMouseLeave('ratings')}
             onClick={() => handleDropdownClick('ratings')}>
             Ratings ▾
->>>>>>> cellclub
             {activeDropdowns.ratings && (
               <ul className="dropdownMenu">
                 <li className="nestedDropdown"
@@ -206,14 +181,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('sparkFund')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('sparkFund')}>
-            Spark Fund
-=======
             onMouseLeave={() => handleMouseLeave('sparkFund')}
             onClick={() => handleDropdownClick('sparkFund')}>
             Spark Fund ▾
->>>>>>> cellclub
             {activeDropdowns.sparkFund && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/Sparkfund_Application.pdf" className="link">Application Form</a></li>
@@ -225,14 +195,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('annualReport')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('annualReport')}>
-            Annual Report
-=======
             onMouseLeave={() => handleMouseLeave('annualReport')}
             onClick={() => handleDropdownClick('annualReport')}>
             Annual Report ▾
->>>>>>> cellclub
             {activeDropdowns.annualReport && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/AnnualReport_2023-24.pdf" className="link">2023-2024</a></li>
@@ -245,14 +210,9 @@ const Navbar = () => {
 
           <li className="dropdown"
             onMouseEnter={() => handleMouseEnter('kapilaIpr')}
-<<<<<<< HEAD
-            onMouseLeave={() => handleMouseLeave('kapilaIpr')}>
-            KAPILA / IPR
-=======
             onMouseLeave={() => handleMouseLeave('kapilaIpr')}
             onClick={() => handleDropdownClick('kapilaIpr')}>
             KAPILA / IPR ▾
->>>>>>> cellclub
             {activeDropdowns.kapilaIpr && (
               <ul className="dropdownMenu">
                 <li><a href="/ief/docs/KAPILA1.pdf" className="link">Activity - 1</a></li>

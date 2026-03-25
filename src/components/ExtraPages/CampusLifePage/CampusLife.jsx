@@ -16,35 +16,20 @@ import {
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
-<<<<<<< HEAD
 import heroBg from '../../../assets/images/kecglobe.webp';
 import culturalImg from '../../../assets/images/slider-background.webp';
 import techImg from '../../../assets/images/cc.webp';
 import sportsImg from '../../../assets/images/physicaldept.webp';
 import socialImg from '../../../assets/images/HomePage/healthcare.webp';
 import gallery1 from '../../../assets/images/itpark.webp';
-=======
-import techImg from '../../../assets/images/WebAlbum/hackathon.jpeg';
-import sportsImg from '../../../assets/images/WebAlbum/sports.jpeg';
-import socialImg from '../../../assets/images/HomePage/healthcare.png';
-import gallery1 from '../../../assets/images/itpark.jpg';
->>>>>>> cellclub
 import gallery2 from '../../../assets/images/library.jfif';
 import gallery3 from '../../../assets/images/hostel.webp';
 import gallery4 from '../../../assets/images/foodcourt.jfif';
-<<<<<<< HEAD
 import gallery5 from '../../../assets/images/Events/E-Horizon-2025.webp';
 import gallery6 from '../../../assets/images/Events/Pongal Celebration.webp';
 import gallery7 from '../../../assets/images/Events/Kongu Trophy.webp';
 import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.webp';
 import enthusia from '../../../assets/images/WebAlbum/enthusia.webp';
-=======
-import gallery5 from '../../../assets/images/Events/E-Horizon-2025.jpg';
-import gallery6 from '../../../assets/images/Events/Pongal Celebration.webp';
-import gallery7 from '../../../assets/images/Events/Kongu Trophy.png';
-import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.JPG';
-import enthusia from '../../../assets/images/WebAlbum/swaram2026.jpeg';
->>>>>>> cellclub
 
 // Using placeholders for avatars if specific ones aren't available
 // import avatar1 from '../../../assets/images/principal.webp';

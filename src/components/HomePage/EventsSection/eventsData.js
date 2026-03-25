@@ -1,18 +1,10 @@
-<<<<<<< HEAD
 import eHorizonImg from "../../../assets/images/Events/E-Horizon-2025.webp";
 import annualDayImg from "../../../assets/images/Events/Annual Day.webp";
 import sportsDayImg from "../../../assets/images/Events/Sports Day.webp";
 import swaramImg from "../../../assets/images/Events/Swaram 2025.webp";
 import ITConference from "../../../assets/images/Events/ITConference.webp";
-=======
-import eHorizonImg from "../../../assets/images/Events/E-Horizon-2025.jpg";
-import annualDayImg from "../../../assets/images/Events/Annual Day.png";
-import sportsDayImg from "../../../assets/images/Events/sports.jpeg";
-import swaramImg from "../../../assets/images/Events/Swaram 2025.jpg";
-import ITConference from "../../../assets/images/Events/ITConference.jpeg";
 import graduationday from "../../../assets/images/Events/graduationday.jpg";
 import popupImage from "../../../assets/images/Events/popupimg.jpeg";
->>>>>>> cellclub
 
 const eventsData = [
     {

@@ -197,20 +197,12 @@ body {
   background-color: rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
-<<<<<<< HEAD
-  padding: 10px 20px;
-=======
   padding: 5px 10px;
->>>>>>> cellclub
   border-radius: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
-  width: 98%;
-=======
   width: 99%;
->>>>>>> cellclub
   max-width: 1500px;
   position: fixed;
   top: 24px;
@@ -221,26 +213,18 @@ body {
   box-shadow: 0 0 30px rgba(255, 217, 0, 0.1);
 }
 
-<<<<<<< HEAD
-=======
 /* Hide mobile-only elements on desktop */
 .nav-brand,
 .hamburger-btn {
   display: none;
 }
-
->>>>>>> cellclub
 .navItems {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   list-style: none;
-<<<<<<< HEAD
-  gap: 4px;
-=======
   gap: 3px;
->>>>>>> cellclub
   margin: 0;
   padding: 0;
   font-family: 'Share Tech', sans-serif;
@@ -423,8 +407,6 @@ body {
   line-height: 1.1;
 }
 
-<<<<<<< HEAD
-=======
 /* Justify all body copy inside sections */
 .sec-content ul li,
 .sec-content p,
@@ -432,8 +414,6 @@ body {
   text-align: justify;
   hyphens: auto;
 }
-
->>>>>>> cellclub
 /* Feature Grid Design */
 .feature-grid {
   display: grid;
@@ -991,95 +971,6 @@ body {
   transform-origin: left;
 }
 
-@media (max-width: 768px) {
-<<<<<<< HEAD
-  .modal-content {
-    padding: 2.5rem 2rem;
-  }
-
-  .contact-person-card {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .contact-methods-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .modal-header h3 {
-    font-size: 2rem;
-  }
-}
-
-/* Global Tech Background Orbs */
-.tech-glow {
-  position: fixed;
-  width: 600px;
-  height: 600px;
-  border-radius: 50%;
-  filter: blur(120px);
-  z-index: -1;
-  opacity: 0.1;
-  pointer-events: none;
-}
-
-.glow-1 {
-  top: -100px;
-  right: -200px;
-  background: var(--accent);
-}
-
-.glow-2 {
-  bottom: -200px;
-  left: -200px;
-  background: var(--primary);
-}
-
-/* Responsive adjustments */
-@media (max-width: 1024px) {
-
-  .sec1,
-  .sec2,
-  .sec3 {
-    grid-template-columns: 1fr;
-    padding: 3rem;
-    text-align: center;
-  }
-
-  .sec1 img,
-  .sec2 img,
-  .sec3 img {
-    height: 300px;
-    margin: 0 auto;
-  }
-
-  .sec1 h2,
-  .sec2 h2,
-  .sec3 h2 {
-    border-left: none;
-    border-bottom: 5px solid var(--accent);
-    padding-left: 0;
-    padding-bottom: 15px;
-    display: inline-block;
-=======
-  .modal-content {
-    padding: 2.5rem 2rem;
-  }
-
-  .contact-person-card {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .contact-methods-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .modal-header h3 {
-    font-size: 2rem;
-  }
-}
-
 /* Global Tech Background Orbs */
 .tech-glow {
   position: fixed;
@@ -1411,7 +1302,5 @@ body {
 
   .social-pill {
     padding: 8px 14px;
-    font-size: 0.85rem;
->>>>>>> cellclub
   }
 }
