@@ -32,7 +32,11 @@ const IEF = () => {
         <AnimatedBackground />
         <Navbar />
         <div className='info'>
+<<<<<<< HEAD
           <h1>KEC Innovation & Entrepreneurship Forum</h1>
+=======
+          <h1>KEC Innovation &amp; Entrepreneurship Forum</h1>
+>>>>>>> cellclub
           <p>
             The ultimate convergence of <strong>EMDC</strong>, <strong>IIC</strong>, and <strong>TBI</strong>.
             We engineer the bridge between academic research and commercial success,
@@ -41,6 +45,7 @@ const IEF = () => {
         </div>
       </div>
 
+<<<<<<< HEAD
       <div className='sec1'>
         <img src="ief/images/ief.webp" alt="image" loading="lazy" width="800" height="600" />
         <h2>Entrepreneurship and Management Development Centre (EMDC)</h2>
@@ -71,7 +76,56 @@ const IEF = () => {
         <a href="https://tbi-kec.org/" target="blank">Click here for more details</a>
       </div>
 
+=======
+      <div className="sections-wrapper">
 
+        {/* ── EMDC ── */}
+        <div className='sec1' ref={el => sectionsRef.current[0] = el}>
+          <div className="sec-image">
+            <img src="/ief/images/ief.webp" alt="EMDC image" loading="lazy" width="619" height="624" />
+          </div>
+          <div className="sec-content">
+            <h2>Entrepreneurship and Management Development Centre (EMDC)</h2>
+            <ul className="sec-list">
+              <li>EMDC established during 1993 with funds from Central government creates awareness among students, faculty and staff about the value of entrepreneurship and its role in career development</li>
+              <li>EMDC promotes entrepreneurship as a viable career and provides pre-incubation support to innovators&nbsp;/ students to culminate in campus start-ups&nbsp;/ new ventures</li>
+              <li>EMDC comprises of Overall Coordinator, Departmental Faculty&nbsp;Coordinators, Departmental Student&nbsp;Coordinators and student members</li>
+            </ul>
+          </div>
+        </div>
+
+        {/* ── IIC ── */}
+        <div className='sec2' ref={el => sectionsRef.current[1] = el}>
+          <div className="sec-content">
+            <h2>Institution's Innovation Council</h2>
+            <ul className="sec-list">
+              <li>IIC @ KEC established during 2018-19 under the guidance of MoE Innovation Cell (MIC) works in accordance with the Annual calendar activities prescribed by the MIC and promotes innovation-led activities</li>
+              <li>IIC organizes periodic workshops&nbsp;/ seminars&nbsp;/ interactions with entrepreneurs, eco-system partners, investors, Hackathons, Idea competitions and Prototype Expos, mini-challenges etc. with the involvement of industries</li>
+              <li>IIC KEC comprises of President, Vice President, Convenor, Faculty Coordinator, Innovation Ambassadors, Faculty and Student Coordinators for various activities, Departmental Faculty Coordinators and student members</li>
+            </ul>
+            <a href="https://iic.mic.gov.in/" target="_blank" rel="noopener noreferrer" className="detail-link">
+              <span className="link-text">Explore More Details ›</span>
+            </a>
+          </div>
+        </div>
+
+        {/* ── TBI ── */}
+        <div className='sec3' ref={el => sectionsRef.current[2] = el}>
+          <div className="sec-content">
+            <h2>Technology Business Incubator @ Kongu Engineering College (TBI@KEC)</h2>
+            <ul className="sec-list">
+              <li>TBI@KEC was established in 2003 as a joint venture by KEC with the generous grant-in-aid and support of NSTEDB/DST, Govt. of India (at a total project cost of Rs.3.95 Crore) for nurturing and promoting innovation and entrepreneurship development in cutting-edge technology areas (with thrust in Electronics &amp; ICT)</li>
+              <li>TBI in an area of 26,800 sq.ft provides total support to the incubatees right from "Concept to Commercialization" under various stages</li>
+              <li>TBI conducts capacity-building programs, validates problem-solution fit &amp; product-market fit, provides mentoring support, financial assistance, networking with other agencies, helps in pitching to national &amp; international investors, and provides infrastructure &amp; lab support</li>
+            </ul>
+            <a href="https://tbi-kec.org/" target="_blank" rel="noopener noreferrer" className="detail-link">
+              <span className="link-text">Explore More Details ›</span>
+            </a>
+          </div>
+        </div>
+>>>>>>> cellclub
+
+      </div>
     </div>
   );
 };

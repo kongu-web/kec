@@ -20,8 +20,8 @@ const IqacHierarchy = () => {
                         </p>
                     </div>
 
-                    {/* <div className="iqac-actions">
-                        <a href="/files/iqac/iqac chart.pdf" download className="iqac-btn-download">
+                    <div className="iqac-actions">
+                        <a href="/files/iqac/IQAC chart.JPG" download className="iqac-btn-download">
                             <span>Download Chart</span>
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -29,20 +29,22 @@ const IqacHierarchy = () => {
                                 <line x1="12" y1="15" x2="12" y2="3"></line>
                             </svg>
                         </a>
-                    </div> */}
+                    </div>
 
                     <div className="iqac-pdf-container">
                         <div className="iqac-pdf-header-bar">
                             <div className="iqac-window-dot dot-red"></div>
                             <div className="iqac-window-dot dot-yellow"></div>
                             <div className="iqac-window-dot dot-green"></div>
-                            <span style={{ marginLeft: '15px', color: '#64748b', fontSize: '13px', fontWeight: '500' }}>iqac-chart.pdf</span>
+                            <span style={{ marginLeft: '15px', color: '#64748b', fontSize: '13px', fontWeight: '500' }}>iqac-chart.jpg</span>
                         </div>
-                        <iframe
-                            src="/files/iqac/iqac2026.pdf"
-                            className="iqac-pdf-frame"
-                            title="Organization Hierarchy"
-                        ></iframe>
+                        <div className="iqac-image-wrapper">
+                            <img
+                                src="/files/iqac/IQAC chart.JPG"
+                                className="iqac-hierarchy-image"
+                                alt="IQAC Organizational Chart"
+                            />
+                        </div>
                     </div>
 
                 </div>

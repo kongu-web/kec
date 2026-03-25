@@ -15,17 +15,18 @@ const FlashNews = () => {
             ×
           </button>
           <div className="flash-news-content">
-            <span>
+            {/* <span>
               <a href="https://kongu.ac.in/admission"target="_blank" rel="noopener noreferrer">
                 📢  BE/BTech Admission 2025-26 [TNEA Category]
               </a>
             </span>
-            <br/>
+            <br/> */}
              <span>
-              <a href="https://kecidealab.kongu.edu/"target="_blank" rel="noopener noreferrer">
-                📢  KEC - AICTE Idea Lab
+              <a href="https://grad2026.kongu.edu/"target="_blank" rel="noopener noreferrer">
+                📢  38th Graduation Day Registration Link
               </a>
             </span>
+            
             
           </div>
         </div>

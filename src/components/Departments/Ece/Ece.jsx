@@ -345,7 +345,7 @@ const Ece = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/ece/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -422,3 +422,4 @@ const Ece = () => {
 };
 
 export default Ece;
+

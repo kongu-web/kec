@@ -58,14 +58,21 @@
     background: #22c55e;
 }
 
-.iqac-pdf-frame {
+.iqac-image-wrapper {
     width: 100%;
-    height: 850px;
-    border: none;
+    background: #f8fafc;
     border-radius: 0 0 12px 12px;
-    background: #f1f5f9;
-    /* Fallback */
-    display: block;
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.iqac-hierarchy-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    background: white;
 }
 
 /* Action Bar */

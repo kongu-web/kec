@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./maths.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/math.avif";
+import Deptimg from "../../../assets/images/Department Banner/maths.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -281,7 +281,7 @@ const Maths = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/maths/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -329,3 +329,4 @@ const Maths = () => {
 };
 
 export default Maths;
+

@@ -52,11 +52,10 @@ const OfficeBearers = () => {
           {/* Patron and Life Members */}
           {[
             "THIRU. P. BALASUBRAMANIAM, M.L.",
-            "THIRU. R. M. DEVARAJA",
+            // "THIRU. R. M. DEVARAJA",
             // "THIRU. C. DEVARAJAN, B.E.",
             "THIRU. P. DHARANIDHARAN, B.B.A(Aus)",
             "TMT. HARITHA KUMARASAMY, B.E.",
-           
             "THIRU. C. KANAGASABAPATHY, B.A.",            
             // "THIRU. “VISHAL BHARATH” M. MURUGESAN",
             "THIRU. S. MUTHUSAMY, M.A.",
@@ -72,6 +71,7 @@ const OfficeBearers = () => {
             "THIRU. SKM. SHREE SHIVKUMAR, B.E.",
             "THIRU. SIVAKUMAR MURUGESAN, B.Tech., M.B.A.",
             "THIRU. V. R. SIVASUBRAMANIAN, B.Com., B.L.",
+            "THIRU. D. SRIDHAR, B.Com., LLB",
             "THIRU. M. M. SUNDRESH, B.A., B.L.",
             "THIRU. V. K. SWAMINATHAN, B.Com.",
             "THIRU. D. VENKATESHWARAN, B.E., M.S. (U.S.A)"            

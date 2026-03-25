@@ -50,6 +50,7 @@ const HomePage = () => {
       <CampusLife />
       <RecruitingPartners />
       <Testimonials />
+      <FlashNews/> 
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}
@@ -69,9 +70,9 @@ const HomePage = () => {
       <EndBanner/>
       <Contact/>
       <Footer/>
+      <FlashNews/>
+      <recuritment/> */}
       <Homepopup />
-      {/* <FlashNews/> */}
-      {/* <recuritment/> */}
       <Footer />
     </div>
   );

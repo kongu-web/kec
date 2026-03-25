@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./mechanical.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/mech.jfif";
+import Deptimg from "../../../assets/images/Department Banner/mech.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -344,7 +344,7 @@ const Mech = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/mechanical/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -466,3 +466,4 @@ const Mech = () => {
 };
 
 export default Mech;
+

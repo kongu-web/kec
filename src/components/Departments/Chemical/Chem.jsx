@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./chemical.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/chem.jfif";
+import Deptimg from "../../../assets/images/Department Banner/chem.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -301,7 +301,7 @@ const Chem = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/chemical/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -386,3 +386,4 @@ const Chem = () => {
 };
 
 export default Chem;
+
