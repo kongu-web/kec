@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./eee.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/eee.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/eee_home.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -109,13 +110,10 @@ const Eee = () => {
                   </p>
                 </div>
                 <div className="about-image">
-                  <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
-                    alt="Department"
-                  />
+              <img
+                  src={Depthomeimg}
+                  alt="Department"
+              />
                 </div>
               </div>
 

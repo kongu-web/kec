@@ -62,7 +62,7 @@ const eventsData = [
         time: "10:00 AM - 4:00 PM",
         category: "Conference",
         department: "IT",
-        popupImage: popupImage, // Add your popup image source here if available
+        // Add your popup image source here if available
     },
     {
         id: 6,
@@ -74,6 +74,7 @@ const eventsData = [
         time: "9:00 AM - 4:00 PM",
         category: "College Function",
         department: "College Level",
+         popupImage: popupImage,
     }
 ];
 

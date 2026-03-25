@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./it.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/it.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/it_home.webp";
 import VrTour from "./VrTour/VrTour";
 
 const NAV_ITEMS = [
@@ -111,11 +112,8 @@ const It = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
-                    alt="Department"
+                  src={Depthomeimg}
+                  alt="Department"
                   />
                 </div>
               </div>
