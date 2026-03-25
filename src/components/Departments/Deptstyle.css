@@ -299,9 +299,9 @@ body {
 }
 
 .stat-value {
-  font-size: 1.4rem;
+  font-size: 1.4rem !important;
   font-weight: 700;
-  color: #1a3c87;
+  color: #1a3c87 !important;
   line-height: 1.2;
   position: relative;
   z-index: 1;

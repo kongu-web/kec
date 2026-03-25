@@ -299,7 +299,7 @@ const Chem = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/chemical/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -384,3 +384,4 @@ const Chem = () => {
 };
 
 export default Chem;
+

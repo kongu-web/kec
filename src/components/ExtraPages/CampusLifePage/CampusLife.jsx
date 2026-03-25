@@ -9,15 +9,13 @@ import 'aos/dist/aos.css';
 
 // React Icons
 import {
-    FaBook, FaUtensils, FaBed, FaFlask, FaHeartbeat, FaBasketballBall, FaWifi, FaBus,
+    FaBook, FaUtensils, FaBed, FaHeartbeat, FaBasketballBall, FaWifi, FaBus,
     FaMusic, FaPalette, FaCamera, FaTheaterMasks, FaNewspaper, FaCode, FaLeaf, FaComments, FaChess, FaRocket,
-    FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaQuoteLeft,
+    FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaGlobe, FaChevronRight,
     FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt, FaTimes
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
-import heroBg from '../../../assets/images/kecglobe.png';
-import culturalImg from '../../../assets/images/slider-background.jpg';
 import techImg from '../../../assets/images/WebAlbum/hackathon.jpeg';
 import sportsImg from '../../../assets/images/WebAlbum/sports.jpeg';
 import socialImg from '../../../assets/images/HomePage/healthcare.png';
@@ -68,16 +66,14 @@ const CampusLife = () => {
     ];
 
     const clubs = [
-        { icon: <FaMusic />, name: "Music Club", color: "#4facfe" },
-        { icon: <FaPalette />, name: "Arts Club", color: "#a18cd1" },
-        { icon: <FaCamera />, name: "Photography", color: "#43e97b" },
-        { icon: <FaTheaterMasks />, name: "Drama Club", color: "#fa709a" },
-        { icon: <FaNewspaper />, name: "Journalism", color: "#fbc2eb" },
-        { icon: <FaCode />, name: "Coding Club", color: "#667eea" },
-        { icon: <FaLeaf />, name: "Eco Club", color: "#fd1d1d" },
-        { icon: <FaComments />, name: "Debate Club", color: "#fa709a" },
-        { icon: <FaChess />, name: "Chess Club", color: "#11998e" },
-        { icon: <FaRocket />, name: "Innovation", color: "#00c6ff" },
+        { icon: <FaCode />, name: "Coding Forum", color: "#667eea", path: "/clubs/coding-forum" },
+        { icon: <FaMusic />, name: "Cultural & Music", color: "#4facfe", path: "/clubs/cultural-music" },
+        { icon: <FaPalette />, name: "Ravi Varma", color: "#a18cd1", path: "/clubs/ravi-varma-creative" },
+        { icon: <FaCamera />, name: "Photography", color: "#43e97b", path: "/clubs/photography-design" },
+        { icon: <FaLeaf />, name: "Pasumaivanam", color: "#fd1d1d", path: "/clubs/pasumaivanam" },
+        { icon: <FaTrophy />, name: "Quiz Club", color: "#fbc2eb", path: "/clubs/quiz-club" },
+        { icon: <FaRocket />, name: "Robotics", color: "#00c6ff", path: "/clubs/robotics-club" },
+        { icon: <FaGlobe />, name: "Tamil Mandram", color: "#11998e", path: "/clubs/tamil-mandram" },
     ];
 
     const highlights = [
@@ -250,13 +246,18 @@ const CampusLife = () => {
                 </div>
                 <div className="clubs-grid">
                     {clubs.map((club, index) => (
-                        <div className="club-card" key={index} data-aos="flip-up" data-aos-delay={index * 50}>
+                        <Link to={club.path} className="club-card" key={index} data-aos="flip-up" data-aos-delay={index * 50} style={{ textDecoration: 'none', color: 'inherit' }}>
                             <div className="club-icon" style={{ backgroundColor: club.color }}>
                                 {club.icon}
                             </div>
                             <h3>{club.name}</h3>
-                        </div>
+                        </Link>
                     ))}
+                </div>
+                <div style={{ textAlign: 'center', marginTop: '40px' }} data-aos="fade-up">
+                    <Link to="/student-centric-activities" className="sc-card-footer" style={{ justifyContent: 'center', fontSize: '1.1rem' }}>
+                        View All 27+ Clubs & Cells <FaChevronRight size={14} style={{ marginLeft: '10px' }} />
+                    </Link>
                 </div>
             </section>
 
