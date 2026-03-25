@@ -1,5 +1,90 @@
 export const clubsData = [
     {
+        id: "innovation-hub",
+        name: "KEC Innovation & Startup Hub",
+        category: "Technical",
+        about: "Dedicated to fostering a culture of innovation and entrepreneurship among students by providing technical resources, mentorship, and a platform to launch startups.",
+        objectives: [
+            "To provide a collaborative workspace for student inventors.",
+            "To mentor students on intellectual property and patent filing.",
+            "To connect student startups with venture capitalists and investors.",
+            "To conduct regular hackathons and idea pitching competitions."
+        ],
+        coordinators: [
+            {
+                name: "Dr. A. Arulvel",
+                designation: "Chief Coordinator",
+                dept: "Innovation Center",
+                phone: "+91 98765 43210",
+                email: "arulvel@kongu.ac.in",
+                image: "" // Mock image
+            },
+            {
+                name: "Mr. S. Karthick",
+                designation: "Assistant Coordinator",
+                dept: "CSE",
+                phone: "+91 91234 56789",
+                email: "karthick.cse@kongu.ac.in",
+                image: "" // Mock image
+            }
+        ],
+        activitiesSummary: {
+            "2025-26": 5,
+            "2024-25": 12,
+            "2023-24": 8
+        },
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Idea Pitchathon 2026",
+                        date: "Feb 10, 2026",
+                        details: "A campus-wide competition where students pitched their startup ideas to a panel of industrial experts."
+                    },
+                    {
+                        sno: 2,
+                        name: "Workshop on Patent Filing",
+                        date: "Jan 15, 2026",
+                        details: "Hands-on session on how to transform academic projects into legal patents."
+                    }
+                ]
+            },
+            {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Startup Expo",
+                        date: "Oct 22, 2024",
+                        details: "Showcasing student-led ventures to local business leaders and alumni."
+                    }
+                ]
+            }
+        ],
+        gallery: [
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800"
+        ],
+        driveLink: "https://drive.google.com/sample",
+        reports: [
+            { title: "Annual Innovation Report 2025", link: "#" },
+            { title: "Success Stories: KEC Startups", link: "#" }
+        ],
+        otherDetails: "The Hub is accessible 24/7 for registered members working on approved projects."
+    },
+    {
         id: "citizen-consumer",
         name: "Citizen Consumer / Legal Literacy Club",
         category: "Social",

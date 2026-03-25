@@ -131,7 +131,11 @@ const Civil = () => {
                   <div className="stat-label">M.E Structural</div>
                   <div className="stat-value">{autoData.me || "N/A"}</div>
                 </div>
-                <div className="dept-stat-card">
+                <div 
+                  className="dept-stat-card" 
+                  onClick={() => autoData.rnd?.academic && window.open(`${autoData.rnd.academic}?tab=supervisors`, "_blank")}
+                  style={{ cursor: "pointer" }}
+                >
                   <div className="stat-label">Ph.D</div>
                   <div className="stat-value">{autoData.phd || "N/A"}</div>
                 </div>

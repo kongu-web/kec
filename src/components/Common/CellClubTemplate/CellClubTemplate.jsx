@@ -52,11 +52,11 @@ const CellClubTemplate = ({
             <header className="cell-club-hero" data-aos="fade">
                 <div className="hero-overlay"></div>
                 <div className="hero-content">
-                    <div className="breadcrumb" data-aos="fade-down">
+                    {/* <div className="breadcrumb" data-aos="fade-down">
                         <Link to="/" style={{ color: 'inherit', textDecoration: 'none' }}>Home</Link> / 
                         <Link to="/campus-life" style={{ color: 'inherit', textDecoration: 'none' }}> Campus Life</Link> / 
                         <span> {name}</span>
-                    </div>
+                    </div> */}
                     <h1 data-aos="zoom-in">{name}</h1>
                     <div className="hero-actions" data-aos="fade-up" data-aos-delay="200">
                         <Link to="/student-centric-activities" className="back-to-all-btn">
@@ -113,23 +113,26 @@ const CellClubTemplate = ({
                 </div>
                 <div className="cc-coordinators-grid">
                     {coordinators.map((coord, index) => (
-                        <div className="coordinator-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                            <div className="coordinator-img">
-                                {coord.image ? <img src={coord.image} alt={coord.name} /> : <FaUsers />}
+                        <div className="coordinator-profile-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
+                            <div className="profile-img-container">
+                                {coord.image ? <img src={coord.image} alt={coord.name} /> : <div className="default-avatar"><FaUsers /></div>}
                             </div>
-                            <h4>{coord.name}</h4>
-                            <span className="coordinator-role">{coord.designation} <br /> {coord.dept}</span>
-                            <div className="coordinator-contact">
-                                {coord.phone && (
-                                    <div className="contact-item">
-                                        <FaPhoneAlt /> <span>{coord.phone}</span>
-                                    </div>
-                                )}
-                                {coord.email && (
-                                    <div className="contact-item">
-                                        <FaEnvelope /> <span>{coord.email}</span>
-                                    </div>
-                                )}
+                            <div className="profile-details">
+                                <h4>{coord.name}</h4>
+                                <span className="profile-designation">{coord.designation}</span>
+                                <p className="profile-dept">{coord.dept}</p>
+                                <div className="profile-contacts">
+                                    {coord.email && (
+                                        <a href={`mailto:${coord.email}`} title={coord.email} className="contact-link">
+                                            <FaEnvelope />
+                                        </a>
+                                    )}
+                                    {coord.phone && (
+                                        <a href={`tel:${coord.phone}`} title={coord.phone} className="contact-link">
+                                            <FaPhoneAlt />
+                                        </a>
+                                    )}
+                                </div>
                             </div>
                         </div>
                     ))}
@@ -138,15 +141,19 @@ const CellClubTemplate = ({
 
             {/* 4. Activities Summary Band (Counts) */}
             <section className="activity-summary-section">
-                <div className="cc-section-header" data-aos="fade-up" style={{ color: 'white' }}>
+                <div className="cc-section-header" data-aos="fade-up" style={{ color: 'white', textAlign: 'center' }}>
                     <h2 style={{ color: 'white' }}>Activity Summary</h2>
-                    <p style={{ color: 'rgba(255,255,255,0.7)' }}>Programs conducted over the last three academic years</p>
+                    <p style={{ color: 'rgba(255,255,255,0.7)', marginLeft: 'auto', marginRight: 'auto' }}>Programs conducted over the last three academic years</p>
                 </div>
-                <div className="activity-summary-grid">
+                <div className="summary-stat-grid">
                     {Object.entries(activitiesSummary).map(([year, count], index) => (
-                        <div className="summary-item" key={year} data-aos="zoom-in" data-aos-delay={index * 100}>
-                            <span className="summary-count">{count}</span>
-                            <span className="summary-label">Programs in {year}</span>
+                        <div className="stat-card" key={year} data-aos="fade-up" data-aos-delay={index * 100}>
+                            <div className="club-stat-value">{count}</div>
+                            <div className="stat-label">
+                                <span className="year-label">{year}</span>
+                                <span className="desc-label">Programs Conducted</span>
+                            </div>
+                            <div className="stat-decoration"></div>
                         </div>
                     ))}
                 </div>
@@ -171,31 +178,24 @@ const CellClubTemplate = ({
                     ))}
                 </div>
 
-                <div className="table-wrapper" data-aos="fade-up">
-                    <table className="events-table">
-                        <thead>
-                            <tr>
-                                <th className="s-no">S.No</th>
-                                <th className="event-name">Name of the Event</th>
-                                <th className="event-date">Date</th>
-                                <th className="event-details">Details</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {eventDetails.find(ed => ed.year === activeYear)?.events.map((event, idx) => (
-                                <tr key={idx}>
-                                    <td className="s-no">{event.sno || idx + 1}</td>
-                                    <td className="event-name">{event.name}</td>
-                                    <td className="event-date">{event.date}</td>
-                                    <td className="event-details">{event.details}</td>
-                                </tr>
-                            )) || (
-                                <tr>
-                                    <td colSpan="4" style={{ textAlign: 'center', padding: '40px' }}>No events recorded for this academic year.</td>
-                                </tr>
-                            )}
-                        </tbody>
-                    </table>
+                <div className="event-list-container" data-aos="fade-up">
+                    {eventDetails.find(ed => ed.year === activeYear)?.events.map((event, idx) => (
+                        <div className="event-item-card" key={idx}>
+                            <div className="event-sno">{event.sno || idx + 1}</div>
+                            <div className="event-main-info">
+                                <h4 className="event-title">{event.name}</h4>
+                                <div className="event-meta">
+                                    <span className="event-date-tag"><FaCalendarAlt /> {event.date}</span>
+                                </div>
+                                {event.details && <p className="event-description">{event.details}</p>}
+                            </div>
+                        </div>
+                    )) || (
+                        <div className="no-events-placeholder">
+                            <FaHistory size={40} />
+                            <p>No events recorded for this academic year.</p>
+                        </div>
+                    )}
                 </div>
             </section>
 
