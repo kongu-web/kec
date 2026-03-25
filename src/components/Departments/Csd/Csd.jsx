@@ -301,7 +301,7 @@ const Csd = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/csd/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -349,3 +349,4 @@ const Csd = () => {
 };
 
 export default Csd;
+

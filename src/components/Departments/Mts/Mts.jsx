@@ -309,7 +309,7 @@ const Mts = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/mts/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                         className={faculty.name === "Dr.K.Krishnamurthy" ? "zoom-fit" : ""}
                       />
                     </div>
@@ -358,3 +358,4 @@ const Mts = () => {
 };
 
 export default Mts;
+

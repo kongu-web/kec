@@ -281,7 +281,7 @@ const Maths = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/maths/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -329,3 +329,4 @@ const Maths = () => {
 };
 
 export default Maths;
+

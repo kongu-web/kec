@@ -313,7 +313,7 @@ const Ctug = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/ct-ug/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -361,3 +361,4 @@ const Ctug = () => {
 };
 
 export default Ctug;
+

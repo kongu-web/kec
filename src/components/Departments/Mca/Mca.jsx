@@ -301,7 +301,7 @@ const Mca = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/mca/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -349,3 +349,4 @@ const Mca = () => {
 };
 
 export default Mca;
+
