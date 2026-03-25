@@ -70,183 +70,199 @@ const CellClubTemplate = ({
             </header>
 
             {/* 3. Aim and objectives of the club/cell */}
-            <section className="cc-section" id="about">
-                <div className="cc-about-grid">
-                    <div className="cc-about-text" data-aos="fade-right">
-                        <div className="cc-section-header" style={{ textAlign: 'left' }}>
-                            <h2>Aim & Objectives</h2>
+            {((about && about !== "Aim and objectives will be described here.") || (objectives && objectives.length > 0)) && (
+                <section className="cc-section" id="about">
+                    <div className="cc-about-grid">
+                        <div className="cc-about-text" data-aos="fade-right">
+                            <div className="cc-section-header" style={{ textAlign: 'left' }}>
+                                <h2>Aim & Objectives</h2>
+                            </div>
+                            {about && about !== "Aim and objectives will be described here." && <p className="cc-intro-text">{about}</p>}
+                            {objectives && objectives.length > 0 && (
+                                <ul className="cc-objectives-list">
+                                    {objectives.map((obj, index) => (
+                                        <li key={index} data-aos="fade-up" data-aos-delay={index * 100}>
+                                            {obj}
+                                        </li>
+                                    ))}
+                                </ul>
+                            )}
                         </div>
-                        <p className="cc-intro-text">{about}</p>
-                        <ul className="cc-objectives-list">
-                            {objectives.map((obj, index) => (
-                                <li key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                                    {obj}
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-                    <div className="cc-about-stats" data-aos="fade-left">
-                        <div className="cc-about-card">
-                            <h3>Quick Status</h3>
-                            <div className="status-item">
-                                <FaCheckCircle className="status-icon active" />
-                                <span>Active for Academic Year 2025-26</span>
-                            </div>
-                            <div className="status-item">
-                                <FaUsers className="status-icon" />
-                                <span>Open to all Departments</span>
-                            </div>
-                            <div className="status-item">
-                                <FaLightbulb className="status-icon" />
-                                <span>Innovation Focused</span>
+                        <div className="cc-about-stats" data-aos="fade-left">
+                            <div className="cc-about-card">
+                                <h3>Quick Status</h3>
+                                <div className="status-item">
+                                    <FaCheckCircle className="status-icon active" />
+                                    <span>Active for Academic Year 2025-26</span>
+                                </div>
+                                <div className="status-item">
+                                    <FaUsers className="status-icon" />
+                                    <span>Open to all Departments</span>
+                                </div>
+                                <div className="status-item">
+                                    <FaLightbulb className="status-icon" />
+                                    <span>Innovation Focused</span>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
+            )}
 
             {/* 2. Coordinators name with full details */}
-            <section className="cc-section bg-light" id="coordinators">
-                <div className="cc-section-header" data-aos="fade-up">
-                    <h2>Our Coordinators</h2>
-                    <p>Leadership team driving the vision of {name}</p>
-                </div>
-                <div className="cc-coordinators-grid">
-                    {coordinators.map((coord, index) => (
-                        <div className="coordinator-profile-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                            <div className="profile-img-container">
-                                {coord.image ? <img src={coord.image} alt={coord.name} /> : <div className="default-avatar"><FaUsers /></div>}
-                            </div>
-                            <div className="profile-details">
-                                <h4>{coord.name}</h4>
-                                <span className="profile-designation">{coord.designation}</span>
-                                <p className="profile-dept">{coord.dept}</p>
-                                <div className="profile-contacts">
-                                    {coord.email && (
-                                        <a href={`mailto:${coord.email}`} title={coord.email} className="contact-link">
-                                            <FaEnvelope />
-                                        </a>
-                                    )}
-                                    {coord.phone && (
-                                        <a href={`tel:${coord.phone}`} title={coord.phone} className="contact-link">
-                                            <FaPhoneAlt />
-                                        </a>
-                                    )}
+            {coordinators && coordinators.length > 0 && (
+                <section className="cc-section bg-light" id="coordinators">
+                    <div className="cc-section-header" data-aos="fade-up">
+                        <h2>Our Coordinators</h2>
+                        <p>Leadership team driving the vision of {name}</p>
+                    </div>
+                    <div className="cc-coordinators-grid">
+                        {coordinators.map((coord, index) => (
+                            <div className="coordinator-profile-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
+                                <div className="profile-img-container">
+                                    {coord.image ? <img src={coord.image} alt={coord.name} /> : <div className="default-avatar"><FaUsers /></div>}
                                 </div>
-                            </div>
-                        </div>
-                    ))}
-                </div>
-            </section>
-
-            {/* 4. Activities Summary Band (Counts) */}
-            <section className="activity-summary-section">
-                <div className="cc-section-header" data-aos="fade-up" style={{ color: 'white', textAlign: 'center' }}>
-                    <h2 style={{ color: 'white' }}>Activity Summary</h2>
-                    <p style={{ color: 'rgba(255,255,255,0.7)', marginLeft: 'auto', marginRight: 'auto' }}>Programs conducted over the last three academic years</p>
-                </div>
-                <div className="summary-stat-grid">
-                    {Object.entries(activitiesSummary).map(([year, count], index) => (
-                        <div className="stat-card" key={year} data-aos="fade-up" data-aos-delay={index * 100}>
-                            <div className="club-stat-value">{count}</div>
-                            <div className="stat-label">
-                                <span className="year-label">{year}</span>
-                                <span className="desc-label">Programs Conducted</span>
-                            </div>
-                            <div className="stat-decoration"></div>
-                        </div>
-                    ))}
-                </div>
-            </section>
-
-            {/* Event Details Tables (Year-wise) */}
-            <section className="cc-section cc-events-section" id="events">
-                <div className="cc-section-header" data-aos="fade-up">
-                    <h2>Event Details</h2>
-                    <p>Comprehensive list of activities and achievements</p>
-                </div>
-
-                <div className="year-tabs" data-aos="fade-up">
-                    {availableYears.map(year => (
-                        <button
-                            key={year}
-                            className={`year-tab ${activeYear === year ? 'active' : ''}`}
-                            onClick={() => setActiveYear(year)}
-                        >
-                            {year}
-                        </button>
-                    ))}
-                </div>
-
-                <div className="event-list-container" data-aos="fade-up">
-                    {eventDetails.find(ed => ed.year === activeYear)?.events.map((event, idx) => (
-                        <div className="event-item-card" key={idx}>
-                            <div className="event-sno">{event.sno || idx + 1}</div>
-                            <div className="event-main-info">
-                                <h4 className="event-title">{event.name}</h4>
-                                <div className="event-meta">
-                                    <span className="event-date-tag"><FaCalendarAlt /> {event.date}</span>
+                                <div className="profile-details">
+                                    <h4>{coord.name}</h4>
+                                    <span className="profile-designation">{coord.designation}</span>
+                                    <p className="profile-dept">{coord.dept}</p>
+                                    <div className="profile-contacts">
+                                        {coord.email && (
+                                            <a href={`mailto:${coord.email}`} title={coord.email} className="contact-link">
+                                                <FaEnvelope />
+                                            </a>
+                                        )}
+                                        {coord.phone && (
+                                            <a href={`tel:${coord.phone}`} title={coord.phone} className="contact-link">
+                                                <FaPhoneAlt />
+                                            </a>
+                                        )}
+                                    </div>
                                 </div>
-                                {event.details && <p className="event-description">{event.details}</p>}
-                            </div>
-                        </div>
-                    )) || (
-                        <div className="no-events-placeholder">
-                            <FaHistory size={40} />
-                            <p>No events recorded for this academic year.</p>
-                        </div>
-                    )}
-                </div>
-            </section>
-
-            {/* 5. Photos or videos required for the gallery section */}
-            <section className="cc-section" id="gallery">
-                <div className="cc-section-header" data-aos="fade-up">
-                    <h2>Gallery</h2>
-                    <p>Moments captured from our various events and sessions</p>
-                </div>
-                {gallery && gallery.length > 0 ? (
-                    <div className="gallery-grid">
-                        {gallery.map((img, index) => (
-                            <div className="gallery-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
-                                <img src={img} alt={`${name} Gallery ${index}`} />
                             </div>
                         ))}
                     </div>
-                ) : (
-                    <div style={{ textAlign: 'center', color: '#666', padding: '20px' }}>
-                        <p>No featured photos yet. Check our shared drive album below!</p>
-                    </div>
-                )}
-                <div style={{ textAlign: 'center', marginTop: '30px' }}>
-                    <a href={driveLink || "#"} target="_blank" rel="noopener noreferrer" className="cc-btn-link">
-                        <FaExternalLinkAlt /> View Drive Album
-                    </a>
-                </div>
-            </section>
+                </section>
+            )}
 
-            {/* 6. Any other relevant details (Reports) */}
-            <section className="cc-section bg-light" id="reports">
-                <div className="cc-section-header" data-aos="fade-up">
-                    <h2>Reports & Documentation</h2>
-                    <p>Official reports and relevant details of cell activities</p>
-                </div>
-                <div className="reports-grid">
-                    {reports.map((report, index) => (
-                        <a href={report.link} className="report-link-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                            <FaFilePdf className="report-icon" />
-                            <span>{report.title}</span>
-                            <FaFileDownload style={{ marginLeft: 'auto' }} />
-                        </a>
-                    ))}
-                    {otherDetails && (
-                        <div className="other-details-card" data-aos="fade-up">
-                            <h3>Other Information</h3>
-                            <p>{otherDetails}</p>
+            {/* 4. Activities Summary Band (Counts) */}
+            {activitiesSummary && Object.values(activitiesSummary).some(count => count > 0) && (
+                <section className="activity-summary-section">
+                    <div className="cc-section-header" data-aos="fade-up" style={{ color: 'white', textAlign: 'center' }}>
+                        <h2 style={{ color: 'white' }}>Activity Summary</h2>
+                        <p style={{ color: 'rgba(255,255,255,0.7)', marginLeft: 'auto', marginRight: 'auto' }}>Programs conducted over the last three academic years</p>
+                    </div>
+                    <div className="summary-stat-grid">
+                        {Object.entries(activitiesSummary).map(([year, count], index) => (
+                            <div className="stat-card" key={year} data-aos="fade-up" data-aos-delay={index * 100}>
+                                <div className="club-stat-value">{count}</div>
+                                <div className="stat-label">
+                                    <span className="year-label">{year}</span>
+                                    <span className="desc-label">Programs Conducted</span>
+                                </div>
+                                <div className="stat-decoration"></div>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+            )}
+
+            {/* Event Details Tables (Year-wise) */}
+            {eventDetails && eventDetails.length > 0 && (
+                <section className="cc-section cc-events-section" id="events">
+                    <div className="cc-section-header" data-aos="fade-up">
+                        <h2>Event Details</h2>
+                        <p>Comprehensive list of activities and achievements</p>
+                    </div>
+
+                    <div className="year-tabs" data-aos="fade-up">
+                        {availableYears.map(year => (
+                            <button
+                                key={year}
+                                className={`year-tab ${activeYear === year ? 'active' : ''}`}
+                                onClick={() => setActiveYear(year)}
+                            >
+                                {year}
+                            </button>
+                        ))}
+                    </div>
+
+                    <div className="event-list-container" data-aos="fade-up">
+                        {eventDetails.find(ed => ed.year === activeYear)?.events.map((event, idx) => (
+                            <div className="event-item-card" key={idx}>
+                                <div className="event-sno">{event.sno || idx + 1}</div>
+                                <div className="event-main-info">
+                                    <h4 className="event-title">{event.name}</h4>
+                                    <div className="event-meta">
+                                        <span className="event-date-tag"><FaCalendarAlt /> {event.date}</span>
+                                    </div>
+                                    {event.details && <p className="event-description">{event.details}</p>}
+                                </div>
+                            </div>
+                        )) || (
+                            <div className="no-events-placeholder">
+                                <FaHistory size={40} />
+                                <p>No events recorded for this academic year.</p>
+                            </div>
+                        )}
+                    </div>
+                </section>
+            )}
+
+            {/* 5. Photos or videos required for the gallery section */}
+            {((gallery && gallery.length > 0) || driveLink) && (
+                <section className="cc-section" id="gallery">
+                    <div className="cc-section-header" data-aos="fade-up">
+                        <h2>Gallery</h2>
+                        <p>Moments captured from our various events and sessions</p>
+                    </div>
+                    {gallery && gallery.length > 0 ? (
+                        <div className="gallery-grid">
+                            {gallery.map((img, index) => (
+                                <div className="gallery-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
+                                    <img src={img} alt={`${name} Gallery ${index}`} />
+                                </div>
+                            ))}
+                        </div>
+                    ) : (
+                        <div style={{ textAlign: 'center', color: '#666', padding: '20px' }}>
+                            <p>No featured photos yet. Check our shared drive album below!</p>
                         </div>
                     )}
-                </div>
-            </section>
+                    {driveLink && (
+                        <div style={{ textAlign: 'center', marginTop: '30px' }}>
+                            <a href={driveLink} target="_blank" rel="noopener noreferrer" className="cc-btn-link">
+                                <FaExternalLinkAlt /> View Drive Album
+                            </a>
+                        </div>
+                    )}
+                </section>
+            )}
+
+            {/* 6. Any other relevant details (Reports) */}
+            {((reports && reports.length > 0) || otherDetails) && (
+                <section className="cc-section bg-light" id="reports">
+                    <div className="cc-section-header" data-aos="fade-up">
+                        <h2>Reports & Documentation</h2>
+                        <p>Official reports and relevant details of cell activities</p>
+                    </div>
+                    <div className="reports-grid">
+                        {reports && reports.length > 0 && reports.map((report, index) => (
+                            <a href={report.link} className="report-link-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
+                                <FaFilePdf className="report-icon" />
+                                <span>{report.title}</span>
+                                <FaFileDownload style={{ marginLeft: 'auto' }} />
+                            </a>
+                        ))}
+                        {otherDetails && (
+                            <div className="other-details-card" data-aos="fade-up">
+                                <h3>Other Information</h3>
+                                <p>{otherDetails}</p>
+                            </div>
+                        )}
+                    </div>
+                </section>
+            )}
 
             <Footer />
         </div>
