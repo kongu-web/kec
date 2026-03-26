@@ -299,7 +299,7 @@ const Eie = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/eie/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -347,3 +347,4 @@ const Eie = () => {
 };
 
 export default Eie;
+

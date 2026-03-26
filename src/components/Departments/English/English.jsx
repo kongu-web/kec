@@ -309,7 +309,7 @@ const English = () => {
                     <div className="faculty-photo">
                       <img
                         src={require(`../../../assets/images/faculty images/english/${faculty.image}`)}
-                        alt={faculty.name}
+                        alt={faculty.name} loading="lazy"
                       />
                     </div>
 
@@ -357,3 +357,4 @@ const English = () => {
 };
 
 export default English;
+
