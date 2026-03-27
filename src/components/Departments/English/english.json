@@ -6,13 +6,12 @@
   "progoffr": "Ph.D",
   "vision": "To become an excellent centre in terms of teaching and research for enhancing the language and communication skills of students from engineering, technology and management fields and for transforming them into responsible professionals for meeting national and global requirements.",
   "mission": [
-      "The department is committed to producing world-class graduates by enhancing their listening, speaking, reading and writing skills along with employability and life skills required for higher education, career enhancement and entrepreneurship using innovative teaching and learning methodologies."
+    "The department is committed to producing world-class graduates by enhancing their listening, speaking, reading and writing skills along with employability and life skills required for higher education, career enhancement and entrepreneurship using innovative teaching and learning methodologies."
   ],
   "objective": [
     "To train students to master the art of communication, develop their language skills and make them “Industry ready”, employing Outcome Based Education parameters.",
     "To provide students with a curriculum that will help them to develop their language skills."
   ],
-
   "highlights": {
     "Department has 18 faculty members (Ph.D – 10 and Pursuing Ph.D – 7) and 4 Hindi Teachers.": true,
     "Recognized as a research centre by Anna University, Chennai for Ph.D Full time and Part time.": true,
@@ -70,32 +69,30 @@
     "A one day virtual workshop on “Dynamic Skills Ecosystems: Cultivating the Culture of Learning” was organized on 19.05.2025 with association with IIPC.": true,
     "A one day National online workshop for Social science researchers on “Mastering Academic Writing and Publication in Scopus-Indexed Journals” was organized on 04.10.2025 with association with IIPC.": true,
     "A one day National online workshop on “Data Collection Methods and Statistical Application in Social Science Research” was organized on 29.11.2025 with association with IIPC.": true
-  }  ,
-
-
-    "labs": [
-      {
-        "topic": "English Laboratory",
-        "detail": [
-            "The department has a CALL lab with 66 computers and three Audio—Visual Labs which provide state-of-the-art facilities for students to hone their language and soft skills through activity based learning.",
-            "* Software / Learning Materials available:",
-            "- ORELL Talk Corporate Laboratory software",
-            "- Internally developed Digital Learning and Testing materials",
-            "- Three audio visual laboratories for activity based learning equipped with three projectors, SONY home theatres and voice recorders."
-        ],
-        "image": "/assets/images/Laboratories/English/englab4.jpg"
-      }
-    ],
-    
-    "library": {
-      "name": "English Department Library",
-      "description": "The department has a library which has Journals, audio video CDs and cassettes, software packages for English language teaching and learning. In addition to this, there are also a large number of grammar books, dictionaries and reference books on general knowledge."
-    },
-    "rnd": {
-      "academic": "https://rnd.kongu.edu/#/academic/english",
-      "activities":"https://rnd.kongu.edu/#/activities/english"
-    },    
+  },
+  "labs": [
+    {
+      "topic": "English Laboratory",
+      "detail": [
+        "The department has a CALL lab with 66 computers and three Audio—Visual Labs which provide state-of-the-art facilities for students to hone their language and soft skills through activity based learning.",
+        "* Software / Learning Materials available:",
+        "- ORELL Talk Corporate Laboratory software",
+        "- Internally developed Digital Learning and Testing materials",
+        "- Three audio visual laboratories for activity based learning equipped with three projectors, SONY home theatres and voice recorders."
+      ],
+      "image": "/assets/images/Laboratories/English/englab4.jpg"
+    }
+  ],
+  "library": {
+    "name": "English Department Library",
+    "description": "The department has a library which has Journals, audio video CDs and cassettes, software packages for English language teaching and learning. In addition to this, there are also a large number of grammar books, dictionaries and reference books on general knowledge."
+  },
+  "rnd": {
+    "academic": "https://rnd.kongu.edu/#/academic/english",
+    "activities": "https://rnd.kongu.edu/#/activities/english"
+  },
   "dept_images": [
-      "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
-  ]
+    "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+  ],
+  "phd": "Supervisor"
 }

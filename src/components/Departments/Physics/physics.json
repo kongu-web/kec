@@ -6,10 +6,9 @@
   "progoffr": "Ph.D",
   "vision": "To be a centre of excellence for dissemination of knowledge in Physics and to promote innovation for academic and professional success for the welfare of the nation and beyond.",
   "mission": [
-      "The Department of Physics is committed to provide adequate knowledge in physics for engineering students through an effective teaching-learning process, to mould them into competent professionals ready to meet global challenges and to promote research activities by nurturing the spirit of innovation among students and members of faculty by providing state-of-the-art facilities in the new areas of science and technology."
+    "The Department of Physics is committed to provide adequate knowledge in physics for engineering students through an effective teaching-learning process, to mould them into competent professionals ready to meet global challenges and to promote research activities by nurturing the spirit of innovation among students and members of faculty by providing state-of-the-art facilities in the new areas of science and technology."
   ],
   "objective": "The Department aims to disseminate knowledge and skill based understanding of the concepts of science, especially in areas relevant to Engineering and Technology. The research centre in the department provides an active and dynamic research atmosphere where research on futuristic areas in physics is pursued.",
-  
   "highlights": {
     "The department organized a national seminar on “Crystal Growth” during 27-29 January 2005": true,
     "The department is recognized as research centre under Anna University Chennai in 2007, to carry out active research in various fields such as condensed matter physics, spintronics, nanotechnology, thin film technology, polymers, ion implantation and solar energy": true,
@@ -38,29 +37,29 @@
     "A national level webinar on “Energy Materials” was organized for the students on 17 November 2023 in commemoration with 40th inception day celebrations of the institution.": true,
     "A self-supporting five day national level online FDP on “Up skilling for the future” was conducted on 22-26 April, 2024.": true,
     "Indian Science Academies sponsored lecture workshop on “Physics for Engineering” was conducted on 02-03 September, 2024.": true
-  },  
-
-    "labs": [
-      {
-        "topic": "Physics Laboratory",
-        "detail": [
-            "Three physics laboratories have been established with an area of 523.38 sq.m. and with equipment worth Rs.15.36 lakhs. Thin film research laboratory was established with an area of 51.35 sq.m. and with equipment worth Rs.15 lakhs."
-        ],
-        "image": "/assets/images/Laboratories/Physics/lab1.jpg"
-      }
-    ],
-    
-    "library": {
-      "name": "Physics Department Library",
-      "description": "The Physics department has a separate department library to cater to the specific needs of the students. The following is the consolidated data related to the department library.",
-      "details": {
-        "number_of_titles": "175"
-      }},
-      "rnd": {
-        "academic": "https://rnd.kongu.edu/#/academic/physics",
-        "activities":"https://rnd.kongu.edu/#/activities/physics"
-      },    
-    "dept_images": [
-        "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
-    ]
-  }
+  },
+  "labs": [
+    {
+      "topic": "Physics Laboratory",
+      "detail": [
+        "Three physics laboratories have been established with an area of 523.38 sq.m. and with equipment worth Rs.15.36 lakhs. Thin film research laboratory was established with an area of 51.35 sq.m. and with equipment worth Rs.15 lakhs."
+      ],
+      "image": "/assets/images/Laboratories/Physics/lab1.jpg"
+    }
+  ],
+  "library": {
+    "name": "Physics Department Library",
+    "description": "The Physics department has a separate department library to cater to the specific needs of the students. The following is the consolidated data related to the department library.",
+    "details": {
+      "number_of_titles": "175"
+    }
+  },
+  "rnd": {
+    "academic": "https://rnd.kongu.edu/#/academic/physics",
+    "activities": "https://rnd.kongu.edu/#/activities/physics"
+  },
+  "dept_images": [
+    "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+  ],
+  "phd": "Supervisor"
+}

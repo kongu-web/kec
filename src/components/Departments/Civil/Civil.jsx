@@ -125,10 +125,10 @@ const Civil = () => {
                 </div>
                 <div className="dept-stat-card">
                   <div className="stat-label">Total Intake</div>
-                  <div className="stat-value">{autoData.intake || "N/A"}</div>
+                  <div className="stat-value">{autoData.intake || autoData.Intake || "N/A"}</div>
                 </div>
                 <div className="dept-stat-card">
-                  <div className="stat-label">M.E Structural</div>
+                  <div className="stat-label">M.E Structural/PG</div>
                   <div className="stat-value">{autoData.me || "N/A"}</div>
                 </div>
                 <div 
@@ -137,7 +137,7 @@ const Civil = () => {
                   style={{ cursor: "pointer" }}
                 >
                   <div className="stat-label">Ph.D</div>
-                  <div className="stat-value">{autoData.phd || "N/A"}</div>
+                  <div className="stat-value">{autoData.phd === "Supervisor" ? "List" : (autoData.phd || "N/A")}</div>
                 </div>
               </div>
 

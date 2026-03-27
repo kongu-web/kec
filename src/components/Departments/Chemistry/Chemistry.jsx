@@ -125,6 +125,14 @@ const Chemistry = () => {
                   <div className="stat-label">Head of Department</div>
                   <div className="stat-value">{autoData.hod_name || "N/A"}</div>
                 </div>
+                <div 
+                  className="dept-stat-card" 
+                  onClick={() => autoData.rnd?.academic && window.open(`${autoData.rnd.academic}?tab=supervisors`, "_blank")}
+                  style={{ cursor: "pointer" }}
+                >
+                  <div className="stat-label">Ph.D</div>
+                  <div className="stat-value">{autoData.phd === "Supervisor" ? "List" : (autoData.phd || "N/A")}</div>
+                </div>
               </div>
 
               {/* Vision and Mission Section */}
