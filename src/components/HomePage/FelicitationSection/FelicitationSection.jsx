@@ -8,6 +8,7 @@ import video4 from "../../../assets/images/HomePage/video4thum.png";
 import video5 from "../../../assets/images/HomePage/video5thum.png";
 import video6 from "../../../assets/images/HomePage/video6thum.png";
 import video7 from "../../../assets/images/HomePage/video7thum.jpeg";
+import video8 from "../../../assets/images/HomePage/video8thum.png";
 
 
 function FelicitationSection() {
@@ -19,6 +20,12 @@ function FelicitationSection() {
 
 
   const videos = [
+    {
+      id: "AziujvFBzmk",
+      title: "Banana Fiber",
+      desc: "Transforming banana fiber waste into drinking straws and Kraft paper creates eco-friendly alternatives ",
+      thumb: video8,
+    },
     {
       id: "FxDbwNgap4k",
       title: "ENTHUSIA",
