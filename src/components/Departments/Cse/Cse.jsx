@@ -302,7 +302,7 @@ const Cse = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/cse/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty_images/cse/${faculty.image}`)}
                         alt={faculty.name} loading="lazy"
                       />
                     </div>

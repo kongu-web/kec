@@ -280,7 +280,7 @@ const Maths = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/maths/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty_images/maths/${faculty.image}`)}
                         alt={faculty.name} loading="lazy"
                       />
                     </div>
