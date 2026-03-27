@@ -13,10 +13,10 @@ import achi2023 from "../../../../assets/docs/Sports/Achievement 2023-2024.pdf";
 import achi2024 from "../../../../assets/docs/Sports/Achievement 2024-2025.pdf";
 import Footer from "../../../HomePage/Footer/Footer";
 import Navbar from "../../../HomePage/navbar/Navbar";
-import staff1 from "../../../../assets/images/PhysicalDept/Staff/kkannan.jpg";
-import staff2 from "../../../../assets/images/PhysicalDept/Staff/Jeyaraman.jpg";
-import staff3 from "../../../../assets/images/PhysicalDept/Staff/vkannan.jpg";
-import staff4 from "../../../../assets/images/PhysicalDept/Staff/pavithra.jpg";
+import staff1 from "../../../../assets/images/PhysicalDept/Staff/kkannan.webp";
+import staff2 from "../../../../assets/images/PhysicalDept/Staff/Jeyaraman.webp";
+import staff3 from "../../../../assets/images/PhysicalDept/Staff/vkannan.webp";
+import staff4 from "../../../../assets/images/PhysicalDept/Staff/pavithra.webp";
 
 const staffMembers = [
   {

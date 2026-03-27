@@ -16,21 +16,21 @@ import {
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
-import techImg from '../../../assets/images/WebAlbum/hackathon.jpeg';
-import sportsImg from '../../../assets/images/WebAlbum/sports.jpeg';
-import socialImg from '../../../assets/images/HomePage/healthcare.png';
-import gallery1 from '../../../assets/images/itpark.jpg';
-import gallery2 from '../../../assets/images/library.jfif';
-import gallery3 from '../../../assets/images/hostel.jpg';
-import gallery4 from '../../../assets/images/foodcourt.jfif';
-import gallery5 from '../../../assets/images/Events/E-Horizon-2025.jpg';
+import techImg from '../../../assets/images/WebAlbum/hackathon.webp';
+import sportsImg from '../../../assets/images/WebAlbum/sports.webp';
+import socialImg from '../../../assets/images/HomePage/healthcare.webp';
+import gallery1 from '../../../assets/images/itpark.webp';
+import gallery2 from '../../../assets/images/library.webp';
+import gallery3 from '../../../assets/images/hostel.webp';
+import gallery4 from '../../../assets/images/foodcourt.webp';
+import gallery5 from '../../../assets/images/Events/E-Horizon-2025.webp';
 import gallery6 from '../../../assets/images/Events/Pongal Celebration.webp';
-import gallery7 from '../../../assets/images/Events/Kongu Trophy.png';
-import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.JPG';
-import enthusia from '../../../assets/images/WebAlbum/swaram2026.jpeg';
+import gallery7 from '../../../assets/images/Events/Kongu Trophy.webp';
+import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.webp';
+import enthusia from '../../../assets/images/WebAlbum/swaram2026.webp';
 
 // Using placeholders for avatars if specific ones aren't available
-// import avatar1 from '../../../assets/images/principal.jpg';
+// import avatar1 from '../../../assets/images/principal.webp';
 
 const CampusLife = () => {
     const [loading, setLoading] = useState(true);

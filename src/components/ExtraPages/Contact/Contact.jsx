@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import Contactimg from "../../../assets/images/aboutkec.jpg";
+import Contactimg from "../../../assets/images/aboutkec.webp";
 import Spinner from "../../Spinner";
 import { FaPhoneAlt, FaEnvelope, FaFax, FaMapMarkerAlt, FaGlobe, FaClock, FaUniversity, FaUserGraduate, FaHandshake, FaUserShield, FaBuilding, FaBus, FaTrain, FaPlane } from "react-icons/fa";
 import { MdOutlineAssignmentInd, MdAdminPanelSettings } from "react-icons/md";

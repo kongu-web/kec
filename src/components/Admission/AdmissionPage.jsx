@@ -9,7 +9,7 @@ import Footer from "../HomePage/Footer/Footer";
 // ✅ IMPORT THE FORM
 import AdmissionForm from "../AdmissionForm/AdmissionForm";
 import brochurePdf from "../../assets/docs/KEC admission.pdf";
-import admissionHero from "../../assets/images/AdmissionForm/admissionhero.jpeg";
+import admissionHero from "../../assets/images/AdmissionForm/admissionhero.webp";
 
 const AdmissionPage = () => {
   const [activeTab, setActiveTab] = useState("ug");

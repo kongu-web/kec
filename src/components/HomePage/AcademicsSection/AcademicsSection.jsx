@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./AcademicsSection.css";
-import card1 from "../../../assets/images/HomePage/ACADEMICS_card1.png";
-import card2 from "../../../assets/images/HomePage/ACADEMICS_card2.png";
-import card3 from "../../../assets/images/HomePage/ACADEMICS_card3.png";
-import card4 from "../../../assets/images/HomePage/ACADEMICS_card4.png";
+import card1 from "../../../assets/images/HomePage/ACADEMICS_card1.webp";
+import card2 from "../../../assets/images/HomePage/ACADEMICS_card2.webp";
+import card3 from "../../../assets/images/HomePage/ACADEMICS_card3.webp";
+import card4 from "../../../assets/images/HomePage/ACADEMICS_card4.webp";
 
 
 import {

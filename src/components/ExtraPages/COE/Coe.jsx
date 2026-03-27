@@ -3,13 +3,13 @@ import "./Coe.css";
 import Footer from "../../HomePage/Footer/Footer";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
-import topImage from "../../../assets/images/InnovationEcosystem/Coe/coe.jpg";
+import topImage from "../../../assets/images/InnovationEcosystem/Coe/coe.webp";
 
 const coeData = [
   {
     title:
       "Mechanical Engineering - Centre of Excellence in Automotive Product Development",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/mech1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/mech1.webp"),
     content: null,
     features: [
       "Offer INTERNSHIP cum job opportunity to KEC Students @ MACBRO R&DCentre.",
@@ -25,7 +25,7 @@ const coeData = [
   },
   {
     title: "Mechanical Engineering - Centre of Excellence in Energy Studies",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/mech2.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/mech2.webp"),
     content: [
       "Centre of Excellence in Energy Studies serves as an Interdisciplinary Centre catering the training and research needs of Mechanical and EEE Departments. Consultancy on energy management is effectively carried out for industries and institutions. Energy benchmarking for selected industries are carried out with the help of Bureau of Energy Efficiency certified Energy Auditors. This centre supports energy management professionals to become certified Energy Managers and Auditors.",
     ],
@@ -36,7 +36,7 @@ const coeData = [
   {
     title:
       "Mechatronics Engineering - Centre of Excellence in Robotics and Automation",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/mts1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/mts1.webp"),
     content: [
       "The Centre of Excellence in Robotics and Automation (CoE-R&A) is a cutting-edge state of art platform to learn, build, explore and realize Robot technologies. CoE-R&A established in 2021 and it holds modern equipment namely Fanuc ER-4iA Robot, Fanuc CNC Simulator, 6 Axis Industrial Manipulator ABB IRB 1410, Humanoid Robot: NAO 6th Gen, Dobot Magician Kit with Accessories, e-Yantra lab setup, Aristo Robot (MTAB), LabVIEW Robotics sbRIO Starter Kit, NI 1742 Smart Camera Evaluation Kit, QBot 2e and various software tools with upgraded license to equip the users. It enables the user to experience the Robotic and Automation world to meet the growing demands for trained engineers in industrial automation. It also offers multifold benefits for promoting research, participation in national and international competitions, availing grants, and tailor made as expected by users.All the exercises mentioned in the syllabus of under graduate and postgraduate programs can be carried out in this centre. The dimension of the centre is 24 m x9 m, having total area of 216 m2. The total cost of the equipment is around Rs.1 Crore.",
       "General maintenance like hardware troubleshooting, software reinstallation etc., are normally done by the centre technician and the system administrator of the college. In addition to the laboratory manual prepared by the department, the students have the facility to refer the company manuals. Two teaching faculties are conducting laboratory classes with the help of lab technician. The faculty in-charges have a cabin inside the laboratory itself.",
@@ -50,7 +50,7 @@ const coeData = [
   {
     title:
       "Computer Science and Engineering - Centre of Excellence in Cyber Security",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/cse1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/cse1.webp"),
     content: [
       "Center of Excellence in Cyber Security aims to create a more diverse, equitable and inclusive cybersecurity workforce. It bridges the gap between learning and careers through access to industry-recognized Fortinet NSE training and certification courses. The Academic Partner Program collaborates with highest education institutions to help learners become part of an elite group of skilled cybersecurity professionals. Fortinet sponsors the training content and exam vouchers for each Authorized Security Academy, along with supporting instructor preparation. COE will prepare students for a career in cyber security and build a workforce skilled in all aspects of Fortinet’s network security platform who will be recognized in the industry among an elite group of security professionals. Fortinet will provide access to self-paced training to Academy students and provide exam vouchers upon request for students who have completed the self-paced learning. Fortinet will inform student who complete the self-paced learning of any potential internships or employment opportunities at Fortinet. Supported by Fortinet, Network Security Academy, California-94086.",
     ],
@@ -60,7 +60,7 @@ const coeData = [
   },
   {
     title: "Information Technology - Centre of Excellence in Data Science",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/it1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/it1.webp"),
     content: [
       "Name of the Industry Support for the Establishment : TEG Global Infrastructures Private Limited, Coimbatore",
     ],
@@ -79,7 +79,7 @@ const coeData = [
   {
     title:
       "Computer Science and Design - Centre of Excellence in Virtual Reality and Augmented Reality",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/csd1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/csd1.webp"),
     content: [
       "Virtual Reality and Augmented Reality Center of Excellence was established in 06 July 2023. Our lab is equipped with Dell Precision 3660 Tower Workstation (36 Units) Core i9 12900K processor, 32 Gb RAM, 512 SSD, 1 TB Sata HDD, Nvidia GeForce RTX 3070 8 GB, 21.5” Full HD Monitor,Meta Quest -2 VR Headset (10 Units).",
     ],
@@ -98,7 +98,7 @@ const coeData = [
   {
     title:
       "Electronics and Communication Engineering - Centre of Excellence in Embedded AI",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/ece1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ece1.webp"),
     content: [
       "CoE on Embedded AI established in the Department of ECE in collaboration with M/s Digitoad Technologies, Bengaluru focusses on the design and development of Edge AI computing applications based on STMicroelectronics based processors. Driven by the future demand of AI skilled engineers, the Embedded AI Education Program has been designed with the objectives of:",
     ],
@@ -114,7 +114,7 @@ const coeData = [
   {
     title:
       "Electrical and Electronics Engineering - Centre of Excellence in Smart Electrical Lab",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/eee1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/eee1.webp"),
     content: [
       "The CoE in association with Schneider Electric (P) Ltd aims to develops skill set in building automation and industrial drives among the student community to mould them industry ready. The CoE organizes short term program for a span of 2 days – 5 days on a nominal cost. The training certificate issued after completion is a global certification from Schneider which helps the students to fit into their carrier in any of the core company",
     ],
@@ -125,7 +125,7 @@ const coeData = [
   {
     title:
       "Electronics and Instrumentation Engineering - Centre of Excellence on Industrial IoT",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/eie1.jpg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/eie1.webp"),
     content: [
       "To inculcate knowledge in the era of digital transformation by the integration of IT(Information Technology) and OT (Operation Technology) for industrial process",
       "To give a practical exposure in the area of: Intelligent sensors, Industrial networking, and Industrial IoT, Advanced PLC programming and 3D simulation studies in factory automation",
@@ -156,7 +156,7 @@ const coeData = [
   {
     title:
       "Chemical Engineering - Centre of Excellence on Chemical Simulation Studies",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/chem1.png"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/chem1.webp"),
     content: [
       "The Centre of Excellence in Chemical Simulation Studies, inaugurated on 04.12.2024, is dedicated to advancing chemical engineering education by integrating cutting-edge simulation technologies into both training and research environments. Sponsored by Sim Infosystems Private Limited, Chennai, the center focuses on key areas such as dynamic simulation, process control, instrumentation, and industrial automation, equipping students with the necessary skills to excel in the chemical process industries.",
     ],
@@ -182,7 +182,7 @@ const coeData = [
    {
     title:
       "Automobile Engineering - Centre of Excellence for Design",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-design.jpeg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-design.webp"),
     content: null,
     features: null,
     objectives: [
@@ -202,7 +202,7 @@ const coeData = [
      {
     title:
       "Automobile Engineering - Centre of Excellence in Advanced Fuel Injection System",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-delphi.jpeg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/coe-delphi.webp"),
     content: null,
     features: null,
     objectives: [
@@ -223,7 +223,7 @@ const coeData = [
    {
     title:
       "Artificial Intelligence and Data Science - Centre of Excellence in Intel® Unnati Data-Centric Labs in Emerging Technologies",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-intel.jpeg"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-intel.webp"),
     content: null,
     features: null,
     objectives: [
@@ -245,7 +245,7 @@ const coeData = [
    {
     title:
       "Artificial Intelligence and Machine Learning - Centre of Excellence in Real-Time Analytics",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-realtime.png"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ai-realtime.webp"),
     content: null,
     features: null,
     objectives: [
