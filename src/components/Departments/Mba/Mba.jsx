@@ -300,7 +300,7 @@ const Mba = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/mba/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty_images/mba/${faculty.image}`)}
                         alt={faculty.name} loading="lazy"
                       />
                     </div>

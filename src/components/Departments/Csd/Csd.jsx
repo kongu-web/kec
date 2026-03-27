@@ -298,7 +298,7 @@ const Csd = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/csd/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty_images/csd/${faculty.image}`)}
                         alt={faculty.name} loading="lazy"
                       />
                     </div>

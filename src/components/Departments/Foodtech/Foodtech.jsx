@@ -302,7 +302,7 @@ const Foodtech = () => {
                   >
                     <div className="faculty-photo">
                       <img
-                        src={require(`../../../assets/images/faculty images/foodtech/${faculty.image}`)}
+                        src={require(`../../../assets/images/faculty_images/foodtech/${faculty.image}`)}
                         alt={faculty.name} loading="lazy"
                       />
                     </div>
