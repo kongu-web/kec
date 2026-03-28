@@ -1,10 +1,23 @@
 import React, { useEffect, useRef } from 'react';
 import './IEF.css';
-import Navbar from './navbar';
+import Navbar2 from './navbar';
 import AnimatedBackground from './AnimatedBackground';
+import Navbar from "../../HomePage/navbar/Navbar";
+import Footer from "../../HomePage/Footer/Footer";
 
 const IEF = () => {
   const sectionsRef = useRef([]);
+
+  const scrollToSection = (index) => {
+    const headerOffset = 200; // Account for fixed navbars
+    const elementPosition = sectionsRef.current[index]?.getBoundingClientRect().top;
+    const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+    window.scrollTo({
+      top: offsetPosition,
+      behavior: 'smooth'
+    });
+  };
 
   useEffect(() => {
     const observer = new IntersectionObserver((entries) => {
@@ -23,23 +36,62 @@ const IEF = () => {
   }, []);
 
   return (
-    <div className="ief-page">
-      {/* Dynamic Background Elements */}
-      <div className="tech-glow glow-1"></div>
-      <div className="tech-glow glow-2"></div>
+    <>
+      <Navbar />
+      <Navbar2 />
+      <div className="ief-page">
+        {/* Dynamic Background Elements */}
+        <div className="tech-glow glow-1"></div>
+        <div className="tech-glow glow-2"></div>
 
-      <div className="land">
-        <AnimatedBackground />
-        <Navbar />
-        <div className='info'>
-          <h1>KEC Innovation &amp; Entrepreneurship Forum</h1>
-          <p>
-            The ultimate convergence of <strong>EMDC</strong>, <strong>IIC</strong>, and <strong>TBI</strong>.
-            We engineer the bridge between academic research and commercial success,
-            empowering the next generation of industrial leaders.
-          </p>
+        <div className="land">
+          <div className="hero-content">
+            <div className="hero-left">
+              <div className="hero-tag">Technological Convergence</div>
+              <h1 className="hero-title">
+                <span className="light">KEC</span> 
+                <span className="title-accent">Innovation &</span> 
+                <br />
+                <span className="bold">Entrepreneurship</span>&nbsp;
+                <span className="title-accent">Forum</span>
+              </h1>
+              <p className="hero-subtitle">
+                The ultimate convergence of EMDC, IIC, and TBI.
+                We engineer the bridge between academic research and commercial success.
+              </p>
+            </div>
+
+            <div className="hero-right">
+              <div className="entity-card-cluster">
+                <div className="entity-card card-emdc" onClick={() => scrollToSection(0)}>
+                  <div className="card-badge">Management</div>
+                  <h3>EMDC</h3>
+                  <p>Advancing Entrepreneurship</p>
+                  <div className="card-glow"></div>
+                </div>
+                <div className="entity-card card-iic" onClick={() => scrollToSection(1)}>
+                  <div className="card-badge">Innovation</div>
+                  <h3>IIC</h3>
+                  <p>Inspiring New Horizons</p>
+                  <div className="card-glow"></div>
+                </div>
+                <div className="entity-card card-tbi" onClick={() => scrollToSection(2)}>
+                  <div className="card-badge">Incubation</div>
+                  <h3>TBI</h3>
+                  <p>Nurturing Global Startups</p>
+                  <div className="card-glow"></div>
+                </div>
+              </div>
+            </div>
+
+            <div className="scroll-indicator">
+              <span className="mouse">
+                <span className="wheel"></span>
+              </span>
+              <span className="text">Explore</span>
+            </div>
+          </div>
         </div>
-      </div>
 
       <div className="sections-wrapper">
 
@@ -90,6 +142,8 @@ const IEF = () => {
 
       </div>
     </div>
+    <Footer />
+    </>
   );
 };
 
