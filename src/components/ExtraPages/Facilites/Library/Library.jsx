@@ -1364,20 +1364,20 @@ const Library = () => {
               </div>
               <div className="contact-item">
                 <p className="contact-name">Dr. S. Arjunan</p>
-                <p className="contact-role">Librarian (Sr.G)</p>
+                <p className="contact-role">Librarian (As.P)</p>
                 <p className="contact-phone">Phone: 04294 226842</p>
               </div>
               <div className="contact-item">
                 <p className="contact-name">Mr. D. Shanmugasundaram</p>
                 <p className="contact-role">
-                  Assistant Librarian (Acquisition Section)
+                  Deputy Librarian (Technical)
                 </p>
                 <p className="contact-phone">Phone: 04294 226631</p>
               </div>
               <div className="contact-item">
                 <p className="contact-name">Mr. S. Jaganathan</p>
                 <p className="contact-role">
-                  Assistant Librarian (Digital & Periodical Section)
+                 Deputy Librarian (User)
                 </p>
                 <p className="contact-phone">Phone: 04294 226630</p>
               </div>
