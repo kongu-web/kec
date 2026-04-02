@@ -109,14 +109,14 @@ const Library = () => {
                 <strong>Books:</strong>
               </li>
               <ul className="library-bullet-list">
-                <li>Volumes: 95,959</li>
-                <li>Titles: 40,718</li>
+                <li>Volumes: 97,554</li>
+                <li>Titles: 41,177</li>
               </ul>
               <li>
                 <strong>Periodicals:</strong>
               </li>
               <ul className="library-bullet-list">
-                <li>Journals: 259</li>
+                <li>Journals: 42</li>
                 <li>Magazines: 20</li>
               </ul>
             </ul>
@@ -133,27 +133,27 @@ const Library = () => {
                 </thead>
                 <tbody>
                   {[
-                    ["Civil Engineering", 2487, 6211],
-                    ["Mechanical Engineering", 2907, 6215],
-                    ["Automobile Engineering", 722, 2589],
-                    ["Mechatronics Engineering", 2066, 4605],
-                    ["Chemical Engineering", 2209, 4794],
-                    ["Food Technology", 1690, 3907],
-                    ["Electronics and Communication Engineering", 2375, 6341],
-                    ["Electrical and Electronics Engineering", 2180, 5328],
-                    ["Electronics and Instrumentation Engineering", 2004, 4686],
-                    ["Computer Science and Engineering", 2578, 5678],
-                    ["Information Technology", 1908, 4620],
-                    ["Artificial Intelligence and Machine Learning", 407, 1655],
-                    ["Artificial Intelligence and Data Science", 393, 1639],
-                    ["Computer Science and Design", 479, 1342],
-                    ["B.Sc", 2801, 6182],
-                    ["M.Sc", 237, 589],
-                    ["Science and Humanities", 4272, 8990],
-                    ["Master of Computer Applications", 3943, 9205],
-                    ["Master of Business Administration", 4297, 9604],
+                    ["Civil Engineering", 2501, 6228],
+                    ["Mechanical Engineering", 2949, 6356],
+                    ["Automobile Engineering", 742, 2643],
+                    ["Mechatronics Engineering", 2092, 4636],
+                    ["Chemical Engineering", 2216, 4812],
+                    ["Food Technology", 1746, 3972],
+                    ["Electronics and Communication Engineering", 2390, 6366],
+                    ["Electrical and Electronics Engineering", 2274, 5491],
+                    ["Electronics and Instrumentation Engineering", 2011, 4707],
+                    ["Computer Science and Engineering", 2615, 5760],
+                    ["Information Technology", 1932, 4720],
+                    ["Artificial Intelligence and Machine Learning", 415, 1685],
+                    ["Artificial Intelligence and Data Science", 397, 1658],
+                    ["Computer Science and Design", 480, 1343],
+                    ["B.Sc", 2811, 6204],
+                    ["M.Sc", 249, 608],
+                    ["Science and Humanities", 4376, 9394],
+                    ["Master of Computer Applications", 4079, 9569],
+                    ["Master of Business Administration", 4308, 9623],
                     ["PG Courses in Engineering", 763, 1779],
-                    ["Total", 40718, 95959],
+                    ["Total", 41177, 97554],
                   ].map((row, i) => (
                     <tr key={i}>
                       <td>{i + 1 <= 20 ? i + 1 : ""}</td>
@@ -166,7 +166,51 @@ const Library = () => {
               </table>
             </div>
 
-            <h3>National and International Journal</h3>
+            <h3>National Journal Clusterwise : 42</h3>
+            <div className="library-table-container">
+              <table className="mainlibrary-table">
+                <thead className="mainlibrary-table-thead">
+                  <tr>
+                    <th>S.No.</th>
+                    <th>Department</th>
+                    <th>Course</th>
+                    <th>No. of Journals</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {[
+                    ["Civil Engineering", 22, 35],
+                    ["Mechanical Engineering", 12, 56],
+                    ["Automobile Engineering", 7, 37],
+                    ["Mechatronics Engineering", 12, 59],
+                    ["Electronics and Communication Engineering", 17, 22],
+                    ["Electrical and Electronics Engineering", 6, 19],
+                    ["Electronics and Instrumentation Engineering", 7, 25],
+                    ["Computer Science and Engineering", 12, 35],
+                    ["Computer Science and Design", 6, 11],
+                    ["Information Technology", 6, 15],
+                    ["Artificial Intelligence", 12, 23],
+                    ["Chemical Engineering", 6, 91],
+                    ["Food Technology", 25, 16],
+                    ["Computer Technology - UG", 19, 34],
+                    ["Computer Technology - PG", 6, 15],
+                    ["Master Of Business Administration", 15, 45],
+                    ["Master Of Computer Applications", 7, 20],
+                    ["Science And Humanities", 62, 38],
+                    ["TOTAL", 259, 596],
+                  ].map((row, i) => (
+                    <tr key={i}>
+                      <td>{i + 1 <= 18 ? i + 1 : ""}</td>
+                      <td>{row[0]}</td>
+                      <td>{row[1]}</td>
+                      <td>{row[2]}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+          {/* <h3>National and International Journal</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -208,7 +252,8 @@ const Library = () => {
                   ))}
                 </tbody>
               </table>
-            </div>
+            </div> */}
+                      
 
             <h3>Digital Resources</h3>
 
@@ -218,19 +263,30 @@ const Library = () => {
                 <thead className="mainlibrary-table-thead">
                   <tr>
                     <th>S.No</th>
-                    <th>Publisher's Platform</th>
-                    <th>No. of E-Journals</th>
+                    <th>Resources</th>
+                    <th>Total No. of Journals</th>
                   </tr>
                 </thead>
                 <tbody>
                   {[
-                    ["Cambridge University Press", 454],
-                    ["Elsevier", 1545],
-                    ["Springer", 693],
-                    ["Wiley Online", 334],
+                    ["IEEE ASPP", 230],
+                    ["EBSCO-BSE", 7537],
+                    ["ELSEVIER: Computer Science", 139],
+                    ["WELSEVIER: Engineering", 230],
+                    ["WELSEVIER: Mathematics", 95],
+                    ["WELSEVIER: Chemical Engineering", 105],
+                    ["WELSEVIER: Materials Science", 163],
+                    ["SPRINGER NATURE: Engineering", 188],
+                    ["SPRINGER NATURE-Computer Science", 103],
+                    ["SPRINGER NATURE:Chemistry and Materials Science", 191],
+                    ["SPRINGER NATURE: Earth and Environmental Science", 164],
+                    ["SPRINGER NATURE: Mathematics and Statistics", 206],
+                    ["SPRINGER NATURE: Physics and Astronomy", 10],
+                    ["TOTAL", 9361],
+
                   ].map((row, i) => (
                     <tr key={i}>
-                      <td>{i < 4 ? i + 1 : ""}</td>
+                      <td>{i < 13 ? i + 1 : ""}</td>
                       <td>{row[0]}</td>
                       <td>{row[1]}</td>
                     </tr>
@@ -239,7 +295,7 @@ const Library = () => {
               </table>
             </div>
 
-            <h4>SELF Subscription</h4>
+            {/* <h4>SELF Subscription</h4>
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -271,7 +327,7 @@ const Library = () => {
                   </tr>
                 </tbody>
               </table>
-            </div>
+            </div> */}
 
             <h4>E-Books</h4>
             <div className="library-table-container">
@@ -285,17 +341,17 @@ const Library = () => {
                 </thead>
                 <tbody>
                   {[
-                    ["Cambridge University Press", 6946],
-                    ["CBS", 731],
-                    ["Elsevier", 195],
-                    ["NewAge", 112],
-                    ["Pearson", 215],
-                    ["PHI", 146],
-                    ["SChand", 99],
-                    ["Springer", 7463],
-                    ["Wiley India", 159],
-                    ["Wiley Online", 1657],
-                    ["Total", 17723],
+                    ["SPRINGER E-BOOKS ", 3707],
+                    // ["CBS", 731],
+                    // ["Elsevier", 195],
+                    // ["NewAge", 112],
+                    // ["Pearson", 215],
+                    // ["PHI", 146],
+                    // ["SChand", 99],
+                    // ["Springer", 7463],
+                    // ["Wiley India", 159],
+                    // ["Wiley Online", 1657],
+                    // ["Total", 17723],
                   ].map((row, i) => (
                     <tr key={i}>
                       <td>{i < 10 ? i + 1 : ""}</td>
@@ -381,12 +437,11 @@ const Library = () => {
 
             <h3>LIBRARY RESOURCES (Values)</h3>
             <ul className="library-bullet-list">
-              <li>Value of Books: Rs. 4.77 Crore</li>
-              <li>Value of Journals: Rs. 2.30 Lakhs</li>
+              <li>Value of Books: Rs. 6.08 Crore</li>
+              <li>Value of Journals: Rs. 2.56 Lakhs</li>
               <li>Value of Back Volumes (bounded Volumes): Rs. 4.10 Crore</li>
               <li>Value of Digital & Other Resources: Rs. 4.25 Lakhs</li>
-              <li>AUERC Online Journals Subscription: Rs. 49.70 Lakhs</li>
-              <li>E-Resources : Rs.10.67 Lakhs</li>
+              <li>E-Resources : Rs.32.82 Lakhs</li>
               <li>Plagiarism Check Tools : 10.67 Lakhs</li>
             </ul>
 
@@ -395,7 +450,7 @@ const Library = () => {
               <li>Total No. of Newspapers Subscribed: 10</li>
               <li>Total No. of Back Volumes: 9,212</li>
               <li>No. of Book Bank Books: 7,087</li>
-              <li>No. of Online Journals Subscription: 10,793</li>
+              <li>No. of Online Journals Subscription: 9,361</li>
               <li>
                 Other Digital Resources: 7,850 <br /> (Including Book
                 CDs/Audio/Video)
@@ -504,12 +559,12 @@ const Library = () => {
             <h2>JOURNALS AND MAGAZINES</h2>
             <p>
               <strong>No. of National & International Subscriptions:</strong>{" "}
-              855
+              850
             </p>
 
             <h2>ONLINE JOURNALS & MAGAZINES (E-Resources)</h2>
             <p>
-              <strong>No. of Online Journals Subscription:</strong> 10,793
+              <strong>No. of Online Journals Subscription:</strong> 9,361
             </p>
 
             <h2>AUERC SUBSCRIPTION - E-Journals</h2>
@@ -594,7 +649,27 @@ const Library = () => {
               </a>
             </p>
             <p>
-              <strong>2. EBSCO Business Source Elite:</strong>{" "}
+              <strong>2. SPRINGER NATURE:</strong>{" "}
+              <a
+                href=" https://link.springer.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Springer.com
+              </a>
+            </p>
+            <p>
+              <strong>3. ELSEVIER-SCIENCE DIRECT:</strong>{" "}
+              <a
+                href=" https://www.sciencedirect.com//"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                sciencedirect.com
+              </a>
+            </p>
+            <p>
+              <strong>4. EBSCO Business Source Elite:</strong>{" "}
               <a
                 href="https://research.ebsco.com/c/ndiofi/search"
                 target="_blank"
@@ -604,7 +679,7 @@ const Library = () => {
               </a>
             </p>
             <p>
-              <strong>3. DELNET Discovery Portal:</strong>{" "}
+              <strong>5. DELNET Discovery Portal:</strong>{" "}
               <a
                 href="https://discovery1.delnet.in/"
                 target="_blank"
@@ -614,7 +689,7 @@ const Library = () => {
               </a>
             </p>
 
-            <h2>WEB ACCESS (AUERC Consortium)</h2>
+            {/* <h2>WEB ACCESS (AUERC Consortium)</h2>
             <p>
               <strong>Link for web access:</strong>{" "}
               <a
@@ -624,7 +699,7 @@ const Library = () => {
               >
                 access.auerc.com/keca
               </a>
-            </p>
+            </p> */}
 
             <h2>PLAGIARISM CHECK TOOLS</h2>
             <p>
@@ -1209,33 +1284,34 @@ const Library = () => {
                       "1",
                       "Dr. S. ARJUNAN",
                       "MA., M.Lib.I.Sc., M.Phil., Ph.D.",
-                      "LIBRARIAN (Sl.G)",
+                      "LIBRARIAN (As.P)",
                     ],
                     [
                       "2",
                       "Mr. D. SHANMUGASUNDARAM",
                       "MA., M.Lib.I.Sc., M.Phil., PGDCA.",
-                      "ASSISTANT LIBRARIAN",
+                      "DEPUTY LIBRARIAN",
                     ],
                     [
                       "3",
                       "Mr. S. JAGANATHAN",
                       "BA., M.Lib.I.Sc., PGDCA.",
+                      "DEPUTY LIBRARIAN",
+                    ],
+                     [
+                      "4",
+                      "Mr. C. SWAMINATHAN",
+                      "B.Com., M.Lib.I.Sc., DPCS.",
                       "ASSISTANT LIBRARIAN",
                     ],
                     [
-                      "4",
+                      "5",
                       "Mr. R. THANGARAJ",
                       "B.Com., M.Lib.I.Sc.",
-                      "LIB. ASST. (Sr.G)",
+                      "LIB. ASST. (SL.G)",
                     ],
-                    [
-                      "5",
-                      "Mr. C. SWAMINATHAN",
-                      "B.Com., M.Lib.I.Sc., DPCS.",
-                      "LIB. ASST. (Sr.G)",
-                    ],
-                    ["6", "Mr. S. SURESH", "C.Lib.I.Sc.", "LIBRARY ASSISTANT"],
+                   
+                    ["6", "Mr. S. SURESH", "C.Lib.I.Sc.", "LIBRARY ASSISTANT (SR.G)"],
                     [
                       "7",
                       "Mr. S. SHANMUGAM",
@@ -1246,21 +1322,21 @@ const Library = () => {
                       "8",
                       "Ms. N. GOMATHIPRIYA",
                       "M.Sc., B.Lib.I.Sc.",
-                      "LIBRARY ASSISTANT",
+                      "LIBRARY ASSISTANT (SR.G)",
                     ],
                     [
                       "9",
                       "Mr. K. DURAISWAMI",
                       "T/W BOTH HIGHER/SHORT HAND (English Jr.)",
-                      "DATA ENTRY OPERATOR",
+                      "DATA ENTRY OPERATOR (SR.G)",
                     ],
                     [
                       "10",
                       "Mr. V. NANDHAKUMAR",
                       "B.Com (CS)",
-                      "TECHNICAL ASSISTANT",
+                      "LIBRARY ASSISTANT (L1)",
                     ],
-                    ["11", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT"],
+                    ["11", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT (L1)"],
                     ["12", "Mr. J. KARTHIK", "BBA", "TECHNICAL ASSISTANT"],
                   ].map(([sl, name, qualification, designation]) => (
                     <tr key={sl}>
