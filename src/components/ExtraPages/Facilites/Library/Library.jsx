@@ -166,7 +166,7 @@ const Library = () => {
               </table>
             </div>
 
-            <h3>National Journal Clusterwise : 42</h3>
+            {/* <h3>National Journal Clusterwise : 42</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -208,9 +208,9 @@ const Library = () => {
                   ))}
                 </tbody>
               </table>
-            </div>
+            </div> */}
 
-          {/* <h3>National and International Journal</h3>
+           <h3>National and International Journal</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -252,7 +252,7 @@ const Library = () => {
                   ))}
                 </tbody>
               </table>
-            </div> */}
+            </div> 
                       
 
             <h3>Digital Resources</h3>
