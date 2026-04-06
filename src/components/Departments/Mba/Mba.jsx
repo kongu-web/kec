@@ -7,7 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./mba.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mba.webp";
-import Depthomeimg from "../../../assets/images/Department Banner/Depthomeimg.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/mba_home.webp";
 
 const NAV_ITEMS = [
   "Home",

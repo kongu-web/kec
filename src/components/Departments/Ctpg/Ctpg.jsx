@@ -7,7 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./ct-pg.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/ctpg.webp";
-import Depthomeimg from "../../../assets/images/Department Banner/Depthomeimg.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/ctpg_home.webp";
 
 const NAV_ITEMS = [
   "Home",
