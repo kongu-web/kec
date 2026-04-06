@@ -1,13 +1,3 @@
-import nccImg1 from '../../../assets/images/Clubs/ncc/ncc-1.webp';
-import nccImg2 from '../../../assets/images/Clubs/ncc/ncc-2.webp';
-import nccImg3 from '../../../assets/images/Clubs/ncc/ncc-3.webp';
-import nccImg4 from '../../../assets/images/Clubs/ncc/ncc-4.webp';
-
-import nssImg1 from '../../../assets/images/Clubs/nss/nss-1.webp';
-import nssImg2 from '../../../assets/images/Clubs/nss/nss-2.webp';
-import nssImg3 from '../../../assets/images/Clubs/nss/nss-3.webp';
-import nssImg4 from '../../../assets/images/Clubs/nss/nss-4.webp';
-
 export const clubsData = [
     {
         id: "innovation-hub",
@@ -550,39 +540,5 @@ export const clubsData = [
         ],
         activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
         eventDetails: []
-    },
-    {
-        id: "nss",
-        name: "National Service Scheme (NSS)",
-        category: "NSS",
-        about: "Developing student personality through community service and active engagement in social causes.",
-        objectives: [
-            "To understand the community in which they work.",
-            "To identify the needs and problems of the community and involve them in problem-solving.",
-            "To develop among themselves a sense of social and civic responsibility."
-        ],
-        coordinators: [
-            { name: "NSS Coordinator", designation: "Coordinator", dept: "Various", phone: "" }
-        ],
-        activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 10 },
-        eventDetails: [],
-        gallery: [nssImg1, nssImg2, nssImg3, nssImg4]
-    },
-    {
-        id: "ncc",
-        name: "National Cadet Corps (NCC)",
-        category: "NCC",
-        about: "Developing character, comrade-ship, discipline, leadership, secular-outlook, spirit of adventure and ideals of selfless service.",
-        objectives: [
-            "To Create a Human Resource of Organized, Trained and Motivated Youth.",
-            "To Provide Leadership in all Walks of life and be Always Available for the Service of the Nation.",
-            "To Provide a Suitable Environment to Motivate the Youth to Take Up a Career in the Armed Forces."
-        ],
-        coordinators: [
-            { name: "NCC Officer", designation: "Coordinator", dept: "Various", phone: "" }
-        ],
-        activitiesSummary: { "2025-26": 6, "2024-25": 12, "2023-24": 15 },
-        eventDetails: [],
-        gallery: [nccImg1, nccImg2, nccImg3, nccImg4]
     }
 ];
