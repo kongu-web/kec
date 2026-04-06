@@ -599,7 +599,7 @@ const Navbar = () => {
               )}
             </li> */}
             <li
-              className={location.pathname === "/admission" ? "active" : ""}
+              className={`${location.pathname === "/admission" ? "active" : ""} admission-blink`}
               onMouseEnter={() => handleMouseEnter(null)}
               onClick={() => navigate("/admission")}
             >
@@ -612,7 +612,7 @@ const Navbar = () => {
               onMouseEnter={() => handleMouseEnter(6)}
               onMouseLeave={handleMouseLeave}
             >
-              Others
+              Explore
               {activeDropdown === 6 && (
                 <div
                   className="card-dropdown"

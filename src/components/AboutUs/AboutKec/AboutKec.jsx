@@ -140,13 +140,9 @@ const AboutKec = () => {
                 <tr>
                   <td>Kongu National Matriculation School, Erode</td>
                   <td>
-                    <a
-                      href="http://www.kongunational.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <button className="visit-button">Click Here</button>
-                    </a>
+                    <button className="visit-button" disabled style={{ cursor: "not-allowed", opacity: 0.5 }}>
+                      Click Here
+                    </button>
                   </td>
                 </tr>
               </tbody>

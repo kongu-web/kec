@@ -138,6 +138,7 @@ import NewsClippings from './components/ExtraPages/NewsClippings/NewsClippings.j
 import Coe from './components/ExtraPages/COE/Coe.jsx';
 import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
+import Preloader from './components/Preloader/Preloader.jsx';
 
 import CampusLife from './components/ExtraPages/CampusLifePage/CampusLife';
 import ClubDetail from './components/Common/CellClubTemplate/ClubDetail';
@@ -156,7 +157,7 @@ const App = () => {
   }, []);
 
   return loading ? (
-    <Spinner />
+    <Preloader />
   ) : (
     <AuthProvider>
       <Router>

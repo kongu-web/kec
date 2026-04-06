@@ -25,7 +25,7 @@ function AboutSection() {
         {/* Right Content */}
         <div className="about-right">
           <span className="about-pill">About @ KEC</span>
-          <h2>Building Tomorrow's Innovators Today</h2>
+          <h2>Building Innovations</h2>
 
           {/* <p>
             Kongu Engineering College is an internationally recognised leader in multi-professional, research-led education. It offers a unique blend of theory and practice, providing interdisciplinary courses at the frontiers of knowledge. The college connects spiritual and practical dimensions of learning in a stimulating environment that fosters rigorous scholarship and community. Established in 1983 by The Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu, this institution has been elevated to great heights through the Trust's commitment to value-based education for all.
@@ -36,7 +36,7 @@ function AboutSection() {
 
           {showMore && (
             <p>
-              Established in 1983, the institution was founded by the Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu. The college operates under the Trust's educational philosophy, which emphasises holistic development and ethical principles alongside technical competence. The institution maintains academic standards through a curriculum designed to address contemporary challenges in engineering and technology.
+              Established in 1984, the institution was founded by The Kongu Vellalar Institute of Technology Trust in Erode District, Tamil Nadu. The college operates under the Trust's educational philosophy, which emphasises holistic development and ethical principles alongside technical competence. The institution maintains academic standards through a curriculum designed to address contemporary challenges in engineering and technology.
             </p>
           )}
 
