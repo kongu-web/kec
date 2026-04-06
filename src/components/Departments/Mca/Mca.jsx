@@ -7,7 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./mca.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mca.webp";
-import Depthomeimg from "../../../assets/images/Department Banner/Depthomeimg.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/mca_home.webp";
 
 
 const NAV_ITEMS = [
