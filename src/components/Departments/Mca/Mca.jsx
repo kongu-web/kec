@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./mca.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/mca.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/Depthomeimg.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -110,10 +111,7 @@ const Mca = () => {
                 </div>
                 <div className="about-image">
                   <img
-                    src={
-                      (autoData.dept_images && autoData.dept_images[0]) ||
-                      Deptimg
-                    }
+                    src={Depthomeimg}
                     alt="Department"
                   />
                 </div>

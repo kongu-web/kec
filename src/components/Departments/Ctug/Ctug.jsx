@@ -7,6 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./ct-ug.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/ctug.webp";
+import Depthomeimg from "../../../assets/images/Department Banner/Depthomeimg.webp";
 
 const NAV_ITEMS = [
   "Home",
@@ -100,32 +101,80 @@ const Ctug = () => {
         <div className="auto-content">
           {activeSection === "Home" && autoData && (
             <div className="auto-content">
-              <h2>About the Department</h2>
-              <p className="bigdata">
-                {autoData.about || "Information not available."}
-              </p>
+              <div className="about-section">
+                <div className="about-text">
+                  <h2 className="about-title">About the Department</h2>
+                  <div className="about-underline"></div>
+                  <p>
+                    {autoData.about || "Information not available."}
+                  </p>
+                </div>
+                <div className="about-image">
+                  <img
+                    src={Depthomeimg}
+                    alt="Department"
+                  />
+                </div>
+              </div>
 
               <h2>Department Details</h2>
-              <table className="dept-details-table">
-                <tbody>
-                  {[
-                    ["HOD", autoData.hod_name],
-                    ["Programmes Offered", autoData.prog_offr],
-                    ["B.Sc - Computer Systems and Design", autoData.csd],
-                    ["B.Sc - Information Systems", autoData.is],
-                    ["B.Sc - Software Systems", autoData.ss],
-                  ].map(([label, value], index) => (
-                    <tr key={index}>
-                      <td>
-                        <strong>{label}</strong>
-                      </td>
-                      <td>{value || "N/A"}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+              <div className="dept-stats-grid">
+                <div className="dept-stat-card">
+                  <div className="stat-label">Head of Department</div>
+                  <div className="stat-value">{autoData.hod_name || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">Programmes Offered</div>
+                  <div className="stat-value">{autoData.prog_offr ? autoData.prog_offr.join(", ") : "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">B.Sc CSD Intake</div>
+                  <div className="stat-value">{autoData.csd || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">B.Sc IS Intake</div>
+                  <div className="stat-value">{autoData.is || "N/A"}</div>
+                </div>
+                <div className="dept-stat-card">
+                  <div className="stat-label">B.Sc SS Intake</div>
+                  <div className="stat-value">{autoData.ss || "N/A"}</div>
+                </div>
+              </div>
 
-              {["vision", "mission", "po"].map((key) => (
+              {/* Vision and Mission Section */}
+              <div className="vision-mission-grid">
+                <div className="vm-card">
+                  <h3 className="vm-title">Vision</h3>
+                  <div className="vm-content">
+                    <ul>
+                      {Array.isArray(autoData.vision) ? (
+                        autoData.vision.map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData.vision || "N/A"}</li>
+                      )}
+                    </ul>
+                  </div>
+                </div>
+                <div className="vm-card">
+                  <h3 className="vm-title">Mission</h3>
+                  <div className="vm-content">
+                    <ul>
+                      {Array.isArray(autoData.mission) ? (
+                        autoData.mission.map((point, index) => (
+                          <li key={index}>{point}</li>
+                        ))
+                      ) : (
+                        <li>{autoData.mission || "N/A"}</li>
+                      )}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              {/* Remaining Dropdowns */}
+              {["objective", "po"].map((key) => (
                 <div
                   key={key}
                   className={`dropdown-section ${dropdowns[key] ? "active" : ""
@@ -157,7 +206,7 @@ const Ctug = () => {
                     }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
-                    {key.toUpperCase()}
+                    {key.toUpperCase().replace("-", " ")}
                   </button>
                   <div className="dropdown-content">
                     <ul>
@@ -182,7 +231,7 @@ const Ctug = () => {
                     }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
-                    {key.toUpperCase()}
+                    {key.toUpperCase().replace("-", " ")}
                   </button>
                   <div className="dropdown-content">
                     <ul>
@@ -207,7 +256,7 @@ const Ctug = () => {
                     }`}
                 >
                   <button onClick={() => toggleDropdown(key)}>
-                    {key.toUpperCase()}
+                    {key.toUpperCase().replace("-", " ")}
                   </button>
                   <div className="dropdown-content">
                     <ul>
@@ -260,6 +309,30 @@ const Ctug = () => {
                   )}
                 </tbody>
               </table>
+
+              {autoData.milestones && (
+                <>
+                  <h2>Milestones</h2>
+                  <div className="milestone-container">
+                    {autoData.milestones.map((milestone, index) => (
+                      <div key={index} className="milestone">
+                        <div className="milestone-year">{milestone.year}</div>
+                        <div className="milestone-events">
+                          {Array.isArray(milestone.events) ? (
+                            <ul>
+                              {milestone.events.map((event, idx) => (
+                                <li key={idx}>{event}</li>
+                              ))}
+                            </ul>
+                          ) : (
+                            <p>{milestone.event}</p>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </>
+              )}
             </div>
           )}
 
@@ -287,7 +360,20 @@ const Ctug = () => {
                       src={autoData.labs[selectedLab].image}
                       alt={autoData.labs[selectedLab].topic}
                     />
-                    <p>{autoData.labs[selectedLab].detail}</p>
+                    {Array.isArray(autoData.labs[selectedLab].detail) ? (
+                      autoData.labs[selectedLab].detail.map((item, index) => {
+                        if (typeof item === 'string') {
+                          if (item.startsWith("* ")) {
+                            return <h2 key={index}>{item.substring(2)}</h2>;
+                          } else if (item.startsWith("- ")) {
+                            return <li key={index}>{item.substring(2)}</li>;
+                          }
+                        }
+                        return <p key={index}>{item}</p>;
+                      })
+                    ) : (
+                      <p>{autoData.labs[selectedLab].detail}</p>
+                    )}
                   </div>
                 )}
               </div>
