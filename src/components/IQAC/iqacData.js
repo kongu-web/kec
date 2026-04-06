@@ -519,7 +519,7 @@ export const iqacData = {
                 "alt": "IQAC Coordinator Meeting Session"
             },
             {
-                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IQAC coordinator meeting22.jpeg",
+                "src": "/assets/iqac/gallery/ISO 9001-2015 surveillance audit (04.02.2025)/IQAC coordinator meeting22.webp",
                 "alt": "IQAC Coordinator Meeting Review"
             },
             {

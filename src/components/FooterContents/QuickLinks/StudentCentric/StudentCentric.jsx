@@ -4,12 +4,13 @@ import './StudentCentric.css';
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
 import { clubsData } from "../../../Common/CellClubTemplate/clubsData";
-import { FaCode, FaPalette, FaMusic, FaUsers, FaLaptopCode, FaBook, FaGlobe, FaChevronRight, FaLightbulb, FaTools, FaHeart, FaTrophy } from 'react-icons/fa';
+import { FaCode, FaPalette, FaMusic, FaUsers, FaLaptopCode, FaBook, FaGlobe, FaChevronRight, FaLightbulb, FaTools, FaHeart, FaTrophy, FaSearch } from 'react-icons/fa';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const StudentCentric = () => {
     const [filter, setFilter] = useState('All');
+    const [searchQuery, setSearchQuery] = useState('');
     const [filteredClubs, setFilteredClubs] = useState(clubsData);
 
     useEffect(() => {
@@ -18,14 +19,22 @@ const StudentCentric = () => {
     }, []);
 
     useEffect(() => {
-        if (filter === 'All') {
-            setFilteredClubs(clubsData);
-        } else {
-            setFilteredClubs(clubsData.filter(club => club.category === filter));
+        let result = clubsData;
+        
+        if (filter !== 'All') {
+            result = result.filter(club => club.category === filter);
         }
-    }, [filter]);
+        
+        if (searchQuery.trim() !== '') {
+            result = result.filter(club => 
+                club.name.toLowerCase().includes(searchQuery.toLowerCase())
+            );
+        }
+        
+        setFilteredClubs(result);
+    }, [filter, searchQuery]);
 
-    const categories = ['All', 'Technical', 'Social', 'Cultural', 'Skill', 'Professional'];
+    const categories = ['All', 'Technical', 'Social', 'Cultural', 'Skill', 'Professional', 'NSS', 'NCC'];
 
     const getIcon = (id, category) => {
         switch (id) {
@@ -71,6 +80,20 @@ const StudentCentric = () => {
             </section>
 
             <div className="sc-container">
+                {/* Search Bar */}
+                <div className="sc-search-wrapper" data-aos="fade-up">
+                    <div className="sc-search-box">
+                        <FaSearch className="sc-search-icon" />
+                        <input 
+                            type="text" 
+                            placeholder="Search clubs by name..." 
+                            value={searchQuery}
+                            onChange={(e) => setSearchQuery(e.target.value)}
+                            className="sc-search-input"
+                        />
+                    </div>
+                </div>
+
                 {/* Filter Tabs */}
                 <div className="sc-filters" data-aos="fade-up">
                     {categories.map(cat => (

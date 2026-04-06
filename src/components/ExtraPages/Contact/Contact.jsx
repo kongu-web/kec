@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
-import Contactimg from "../../../assets/images/aboutkec.jpg";
+import Contactimg from "../../../assets/images/aboutkec.webp";
 import Spinner from "../../Spinner";
 import { FaPhoneAlt, FaEnvelope, FaFax, FaMapMarkerAlt, FaGlobe, FaClock, FaUniversity, FaUserGraduate, FaHandshake, FaUserShield, FaBuilding, FaBus, FaTrain, FaPlane } from "react-icons/fa";
 import { MdOutlineAssignmentInd, MdAdminPanelSettings } from "react-icons/md";
@@ -144,7 +144,7 @@ const Contact = () => {
                       <FaBus className="reach-icon" />
                       <h4>By Bus</h4>
                     </div>
-                    <p>Regular buses from Erode & Coimbatore to Perundurai (2 km from campus).</p>
+                    <p>Regular buses are available from Erode and Coimbatore to Perundurai. The campus is located 2 km from Perundurai.</p>
                   </div>
                   <div className="reach-item">
                     <div className="reach-header">
@@ -179,7 +179,7 @@ const Contact = () => {
                 <div className="h-card-phone">04294 - 226602</div>
               </div>
               <div className="hostel-card">
-                <div className="h-card-badge">Dept. Warden</div>
+                <div className="h-card-badge">Dety. Warden</div>
                 <div className="h-icon-wrap">
                   <FaUserShield className="h-icon" />
                 </div>

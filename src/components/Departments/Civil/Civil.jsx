@@ -7,7 +7,7 @@ import "../Deptstyle.css";
 import autoData from "./civil.json";
 import Slider from "./Slider";
 import Deptimg from "../../../assets/images/Department Banner/civil.webp";
-import Depthomeimg from "../../../assets/images/Department Banner/civil_home.jpg";
+import Depthomeimg from "../../../assets/images/Department Banner/civil_home.webp";
 
 const NAV_ITEMS = [
   "Home",

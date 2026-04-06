@@ -138,9 +138,7 @@
   background: #f3f6ff;
 }
 
-.utility-right a:hover {
-  /* text-decoration: underline; */
-}
+
 
 /* ICON SPACING */
 /* .divider {
@@ -527,4 +525,27 @@
   border-radius: 6px;
   font-size: 16px;
   border: none;
+}
+
+/* SOFT BLINK EFFECT FOR ADMISSION MENU */
+.admission-blink {
+  animation: soft-blink 1.8s ease-in-out infinite;
+  font-weight: 700 !important;
+}
+
+.admission-blink:hover {
+  animation-play-state: paused;
+  color: #319143 !important;
+  opacity: 1;
+}
+
+@keyframes soft-blink {
+  0%, 100% {
+    color: #303877;
+    opacity: 1;
+  }
+  50% {
+    color: #319143;
+    opacity: 0.9;
+  }
 }

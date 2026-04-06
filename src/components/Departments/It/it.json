@@ -1,5 +1,5 @@
 {
-  "image": "../../../assets/images/Department Banner/it.jpg",
+  "image": "../../../assets/images/Department Banner/it.webp",
   "about": "Information Technology (IT) is a branch of engineering that focuses on the development, management, and security of information systems and digital infrastructure. It encompasses various domains, including software development, cloud computing, cybersecurity, data analytics, networking, and artificial intelligence. IT engineers work on cutting-edge technologies such as blockchain, IoT, big data, and automation to enhance efficiency, security, and connectivity across industries. With the rapid evolution of digital transformation, the field continues to grow, driving innovation in business, healthcare, finance, and communication. As the demand for scalable, secure, and intelligent solutions increases, Information Technology plays a crucial role in shaping the digital future and improving technological advancements worldwide.",
   "dept-name": "Information Technology",
   "hod_name": "Dr.S.Anandamurugan",
@@ -199,32 +199,32 @@
       {
         "topic": "System Software Laboratory",
         "detail": "The objective of system software lab is to make students familiarized with various operating systems (open source) particularly Linux and debian distributions like Fedora and Ubuntu. This lab is used for conducting a practical classes in courses like Data Structures & Analysis algorithms, C Programming, Java programming .Various software projects in languages like C, C++, and Java & Python are also done in this laboratory. Since high end projector is available, this lab is utilized for conducting project reviews ,Training programs ,One credit & value added courses in this laboratory .More over Mat lab software is available in this lab for learning & doing projects. This lab is equipped with 38 personal computers of high end configuration.",
-        "image": "/assets/images/Laboratories/It/ssw_lab.jpg"
+        "image": "/assets/images/Laboratories/It/ssw_lab.webp"
       },
       {
         "topic": "RDBMS Laboratory",
         "detail": "In this lab there are 38 personal computers with high end configuration & 3 printers. This lab is utilized for conducting practical classes in courses like DBMS, OS & Machine Learning. This lab is prominently used for enabling the students to gain hands on experience in App Development, SQL queries. This lab is also utilized for conducting project reviews, one credit courses and doing projects. More over presentations like Ph.D. Viva voce, project & Paper Presentation done by the students are conducted in this lab.",
-        "image": "/assets/images/Laboratories/It/rdbms.jpg"
+        "image": "/assets/images/Laboratories/It/rdbms.webp"
       },
       {
         "topic": "Network Laboratory",
         "detail": "Network laboratory provides hands-on experience to various concepts studied by the undergraduate and postgraduate students related to Computer and Communication Networks. This lab is also an emphasis on experimental research in communication networking, in recent years there have also been contributions to networks and network security. This lab helps to explain the importance of data communications and the Internet in supporting business communications and daily activities. Also explains how communication works in data networks and Internet. This lab helps to recognize the different internetworking devices and their functions and also explain the role of protocols in networking. It is equipped with with latest configuration PC's, well connected server and client structured systems to support the study of the concepts and protocols of networking and for the effective implementation of the routing protocols. The students are trained in the laboratory to enhance their practical knowledge and to provide solutions to real time issues. Open source tools like NS2, NS3 and Wireshark are used to simulate and study the performance of various network scenarios which impart latest practical skills to students.",
-        "image": "/assets/images/Laboratories/It/nw_lab.jpg"
+        "image": "/assets/images/Laboratories/It/nw_lab.webp"
       },
       {
         "topic": "Enterprise Computing Laboratory",
         "detail": "This Enterprise Computing Laboratory is equipped with high end HP desktop machines for enterprise application development, data analytics and cloud projects. This Lab has 73 Intel i3 machines with 10 GB RAM, exclusively dedicated for faculty members and students to take up research and strengthen their knowledge in various application development and research.",
-        "image": "/assets/images/Laboratories/It/ec_lab.jpg"
+        "image": "/assets/images/Laboratories/It/ec_lab.webp"
       },
       {
         "topic": "CYBER SECURITY LABORATORY",
         "detail": "A cyber security laboratory at Kongu engineering college provides students with a practical learning environment to enhance their understanding of cybersecurity concepts. Equipped with cutting-edge technology and software, these labs offer hands-on experiences in analyzing and securing computer systems. Students can simulate cyber attacks, practice ethical hacking, and develop skills in identifying and mitigating vulnerabilities. The lab fosters a dynamic learning atmosphere where students gain the practical expertise necessary for tackling real-world cyber threats, preparing them for careers in the rapidly evolving field of cybersecurity.",
-        "image": "/assets/images/Laboratories/It/cyber_lab.jpg"
+        "image": "/assets/images/Laboratories/It/cyber_lab.webp"
       },
       {
         "topic": "Project Laboratory",
         "detail": "The Information Technology (IT) project laboratory within the department is a specialized facility dedicated to fostering practical skills and innovation in the field. It is equipped with cutting-edge technology, including computers, servers, networking tools, and software development environments. This space serves as a hub for students to engage in hands-on projects, collaborate on software development, and explore emerging technologies. In the IT project laboratory, students have the opportunity to work on real-world projects that span various domains such as software engineering, IoT, data science, and network administration. The environment encourages teamwork, problem-solving, and creativity, providing a bridge between theoretical knowledge acquired in classrooms and its practical application in the dynamic IT industry. Guided by experienced faculty, students use the laboratory to gain practical experience in designing and implementing solutions to complex IT challenges. The lab's emphasis on experiential learning enhances students' readiness for the demands of the Information Technology sector, preparing them for successful careers in the rapidly evolving technological landscape.",
-        "image": "/assets/images/Laboratories/It/project_lab.jpg"
+        "image": "/assets/images/Laboratories/It/project_lab.webp"
         }
         ],
     
@@ -433,6 +433,6 @@
       "activities":"https://rnd.kongu.edu/#/activities/it"
     },    
   "dept_images": [
-      "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+      "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.webp"
   ]
 }

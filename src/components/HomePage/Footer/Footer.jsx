@@ -36,7 +36,7 @@ import { ReactComponent as IconSvg4 } from "../../../assets/images/Icon/footer_i
 import { ReactComponent as IconSvg5 } from "../../../assets/images/Icon/footer_icon/icon.svg (5).svg";
 import { ReactComponent as IconSvg6 } from "../../../assets/images/Icon/footer_icon/icon.svg (6).svg";
 
-import footerlogo from "../../../assets/images/Icon/footer_icon/footer-logo.png";
+import footerlogo from "../../../assets/images/Icon/footer_icon/footer-logo.webp";
 
 const Footer = () => {
   const [openIndex, setOpenIndex] = useState(null);

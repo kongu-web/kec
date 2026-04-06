@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Share+Tech&family=Inter:wght@400;700&display=swap');
+
+:root {
+  --pre-navy: #303877;
+  --pre-blue: #009EDB;
+  --pre-green: #91C04A;
+}
+
+.preloader-overlay {
+  position: fixed;
+  inset: 0;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  overflow: hidden;
+  user-select: none;
+  pointer-events: none;
+}
+
+.loader-asset-container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pre-loader-gif {
+  width: 100%;
+  height: auto;
+  mix-blend-mode: multiply; /* Ensures it blends smoothly into white background */
+}
+
+/* Tech Footer & Initialization Dashboard */
+.tech-footer {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.tech-branding {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+  perspective: 1000px;
+}
+
+.brand-word {
+  display: flex;
+}
+
+.brand-word.kec-loader-green span { 
+  color: #91C04A; 
+  background: transparent !important;
+}
+.brand-word.kec-loader-blue span { 
+  color: #009EDB; 
+  background: transparent !important;
+}
+
+.brand-word span {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(20px) rotateX(-90deg);
+  filter: blur(8px);
+  animation: stagger-flicker-scale 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  font-family: 'Montserrat Alternates', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+@keyframes stagger-flicker-scale {
+  0% { opacity: 0; transform: scale(0.5) translateY(10px); filter: blur(5px); }
+  33% { opacity: 1; transform: scale(1.1) translateY(-2px); filter: blur(2px); }
+  66% { opacity: 0.5; transform: scale(0.9) translateY(0); filter: blur(0); }
+  100% { opacity: 1; transform: scale(1) translateY(0); filter: blur(0); }
+}
+
+.tech-status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.status-text {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 4px;
+  color: #888;
+}
+
+.status-dots span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--pre-blue);
+  margin: 0 3px;
+  animation: status-dot-dance 1.5s infinite;
+}
+
+.status-dots span:nth-child(2) { animation-delay: 0.2s; }
+.status-dots span:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes status-dot-dance {
+  0%, 100% { transform: scale(1); opacity: 0.3; }
+  50% { transform: scale(1.5); opacity: 1; background: var(--pre-green); }
+}

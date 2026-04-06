@@ -1,5 +1,5 @@
 {
-  "image": "../../../assets/images/Department Banner/ece.jpg",
+  "image": "../../../assets/images/Department Banner/ece.webp",
   "about": "Electronics and Communication Engineering (ECE) is a branch of engineering that focuses on the design, development, and application of electronic devices and communication systems. It encompasses various fields, including embedded systems, VLSI design, signal processing, wireless communication, and the Internet of Things (IoT). ECE engineers work on cutting-edge technologies such as 5G, satellite communication, artificial intelligence, and semiconductor technology, shaping the future of global connectivity. With rapid advancements in communication networks and smart devices, the field continues to evolve, enhancing speed, efficiency, and security in data transmission. As the world moves towards a more connected and digital era, Electronics and Communication Engineering plays a crucial role in driving innovation across industries, improving communication, automation, and intelligent systems.",
   "dept-name": "Electronics and Communication Engineering",
   "hod_name": "Dr.N.Kasthuri",
@@ -138,7 +138,7 @@
       "detail": [
         "Research laboratory was established using various funding agencies like DST, TNSCST, FIST, AICTE MODROB etc for the purpose of research and development."
       ],
-      "image": "/assets/images/Laboratories/Ece/research.jpg"
+      "image": "/assets/images/Laboratories/Ece/research.webp"
     },
     {
       "topic": "Foundation Lab 4 (Internet of Things)",
@@ -161,7 +161,7 @@
         "- MACH3Mill",
         "- Arduino IoT Cloud"
       ],
-      "image": "/assets/images/Laboratories/Ece/foundationlab.jpg"
+      "image": "/assets/images/Laboratories/Ece/foundationlab.webp"
     },
     {
       "topic": "Marconi Communication Laboratory",
@@ -180,7 +180,7 @@
         "- LAN Trainer kit",
         "- LVDT Trainer kit"
       ],
-      "image": "/assets/images/Laboratories/Ece/morse_communication_lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/morse_communication_lab.webp"
     },
     {
       "topic": "Marconi Radio Frequency Lab",
@@ -192,7 +192,7 @@
         "- Digital Storage Oscilloscope",
         "- RF Transmitter/ Receiver"
       ],
-      "image": "/assets/images/Laboratories/Ece/marconi_rf_lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/marconi_rf_lab.webp"
     },
     {
       "topic": "Thomson Electronics and Integrated Circuits Laboratory",
@@ -218,7 +218,7 @@
         "- PIC Microcontroller Interface",
         "- Programmer for various Microcontrollers"
       ],
-      "image": "/assets/images/Laboratories/Ece/MPMC_lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/MPMC_lab.webp"
     },
     {
       "topic": "Fourier Digital Signal Processing Laboratory",
@@ -275,7 +275,7 @@
         "- 20-bit Digital IC Trainer kit",
         "- Digital IC Tester"
       ],
-      "image": "/assets/images/Laboratories/Ece/Hollerith_Hardware_Lab_II.jpg"
+      "image": "/assets/images/Laboratories/Ece/Hollerith_Hardware_Lab_II.webp"
     },
     {
       "topic": "Vinton Networks Laboratory",
@@ -287,7 +287,7 @@
         "- Netsim Simulation Software",
         "- Stratoshark"
       ],
-      "image": "/assets/images/Laboratories/Ece/nr_lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/nr_lab.webp"
     },
     {
       "topic": "Kilby VLSI Laboratory",
@@ -321,7 +321,7 @@
         "- Cadence Software - Front end and Back end (15 users)",
         "- Mentor Graphics HEP Category Xilinx Vivado System Edition"
       ],
-      "image": "/assets/images/Laboratories/Ece/ASIC_Lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/ASIC_Lab.webp"
     },
     {
       "topic": "Charles Babbage Computer Centre",
@@ -330,7 +330,7 @@
         "The Open source operating system like Linux is installed in all the system. Also open source software’s like Mysql & Eclipse is installed so the students can explore database and IDE to work on programming languages. The centre is also used for e-learn like NPTEL, Coursera , Edx.",
         "The Computer Centre is fully equipped with uninterrupted power supply and central air-conditioning units."
       ],
-      "image": "/assets/images/Laboratories/Ece/Computer_Centre.jpg"
+      "image": "/assets/images/Laboratories/Ece/Computer_Centre.webp"
     },
     {
       "topic": "Bell Communication System Design Laboratory",
@@ -345,7 +345,7 @@
         "Keysight Advanced Design System",
         "Matlab R2015b"
       ],
-      "image": "/assets/images/Laboratories/Ece/Communication_Systems_Lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/Communication_Systems_Lab.webp"
     },
     {
       "topic": "KEC - Freescale embedded system laboratory",
@@ -377,14 +377,14 @@
         "- STM32CUBE IDE & Arduino IDE",
         "- STMicroelectronics NanoEdge AI Studio Edu Pack"
       ],
-      "image": "/assets/images/Laboratories/Ece/Freescale_Embedded_System_Lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/Freescale_Embedded_System_Lab.webp"
     },
     {
       "topic": "Project Cubicle",
       "detail": [
         "The department has a unique project cubicle for the students to carry out their project work in an environment which facilitates creativity and innovation. Students and research scholars utilize this facility for design, analyze and implement various academic and mini projects."
       ],
-      "image": "/assets/images/Laboratories/Ece/project_cubicle.jpg"
+      "image": "/assets/images/Laboratories/Ece/project_cubicle.webp"
     },
     {
       "topic": "Harvard Advanced Microcontroller Laboratory",
@@ -403,7 +403,7 @@
         "- CCS Compiler",
         "- PCM Command line C Compiler for microchip PIC 10/12/14/16 Devices"
       ],
-      "image": "/assets/images/Laboratories/Ece/AMC_lab.jpg"
+      "image": "/assets/images/Laboratories/Ece/AMC_lab.webp"
     }
   ],
   "library": {
@@ -475,6 +475,6 @@
     "activities": "https://rnd.kongu.edu/#/activities/ece"
   },
   "dept_images": [
-    "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.png"
+    "https://timess3spore.s3.amazonaws.com/ndata/media/Counsellor/CollegeImage/2023/04/23/1682252094.webp"
   ]
 }

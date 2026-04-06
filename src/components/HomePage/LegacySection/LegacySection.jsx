@@ -9,11 +9,11 @@ import {
   HiBadgeCheck,
 } from "react-icons/fa";
 
-import award from "../../../assets/images/HomePage/award.png";
-import GraduationCap from "../../../assets/images/HomePage/GraduationCap.png";
-import Group from "../../../assets/images/HomePage/Group.png";
-import careergrowth from "../../../assets/images/HomePage/career-growth.png";
-import nirf from "../../../assets/images/HomePage/nirf.png";
+import award from "../../../assets/images/HomePage/award.webp";
+import GraduationCap from "../../../assets/images/HomePage/GraduationCap.webp";
+import Group from "../../../assets/images/HomePage/Group.webp";
+import careergrowth from "../../../assets/images/HomePage/career-growth.webp";
+import nirf from "../../../assets/images/HomePage/nirf.webp";
 
 export default function LegacySection() {
   return (

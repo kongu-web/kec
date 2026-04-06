@@ -2,11 +2,11 @@ import React from 'react';
 import { useEffect, useRef, useState } from "react";
 import { useNavigate } from 'react-router-dom';
 import './Ecosystem.css';
-import kongubanner from "../../../assets/images/kecglobe.png";
+import kongubanner from "../../../assets/images/kecglobe.webp";
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faRibbon, faMicrochip, faDiagramProject } from '@fortawesome/free-solid-svg-icons';
-import bgimg from '../../../assets/images/Background images/slider-background.jpg';
+import bgimg from '../../../assets/images/Background images/slider-background.webp';
 
 
 const Ecosystem = () => {

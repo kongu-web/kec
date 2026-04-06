@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./AboutKec.css";
-import aboutImg from "../../../assets/images/aboutkec.jpg";
+import aboutImg from "../../../assets/images/aboutkec.webp";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
@@ -140,13 +140,9 @@ const AboutKec = () => {
                 <tr>
                   <td>Kongu National Matriculation School, Erode</td>
                   <td>
-                    <a
-                      href="http://www.kongunational.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <button className="visit-button">Click Here</button>
-                    </a>
+                    <button className="visit-button" disabled style={{ cursor: "not-allowed", opacity: 0.5 }}>
+                      Click Here
+                    </button>
                   </td>
                 </tr>
               </tbody>

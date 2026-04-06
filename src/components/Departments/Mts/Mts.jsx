@@ -6,7 +6,7 @@ import Footer from "../../HomePage/Footer/Footer";
 import "../Deptstyle.css";
 import autoData from "./mechatronics.json";
 import Slider from "./Slider";
-import Deptimg from "../../../assets/images/Department Banner/mts1.jpeg";
+import Deptimg from "../../../assets/images/Department Banner/mts1.webp";
 import Depthomeimg from "../../../assets/images/Department Banner/mts_home.webp";
 
 const NAV_ITEMS = [
