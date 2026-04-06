@@ -58,7 +58,7 @@ const scrollerImages = require
   .context(
     "../../../../assets/images/PhysicalDept/Scroller",
     false,
-    /\.(png|jpe?g|svg)$/
+    /\.(png|jpe?g|webp|svg)$/
   )
   .keys()
   .map((image) =>
@@ -617,7 +617,7 @@ const Physicaldept = () => {
                   <img
                     src={require(`../../../../assets/images/PhysicalDept/Achievements/achievement-${
                       i + 1
-                    }.jpg`)}
+                    }.webp`)}
                     alt={title}
                   />
                   <p>{title}</p>
