@@ -1,3 +1,13 @@
+import nccImg1 from '../../../assets/images/Clubs/ncc/ncc-1.webp';
+import nccImg2 from '../../../assets/images/Clubs/ncc/ncc-2.webp';
+import nccImg3 from '../../../assets/images/Clubs/ncc/ncc-3.webp';
+import nccImg4 from '../../../assets/images/Clubs/ncc/ncc-4.webp';
+
+import nssImg1 from '../../../assets/images/Clubs/nss/nss-1.webp';
+import nssImg2 from '../../../assets/images/Clubs/nss/nss-2.webp';
+import nssImg3 from '../../../assets/images/Clubs/nss/nss-3.webp';
+import nssImg4 from '../../../assets/images/Clubs/nss/nss-4.webp';
+
 export const clubsData = [
     {
         id: "innovation-hub",
@@ -540,7 +550,7 @@ export const clubsData = [
         ],
         activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
         eventDetails: []
-    }
+    },
     {
         id: "nss",
         name: "National Service Scheme (NSS)",
