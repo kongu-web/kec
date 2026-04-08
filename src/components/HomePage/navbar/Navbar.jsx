@@ -688,6 +688,11 @@ const Navbar = () => {
                     SCC (Student Counselling Cell - Portal)
                   </span>
 
+                  <span onClick={() => navigate("/student-centric-activities")}>
+                    <HostelIcon className="submenu-icon" />
+                    Student Centric Activities
+                  </span>
+
                   <span
                     onClick={() =>
                       window.open("https://kongu.irins.org/", "_blank")
@@ -932,7 +937,7 @@ const Navbar = () => {
                     )
                   }
                 >
-                  Others <span className="arrow">▾</span>
+                  Explore <span className="arrow">▾</span>
                 </li>
 
                 {openMobileMenu === "others" && (
@@ -984,7 +989,7 @@ const Navbar = () => {
                         window.open("https://www.aicte.gov.in/schemes/students-development-schemes", "_blank")
                       }
                     >
-                      AICTE Schemes
+                      AICTE Students Development schemes
                     </li>
 
                     {/* Internal pages */}
@@ -992,6 +997,8 @@ const Navbar = () => {
 
 
                     <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
+
+                    <li onClick={() => navigate("/student-centric-activities")}>Student Centric Activities</li>
 
                     <li
                       onClick={() =>
