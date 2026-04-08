@@ -18,6 +18,7 @@ import daniel from "../../../assets/images/Testimonials/daniel.webp";
 import menaka from "../../../assets/images/Testimonials/menaka.webp";
 import nagarajan from "../../../assets/images/Testimonials/nagarajan.webp";
 import kalaiyarasi from "../../../assets/images/Testimonials/kalaiyarasi.webp";
+import aarthi from "../../../assets/images/Testimonials/aarthi.webp";
 
 const testimonialsData = [
     {
@@ -108,14 +109,7 @@ const testimonialsData = [
         content:
             "The Department of EIE, Kongu Engineering College gave me more than technical knowledge—it gave me confidence, clarity, and career direction. The strong fundamentals and mentorship I received here laid the foundation for my growth as a Senior Associate Project Manager at cognizant",
     },
-    // {
-    //     id: 12,
-    //     name: "Aarthi.G",
-    //     role: "GET-Production, Reliance Industries Ltd, Dahej",
-    //     avatar: aarthi,
-    //     content:
-    //         "My experience at KEC laid the groundwork for long-term professional success and fostered analytical depth,discipline and a strong work ethic, which continue to influence my decision-making and technical approach.The learning culture at KEC has been instrumental in shaping both my career trajectory and professional values.",
-    // },
+    
     {
         id: 12,
         name: "Vignesh Saravanan",
@@ -211,6 +205,14 @@ const testimonialsData = [
         avatar: kalaiyarasi,
         content:
             "As an alumna of the MCA Department, Kongu Engineering College, I received strong guidance and encouragement to explore ideas and think independently. The support from the department played an important role in shaping my path.",
+    },
+    {
+        id: 24,
+        name: "Aarthi.G",
+        role: "GET-Production, Reliance Industries Ltd, Dahej",
+        avatar: aarthi,
+        content:
+            "My experience at KEC laid the groundwork for long-term professional success and fostered analytical depth,discipline and a strong work ethic, which continue to influence my decision-making and technical approach.The learning culture at KEC has been instrumental in shaping both my career trajectory and professional values.",
     },
 ];
 

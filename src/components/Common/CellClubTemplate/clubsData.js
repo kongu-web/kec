@@ -174,6 +174,7 @@ export const clubsData = [
         coordinators: [
             { name: "Mr. K. V. Satheesh Kumar", designation: "Coordinator", dept: "Mech", phone: "" },
             { name: "Dr. V. N. Kowshalya", designation: "Coordinator", dept: "Chemistry", phone: "" },
+             { name: "Ms. S.Sharvanthika", designation: "Coordinator", dept: "CT-UG", phone: "" },
             { name: "Ms. S. Keerthana", designation: "Coordinator", dept: "CT-UG", phone: "" }
         ],
         activitiesSummary: { "2025-26": 8, "2024-25": 12, "2023-24": 10 },
