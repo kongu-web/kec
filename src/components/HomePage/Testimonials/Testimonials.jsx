@@ -108,6 +108,14 @@ const testimonialsData = [
         content:
             "The Department of EIE, Kongu Engineering College gave me more than technical knowledge—it gave me confidence, clarity, and career direction. The strong fundamentals and mentorship I received here laid the foundation for my growth as a Senior Associate Project Manager at cognizant",
     },
+    // {
+    //     id: 12,
+    //     name: "Aarthi.G",
+    //     role: "GET-Production, Reliance Industries Ltd, Dahej",
+    //     avatar: aarthi,
+    //     content:
+    //         "My experience at KEC laid the groundwork for long-term professional success and fostered analytical depth,discipline and a strong work ethic, which continue to influence my decision-making and technical approach.The learning culture at KEC has been instrumental in shaping both my career trajectory and professional values.",
+    // },
     {
         id: 12,
         name: "Vignesh Saravanan",

@@ -5,6 +5,7 @@ import swaramImg from "../../../assets/images/Events/Swaram 2025.webp";
 import ITConference from "../../../assets/images/Events/ITConference.webp";
 import graduationday from "../../../assets/images/Events/graduationday.webp";
 import popupImage from "../../../assets/images/Events/popupimg.webp";
+import sportsquota from "../../../assets/images/Events/sportsquota.webp";
 
 const eventsData = [
     {
@@ -75,6 +76,18 @@ const eventsData = [
         category: "College Function",
         department: "College Level",
          popupImage: popupImage,
+    },
+      {
+        id: 7,
+        image:  sportsquota,
+        date: "April 15 - 16, 2026",
+        title: "Sports Quota Admissions 2026",
+        description: "Kongu Engineering College invites talented players to participate in the Sports Quota Selection Trials – 2026.",
+        location: "College Ground",
+        time: "9:00 AM - 4:00 PM",
+        category: "Sports",
+        department: "College Level",
+        
     }
 ];
 
