@@ -16,8 +16,8 @@ import {
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
-import techImg from '../../../assets/images/WebAlbum/hackathon.webp';
-import sportsImg from '../../../assets/images/WebAlbum/sports.webp';
+import techImg from '../../../assets/images/WebAlbum/images/hackathon.webp';
+import sportsImg from '../../../assets/images/WebAlbum/images/sports.webp';
 import socialImg from '../../../assets/images/HomePage/healthcare.webp';
 import gallery1 from '../../../assets/images/itpark.webp';
 import gallery2 from '../../../assets/images/library.webp';
@@ -26,8 +26,8 @@ import gallery4 from '../../../assets/images/foodcourt.webp';
 import gallery5 from '../../../assets/images/Events/E-Horizon-2025.webp';
 import gallery6 from '../../../assets/images/Events/Pongal Celebration.webp';
 import gallery7 from '../../../assets/images/Events/Kongu Trophy.webp';
-import gallery8 from '../../../assets/images/WebAlbum/vinayagartemple.webp';
-import enthusia from '../../../assets/images/WebAlbum/swaram2026.webp';
+import gallery8 from '../../../assets/images/WebAlbum/images/vinayagartemple.webp';
+import enthusia from '../../../assets/images/WebAlbum/images/swaram2026.webp';
 
 // Using placeholders for avatars if specific ones aren't available
 // import avatar1 from '../../../assets/images/principal.webp';

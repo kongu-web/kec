@@ -1,15 +1,16 @@
 import "./CampusLife.css";
+import { Link } from "react-router-dom";
 
 import sports from "../../../assets/images/HomePage/sports.webp";
-import recreation from "../../../assets/images/HomePage/recreation.webp";
+import itpark from "../../../assets/images/itpark.webp";
 import clubs from "../../../assets/images/HomePage/clubs.webp";
-import dining from "../../../assets/images/HomePage/dining.webp";
 import cultural from "../../../assets/images/HomePage/cultural.webp";
 import music from "../../../assets/images/HomePage/music.webp";
 import healthcare from "../../../assets/images/HomePage/healthcare.webp";
 import gym from "../../../assets/images/HomePage/gym.webp";
 import learning from "../../../assets/images/HomePage/learning.webp";
 import hostel from "../../../assets/images/HomePage/hostel.webp";
+import transport from "../../../assets/images/bus.webp";
 
 const items = [
   {
@@ -17,36 +18,42 @@ const items = [
     desc: "State-level facilities",
     img: sports,
     size: "small",
+    path: "/facilities/physicaldept",
   },
   {
     title: "Cultural Events",
     desc: "Annual tech fest & symposiums",
     img: cultural,
     size: "small",
+    path: "https://enthusia.kongu.edu/",
   },
   {
     title: "Learning Spaces",
     desc: "24/7 library access",
     img: learning,
     size: "small",
+    path: "/facilities/library",
   },
   {
     title: "Student Clubs",
     desc: "50+ active clubs",
     img: clubs,
     size: "small",
+    path: "/student-centric-activities",
   },
   {
     title: "World-Class Hostel Facilities",
     desc: "Separate hostels for boys & girls with modern amenities, Wi-Fi, and 24/7 security",
     img: hostel,
     size: "wide",
+    path: "/facilities/hostelsandaccomodation",
   },
   {
-    title: "Food & Dining",
-    desc: "Multiple cafeterias with diverse cuisines",
-    img: dining,
+    title: "Transport Facilities",
+    desc: "Extensive bus network for easy commute",
+    img: transport,
     size: "small",
+    path: "/facilities/transport",
   },
 
   {
@@ -54,24 +61,28 @@ const items = [
     desc: "Creative expression",
     img: music,
     size: "small",
+    path: "https://enthusia.kongu.edu/",
   },
   {
     title: "Fitness Center",
     desc: "Modern gym facilities",
     img: gym,
     size: "small",
+    path: "/facilities/physicaldept",
   },
   {
-    title: "Recreation",
-    desc: "Green open spaces",
-    img: recreation,
+    title: "IT & Innovation Hub",
+    desc: "State-of-the-art tech ecosystem",
+    img: itpark,
     size: "small",
+    path: "/coe",
   },
   {
     title: "Health Care",
     desc: "24/7 medical support",
     img: healthcare,
     size: "small",
+    path: "/facilities/dispensary",
   },
 ];
 
@@ -86,16 +97,17 @@ export default function CampusLife() {
 
       <div className="gallery">
         {items.map((item, i) => (
-          <div
+          <Link
+            to={item.path}
             key={i}
             className={`card ${item.size}`}
-            style={{ backgroundImage: `url(${item.img})` }}
+            style={{ backgroundImage: `url(${item.img})`, textDecoration: 'none' }}
           >
             <div className="overlay_home">
               <h4>{item.title}</h4>
               <p>{item.desc}</p>
             </div>
-          </div>
+          </Link>
         ))}
       </div>
     </section>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Rankdata.css";
-import img1 from "../../../assets/images/WebAlbum/kec.webp"
-import img2 from "../../../assets/images/WebAlbum/itpark.webp"
+import img1 from "../../../assets/images/WebAlbum/images/kec.webp"
+import img2 from "../../../assets/images/WebAlbum/images/itpark.webp"
 
 const Rankdata = () => {
   return (

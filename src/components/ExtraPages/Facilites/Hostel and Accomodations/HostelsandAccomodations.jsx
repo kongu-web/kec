@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./HostelsandAccomodations.css";
 import Spinner from "../../../Spinner";
+import { FaUserShield, FaUserTie, FaBuilding, FaPhoneAlt, FaHome, FaBed, FaUsers } from "react-icons/fa";
 
 // Importing images
 import guesthouse from "../../../../assets/images/HostelandAccomodation/guesthouse.webp";
@@ -16,7 +17,6 @@ import kamban from "../../../../assets/images/HostelandAccomodation/Kamban.webp"
 import ponnar from "../../../../assets/images/HostelandAccomodation/ponnar.webp";
 import sankar from "../../../../assets/images/HostelandAccomodation/sankar.webp";
 import staff from "../../../../assets/images/HostelandAccomodation/staff.webp";
-import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
 
@@ -36,7 +36,7 @@ const hostels = {
     "Ponnar Mens Hostel",
     "Sankar Mens Hostel",
   ],
-  Other: ["Staff Quarters"],
+  "Other Accommodations": ["Staff Quarters"],
 };
 
 const imageMap = {
@@ -55,42 +55,121 @@ const imageMap = {
   "Staff Quarters": staff,
 };
 
+const contacts = [
+  {
+    role: "ASSOCIATE WARDEN",
+    name: "Dr. K. Kannan",
+    sub: "ALL HOSTELS",
+    phone: "04294 - 226602",
+    icon: <FaUserShield />
+  },
+  {
+    role: "DETY. WARDEN",
+    name: "Dr. K. Manjula Rani",
+    sub: "GIRLS HOSTELS",
+    phone: "04294 - 226401",
+    icon: <FaUserTie />
+  },
+  {
+    role: "MANAGER",
+    name: "Mr. K. M. Prakash",
+    sub: "ADMINISTRATION",
+    phone: "9965902006",
+    icon: <FaBuilding />
+  },
+  {
+    role: "ASST. MANAGER",
+    name: "Ms. J. Balasaraswathi",
+    sub: "ADMINISTRATION",
+    phone: "9600162009",
+    icon: <FaBuilding />
+  },
+  {
+    role: "GENERAL",
+    name: "Hostel Office",
+    sub: "MAIN RECEPTION",
+    phone: "04294 - 226651",
+    icon: <FaPhoneAlt />
+  }
+];
+
 const HostelsandAccommodation = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 1500);
+    const timer = setTimeout(() => setLoading(false), 800);
     return () => clearTimeout(timer);
   }, []);
 
   return loading ? (
     <Spinner />
   ) : (
-    <>
-      {/* <Section/> */}
+    <div className="hostels-page-wrapper">
       <Navbar />
+      
+      {/* ─── Page Hero ─── */}
+      <div className="hostels-hero">
+        <div className="hero-overlay"></div>
+        <div className="hero-content">
+          <h1>Hostels & Accommodation</h1>
+          <p>Providing a home away from home with world-class facilities and a secure environment.</p>
+        </div>
+      </div>
+
       <div className="hostels-container">
-        <h2 className="page-title">Hostels and Accommodation</h2>
+        {/* ─── Hostels Grid ─── */}
         {Object.entries(hostels).map(([category, items]) => (
-          <div key={category} className="hostel-section">
-            <h3 className="category-title">{category}</h3>
-            <div className="cards-wrapper">
+          <section key={category} className="hostel-section">
+            <div className="section-header">
+              <span className="category-tag">{category}</span>
+              <div className="header-line"></div>
+            </div>
+            <div className="cards-grid">
               {items.map((item, index) => (
                 <div key={index} className="hostel-card">
-                  <img
-                    src={imageMap[item]}
-                    alt={item}
-                    className="hostel-image"
-                  />
-                  <p className="hostel-name">{item}</p>
+                  <div className="card-image-wrapper">
+                    <img src={imageMap[item]} alt={item} />
+                  </div>
+                  <div className="card-content">
+                    <div className="card-icon">
+                      {category === "Ladies Hostels" ? <FaUsers /> : <FaBed />}
+                    </div>
+                    <h4>{item}</h4>
+                  </div>
                 </div>
               ))}
             </div>
-          </div>
+          </section>
         ))}
+
+        {/* ─── Contact Section ─── */}
+        <section className="contacts-section">
+          <div className="section-title-wrapper">
+            <h2>Hostel Contacts</h2>
+            <div className="underline"></div>
+          </div>
+          
+          <div className="contacts-grid">
+            {contacts.map((contact, idx) => (
+              <div className="contact-card" key={idx}>
+                <div className="role-badge">{contact.role}</div>
+                <div className="contact-icon-circle">
+                  {contact.icon}
+                </div>
+                <h3 className="contact-name">{contact.name}</h3>
+                <p className="contact-desc">{contact.sub}</p>
+                <div className="phone-pill">
+                  <FaPhoneAlt size={12} />
+                  <span>{contact.phone}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
       </div>
+
       <Footer />
-    </>
+    </div>
   );
 };
 
