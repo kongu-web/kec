@@ -12,6 +12,7 @@ import video8 from "../../../assets/images/HomePage/video8thum.webp";
 import video9 from "../../../assets/images/HomePage/video9thum.webp";
 import video10 from "../../../assets/images/HomePage/video10thum.webp";
 import video11 from "../../../assets/images/HomePage/video11thum.webp";
+import video12 from "../../../assets/images/HomePage/video12thum.webp";
 
 
 function FelicitationSection() {
@@ -23,6 +24,12 @@ function FelicitationSection() {
 
 
   const videos = [
+     {
+      id: "dQCXtJCeh7Q",
+      title: "Techno Cultural Fest",
+      desc: "Glimpse of the Techno Cultural Fest ",
+      thumb: video12,
+    },
      {
       id: "efHL1O6bFPI",
       title: "SIH",

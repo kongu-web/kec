@@ -114,16 +114,22 @@ export const clubsData = [
         id: "cii-yi-yuva",
         name: "CII – Yi Yuva Kongu Engineering College",
         category: "Professional",
-        about: "Yi Yuva is a platform for students to engage in nation-building, leadership, and community service initiatives.",
+        about: "CII Yi YUVA KEC Club is to inspire, mentor, and empower students to become responsible leaders, entrepreneurs, and change-makers in society through innovation, leadership development, and social impact initiatives.",
         objectives: [
-            "To nurture leadership skills among students.",
-            "To involve students in community development projects.",
-            "To provide a platform for networking with industry professionals."
+            "Promote Entrepreneurship – Encourage students to develop entrepreneurial thinking and start innovative ventures.",
+            "Develop Leadership Skills – Provide opportunities for students to build leadership, communication, and decision-making skills.",
+            "Industry Interaction – Connect students with industry leaders and entrepreneurs for knowledge sharing and mentorship.",
+            "Encourage Innovation – Motivate students to create innovative solutions for real-world problems.",
+            "Social Responsibility – Engage students in community development and social impact projects.",
+            "Skill Development – Conduct workshops, training programs, and competitions to enhance professional skills.",
+            "Networking Opportunities – Provide a platform for students to interact with members of Young Indians and industry experts.",
+            "Career and Startup Guidance – Help students explore career paths and support them in building startups."
         ],
         coordinators: [
-            { name: "Ms. M. Dharshne", designation: "Coordinator", dept: "MBA", phone: "" }
+            { name: "Ms. M. Dharshne", designation: "Coordinator", dept: "MBA", phone: "" },
+            { name: "Dr.M.Mohanasundari", designation: "Coordinator", dept: "MBA", phone: "" },
         ],
-        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 4 },
+        activitiesSummary: { "2025-26": 6},
         eventDetails: []
     },
     {
@@ -365,7 +371,7 @@ export const clubsData = [
             { name: "Dr. V. Sampath Kumar", designation: "Coordinator", dept: "Civil", phone: "" },
             { name: "Mr. S. Jegan", designation: "Coordinator", dept: "EIE", phone: "" }
         ],
-        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 4 },
+        activitiesSummary: { "2025-26": 6, "2024-25": 6, "2023-24": 8 },
         eventDetails: []
     },
     {
