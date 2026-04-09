@@ -588,5 +588,25 @@ export const clubsData = [
         activitiesSummary: { "2025-26": 6, "2024-25": 12, "2023-24": 15 },
         eventDetails: [],
         gallery: [nccImg1, nccImg2, nccImg3, nccImg4]
+    },
+     {
+        id: "watts-next",
+        name: "WATT’S NEXT ",
+        category: "Technical",
+        about: "To create a dynamic platform that nurtures innovation and practical learning by strengthening students’ technical knowledge, inspiring them to design and develop product-based solutions, providing industry and research exposure, and enhancing their problem-solving and presentation skills.",
+        objectives: [
+            "To develop the technical knowledge of first-year students to conceptualize and present product development ideas.",
+            "To create a platform for product development through industrial training.",
+            "To impart hands-on experience in essential engineering practices, including case studies, problem-solving, and scholarly presentations.",
+            "To coordinate visits to reputed research laboratories and promote research and development (R&D) activities among students and faculty."
+
+        ],
+        coordinators: [
+            { name: "Dr. P. Manikandan", designation: "Coordinator", dept: "Chemistry", phone: "" },
+            { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "" },
+            { name: "Mr. R. Thirumalairajan", designation: "Coordinator", dept: "English", phone: "" }
+        ],
+        activitiesSummary: {  },
+        eventDetails: []
     }
 ];
