@@ -305,15 +305,16 @@ export const clubsData = [
         category: "Social",
         about: "The green initiative of KEC focused on campus afforestation and environmental awareness.",
         objectives: [
-            "To increase the green cover of the KEC campus.",
-            "To maintain the biodiversity of the institution.",
-            "To involve students in nature-friendly projects."
+            "To encourage planting and conservation of native tree varieties, develop green spaces using modern ecological concepts, and motivate community participation in nature conservation.",
+            "To support and promote natural farming and healthy food practices inspired by Dr. G. Nammalvar, while fostering environmental awareness and sustainable living.",
+            "To restore ecological balance and protect biodiversity through native tree conservation, community-driven afforestation, and adoption of eco-friendly habits including proper waste management."
         ],
         coordinators: [
-            { name: "Dr. P. Srinivasan", designation: "Coordinator", dept: "Chemistry", phone: "" },
-            { name: "Mr. A. Saravanan", designation: "Coordinator", dept: "Mech", phone: "" }
+            { name: "Mr. A. Saravanan", designation: "Coordinator", dept: "Mech", phone: "" },
+            { name: "Dr. P. Srinivasan", designation: "Coordinator", dept: "Chemistry", phone: "" }
+            
         ],
-        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 4 },
+        activitiesSummary: { "2025-26": 11, "2024-25": 14, "2023-24": 8 },
         eventDetails: []
     },
     {
@@ -531,9 +532,11 @@ export const clubsData = [
             "To conduct mock safety drills."
         ],
         coordinators: [
-            { name: "Mr. T. Saravanan", designation: "Coordinator", dept: "Mechanical", phone: "" }
+            { name: "Mr. R. Gowtham", designation: "Coordinator", dept: "Automobile", phone: "" },
+            { name: "Mr. T. Surendran", designation: "Coordinator", dept: "Mechatronics", phone: "" },
+
         ],
-        activitiesSummary: { "2025-26": 2, "2024-25": 4, "2023-24": 3 },
+        activitiesSummary: { "2025-26": 2 },
         eventDetails: []
     },
     {

@@ -9,6 +9,9 @@ import video5 from "../../../assets/images/HomePage/video5thum.webp";
 import video6 from "../../../assets/images/HomePage/video6thum.webp";
 import video7 from "../../../assets/images/HomePage/video7thum.webp";
 import video8 from "../../../assets/images/HomePage/video8thum.webp";
+import video9 from "../../../assets/images/HomePage/video9thum.webp";
+import video10 from "../../../assets/images/HomePage/video10thum.webp";
+import video11 from "../../../assets/images/HomePage/video11thum.webp";
 
 
 function FelicitationSection() {
@@ -20,6 +23,24 @@ function FelicitationSection() {
 
 
   const videos = [
+     {
+      id: "efHL1O6bFPI",
+      title: "SIH",
+      desc: "Cognitivex: GenAI Hackathon",
+      thumb: video11,
+    },
+     {
+      id: "-bfVWAnaC4U",
+      title: "Sports Event",
+      desc: "Kongu Trophy Day 3",
+      thumb: video10,
+    },
+     {
+      id: "-5a4A1TKyds",
+      title: "Sports Event",
+      desc: "Kongu Trophy Day 2",
+      thumb: video9,
+    },
     {
       id: "AziujvFBzmk",
       title: "Banana Fiber",
