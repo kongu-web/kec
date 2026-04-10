@@ -140,7 +140,7 @@ const Footer = () => {
                 <a href="/research-ipr">Research & IPR Committee</a>
               </li>
               <li>
-                <a href="#" title="Institution Innovation Council">Institution Innovation Council</a>
+                <a href="/iic" title="Institution Innovation Council">Institution Innovation Council</a>
               </li>
               <li>
                 <a href="/industry-cell">Institute Industry Cell</a>
