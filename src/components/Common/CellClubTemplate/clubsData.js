@@ -9,91 +9,91 @@ import nssImg3 from '../../../assets/images/Clubs/nss/nss-3.webp';
 import nssImg4 from '../../../assets/images/Clubs/nss/nss-4.webp';
 
 export const clubsData = [
-    {
-        id: "innovation-hub",
-        name: "KEC Innovation & Startup Hub",
-        category: "Technical",
-        about: "Dedicated to fostering a culture of innovation and entrepreneurship among students by providing technical resources, mentorship, and a platform to launch startups.",
-        objectives: [
-            "To provide a collaborative workspace for student inventors.",
-            "To mentor students on intellectual property and patent filing.",
-            "To connect student startups with venture capitalists and investors.",
-            "To conduct regular hackathons and idea pitching competitions."
-        ],
-        coordinators: [
-            {
-                name: "Dr. A. Arulvel",
-                designation: "Chief Coordinator",
-                dept: "Innovation Center",
-                phone: "+91 98765 43210",
-                email: "arulvel@kongu.ac.in",
-                image: "" // Mock image
-            },
-            {
-                name: "Mr. S. Karthick",
-                designation: "Assistant Coordinator",
-                dept: "CSE",
-                phone: "+91 91234 56789",
-                email: "karthick.cse@kongu.ac.in",
-                image: "" // Mock image
-            }
-        ],
-        activitiesSummary: {
-            "2025-26": 5,
-            "2024-25": 12,
-            "2023-24": 8
-        },
-        eventDetails: [
-            {
-                year: "2025-26",
-                events: [
-                    {
-                        sno: 1,
-                        name: "Idea Pitchathon 2026",
-                        date: "Feb 10, 2026",
-                        details: "A campus-wide competition where students pitched their startup ideas to a panel of industrial experts."
-                    },
-                    {
-                        sno: 2,
-                        name: "Workshop on Patent Filing",
-                        date: "Jan 15, 2026",
-                        details: "Hands-on session on how to transform academic projects into legal patents."
-                    }
-                ]
-            },
-            {
-                year: "2024-25",
-                events: [
-                    {
-                        sno: 1,
-                        name: "Startup Expo",
-                        date: "Oct 22, 2024",
-                        details: "Showcasing student-led ventures to local business leaders and alumni."
-                    }
-                ]
-            }
-        ],
-        gallery: [
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
-            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800"
-        ],
-        driveLink: "https://drive.google.com/sample",
-        reports: [
-            { title: "Annual Innovation Report 2025", link: "#" },
-            { title: "Success Stories: KEC Startups", link: "#" }
-        ],
-        otherDetails: "The Hub is accessible 24/7 for registered members working on approved projects."
-    },
+    // {
+    //     id: "innovation-hub",
+    //     name: "KEC Innovation & Startup Hub",
+    //     category: "Technical",
+    //     about: "Dedicated to fostering a culture of innovation and entrepreneurship among students by providing technical resources, mentorship, and a platform to launch startups.",
+    //     objectives: [
+    //         "To provide a collaborative workspace for student inventors.",
+    //         "To mentor students on intellectual property and patent filing.",
+    //         "To connect student startups with venture capitalists and investors.",
+    //         "To conduct regular hackathons and idea pitching competitions."
+    //     ],
+    //     coordinators: [
+    //         {
+    //             name: "Dr. A. Arulvel",
+    //             designation: "Chief Coordinator",
+    //             dept: "Innovation Center",
+    //             phone: "+91 98765 43210",
+    //             email: "arulvel@kongu.ac.in",
+    //             image: "" // Mock image
+    //         },
+    //         {
+    //             name: "Mr. S. Karthick",
+    //             designation: "Assistant Coordinator",
+    //             dept: "CSE",
+    //             phone: "+91 91234 56789",
+    //             email: "karthick.cse@kongu.ac.in",
+    //             image: "" // Mock image
+    //         }
+    //     ],
+    //     activitiesSummary: {
+    //         "2025-26": 5,
+    //         "2024-25": 12,
+    //         "2023-24": 8
+    //     },
+    //     eventDetails: [
+    //         {
+    //             year: "2025-26",
+    //             events: [
+    //                 {
+    //                     sno: 1,
+    //                     name: "Idea Pitchathon 2026",
+    //                     date: "Feb 10, 2026",
+    //                     details: "A campus-wide competition where students pitched their startup ideas to a panel of industrial experts."
+    //                 },
+    //                 {
+    //                     sno: 2,
+    //                     name: "Workshop on Patent Filing",
+    //                     date: "Jan 15, 2026",
+    //                     details: "Hands-on session on how to transform academic projects into legal patents."
+    //                 }
+    //             ]
+    //         },
+    //         {
+    //             year: "2024-25",
+    //             events: [
+    //                 {
+    //                     sno: 1,
+    //                     name: "Startup Expo",
+    //                     date: "Oct 22, 2024",
+    //                     details: "Showcasing student-led ventures to local business leaders and alumni."
+    //                 }
+    //             ]
+    //         }
+    //     ],
+    //     gallery: [
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=800",
+    //         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800"
+    //     ],
+    //     driveLink: "https://drive.google.com/sample",
+    //     reports: [
+    //         { title: "Annual Innovation Report 2025", link: "#" },
+    //         { title: "Success Stories: KEC Startups", link: "#" }
+    //     ],
+    //     otherDetails: "The Hub is accessible 24/7 for registered members working on approved projects."
+    // },
     {
         id: "citizen-consumer",
         name: "Citizen Consumer / Legal Literacy Club",
@@ -105,9 +105,9 @@ export const clubsData = [
             "To organize seminars on consumer protection laws."
         ],
         coordinators: [
-            { name: "Dr. V. Vaishnavi", designation: "Coordinator", dept: "MBA", phone: "" }
+            { name: "Dr. V. Vaishnavi", designation: "Coordinator", dept: "MBA", phone: "9003463969" }
         ],
-        activitiesSummary: { "2025-26": 2, "2024-25": 4, "2023-24": 3 },
+        activitiesSummary: { "2025-26": 7, "2024-25": 8},
         eventDetails: []
     },
     {
@@ -126,8 +126,8 @@ export const clubsData = [
             "Career and Startup Guidance – Help students explore career paths and support them in building startups."
         ],
         coordinators: [
-            { name: "Ms. M. Dharshne", designation: "Coordinator", dept: "MBA", phone: "" },
-            { name: "Dr.M.Mohanasundari", designation: "Coordinator", dept: "MBA", phone: "" },
+            { name: "Ms. M. Dharshne", designation: "Coordinator", dept: "MBA", phone: "9443752057" },
+            { name: "Dr.M.Mohanasundari", designation: "Coordinator", dept: "MBA", phone: "9486763908" },
         ],
         activitiesSummary: { "2025-26": 6},
         eventDetails: []
@@ -143,10 +143,10 @@ export const clubsData = [
             "To prepare students for cloud certifications."
         ],
         coordinators: [
-            { name: "Dr. PCD. Kalaivani", designation: "Coordinator", dept: "CSE", phone: "" },
-            { name: "Dr. N. Sasipriyaa", designation: "Coordinator", dept: "CSE", phone: "" }
+            { name: "Dr. PCD. Kalaivaani", designation: "Coordinator", dept: "CSE", phone: "9659447988" },
+            { name: "Dr. N. Sasipriyaa", designation: "Coordinator", dept: "CSE", phone: "9976798392" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 9, "2024-25": 5, "2023-24": 9 },
         eventDetails: []
     },
     {
@@ -160,11 +160,11 @@ export const clubsData = [
             "To explore new algorithms and data structures."
         ],
         coordinators: [
-            { name: "Dr. R. S. Latha", designation: "Coordinator", dept: "AI", phone: "" },
-            { name: "Ms. K. Karthika", designation: "Coordinator", dept: "CT-PG", phone: "" },
-            { name: "Ms. R. Subapriya", designation: "Coordinator", dept: "AI", phone: "" }
+            { name: "Dr. R. S. Latha", designation: "Coordinator", dept: "AI", phone: "	9500459161" },
+            { name: "Ms. K. Karthika", designation: "Coordinator", dept: "CT-PG", phone: "8056515700" },
+            { name: "Ms. R. Subapriya", designation: "Coordinator", dept: "AI", phone: "9442732285" }
         ],
-        activitiesSummary: { "2025-26": 6, "2024-25": 10, "2023-24": 8 },
+        activitiesSummary: { "2025-26": 5},
         eventDetails: []
     },
     {
@@ -178,12 +178,12 @@ export const clubsData = [
             "To train students in various art forms and instruments."
         ],
         coordinators: [
-            { name: "Mr. K. V. Satheesh Kumar", designation: "Coordinator", dept: "Mech", phone: "" },
-            { name: "Dr. V. N. Kowshalya", designation: "Coordinator", dept: "Chemistry", phone: "" },
-             { name: "Ms. S.Sharvanthika", designation: "Coordinator", dept: "CT-UG", phone: "" },
-            { name: "Ms. S. Keerthana", designation: "Coordinator", dept: "CT-UG", phone: "" }
+            { name: "Mr. K. V. Satheesh Kumar", designation: "Coordinator", dept: "Mech", phone: "6383219802" },
+            { name: "Dr. V. N. Kowshalya", designation: "Coordinator", dept: "Chemistry", phone: "9715557900" },
+             { name: "Ms. S.Sharvanthika", designation: "Coordinator", dept: "CT-UG", phone: "8778955508" },
+            { name: "Ms. S. Keerthana", designation: "Coordinator", dept: "CT-UG", phone: "8870756287" }
         ],
-        activitiesSummary: { "2025-26": 8, "2024-25": 12, "2023-24": 10 },
+        activitiesSummary: { "2025-26": 10, "2024-25": 13, "2023-24": 9 },
         eventDetails: []
     },
     {
@@ -197,10 +197,10 @@ export const clubsData = [
             "To conduct audits and workshops on sustainability."
         ],
         coordinators: [
-            { name: "Dr. S. Gomathy", designation: "Coordinator", dept: "EEE", phone: "" },
-            { name: "Mr. R. Sathish Raam", designation: "Coordinator", dept: "Chemical", phone: "" }
+            { name: "Dr. S. Gomathy", designation: "Coordinator", dept: "EEE", phone: "9715063781" },
+            { name: "Mr. R. Sathish Raam", designation: "Coordinator", dept: "Chemical", phone: "9789535777" }
         ],
-        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 4 },
+        activitiesSummary: { "2025-26": 11, "2024-25": 8, "2023-24": 7 },
         eventDetails: []
     },
     {
@@ -214,10 +214,10 @@ export const clubsData = [
             "To organize debating and public speaking sessions."
         ],
         coordinators: [
-            { name: "Dr. T. Geetha", designation: "Coordinator", dept: "English", phone: "" },
-            { name: "Dr. B. Priyadharishini", designation: "Coordinator", dept: "English", phone: "" }
+            { name: "Dr. T. Geetha", designation: "Coordinator", dept: "English", phone: "8489788914" },
+            { name: "Dr. B. Priyadharishini", designation: "Coordinator", dept: "English", phone: "9940902480" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 10, "2024-25": 14, "2023-24": 12 },
         eventDetails: []
     },
     {
@@ -231,10 +231,11 @@ export const clubsData = [
             "To bridge the gap between academic learning and industry projects."
         ],
         coordinators: [
-            { name: "Dr. M. Geetha", designation: "Coordinator", dept: "CSE", phone: "" },
-            { name: "Mr. S. Selvaraj", designation: "Coordinator", dept: "CSD", phone: "" }
+            { name: "Dr. M. Geetha", designation: "Coordinator", dept: "CSE", phone: "9489241573" },
+            { name: "Mr. S. Selvaraj", designation: "Coordinator", dept: "CSD", phone: "9994284106" },
+            { name: "Ms.T.E.Ramya", designation: "Coordinator", dept: "CSE", phone: "8883677334" }
         ],
-        activitiesSummary: { "2025-26": 2, "2024-25": 4, "2023-24": 3 },
+        activitiesSummary: { "2025-26": 11 },
         eventDetails: []
     },
     {
@@ -248,10 +249,10 @@ export const clubsData = [
             "To provide a platform for discussing gender-related issues."
         ],
         coordinators: [
-            { name: "Dr. K. Dinesh", designation: "Coordinator", dept: "CSE", phone: "" },
-            { name: "Ms. S. Mohana Saranya", designation: "Coordinator", dept: "CSE", phone: "" }
+            { name: "Dr. K. Dinesh", designation: "Coordinator", dept: "CSE", phone: "9944846480" },
+            { name: "Ms. S. Mohana Saranya", designation: "Coordinator", dept: "CSE", phone: "9942974490" }
         ],
-        activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
+        activitiesSummary: { "2025-26": 5, "2024-25": 6, "2023-24": 6 },
         eventDetails: []
     },
     {
@@ -265,10 +266,10 @@ export const clubsData = [
             "To guide students on study-abroad opportunities."
         ],
         coordinators: [
-            { name: "Dr. R. Ramya Sri", designation: "Coordinator", dept: "English", phone: "" },
-            { name: "Ms. S. Shobana", designation: "Coordinator", dept: "English", phone: "" }
+            { name: "Dr. R. Ramya Sri", designation: "Coordinator", dept: "English", phone: "8012617387" },
+            { name: "Ms. S. Shobana", designation: "Coordinator", dept: "English", phone: "9360038345" }
         ],
-        activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 6 },
+        activitiesSummary: { "2025-26": 7, "2024-25": 9, "2023-24": 6 },
         eventDetails: []
     },
     {
@@ -282,10 +283,10 @@ export const clubsData = [
             "To empower students with self-defense techniques."
         ],
         coordinators: [
-            { name: "Ms. K. Krishnaveni", designation: "Coordinator", dept: "Chemistry", phone: "" },
-            { name: "Mr. D. Gurukumaresan", designation: "Coordinator", dept: "Maths", phone: "" }
+            { name: "Ms. K. Krishnaveni", designation: "Coordinator", dept: "Chemistry", phone: "9994814845" },
+            { name: "Mr. D. Gurukumaresan", designation: "Coordinator", dept: "Maths", phone: "9751285352" }
         ],
-        activitiesSummary: { "2025-26": 12, "2024-25": 15, "2023-24": 10 },
+        activitiesSummary: { "2025-26": 4, "2024-25": 7, "2023-24": 7 },
         eventDetails: []
     },
     {
@@ -299,15 +300,15 @@ export const clubsData = [
             "To help students build and publish their own apps."
         ],
         coordinators: [
-            { name: "Mr. A. P. Pon Selva Kumar", designation: "Coordinator", dept: "IT", phone: "" },
-            { name: "Ms. P. Vanitha", designation: "Coordinator", dept: "IT", phone: "" }
+            { name: "Mr. A. P. Pon Selva Kumar", designation: "Coordinator", dept: "IT", phone: "9942074214" },
+            { name: "Ms. P. Vanitha", designation: "Coordinator", dept: "IT", phone: "9488066933 " }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 6, "2024-25": 7, "2023-24": 7 },
         eventDetails: []
     },
     {
         id: "pasumaivanam",
-        name: "Pasumaivanam",
+        name: "Pasumaivanam Club",
         category: "Social",
         about: "The green initiative of KEC focused on campus afforestation and environmental awareness.",
         objectives: [
@@ -316,8 +317,8 @@ export const clubsData = [
             "To restore ecological balance and protect biodiversity through native tree conservation, community-driven afforestation, and adoption of eco-friendly habits including proper waste management."
         ],
         coordinators: [
-            { name: "Mr. A. Saravanan", designation: "Coordinator", dept: "Mech", phone: "" },
-            { name: "Dr. P. Srinivasan", designation: "Coordinator", dept: "Chemistry", phone: "" }
+            { name: "Mr. A. Saravanan", designation: "Coordinator", dept: "Mech", phone: " 9789467617" },
+            { name: "Dr. P. Srinivasan", designation: "Coordinator", dept: "Chemistry", phone: "9788632868" }
             
         ],
         activitiesSummary: { "2025-26": 11, "2024-25": 14, "2023-24": 8 },
@@ -334,10 +335,10 @@ export const clubsData = [
             "To conduct workshops and exhibitions of student work."
         ],
         coordinators: [
-            { name: "Mr. N. P. Saravanan", designation: "Coordinator", dept: "CSE", phone: "" },
-            { name: "Mr. S. K. Logesh", designation: "Coordinator", dept: "EEE", phone: "" }
+            { name: "Mr. N. P. Saravanan", designation: "Coordinator", dept: "CSE", phone: "9976874089" },
+            { name: "Mr. S. K. Logesh", designation: "Coordinator", dept: "EEE", phone: "9443350335" }
         ],
-        activitiesSummary: { "2025-26": 10, "2024-25": 15, "2023-24": 12 },
+        activitiesSummary: { "2025-26": 6, "2024-25": 8, "2023-24": 8 },
         eventDetails: []
     },
     {
@@ -351,10 +352,10 @@ export const clubsData = [
             "To organize regular brain-storming sessions."
         ],
         coordinators: [
-            { name: "Dr. K. Senthilkumar", designation: "Coordinator", dept: "Food Tech", phone: "" },
-            { name: "Dr. S. Sathya", designation: "Coordinator", dept: "Maths", phone: "" }
+            { name: "Dr. K. Senthilkumar", designation: "Coordinator", dept: "Food Tech", phone: "9842844880" },
+            { name: "Dr. S. Sathya", designation: "Coordinator", dept: "Maths", phone: "9688009938" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 8 },
         eventDetails: []
     },
     {
@@ -368,8 +369,8 @@ export const clubsData = [
             "To organize workshops on traditional and modern art forms."
         ],
         coordinators: [
-            { name: "Dr. V. Sampath Kumar", designation: "Coordinator", dept: "Civil", phone: "" },
-            { name: "Mr. S. Jegan", designation: "Coordinator", dept: "EIE", phone: "" }
+            { name: "Dr. V. Sampath Kumar", designation: "Coordinator", dept: "Civil", phone: "9047151001" },
+            { name: "Mr. S. Jegan", designation: "Coordinator", dept: "EIE", phone: "7598279706" }
         ],
         activitiesSummary: { "2025-26": 6, "2024-25": 6, "2023-24": 8 },
         eventDetails: []
@@ -385,10 +386,10 @@ export const clubsData = [
             "To encourage students to participate in social service."
         ],
         coordinators: [
-            { name: "Dr. V. Yamuna", designation: "Coordinator", dept: "Maths", phone: "" },
-            { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "" }
+            { name: "Dr. V. Yamuna", designation: "Coordinator", dept: "Maths", phone: "	9698919364 " },
+            { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "9080554215" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 8, "2024-25": 5},
         eventDetails: []
     },
     {
@@ -402,10 +403,10 @@ export const clubsData = [
             "To provide a workspace for student hardware projects."
         ],
         coordinators: [
-            { name: "Dr. S. K. Thangarasu", designation: "Coordinator", dept: "MTS", phone: "" },
-            { name: "Mr. S. Santhoshkumar", designation: "Coordinator", dept: "MTS", phone: "" }
+            { name: "Dr. S. K. Thangarasu", designation: "Coordinator", dept: "MTS", phone: "9942783338" },
+            { name: "Mr. S. Santhoshkumar", designation: "Coordinator", dept: "MTS", phone: "9025232091" }
         ],
-        activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 7 },
+        activitiesSummary: { "2025-26": 8, "2024-25": 9, "2023-24": 9 },
         eventDetails: []
     },
     {
@@ -419,9 +420,9 @@ export const clubsData = [
             "To collaborate on international community projects."
         ],
         coordinators: [
-            { name: "Dr. K. Vishnuvardhan", designation: "Coordinator", dept: "Civil", phone: "" }
+            { name: "Dr. K. Vishnuvardhan", designation: "Coordinator", dept: "Civil", phone: "9791674174" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 7, "2023-24": 6 },
+        activitiesSummary: { "2025-26": 4, "2024-25": 4, "2023-24": 6 },
         eventDetails: []
     },
     {
@@ -435,10 +436,10 @@ export const clubsData = [
             "To help students develop a positive and growth-oriented mindset."
         ],
         coordinators: [
-            { name: "Dr. N. Prakash", designation: "Coordinator", dept: "MBA", phone: "" },
-            { name: "Dr. S. Kavitha Bharathi", designation: "Coordinator", dept: "CT-UG", phone: "" }
+            { name: "Dr. N. Prakash", designation: "Coordinator", dept: "MBA", phone: " 9842721589" },
+            { name: "Dr. S. Kavitha Bharathi", designation: "Coordinator", dept: "CT-UG", phone: "9965540601" }
         ],
-        activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 7 },
+        activitiesSummary: { "2025-26": 8, "2024-25": 5, "2023-24": 9 },
         eventDetails: []
     },
     {
@@ -452,10 +453,10 @@ export const clubsData = [
             "To help students prepare for competitive exams."
         ],
         coordinators: [
-            { name: "Dr. AL. Nachammai", designation: "Coordinator", dept: "Maths", phone: "" },
-            { name: "Dr. K. Radhika", designation: "Coordinator", dept: "Maths", phone: "" }
+            { name: "Dr. AL. Nachammai", designation: "Coordinator", dept: "Maths", phone: "9095059729" },
+            { name: "Dr. K. Radhika", designation: "Coordinator", dept: "Maths", phone: "	9150780480" }
         ],
-        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 4 },
+        activitiesSummary: { "2025-26": 7, "2024-25": 13, "2023-24": 10 },
         eventDetails: []
     },
     {
@@ -469,10 +470,10 @@ export const clubsData = [
             "To encourage writing and creative expression in Tamil."
         ],
         coordinators: [
-            { name: "Dr. A. S. Periasamy Manikandan", designation: "Coordinator", dept: "Chemical", phone: "" },
-            { name: "Dr. R. Mouleeshuwarapprabu", designation: "Coordinator", dept: "EIE", phone: "" }
+            { name: "Dr. A. S. Periasamy Manikandan", designation: "Coordinator", dept: "Chemical", phone: "9442520334" },
+            { name: "Dr. R. Mouleeshuwarapprabu", designation: "Coordinator", dept: "EIE", phone: "9786664799" }
         ],
-        activitiesSummary: { "2025-26": 6, "2024-25": 10, "2023-24": 8 },
+        activitiesSummary: { "2025-26": 17, "2024-25": 16, "2023-24": 18 },
         eventDetails: []
     },
     {
@@ -486,10 +487,10 @@ export const clubsData = [
             "To organize workshops on entrepreneurship for women."
         ],
         coordinators: [
-            { name: "Dr. D. Malathi", designation: "Coordinator", dept: "ECE", phone: "" },
-            { name: "Dr. A. Revathi", designation: "Coordinator", dept: "Chemistry", phone: "" }
+            { name: "Dr. D. Malathi", designation: "Coordinator", dept: "ECE", phone: "9842780385" },
+            { name: "Dr. A. Revathi", designation: "Coordinator", dept: "Chemistry", phone: "9942303014" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 24, "2024-25": 28, "2023-24": 15 },
         eventDetails: []
     },
     {
@@ -503,11 +504,11 @@ export const clubsData = [
             "To teach life-balancing techniques for students."
         ],
         coordinators: [
-            { name: "Dr. R. Thamilselvan", designation: "Coordinator", dept: "CSE", phone: "" },
-            { name: "Dr. P. Vadivel", designation: "Coordinator", dept: "Maths", phone: "" },
-            { name: "Dr. L. Rahunathan", designation: "Coordinator", dept: "MCA", phone: "" }
+            { name: "Dr. R. Thamilselvan", designation: "Coordinator", dept: "CSE", phone: "9443916069" },
+            { name: "Dr. P. Vadivel", designation: "Coordinator", dept: "Maths", phone: "9842122611" },
+            { name: "Dr. L. Rahunathan", designation: "Coordinator", dept: "MCA", phone: "9095296777" }
         ],
-        activitiesSummary: { "2025-26": 15, "2024-25": 20, "2023-24": 18 },
+        activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
         eventDetails: []
     },
     {
@@ -521,10 +522,10 @@ export const clubsData = [
             "To organize community service and relief camps."
         ],
         coordinators: [
-            { name: "Dr. G. Mugaishudeen", designation: "Coordinator", dept: "Chemical", phone: "" },
-            { name: "Dr. S. Yamunadevi", designation: "Coordinator", dept: "Maths", phone: "" }
+            { name: "Dr. G. Mugaishudeen", designation: "Coordinator", dept: "Chemical", phone: "9842040470" },
+            { name: "Dr. S. Yamunadevi", designation: "Coordinator", dept: "Maths", phone: "9942663067" }
         ],
-        activitiesSummary: { "2025-26": 4, "2024-25": 6, "2023-24": 5 },
+        activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 5 },
         eventDetails: []
     },
     {
@@ -538,8 +539,8 @@ export const clubsData = [
             "To conduct mock safety drills."
         ],
         coordinators: [
-            { name: "Mr. R. Gowtham", designation: "Coordinator", dept: "Automobile", phone: "" },
-            { name: "Mr. T. Surendran", designation: "Coordinator", dept: "Mechatronics", phone: "" },
+            { name: "Mr. R. Gowtham", designation: "Coordinator", dept: "Automobile", phone: "9629702739" },
+            { name: "Mr. T. Surendran", designation: "Coordinator", dept: "Mechatronics", phone: "7358761043" },
 
         ],
         activitiesSummary: { "2025-26": 2 },
@@ -559,6 +560,26 @@ export const clubsData = [
             { name: "Dr. S. Karthikeyan", designation: "Coordinator", dept: "Civil", phone: "" }
         ],
         activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
+        eventDetails: []
+    },
+    {
+        id: "watts-next",
+        name: "WATT’S NEXT ",
+        category: "Technical",
+        about: "To create a dynamic platform that nurtures innovation and practical learning by strengthening students’ technical knowledge, inspiring them to design and develop product-based solutions, providing industry and research exposure, and enhancing their problem-solving and presentation skills.",
+        objectives: [
+            "To develop the technical knowledge of first-year students to conceptualize and present product development ideas.",
+            "To create a platform for product development through industrial training.",
+            "To impart hands-on experience in essential engineering practices, including case studies, problem-solving, and scholarly presentations.",
+            "To coordinate visits to reputed research laboratories and promote research and development (R&D) activities among students and faculty."
+
+        ],
+        coordinators: [
+            { name: "Dr. P. Manikandan", designation: "Coordinator", dept: "Chemistry", phone: "9715508383" },
+            { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "	9080554215" },
+            { name: "Mr. R. Thirumalairajan", designation: "Coordinator", dept: "English", phone: "7904544862" }
+        ],
+        activitiesSummary: {  },
         eventDetails: []
     },
     {
@@ -594,25 +615,6 @@ export const clubsData = [
         activitiesSummary: { "2025-26": 6, "2024-25": 12, "2023-24": 15 },
         eventDetails: [],
         gallery: [nccImg1, nccImg2, nccImg3, nccImg4]
-    },
-     {
-        id: "watts-next",
-        name: "WATT’S NEXT ",
-        category: "Technical",
-        about: "To create a dynamic platform that nurtures innovation and practical learning by strengthening students’ technical knowledge, inspiring them to design and develop product-based solutions, providing industry and research exposure, and enhancing their problem-solving and presentation skills.",
-        objectives: [
-            "To develop the technical knowledge of first-year students to conceptualize and present product development ideas.",
-            "To create a platform for product development through industrial training.",
-            "To impart hands-on experience in essential engineering practices, including case studies, problem-solving, and scholarly presentations.",
-            "To coordinate visits to reputed research laboratories and promote research and development (R&D) activities among students and faculty."
-
-        ],
-        coordinators: [
-            { name: "Dr. P. Manikandan", designation: "Coordinator", dept: "Chemistry", phone: "" },
-            { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "" },
-            { name: "Mr. R. Thirumalairajan", designation: "Coordinator", dept: "English", phone: "" }
-        ],
-        activitiesSummary: {  },
-        eventDetails: []
     }
+     
 ];
