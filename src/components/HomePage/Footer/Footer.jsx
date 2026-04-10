@@ -134,7 +134,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="http://rnd.kongu.edu/patents.php">Patents</a>
+                <a href="https://rnd.kongu.edu/#/patents">Patents</a>
               </li>
               <li>
                 <a href="/research-ipr">Research & IPR Committee</a>
