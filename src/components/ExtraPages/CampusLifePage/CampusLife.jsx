@@ -12,7 +12,7 @@ import {
     FaBook, FaUtensils, FaBed, FaHeartbeat, FaBasketballBall, FaWifi, FaBus,
     FaMusic, FaPalette, FaCamera, FaTheaterMasks, FaNewspaper, FaCode, FaLeaf, FaComments, FaChess, FaRocket,
     FaUniversity, FaUsers, FaTrophy, FaCalendarAlt, FaStar, FaGlobe, FaChevronRight,
-    FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt, FaTimes
+    FaAmbulance, FaTint, FaStore, FaLandmark, FaEnvelope, FaBolt, FaTimes, FaShieldAlt, FaHeart
 } from 'react-icons/fa';
 
 // Importing Images (using existing assets)
@@ -74,6 +74,10 @@ const CampusLife = () => {
         { icon: <FaTrophy />, name: "Quiz Club", color: "#fbc2eb", path: "/clubs/quiz-club" },
         { icon: <FaRocket />, name: "Robotics", color: "#00c6ff", path: "/clubs/robotics-club" },
         { icon: <FaGlobe />, name: "Tamil Mandram", color: "#11998e", path: "/clubs/tamil-mandram" },
+        { icon: <FaChess />, name: "Chess Club", color: "#f9d423", path: "/clubs/chess-club" },
+        { icon: <FaNewspaper />, name: "Editorial Board", color: "#4facfe", path: "/clubs/editorial-board" },
+        { icon: <FaShieldAlt />, name: "NCC", color: "#2c3e50", path: "/clubs/ncc" },
+        { icon: <FaHeart />, name: "NSS", color: "#e74c3c", path: "/clubs/nss" },
     ];
 
     const highlights = [
@@ -138,7 +142,7 @@ const CampusLife = () => {
 
             {/* Highlights Section */}
             <section className="cl-section-container">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>Campus Highlights</h2>
                     <p>Our campus offers world-class facilities and a nurturing environment</p>
                 </div>
@@ -174,7 +178,7 @@ const CampusLife = () => {
 
             {/* Facilities Section */}
             <section className="cl-section-container">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>Our Facilities</h2>
                     <p>Everything you need for a complete college experience</p>
                 </div>
@@ -204,7 +208,7 @@ const CampusLife = () => {
 
             {/* Campus Gallery */}
             <section className="gallery-section-container">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>Campus Gallery</h2>
                     <p>A glimpse into our vibrant campus life</p>
                 </div>
@@ -220,7 +224,7 @@ const CampusLife = () => {
 
             {/* Student Life Section */}
             <section className="cl-section-container">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>Student Life & Activities</h2>
                     <p>Beyond academics - clubs, events, and experiences that shape you</p>
                 </div>
@@ -240,9 +244,9 @@ const CampusLife = () => {
 
             {/* Clubs Section */}
             <section className="std-section-container bg-light">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>Student Clubs & Organizations</h2>
-                    <p>Join over 10+ clubs and find your passion</p>
+                    <p>Join over 30+ clubs and find your passion</p>
                 </div>
                 <div className="clubs-grid">
                     {clubs.map((club, index) => (
@@ -254,22 +258,22 @@ const CampusLife = () => {
                         </Link>
                     ))}
                 </div>
-                <div style={{ textAlign: 'center', marginTop: '40px' }} data-aos="fade-up">
+                <div style={{ textAlign: 'center', marginTop: '25px' }} data-aos="fade-up">
                     <Link to="/student-centric-activities" className="sc-card-footer" style={{ justifyContent: 'center', fontSize: '1.1rem' }}>
-                        View All 27+ Clubs & Cells <FaChevronRight size={14} style={{ marginLeft: '10px' }} />
+                        View All Clubs & Cells <FaChevronRight size={14} style={{ marginLeft: '10px' }} />
                     </Link>
                 </div>
             </section>
 
             {/* Testimonials */}
             <section className="cl-section-container">
-                <div className="section-header" data-aos="fade-up">
+                <div className="cl-section-header" data-aos="fade-up">
                     <h2>What Our Students Say</h2>
                     <p>Hear from those who live the campus experience every day</p>
                 </div>
                 <div className="testimonials-grid">
                     {testimonials.map((testi, index) => (
-                        <div className="testimonial-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
+                        <div className="cl-testimonial-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
                             <div className="testi-header">
                                 <div className="testi-avatar" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#303877', color: '#fff', fontSize: '1.5rem', fontWeight: 'bold' }}>
                                     {testi.name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase()}

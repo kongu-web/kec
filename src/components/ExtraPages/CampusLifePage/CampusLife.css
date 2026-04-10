@@ -76,7 +76,7 @@
 
 .campus-hero-content p {
     font-size: 1.35rem;
-    margin-bottom: 40px;
+    margin-bottom: 5px;
     line-height: 1.6;
     opacity: 0.9;
     font-weight: 300;
@@ -134,8 +134,8 @@
 
 /* --- General Section Styles --- */
 .cl-section-container {
-    margin: 80px 20px;
-    padding: 0 60px;
+    margin: 20px 10px;
+    padding: 0 20px;
     background-color: var(--bg-white);
     position: relative;
     /* width: 100%; */
@@ -145,15 +145,15 @@
     background-color: var(--bg-light);
 }
 
-.section-header {
+.cl-section-header {
     text-align: center;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
-.section-header h2 {
+.cl-section-header h2 {
     font-family: 'Outfit', sans-serif;
     font-size: 2.3rem;
     font-weight: 600;
@@ -163,17 +163,17 @@
     display: inline-block;
 }
 
-.section-header h2::after {
+.cl-section-header h2::after {
     content: '';
     display: block;
     width: 80px;
     height: 5px;
     background: var(--secondary-color);
-    margin: 15px auto 0;
+    margin: 10px auto 0;
     border-radius: 10px;
 }
 
-.section-header p {
+.cl-section-header p {
     font-size: 1.2rem;
     color: var(--text-light);
     line-height: 1.6;
@@ -183,12 +183,12 @@
 .highlights-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 40px;
+    gap: 30px;
 }
 
 .highlight-card {
     background: #fff;
-    padding: 40px 30px;
+    padding: 30px 25px;
     border-radius: 20px;
     text-align: center;
     box-shadow: var(--card-shadow);
@@ -224,7 +224,7 @@
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    margin: 0 auto 30px;
+    margin: 0 auto 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -291,7 +291,7 @@
 }
 
 .cl-stat-item {
-    padding: 10px;
+    padding: 5px;
     transition: var(--transition);
 }
 
@@ -307,7 +307,7 @@
     align-items: center;
     justify-content: center;
     font-size: 2rem;
-    margin: 0 auto 20px;
+    margin: 0 auto 15px;
     background: rgba(255, 255, 255, 0.1) !important;
     /* Force transparent white */
     backdrop-filter: blur(5px);
@@ -336,7 +336,7 @@
 .facilities-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 30px;
+    gap: 10px;
 }
 
 .facility-card {
@@ -359,9 +359,9 @@
 }
 
 .icon-box {
-    margin-bottom: 25px;
-    width: 80px;
-    height: 80px;
+    margin-bottom: 10px;
+    width: 60px;
+    height: 60px;
     border-radius: 25px;
     display: flex;
     align-items: center;
@@ -377,7 +377,7 @@
 }
 
 .facility-card h3 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-bottom: 12px;
     color: var(--primary-color);
     font-weight: 700;
@@ -385,29 +385,29 @@
 }
 
 .facility-card p {
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: var(--text-light);
     line-height: 1.6;
 }
 
 /* --- Gallery Grid --- */
 .gallery-section-container {
-    padding: 80px 40px;
+    padding: 40px 20px;
     background-color: var(--primary-color);
     /* Dark Background */
     position: relative;
     color: #ffffff;
 }
 
-.gallery-section-container .section-header h2 {
+.gallery-section-container .cl-section-header h2 {
     color: #ffffff;
 }
 
-.gallery-section-container .section-header h2::after {
+.gallery-section-container .cl-section-header h2::after {
     background: var(--secondary-color);
 }
 
-.gallery-section-container .section-header p {
+.gallery-section-container .cl-section-header p {
     color: rgba(255, 255, 255, 0.7);
 }
 
@@ -459,7 +459,7 @@
 .activities-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 50px;
+    gap: 35px;
 }
 
 .activity-card {
@@ -529,7 +529,7 @@
 
 /* --- Clubs Grid --- */
 .std-section-container {
-    padding: 60px;
+    padding: 45px 30px;
     background-color: var(--bg-white);
     position: relative;
     /* width: 100%; */
@@ -538,12 +538,12 @@
 .clubs-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 30px;
+    gap: 24px;
 }
 
 .club-card {
     background: #fff;
-    padding: 35px 20px;
+    padding: 25px 15px;
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.02);
@@ -588,9 +588,9 @@
     gap: 40px;
 }
 
-.testimonial-card {
+.cl-testimonial-card {
     background: #fff;
-    padding: 40px;
+    padding: 20px;
     border-radius: 20px;
     box-shadow: var(--card-shadow);
     transition: var(--transition);
@@ -619,7 +619,7 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .testi-avatar {
@@ -758,7 +758,7 @@
         font-size: 3rem;
     }
 
-    .section-header h2 {
+    .cl-section-header h2 {
         font-size: 2.2rem;
     }
 
@@ -799,20 +799,20 @@
     }
 
     .cl-section-container {
-        margin: 60px 0;
+        margin: 40px 0;
         padding: 0 20px;
     }
 
-    .section-header {
-        margin-bottom: 50px;
+    .cl-section-header {
+        margin-bottom: 30px;
     }
 
-    .section-header h2 {
+    .cl-section-header h2 {
         font-size: 2rem;
     }
 
     .gallery-section-container {
-        padding: 60px 20px;
+        padding: 40px 20px;
     }
 
     .activities-grid {
@@ -899,7 +899,7 @@
         min-width: 250px;
     }
 
-    .section-header h2 {
+    .cl-section-header h2 {
         font-size: 1.8rem;
     }
 
