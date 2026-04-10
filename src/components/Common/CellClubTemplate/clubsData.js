@@ -130,7 +130,26 @@ export const clubsData = [
             { name: "Dr.M.Mohanasundari", designation: "Coordinator", dept: "MBA", phone: "9486763908" },
         ],
         activitiesSummary: { "2025-26": 6},
-        eventDetails: []
+        eventDetails: [
+               {
+                   year: "2025-26",
+                   events: [    
+                     {
+                   sno: 2,
+                   name: "Emergency responders training program",
+                   date: "August 11, 2025",
+                   details: "CII YI YUVA KEC CLUB organized an organized an Emergency RespondersTraining Program on August 11, 2025, in Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services and GVK. The session was conducted by Mr. Chandru, who provided hands-on training in first aid and emergency response techniques. Held at the 120 Lecturer Hall, the program trained MBA and B.Arch students (FN session) and NCC cadets (AN session) to respond effectively during medical emergencies. The initiative aimed to build a safety - conscious campus community and promote responsible citizenship. The program was coordinated by Dr. N. Prakash (AP – Sr.Grade/MBA), and Ms. M. Dharshne (AP/MBA)."
+                  } ,
+                 {
+                   sno: 1,
+                   name: "Certified Emergency First Aid and Basic Life Support (BLS) Training Program",
+                   date: "August 18, 2025",
+                   details: "CII YI YUVA KEC CLUB organized an Emergency Responders Training Program on August 18, 2025, in collaboration with Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services, GVK. The session was conducted by Mr.Chandru, a certified EMRI trainer, who provided hands-on training on first aid, CPR, and emergency response techniques. Held at C.K. Prahlad Hall, MBA Block, the program trained sports students and NSS volunteers to effectively handle medical emergencies. The initiative aimed to equip students with life-saving skills and strengthen campus emergency preparedness, reflecting the institution’s commitment to student development and community service. The program was coordinated by Dr. N. Prakash (Associate Professor – Sr. Grade), and Ms. M.Dharshne (Associate Professor)."
+                  }
+                  
+                          ]
+              },
+                      ]
     },
     {
         id: "cloud-users",
