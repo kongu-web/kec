@@ -557,10 +557,11 @@ export const clubsData = [
             "To align institutional practices with global sustainability goals."
         ],
         coordinators: [
-            { name: "Dr. S. Karthikeyan", designation: "Coordinator", dept: "Civil", phone: "" }
+            { name: "Dr. M. Sivachitra", designation: "Coordinator", dept: "EEE", phone: "9787325879" },
+            { name: "Dr. C. Gomadurai", designation: "Coordinator", dept: "Civil", phone: "94430 29421" }
         ],
-        activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
-        eventDetails: []
+        activitiesSummary: { "2025-26": 3 },
+        eventDetails: [ ]
     },
     {
         id: "watts-next",
