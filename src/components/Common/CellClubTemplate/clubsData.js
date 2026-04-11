@@ -155,8 +155,20 @@ export const clubsData = [
                    {
                    sno: 4,
                    name: "CII-Young Indians Thalir Young Indians Parliament",
-                   date: "September 16, 2025",
-                   details: "The Erode Varnam Vizha Valedictory Session was held on September 16, 2025, at Kongu Engineering College, marking the conclusion of the cultural festival and the inauguration of the CII–Yi Yuva KEC Club. The event was graced by S. Kandasamy, IAS, District Collector of Erode, as Chief Guest. The program included cultural performances celebrating the heritage of Tamil Nadu and the formal inauguration of the Yi Yuva KEC Club by Ms.M.Dharshne, creating a platform for student leadership and entrepreneurship. A strategic panel discussion, moderated by Mr.Thiagarajan T, Director of TIME Institute, featured distinguished panellists including Mr.D.Venkateswaran (Partner, CD Techno Tex LLP), Dr. K.Sudhakar (Managing Director, Sudha Hospitals),Mr. M. Chinnasami (Chairman &amp; Managing Director, Agni Steels Pvt.Ltd.), and Mr. Arachalur Selvam (State Co-ordinator,Tamil Nadu Organic Farmers Federation). The discussion focused on Erode’s development roadmap, highlighting industry modernization, healthcare expansion, sustainable agriculture, entrepreneurship, and skill development. The event also marked the launch of the Vision 2035 AI Assistant, a digital platform aimed at supporting community development and citizen engagement for the district’s future growth."
+                   date: "June 19 - 20, 2025",
+                   details: "The CII Young Indians (Yi) Erode Chapter, in association with CII–Yi Yuva at Kongu Engineering College, organized the Young Indians Parliament on 19–20 June 2025 to promote democratic values, leadership, and public speaking among school students. Over 200 students from various schools participated, engaging in parliamentary- style debates and discussions to understand democratic processes and civic responsibility. The inaugural session was graced by T. Stalin Gunasekaran, while the valedictory session was attended by K. E. Prakash, MP (Lok Sabha), and Ganapathi P. Rajkumar, MP (Lok Sabha). Awards were presented to outstanding participants, and traditional Jamakkalam table mats were gifted to dignitaries to promote the local weaving heritage of Erode. The event served as a valuable platform to inspire youth to become responsible and informed citizens."
+                  },
+                    {
+                   sno: 5,
+                   name: "Yuva Entrepreneur Pitch fest - 2026",
+                   date: "March 10, 2026",
+                   details: "The YUVA Entrepreneur Pitch Fest 2026 was organized on 10 March 2026 at C.K. Prahalad Seminar all, MBA Block, Kongu Engineering College, Erode by the CII–Yi YUVA KEC Club in association with young Indians, an initiative of the Confederation of Indian Industry, as part of Bharat Entrepreneurship Week. The event provided a platform for student entrepreneurs to present their startup ideas and develop pitching and innovation skills. The program was graced by Krithika Shivkumar, Executive Director of TIPS and Managing Trustee of Arram Charity Trust, as the Chief Guest. Participating teams presented their business ideas, and the top three teams were recognized or their innovation and presentation. The event encouraged entrepreneurial thinking and provided networking opportunities with industry leaders."
+                  },
+                   {
+                   sno: 6,
+                   name: "Strategy Room - 2026",
+                   date: "March 10, 2026",
+                   details: "The Strategy Room – Case Study Challenge was organized on 10 March 2026 at C.K. Prahalad Seminar Hall, MBA Block, Kongu Engineering College, Erode by the CII–Yi YUVA KEC Club in association with Young Indians, an initiative of the Confederation of Indian Industry, as part of Bharat Entrepreneurship Week. The event aimed to enhance students’ strategic thinking and problem-solving skills through a case study challenge. Teams were given a business case 30 minutes prior to the program and presented their solutions in 10 minutes (7 minutes presentation and 3 minutes Q&A) following the format of Problem, Analysis, Strategy, and Conclusion. The program was graced by Krithika Shivkumar, Executive Director of TIPS and Managing Trustee of Arram Charity Trust, as the Chief Guest, and the best teams were recognized for their strategic insights andpresentations."
                   },
 
                   
