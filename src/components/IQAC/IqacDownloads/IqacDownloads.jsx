@@ -59,6 +59,15 @@ const eomsCopoFiles = [
     { name: "5.PROJECT_WORK THIRD YEAR.xlsx", path: `${EOMS_BASE_PATH}/COPO/5.PROJECT_WORK THIRD YEAR.xlsx` }
 ];
 
+const excel = [
+    { name: "1.AC-06.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/1.AC-06.xlsx` },
+    { name: "2.AC-07.xlsx", path: `${EOMS_BASE_PATH}/COPO/2.AC-07.xlsx` },
+    { name: "3.AC-08.xlsx", path: `${EOMS_BASE_PATH}/COPO/3.AC-08.xlsx` },
+    { name: "4.CDC_05.xlsx", path: `${EOMS_BASE_PATH}/COPO/4.CDC_05.xlsx` },
+    { name: "5.CDC_07.xlsx", path: `${EOMS_BASE_PATH}/COPO/5.CDC_07.xlsx` },
+    { name: "6.CDC_08.xlsx", path: `${EOMS_BASE_PATH}/COPO/6.CDC_08.xlsx` }
+];
+
 const eomsMdfFiles = [
     { name: "00_MDI_01 MASTER LIST.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/00_MDI_01 MASTER LIST OF SM DOCUMENTS INFORMATION.pdf`, type: "pdf" },
     { name: "1_Timetable.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/1_Timetable.pdf`, type: "pdf" },
@@ -106,8 +115,8 @@ const eomsMdfDocFiles = [
     "5_Lab.docx", "6_Feedback.docx", "7_IIPC.docx", "8_Research.doc",
     "9_TrainingFaculty_Staff.doc", "10_Association.doc", "11_Budget.doc", "12_Alumni.docx",
     "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx", "16_COE.docx",
-    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx", "20_Admission.docx", "21_CDC.docx", "22_HOSTEL.docx",
-    "AC-06.xlsx", "AC-07.xlsx", "AC-08.xlsx", "CDC_05.xlsx", "CDC_07.xls", "CDC_08.xls"
+    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx", "20_Admission.docx", "21_CDC.docx", "22_HOSTEL.docx"
+    
 ];
 
 const eomsMdiDocFiles = [
@@ -503,6 +512,21 @@ const IqacDownloads = () => {
                                     ))}
                                 </ul>
                             </div>
+
+                             <div className="download-card excel-format">
+                                <h4>EXCEL FORMAT</h4>
+                                <ul className="iqac-file-list">
+                                    {excel.map((file, idx) => (
+                                        <li key={idx}>
+                                            <a href={file.path} download>
+                                                <FontAwesomeIcon icon={faFileExcel} className="file-icon excel" />
+                                                {file.name}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+
                         </div>
                     )}
                 </div>
