@@ -135,17 +135,24 @@ export const clubsData = [
                    year: "2025-26",
                    events: [    
                      {
-                   sno: 2,
+                   sno: 1,
                    name: "Emergency responders training program",
                    date: "August 11, 2025",
                    details: "CII YI YUVA KEC CLUB organized an organized an Emergency RespondersTraining Program on August 11, 2025, in Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services and GVK. The session was conducted by Mr. Chandru, who provided hands-on training in first aid and emergency response techniques. Held at the 120 Lecturer Hall, the program trained MBA and B.Arch students (FN session) and NCC cadets (AN session) to respond effectively during medical emergencies. The initiative aimed to build a safety - conscious campus community and promote responsible citizenship. The program was coordinated by Dr. N. Prakash (AP – Sr.Grade/MBA), and Ms. M. Dharshne (AP/MBA)."
                   } ,
                  {
-                   sno: 1,
+                   sno: 2,
                    name: "Certified Emergency First Aid and Basic Life Support (BLS) Training Program",
                    date: "August 18, 2025",
                    details: "CII YI YUVA KEC CLUB organized an Emergency Responders Training Program on August 18, 2025, in collaboration with Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services, GVK. The session was conducted by Mr.Chandru, a certified EMRI trainer, who provided hands-on training on first aid, CPR, and emergency response techniques. Held at C.K. Prahlad Hall, MBA Block, the program trained sports students and NSS volunteers to effectively handle medical emergencies. The initiative aimed to equip students with life-saving skills and strengthen campus emergency preparedness, reflecting the institution’s commitment to student development and community service. The program was coordinated by Dr. N. Prakash (Associate Professor – Sr. Grade), and Ms. M.Dharshne (Associate Professor)."
-                  }
+                  },
+                   {
+                   sno: 3,
+                   name: "Inaugural of the Club and Valedictory of Erode Varnam Vizha",
+                   date: "September 16, 2025",
+                   details: "The Erode Varnam Vizha Valedictory Session was held on September 16, 2025, at Kongu Engineering College, marking the conclusion of the cultural festival and the inauguration of the CII–Yi Yuva KEC Club. The event was graced by S. Kandasamy, IAS, District Collector of Erode, as Chief Guest. The program included cultural performances celebrating the heritage of Tamil Nadu and the formal inauguration of the Yi Yuva KEC Club by Ms.M.Dharshne, creating a platform for student leadership and entrepreneurship. A strategic panel discussion, moderated by Mr.Thiagarajan T, Director of TIME Institute, featured distinguished panellists including Mr.D.Venkateswaran (Partner, CD Techno Tex LLP), Dr. K.Sudhakar (Managing Director, Sudha Hospitals),Mr. M. Chinnasami (Chairman &amp; Managing Director, Agni Steels Pvt.Ltd.), and Mr. Arachalur Selvam (State Co-ordinator,Tamil Nadu Organic Farmers Federation). The discussion focused on Erode’s development roadmap, highlighting industry modernization, healthcare expansion, sustainable agriculture, entrepreneurship, and skill development. The event also marked the launch of the Vision 2035 AI Assistant, a digital platform aimed at supporting community development and citizen engagement for the district’s future growth."
+                  },
+
                   
                           ]
               },
