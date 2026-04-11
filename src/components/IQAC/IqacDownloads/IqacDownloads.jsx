@@ -26,6 +26,7 @@ const copoFiles = [
     { name: "5.Project_Work sixth sem V2.xlsx", path: `${BASE_PATH}/copo/5.Project_Work sixth sem V2.xlsx` }
 ];
 
+
 const pdfFiles = [
     "1_Timetable v2.pdf", "2_Academic V2.pdf", "3_Project V1.pdf", "4_CO-PO v1.pdf",
     "5_Lab.pdf", "6_Feedback v2.pdf", "7_IIPC.pdf", "8_Research.pdf",
@@ -61,12 +62,21 @@ const eomsCopoFiles = [
 ];
 
 const excel = [
+<<<<<<< HEAD
+    { name: "1.AC-06.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/1.AC-06.xlsx` },
+    { name: "2.AC-07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/2.AC-07.xlsx` },
+    { name: "3.AC-08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/3.AC-08.xlsx` },
+    { name: "4.CDC_05.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/4.CDC_05.xlsx` },
+    { name: "5.CDC_07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/5.CDC_07.xlsx` },
+    { name: "6.CDC_08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/6.CDC_08.xlsx` }
+=======
     { name: "1.AC-06.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-06.xlsx` },
     { name: "2.AC-07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-07.xlsx` },
     { name: "3.AC-08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-08.xlsx` },
     { name: "4.CDC_05.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_05.xlsx` },
     { name: "5.CDC_07.xls", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_07.xls` },
     { name: "6.CDC_08.xls", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_08.xls` }
+>>>>>>> b89df5627b342985be5711ffcfc205de733ac0be
 ];
 
 const eomsMdfFiles = [
