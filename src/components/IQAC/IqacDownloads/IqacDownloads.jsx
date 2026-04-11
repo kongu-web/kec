@@ -513,7 +513,7 @@ const IqacDownloads = () => {
                                 </ul>
                             </div>
 
-                             <div className="download-card excel-format">
+                             <div className="download-card copo-sheet">
                                 <h4>EXCEL FORMAT</h4>
                                 <ul className="iqac-file-list">
                                     {excel.map((file, idx) => (
