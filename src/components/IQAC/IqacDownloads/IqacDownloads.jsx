@@ -61,12 +61,21 @@ const eomsCopoFiles = [
 ];
 
 const excel = [
+<<<<<<< HEAD
     { name: "1.AC-06.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/1.AC-06.xlsx` },
     { name: "2.AC-07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/2.AC-07.xlsx` },
     { name: "3.AC-08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/3.AC-08.xlsx` },
     { name: "4.CDC_05.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/4.CDC_05.xlsx` },
     { name: "5.CDC_07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/5.CDC_07.xlsx` },
     { name: "6.CDC_08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/6.CDC_08.xlsx` }
+=======
+    { name: "1.AC-06.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-06.xlsx` },
+    { name: "2.AC-07.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-07.xlsx` },
+    { name: "3.AC-08.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/AC-08.xlsx` },
+    { name: "4.CDC_05.xlsx", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_05.xlsx` },
+    { name: "5.CDC_07.xls", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_07.xls` },
+    { name: "6.CDC_08.xls", path: `${EOMS_BASE_PATH}/MDF/WORD/CDC_08.xls` }
+>>>>>>> b89df5627b342985be5711ffcfc205de733ac0be
 ];
 
 const eomsMdfFiles = [
@@ -147,49 +156,49 @@ const IqacDownloads = () => {
         }
     };
 
-    if (!isAuthenticated) {
-        return (
-            <div className="iqac-wrapper">
-                <Navbar />
-                <div className="iqac-container container-fluid p-0">
-                    <IqacNavbar />
-                    <div className="iqac-content downloads-page">
-                        <div className="downloads-header-modern">
-                            <div className="header-decoration"></div>
-                            <div className="header-text-comp">
-                                <h1 className="college-title">Internal Quality Assurance Cell (IQAC)</h1>
-                            </div>
-                            <div className="page-label">
-                                <span>IQAC Documents Format</span>
-                            </div>
-                        </div>
+    // if (!isAuthenticated) {
+    //     return (
+    //         <div className="iqac-wrapper">
+    //             <Navbar />
+    //             <div className="iqac-container container-fluid p-0">
+    //                 <IqacNavbar />
+    //                 <div className="iqac-content downloads-page">
+    //                     <div className="downloads-header-modern">
+    //                         <div className="header-decoration"></div>
+    //                         <div className="header-text-comp">
+    //                             <h1 className="college-title">Internal Quality Assurance Cell (IQAC)</h1>
+    //                         </div>
+    //                         <div className="page-label">
+    //                             <span>IQAC Documents Format</span>
+    //                         </div>
+    //                     </div>
 
-                        <div className="d-flex justify-content-center align-items-center" style={{ minHeight: '400px' }}>
-                            <div className="card p-4 shadow" style={{ maxWidth: '400px', width: '100%', borderRadius: '15px' }}>
-                                <h3 className="text-center mb-4" style={{ color: '#2c3e50', fontWeight: '600' }}>Login to Download</h3>
+    //                     <div className="d-flex justify-content-center align-items-center" style={{ minHeight: '400px' }}>
+    //                         <div className="card p-4 shadow" style={{ maxWidth: '400px', width: '100%', borderRadius: '15px' }}>
+    //                             <h3 className="text-center mb-4" style={{ color: '#2c3e50', fontWeight: '600' }}>Login to Download</h3>
 
-                                <div className="text-center mb-4">
-                                    <p className="text-muted">Please sign in with your institutional account to access IQAC documents.</p>
-                                </div>
+    //                             <div className="text-center mb-4">
+    //                                 <p className="text-muted">Please sign in with your institutional account to access IQAC documents.</p>
+    //                             </div>
 
-                                <button onClick={handleGoogleLogin} className="google-sign-in-btn">
-                                    <FontAwesomeIcon icon={faGoogle} className="google-icon-wrapper" />
-                                    <span>Sign in with Google</span>
-                                </button>
+    //                             <button onClick={handleGoogleLogin} className="google-sign-in-btn">
+    //                                 <FontAwesomeIcon icon={faGoogle} className="google-icon-wrapper" />
+    //                                 <span>Sign in with Google</span>
+    //                             </button>
 
-                                {error && <div className="alert alert-danger mt-3 p-2" style={{ fontSize: '0.9rem' }}>{error}</div>}
+    //                             {error && <div className="alert alert-danger mt-3 p-2" style={{ fontSize: '0.9rem' }}>{error}</div>}
 
-                                <div className="mt-4 text-center text-muted" style={{ fontSize: '0.8rem' }}>
-                                    <small>Access provided for @kongu.edu users only</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <Footer />
-            </div>
-        );
-    }
+    //                             <div className="mt-4 text-center text-muted" style={{ fontSize: '0.8rem' }}>
+    //                                 <small>Access provided for @kongu.edu users only</small>
+    //                             </div>
+    //                         </div>
+    //                     </div>
+    //                 </div>
+    //             </div>
+    //             <Footer />
+    //         </div>
+    //     );
+    // }
 
     return (
         <div className="iqac-wrapper">
