@@ -10,10 +10,10 @@ import { faInfoCircle, faBullseye, faChessKnight, faCogs, faChartLine, faTrophy 
 
 // Carousel Images
 const carouselImages = [
-    '/assets/iqac/carousel/mba.webp',
+    '/assets/iqac/carousel/mba.jpg',
     '/assets/iqac/carousel/kecbus.jpeg',
     '/assets/iqac/carousel/kecgate.jpeg',
-    '/assets/iqac/carousel/img1.webp'
+    '/assets/iqac/carousel/img1.jpg'
 ];
 
 // Outcome Images

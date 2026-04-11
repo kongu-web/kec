@@ -79,7 +79,10 @@ const eomsMdfFiles = [
     { name: "16_COE.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/16_COE.pdf`, type: "pdf" },
     { name: "17_LIBRARY.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/17_LIBRARY.pdf`, type: "pdf" },
     { name: "18_PHYSICAL EDUCATION.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/18_PHYSICAL EDUCATION.pdf`, type: "pdf" },
-    { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" }
+    { name: "19_Transport.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/19_Transport.pdf`, type: "pdf" },
+    { name: "20_Admission.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/20_Admission.pdf`, type: "pdf" },
+    { name: "21_CDC.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/21_CDC.pdf`, type: "pdf" },
+    { name: "22_HOSTEL.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/22_HOSTEL.pdf`, type: "pdf" }
 
    
 ];
@@ -103,8 +106,8 @@ const eomsMdfDocFiles = [
     "5_Lab.docx", "6_Feedback.docx", "7_IIPC.docx", "8_Research.doc",
     "9_TrainingFaculty_Staff.doc", "10_Association.doc", "11_Budget.doc", "12_Alumni.docx",
     "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx", "16_COE.docx",
-    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx",
-    "AC-06.xlsx", "AC-07.xlsx", "AC-08.xlsx"
+    "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx", "20_Admission.docx", "21_CDC.docx", "22_HOSTEL.docx",
+    "AC-06.xlsx", "AC-07.xlsx", "AC-08.xlsx", "CDC_05.xlsx", "CDC_07.xls", "CDC_08.xls"
 ];
 
 const eomsMdiDocFiles = [
