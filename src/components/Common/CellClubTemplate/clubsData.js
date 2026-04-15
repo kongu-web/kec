@@ -374,8 +374,103 @@ export const clubsData = [
                   },
                      ]
               },
+               {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and special lecture ",
+                        date: "August 17, 2024",
+                        details: "The programme aimed to provide students with insights into cloud computing and its real-world applications in the industry. The session highlighted how cloud technologies are transforming modern businesses and enabling scalable digital solutions. The guest speaker shared practical knowledge about industry practices, career opportunities, and the importance of cloud architecture in today’s technology-driven environment."
+                    },
+                     {
+                        sno: 2,
+                        name: "Introduction to AWS ",
+                        date: "Sep 21, 2024",
+                        details: "This session was conducted to introduce students to the fundamentals of Amazon Web Services (AWS) and cloud computing. The programme focused on guiding beginners through the initial steps required to start working with AWS platforms. The speakers explained essential cloud concepts, practical usage of AWS tools, and strategies for building a successful career in cloud technologies."
+                    },
+                     {
+                        sno: 3,
+                        name: "Engineering for impact",
+                        date: "Nov 9, 2024",
+                        details: "The objective of this programme was to educate students on developing scalable and efficient software systems. The guest speaker discussed modern software development practices, system architecture, and techniques used to improve performance and scalability in applications. The session helped students understand how software systems are designed to handle large-scale users and complex operations."
+                    },
+                     {
+                        sno: 4,
+                        name: "Essential Skills to Land your first internship ",
+                        date: "Feb 8, 2025",
+                        details: "This programme was organized to help students understand the key skills required to secure and succeed in internships. The session focused on technical skills, communication abilities, problem-solving techniques, and professional behavior expected in the workplace. The speaker also shared industry insights and tips to help students prepare effectively for internship opportunities."
+                    },
+                    {
+                        sno: 5,
+                        name: "Nacreous’25 (Inter Department Symposium) ",
+                        date: "March 29, 2025",
+                        details: "This programme was organized as an interactive session aimed at engaging students in discussions related to emerging technologies and career development. The event provided a platform for students to interact, exchange ideas, and gain valuable guidance on industry expectations. The session encouraged participation and helped students broaden their understanding of professional growth and technological advancements."
+                    },
+                ] 
+            },
+                     {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and special lecture of Cloud and its Applications in the Industry Perspective ",
+                        date: "August 12, 2023",
+                        details: "The programme aimed to provide insights on “Cloud and its Applications in the Industry Perspective” through a special lecture delivered by Dr. Naveen Durai K from Gyanmatrix Technologies Private Limited. The session highlighted the importance of Azure training certification, information about AWS free login, the opportunities of Cloud in the industry, and exposure to current Cloud trends. The programme benefited 150 students."
+                    },
+                     {
+                        sno: 2,
+                        name: "AWS Workshop Introduction to AWS",
+                        date: "Sep 16, 2023",
+                        details: "The programme aimed to introduce students to the fundamentals of Amazon Web Services (AWS) through a workshop conducted by Hariharan Krishnamurthi, Senior Cloud Engineer, Presidio. The session covered topics such as Introduction to AWS, Static Web Hosting, Amazon Simple Storage Service (Amazon S3), and Amazon Elastic Compute Cloud (Amazon EC2). The workshop benefited 50 students."
+                    },
+                     {
+                        sno: 3,
+                        name: "Introduction to the Cloud Phase - 2",
+                        date: "Oct 28, 2023",
+                        details: "The programme aimed to provide further learning on Cloud technologies through the session “Introduction to the Cloud Phase – 2” delivered by Hariharan Krishnamurthi, Senior Cloud Engineer, Presidio and Shankar Dhandapani, Engineer, Presidio Cloud Solutions, Bangalore. The session highlighted Introduction to AWS, Static Web Hosting, Amazon Simple Storage Service (Amazon S3), and Docker. The programme benefited 40 students."
+                    },
+                     {
+                        sno: 4,
+                        name: "Exposure to Cloud Services ",
+                        date: "Nov 8, 2023",
+                        details: "The programme aimed to provide students with practical exposure to Cloud Services through a session delivered by Mr. Ram Akaashu B, Student, CSE, Kongu Engineering College. The session covered Introduction to AWS Cloud, Before and After AWS, Agility, Fault Tolerance, Security and Compliance, Amazon Virtual Private Cloud (VPC), Amazon Elastic Compute Cloud (EC2), and Elastic Load Balancing (ELB). The programme benefited 63 students."
+                    },
+                    {
+                        sno: 5,
+                        name: "Industry Lecture on Machine Learning and Cloud Framework",
+                        date: "Nov 14, 2023",
+                        details: "The programme aimed to provide knowledge on Machine Learning and Cloud Framework through an industry lecture delivered by Mr. Vishnu Kiran, R&D Engineer (DevOps), Jukshio Technology. The session highlighted topics such as GCP (Google Cloud Platform), Microsoft Azure, S3 (Simple Storage Service), AWS, Docker, and Kubernetes. The programme benefited 150 students."
+                    },
+                    {
+                        sno: 6,
+                        name: "Workshop on AWS Professional Certification",
+                        date: "Dec 30, 2023",
+                        details: "The programme aimed to guide students about AWS Professional Certification through a workshop delivered by Mr. Aravindh Chinnasamy, Hadoop Big-Data Architect and Principal Architect, Scala Technology. The session covered topics such as AWS, Cloud Computing, Industry applications, Functional Languages, Azure, GCP, and Hackathon opportunities. The programme benefited 106 students."
+                    },
+                       {
+                        sno: 7,
+                        name: "Workshop on Cloud and its Services ",
+                        date: "March 16, 2024",
+                        details: "The programme aimed to provide an understanding of Cloud and its Services through a workshop delivered by Mr. K. Gokula Krishnan, DevOps Engineer, HID Global, Chennai. The session highlighted topics such as what is cloud, uses of cloud, types of cloud, services of cloud, industrial usage of cloud, and operating systems. The programme benefited 50 students."
+                    },
+                       {
+                        sno: 8,
+                        name: "Nacreous- Technical Symposium",
+                        date: "April 24, 2024",
+                        details: "The programme aimed to conduct the Nacreous Technical Symposium to encourage students to participate in various technical and non-technical events. The technical events included Techshout, Technodium, Rush Hour, Code Bidding, and Tech Quiz, while the non-technical events included IPL Auction, Treasure Hunt, and Can You Guess. The symposium benefited 300 students."
+                    },
+                      {
+                        sno: 9,
+                        name: "CUG Valedictory",
+                        date: "June 15, 2024",
+                        details: "The programme aimed to mark the CUG Valedictory function and to provide insights into the current trends in the IT industry and placement opportunities. The session was delivered by Mr. Gandhamathan V, Software Associate Developer, Guvi Geek Networks and Mr. Abhimanyu V, Designer/Marketing, Practica A Fabrics. The programme benefited 60 students."
+                    },
+                ]
+            },
         ]
     },
+
     {
         id: "coding-forum",
         name: "Coding Forum",
@@ -394,6 +489,7 @@ export const clubsData = [
         activitiesSummary: { "2025-26": 5},
         eventDetails: []
     },
+
     {
         id: "cultural-music",
         name: "Cultural & Music Club",
@@ -411,7 +507,219 @@ export const clubsData = [
             { name: "Ms. S. Keerthana", designation: "Coordinator", dept: "CT-UG", phone: "8870756287" }
         ],
         activitiesSummary: { "2025-26": 10, "2024-25": 13, "2023-24": 9 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "July 28, 2025",
+                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                    },
+                     {
+                        sno: 2,
+                        name: "Techno Cultural Fest",
+                        date: "Aug 21 - 22, 2025",
+                        details: "A two-day fest with technical competitions by students."
+                    },
+                     {
+                        sno: 3,
+                        name: "Founders day",
+                        date: "Aug 23, 2025",
+                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                    },
+                     {
+                        sno: 4,
+                        name: "Onam 2k25",
+                        date: "Sep 9, 2025",
+                        details: "The festival of Onam was celebrated with traditional activities and student participation."
+                    },
+                    {
+                        sno: 5,
+                        name: "Raaga 3.0",
+                        date: "Sep 29, 2025",
+                        details: "A musical event where students showcased their singing and instrumental talents."
+                    },
+                    {
+                        sno: 6,
+                        name: "Special Performance",
+                        date: "Nov 24, 2025",
+                        details: "A special stage event featuring selected student performances."
+                    },
+                       {
+                        sno: 7,
+                        name: "Guest Reveal Performance",
+                        date: "Feb 27, 2026",
+                        details: "The guest performer for the main fest was revealed through an exciting performance."
+                    },
+                       {
+                        sno: 8,
+                        name: "Enthusia 2k26",
+                        date: "March 2 - 3, 2026",
+                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
+                    },
+                    {
+                        sno: 9,
+                        name: "Instrument audition",
+                        date: "March 13, 2026",
+                        details: "Auditions were conducted to select instrumentalists for upcoming events."
+                    },
+                    {
+                        sno: 10,
+                        name: "Valedictory",
+                        date: "March 163, 2026",
+                        details: "The closing ceremony concluded the events and recognized participants."
+                    },
+
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "August 14, 2024",
+                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                    },
+                     {
+                        sno: 2,
+                        name: "Independence Day",
+                        date: "Aug 14, 2024",
+                        details: "Independence Day was celebrated with patriotic performances and speeches honoring the nation's freedom."
+                    },
+                     {
+                        sno: 3,
+                        name: "Founders Day",
+                        date: "Aug 17, 2024",
+                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                    },
+                     {
+                        sno: 4,
+                        name: "Raaga 2.0",
+                        date: "Oct 23, 2024",
+                        details: "A musical event where students showcased their singing and instrumental talents."
+                    },
+                     {
+                        sno: 5,
+                        name: "Ruby year celebration",
+                        date: "Oct 15, 2024",
+                        details: "The institution celebrated its Ruby Jubilee with cultural events and special programs."
+                    },
+                    {
+                        sno: 6,
+                        name: "Special Performance 1(outside KEC -Texvalley)",
+                        date: "Jan 1, 2025",
+                        details: "A special cultural performance conducted outside the KEC at Texvalley showcasing student talents."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Special Performance 2(Inside KEC-MBA Performance)",
+                        date: "Jan 30, 2025",
+                        details: "Students delivered a special performance for the MBA event."
+                    },
+                       {
+                        sno: 8,
+                        name: "Anchoring Workshop",
+                        date: "Feb 14, 2025",
+                        details: "A workshop conducted to train students in stage anchoring and communication skills."
+                    },
+                      {
+                        sno: 9,
+                        name: "Flash Mob",
+                        date: "Feb 14, 2025",
+                        details: "Students performed an energetic flash mob"
+                    },
+                      {
+                        sno: 10,
+                        name: "Special Performance 3(Inside KEC-Placement cell-Meet and Great)",
+                        date: "Feb 15, 2025",
+                        details: "A special performance was presented during the Placement Cell meet and greet program."
+                    },
+                      {
+                        sno: 11,
+                        name: "Enthusia 2k25",
+                        date: "Feb 19 - 20, 2025",
+                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
+                    },
+                      {
+                        sno: 12,
+                        name: "Chemathon",
+                        date: "Mar 1, 2025",
+                        details: "Orchestra performance at Chemathon"
+                    },
+                      {
+                        sno: 13,
+                        name: "Special Performance 4(Inside KEC-E Horizon FlashMob)",
+                        date: "Mar 3, 2025",
+                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage the audience."
+                    },
+
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "July 15, 2023",
+                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                    },
+                     {
+                        sno: 2,
+                        name: "Founders Day",
+                        date: "Aug 12, 2023",
+                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                    },
+                     {
+                        sno: 3,
+                        name: "Raaga",
+                        date: "Sep 16, 2023",
+                        details: "A musical event where students showcased their singing and instrumental talents."
+                    },
+                     {
+                        sno: 4,
+                        name: "Drug Awareness Flashmob",
+                        date: "Sep 13, 2023",
+                        details: "A flash mob was performed to create awareness among students about the drug."
+                    },
+                    {
+                        sno: 5,
+                        name: "Erode Marathon-Drug Awareness Flahmob ",
+                        date: "Oct 15, 2023",
+                        details: "Students performed a flash mob during the Erode Marathon to promote drug awareness."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Enthusia 2k24",
+                        date: "Jan 8 - 9, 2024",
+                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
+                    },
+                       {
+                        sno: 7,
+                        name: "Mirchi FM-Kaloori Stars",
+                        date: "March 1, 2024",
+                        details: "Intra College Cultural Contest."
+                    },
+                      {
+                        sno: 8,
+                        name: "E-Horizon Awareness Flashmob",
+                        date: "March 6, 2024",
+                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage and entertain the audience."
+                    },
+                      {
+                        sno: 9,
+                        name: "Students Participation",
+                        date: "Sep 13, 2024",
+                        details: "Students presented various cultural performances showcasing their creativity and talents."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "energy-environment",
