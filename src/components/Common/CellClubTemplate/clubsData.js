@@ -8,6 +8,25 @@ import nssImg2 from '../../../assets/images/Clubs/nss/nss-2.webp';
 import nssImg3 from '../../../assets/images/Clubs/nss/nss-3.webp';
 import nssImg4 from '../../../assets/images/Clubs/nss/nss-4.webp';
 
+import cc1 from '../../../assets/images/Clubs/citizen/cc1.webp';
+import cc2 from '../../../assets/images/Clubs/citizen/cc2.webp';
+import cc3 from '../../../assets/images/Clubs/citizen/cc3.webp';
+import cc4 from '../../../assets/images/Clubs/citizen/cc4.webp';
+import cc5 from '../../../assets/images/Clubs/citizen/cc5.webp';
+import cc6 from '../../../assets/images/Clubs/citizen/cc6.webp';
+
+import cii1 from '../../../assets/images/Clubs/cii-yuva/cii1.webp';
+import cii2 from '../../../assets/images/Clubs/cii-yuva/cii2.webp';
+import cii3 from '../../../assets/images/Clubs/cii-yuva/cii3.webp';
+import cii4 from '../../../assets/images/Clubs/cii-yuva/cii4.webp';
+import cii5 from '../../../assets/images/Clubs/cii-yuva/cii5.webp';
+import cii6 from '../../../assets/images/Clubs/cii-yuva/cii6.webp';
+import cii7 from '../../../assets/images/Clubs/cii-yuva/cii7.webp';
+import cii8 from '../../../assets/images/Clubs/cii-yuva/cii8.webp';
+import cii9 from '../../../assets/images/Clubs/cii-yuva/cii9.webp';
+import cii10 from '../../../assets/images/Clubs/cii-yuva/cii10.webp';
+
+
 export const clubsData = [
     // {
     //     id: "innovation-hub",
@@ -108,7 +127,117 @@ export const clubsData = [
             { name: "Dr. V. Vaishnavi", designation: "Coordinator", dept: "MBA", phone: "9003463969" }
         ],
         activitiesSummary: { "2025-26": 7, "2024-25": 8},
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function: Digital Addiction",
+                        date: "Oct 13, 2025",
+                        details: "Chief Guest Mr. Vinoth Sudarsanam (DSP) spoke on Overcoming Digital Addiction to promote mindful technology use and mental well-being."
+                    },
+                     {
+                        sno: 2,
+                        name: "Disaster Preparedness Project",
+                        date: "Oct 4, 2025",
+                        details: "Educated the local community on natural disaster prevention, early warning systems, and evacuation procedures."
+                    },
+                     {
+                        sno: 3,
+                        name: "First Aid Awareness: Act Fast, Save Lives",
+                        date: "Oct 4, 2025",
+                        details: "Trained 50 community participants in essential life-saving skills, including CPR, wound dressing, and fracture management."
+                    },
+                     {
+                        sno: 4,
+                        name: "Marathon for Breast Cancer Awareness",
+                        date: "Oct 5, 2025",
+                        details: "Organized a 10km marathon titled “Hope in Every Ribbon” to spread awareness about early detection and raise funds for patients."
+                    },
+                    {
+                        sno: 5,
+                        name: "Blood Donation Camp",
+                        date: "Oct 5, 2025",
+                        details: "Collected approximately 50 units of blood from public donors under medical supervision to support local healthcare needs."
+                    },
+                    {
+                        sno: 6,
+                        name: "Drug Awareness Rally & Lecture",
+                        date: "Oct 8, 2025",
+                        details: "Students led a rally and attended a lecture on the physical and legal consequences of addiction to promote a drug-free lifestyle."
+                    },
+                       {
+                        sno: 7,
+                        name: "Consumer Day: Intra College Fest",
+                        date: "Jan 31, 2026",
+                        details: "Conducted competitions in Slogan Writing, Quiz, and Essay Writing under the theme “Not Every Ad Is Your Friend”."
+                    },
+                       {
+                        sno: 8,
+                        name: "Consumer Awareness event",
+                        date: "Feb 19, 2026",
+                        details: "Organized by the Tamil Nadu Government to educate students on rights, responsibilities, and grievance redressal. 20 students from Kongu Engineering College participated and received certificates."
+                    },
+
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Independence Day Oratorical Event",
+                        date: "August 16, 2024",
+                        details: "Competition on A Teens Contribution to Viksit Bharat 2047, encouraging students to share visions for India’s centenary."
+                    },
+                     {
+                        sno: 2,
+                        name: "Village Awareness: Product Safety",
+                        date: "Aug 23, 2024",
+                        details: "Promoted community health and safety by educating residents on product standards and safe consumption practices."
+                    },
+                     {
+                        sno: 3,
+                        name: "Community Outreach: Nutrition & Literacy",
+                        date: "Aug 24, 2024",
+                        details: "Conducted sessions on food security, e-banking safety, and financial literacy for rural populations."
+                    },
+                     {
+                        sno: 4,
+                        name: "CCC Inaugural Function",
+                        date: "Sep 12, 2024",
+                        details: "Guest Lecture by Mr.R.Rajkumar on Turning Passion into Prosperity, focusing on consumer behavior and entrepreneurial mindset."
+                    },
+                    {
+                        sno: 5,
+                        name: "National Consumer Day Rally",
+                        date: "Dec 10, 2024",
+                        details: "A massive rally of 500 participants urged the public to be informed about fraudulent practices and product safety laws."
+                    },
+                    {
+                        sno: 6,
+                        name: "Consumer Rights Week Competitions",
+                        date: "Dec, 2024",
+                        details: "Organized week-long events in drawing and poetry to highlight Digital Era Challenges and Educated Consumers."
+                    },
+                       {
+                        sno: 7,
+                        name: "World Consumer Rights Day",
+                        date: "Mar 15, 2025",
+                        details: "Inter-college competitions where KEC students secured top prizes in Quiz and Drawing categories."
+                    },
+                       {
+                        sno: 8,
+                        name: "Valedictory Function",
+                        date: "Mar 21, 2025",
+                        details: "Recognition of office bearers and academic year summary."
+                    },
+
+                ]
+            }
+        ],
+         gallery: [cc1, cc2, cc3, cc4, cc5, cc6]
     },
     {
         id: "cii-yi-yuva",
@@ -138,7 +267,7 @@ export const clubsData = [
                    sno: 1,
                    name: "Emergency responders training program",
                    date: "August 11, 2025",
-                   details: "CII YI YUVA KEC CLUB organized an organized an Emergency RespondersTraining Program on August 11, 2025, in Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services and GVK. The session was conducted by Mr. Chandru, who provided hands-on training in first aid and emergency response techniques. Held at the 120 Lecturer Hall, the program trained MBA and B.Arch students (FN session) and NCC cadets (AN session) to respond effectively during medical emergencies. The initiative aimed to build a safety - conscious campus community and promote responsible citizenship. The program was coordinated by Dr. N. Prakash (AP – Sr.Grade/MBA), and Ms. M. Dharshne (AP/MBA)."
+                   details: "CII YI YUVA KEC CLUB organized an organized an Emergency Responders Training Program on August 11, 2025, in Young Indians (Yi) – Erode Chapter, in partnership with EMRI Green Health Services and GVK. The session was conducted by Mr. Chandru, who provided hands-on training in first aid and emergency response techniques. Held at the 120 Lecturer Hall, the program trained MBA and B.Arch students (FN session) and NCC cadets (AN session) to respond effectively during medical emergencies. The initiative aimed to build a safety - conscious campus community and promote responsible citizenship. The program was coordinated by Dr. N. Prakash (AP – Sr.Grade/MBA), and Ms. M. Dharshne (AP/MBA)."
                   } ,
                  {
                    sno: 2,
@@ -150,7 +279,7 @@ export const clubsData = [
                    sno: 3,
                    name: "Inaugural of the Club and Valedictory of Erode Varnam Vizha",
                    date: "September 16, 2025",
-                   details: "The Erode Varnam Vizha Valedictory Session was held on September 16, 2025, at Kongu Engineering College, marking the conclusion of the cultural festival and the inauguration of the CII–Yi Yuva KEC Club. The event was graced by S. Kandasamy, IAS, District Collector of Erode, as Chief Guest. The program included cultural performances celebrating the heritage of Tamil Nadu and the formal inauguration of the Yi Yuva KEC Club by Ms.M.Dharshne, creating a platform for student leadership and entrepreneurship. A strategic panel discussion, moderated by Mr.Thiagarajan T, Director of TIME Institute, featured distinguished panellists including Mr.D.Venkateswaran (Partner, CD Techno Tex LLP), Dr. K.Sudhakar (Managing Director, Sudha Hospitals),Mr. M. Chinnasami (Chairman &amp; Managing Director, Agni Steels Pvt.Ltd.), and Mr. Arachalur Selvam (State Co-ordinator,Tamil Nadu Organic Farmers Federation). The discussion focused on Erode’s development roadmap, highlighting industry modernization, healthcare expansion, sustainable agriculture, entrepreneurship, and skill development. The event also marked the launch of the Vision 2035 AI Assistant, a digital platform aimed at supporting community development and citizen engagement for the district’s future growth."
+                   details: "The Erode Varnam Vizha Valedictory Session was held on September 16, 2025, at Kongu Engineering College, marking the conclusion of the cultural festival and the inauguration of the CII–Yi Yuva KEC Club. The event was graced by S.Kandasamy, IAS, District Collector of Erode, as Chief Guest. The program included cultural performances celebrating the heritage of Tamil Nadu and the formal inauguration of the Yi Yuva KEC Club by Ms.M.Dharshne, creating a platform for student leadership and entrepreneurship. A strategic panel discussion, moderated by Mr.T.Thiagarajan, Director of TIME Institute, featured distinguished panellists including Mr.D.Venkateswaran (Partner, CD Techno Tex LLP), Dr.K.Sudhakar (Managing Director, Sudha Hospitals), Mr. M. Chinnasami (Chairman &amp; Managing Director, Agni Steels Pvt.Ltd.), and Mr. Arachalur Selvam (State Co-ordinator,Tamil Nadu Organic Farmers Federation). The discussion focused on Erode’s development roadmap, highlighting industry modernization, healthcare expansion, sustainable agriculture, entrepreneurship, and skill development. The event also marked the launch of the Vision 2035 AI Assistant, a digital platform aimed at supporting community development and citizen engagement for the district’s future growth."
                   },
                    {
                    sno: 4,
@@ -170,12 +299,12 @@ export const clubsData = [
                    date: "March 10, 2026",
                    details: "The Strategy Room – Case Study Challenge was organized on 10 March 2026 at C.K. Prahalad Seminar Hall, MBA Block, Kongu Engineering College, Erode by the CII–Yi YUVA KEC Club in association with Young Indians, an initiative of the Confederation of Indian Industry, as part of Bharat Entrepreneurship Week. The event aimed to enhance students’ strategic thinking and problem-solving skills through a case study challenge. Teams were given a business case 30 minutes prior to the program and presented their solutions in 10 minutes (7 minutes presentation and 3 minutes Q&A) following the format of Problem, Analysis, Strategy, and Conclusion. The program was graced by Krithika Shivkumar, Executive Director of TIPS and Managing Trustee of Arram Charity Trust, as the Chief Guest, and the best teams were recognized for their strategic insights andpresentations."
                   },
-
-                  
                           ]
               },
-                      ]
+                      ],
+                       gallery: [cii1, cii2, cii3, cii4, cii5, cii6, cii7, cii8, cii9, cii10]
     },
+    
     {
         id: "cloud-users",
         name: "Cloud Users Group",
