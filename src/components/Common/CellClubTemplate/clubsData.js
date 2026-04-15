@@ -304,7 +304,7 @@ export const clubsData = [
                       ],
                        gallery: [cii1, cii2, cii3, cii4, cii5, cii6, cii7, cii8, cii9, cii10]
     },
-    
+
     {
         id: "cloud-users",
         name: "Cloud Users Group",
@@ -320,7 +320,61 @@ export const clubsData = [
             { name: "Dr. N. Sasipriyaa", designation: "Coordinator", dept: "CSE", phone: "9976798392" }
         ],
         activitiesSummary: { "2025-26": 9, "2024-25": 5, "2023-24": 9 },
-        eventDetails: []
+        eventDetails: [
+             {
+                   year: "2025-26",
+                   events: [    
+                     {
+                   sno: 1,
+                   name: "Inauguration of CUG",
+                   date: "August 18, 2025",
+                   details: "The programme marked the inauguration of the Cloud Users Group (CUG), introducing students to the objectives and activities of the club. It emphasized the importance of cloud technologies and encouraged students to explore cloud computing for innovation and career growth."
+                  } ,
+                 {
+                   sno: 2,
+                   name: "AWS Workshop",
+                   date: "September 20, 2025",
+                   details: "This workshop introduced students to the fundamentals of cloud computing and provided basic knowledge of Amazon Web Services (AWS). The session focused on understanding core cloud concepts and gaining initial hands-on exposure to AWS tools and services."
+                  },
+                   {
+                   sno: 3,
+                   name: "Workshop on basics of Cloud with AWS",
+                   date: "September 22, 2025",
+                   details: "The workshop on Basics of Cloud with AWS highlighted how cloud computing is transforming modern industries. Participants learned essential cloud concepts, AWS services, and practical applications that support digital transformation."
+                  },
+                   {
+                   sno: 4,
+                   name: "Workshop on Your first AWS Experience",
+                   date: "Dec 27, 2025",
+                   details: "The workshop focused on strengthening students’ understanding of cloud technologies through interactive sessions and practical demonstrations. It aimed to help participants develop technical knowledge and explore real-world cloud computing applications."
+                  },
+                    {
+                   sno: 5,
+                   name: "Cloud Wars",
+                   date: "Dec 27, 2025",
+                   details: "The Cloud Wars event included a quiz and dashboard design competition based on AWS concepts. The activities encouraged students to test their cloud knowledge, improve analytical skills, and apply cloud-based data visualization techniques."
+                  },
+                   {
+                   sno: 6,
+                   name: "CloudSpark",
+                   date: "Jan 31, 2026",
+                   details: "CLOUDSPARK’26 was an exclusive project presentation event where students showcased innovative cloud-based projects. The programme encouraged creativity, technical problem solving, and practical implementation of cloud technologies. "
+                  },
+                   {
+                   sno: 7,
+                   name: "Workshop on from code to cloud",
+                   date: "Feb 21, 2026",
+                   details: "This workshop titled “From Code to Cloud” focused on DevOps practices and cloud automation techniques. Students gained insights into deploying applications in cloud environments and presenting cloud-based project ideas."
+                  },
+                   {
+                   sno: 8,
+                   name: "CloudX",
+                   date: "March 7, 2026",
+                   details: "CLOUDX’26 was a national-level cloud symposium aimed at promoting knowledge sharing in cloud computing. The event provided a platform for experts and students to discuss emerging cloud technologies and industry applications."
+                  },
+                     ]
+              },
+        ]
     },
     {
         id: "coding-forum",
