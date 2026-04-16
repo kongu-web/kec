@@ -814,84 +814,53 @@ export const clubsData = [
                 events: [
                     {
                         sno: 1,
-                        name: "Inaugural Function",
-                        date: "August 14, 2024",
-                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                        name: "Inauguration Function",
+                        date: "August 28, 2024",
+                        details: "Conversion Of Energy."
                     },
                      {
                         sno: 2,
-                        name: "Independence Day",
-                        date: "Aug 14, 2024",
-                        details: "Independence Day was celebrated with patriotic performances and speeches honoring the nation's freedom."
+                        name: "Patriotic Pen",
+                        date: "Aug 15, 2024",
+                        details: "Independence Day Celebration."
                     },
                      {
                         sno: 3,
-                        name: "Founders Day",
-                        date: "Aug 17, 2024",
-                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                        name: "ECO-GRAPHICA",
+                        date: "Oct 9, 2024",
+                        details: "Conservation of Energy and Environment."
                     },
                      {
                         sno: 4,
-                        name: "Raaga 2.0",
-                        date: "Oct 23, 2024",
-                        details: "A musical event where students showcased their singing and instrumental talents."
+                        name: "ECO PHOTO FUSION",
+                        date: "Jan 1, 2025",
+                        details: "Awareness In Nature."
                     },
                      {
                         sno: 5,
-                        name: "Ruby year celebration",
-                        date: "Oct 15, 2024",
-                        details: "The institution celebrated its Ruby Jubilee with cultural events and special programs."
+                        name: "GREENSCAPE",
+                        date: "March 29, 2025",
+                        details: "Craft Making."
                     },
                     {
                         sno: 6,
-                        name: "Special Performance 1(outside KEC -Texvalley)",
-                        date: "Jan 1, 2025",
-                        details: "A special cultural performance conducted outside the KEC at Texvalley showcasing student talents."
+                        name: "ECOQUIZ",
+                        date: "April 26 - May 1, 2025",
+                        details: "Online Quiz."
                     },
                    
                        {
                         sno: 7,
-                        name: "Special Performance 2(Inside KEC-MBA Performance)",
-                        date: "Jan 30, 2025",
-                        details: "Students delivered a special performance for the MBA event."
+                        name: "DEBATE",
+                        date: "May 7, 2025",
+                        details: "Next Gen Earth Talks."
                     },
                        {
                         sno: 8,
-                        name: "Anchoring Workshop",
-                        date: "Feb 14, 2025",
-                        details: "A workshop conducted to train students in stage anchoring and communication skills."
+                        name: "VALIDICTORY-2025",
+                        date: "May 7, 2025",
+                        details: "Feedback On Past Events and Suggestions for Conducting Events."
                     },
-                      {
-                        sno: 9,
-                        name: "Flash Mob",
-                        date: "Feb 14, 2025",
-                        details: "Students performed an energetic flash mob"
-                    },
-                      {
-                        sno: 10,
-                        name: "Special Performance 3(Inside KEC-Placement cell-Meet and Great)",
-                        date: "Feb 15, 2025",
-                        details: "A special performance was presented during the Placement Cell meet and greet program."
-                    },
-                      {
-                        sno: 11,
-                        name: "Enthusia 2k25",
-                        date: "Feb 19 - 20, 2025",
-                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
-                    },
-                      {
-                        sno: 12,
-                        name: "Chemathon",
-                        date: "Mar 1, 2025",
-                        details: "Orchestra performance at Chemathon"
-                    },
-                      {
-                        sno: 13,
-                        name: "Special Performance 4(Inside KEC-E Horizon FlashMob)",
-                        date: "Mar 3, 2025",
-                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage the audience."
-                    },
-
                 ]
             },
             {
@@ -899,58 +868,40 @@ export const clubsData = [
                 events: [
                     {
                         sno: 1,
-                        name: "Inaugural Function",
-                        date: "July 15, 2023",
-                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                        name: "Inauguration & Guest Lecture on theme Clean Energy Cultivation",
+                        date: "Aug 19, 2023",
+                        details: "Conversion of Energy."
                     },
                      {
                         sno: 2,
-                        name: "Founders Day",
-                        date: "Aug 12, 2023",
-                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                        name: "District level workshop on Climate Change",
+                        date: "Oct 20, 2023",
+                        details: "Conservation Of Energy and Environment."
                     },
                      {
                         sno: 3,
-                        name: "Raaga",
-                        date: "Sep 16, 2023",
-                        details: "A musical event where students showcased their singing and instrumental talents."
+                        name: "Energy Conversion Photography Challenge on ECO PHOTO FUSION",
+                        date: "Nov 10, 2023",
+                        details: "Awareness in Nature."
                     },
                      {
                         sno: 4,
-                        name: "Drug Awareness Flashmob",
-                        date: "Sep 13, 2023",
-                        details: "A flash mob was performed to create awareness among students about the drug."
+                        name: "Environment and Nature",
+                        date: "Dec 13, 2023",
+                        details: "Awareness in conservation of Energy & Nature."
                     },
                     {
                         sno: 5,
-                        name: "Erode Marathon-Drug Awareness Flahmob ",
-                        date: "Oct 15, 2023",
-                        details: "Students performed a flash mob during the Erode Marathon to promote drug awareness."
+                        name: "MILLETS",
+                        date: "Dec 27, 2023",
+                        details: "Awareness in Environmental conservation."
                     },
                    
                        {
                         sno: 6,
-                        name: "Enthusia 2k24",
-                        date: "Jan 8 - 9, 2024",
-                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
-                    },
-                       {
-                        sno: 7,
-                        name: "Mirchi FM-Kaloori Stars",
-                        date: "March 1, 2024",
-                        details: "Intra College Cultural Contest."
-                    },
-                      {
-                        sno: 8,
-                        name: "E-Horizon Awareness Flashmob",
-                        date: "March 6, 2024",
-                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage and entertain the audience."
-                    },
-                      {
-                        sno: 9,
-                        name: "Students Participation",
-                        date: "Sep 13, 2024",
-                        details: "Students presented various cultural performances showcasing their creativity and talents."
+                        name: "Valedictory",
+                        date: "May 21, 2024",
+                        details: "Feedback on past events and suggestions for conducting Events."
                     },
                 ]
             }
@@ -971,7 +922,241 @@ export const clubsData = [
             { name: "Dr. B. Priyadharishini", designation: "Coordinator", dept: "English", phone: "9940902480" }
         ],
         activitiesSummary: { "2025-26": 10, "2024-25": 14, "2023-24": 12 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and Guest Lecture",
+                        date: "Aug 25, 2025",
+                        details: "Topic: From Curiosity to conversation: Building Communication Skills."
+                    },
+                     {
+                        sno: 2,
+                        name: "Techno Cultural Event",
+                        date: "Aug 21 - 22, 2025",
+                        details: "Essay English Essay Writing, English Poetry Writing and English Oratorical Events."
+                    },
+                     {
+                        sno: 3,
+                        name: "Comic'on 25",
+                        date: "Sep 29, 2025",
+                        details: "Language enrichment Competition."
+                    },
+                     {
+                        sno: 4,
+                        name: "Aurora'25",
+                        date: "Oct 10, 2025",
+                        details: "An Intercollegiate Event."
+                    },
+                    {
+                        sno: 5,
+                        name: "Lingua Fest",
+                        date: "Dec 8, 2025",
+                        details: "Competition to enhance Vocabulary Skills."
+                    },
+                    {
+                        sno: 6,
+                        name: "Bibliomania",
+                        date: "Dec 10 - Feb 10, 2026",
+                        details: "Reading Competition for II,III and IV year students."
+                    },
+                       {
+                        sno: 7,
+                        name: "Book Bingo",
+                        date: "Nov 19 - Jan 19, 2026",
+                        details: "Reading Competition exclusively for I year students."
+                    },
+                       {
+                        sno: 8,
+                        name: "Illume'26",
+                        date: "Feb 2, 2026",
+                        details: "Listening and Writing Competition."
+                    },
+                    {
+                        sno: 9,
+                        name: "Guest Lecture ",
+                        date: "Feb 16, 2026",
+                        details: "Topic: English Language Proficiency: A Gateway to Global Opportunities."
+                    },
+                    {
+                        sno: 10,
+                        name: "Make it Epic",
+                        date: "March 11 - 18, 2026",
+                        details: "Cover page designing Competition for EPIC magazine."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and Guest Lecture",
+                        date: "August 28, 2024",
+                        details: "Topic: Communication in Digital Age: Leveraging LSRW Skills for Success."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inspire",
+                        date: "Aug 14, 2024",
+                        details: "Essay Writing Competition."
+                    },
+                     {
+                        sno: 3,
+                        name: "Litfest",
+                        date: "Sep 11, 2024",
+                        details: "Language enrichment Competition."
+                    },
+                     {
+                        sno: 4,
+                        name: "Prologue: A fresh Start",
+                        date: "Oct 5, 2024",
+                        details: "Creative Excellence Competition."
+                    },
+                     {
+                        sno: 5,
+                        name: "Guest lecture for the Club members",
+                        date: "Oct 26, 2024",
+                        details: "Topic: Speaking (S)kills."
+                    },
+                    {
+                        sno: 6,
+                        name: "Verse and Universe",
+                        date: "Nov 16, 2024",
+                        details: "Language enrichment Competition."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Bibliomania",
+                        date: "Oct 24 - Dec 24, 2024",
+                        details: "Reading Competition for II,III and IV year students."
+                    },
+                       {
+                        sno: 8,
+                        name: "Book Bingo",
+                        date: "Dec 14 - Feb 14, 2025",
+                        details: "Reading Competition exclusively for I year students."
+                    },
+                     {
+                        sno: 9,
+                        name: "Ruby Year ",
+                        date: "Jan 23 - 24, 2025",
+                        details: "Essay English Essay Writing, English Handwriting and English Oratorical Events."
+                    },
+                     {
+                        sno: 10,
+                        name: "Alphaverse",
+                        date: "March 1, 2025",
+                        details: "Communication Enrichment Competitions."
+                    },
+                     {
+                        sno: 11,
+                        name: "Adoption Class ",
+                        date: "March 15, 2025",
+                        details: "Interactive Event."
+                    },
+                     {
+                        sno: 12,
+                        name: "Opera ",
+                        date: "April 12, 2025",
+                        details: "A Drama Event."
+                    },
+                     {
+                        sno: 13,
+                        name: "Thiru V.K.Muthusamy award for Best creative writing in English",
+                        date: "May 2, 2025",
+                        details: "Release of EPIC magazine and Thiru V.K.Muthusamy award for Best creative writing in English."
+                    },
+                     {
+                        sno: 14,
+                        name: "Valedictory and Guest Lecture",
+                        date: "May 2, 2025",
+                        details: "Topic: Master soft skills, Unlock Success."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural & Guest Lecture",
+                        date: "July 26, 2023",
+                        details: "Topic: Importance of Reading."
+                    },
+                     {
+                        sno: 2,
+                        name: "Bibliomania ",
+                        date: "Aug 18 - Nov 18, 2023",
+                        details: "Reading Competition for II,III and IV year students."
+                    },
+                     {
+                        sno: 3,
+                        name: "A Viaduct of Discourse ",
+                        date: "Sep 27, 2023",
+                        details: "Language enrichment Competition."
+                    },
+                     {
+                        sno: 4,
+                        name: "Workshop",
+                        date: "Oct 25, 2023",
+                        details: "Importance of Communication in Interviews."
+                    },
+                    {
+                        sno: 5,
+                        name: "Book Bingo",
+                        date: "Nov 2- Feb 2, 2024",
+                        details: "Reading Competition exclusively for I year students."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Haiku Harmony ",
+                        date: "Nov 8, 2023",
+                        details: "Poetry Writing Competition."
+                    },
+                    {
+                        sno: 7,
+                        name: "Inception day ",
+                        date: "Nov 18, 2023",
+                        details: "Guest Lecture on Just Speak it out and Language enrichment Competition."
+                    },
+                    {
+                        sno: 8,
+                        name: "Speak for India",
+                        date: "Dec 14, 2023",
+                        details: "Debate Competition."
+                    },
+                    {
+                        sno: 9,
+                        name: "Adoption Class",
+                        date: "March 11, 2024",
+                        details: "Interactive Event."
+                    },
+                    {
+                        sno: 10,
+                        name: "Creativity Carnival",
+                        date: "March 6, 2024",
+                        details: "Listening and Speaking Competition."
+                    },
+                    {
+                        sno: 11,
+                        name: "Thiru V.K.Muthusamy award for Best creative writing in English",
+                        date: "April 24, 2024",
+                        details: "Release of EPIC magazine and Thiru V.K.Muthusamy award for Best creative writing in English."
+                    },
+                    {
+                        sno: 12,
+                        name: "Valedictory and Guest Lecture",
+                        date: "March 24, 2024",
+                        details: "Topic: Reading: A Joyful Ride with Books."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "freelancers",
