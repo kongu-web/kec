@@ -20,7 +20,7 @@ let images = importAll(
   require.context(
     "../../../assets/images/Updates",
     false,
-    /\.(png|jpe?g|JPG|jpg|svg)$/
+    /\.(png|jpe?g|JPG|jpg|webp|svg)$/
   )
 );
 
