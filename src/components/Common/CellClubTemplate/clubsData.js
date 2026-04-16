@@ -568,7 +568,7 @@ export const clubsData = [
                     {
                         sno: 10,
                         name: "Valedictory",
-                        date: "March 163, 2026",
+                        date: "March 16, 2026",
                         details: "The closing ceremony concluded the events and recognized participants."
                     },
 
@@ -736,7 +736,225 @@ export const clubsData = [
             { name: "Mr. R. Sathish Raam", designation: "Coordinator", dept: "Chemical", phone: "9789535777" }
         ],
         activitiesSummary: { "2025-26": 11, "2024-25": 8, "2023-24": 7 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inauguration function",
+                        date: "Aug 2, 2025",
+                        details: "Latest Trends & Opportunity inPhotovoltaic Energy."
+                    },
+                     {
+                        sno: 2,
+                        name: "Patriotic Pen",
+                        date: "Aug 15, 2025",
+                        details: "Independence Day celebration."
+                    },
+                     {
+                        sno: 3,
+                        name: "Eco Graphica",
+                        date: "Oct 22, 2025",
+                        details: "Conservation of Energy and Environment."
+                    },
+                     {
+                        sno: 4,
+                        name: "Eco vista",
+                        date: "Oct 29, 2025",
+                        details: "Awareness in nature."
+                    },
+                    {
+                        sno: 5,
+                        name: "One Nation One Mission - National Hackathon",
+                        date: "Oct 4, 2025",
+                        details: "Eco-Alternatives to Single use Plastics."
+                    },
+                    {
+                        sno: 6,
+                        name: "Kottuna Valikkuma",
+                        date: "Dec 11, 2025",
+                        details: "Reels Contest short videos promoting environmental responsibility."
+                    },
+                       {
+                        sno: 7,
+                        name: "Palette Spectrum",
+                        date: "Jan 26, 2026",
+                        details: "Republic day."
+                    },
+                       {
+                        sno: 8,
+                        name: "Sustainx",
+                        date: "Jan 31, 2026",
+                        details: "Energy Watt Matters."
+                    },
+                    {
+                        sno: 9,
+                        name: "Eco-Photo Fusion",
+                        date: "Feb 23, 2026",
+                        details: "Photographs of Nature and Tricky in KEC."
+                    },
+                    {
+                        sno: 10,
+                        name: "Rise in AI – Energy & Environment",
+                        date: "March 6, 2026",
+                        details: "How to utilize AI for energy and environment."
+                    },
+                      {
+                        sno: 11,
+                        name: "Dry Waste Management, Segregation and Recycling",
+                        date: "March 9, 2026",
+                        details: "Waste segregation, recycling and waste management."
+                    },
+
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "August 14, 2024",
+                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                    },
+                     {
+                        sno: 2,
+                        name: "Independence Day",
+                        date: "Aug 14, 2024",
+                        details: "Independence Day was celebrated with patriotic performances and speeches honoring the nation's freedom."
+                    },
+                     {
+                        sno: 3,
+                        name: "Founders Day",
+                        date: "Aug 17, 2024",
+                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                    },
+                     {
+                        sno: 4,
+                        name: "Raaga 2.0",
+                        date: "Oct 23, 2024",
+                        details: "A musical event where students showcased their singing and instrumental talents."
+                    },
+                     {
+                        sno: 5,
+                        name: "Ruby year celebration",
+                        date: "Oct 15, 2024",
+                        details: "The institution celebrated its Ruby Jubilee with cultural events and special programs."
+                    },
+                    {
+                        sno: 6,
+                        name: "Special Performance 1(outside KEC -Texvalley)",
+                        date: "Jan 1, 2025",
+                        details: "A special cultural performance conducted outside the KEC at Texvalley showcasing student talents."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Special Performance 2(Inside KEC-MBA Performance)",
+                        date: "Jan 30, 2025",
+                        details: "Students delivered a special performance for the MBA event."
+                    },
+                       {
+                        sno: 8,
+                        name: "Anchoring Workshop",
+                        date: "Feb 14, 2025",
+                        details: "A workshop conducted to train students in stage anchoring and communication skills."
+                    },
+                      {
+                        sno: 9,
+                        name: "Flash Mob",
+                        date: "Feb 14, 2025",
+                        details: "Students performed an energetic flash mob"
+                    },
+                      {
+                        sno: 10,
+                        name: "Special Performance 3(Inside KEC-Placement cell-Meet and Great)",
+                        date: "Feb 15, 2025",
+                        details: "A special performance was presented during the Placement Cell meet and greet program."
+                    },
+                      {
+                        sno: 11,
+                        name: "Enthusia 2k25",
+                        date: "Feb 19 - 20, 2025",
+                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
+                    },
+                      {
+                        sno: 12,
+                        name: "Chemathon",
+                        date: "Mar 1, 2025",
+                        details: "Orchestra performance at Chemathon"
+                    },
+                      {
+                        sno: 13,
+                        name: "Special Performance 4(Inside KEC-E Horizon FlashMob)",
+                        date: "Mar 3, 2025",
+                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage the audience."
+                    },
+
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "July 15, 2023",
+                        details: "The academic year was formally inaugurated with a welcome address and introduction to upcoming events."
+                    },
+                     {
+                        sno: 2,
+                        name: "Founders Day",
+                        date: "Aug 12, 2023",
+                        details: "A celebration honoring the institution’s founder with speeches and cultural programs."
+                    },
+                     {
+                        sno: 3,
+                        name: "Raaga",
+                        date: "Sep 16, 2023",
+                        details: "A musical event where students showcased their singing and instrumental talents."
+                    },
+                     {
+                        sno: 4,
+                        name: "Drug Awareness Flashmob",
+                        date: "Sep 13, 2023",
+                        details: "A flash mob was performed to create awareness among students about the drug."
+                    },
+                    {
+                        sno: 5,
+                        name: "Erode Marathon-Drug Awareness Flahmob ",
+                        date: "Oct 15, 2023",
+                        details: "Students performed a flash mob during the Erode Marathon to promote drug awareness."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Enthusia 2k24",
+                        date: "Jan 8 - 9, 2024",
+                        details: "A major two-day cultural fest with competitions, shows, and entertainment."
+                    },
+                       {
+                        sno: 7,
+                        name: "Mirchi FM-Kaloori Stars",
+                        date: "March 1, 2024",
+                        details: "Intra College Cultural Contest."
+                    },
+                      {
+                        sno: 8,
+                        name: "E-Horizon Awareness Flashmob",
+                        date: "March 6, 2024",
+                        details: "A flash mob performance was conducted as part of the E-Horizon event to engage and entertain the audience."
+                    },
+                      {
+                        sno: 9,
+                        name: "Students Participation",
+                        date: "Sep 13, 2024",
+                        details: "Students presented various cultural performances showcasing their creativity and talents."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "english-proficiency",
