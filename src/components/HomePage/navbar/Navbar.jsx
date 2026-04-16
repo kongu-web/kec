@@ -1012,32 +1012,7 @@ const Navbar = () => {
 
                 {/* ===== SEPARATE SECTION (NOT INSIDE CAMPUS LIFE) ===== */}
                 <li className="divider">Utility Menu</li>
-                <li onClick={() => navigate("/iqac")}>Accreditation</li>
-
-
-                {/* ACCREDITATION */}
-                {/* <li
-                  className="mobile-menu-item"
-                  onClick={() =>
-                    setOpenMobileMenu(
-                      openMobileMenu === "accreditation"
-                        ? null
-                        : "accreditation"
-                    )
-                  }
-                >
-                  Accreditation <span className="arrow">▾</span>
-                </li>
-                {openMobileMenu === "accreditation" && (
-                  <ul className="mobile-submenu">
-                    <li onClick={() => navigate("/nba")}>NBA</li>
-                    <li onClick={() => navigate("/naac")}>NAAC</li>
-                    <li onClick={() => navigate("/nirf")}>NIRF</li>
-                    <li onClick={() => navigate("/aicteet")}>AICTE - E&T</li>
-                    <li onClick={() => navigate("/aictemca")}>AICTE - MCA</li>
-                    <li onClick={() => navigate("/aictemba")}>AICTE - MBA</li>
-                  </ul>
-                )} */}
+                <li onClick={() => navigate("/iqac")}>Accreditation & IQAC</li>
 
                 <li onClick={() => window.open("https://kongu.ac.in/blogs/", "_blank")}>
                   Blogs
@@ -1056,7 +1031,7 @@ const Navbar = () => {
                   <ul className="mobile-submenu">
                     <li
                       onClick={() =>
-                        window.open("http://iipc.kongu.edu", "_blank")
+                        window.open("https://kec.linways.com/", "_blank")
                       }
                     >
                       Linways Portal
@@ -1064,7 +1039,7 @@ const Navbar = () => {
 
                     <li
                       onClick={() =>
-                        window.open("https://kongu.irins.org/", "_blank")
+                        window.open("https://kms.kongu.edu/", "_blank")
                       }
                     >
                       KMS Portal
@@ -1108,6 +1083,10 @@ const Navbar = () => {
                     </li>
                   </ul>
                 )}
+
+                <li onClick={() => window.open("https://alumni.kongu.edu/", "_blank")}>
+                  Alumni
+                </li>
 
                 <li onClick={() => navigate("/onlinepayment")}>
                   Online Payment
