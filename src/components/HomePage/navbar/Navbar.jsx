@@ -693,6 +693,16 @@ const Navbar = () => {
                     Student Centric Activities
                   </span>
 
+                  <span onClick={() => navigate("/clubs/ncc")}>
+                    <GeneralIcon className="submenu-icon" />
+                    NCC
+                  </span>
+
+                  <span onClick={() => navigate("/clubs/nss")}>
+                    <GeneralIcon className="submenu-icon" />
+                    NSS
+                  </span>
+
                   <span
                     onClick={() =>
                       window.open("https://kongu.irins.org/", "_blank")
@@ -999,6 +1009,8 @@ const Navbar = () => {
                     <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
 
                     <li onClick={() => navigate("/student-centric-activities")}>Student Centric Activities</li>
+                    <li onClick={() => navigate("/clubs/ncc")}>NCC</li>
+                    <li onClick={() => navigate("/clubs/nss")}>NSS</li>
 
                     <li
                       onClick={() =>

@@ -120,7 +120,7 @@ const Library = () => {
                 <li>Magazines: 20</li>
               </ul>
             </ul>
-            <h3>Details of Library Book</h3>
+            {/* <h3>Details of Library Book</h3>
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -164,43 +164,59 @@ const Library = () => {
                   ))}
                 </tbody>
               </table>
-            </div>
+            </div> */}
 
-            {/* <h3>National Journal Clusterwise : 42</h3>
+            <h3>National Journal Clusterwise : 42</h3>
             <div className="library-table-container">
-              <table className="mainlibrary-table">
+              <table className="mainlibrary-table library-legacy-table">
                 <thead className="mainlibrary-table-thead">
                   <tr>
-                    <th>S.No.</th>
-                    <th>Department</th>
+                    <th>Sl.No</th>
+                    <th>Dept</th>
                     <th>Course</th>
-                    <th>No. of Journals</th>
+                    <th>No.of Journals</th>
                   </tr>
                 </thead>
                 <tbody>
                   {[
-                    ["Civil Engineering", 22, 35],
-                    ["Mechanical Engineering", 12, 56],
-                    ["Automobile Engineering", 7, 37],
-                    ["Mechatronics Engineering", 12, 59],
-                    ["Electronics and Communication Engineering", 17, 22],
-                    ["Electrical and Electronics Engineering", 6, 19],
-                    ["Electronics and Instrumentation Engineering", 7, 25],
-                    ["Computer Science and Engineering", 12, 35],
-                    ["Computer Science and Design", 6, 11],
-                    ["Information Technology", 6, 15],
-                    ["Artificial Intelligence", 12, 23],
-                    ["Chemical Engineering", 6, 91],
-                    ["Food Technology", 25, 16],
-                    ["Computer Technology - UG", 19, 34],
-                    ["Computer Technology - PG", 6, 15],
-                    ["Master Of Business Administration", 15, 45],
-                    ["Master Of Computer Applications", 7, 20],
-                    ["Science And Humanities", 62, 38],
-                    ["TOTAL", 259, 596],
+                    [
+                      "CIVIL",
+                      "B.E.CIVIL, ME-SE",
+                      "4",
+                    ],
+                    [
+                      "MECHANICAL/ MECHATRONICS/ AUTOMOBILE",
+                      "B.E.MECH, B.E.MTS, B.E.AUTO",
+                      "6",
+                    ],
+                    [
+                      "CHEMICAL/ FOOD TECH",
+                      "B.Tech.Chem, B.Tech.FT, M.Tech.FT",
+                      "6",
+                    ],
+                    [
+                      "ECE / EEE / EIE",
+                      "B.E.ECE, M.E. VLSI, B.E.EEE, B.E.EIE",
+                      "6",
+                    ],
+                    [
+                      "CSE / IT/ AI/ CSD/ BSC/ MSE/ MCA",
+                      "B.E.CSE, M.E.CSE, B.Tech.IT, B.Tech.AIDS, B.Tech. AIML, B.E.CSE, B.Sc.CS&D, B.Sc.IS, B.Sc.SS, M.Sc.SS, MCA",
+                      "8",
+                    ],
+                    [
+                      "MBA",
+                      "MBA",
+                      "5",
+                    ],
+                    [
+                      "SCIENCE & HUMANITIES",
+                      "MATHS, PHYSICS, CHEMISTRY, ENGLISH",
+                      "7",
+                    ],
                   ].map((row, i) => (
                     <tr key={i}>
-                      <td>{i + 1 <= 18 ? i + 1 : ""}</td>
+                      <td>{i + 1}</td>
                       <td>{row[0]}</td>
                       <td>{row[1]}</td>
                       <td>{row[2]}</td>
@@ -208,7 +224,7 @@ const Library = () => {
                   ))}
                 </tbody>
               </table>
-            </div> */}
+            </div>
 
            <h3>National and International Journal</h3>
             <div className="library-table-container">
@@ -567,33 +583,116 @@ const Library = () => {
               <strong>No. of Online Journals Subscription:</strong> 9,361
             </p>
 
-            <h2>AUERC SUBSCRIPTION - E-Journals</h2>
-            <table className="mainlibrary-table">
-              <thead className="mainlibrary-table-thead">
-                <tr>
-                  <th>Sl.No.</th>
-                  <th>Publisher's Platform</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>1</td>
-                  <td>Cambridge University Press</td>
-                </tr>
-                <tr>
-                  <td>2</td>
-                  <td>Elsevier</td>
-                </tr>
-                <tr>
-                  <td>3</td>
-                  <td>Springer</td>
-                </tr>
-                <tr>
-                  <td>4</td>
-                  <td>Wiley Online</td>
-                </tr>
-              </tbody>
-            </table>
+            <h2>SUBSCRIPTION - E-Journals</h2>
+            <div className="library-table-container">
+              <table className="mainlibrary-table library-legacy-table">
+                <thead className="mainlibrary-table-thead">
+                  <tr>
+                    <th>Sl.No</th>
+                    <th>I. E-JOURNALS PACKAGE</th>
+                    <th>LINK</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>1</td>
+                    <td>IEEE ASPP</td>
+                    <td rowSpan="14" className="link-cell">
+                      <div className="link-content">
+                        <strong>INTERNET ACCESS</strong>
+                        <br />
+                        <a href="https://www.kongu.ac.in/facilities/library" target="_blank" rel="noopener noreferrer">
+                          https://www.kongu.ac.in/facilities/library
+                        </a>
+                        <br />
+                        <span>(Click Digital Library)</span>
+                        <br />
+                        <br />
+                        <strong>INTRANET ACCESS</strong>
+                        <br />
+                        <a href="https://intranet.kongu.edu/library/library/keclibrary.html" target="_blank" rel="noopener noreferrer">
+                          https://intranet.kongu.edu/library/library/keclibrary.html
+                        </a>
+                        <br />
+                        <br />
+                        <strong>REMOTE ACCESS</strong>
+                        <br />
+                        <a href="https://idp.kongu.edu" target="_blank" rel="noopener noreferrer">
+                          https://idp.kongu.edu
+                        </a>
+                        <br />
+                        <br />
+                        <strong>NPTEL PDF LECTURES</strong>
+                        <br />
+                        <a href="http://digimat.kongu.edu/digimat/index.html" target="_blank" rel="noopener noreferrer">
+                          http://digimat.kongu.edu/digimat/index.html
+                        </a>
+                        <br />
+                        <span>(user name & password: user1)</span>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Springer Nature 5 Subject Collection</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Elsevier- Computer Science</td>
+                  </tr>
+                  <tr>
+                    <td>4</td>
+                    <td>Elsevier- Engineering</td>
+                  </tr>
+                  <tr>
+                    <td>5</td>
+                    <td>Elsevier-Mathematics</td>
+                  </tr>
+                  <tr>
+                    <td>6</td>
+                    <td>Elsevier- Chemical Engineering</td>
+                  </tr>
+                  <tr>
+                    <td>7</td>
+                    <td>Elsevier-Materials Science</td>
+                  </tr>
+                  <tr>
+                    <td>8</td>
+                    <td>EBSCO Business Source Elite</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td style={{ fontWeight: "bold", textAlign: "center" }}>
+                      II .E-BOOKS
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>Springer eBook</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td style={{ fontWeight: "bold", textAlign: "center" }}>
+                      III. PLAGIARISM CHECKER
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>Turnitin - iThenticate</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td style={{ fontWeight: "bold", textAlign: "center" }}>
+                      IV. DIGIMATE
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>NPTEL PDF Lectures</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
 
             <h2>E-BOOKS</h2>
             <ul>
