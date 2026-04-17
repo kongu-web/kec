@@ -93,7 +93,7 @@ const eomsMdfFiles = [
     { name: "21_CDC.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/21_CDC.pdf`, type: "pdf" },
     { name: "22_HOSTEL.pdf", path: `${EOMS_BASE_PATH}/MDF/PDF/22_HOSTEL.pdf`, type: "pdf" }
 
-   
+
 ];
 
 const eomsMdiFiles = [
@@ -116,7 +116,7 @@ const eomsMdfDocFiles = [
     "9_TrainingFaculty_Staff.doc", "10_Association.doc", "11_Budget.doc", "12_Alumni.docx",
     "13_Test.docx", "14_Placement.doc", "15_MinutesofMeeting.docx", "16_COE.docx",
     "17_LIBRARY.doc", "18_PHYSICAL EDUCATION.docx", "19_Transport.docx", "20_Admission.docx", "21_CDC.docx", "22_HOSTEL.docx"
-    
+
 ];
 
 const eomsMdiDocFiles = [
@@ -441,6 +441,42 @@ const IqacDownloads = () => {
                     {/* EOMS 21001 Content */}
                     {activeFolder === 'eoms21001' && (
                         <div className="downloads-grid">
+                            <div className="download-card quality-plan">
+                                <h4>Quality Plan</h4>
+                                <ul>
+                                    <li>
+                                        <a
+                                            href={`${BASE_PATH}/qualityplan/00_IQAC_PLAN_01.09.2023.pdf`}
+                                            className="iqac-download-link"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            download
+                                        >
+                                            <FontAwesomeIcon icon={faDownload} className="me-2" />
+                                            Download Quality Plan
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div className="download-card roles">
+                                <h4>Roles and Responsibilities</h4>
+                                <ul>
+                                    <li>
+                                        <a
+                                            href={`${BASE_PATH}/roles/Roles_v1.pdf`}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="roles-link"
+                                        >
+                                            <div className="icon-box">
+                                                <FontAwesomeIcon icon={faUserTie} />
+                                            </div>
+                                            <span>View Roles</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                             {/* MDI Documents */}
                             <div className="download-card pdf-files">
                                 <h4>EOMS - MDI (PDF Documents)</h4>
@@ -513,7 +549,7 @@ const IqacDownloads = () => {
                                 </ul>
                             </div>
 
-                             <div className="download-card copo-sheet">
+                            <div className="download-card copo-sheet">
                                 <h4>EXCEL FORMAT</h4>
                                 <ul className="iqac-file-list">
                                     {excel.map((file, idx) => (
