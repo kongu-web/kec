@@ -857,7 +857,7 @@ export const clubsData = [
                     },
                        {
                         sno: 8,
-                        name: "VALIDICTORY-2025",
+                        name: "VALEDICTORY-2025",
                         date: "May 7, 2025",
                         details: "Feedback On Past Events and Suggestions for Conducting Events."
                     },
@@ -1659,7 +1659,224 @@ export const clubsData = [
             
         ],
         activitiesSummary: { "2025-26": 11, "2024-25": 14, "2023-24": 8 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural for the Academic Year 2025 - 2026",
+                        date: "July 30, 2025",
+                        details: "Mr. Kaarthik S, CEO, The COCO Brothers, Coimbatore. Inaugurated and Gave guest lecture."
+                    },
+                     {
+                        sno: 2,
+                        name: "Eco Fest for outside college students",
+                        date: "Sep 15, 2025",
+                        details: "National Level Technical and Non Technical Event."
+                    },
+                     {
+                        sno: 3,
+                        name: "Walkathon – Environment Awareness & Organic Farm ",
+                        date: "Sep 15 - 27, 2025",
+                        details: "Environmental awareness program for public."
+                    },
+                     {
+                        sno: 4,
+                        name: "Awareness Program on Health & Safety by Sub Inspector of Police - Perundurai",
+                        date: "Sep 29, 2025",
+                        details: "Health and Safety Awareness program for students."
+                    },
+                    {
+                        sno: 5,
+                        name: "Greening the Grounds with Professors – Sapling plantation at faculty house",
+                        date: "Sep 29, 2025",
+                        details: "Students planted saplings in faculty house."
+                    },
+                    {
+                        sno: 6,
+                        name: "KEC Rain water Harvesting pit cleaning",
+                        date: "Oct 25, 2025",
+                        details: "Students know importance of Rain water."
+                    },
+                       {
+                        sno: 7,
+                        name: "Pasumai Thiruvila - Guest Lecture & Sapling Plantation Inauguration",
+                        date: "Dec 6, 2025",
+                        details: "Inaugurated and Guest lecture by Thiru. Athikadavu Subramaniam."
+                    },
+                       {
+                        sno: 8,
+                        name: "Guest lecture on Accupuncture – The art of healing",
+                        date: "Dec 10 -11, 2026",
+                        details: "Acupuncture – The art of healing. Guest lecture by Ms.Mythili."
+                    },
+                    {
+                        sno: 9,
+                        name: "Environmental Awareness Program – In government school (Sapling Plantation & Competitions)",
+                        date: "Jan 31, 2026",
+                        details: "Sapling plantation and competitions for school students."
+                    },
+                    {
+                        sno: 10,
+                        name: "Cooking without fire & Best out of waste",
+                        date: "Feb 11, 2026",
+                        details: "Students prepared healthy food and convert waste to useful products."
+                    },
+                      {
+                        sno: 11,
+                        name: "Valedictory",
+                        date: "March, 2026",
+                        details: "Thank to Secretory of club and Conclusion of the 2025-26 events."
+                    },
+
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural for the Academic Year 2024 - 2025 ",
+                        date: "August 23, 2024",
+                        details: "Dr.V.Saravanan, Publicity Officer, Forest Department, Erode Division. Inaugurated the club activity 2024-25."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture & Sapling Distribution",
+                        date: "Aug 23, 2024",
+                        details: "Dr.V.Saravanan, Publicity Officer, Forest Department – Gave Guest lecture about forest and distributed saplings ."
+                    },
+                     {
+                        sno: 3,
+                        name: "World Environmental Day – Awareness program in Government School, Thiruvachi",
+                        date: "June 21, 2024",
+                        details: "Environmental awareness program conducted in government school."
+                    },
+                     {
+                        sno: 4,
+                        name: "Independence Day Celebration- Sapling Plantation",
+                        date: "Aug 14, 2024",
+                        details: "Saplings planted in KEC campus."
+                    },
+                     {
+                        sno: 5,
+                        name: "Wall Painting in Government School Thiruvachi – Collaboration with KSA’s Youth Red Cross",
+                        date: "Aug 16 - 17, 2024",
+                        details: "Nature oriented wall painting activity done by students in government school."
+                    },
+                    {
+                        sno: 6,
+                        name: "KEC Inception Day Celebration – Sapling Plantation ",
+                        date: "Sep 9, 2024",
+                        details: "Sapling planted in KEC campus."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "World Environment Day - “Eek Ped Maa Ki Naam”- A National Level Plantation Event in KEC",
+                        date: "Sep 18, 2024",
+                        details: "Sapling planted in KEC campus."
+                    },
+                       {
+                        sno: 8,
+                        name: "Hands on Training - Vertical Farming, Chittode",
+                        date: "Oct 26, 2024",
+                        details: "Shanmugasundaram, A renowned agricultural scientist - Students gain knowledge on vertical farming."
+                    },
+                    {
+                        sno: 9,
+                        name: "World Soil Day 2024 – Face Mud Bath and Field visit Thiruchangode",
+                        date: "Dec 5, 2024",
+                        details: "Students know the importance of soil."
+                    },
+                    {
+                        sno: 10,
+                        name: "Pasumai Thiruvila 2024 – Sapling distribution to students, faculties and farmers",
+                        date: "Nov - Dec, 2024",
+                        details: "15000 saplings distributed to students, farmers."
+                    },
+                    {
+                        sno: 11,
+                        name: "ECO Fest – Nature oriented Technical & Non-technical event",
+                        date: "Jan 25, 2025",
+                        details: "Nature oriented National Level technical and non technical event."
+                    },
+                    {
+                        sno: 12,
+                        name: "Student Volunteers for Iearkai Ulavar Unavu Paadhakapu Manadu,Tex Valley",
+                        date: "Feb 15 - 16, 2025",
+                        details: "Students helped local farmers for one day."
+                    },
+                    {
+                        sno: 13,
+                        name: "Field Visit - Tamilnadu Agriculture University, Coimbatore",
+                        date: "March 12, 2025",
+                        details: "Students gain knowledge about various agriculture tools and systems."
+                    },
+                    {
+                        sno: 14,
+                        name: "Valedictory",
+                        date: "March 18, 2025",
+                        details: "Thank to Secretory of club and Conclusion of the 2024-25 events."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural for the Academic Year 2023 - 2024",
+                        date: "Oct 21, 2023",
+                        details: "Dr. Ayisha, BAMS, DFPVMD, Managing Director, Ayisha Ayurvedic Hospital, Dharmapuri, Inaugural for the Academic Year 2023 – 2024 and conducted medical camp."
+                    },
+                     {
+                        sno: 2,
+                        name: "One Volunteer One Tree - Saplings Plantation",
+                        date: "July 15, 2023",
+                        details: "Students planted saplings in their house."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture on Ayurveda - Reboot Yourself with Ayurveda, a Scientific Art of Living",
+                        date: "Oct 21, 2023",
+                        details: "Dr. Ayisha, BAMS - Reboot Yourself with Ayurveda, a Scientific Art of Living."
+                    },
+                     {
+                        sno: 4,
+                        name: "Medical Camp – Traditional Ayurvedic / Naturopathy consultation",
+                        date: "Oct 21, 2023",
+                        details: "Dr. Ayisha, BAMS - conducted medical camp."
+                    },
+                    {
+                        sno: 5,
+                        name: "Celebration on International Year of Millets -Millets for Healthy Life -Cooking without fire event",
+                        date: "Nov 29, 2023",
+                        details: "Students prepare healthy food without cooking."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Ulavanai Orunal - Helping local farmers for one day",
+                        date: "Feb 22, 2024",
+                        details: "Students helped local farmers for one day."
+                    },
+                      {
+                        sno: 7,
+                        name: "Guest Lecture - Global Warming",
+                        date: "March 2, 2024",
+                        details: "Dr.T.Maruthavanan, Associate Professor of Chemistry, Sona college of Technology, Salem. Students know about global warming."
+                    },
+                      {
+                        sno: 8,
+                        name: "Valedictory",
+                        date: "April, 2024",
+                        details: "Thank to Secretory of club and Conclusion of the 2023-24 events."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "photography-design",
@@ -1676,7 +1893,157 @@ export const clubsData = [
             { name: "Mr. S. K. Logesh", designation: "Coordinator", dept: "EEE", phone: "9443350335" }
         ],
         activitiesSummary: { "2025-26": 6, "2024-25": 8, "2023-24": 8 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural function & Guest Lecture",
+                        date: "July 21, 2025",
+                        details: "Modern World Photography Technology."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Sep 25, 2025",
+                        details: "The Role of Colors and Light in Visual Narratives."
+                    },
+                     {
+                        sno: 3,
+                        name: "Pixel’25",
+                        date: "Sep 25, 2025",
+                        details: "National Level Technical Symposium."
+                    },
+                     {
+                        sno: 4,
+                        name: "Poster Competition",
+                        date: "Nov 8, 2025",
+                        details: "-"
+                    },
+                    {
+                        sno: 5,
+                        name: "Workshop",
+                        date: "Jan 3, 2026",
+                        details: "Fundamentals of Digital Photography."
+                    },
+                    {
+                        sno: 6,
+                        name: "Workshop",
+                        date: "Feb 15, 2026",
+                        details: "Fundamentals of Design and Software."
+                    },
+                       {
+                        sno: 7,
+                        name: "SCINTILLA’2K26",
+                        date: "March 14, 2026",
+                        details: "Intra College Photography Symposium."
+                    },
+                       {
+                        sno: 8,
+                        name: "Valedictory Function",
+                        date: "March 14, 2026",
+                        details: "From Light to Story: Visual Story Telling in photography."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function & Guest Lecture",
+                        date: "August 14, 2024",
+                        details: "Modern World Photography Technology."
+                    },
+                     {
+                        sno: 2,
+                        name: "Poster Design Contest",
+                        date: "Aug 15, 2024",
+                        details: "Independence Day."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "Sep 21, 2024",
+                        details: "Modern World Photography Technology."
+                    },
+                     {
+                        sno: 4,
+                        name: "Workshop ",
+                        date: "Feb 14, 2025",
+                        details: "Canva for Beginners: Retouch, Enhance & Create."
+                    },
+                     {
+                        sno: 5,
+                        name: "Workshop ",
+                        date: "Feb 15, 2025",
+                        details: "Dynamic Video Creation: Learning After Effects."
+                    },
+                    {
+                        sno: 6,
+                        name: "Workshop ",
+                        date: "Feb 15, 2025",
+                        details: "The Art of Photography: Understanding Cameras & DSLRs."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "SCINTILLA’2K25",
+                        date: "March 7, 2025",
+                        details: "Intra College Photography Symposium."
+                    },
+                       {
+                        sno: 8,
+                        name: "Valedictory Function",
+                        date: "March 7, 2025",
+                        details: "Understanding Light in Photography."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "Aug 9, 2023",
+                        details: "Cinematography."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Aug 9, 2023",
+                        details: "Digital Intermediate."
+                    },
+                     {
+                        sno: 3,
+                        name: "Workshop",
+                        date: "Nov 8, 2023",
+                        details: "Hands on Manual Photography."
+                    },
+                     {
+                        sno: 4,
+                        name: "Short Film Fiesta",
+                        date: "Jan 29, 2024",
+                        details: "-"
+                    },
+                    {
+                        sno: 5,
+                        name: "Scintilla 2k23 ",
+                        date: "March 15, 2024",
+                        details: "-"
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Valedictory Function",
+                        date: "March 15, 2024",
+                        details: "AI in Photography."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "quiz-club",
@@ -1693,7 +2060,151 @@ export const clubsData = [
             { name: "Dr. S. Sathya", designation: "Coordinator", dept: "Maths", phone: "9688009938" }
         ],
         activitiesSummary: { "2025-26": 5, "2024-25": 8, "2023-24": 8 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Independence Day Quiz",
+                        date: "Aug 15, 2025",
+                        details: "To celebrate the 79th year of India’s freedom, a digital quiz was organized as an interactive way of learning. Instead of a usual program, the online format allowed participants from different places and age groupsto join easily. The quiz covered wide-ranging themes such as India’s independence journey, cultural richness, and modern achievements. The active participation reflected both enthusiasm and national pride. By combining knowledge with technology, the quiz became a creative medium to involve people and spread the spirit of Independence Day."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inauguration",
+                        date: "Aug 25, 2025",
+                        details: "Dr. S. Easwaramoorthi is a Senior Principal Scientist at the Central Leather Research Institute (CLRI), Chennai, with extensive expertise in leather testing and research. He specializes in material testing, quality assurance, and developing sustainable solutions for the leather industry. With years of experience in scientific research, he has contributed significantly to innovation and industry standards. Based in Chennai, he is passionate about advancing research in leather technology and inspiring young minds to pursue excellence."
+                    },
+                     {
+                        sno: 3,
+                        name: "Eerie Enigmas",
+                        date: "Sep 15, 2025",
+                        details: "Eerie Enigmas is a fun filled, thrilling event made specially for first and second year students. This event consists of 3 exciting rounds to challenge the participants in different aspects such as knowledge, creativity, problem-solving, and presence of mind. The event makes sure every participant stays involved, whether it’s by solving tricky puzzles, showing creative ideas, or facing surprising challenges. It’s a perfect opportunity to learn, compete, and have fun all at once. By the end of Eerie Enigmas, the participants will not only walk away with memories of a thrilling experience but also with a boost in their confidence, team spirit, and creative thinking skills."
+                    },
+                     {
+                        sno: 4,
+                        name: "Quiz Fest",
+                        date: "Feb 21, 2026",
+                        details: "Quiz Fest is an exciting and knowledge-driven event designed for students to test and expand their intellectual abilities. The event consists of multiple engaging rounds that challenge participants in areas such as general knowledge, current affairs, logical thinking, and quick decision-making. It encourages healthy competition while keeping the atmosphere lively and interactive. Participants will have the opportunity to showcase their knowledge, think under pressure, and work as a team. By the end of Quiz Fest, students will gain valuable learning experiences along with improved confidence, awareness, and analytical skills."
+                    },
+                    {
+                        sno: 5,
+                        name: "Maneedhi - Women’s day quiz",
+                        date: "March 8, 2026",
+                        details: "Maneedhi – Women’s Day Quiz is a special event organized to celebrate International Women's Day and promote awareness about women's achievements and rights.The quiz encourages participants to learn about inspiring women, gender equality, and social contributions.It provides a platform for students to test their knowledge while honoring the role of women in society. More than 300 students participated from various institutions."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Quiz for 78th Independence day for Kec students",
+                        date: "August 15, 2024",
+                        details: "Independence Day Quiz is a special online event organized for students of Kongu Engineering College to celebrate the 78th Independence Day of India in an engaging and informative way. The quiz aims to test participants’ knowledge about Indian history, freedom fighters, constitution, culture, and important national achievements. Conducted in an online format, the event allows students to participate easily while enjoying a healthy spirit of competition. It provides a great opportunity for students to learn more about the nation’s heritage while improving their awareness, confidence, and quick thinking skills."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inaguration of quiz club activities for the year 2024-2025",
+                        date: "Sep 18, 2024",
+                        details: "Inauguration of Quiz Club Activities (2024–2025) is organized to officially commence the quiz club events for the academic year 2024–2025. The event aims to introduce the club’s objectives, encourage student participation, and promote a culture of knowledge sharing and intellectual competition among students. It marks the beginning of various quiz-based activities that help enhance general knowledge, critical thinking, and confidence through engaging and interactive sessions."
+                    },
+                     {
+                        sno: 3,
+                        name: "Quiz Event for I year students 2024-2025 INFOGNITE 2K24",
+                        date: "Oct 5, 2024",
+                        details: "INFOGNITE 2K24 – Quiz Event is an offline quiz competition organized for first-year students during the academic year 2024–2025. The event aims to encourage students to showcase their knowledge, quick thinking, and problem-solving abilities through a series of engaging quiz rounds. It provides a platform for participants to learn, compete, and interact with peers while promoting general awareness, confidence, and teamwork in a fun and competitive environment."
+                    },
+                     {
+                        sno: 4,
+                        name: "World Food day Quiz",
+                        date: "Oct 20, 2024",
+                        details: "World Food Day Quiz is an online quiz event organized to create awareness about food security, nutrition, agriculture, and sustainable food practices. The event encourages students to enhance their knowledge about global food issues, healthy eating habits, and the importance of reducing food waste. Through this interactive quiz, participants get an opportunity to learn, compete, and develop awareness about building a hunger-free and sustainable world."
+                    },
+                     {
+                        sno: 5,
+                        name: "Women’s Day Quiz – Manidhi 2025",
+                        date: "March 8, 2025",
+                        details: "Women’s Day Quiz – Manidhi 2025 is an online quiz event organized to celebrate International Women’s Day and recognize the achievements and contributions of women in various fields. The quiz aims to create awareness about inspiring women leaders, social progress, equality, and women’s empowerment. It provides an engaging platform for students to test their knowledge, learn about influential women, and promote respect and appreciation for women’s role in society."
+                    },
+                    {
+                        sno: 6,
+                        name: "World Water Day Quiz ",
+                        date: "March 22, 2025",
+                        details: "World Water Day Quiz is an online quiz event organized to raise awareness about the importance of water conservation, sustainable water management, and global water issues. The event encourages students to enhance their knowledge about water resources, environmental protection, and the need for responsible water usage while participating in an engaging and competitive learning activity."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Quiz event for Kec students - Infinity",
+                        date: "April 12, 2025",
+                        details: "Infinity – Quiz Event is an offline quiz competition organized for students of Kongu Engineering College to promote knowledge sharing and intellectual engagement. The event features multiple exciting rounds that test participants’ general knowledge, logical thinking, and quick decision-making skills. It provides a platform for students to compete, learn, and interact while enhancing their confidence, teamwork, and analytical abilities in a fun and competitive environment."
+                    },
+                       {
+                        sno: 8,
+                        name: "Valedictory of Quiz club for the year 2024-2025",
+                        date: "April 12, 2025",
+                        details: "Valedictory of Quiz Club (2024–2025) marks the closing ceremony of the quiz club activities for the academic year 2024–2025. The event highlights the achievements and successful completion of various quiz events conducted throughout the year. It also recognizes and appreciates the active participation and contributions of students, encouraging them to continue their enthusiasm for knowledge, learning, and healthy competition."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaguration of quiz club activities for the year 2024-2025",
+                        date: "Oct 19, 2023",
+                        details: "The inauguration of Quiz Club activities for the academic year 2024–2025 was conducted in offline mode to officially begin the club’s events for the year. The program aimed to introduce the objectives of the club, encourage student participation, and promote knowledge sharing through various quiz competitions."
+                    },
+                     {
+                        sno: 2,
+                        name: "Indian Constitution day Quiz",
+                        date: "Nov 26, 2023",
+                        details: "The Indian Constitution Day Quiz was conducted online to create awareness among students about the Indian Constitution, its values, fundamental rights, and duties. The event encouraged participants to learn about the nation’s legal framework and democratic principles."
+                    },
+                     {
+                        sno: 3,
+                        name: "Enigma 2023",
+                        date: "Dec 20, 2023",
+                        details: "Enigma 2023 was an offline quiz event designed to challenge students through interesting and competitive rounds that tested their general knowledge, logical thinking, and problem-solving abilities in an engaging environment."
+                    },
+                     {
+                        sno: 4,
+                        name: "73rd  Republic Day Quiz",
+                        date: "Jan 26, 2024",
+                        details: "The 73rd Republic Day Quiz was organized online to celebrate the spirit of the nation and increase awareness about India’s history, constitution, freedom struggle, and national achievements through an interactive quiz competition."
+                    },
+                    {
+                        sno: 5,
+                        name: "World Cancer Day Quiz",
+                        date: "Feb 4, 2024",
+                        details: "The World Cancer Day Quiz was conducted online to spread awareness about cancer prevention, early detection, treatment, and global health initiatives, encouraging students to understand the importance of health awareness."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Women’s Day Quiz for female students",
+                        date: "March 8, 2024",
+                        details: "Women’s Day Quiz was conducted in online , specially for female students. Certificates were sent through mail to the participants."
+                    },
+                    {
+                        sno: 7,
+                        name: "Master Mind Quiz",
+                        date: "May 15 2024",
+                        details: "Master Mind Quiz was an online quiz competition aimed at testing participants’ intelligence, quick thinking, and general knowledge through challenging questions and interactive rounds, promoting learning in a competitive yet enjoyable way."
+                    },
+                    {
+                        sno: 8,
+                        name: "Valedictory",
+                        date: "May 15, 2024",
+                        details: "Valedictory was conducted to conclude the events conducted throughout the academic year. In this event the annual report was presented."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "ravi-varma-creative",
