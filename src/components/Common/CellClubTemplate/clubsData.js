@@ -744,7 +744,7 @@ export const clubsData = [
                         sno: 1,
                         name: "Inauguration function",
                         date: "Aug 2, 2025",
-                        details: "Latest Trends & Opportunity inPhotovoltaic Energy."
+                        details: "Latest Trends & Opportunity in Photovoltaic Energy."
                     },
                      {
                         sno: 2,
@@ -1174,7 +1174,9 @@ export const clubsData = [
             { name: "Ms.T.E.Ramya", designation: "Coordinator", dept: "CSE", phone: "8883677334" }
         ],
         activitiesSummary: { "2025-26": 11 },
-        eventDetails: []
+        eventDetails: [
+
+        ]
     },
     {
         id: "gender-equality",
@@ -1191,7 +1193,126 @@ export const clubsData = [
             { name: "Ms. S. Mohana Saranya", designation: "Coordinator", dept: "CSE", phone: "9942974490" }
         ],
         activitiesSummary: { "2025-26": 5, "2024-25": 6, "2023-24": 6 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural function",
+                        date: "Aug 11, 2025",
+                        details: "The programme aimed at highlighting the importance of gender balance and inclusivity, along with a special guest lecture on “Promoting Gender Equality for a Balanced Society” by Rtn. Dr. S.Rajalakshmi."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Aug 30, 2025",
+                        details: "The lecture delivered by Rtn. G.Padmapriya Kiruthika, Service Project Chair, Rotary Tirupur Bharati, had the main objective of creating awareness on the importance of gender balance in corporate leadership and encouraging students to work towards building a just and fair society."
+                    },
+                     {
+                        sno: 3,
+                        name: "TechnoCanvas’25",
+                        date: "Oct 11, 2025",
+                        details: "The event comprised two competitions Coding Fusion and Poster Fusion ,where the day witnessed vibrant participation and a strong display of talent, creativity, and teamwork from students across different disciplines."
+                    },
+                     {
+                        sno: 4,
+                        name: "Balancebytes",
+                        date: "Jan 3, 2026",
+                        details: "BalanceBytes, a 7-hour hackathon, with the objective of encouraging innovative problem-solving and promoting inclusivity through technology."
+                    },
+                    {
+                        sno: 5,
+                        name: "Prometheus 2026",
+                        date: "Feb 16, 2026",
+                        details: "The event was conducted with objective of encouraging innovation, creativity, and collaborative learning among students across various departments."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Independence Day Event",
+                        date: "August 15, 2024",
+                        details: "The event was conducted to celebrate Independence Day by encouraging students to express their patriotic thoughts through poetry and to enhance their knowledge about India’s history, freedom struggle, and national leaders through an interactive online quiz conducted on Quizizz."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inaugural Function",
+                        date: "Aug 21, 2024",
+                        details: "The programme aimed to mark the inauguration of the Gender Equality Club and create awareness about the importance of gender equality in building an inclusive society, along with a special guest lecture on “Building Equality: Building Nation” by Rtn. Bharath Manoharan."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "Nov 11, 2024",
+                        details: "The lecture delivered by Rtn. G.Padmapriya Kiruthika, Treasurer of Rotary Tirupur Bharathi, had the main objective of creating awareness about Women Empowerment, highlighting the importance of equal opportunities, leadership, and education in empowering women and building an inclusive and progressive society."
+                    },
+                     {
+                        sno: 4,
+                        name: "Guest Lecture",
+                        date: "Feb 1, 2025",
+                        details: "The lecture delivered by Rtn. Vichitra Senthilkumar, public speaker, social activist, and smart life coach, was conducted with the objective of highlighting Student Vision on Society, encouraging students to develop a positive outlook towards societal development, promoting social awareness, gender equality, leadership, and motivating them to contribute towards building a progressive and inclusive society."
+                    },
+                     {
+                        sno: 5,
+                        name: "Workshop",
+                        date: "March 28, 2025",
+                        details: "The workshop handled by Sanchay M, placed in Soliton Technologies, was conducted with the objective of introducing students to the importance of data analysis and interpretation, highlighting “Delve into Data” concepts to enhance analytical thinking, decision-making skills, and encouraging students to explore data-driven technologies and career opportunities."
+                    },
+                    {
+                        sno: 6,
+                        name: "Valedictory Function",
+                        date: "May 7, 2025",
+                        details: "The guest lecture delivered by Rtn. Ravindran Kamatchi, President of the Rotary Club of Tirupur and Nature Society of Tirupur, aimed to promote Environmental Leadership Beyond Gender Equality, highlighting the importance of collaborative green communities environmental responsibility, and encouraging students to contribute towards sustainable and inclusive development."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "Sep 16, 2023",
+                        details: "The programme aimed to mark the inauguration of the Gender Equality Club and to create awareness about the importance of gender justice and equality in building an inclusive society, along with a special guest lecture on “Gender Justice and Equality” by Dr. Salha Sabeeha Shajahan."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Oct 18, 2023",
+                        details: "The guest lecture on “Law Relating to Gender Equality” delivered by Mr. R.Balasubramanian, General Secretary, Federation of Consumer Organisations Tamil Nadu & Pondicherry, was conducted with the objective of creating awareness about gender equality laws among students. The session highlighted the provisions for gender equality in the Indian Constitution and emphasized the importance of legal rights and responsibilities. It encouraged students to promote fairness, equality, and respect in society."
+                    },
+                     {
+                        sno: 3,
+                        name: "Intra-college Essay and drawing competition",
+                        date: "Oct 21, 2023",
+                        details: "The Essay and Drawing Competition organized by the Gender Equality Club of Kongu Engineering College aimed to encourage students to participate in extracurricular activities related to gender equality. The competition provided a platform for students to express their views on issues such as violence against women, transgender discrimination, and gender equality in society. The event helped create awareness and motivated students to support an inclusive and equal society."
+                    },
+                     {
+                        sno: 4,
+                        name: "Intra-college GEC Drawing, Speech and Quiz Competition- SPARKLE 2K24",
+                        date: "Feb 28, 2024",
+                        details: "The SPARKLE 2K24 – Intra-college Drawing, Speech and Quiz Competition organized by the Gender Equality Club of Kongu Engineering College aimed to encourage students to actively participate in activities that promote awareness about gender equality. The event provided a platform for students to express their ideas and talents through various competitions."
+                    },
+                    {
+                        sno: 5,
+                        name: "Intra-college technical symposium",
+                        date: "March 23, 2024",
+                        details: "The Intra-college Technical Symposium organized by the Gender Equality Club of Kongu Engineering College aimed to encourage students to showcase their technical knowledge and innovative ideas. The event provided a platform for students to participate in technical discussions and presentations."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Valedictory function",
+                        date: "April 24, 2024",
+                        details: "The Valedictory Function and Special Guest Lecture organized by the Gender Equality Club of Kongu Engineering College aimed to create awareness about “Gender Equality and Digital Inclusion.” The session was delivered by Mr. Pradeep Kumar Narasimhan, Social Auditor & Development Consultant, Project Head, INK Educational and Research Trust, Chennai. The programme highlighted the importance of equal opportunities and digital access for all genders."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "ielts-club",
@@ -1208,7 +1329,157 @@ export const clubsData = [
             { name: "Ms. S. Shobana", designation: "Coordinator", dept: "English", phone: "9360038345" }
         ],
         activitiesSummary: { "2025-26": 7, "2024-25": 9, "2023-24": 6 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural & Guest Lecture",
+                        date: "Aug 30, 2025",
+                        details: "The IELTS Club Inaugural featuring welcome, introduction of office bearers, year plan presentation, and an interactive guest lecture on IELTS awareness and opportunities abroad."
+                    },
+                     {
+                        sno: 2,
+                        name: "Awareness Programme",
+                        date: "July 31, 2025",
+                        details: "A special programme to create an awareness among the students about IELTS exam and its uses and on how to crack the exam."
+                    },
+                     {
+                        sno: 3,
+                        name: "IGNITE’25- Competition for I year Students",
+                        date: "Oct 4, 2025",
+                        details: "Ignite ’25 was another competition where students’ ability to understand and the command over the language was tested."
+                    },
+                     {
+                        sno: 4,
+                        name: "Prolingua - Competition for I year Students",
+                        date: "Dec 15, 2025",
+                        details: "Though a small event was effective where students’ creativity and interest was understood."
+                    },
+                    {
+                        sno: 5,
+                        name: "IELTS Masterclass",
+                        date: "Feb 2, 2026",
+                        details: "The first IELTS Masterclass for the academic year where Mr. Paul Srinivasan provided interactive training and guidance on IELTS preparation."
+                    },
+                    {
+                        sno: 6,
+                        name: "Brain Blitz",
+                        date: "Feb 21, 2026",
+                        details: "The last competition of the academic year where students gained experience on how English language can be used in academic and professional needs."
+                    },
+                       {
+                        sno: 7,
+                        name: "IELTS Training",
+                        date: "Jan - Oct, 2025",
+                        details: "Interested students were given training for the IELTS examination from the top educators from various sources."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural & Guest Lecture",
+                        date: "Sep 11, 2024",
+                        details: "The IELTS Club Inaugural for the academic year 2024–2025 was held on 11.09.2024 at Sir C V Raman Seminar Hall, featuring welcome and principal addresses, introduction of office bearers, year plan presentation, and an interactive guest lecture on IELTS awareness and opportunities abroad."
+                    },
+                     {
+                        sno: 2,
+                        name: "Voice Of Freedom",
+                        date: "Aug 16, 2024",
+                        details: "The IELTS Club conducted a Speaking Competition as part of the 78th Independence Day celebrations, where participants spoke on themes of Independence and Patriotism, and winners were selected based on content, confidence, speech delivery, and body language."
+                    },
+                     {
+                        sno: 3,
+                        name: "Moxie Phase – I",
+                        date: "Oct 9, 2024",
+                        details: "The guest lecture titled “An Interactive Experience Sharing Session for IELTS Aspirants” where Mr. Melvin Jones Lourdusamy shared his IELTS preparation journey, study methods, and experiences studying abroad with students."
+                    },
+                     {
+                        sno: 4,
+                        name: "Linguaquest",
+                        date: "Nov 9, 2024",
+                        details: "The LinguaQuest’24 featuring six technical and non-technical competitions in communication and creativity."
+                    },
+                     {
+                        sno: 5,
+                        name: "IELTS Masterclass",
+                        date: "Feb 15, 2025",
+                        details: "The first IELTS Masterclass for the academic year where Mr. Paul Srinivasan provided interactive training and guidance on IELTS preparation."
+                    },
+                    {
+                        sno: 6,
+                        name: "Moxie Phase - II",
+                        date: "March 1, 2025",
+                        details: "The event “MOXIE Phase – II” where the chief guest Swethika Ramesh shared her IELTS preparation journey and insights with aspiring students."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Sign Of Four",
+                        date: "March 23, 2025",
+                        details: "The event “Sign of Four” featured four competitions aimed at improving students’ Listening, Speaking, Reading, and Writing (LSRW) skills."
+                    },
+                       {
+                        sno: 8,
+                        name: "IELTS Preparation Course – 1 Credit",
+                        date: "-",
+                        details: "A course was conducting for students aspiring to write the IELTS Exam to go for studies abroad."
+                    },
+                     {
+                        sno: 9,
+                        name: "Valedictory & Guest Lecture",
+                        date: "April 30, 2025",
+                        details: "To Conclude the Academic year a guest lecture and all the prize distribution were conducted."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural & Guest Lecture",
+                        date: "Apr 19, 2023",
+                        details: "The IELTS Club Inaugural featuring welcome, introduction of office bearers, year plan presentation, and an interactive guest lecture on IELTS awareness and opportunities abroad."
+                    },
+                     {
+                        sno: 2,
+                        name: "Essay Writing Competition",
+                        date: "Nov 8, 2023",
+                        details: "As a part of inception day celebration, an essay writing competition was conducted by IELTSClub on 08.11.2023 02:45pm to 04:30 pm exclusively for the first-year students."
+                    },
+                     {
+                        sno: 3,
+                        name: "Talking Titans",
+                        date: "Nov 29, 2023",
+                        details: "As a part of inception day, a speaking competition for the first-year students was conducted. Out of 45 registrations 15 students were selected for the competition."
+                    },
+                     {
+                        sno: 4,
+                        name: "Moxie: Phase I",
+                        date: "Dec 22, 2023",
+                        details: "The guest lecture titled “An Interactive Experience Sharing Session for IELTS Aspirants” where Mr. Bhupesh Gupta shared his IELTS preparation journey, study methods, and experiences studying abroad with students."
+                    },
+                    {
+                        sno: 5,
+                        name: "Special Guest Lecture",
+                        date: "March 23, 2024",
+                        details: "In the Special Guest Lecture, the students were given insights on how IELTS training is useful in daily communication abroad with native and foreign English speakers."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Valedictory & Guest Lecture",
+                        date: "May 22, 2024",
+                        details: "To Conclude the Academic year a guest lecture and all the prize distribution were conducted."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "karate-martial-arts",
@@ -1225,7 +1496,133 @@ export const clubsData = [
             { name: "Mr. D. Gurukumaresan", designation: "Coordinator", dept: "Maths", phone: "9751285352" }
         ],
         activitiesSummary: { "2025-26": 4, "2024-25": 7, "2023-24": 7 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function and Guest Lecture on Silambam",
+                        date: "Sep 1, 2025",
+                        details: "The event was formally inaugurated to promote awareness about martial arts and encourage students to learn self-defense for confidence and safety."
+                    },
+                     {
+                        sno: 2,
+                        name: "Defensio ",
+                        date: "Sep 22, 2025",
+                        details: "This program focused on teaching self-defense techniques through martial arts like Karate to help students protect themselves."
+                    },
+                     {
+                        sno: 3,
+                        name: "Ignite",
+                        date: "Jan 5, 2026",
+                        details: "The session motivated participants to develop courage, leadership, and physical fitness through regular martial arts practice."
+                    },
+                     {
+                        sno: 4,
+                        name: "Girls On Action",
+                        date: "Feb 23, 2026",
+                        details: "The initiative encouraged girls to actively participate in martial arts training to build confidence, independence, and personal safety skills."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "August 21, 2024",
+                        details: "The program was inaugurated to introduce and promote martial arts training among students, highlighting the importance of discipline and self-defense."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture on Silambam",
+                        date: "Sep 21, 2024",
+                        details: "An expert explained the history, techniques, and benefits of Silambam as a traditional martial art that improves discipline, strength, and focus."
+                    },
+                     {
+                        sno: 3,
+                        name: "Evening Practice Classes",
+                        date: "Nov 19, 2024",
+                        details: "Regular evening sessions were conducted to train students in techniques, fitness, and discipline in Silambam and other martial arts."
+                    },
+                     {
+                        sno: 4,
+                        name: "District Level Silambam Competition",
+                        date: "Nov 21, 2024",
+                        details: "Students participated in a district-level competition showcasing their skills and techniques in Silambam."
+                    },
+                     {
+                        sno: 5,
+                        name: "Defensio",
+                        date: "Jan 22, 2025",
+                        details: "A self-defense program aimed at teaching practical protection techniques and building confidence among participants."
+                    },
+                    {
+                        sno: 6,
+                        name: "Digi rias",
+                        date: "April 9, 2025",
+                        details: "Certificates and belt promotions were awarded to students who won the competition different questions on martial."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Valedictory",
+                        date: "April 27, 2025",
+                        details: "The program concluded with a valedictory ceremony recognizing participants, winners, and trainers for their achievements and efforts."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "Aug 23, 2023",
+                        details: "The event was inaugurated to encourage students to learn martial arts and understand the importance of discipline and self-defense."
+                    },
+                     {
+                        sno: 2,
+                        name: "Defensio",
+                        date: "Nov 22, 2023",
+                        details: "A special program focused on teaching practical self-protection techniques through martial arts like Karate."
+                    },
+                     {
+                        sno: 3,
+                        name: "Quiz Dojo",
+                        date: "Dec 21, 2023",
+                        details: "Language enrichment Competition."
+                    },
+                     {
+                        sno: 4,
+                        name: "Self Defense Workshop",
+                        date: "March 16, 2024",
+                        details: "A hands-on training session where participants learned basic self-defense moves and safety strategies."
+                    },
+                    {
+                        sno: 5,
+                        name: "Digiries",
+                        date: "April 7 - 14, 2024",
+                        details: "A special performance session where students showcased their talent and skills in martial arts such as Silambam and Karate."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Evening Practice Classes",
+                        date: "April 27, 2024",
+                        details: "Regular evening sessions were conducted to improve skills, fitness, and techniques in Silambam and other martial arts."
+                    },
+                    {
+                        sno: 7,
+                        name: "Valedictory",
+                        date: "May 29, 2024",
+                        details: "The program concluded with a closing ceremony appreciating participants, trainers, and achievers."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "mobile-app-dev",
@@ -1242,7 +1639,9 @@ export const clubsData = [
             { name: "Ms. P. Vanitha", designation: "Coordinator", dept: "IT", phone: "9488066933 " }
         ],
         activitiesSummary: { "2025-26": 6, "2024-25": 7, "2023-24": 7 },
-        eventDetails: []
+        eventDetails: [
+            
+        ]
     },
     {
         id: "pasumaivanam",
