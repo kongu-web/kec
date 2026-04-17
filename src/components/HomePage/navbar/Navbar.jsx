@@ -204,13 +204,13 @@ const Navbar = () => {
                   ⚡ International conference - NG-CAST 2026
                 </a>
 
-                 <a
+                 {/* <a
                   href="https://grad2026.kongu.edu/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   ⚡ 38th Graduation Day Registration Link
-                </a>
+                </a> */}
               </div>
 
             </div>
