@@ -2221,7 +2221,138 @@ export const clubsData = [
             { name: "Mr. S. Jegan", designation: "Coordinator", dept: "EIE", phone: "7598279706" }
         ],
         activitiesSummary: { "2025-26": 6, "2024-25": 6, "2023-24": 8 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and Guest Lecture on Artistic photography  ",
+                        date: "Aug 18, 2025",
+                        details: "Guest Lecture on Artistic photography."
+                    },
+                     {
+                        sno: 2,
+                        name: "Workshop on The Painted Palette (Face painting)  n",
+                        date: "Oct 9, 2025",
+                        details: "Workshop on The Painted Palette (Face painting)."
+                    },
+                     {
+                        sno: 3,
+                        name: "Workshop",
+                        date: "Dec 20, 2025",
+                        details: "Workshop on Sustainable Sacks and Green Threads."
+                    },
+                     {
+                        sno: 4,
+                        name: "ELYSIAN 2K26 ",
+                        date: "Feb 21, 2026",
+                        details: "Intra-College Event."
+                    },
+                    {
+                        sno: 5,
+                        name: "BAKING WORKSHOP ",
+                        date: "March 14, 2026",
+                        details: "Mastering The Art of Pastry and Bakery."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function & Guest Lectures ",
+                        date: "August 14, 2024",
+                        details: "Wild Life and Documentary Film Making."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inception Day",
+                        date: "Aug 17, 2024",
+                        details: "Iconic ruby year logo design contest."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture & Workshop",
+                        date: "Sep 18, 2024",
+                        details: "Resin Art and Its Business Opportunity."
+                    },
+                     {
+                        sno: 4,
+                        name: "ELYSIAN 2K24",
+                        date: "Oct 19, 2024",
+                        details: "Intra-College Event."
+                    },
+                     {
+                        sno: 5,
+                        name: "Colour Crest 2K25",
+                        date: "March 12, 2025",
+                        details: "Colour Crest 2K25."
+                    },
+                    {
+                        sno: 6,
+                        name: "Guest Lecture & valedictory",
+                        date: "March 18, 2025",
+                        details: "From idea to startup : HOW BUSINESS WORKKS."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function & Guest Lectures",
+                        date: "Aug, 2023",
+                        details: "A Travel Through Fine Arts at Kalingarayan Seminar Hall Chief Guest : Mrs.R.Dhivyapriya B.Sc.,DJ FINE ARTS."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture & Workshop",
+                        date: "Sep, 2023",
+                        details: "The Importance Of Creative In Business."
+                    },
+                     {
+                        sno: 3,
+                        name: "Intra – College Event – ELYSIAN 2K23",
+                        date: "Oct, 2023",
+                        details: "DREAMSCAPES : Unleash your desire for art."
+                    },
+                     {
+                        sno: 4,
+                        name: "Guest Lecture",
+                        date: "Nov, 2023",
+                        details: "Sustainable Yarn and Bags."
+                    },
+                    {
+                        sno: 5,
+                        name: "Dream scapes",
+                        date: "Jan, 2024",
+                        details: "Dream scapes Art of drawing the dreams."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Colors Crest",
+                        date: "Feb, 2024",
+                        details: "Colors Crest 2K24."
+                    },
+                    {
+                        sno: 7,
+                        name: "Workshop ",
+                        date: "Feb, 2024",
+                        details: "Mastering The Art of Pastry and Bakery."
+                    },
+                    {
+                        sno: 8,
+                        name: "Valedictory & Guest Lecture",
+                        date: "March, 2024",
+                        details: "Valedictory Function."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "red-ribbon",
@@ -2238,7 +2369,176 @@ export const clubsData = [
             { name: "Mr. V. Parthibaraj", designation: "Coordinator", dept: "Physics", phone: "9080554215" }
         ],
         activitiesSummary: { "2025-26": 8, "2024-25": 5},
-        eventDetails: []
+        eventDetails: [
+            // {
+            //     year: "2025-26",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration function",
+            //             date: "Aug 2, 2025",
+            //             details: "Latest Trends & Opportunity in Photovoltaic Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2025",
+            //             details: "Independence Day celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Eco Graphica",
+            //             date: "Oct 22, 2025",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Eco vista",
+            //             date: "Oct 29, 2025",
+            //             details: "Awareness in nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "One Nation One Mission - National Hackathon",
+            //             date: "Oct 4, 2025",
+            //             details: "Eco-Alternatives to Single use Plastics."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "Kottuna Valikkuma",
+            //             date: "Dec 11, 2025",
+            //             details: "Reels Contest short videos promoting environmental responsibility."
+            //         },
+            //            {
+            //             sno: 7,
+            //             name: "Palette Spectrum",
+            //             date: "Jan 26, 2026",
+            //             details: "Republic day."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "Sustainx",
+            //             date: "Jan 31, 2026",
+            //             details: "Energy Watt Matters."
+            //         },
+            //         {
+            //             sno: 9,
+            //             name: "Eco-Photo Fusion",
+            //             date: "Feb 23, 2026",
+            //             details: "Photographs of Nature and Tricky in KEC."
+            //         },
+            //         {
+            //             sno: 10,
+            //             name: "Rise in AI – Energy & Environment",
+            //             date: "March 6, 2026",
+            //             details: "How to utilize AI for energy and environment."
+            //         },
+            //           {
+            //             sno: 11,
+            //             name: "Dry Waste Management, Segregation and Recycling",
+            //             date: "March 9, 2026",
+            //             details: "Waste segregation, recycling and waste management."
+            //         },
+
+            //     ]
+            // },
+            //  {
+            //     year: "2024-25",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration Function",
+            //             date: "August 28, 2024",
+            //             details: "Conversion Of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2024",
+            //             details: "Independence Day Celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "ECO-GRAPHICA",
+            //             date: "Oct 9, 2024",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "ECO PHOTO FUSION",
+            //             date: "Jan 1, 2025",
+            //             details: "Awareness In Nature."
+            //         },
+            //          {
+            //             sno: 5,
+            //             name: "GREENSCAPE",
+            //             date: "March 29, 2025",
+            //             details: "Craft Making."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "ECOQUIZ",
+            //             date: "April 26 - May 1, 2025",
+            //             details: "Online Quiz."
+            //         },
+                   
+            //            {
+            //             sno: 7,
+            //             name: "DEBATE",
+            //             date: "May 7, 2025",
+            //             details: "Next Gen Earth Talks."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "VALEDICTORY-2025",
+            //             date: "May 7, 2025",
+            //             details: "Feedback On Past Events and Suggestions for Conducting Events."
+            //         },
+            //     ]
+            // },
+            // {
+            //     year: "2023-24",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration & Guest Lecture on theme Clean Energy Cultivation",
+            //             date: "Aug 19, 2023",
+            //             details: "Conversion of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "District level workshop on Climate Change",
+            //             date: "Oct 20, 2023",
+            //             details: "Conservation Of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Energy Conversion Photography Challenge on ECO PHOTO FUSION",
+            //             date: "Nov 10, 2023",
+            //             details: "Awareness in Nature."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Environment and Nature",
+            //             date: "Dec 13, 2023",
+            //             details: "Awareness in conservation of Energy & Nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "MILLETS",
+            //             date: "Dec 27, 2023",
+            //             details: "Awareness in Environmental conservation."
+            //         },
+                   
+            //            {
+            //             sno: 6,
+            //             name: "Valedictory",
+            //             date: "May 21, 2024",
+            //             details: "Feedback on past events and suggestions for conducting Events."
+            //         },
+            //     ]
+            // }
+        ]
     },
     {
         id: "robotics-club",
@@ -2255,7 +2555,181 @@ export const clubsData = [
             { name: "Mr. S. Santhoshkumar", designation: "Coordinator", dept: "MTS", phone: "9025232091" }
         ],
         activitiesSummary: { "2025-26": 8, "2024-25": 9, "2023-24": 9 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural function",
+                        date: "Aug 4, 2025",
+                        details: "Unlock your inner potential."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Aug 30, 2025",
+                        details: "Bridging the skill gap: What Industry Really Experts."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "Aug 30, 2025",
+                        details: "Role of Mechatronics Engineers in Automation Company."
+                    },
+                     {
+                        sno: 4,
+                        name: "Guest Lecture",
+                        date: "Dec 4, 2025",
+                        details: "Underwater Robotics and Career opportunities in robotics."
+                    },
+                    {
+                        sno: 5,
+                        name: "Workshop on GLIDER",
+                        date: "Dec 26 - 28, 2025",
+                        details: "Fly Robotics Workshop."
+                    },
+                    {
+                        sno: 6,
+                        name: "Guest Lecture",
+                        date: "Dec 27, 2025",
+                        details: "Career Guidance programme."
+                    },
+                       {
+                        sno: 7,
+                        name: "EXPELLIARMUS 2K26",
+                        date: "Feb 13, 2026",
+                        details: "National level Robotics competition."
+                    },
+                       {
+                        sno: 8,
+                        name: "ROBOTHON, SMART SOLUTIONS FOR MODERN INDUSTRIES 24 HOURS HACKTHON",
+                        date: "Feb 21 - 22, 2026",
+                        details: "Industry 4.0: Smart solutions for modern industries."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Guest Lecture – I",
+                        date: "July 13, 2024",
+                        details: "Career Guidance Programme."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inaugural Function",
+                        date: "Aug 10, 2024",
+                        details: "Challenges and opportunity in Robotics and Drones."
+                    },
+                     {
+                        sno: 3,
+                        name: "Teachers and Engineers Day Celebration",
+                        date: "Sep 11, 2024",
+                        details: "-"
+                    },
+                     {
+                        sno: 4,
+                        name: "Tech Minds",
+                        date: "Sep 30, 2024",
+                        details: "Quiz competition."
+                    },
+                     {
+                        sno: 5,
+                        name: "Sumo Bot",
+                        date: "Oct 5 - 6, 2024",
+                        details: "Sumo Bot."
+                    },
+                    {
+                        sno: 6,
+                        name: "Workshop on Autonomous Vehicles",
+                        date: "Jan 25, 2026",
+                        details: "Autonomous vehicles."
+                    },
+                   
+                       {
+                        sno: 7,
+                        name: "Guest Lecture – II",
+                        date: "Feb 2, 2025",
+                        details: "Career Guidance Programme."
+                    },
+                       {
+                        sno: 8,
+                        name: "Expelliarmus event",
+                        date: "March 11, 2025",
+                        details: "National level Robotics competition."
+                    },
+                    {
+                        sno: 9,
+                        name: "Quiztronics",
+                        date: "May 20, 2025",
+                        details: "Quiz competition."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Guest Lecture on Career Guidance Program",
+                        date: "July 15, 2023",
+                        details: "Career Guidance ."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture ",
+                        date: "Sep 17, 2023",
+                        details: "Opportunities for Mechatronics in Higher Studies."
+                    },
+                     {
+                        sno: 3,
+                        name: "Inaugural Function",
+                        date: "Sep 27, 2023",
+                        details: "Emerging technologies in areas of automation."
+                    },
+                     {
+                        sno: 4,
+                        name: "workshop",
+                        date: "Oct 14 - 15, 2023",
+                        details: "Maker’s."
+                    },
+                    {
+                        sno: 5,
+                        name: "Tech Minds",
+                        date: "Oct 17, 2023",
+                        details: "Quiz competition."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "workshop",
+                        date: "Feb 21 - 23, 2024",
+                        details: "Fundamentals of Robotics and autonomous Bot Buildings."
+                    },
+                    {
+                        sno: 7,
+                        name: "Workshop",
+                        date: "Feb 26 - 28, 2024",
+                        details: "Trackers."
+                    },
+                    {
+                        sno: 8,
+                        name: "Competition",
+                        date: "March 14, 2024",
+                        details: "Quiz competition."
+                    },
+                    {
+                        sno: 9,
+                        name: "Guest Lecture",
+                        date: "April 12, 2024",
+                        details: "Alumni Interaction."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "rotaract-club",
@@ -2271,7 +2745,108 @@ export const clubsData = [
             { name: "Dr. K. Vishnuvardhan", designation: "Coordinator", dept: "Civil", phone: "9791674174" }
         ],
         activitiesSummary: { "2025-26": 4, "2024-25": 4, "2023-24": 6 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Installation Function",
+                        date: "Aug 18, 2025",
+                        details: "Inaugural function and Motivational talk."
+                    },
+                     {
+                        sno: 2,
+                        name: "Breast Cancer Awareness Program",
+                        date: "Oct 10, 2025",
+                        details: "Awarness program on Breast cancer."
+                    },
+                     {
+                        sno: 3,
+                        name: "Navigating And Overcoming Students Burnout",
+                        date: "-",
+                        details: "Brief introduction highlighting the relevance of mental well-being in today’s fast-paced academic environment, where students often struggle to balance internal examinations, project deadlines, extracurricular activities, and social commitments."
+                    },
+                     {
+                        sno: 4,
+                        name: "SWARAM 2K26",
+                        date: "Feb 26, 2026",
+                        details: "Fund Raising Event."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Installation Function",
+                        date: "August 28, 2024",
+                        details: "Inaugural function and Motivational talk."
+                    },
+                     {
+                        sno: 2,
+                        name: "Independence Ignite",
+                        date: "Aug 15, 2024",
+                        details: "Speeches and Discussion with the club members reading Independence day."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "Dec 23, 2024",
+                        details: "Importance of Consitutuion and Fundamental Duties."
+                    },
+                     {
+                        sno: 4,
+                        name: "Swaram",
+                        date: "March 17, 2025",
+                        details: "Musical Fund Raising Event."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Installation Function",
+                        date: "Aug 2, 2023",
+                        details: "Inaugural function and Motivational talk."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Sep 27, 2023",
+                        details: "Guest lecture on motivational Industrial Expectation vs Reality."
+                    },
+                     {
+                        sno: 3,
+                        name: "Blood Donation Camp",
+                        date: "Nov 11, 2023",
+                        details: "Blood Donation Camp."
+                    },
+                     {
+                        sno: 4,
+                        name: "Awarness Program",
+                        date: "Dec 27, 2023",
+                        details: "Guest lecture on cancer awareness."
+                    },
+                    {
+                        sno: 5,
+                        name: "Swaram",
+                        date: "March 20, 2024",
+                        details: "Fund Rasing Musical Event."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Valedictory Function",
+                        date: "April 3, 2024",
+                        details: "Happiness is the key to success and in what ways we can make our self happy is the main content of the lecture."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "self-development",
@@ -2288,7 +2863,156 @@ export const clubsData = [
             { name: "Dr. S. Kavitha Bharathi", designation: "Coordinator", dept: "CT-UG", phone: "9965540601" }
         ],
         activitiesSummary: { "2025-26": 8, "2024-25": 5, "2023-24": 9 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Motivational Guest Lecture – Life Long Learning and Adaptability: The Key to Professional and Personal Growth",
+                        date: "Sep 29, 2025",
+                        details: "The inaugural session was delivered by Dr. P. Ramesh, Founder of Aarthy Eye Hospital, focusing on lifelong learning, adaptability, resilience, and positive thinking for personal and professional success."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture – Entrepreneurship Journey: Idhayam Global Brand",
+                        date: "Oct 6, 2025",
+                        details: "Thiru. V. R. Muthu, CEO of Idhayam Oil, shared his entrepreneurial journey and highlighted the importance of quality, perseverance, and customer trust in building a successful brand."
+                    },
+                     {
+                        sno: 3,
+                        name: "All in the Family",
+                        date: "Dec 23, 2025",
+                        details: "An interactive club activity conducted for SDC members to strengthen relationships among students through team-building games and engaging activities."
+                    },
+                     {
+                        sno: 4,
+                        name: "Wellness and Empowerment Session for Girls",
+                        date: "Jan 5, 2026",
+                        details: "A special awareness program was conducted by doctors from Kongunadu Medical College & Hospital – Dr. T. Selvanmeenakshi, Dr. G. Subbulakshmi, and Dr. Ahalya P.G. The session focused on health awareness, wellness, and empowerment of girl students."
+                    },
+                    {
+                        sno: 5,
+                        name: "Guest Lecture – The Role of Youth in Modern India",
+                        date: "Jan 27, 2026",
+                        details: "Thiru. K. Annamalai, Ex-IPS Officer and Chief Mentor, We The Leaders Foundation, addressed students about leadership, national responsibility, and the role of youth in building a stronger India."
+                    },
+                    {
+                        sno: 6,
+                        name: "Guest Lecture – Shaping Your Life Beyond the Classroom",
+                        date: "Jan 30, 2026",
+                        details: "Dr. Jayanthasri Balakrishnan, Motivational Speaker, delivered an inspiring session encouraging students to develop life skills and focus on personal growth beyond academics."
+                    },
+                       {
+                        sno: 7,
+                        name: "Infobytes 2K26 – Day 1",
+                        date: "Feb 16, 2026",
+                        details: "Dr. Kavitha Karunakaran delivered a session on “Lifestyle Factors Influencing Mental Well-Being in Students.” The talk focused on mental health awareness and maintaining a balanced lifestyle."
+                    },
+                       {
+                        sno: 8,
+                        name: "Infobytes 2K26 – Day 2",
+                        date: "Feb 17, 2026",
+                        details: "Mr. M. Sethushankar conducted a session on “Stock Market – Fundamentals From Basics to Smart Investing.” The session introduced students to financial literacy and investment fundamentals."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Motivational Guest Lecture – Muarchiye Mulathanam",
+                        date: "August 21, 2024",
+                        details: "Dr. I. Kavidhasan, Director HR of Roots Industries, motivated students on self-confidence, discipline and personal success."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture – Driving Innovation: Role of R&D and IP in Making India a Product Nation",
+                        date: "Sep 20, 2024",
+                        details: "Padma Shri Dr. Sridhar Vembu, CEO of Zoho Corporation, spoke about innovation, research and product development in India."
+                    },
+                     {
+                        sno: 3,
+                        name: "All in the Family",
+                        date: "Oct 9, 2024",
+                        details: "Club bonding activity involving games and teamwork to enhance interaction among members."
+                    },
+                     {
+                        sno: 4,
+                        name: "SDC Fest – Technical and Non-Technical Symposium",
+                        date: "Nov 9, 2024",
+                        details: "Intra-college event including technical and creative competitions encouraging student participation and skill development."
+                    },
+                     {
+                        sno: 5,
+                        name: "Skills N Thrills – Season 7",
+                        date: "March 7, 2025",
+                        details: "Intra-college online event where students showcased talents in multiple creative and technical activities."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Motivational Guest Lecture – Embracing Your Potential",
+                        date: "Sep 27, 2023",
+                        details: "A motivational guest lecture was delivered by Ms. Kritanya Krishnamurthy, Founder of Mind Fresh Training. The session inspired students to identify their inner potential, develop confidence, and avoid being influenced by societal expectations."
+                    },
+                     {
+                        sno: 2,
+                        name: "Multimedia Workshop – Premier Pro Unleashed: Mastering the Basics",
+                        date: "Oct 25, 2023",
+                        details: "A hands-on multimedia workshop was conducted to train students in video editing using Adobe Premiere Pro. Participants learned editing fundamentals and practical techniques for multimedia content creation."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture – ISRO’s Journey from Aryabhatta to Aditya",
+                        date: "Nov 4, 2023",
+                        details: "Mrs. Kalpana Arvind, ISRO Scientist, delivered an inspiring lecture explaining the history and achievements of ISRO, including Chandrayaan missions and satellite technology."
+                    },
+                     {
+                        sno: 4,
+                        name: "Guest Lecture – Youth Power in Building a Self-Reliant Bharat",
+                        date: "Jan 31, 2024",
+                        details: "Prof. Dr. K. Subrahmanyam, Former Principal of Vivekananda College, Madurai, spoke about youth potential, entrepreneurship, and innovation in building a self-reliant nation."
+                    },
+                    {
+                        sno: 5,
+                        name: "Infobytes Season 4 – Day 1 Webinar",
+                        date: "Feb 13, 2024",
+                        details: "A webinar on “Experience AWS: Zero to Hero” by Mr. Sampathkumar Kathirvel, Solution Architect at AWS, introduced students to cloud computing concepts and services."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "Infobytes Season 4 – Day 2 Webinar",
+                        date: "Feb 14, 2024",
+                        details: "Mr. Dinesh Balaji, Senior Consultant at ThoughtCrest Software, delivered a session on Trends in Web Development, discussing responsive design, PWAs, and web security."
+                    },
+                     {
+                        sno: 7,
+                        name: "Infobytes Season 4 – Day 3 Webinar",
+                        date: "Feb 15, 2024",
+                        details: "Ms. Ramya Dharshini, CEO of GlobalCare-Bhuvika, delivered a session on entrepreneurship and developing a business mindset."
+                    },
+                     {
+                        sno: 8,
+                        name: "SWOT Analysis Workshop – Reprogram Your Mind for Success",
+                        date: "Feb 28, 2024",
+                        details: "The workshop was conducted by Dr. N. Prakash and Dr. K. Krishnamoorthy, focusing on personal SWOT analysis, risk management, and building resilience."
+                    },
+                     {
+                        sno: 9,
+                        name: "Skills and Thrills – Season 6",
+                        date: "March 1 - 13, 2024",
+                        details: "A large intra-college online event where students showcased talents in arts, photography, videography, cooking, and other creative activities."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "mathematics-club",
@@ -2304,8 +3028,242 @@ export const clubsData = [
             { name: "Dr. AL. Nachammai", designation: "Coordinator", dept: "Maths", phone: "9095059729" },
             { name: "Dr. K. Radhika", designation: "Coordinator", dept: "Maths", phone: "	9150780480" }
         ],
-        activitiesSummary: { "2025-26": 7, "2024-25": 13, "2023-24": 10 },
-        eventDetails: []
+        activitiesSummary: { "2025-26": 11, "2024-25": 13, "2023-24": 10 },
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural function",
+                        date: "Sep 1, 2025",
+                        details: "The inaugural of Srinivasa Ramanujan Mathematics club for the academic year 2025-2026 was held on 01.09.2025 and the office bearers for the academic year 2025-2026 were introduced."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Sep 1, 2025",
+                        details: "The guest speaker delivered a guest lecture on the topic “Matrices & Gradients: Ramanujan’s Eye, Hardy’s Rule, and How AI Learns”."
+                    },
+                     {
+                        sno: 3,
+                        name: "INFINYX",
+                        date: "Sep 22, 2025",
+                        details: "The event INFINYX was conducted on 22.09.2025, featuring multiple mathematical competition rounds, and witnessed active participation from 62 teams (124 students), highlighting analytical skills, teamwork, and problem-solving abilities."
+                    },
+                     {
+                        sno: 4,
+                        name: "EQUATRIX",
+                        date: "Oct 13, 2025",
+                        details: "The event EQUATRIX was conducted as a mathematics- focused competition featuring multiple problem-solving and interactive rounds, with strong student participation that highlighted analytical thinking, teamwork, and creativity, making it an engaging and intellectually enriching program."
+                    },
+                    {
+                        sno: 5,
+                        name: "MATHVERSE LIVE",
+                        date: "Oct 25, 2025",
+                        details: "The “MATHVERSE LIVE” online event was organized on 25.10.2025 by the Srinivasa Ramanujan Mathematics Club to promote mathematical thinking, creativity, and problem-solving skills. The program featured interactive rounds including a Kahoot quiz and poster designing, with results announced on 26.10.2025, and saw enthusiastic student participation throughout."
+                    },
+                    {
+                        sno: 6,
+                        name: "CIPHER QUEST",
+                        date: "Dec 22, 2025",
+                        details: "The online event Cipher Quest was conducted with the theme “Escape the Room,” where participants solved a series of coded clues, logical puzzles, and mathematical challenges to progress through virtual stages. The event promoted critical thinking, teamwork, and time- bound problem-solving in an engaging and game-based format."
+                    },
+                       {
+                        sno: 7,
+                        name: "MYSTIQ",
+                        date: "Feb 9, 2026",
+                        details: "MYSTIQ was a multi-round mathematics event featuring a dataset-based problem round, a one-on-one challenge, and a Math Auction round. The event tested participants’ analytical skills, speed, and strategic thinking in a competitive format."
+                    },
+                       {
+                        sno: 8,
+                        name: "BRAIN BOOSTER – VEDIC MATHS",
+                        date: "Feb 16, 2026",
+                        details: "Brain Booster – Vedic Maths was an interactive session where the office bearers of the Srinivasa Ramanujan Mathematics Club guided students on key Vedic Mathematics techniques, helping them improve calculation speed and problem-solving skills."
+                    },
+                    {
+                        sno: 9,
+                        name: "MATHFIESTA’26",
+                        date: "March 17, 2026",
+                        details: "Inter-college and intra-college competition was organized with the objective of enhancing students’ mathematical knowledge, logical thinking, creativity, and technical skills. Students from various departments."
+                    },
+                    {
+                        sno: 10,
+                        name: "Guest Lecture",
+                        date: "April 11, 2026",
+                        details: "The guest speaker delivered the special lecture on the topiv “Bridging Theory and Practise:mathematics in modern Engineering’."
+                    },
+                      {
+                        sno: 11,
+                        name: "Valedictory",
+                        date: "April 11, 2026",
+                        details: "Prize winners are awarded with certificates and prizes. Executive members are honoured with shield and Certificates."
+                    },
+
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "online quiz contest on Vedic Maths",
+                        date: "August 15, 2024",
+                        details: "In celebration of the 78th Independence Day,  online quiz  contest  was  organized on the topic Vedic Maths on August 15, 2024."
+                    },
+                     {
+                        sno: 2,
+                        name: "Inaugural Function ",
+                        date: "Sep 18, 2024",
+                        details: "The inaugural of Srinivasa Ramanujan Mathematics club for the academic year 2024-2025 was held on 18.09.2024 and the office bearers for the academic year 2024-2025 were introduced. "
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture I",
+                        date: "Sep 18, 2024",
+                        details: "Dr.P.Kandaswamy was invited to address our students on the topic “Importance of Mathematics in Engineering”.  The insightful lecture explored the significance of mathematical concepts and their practical applications, captivating the audience with its depth of knowledge and expertise."
+                    },
+                     {
+                        sno: 4,
+                        name: "Event-LOGIQUE",
+                        date: "Oct 9, 2024",
+                        details: "The  Event-LOGIQUE  provided a perfect platform for students to demonstrate their analytical skills while working together to overcome challenging mathematical problems."
+                    },
+                     {
+                        sno: 5,
+                        name: "Event- DIGITIZ",
+                        date: "Nov 9, 2024",
+                        details: "The event DIGITIZ designed to foster logical thinking and problem-solving skills among first-year B.E. students."
+                    },
+                    {
+                        sno: 6,
+                        name: "Online Quiz in commemoration with National Mathematics Day Celebration",
+                        date: "Dec 22, 2025",
+                        details: "Online Quiz was conducted on Life History of Srinivasa Ramanujan and his findings"
+                    },
+                       {
+                        sno: 7,
+                        name: "National Mathematics Day Celebration-Guest Lecture",
+                        date: "Jan 10, 2025",
+                        details: "She delivered a lecture on the topic : Beauty and Reality of Mathematics Students were benefitted by the Guest Lecture."
+                    },
+                       {
+                        sno: 8,
+                        name: "Sodoku Competition",
+                        date: "Jan 23, 2025",
+                        details: "On celebration of Ruby year 2025,  Sodoku Competition was organized for the school students. They have participated enthuasitically."
+                    },
+                    {
+                        sno: 9,
+                        name: "Quiz Competition",
+                        date: "Jan 23, 2025",
+                        details: "On celebration of Ruby year 2025, Quiz Competition was organized for the school students."
+                    },
+                    {
+                        sno: 10,
+                        name: "Math E magic",
+                        date: "Jan 24, 2025",
+                        details: "On celebration of Ruby year 2025, Math E magic was organized for the school students."
+                    },
+                    {
+                        sno: 11,
+                        name: "EXPLORIX",
+                        date: "March 1, 2025",
+                        details: "To develop critical thinking, comprehension, and problem- solving skills, we conduct event."
+                    },
+                    {
+                        sno: 12,
+                        name: "MATH FIESTA 2K25",
+                        date: "March 24, 2025",
+                        details: "Math Relay, Flyer Design contest, fast-paced Rapid Fire quiz, Rubik’s Cube competition, solve puzzles conducted."
+                    },
+                    {
+                        sno: 13,
+                        name: "Significance of Mathematics in Engineering",
+                        date: "March 29, 2025",
+                        details: "Guest lecture on the topic Significance of Mathematics in Engineering."
+                    },
+                    {
+                        sno: 14,
+                        name: "Valedictory",
+                        date: "March 29, 2025",
+                        details: "Certificate distribution ceremony was conducted."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function ",
+                        date: "July 31, 2023",
+                        details: "The inaugural of Srinivasa Ramanujan Mathematics club for the academic year 2023-2024 was held on 31.07.2023 and the office bearers for the academic year 2023-2024 were introduced."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture I ",
+                        date: "Oct 1, 2023",
+                        details: "Dr.P. Geetha was invited to address our students on the topic “Mathematics in our Modern World”. It was a good experience to learn the importance of Maths in Engineering."
+                    },
+                     {
+                        sno: 3,
+                        name: "CON-FUE TRIX",
+                        date: "Sep 27, 2023",
+                        details: "CON-FUE TRIX was a fun event where aptitude questions and some random maths questions where given to solve to recall their knowledge in maths."
+                    },
+                     {
+                        sno: 4,
+                        name: "Fibanacci Fete",
+                        date: "Nov 8, 2023",
+                        details: "Fibanacci Fete was an innovative event that made the students analyze their own analytical skills and develop them."
+                    },
+                    {
+                        sno: 5,
+                        name: "Guest Lecture II",
+                        date: "Dec 13, 2023",
+                        details: "Topic : Application of Mathematics in Engineering. The Guest Lecture was very useful for the students."
+                    },
+                   
+                       {
+                        sno: 6,
+                        name: "National Mathematics Day Celebration-Guest Lecture",
+                        date: "Dec 20, 2023",
+                        details: "Topic : Mathematics for Coding Students were benefitted by the Guest Lecture."
+                    },
+                    {
+                        sno: 7,
+                        name: "Online Quiz incommemoration with National Mathematics Day Celebration",
+                        date: "Dec 22, 2023",
+                        details: "Online Quiz was conducted on Life History of Srinivasa Ramanujan."
+                    },
+                    {
+                        sno: 8,
+                        name: "MATH FIESTA 2K24",
+                        date: "April 17, 2024",
+                        details: "TRIASTA, MATAPOSTA, ADVOZAPST, COLORISTA,ORATYSTA, BIDDING were conducted."
+                    },
+                    {
+                        sno: 9,
+                        name: "Guest Lecture on Speed Maths",
+                        date: "March 16, 2024",
+                        details: "Guest Lecture on Speed Maths."
+                    },
+                    {
+                        sno: 10,
+                        name: "ART OF LEARMING MATHEMATICS",
+                        date: "April 29, 2024",
+                        details: "Topic : ART OF LEARMING MATHEMATICS."
+                    },
+                    {
+                        sno: 11,
+                        name: "Valedictory Function",
+                        date: "April 29, 2024",
+                        details: "Prizes and Shield were distributed to the winners and executive members."
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "tamil-mandram",
@@ -2322,7 +3280,176 @@ export const clubsData = [
             { name: "Dr. R. Mouleeshuwarapprabu", designation: "Coordinator", dept: "EIE", phone: "9786664799" }
         ],
         activitiesSummary: { "2025-26": 17, "2024-25": 16, "2023-24": 18 },
-        eventDetails: []
+        eventDetails: [
+            //  {
+            //     year: "2025-26",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration function",
+            //             date: "Aug 2, 2025",
+            //             details: "Latest Trends & Opportunity in Photovoltaic Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2025",
+            //             details: "Independence Day celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Eco Graphica",
+            //             date: "Oct 22, 2025",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Eco vista",
+            //             date: "Oct 29, 2025",
+            //             details: "Awareness in nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "One Nation One Mission - National Hackathon",
+            //             date: "Oct 4, 2025",
+            //             details: "Eco-Alternatives to Single use Plastics."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "Kottuna Valikkuma",
+            //             date: "Dec 11, 2025",
+            //             details: "Reels Contest short videos promoting environmental responsibility."
+            //         },
+            //            {
+            //             sno: 7,
+            //             name: "Palette Spectrum",
+            //             date: "Jan 26, 2026",
+            //             details: "Republic day."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "Sustainx",
+            //             date: "Jan 31, 2026",
+            //             details: "Energy Watt Matters."
+            //         },
+            //         {
+            //             sno: 9,
+            //             name: "Eco-Photo Fusion",
+            //             date: "Feb 23, 2026",
+            //             details: "Photographs of Nature and Tricky in KEC."
+            //         },
+            //         {
+            //             sno: 10,
+            //             name: "Rise in AI – Energy & Environment",
+            //             date: "March 6, 2026",
+            //             details: "How to utilize AI for energy and environment."
+            //         },
+            //           {
+            //             sno: 11,
+            //             name: "Dry Waste Management, Segregation and Recycling",
+            //             date: "March 9, 2026",
+            //             details: "Waste segregation, recycling and waste management."
+            //         },
+
+            //     ]
+            // },
+            //  {
+            //     year: "2024-25",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration Function",
+            //             date: "August 28, 2024",
+            //             details: "Conversion Of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2024",
+            //             details: "Independence Day Celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "ECO-GRAPHICA",
+            //             date: "Oct 9, 2024",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "ECO PHOTO FUSION",
+            //             date: "Jan 1, 2025",
+            //             details: "Awareness In Nature."
+            //         },
+            //          {
+            //             sno: 5,
+            //             name: "GREENSCAPE",
+            //             date: "March 29, 2025",
+            //             details: "Craft Making."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "ECOQUIZ",
+            //             date: "April 26 - May 1, 2025",
+            //             details: "Online Quiz."
+            //         },
+                   
+            //            {
+            //             sno: 7,
+            //             name: "DEBATE",
+            //             date: "May 7, 2025",
+            //             details: "Next Gen Earth Talks."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "VALEDICTORY-2025",
+            //             date: "May 7, 2025",
+            //             details: "Feedback On Past Events and Suggestions for Conducting Events."
+            //         },
+            //     ]
+            // },
+            // {
+            //     year: "2023-24",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration & Guest Lecture on theme Clean Energy Cultivation",
+            //             date: "Aug 19, 2023",
+            //             details: "Conversion of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "District level workshop on Climate Change",
+            //             date: "Oct 20, 2023",
+            //             details: "Conservation Of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Energy Conversion Photography Challenge on ECO PHOTO FUSION",
+            //             date: "Nov 10, 2023",
+            //             details: "Awareness in Nature."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Environment and Nature",
+            //             date: "Dec 13, 2023",
+            //             details: "Awareness in conservation of Energy & Nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "MILLETS",
+            //             date: "Dec 27, 2023",
+            //             details: "Awareness in Environmental conservation."
+            //         },
+                   
+            //            {
+            //             sno: 6,
+            //             name: "Valedictory",
+            //             date: "May 21, 2024",
+            //             details: "Feedback on past events and suggestions for conducting Events."
+            //         },
+            //     ]
+            // }
+        ]
     },
     {
         id: "women-development",
@@ -2339,7 +3466,176 @@ export const clubsData = [
             { name: "Dr. A. Revathi", designation: "Coordinator", dept: "Chemistry", phone: "9942303014" }
         ],
         activitiesSummary: { "2025-26": 24, "2024-25": 28, "2023-24": 15 },
-        eventDetails: []
+        eventDetails: [
+            //  {
+            //     year: "2025-26",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration function",
+            //             date: "Aug 2, 2025",
+            //             details: "Latest Trends & Opportunity in Photovoltaic Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2025",
+            //             details: "Independence Day celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Eco Graphica",
+            //             date: "Oct 22, 2025",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Eco vista",
+            //             date: "Oct 29, 2025",
+            //             details: "Awareness in nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "One Nation One Mission - National Hackathon",
+            //             date: "Oct 4, 2025",
+            //             details: "Eco-Alternatives to Single use Plastics."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "Kottuna Valikkuma",
+            //             date: "Dec 11, 2025",
+            //             details: "Reels Contest short videos promoting environmental responsibility."
+            //         },
+            //            {
+            //             sno: 7,
+            //             name: "Palette Spectrum",
+            //             date: "Jan 26, 2026",
+            //             details: "Republic day."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "Sustainx",
+            //             date: "Jan 31, 2026",
+            //             details: "Energy Watt Matters."
+            //         },
+            //         {
+            //             sno: 9,
+            //             name: "Eco-Photo Fusion",
+            //             date: "Feb 23, 2026",
+            //             details: "Photographs of Nature and Tricky in KEC."
+            //         },
+            //         {
+            //             sno: 10,
+            //             name: "Rise in AI – Energy & Environment",
+            //             date: "March 6, 2026",
+            //             details: "How to utilize AI for energy and environment."
+            //         },
+            //           {
+            //             sno: 11,
+            //             name: "Dry Waste Management, Segregation and Recycling",
+            //             date: "March 9, 2026",
+            //             details: "Waste segregation, recycling and waste management."
+            //         },
+
+            //     ]
+            // },
+            //  {
+            //     year: "2024-25",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration Function",
+            //             date: "August 28, 2024",
+            //             details: "Conversion Of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "Patriotic Pen",
+            //             date: "Aug 15, 2024",
+            //             details: "Independence Day Celebration."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "ECO-GRAPHICA",
+            //             date: "Oct 9, 2024",
+            //             details: "Conservation of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "ECO PHOTO FUSION",
+            //             date: "Jan 1, 2025",
+            //             details: "Awareness In Nature."
+            //         },
+            //          {
+            //             sno: 5,
+            //             name: "GREENSCAPE",
+            //             date: "March 29, 2025",
+            //             details: "Craft Making."
+            //         },
+            //         {
+            //             sno: 6,
+            //             name: "ECOQUIZ",
+            //             date: "April 26 - May 1, 2025",
+            //             details: "Online Quiz."
+            //         },
+                   
+            //            {
+            //             sno: 7,
+            //             name: "DEBATE",
+            //             date: "May 7, 2025",
+            //             details: "Next Gen Earth Talks."
+            //         },
+            //            {
+            //             sno: 8,
+            //             name: "VALEDICTORY-2025",
+            //             date: "May 7, 2025",
+            //             details: "Feedback On Past Events and Suggestions for Conducting Events."
+            //         },
+            //     ]
+            // },
+            // {
+            //     year: "2023-24",
+            //     events: [
+            //         {
+            //             sno: 1,
+            //             name: "Inauguration & Guest Lecture on theme Clean Energy Cultivation",
+            //             date: "Aug 19, 2023",
+            //             details: "Conversion of Energy."
+            //         },
+            //          {
+            //             sno: 2,
+            //             name: "District level workshop on Climate Change",
+            //             date: "Oct 20, 2023",
+            //             details: "Conservation Of Energy and Environment."
+            //         },
+            //          {
+            //             sno: 3,
+            //             name: "Energy Conversion Photography Challenge on ECO PHOTO FUSION",
+            //             date: "Nov 10, 2023",
+            //             details: "Awareness in Nature."
+            //         },
+            //          {
+            //             sno: 4,
+            //             name: "Environment and Nature",
+            //             date: "Dec 13, 2023",
+            //             details: "Awareness in conservation of Energy & Nature."
+            //         },
+            //         {
+            //             sno: 5,
+            //             name: "MILLETS",
+            //             date: "Dec 27, 2023",
+            //             details: "Awareness in Environmental conservation."
+            //         },
+                   
+            //            {
+            //             sno: 6,
+            //             name: "Valedictory",
+            //             date: "May 21, 2024",
+            //             details: "Feedback on past events and suggestions for conducting Events."
+            //         },
+            //     ]
+            // }
+        ]
     },
     {
         id: "yoga-meditation",
@@ -2406,10 +3702,36 @@ export const clubsData = [
         ],
         coordinators: [
             { name: "Dr. M. Sivachitra", designation: "Coordinator", dept: "EEE", phone: "9787325879" },
-            { name: "Dr. C. Gomadurai", designation: "Coordinator", dept: "Civil", phone: "94430 29421" }
+            { name: "Dr. C. Gomadurai", designation: "Coordinator", dept: "Civil", phone: "94430 29421" },
+            { name: "Dr. M.Sambathkumar", designation: "Coordinator", dept: "Mechanical", phone: "9952306585" },
+            { name: "P.Vanitha", designation: "Coordinator", dept: "IT", phone: "9488066933" }
         ],
         activitiesSummary: { "2025-26": 3 },
-        eventDetails: [ ]
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function",
+                        date: "March 17, 2026",
+                        details: "Inauguration of SDG Cell."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "March 17, 2026",
+                        details: "Guest Lecture on Transforming our world through progress towards SDG's."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "April 4, 2023",
+                        details: "Guest Lecture on Software Engineering for sustainable development : Building solutions for SDG's."
+                    },
+                ]
+            }
+         ]
     },
     {
         id: "watts-next",
