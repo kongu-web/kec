@@ -200,8 +200,8 @@ const Library = () => {
                       "6",
                     ],
                     [
-                      "CSE / IT/ AI/ CSD/ BSC/ MSE/ MCA",
-                      "B.E.CSE, M.E.CSE, B.Tech.IT, B.Tech.AIDS, B.Tech. AIML, B.E.CSE, B.Sc.CS&D, B.Sc.IS, B.Sc.SS, M.Sc.SS, MCA",
+                      "CSE / IT/ AI/ CSD/ BSC/ MSC/ MCA",
+                      "B.E.CSE, M.E.CSE, B.Tech.IT, B.Tech.AIDS, B.Tech. AIML, B.E.CSD, B.Sc.CSD, B.Sc.IS, B.Sc.SS, M.Sc.SS, MCA",
                       "8",
                     ],
                     [
@@ -273,7 +273,7 @@ const Library = () => {
 
             <h3>Digital Resources</h3>
 
-            <h4>AUERC Subscription - E-Journals</h4>
+            {/* <h4>AUERC Subscription - E-Journals</h4> */}
             <div className="library-table-container">
               <table className="mainlibrary-table">
                 <thead className="mainlibrary-table-thead">
@@ -288,17 +288,19 @@ const Library = () => {
                     ["IEEE ASPP", 230],
                     ["EBSCO-BSE", 7537],
                     ["ELSEVIER: Computer Science", 139],
-                    ["WELSEVIER: Engineering", 230],
-                    ["WELSEVIER: Mathematics", 95],
-                    ["WELSEVIER: Chemical Engineering", 105],
-                    ["WELSEVIER: Materials Science", 163],
+                    ["ELSEVIER: Engineering", 230],
+                    ["ELSEVIER: Mathematics", 95],
+                    ["ELSEVIER: Chemical Engineering", 105],
+                    ["ELSEVIER: Materials Science", 163],
                     ["SPRINGER NATURE: Engineering", 188],
-                    ["SPRINGER NATURE-Computer Science", 103],
-                    ["SPRINGER NATURE:Chemistry and Materials Science", 191],
-                    ["SPRINGER NATURE: Earth and Environmental Science", 164],
-                    ["SPRINGER NATURE: Mathematics and Statistics", 206],
-                    ["SPRINGER NATURE: Physics and Astronomy", 10],
-                    ["TOTAL", 9361],
+                    ["SPRINGER NATURE-Computer Science", 101],
+                    ["SPRINGER NATURE:Chemistry and Materials Science", 190],
+                    ["SPRINGER NATURE: Mathematics and Statistics", 204],
+                     ["SPRINGER NATURE: Physics and Astronomy", 109],
+                    ["SPRINGER NATURE: Energy, Education, Business, Biomedical,Earth and Environment", 10],
+                    
+                   
+                    ["TOTAL", 9301],
 
                   ].map((row, i) => (
                     <tr key={i}>
@@ -466,12 +468,12 @@ const Library = () => {
               <li>Total No. of Newspapers Subscribed: 10</li>
               <li>Total No. of Back Volumes: 9,212</li>
               <li>No. of Book Bank Books: 7,087</li>
-              <li>No. of Online Journals Subscription: 9,361</li>
+              <li>No. of Online Journals Subscription: 9,301</li>
               <li>
                 Other Digital Resources: 7,850 <br /> (Including Book
                 CDs/Audio/Video)
               </li>
-              <li>Ph.D Thesis: 476</li>
+              <li>Ph.D Thesis: 501</li>
             </ul>
           </section>
         )}
@@ -580,7 +582,7 @@ const Library = () => {
 
             <h2>ONLINE JOURNALS & MAGAZINES (E-Resources)</h2>
             <p>
-              <strong>No. of Online Journals Subscription:</strong> 9,361
+              <strong>No. of Online Journals Subscription:</strong> 9,301
             </p>
 
             <h2>SUBSCRIPTION - E-Journals</h2>
@@ -694,7 +696,7 @@ const Library = () => {
               </table>
             </div>
 
-            <h2>E-BOOKS</h2>
+            {/* <h2>E-BOOKS</h2>
             <ul>
               <li>Cambridge University Press</li>
               <li>CBS</li>
@@ -706,7 +708,7 @@ const Library = () => {
               <li>Springer</li>
               <li>Wiley India</li>
               <li>Wiley Online</li>
-            </ul>
+            </ul> */}
           </div>
         )}
 
