@@ -3467,174 +3467,426 @@ export const clubsData = [
         ],
         activitiesSummary: { "2025-26": 24, "2024-25": 28, "2023-24": 15 },
         eventDetails: [
-            //  {
-            //     year: "2025-26",
-            //     events: [
-            //         {
-            //             sno: 1,
-            //             name: "Inauguration function",
-            //             date: "Aug 2, 2025",
-            //             details: "Latest Trends & Opportunity in Photovoltaic Energy."
-            //         },
-            //          {
-            //             sno: 2,
-            //             name: "Patriotic Pen",
-            //             date: "Aug 15, 2025",
-            //             details: "Independence Day celebration."
-            //         },
-            //          {
-            //             sno: 3,
-            //             name: "Eco Graphica",
-            //             date: "Oct 22, 2025",
-            //             details: "Conservation of Energy and Environment."
-            //         },
-            //          {
-            //             sno: 4,
-            //             name: "Eco vista",
-            //             date: "Oct 29, 2025",
-            //             details: "Awareness in nature."
-            //         },
-            //         {
-            //             sno: 5,
-            //             name: "One Nation One Mission - National Hackathon",
-            //             date: "Oct 4, 2025",
-            //             details: "Eco-Alternatives to Single use Plastics."
-            //         },
-            //         {
-            //             sno: 6,
-            //             name: "Kottuna Valikkuma",
-            //             date: "Dec 11, 2025",
-            //             details: "Reels Contest short videos promoting environmental responsibility."
-            //         },
-            //            {
-            //             sno: 7,
-            //             name: "Palette Spectrum",
-            //             date: "Jan 26, 2026",
-            //             details: "Republic day."
-            //         },
-            //            {
-            //             sno: 8,
-            //             name: "Sustainx",
-            //             date: "Jan 31, 2026",
-            //             details: "Energy Watt Matters."
-            //         },
-            //         {
-            //             sno: 9,
-            //             name: "Eco-Photo Fusion",
-            //             date: "Feb 23, 2026",
-            //             details: "Photographs of Nature and Tricky in KEC."
-            //         },
-            //         {
-            //             sno: 10,
-            //             name: "Rise in AI – Energy & Environment",
-            //             date: "March 6, 2026",
-            //             details: "How to utilize AI for energy and environment."
-            //         },
-            //           {
-            //             sno: 11,
-            //             name: "Dry Waste Management, Segregation and Recycling",
-            //             date: "March 9, 2026",
-            //             details: "Waste segregation, recycling and waste management."
-            //         },
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function & Guest Lecture",
+                        date: "Aug 11, 2025",
+                        details: "The inaugural event marked the commencement of WDC’s activities for the academic year and served as a platform to promote health awareness and community engagement."
+                    },
+                     {
+                        sno: 2,
+                        name: "Independence Day Drawing Competition ",
+                        date: "Aug 15, 2025",
+                        details: "The drawing competition provided an accessible virtual platform, enabling students to express their love for the nation through imaginative sketches and vibrant colours that highlighted values such as sacrifice, diversity and progress."
+                    },
+                     {
+                        sno: 3,
+                        name: "Cervical Cancer Camp",
+                        date: "Aug 30, 2025",
+                        details: "A Cervical Cancer Awareness and Screening Camp was organized exclusively for the women staff to promote health awareness and early detection. The program provided medical guidance and screening support, emphasizing the importance of regular check-ups and preventive care for women’s health."
+                    },
+                     {
+                        sno: 4,
+                        name: "Drawing Competition (DHRITI’25)",
+                        date: "Sep 27, 2025",
+                        details: "The Drawing Competition conducted as part of DHRITI’25 by the Women Development Cell provided an inclusive platform for students to express themes related to women empowerment, equality, resilience, and social awareness through creative sketches and thoughtful use of colours."
+                    },
+                    {
+                        sno: 5,
+                        name: "Goddess Makeover (DHRITI’25)",
+                        date: "Sep 28, 2025",
+                        details: "Each participant explained the significance of the chosen goddess for example Durga representing courage and protection, Lakshmi symbolising prosperity and leadership or Saraswati reflecting knowledge and wisdom."
+                    },
+                    {
+                        sno: 6,
+                        name: "Art & Craft (DHRITI’25) ",
+                        date: "Sep 29, 2025",
+                        details: "The event aimed to showcase the talent & and provide a platform for students to showcase."
+                    },
+                       {
+                        sno: 7,
+                        name: "Singing Competition (DHRITI’25)",
+                        date: "Sep 30, 2025",
+                        details: "The event aimed to encourage musical talent and provide a platform for students to showcase their voices."
+                    },
+                       {
+                        sno: 8,
+                        name: "Golu Fest",
+                        date: "Oct 1, 2025",
+                        details: "The event featured beautifully arranged Golu displays, each representing themes of women empowerment, unity and devotion. The fest created a festive and spiritual atmosphere on campus, encouraging teamwork, creativity and cultural appreciation."
+                    },
+                    {
+                        sno: 9,
+                        name: "Logo Design Competition",
+                        date: "Nov 16 - 17, 2025",
+                        details: "The competition focused on the theme “Women’s Empowerment and Safety.” This initiative encouraged students to translate powerful ideas about women’s rights, safety and empowerment into meaningful visual symbols."
+                    },
+                    {
+                        sno: 10,
+                        name: "Guest Lecture – Kavalan App: A Digital Initiative For Women Safety And Security",
+                        date: "Dec 29, 2025",
+                        details: "The expert session analysed digital tools for women’s safety and security, a detailed overview of the KAVALAN app Discussed on technology’s role in personal safety, emergency response and legal context. Interactive Q&A to establish practical understanding, which encourages student awareness of digital safety strategies and responsible usage."
+                    },
+                      {
+                        sno: 11,
+                        name: "Group Singing(SHRISTI’26)",
+                        date: "Jan 31, 2026",
+                        details: "Showcase harmony and teamwork in Group Singing. Participants perform together, blending voices to present melodious songs that highlight coordination, musical talent, and stage presence."
+                    },
+                    {
+                        sno: 12,
+                        name: "Solo Singing(SHRISTI’26)",
+                        date: "Jan 31, 2026",
+                        details: "Express your musical talent in Solo Singing. Participants perform individually, showcasing vocal strength, melody, rhythm, and emotional connection with the audience through their song choice."
+                    },
+                    {
+                        sno: 13,
+                        name: "Craving & Cook Without Fire (SHRISTI’26)",
+                        date: "Feb 7, 2026",
+                        details: "Unleash your creativity in the kitchen without using fire. Prepare tasty, innovative dishes using simple ingredients while focusing on presentation, nutrition, and creativity."
+                    },
+                    {
+                        sno: 14,
+                        name: "Rangoli (SHRISTI’26)",
+                        date: "Feb 7, 2026",
+                        details: "Display artistic skills by creating vibrant Rangoli designs using colors and patterns. Participants transform the floor into beautiful traditional artwork reflecting culture, creativity, and imagination."
+                    },
+                    {
+                        sno: 15,
+                        name: "Mehandi (SHRISTI’26)",
+                        date: "Feb 7, 2026",
+                        details: "Showcase intricate henna artistry in the Mehandi competition. Participants create beautiful, detailed designs on hands, highlighting creativity, precision, and traditional decorative skills."
+                    },
+                    {
+                        sno: 16,
+                        name: "Fashion Parade And Solo Dance(SHRISTI’26)",
+                        date: "Feb 9, 2026",
+                        details: "Combine style and performance in Fashion Parade and Solo Dance. Participants present creative outfits and showcase confidence, elegance, and energetic dance moves on stage."
+                    },
+                    {
+                        sno: 17,
+                        name: "Solo Dance (SHRISTI’26",
+                        date: "Feb 9, 2026",
+                        details: "Express rhythm and emotion through Solo Dance. Participants perform individually, displaying creativity, coordination, expression, and energetic movements that captivate the audience."
+                    },
+                    {
+                        sno: 18,
+                        name: "Debate (SHRISTI’26)",
+                        date: "Feb 16, 2026",
+                        details: "Engage in thought-provoking discussions, present strong arguments, and showcase confidence, knowledge, and communication skills."
+                    },
+                    {
+                        sno: 19,
+                        name: "Solo Instrument And Unique Talent(SHRISTI’26)",
+                        date: "Feb 16, 2026",
+                        details: "Showcase musical instrument skills or extraordinary talents, expressing creativity, originality, and confidence on stage."
+                    },
+                    {
+                        sno: 20,
+                        name: "Craft",
+                        date: "Feb 16, 2026",
+                        details: "Display creativity by making beautiful handmade items using simple materials, highlighting artistic skills and imagination."
+                    },
+                    {
+                        sno: 21,
+                        name: "Group Dance (SHRISTI’26)",
+                        date: "Feb 23, 2026",
+                        details: "Teams perform energetic dance routines together, demonstrating coordination, creativity, synchronization, and entertaining stage presence."
+                    },
+                    {
+                        sno: 22,
+                        name: "Dual Dance(SHRISTI’26)",
+                        date: "Feb 23, 2026",
+                        details: "Two participants perform together, showcasing coordination, chemistry, rhythm, creativity, and expressive dance movements."
+                    },
+                    {
+                        sno: 23,
+                        name: "Photography(SHRISTI’26)",
+                        date: "Feb 24, 2026",
+                        details: "Capture stunning moments through your lens, showcasing creativity, perspective, storytelling, and photographic skills."
+                    },
+                    {
+                        sno: 24,
+                        name: "Treasure Hunt(SHRISTI’26)",
+                        date: "Feb 16, 2026",
+                        details: "An exciting adventure where teams solve clues, explore locations, and race together to find hidden treasure."
+                    },
 
-            //     ]
-            // },
-            //  {
-            //     year: "2024-25",
-            //     events: [
-            //         {
-            //             sno: 1,
-            //             name: "Inauguration Function",
-            //             date: "August 28, 2024",
-            //             details: "Conversion Of Energy."
-            //         },
-            //          {
-            //             sno: 2,
-            //             name: "Patriotic Pen",
-            //             date: "Aug 15, 2024",
-            //             details: "Independence Day Celebration."
-            //         },
-            //          {
-            //             sno: 3,
-            //             name: "ECO-GRAPHICA",
-            //             date: "Oct 9, 2024",
-            //             details: "Conservation of Energy and Environment."
-            //         },
-            //          {
-            //             sno: 4,
-            //             name: "ECO PHOTO FUSION",
-            //             date: "Jan 1, 2025",
-            //             details: "Awareness In Nature."
-            //         },
-            //          {
-            //             sno: 5,
-            //             name: "GREENSCAPE",
-            //             date: "March 29, 2025",
-            //             details: "Craft Making."
-            //         },
-            //         {
-            //             sno: 6,
-            //             name: "ECOQUIZ",
-            //             date: "April 26 - May 1, 2025",
-            //             details: "Online Quiz."
-            //         },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural And Guest Lecture",
+                        date: "August 14, 2024",
+                        details: "About Women Independence and Rights.Ms.N.Rajarajeswari, Director of Dreamwin Academy, Erode, Corporate  Trainer and Author."
+                    },
+                     {
+                        sno: 2,
+                        name: "Guest Lecture",
+                        date: "Sep 11, 2024",
+                        details: "Embracing Sexuality in a Responsible Way.Ms.Sneha Govindarajan, Founder of “Komorebi Academy for Empowered Living [KAEL]"
+                    },
+                     {
+                        sno: 3,
+                        name: "Workshop",
+                        date: "Sep 18, 2024",
+                        details: "Mostly about Self Grooming.Ms.Banu Priya, Makeup Expert and Trainer from Pop Up Beauty Lounge."
+                    },
+                     {
+                        sno: 4,
+                        name: "DHRITI’24 - Drawing",
+                        date: "Oct 9, 2024",
+                        details: "The Drawing event encouraged participants to showcase their creativity and artistic skills through visual expression. Students illustrated their ideas and imagination based on the given theme, making the event vibrant and engaging."
+                    },
+                     {
+                        sno: 5,
+                        name: "DHRITI’24 – Logo Designing",
+                        date: "Oct 9, 2024",
+                        details: "The Logo Designing event provided a platform for students to demonstrate their creativity and design thinking. Participants created unique logos representing innovation, originality, and visual communication skills."
+                    },
+                    {
+                        sno: 6,
+                        name: "DHRITI’24 – Story Narration",
+                        date: "Oct 11, 2024",
+                        details: "The Story Narration event allowed participants to express their storytelling abilities with confidence and creativity. Students narrated inspiring and imaginative stories, captivating the audience through their voice, expression, and presentation."
+                    },
                    
-            //            {
-            //             sno: 7,
-            //             name: "DEBATE",
-            //             date: "May 7, 2025",
-            //             details: "Next Gen Earth Talks."
-            //         },
-            //            {
-            //             sno: 8,
-            //             name: "VALEDICTORY-2025",
-            //             date: "May 7, 2025",
-            //             details: "Feedback On Past Events and Suggestions for Conducting Events."
-            //         },
-            //     ]
-            // },
-            // {
-            //     year: "2023-24",
-            //     events: [
-            //         {
-            //             sno: 1,
-            //             name: "Inauguration & Guest Lecture on theme Clean Energy Cultivation",
-            //             date: "Aug 19, 2023",
-            //             details: "Conversion of Energy."
-            //         },
-            //          {
-            //             sno: 2,
-            //             name: "District level workshop on Climate Change",
-            //             date: "Oct 20, 2023",
-            //             details: "Conservation Of Energy and Environment."
-            //         },
-            //          {
-            //             sno: 3,
-            //             name: "Energy Conversion Photography Challenge on ECO PHOTO FUSION",
-            //             date: "Nov 10, 2023",
-            //             details: "Awareness in Nature."
-            //         },
-            //          {
-            //             sno: 4,
-            //             name: "Environment and Nature",
-            //             date: "Dec 13, 2023",
-            //             details: "Awareness in conservation of Energy & Nature."
-            //         },
-            //         {
-            //             sno: 5,
-            //             name: "MILLETS",
-            //             date: "Dec 27, 2023",
-            //             details: "Awareness in Environmental conservation."
-            //         },
+                       {
+                        sno: 7,
+                        name: "DHRITI’24 - Quiz",
+                        date: "Oct 11, 2024",
+                        details: "The Quiz event tested the knowledge, quick thinking, and teamwork of participants through multiple rounds of challenging questions. It created an exciting and competitive atmosphere while enhancing learning in a fun way."
+                    },
+                       {
+                        sno: 8,
+                        name: "DHRITI’24 - Golu Fest",
+                        date: "Oct 12, 2024",
+                        details: "The Golu Fest celebrated the traditional spirit of Navaratri by displaying beautifully arranged Golu dolls. Participants presented creative and culturally rich displays, highlighting tradition, devotion, and artistic arrangement."
+                    },
+                    {
+                        sno: 9,
+                        name: "CODHERS’24 Genesis Level -I",
+                        date: "Dec 4, 2024",
+                        details: "CODHERS’24 Genesis Level–I was conducted to introduce participants to the fundamentals of coding and logical thinking. The event encouraged students to enhance their programming skills and problem-solving abilities in a competitive environment."
+                    },
+                    {
+                        sno: 10,
+                        name: "Republic Day Special Event - Poster Making Competition",
+                        date: "Jan 26, 2025",
+                        details: "A Poster Making Competition was organized to celebrate Republic Day and promote patriotic spirit among students. Participants creatively expressed themes related to national unity, democracy, and social responsibility."
+                    },
+                    {
+                        sno: 11,
+                        name: "Group Singing(SHRISTI’25)",
+                        date: "Feb 1, 2025",
+                        details: "The Group Singing event brought together participants to showcase their musical talents and teamwork. The performances created a lively atmosphere and highlighted harmony, rhythm, and coordination among team members."
+                    },
+                    {
+                        sno: 12,
+                        name: "Rangoli(SHRISTI’25)",
+                        date: "Feb 1, 2025",
+                        details: "The Rangoli event encouraged students to display their creativity through traditional floor art designs. Participants used vibrant colors and innovative patterns to create beautiful and meaningful rangoli designs."
+                    },
+                    {
+                        sno: 13,
+                        name: "Mehandi(SHRISTI’25)",
+                        date: "Feb 7, 2025",
+                        details: "The Mehandi competition showcased the intricate art of henna design. Participants demonstrated their creativity and precision by creating elegant and traditional patterns."
+                    },
+                    {
+                        sno: 14,
+                        name: "Unique Talent & Solo Instrumental(SHRISTI’25)",
+                        date: "Feb 7, 2025",
+                        details: "This event allowed participants to showcase their unique talents and musical abilities through instrumental performances. It highlighted creativity, passion, and confidence among students."
+                    },
+                    {
+                        sno: 15,
+                        name: "Craft Work(SHRISTI’25)",
+                        date: "Feb 1, 2025",
+                        details: "The Craft Work event provided a platform for students to exhibit their artistic and handmade creations. Participants presented innovative crafts made from various materials, reflecting creativity and skill."
+                    },
+                    {
+                        sno: 16,
+                        name: "Group Dance(SHRISTI’25)",
+                        date: "Feb 14, 2025",
+                        details: "The Group Dance event featured energetic and coordinated performances by teams. Participants displayed their talent, creativity, and teamwork through vibrant dance routines."
+                    },
+                    {
+                        sno: 17,
+                        name: "Reels Making(SHRISTI’25)",
+                        date: "Feb 15, 2025",
+                        details: "The Reels Making competition encouraged students to create short, engaging videos using their creativity and digital skills. Participants presented innovative content through storytelling and visual editing."
+                    },
+                    {
+                        sno: 18,
+                        name: "Cooking Without Fire(SHRISTI’25)",
+                        date: "Feb 21, 2025",
+                        details: "The Cooking Without Fire event tested the creativity and culinary skills of participants. Students prepared innovative and healthy dishes without using any heating source."
+                    },
+                    {
+                        sno: 19,
+                        name: "Pencil/Fruit Carving(SHRISTI’25)",
+                        date: "Feb 21, 2025",
+                        details: "The Pencil/Fruit Carving competition highlighted the artistic skills and precision of participants. Students creatively carved intricate designs, showcasing patience and craftsmanship."
+                    },
+                    {
+                        sno: 20,
+                        name: "Solo Dance(SHRISTI’25)",
+                        date: "Feb 21, 2025",
+                        details: "The Solo Dance event allowed participants to express their passion for dance through individual performances. Students displayed confidence, rhythm, and creativity on stage."
+                    },
+                    {
+                        sno: 21,
+                        name: "Dual Dance(SHRISTI’25)",
+                        date: "March 1, 2025",
+                        details: "The Dual Dance event featured pairs performing coordinated dance routines. The performances emphasized synchronization, teamwork, and expressive storytelling through dance."
+                    },
+                    {
+                        sno: 22,
+                        name: "Photography(SHRISTI’25)",
+                        date: "March 1, 2025",
+                        details: "The Photography competition encouraged participants to capture meaningful moments and creative perspectives through the lens. Students showcased their talent in visual storytelling and composition."
+                    },
+                    {
+                        sno: 23,
+                        name: "Guest Lecture(SHRISTI’25)",
+                        date: "Feb 28, 2025",
+                        details: "A Guest Lecture was organized to provide students with valuable insights and inspiration from an experienced speaker. The session focused on motivation, career guidance, and personal development."
+                    },
+                    {
+                        sno: 24,
+                        name: "SHRISTI -2K25",
+                        date: "March 5, 2024",
+                        details: "Shristi 2K25 was conducted as a vibrant technical and cultural event, bringing together students to showcase their talents and innovative ideas. The event promoted creativity, collaboration, and learning through various competitions."
+                    },
+                    {
+                        sno: 25,
+                        name: "CODHERS’24 Genesis Level -II",
+                        date: "April 15, 2025",
+                        details: "CODHERS’24 Genesis Level–II was conducted to enhance advanced coding and analytical skills among participants. The event encouraged students to solve complex programming challenges and improve their technical expertise."
+                    },
+                    {
+                        sno: 26,
+                        name: "Guest Lecture",
+                        date: "April 19, 2025",
+                        details: "A Guest Lecture was organized to inspire and educate students on important academic and professional topics. The session provided valuable knowledge and practical insights from an industry expert."
+                    },
+                    {
+                        sno: 27,
+                        name: "Aval Magazine",
+                        date: "April 25, 2025",
+                        details: "The Aval Magazine was released to highlight the achievements, creativity, and contributions of women students. It served as a platform to share inspiring stories, articles, and artistic works."
+                    },
+                    {
+                        sno: 28,
+                        name: "Valedictory Function- Guest Lecture",
+                        date: "May 3, 2025",
+                        details: "The Valedictory Function marked the successful completion of the year’s activities of the Women Development Cell. The program included a special guest lecture and appreciation of participants and organizers for their contributions."
+                    },
+                ]
+            },
+            {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural and Guest Lecture",
+                        date: "Aug 2, 2023",
+                        details: "An inaugural function along with a guest lecture on Yoga and Health Care was organized. The session was delivered by Ms. Rama Ramachandran, Therapist and Founder of GYAN Centre, highlighting the importance of yoga, meditation, and healthy lifestyle practices."
+                    },
+                     {
+                        sno: 2,
+                        name: "Awareness Program",
+                        date: "Oct 7, 2023",
+                        details: "An awareness program on Anti-Sexual Harassment Policy was conducted to educate students about maintaining a safe and respectful campus environment. The session explained rights, responsibilities, and preventive measures."
+                    },
+                     {
+                        sno: 3,
+                        name: "Guest Lecture",
+                        date: "Oct 28, 2023",
+                        details: "A guest lecture on Menstrual Health and Hygiene was organized to create awareness about women’s health. The session emphasized hygiene practices, health awareness, and breaking social myths related to menstruation."
+                    },
+                     {
+                        sno: 4,
+                        name: "Awareness Program",
+                        date: "Nov 29, 2023",
+                        details: "An awareness session on the Importance of Millets was conducted to highlight their nutritional value and benefits for a healthy lifestyle. The program encouraged students to include traditional and nutritious foods in their diet."
+                    },
+                    {
+                        sno: 5,
+                        name: "Cooking Without Fire",
+                        date: "Feb 28, 2024",
+                        details: "The Cooking Without Fire competition encouraged participants to prepare innovative and healthy dishes without using any heating source. The event showcased creativity and culinary skills among students."
+                    },
                    
-            //            {
-            //             sno: 6,
-            //             name: "Valedictory",
-            //             date: "May 21, 2024",
-            //             details: "Feedback on past events and suggestions for conducting Events."
-            //         },
-            //     ]
-            // }
+                       {
+                        sno: 6,
+                        name: "Mehendi Competition",
+                        date: "Feb 28, 2024",
+                        details: "The Mehendi competition highlighted the artistic skills of participants through intricate henna designs. Students created beautiful traditional patterns demonstrating creativity and precision."
+                    },
+                    {
+                        sno: 7,
+                        name: "Fruit Carving",
+                        date: "Feb 28, 2024",
+                        details: "The Fruit Carving competition provided a platform for students to demonstrate their artistic carving skills. Participants creatively designed attractive shapes and patterns on fruits."
+                    },
+                    {
+                        sno: 8,
+                        name: "Treasure Hunt",
+                        date: "March 2, 2024",
+                        details: "The Treasure Hunt event was conducted as an interactive activity where participants solved clues and challenges to reach the final destination. The event promoted teamwork and problem-solving skills."
+                    },
+                    {
+                        sno: 9,
+                        name: "Singing",
+                        date: "March 2, 2024",
+                        details: "The Singing competition allowed students to showcase their musical talents and stage confidence through individual performances, creating a lively and entertaining atmosphere."
+                    },
+                    {
+                        sno: 10,
+                        name: "Rangoli",
+                        date: "March 2, 2024",
+                        details: "The Rangoli competition encouraged participants to create vibrant designs using colors and patterns. The event reflected creativity and traditional artistic expression."
+                    },
+                    {
+                        sno: 11,
+                        name: "Photography",
+                        date: "March 6, 2024",
+                        details: "The Photography competition encouraged students to capture creative moments and unique perspectives through the lens, promoting visual storytelling and artistic photography skills."
+                    },
+                    {
+                        sno: 12,
+                        name: "Dance",
+                        date: "March 6, 2024",
+                        details: "The Dance event provided a platform for students to showcase their passion for dance and stage performance. Participants presented energetic and expressive performances."
+                    },
+                    {
+                        sno: 13,
+                        name: "Reels Making",
+                        date: "March 6, 2024",
+                        details: "The Reels Making competition encouraged students to create short and engaging videos using their creativity and digital editing skills. Participants presented innovative storytelling through social media style content."
+                    },
+                    {
+                        sno: 14,
+                        name: "Shristi 2K24 – International Women’s Day Celebration",
+                        date: "March 8, 2024",
+                        details: "Shristi 2K24 was organized in celebration of International Women’s Day, featuring various cultural and creative competitions. The event promoted confidence, creativity, and active participation among women students."
+                    },
+                    {
+                        sno: 15,
+                        name: "Workshop",
+                        date: "March, 2024",
+                        details: "A workshop was conducted to provide students with practical knowledge and skill development opportunities. The session focused on enhancing personal development and awareness among participants."
+                    },
+                ]
+            }
         ]
     },
     {
@@ -3653,7 +3905,66 @@ export const clubsData = [
             { name: "Dr. L. Rahunathan", designation: "Coordinator", dept: "MCA", phone: "9095296777" }
         ],
         activitiesSummary: { "2025-26": 2, "2024-25": 3, "2023-24": 2 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "International Yoga Day - 2025",
+                        date: "June 21, 2025",
+                        details: "International Yoga Day 2025 was celebrated at Kongu Engineering College, Perundurai, Erode, Tamilnadu on 21.06.2025. The programme started at 6.00 am with Prayer, followed by Asanas, Pranayama and ended with Meditation. About 150 students and officials participated in International Yoga Day."
+                    },
+                     {
+                        sno: 2,
+                        name: "Yoga And Values For Holistic Development(B.E.Students)",
+                        date: "Aug 25 -30 & Jan 24 - 31, 2026",
+                        details: "Yoga and Values for Holistic Development was successfully conducted for the first-year engineering students from all the branches . The program was organized from 25.08.2025 to 30.08.2025 & 24.01.2026 to 31.01.2026 and was held at the S&H Seminar Hall and Maharaja Auditorium. Both theory and practical sessions were included to ensure comprehensive learning and experiential engagement."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                     {
+                        sno: 1,
+                        name: "International Yoga Day - 2024",
+                        date: "June 21, 2024",
+                        details: "International Yoga Day 2024 was celebrated at Kongu Engineering College, Perundurai, Erode, Tamilnadu on 21.06.2024. The programme started at 6.00 am with Prayer, followed by Asanas, Pranayama and ended with Meditation. About 150 students and officials participated in International Yoga Day."
+                    },
+                     {
+                        sno: 2,
+                        name: "Yoga And Values For Holistic Development(B.E.Students)",
+                        date: "Sep 9 - 13 & Feb 12 - 18, 2025",
+                        details: "This programme was organized for all the first year BE/BTech students as one credit course. Aim of this programme is to teach asanas for physical health, meditation for mental well being and Pranayama Exercise."
+                    },
+                     {
+                        sno: 3,
+                        name: "Yoga And Values For Holistic Development (BSc, MSc)",
+                        date: "Sep 4 - 11, 2023",
+                        details: "This programme was organized for all the BSc/MSc students , this programme is to teach asanas for physical health, meditation for mental well being and Pranayama Exercise."
+                    },
+                ]
+            },
+             {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "International Yoga Day - 2023",
+                        date: "June 21, 2023",
+                        details: "International Yoga Day 2023 was celebrated at Kongu Engineering College, Perundurai, Erode, Tamilnadu on 21.06.2023. The programme started at 6.00 am with Prayer, followed by Asanas, Pranayama and ended with Meditation. About 150 students and officials participated in International Yoga Day."
+                    },
+                     {
+                        sno: 2,
+                        name: "Yoga And Values For Holistic Development",
+                        date: "Nov 14 -24 & Feb 20 - 26 & Mar 3, 2024",
+                        details: "Yoga and Values for Holistic Development was successfully conducted for the first-year engineering students. The program was organized from 14.11.2023 to 24.11.2023 & 20.02.2024 to 03.03.2024 and was held at the S&H Seminar Hall and Maharaja Auditorium. Both theory and practical sessions were included to ensure comprehensive learning and experiential engagement. "
+                    },
+            
+                ]
+            }
+        ]
     },
     {
         id: "youth-red-cross",
@@ -3670,7 +3981,102 @@ export const clubsData = [
             { name: "Dr. S. Yamunadevi", designation: "Coordinator", dept: "Maths", phone: "9942663067" }
         ],
         activitiesSummary: { "2025-26": 3, "2024-25": 5, "2023-24": 5 },
-        eventDetails: []
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inauguration & Workshop",
+                        date: "Aug 25, 2025",
+                        details: "Workshop on First Aid Measures"
+                    },
+                     {
+                        sno: 2,
+                        name: "Online Photography Event",
+                        date: "Sep 29 - 30, 2025",
+                        details: "Clean and Green KEC Contest"
+                    },
+                      {
+                        sno: 3,
+                        name: "Run for Swadeshi",
+                        date: "Jan 10, 2026",
+                        details: "Marathon on commemorating Swami Vivekanandha 164 th birth anniversary (National Youth Day)"
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                     {
+                        sno: 1,
+                        name: "Pencil Art Competition on Drug Free Society",
+                        date: "Aug 15, 2024",
+                        details: "Health Awareness"
+                    },
+                    {
+                        sno: 2,
+                        name: "Inaugural Function & Workshop on National Youth Parliamentary Sitting - IV",
+                        date: "Oct 10, 2024",
+                        details: "Awareness in Trends in Technology"
+                    },
+                    {
+                        sno: 3,
+                        name: "Drawing Competition on JANJATIYA GAURAV DIWAS",
+                        date: "Nov 23, 2024",
+                        details: "Life skill "
+                    },
+                    {
+                        sno: 4,
+                        name: "Poster Making competition on WORLD RED CROSS DAY",
+                        date: "May 8, 2025",
+                        details: "Life skill"
+                    },
+                    {
+                        sno: 5,
+                        name: "Valedictory Function ",
+                        date: "May 14, 2025",
+                        details: "Life skill "
+                    },
+                ]
+            },
+             {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function & Guest Lecture on Youth for Better Society",
+                        date: "Oct 27, 2023",
+                        details: "Awareness in Trends in Technology"
+                    },
+                     {
+                        sno: 2,
+                        name: "National Youth Parliamentary Sitting - III ",
+                        date: "Feb 29, 2024",
+                        details: "Soft Skill/ Communication skill/Awareness in Trends in Technology"
+                    },
+                     {
+                        sno: 3,
+                        name: "Rare Disease Day ",
+                        date: "Feb 29, 2024",
+                        details: "Life skill"
+                    },
+                     {
+                        sno: 4,
+                        name: "Cleaning Campaign Swachh Bharat",
+                        date: "March 2, 2024",
+                        details: "Awareness in cleanliness"
+                    },
+                     {
+                        sno: 5,
+                        name: "Campaign on Mera Pehla Vote Desh Ke Liye",
+                        date: "March 4 - 14, 2024",
+                        details: "Awareness in voting rights"
+                    },
+            
+                ]
+            }
+        ]
     },
     {
         id: "road-safety",
@@ -3688,7 +4094,19 @@ export const clubsData = [
 
         ],
         activitiesSummary: { "2025-26": 2 },
-        eventDetails: []
+        eventDetails: [
+             {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inauguration & Seminar",
+                        date: "Jan 30, 2026",
+                        details: "Seminar on Road Safety Awareness"
+                    },
+                ]
+            }
+        ]
     },
     {
         id: "sdg-cell",
