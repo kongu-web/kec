@@ -15,7 +15,7 @@ import stat1 from "../../../assets/images/Placement/Frame 260.webp";
 import stat2 from "../../../assets/images/Placement/Frame 257.webp";
 import stat3 from "../../../assets/images/Placement/Frame 261.webp";
 import stat4 from "../../../assets/images/Placement/Frame 259.webp";
-import star from "../../../assets/images/Placement/star.webp";
+
 import card1 from "../../../assets/images/Placement/card1.webp";
 import card2 from "../../../assets/images/Placement/card2.webp";
 import card3 from "../../../assets/images/Placement/card3.webp";
@@ -47,20 +47,54 @@ import II_card5 from "../../../assets/images/Placement/II_card5.webp";
 import II_card6 from "../../../assets/images/Placement/II_card6.webp";
 
 
-import { companyImages } from "../../../utils/companyImages";
 
-const categories = [
-  "IT & Software",
-  "Core Engineering",
-  "Management",
-  "Startups",
-];
+import companiesData from "./Data/companies_data.json";
 
-const placementFiles = require.context(
-  "../../../assets/docs/Placement/Placement Status",
-  false,
-  /\.json$/
+const categories = ["CSE / IT", "EEE / ECE", "Mechanical / Auto", "Civil / Core", "Bio / Food / Chemical"];
+
+const companyLogos = require.context(
+  "../../../assets/images/Placement/Companies",
+  true,
+  /\.(png|jpe?g|svg|webp)$/
 );
+
+const logoKeys = companyLogos.keys();
+const getLogo = (jsonPath) => {
+  if (!jsonPath) return null;
+  if (jsonPath.startsWith("http")) return jsonPath;
+
+  // 1. Try exact match first
+  try {
+    const cleanPath = jsonPath.replace("images/", "./");
+    return companyLogos(cleanPath);
+  } catch (err) {}
+
+  // 2. Try fuzzy match by filename (extension-agnostic search)
+  const filename = jsonPath.split("/").pop().split(".")[0].toLowerCase();
+  const foundKey = logoKeys.find((key) => {
+    const keyLower = key.toLowerCase();
+    // Check if filename is contained in the path (handles prefixes like '1-' or suffix differences)
+    return keyLower.includes(filename);
+  });
+
+  if (foundKey) {
+    try {
+      return companyLogos(foundKey);
+    } catch (err) {}
+  }
+
+  return null;
+};
+
+const recruitersByDept = {
+  "CSE / IT": companiesData.filter((c) => c.category === "CSE_IT"),
+  "EEE / ECE": companiesData.filter((c) => c.category === "EEE_ECE"),
+  "Mechanical / Auto": companiesData.filter((c) => c.category === "MECH_AUTO"),
+  "Civil / Core": companiesData.filter((c) => c.category === "CIVIL_CORE"),
+  "Bio / Food / Chemical": companiesData.filter((c) => c.category === "BIO_FOOD_CHEM"),
+};
+
+
 
 export const teamData = [
   {
@@ -101,7 +135,7 @@ export const teamData = [
 ];
 
 const Placement = () => {
-  const [activeCategory, setActiveCategory] = useState("IT & Software");
+  const [activeCategory, setActiveCategory] = useState("CSE / IT");
 
   return (
     <div className="placement-page">
@@ -164,7 +198,7 @@ const Placement = () => {
         </div>
 
         <div className="content-right">
-          <div class="stats-bg"></div>
+          <div className="stats-bg"></div>
           <div className="stats-grid">
             <div className="stat-card orange">
               <img src={stat1} alt="Students" className="stat-icon" />
@@ -218,69 +252,65 @@ const Placement = () => {
         </div>
       </section>
 
-      <section class="placement-section">
-        <div class="wave-bg"></div>
+      <section className="placement-section">
+        <div className="wave-bg"></div>
 
-        <div class="container">
+        <div className="container">
           {" "}
-          <h2 class="section-title">Placement Statistics  2025 - 2026</h2>{" "}
-          <p class="section-subtitle">
+          <h2 className="section-title">Placement Statistics  2025 - 2026</h2>{" "}
+          <p className="section-subtitle">
             {" "}
             A comprehensive overview of our placement performance{" "}
           </p>
-          <div class="stats-wrapper">
-            <div class="ps-stat-card green">
-              <div class="card-bg"></div>
+          <div className="stats-wrapper">
+            <div className="ps-stat-card green">
+              <div className="card-bg"></div>
 
               <h4>Total Companies Visited</h4>
 
-              <div class="card-icon">
-                <img src={card1} />
+              <div className="card-icon">
+                <img src={card1} alt="Companies Visited Icon" />
               </div>
 
-              <div class="stat-value">329</div>
+              <div className="Placement-stat-valu">329</div>
             </div>
 
-            <div class="ps-stat-card blue center">
-              <div class="card-bg"></div>
+            <div className="ps-stat-card blue center">
+              <div className="card-bg"></div>
 
               <h4>Total Students Placed</h4>
 
-              <div class="card-icon">
-                <img src={card2} />
+              <div className="card-icon">
+                <img src={card2} alt="Students Placed Icon" />
               </div>
 
-              <div class="stat-value big">1376</div>
+              <div className="Placement-stat-valu">1376</div>
             </div>
 
-            <div class="ps-stat-card green">
-              <div class="card-bg"></div>
+            <div className="ps-stat-card green">
+              <div className="card-bg"></div>
 
               <h4>Highest LPA</h4>
 
-              <div class="card-icon">
-                <img src={card3} />
+              <div className="card-icon">
+                <img src={card3} alt="Highest LPA Icon" />
               </div>
 
-              <div class="Placement-stat-value">61.21 LPA</div>
+              <div className="Placement-stat-value">61.21 LPA</div>
             </div>
           </div>
         </div>
       </section>
 
       <section className="recruiters-section">
-        <div className="container">
-          <h2 className="section-title">Our Esteemed Recruiters</h2>
-          <p className="section-subtitle">
-            Leading companies across industries trust us to find exceptional
-            talent
-          </p>
+        <div className="recruiters-container">
+          <h2 className="section-title">Department-wise Recruiting Companies</h2>
 
-          <div className="recruiter-tabs">
+          <div className="dept-nav">
             {categories.map((cat) => (
               <button
                 key={cat}
-                className={`tab ${activeCategory === cat ? "active" : ""}`}
+                className={activeCategory === cat ? "active" : ""}
                 onClick={() => setActiveCategory(cat)}
               >
                 {cat}
@@ -288,25 +318,34 @@ const Placement = () => {
             ))}
           </div>
 
-          <div className="placement-logo-grid">
-            {companyImages[activeCategory].map((img, index) => (
-              <div className="placement-logo-card" key={index}>
-                <img src={img} alt="company" />
+          <h2 className="category-heading">{activeCategory} Companies</h2>
+          <div className="company-grid-container">
+            {recruitersByDept[activeCategory].map((company, index) => (
+              <div className="company-info-box" key={index}>
+                <img
+                  src={getLogo(company.logo)}
+                  alt={`Logo of ${company.name}`}
+                />
+                <div className="company-overlay">
+                  <h3>{company.name}</h3>
+                  <p>Placed: {company.placed}</p>
+                  <p>Departments: {company.departments}</p>
+                </div>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section class="training-section">
-        <h2 class="section-title">Training Programs</h2>
-        <p class="section-subtitle">
+      <section className="training-section">
+        <h2 className="section-title">Training Programs</h2>
+        <p className="section-subtitle">
           We prepare our students to be industry-ready from day one through a
           structured training curriculum
         </p>
 
-        <div class="training-grid">
-          <div class="training-card">
+        <div className="training-grid">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card1} alt="Technical Skills" />
             </div>
@@ -322,7 +361,7 @@ const Placement = () => {
             </ul>
           </div>
 
-          <div class="training-card">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card2} alt="Technical Skills" />
             </div>
@@ -338,7 +377,7 @@ const Placement = () => {
             </ul>
           </div>
 
-          <div class="training-card">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card3} alt="Technical Skills" />
             </div>
@@ -354,7 +393,7 @@ const Placement = () => {
             </ul>
           </div>
 
-          <div class="training-card">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card4} alt="Technical Skills" />
             </div>
@@ -370,7 +409,7 @@ const Placement = () => {
             </ul>
           </div>
 
-          <div class="training-card">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card5} alt="Technical Skills" />
             </div>
@@ -386,7 +425,7 @@ const Placement = () => {
             </ul>
           </div>
 
-          <div class="training-card">
+          <div className="training-card">
             <div className="icon">
               <img src={tp_card6} alt="Technical Skills" />
             </div>
@@ -404,24 +443,24 @@ const Placement = () => {
         </div>
       </section>
 
-      <section class="journey-section">
-        <h2 class="journey-title">Training Journey (Year-wise)</h2>
+      <section className="journey-section">
+        <h2 className="journey-title">Training Journey (Year-wise)</h2>
 
-        <div class="timeline">
-          <div class="timeline-item right">
-            <div class="content">
+        <div className="timeline">
+          <div className="timeline-item right">
+            <div className="content">
               <h3>First Year</h3>
               <p>
                 Foundation building, basic aptitude training, communication
                 skills development
               </p>
             </div>
-            <div class="dot blue">1</div>
+            <div className="dot blue">1</div>
           </div>
 
-          <div class="timeline-item left">
-            <div class="dot orange">2</div>
-            <div class="content">
+          <div className="timeline-item left">
+            <div className="dot orange">2</div>
+            <div className="content">
               <h3>Second Year</h3>
               <p>
                 Technical skill enhancement, programming practice, project-based
@@ -430,20 +469,20 @@ const Placement = () => {
             </div>
           </div>
 
-          <div class="timeline-item right">
-            <div class="content">
+          <div className="timeline-item right">
+            <div className="content">
               <h3>Third Year</h3>
               <p>
                 Advanced technical training, resume building, internship
                 preparation, soft skills
               </p>
             </div>
-            <div class="dot purple">3</div>
+            <div className="dot purple">3</div>
           </div>
 
-          <div class="timeline-item left">
-            <div class="dot green">4</div>
-            <div class="content">
+          <div className="timeline-item left">
+            <div className="dot green">4</div>
+            <div className="content">
               <h3>Final Year</h3>
               <p>
                 Intensive placement training, mock interviews, company-specific
@@ -454,17 +493,17 @@ const Placement = () => {
         </div>
       </section>
 
-      <section class="career-section">
-        <h2 class="section-title">Career Guidance & Higher Studies Cell</h2>
-        <p class="section-subtitle">
+      <section className="career-section">
+        <h2 className="section-title">Career Guidance & Higher Studies Cell</h2>
+        <p className="section-subtitle">
           Empowering students to make informed decisions about their future
           career paths
         </p>
 
-        <div class="career-grid">
-          <div class="career-card blue">
-            <div class="card-header">
-              <span class="emoji">
+        <div className="career-grid">
+          <div className="career-card blue">
+            <div className="card-header">
+              <span className="emoji">
                 <img
                   src={cg_bicon}
                   alt="One-on-One Mentoring"
@@ -474,15 +513,15 @@ const Placement = () => {
               <h3>Career Counseling</h3>
             </div>
 
-            <p class="card-desc">
+            <p className="card-desc">
               Our experienced career counselors provide personalized guidance to
               help you make informed decisions about your professional journey.
               We assess your strengths, interests, and goals to chart the best
               career path for you.
             </p>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_bicon1} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -493,8 +532,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_bicon2} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -505,8 +544,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_bicon3} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -517,8 +556,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_bicon4} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -528,9 +567,9 @@ const Placement = () => {
             </div>
           </div>
 
-          <div class="career-card green">
-            <div class="card-header">
-              <span class="emoji">
+          <div className="career-card green">
+            <div className="card-header">
+              <span className="emoji">
                 <img
                   src={cg_gicon}
                   alt="One-on-One Mentoring"
@@ -540,15 +579,15 @@ const Placement = () => {
               <h3>Higher Studies Guidance</h3>
             </div>
 
-            <p class="card-desc">
+            <p className="card-desc">
               Planning to pursue higher education? Our dedicated team provides
               comprehensive support for students aspiring to study in India or
               abroad, including test preparation, university selection, and
               application assistance.
             </p>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_gicon1} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -557,8 +596,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_gicon2} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -567,8 +606,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_gicon3} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -577,8 +616,8 @@ const Placement = () => {
               </div>
             </div>
 
-            <div class="feature">
-              <span class="cg_icon">
+            <div className="feature">
+              <span className="cg_icon">
                 <img src={cg_gicon4} alt="One-on-One Mentoring" />
               </span>
               <div>
@@ -600,7 +639,7 @@ const Placement = () => {
         <div className="industry-grid">
           <div className="industry-card blue">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card1} alt="One-on-One Mentoring" />
               </span>
               <h3>Industry Partnerships</h3>
@@ -621,7 +660,7 @@ const Placement = () => {
 
           <div className="industry-card purple">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card2} alt="One-on-One Mentoring" />
               </span>
               <h3>Internship Programs</h3>
@@ -641,7 +680,7 @@ const Placement = () => {
 
           <div className="industry-card green">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card3} alt="One-on-One Mentoring" />
               </span>
               <h3>Guest Lectures</h3>
@@ -661,7 +700,7 @@ const Placement = () => {
 
           <div className="industry-card orange">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card4} alt="One-on-One Mentoring" />
               </span>
               <h3>Industrial Visits</h3>
@@ -681,7 +720,7 @@ const Placement = () => {
 
           <div className="industry-card pink">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card5} alt="One-on-One Mentoring" />
               </span>
               <h3>Live Projects</h3>
@@ -701,7 +740,7 @@ const Placement = () => {
 
           <div className="industry-card violet">
             <div className="II-card-header">
-              <span class="II_card_img">
+              <span className="II_card_img">
                 <img src={II_card6} alt="One-on-One Mentoring" />
               </span>
               <h3>Workshops & Seminars</h3>
