@@ -34,7 +34,7 @@ const StudentCentric = () => {
         setFilteredClubs(result);
     }, [filter, searchQuery]);
 
-    const categories = ['All', 'Technical', 'Social', 'Cultural', 'Skill', 'Professional', 'NSS', 'NCC'];
+    const categories = ['All', 'Technical', 'Social', 'Cultural', 'Skill', 'Professional', 'Professional Societies', 'NSS', 'NCC'];
 
     const getIcon = (id, category) => {
         switch (id) {

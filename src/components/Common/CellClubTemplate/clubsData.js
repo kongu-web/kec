@@ -4171,6 +4171,237 @@ export const clubsData = [
         activitiesSummary: {  },
         eventDetails: []
     },
+ {
+        id: "csi-cell",
+        name: "Computer Society of India",
+        category: "Professional Societies",
+        about: "-",
+        objectives: [
+            "To promote technical excellence and continuous learning through structured programs and hands-on training.",
+            "To provide training, certifications, and skill development in emerging and future technologies.",
+            "To develop leadership, teamwork, communication, and organisational skills through technical events and workshops.",
+            "To support technology-driven Sustainable Development Goals (SDGs) by organising hackathons and innovative project initiatives."
+        ],
+        coordinators: [
+            { name: "Dr. P. S. Nandhini ", designation: "Coordinator", dept: "CSE", phone: "9962073299" },
+            { name: "G. Balashanthi ", designation: "Coordinator", dept: "AIDS", phone: "9344860238" },
+            { name: "K. Swathi", designation: "Coordinator", dept: "CSD", phone: "8056914461" },
+            { name: "E. Sowmiya ", designation: "Coordinator", dept: "IT", phone: "6381812241" },
+            { name: "T. Kalpana  ", designation: "Coordinator", dept: "MCA", phone: "9943113333" }
+        ],
+        activitiesSummary: { "2025-26": 10, "2024-25": 11, "2023-24": 11 },
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function 2025 - 2026",
+                        date: "Sep 16, 2025",
+                        details: "Inaugural function followed by Guest Lecture on Strongest Together: Security, Resilience and Sustainability in Software Development."
+                    },
+                     {
+                        sno: 2,
+                        name: "Work Shop",
+                        date: "Sep 20, 2025",
+                        details: "Workshop on Fundamentals of Data Analysis."
+                    },
+                      {
+                        sno: 3,
+                        name: "Design It Right",
+                        date: "Sep 22, 2025",
+                        details: "To showcase the creativity and design of the students using Figma."
+                    },
+                    {
+                        sno: 4,
+                        name: "Aptitude Quest",
+                        date: "Oct 11, 2025",
+                        details: "An enriching platform for students to strengthen their aptitude and problem-solving skills."
+                    },
+                    {
+                        sno: 5,
+                        name: "Techno Task",
+                        date: "Oct 17, 2025",
+                        details: "A platform to showcase technical skills, solve real-world problems, and develop innovative solutions."
+                    },
+                    {
+                        sno: 6,
+                        name: "Aventrix’25",
+                        date: "Dec 20, 2025",
+                        details: "From Code to Creativity includes a variety of technical events that unleash the superpower of students."
+                    },
+                    {
+                        sno: 7,
+                        name: "Innovatix’26",
+                        date: "Feb 18, 2026",
+                        details: "A National level symposium exclusively for other college students."
+                    },
+                    {
+                        sno: 8,
+                        name: "Workshop",
+                        date: "Feb 26, 2026",
+                        details: "Hands-on workshop designed to provide practical exposure to real world Machine Learning workflows."
+                    },
+                    {
+                        sno: 9,
+                        name: "Project Skill X’26",
+                        date: "Feb 27, 2026",
+                        details: "A platform for students to present their innovative projects, practical implementations and technology driven solutions across various domains."
+                    },
+                    {
+                        sno: 10,
+                        name: "Hackhub’26",
+                        date: "March 12 - 13, 2026",
+                        details: "A 24-hour Intra college Hackathon in association with Algo Tutor for the innovators to build and compete on Industry inspired problem statements."
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                     {
+                        sno: 1,
+                        name: "Inaugural Function 2024-2025",
+                        date: "Oct 1, 2024",
+                        details: "Guest Lecture on Reengineer and Resilience Self."
+                    },
+                    {
+                        sno: 2,
+                        name: "Design It Right",
+                        date: "Oct 23, 2024",
+                        details: "Chance to showcase the creativity of the students in design using Figma."
+                    },
+                    {
+                        sno: 3,
+                        name: "Aventrix’24",
+                        date: "Nov 6, 2024",
+                        details: "From Code to Creativity, Unleash the Superpower of the students."
+                    },
+                    {
+                        sno: 4,
+                        name: "Codefest’25",
+                        date: "Jan 25, 2025",
+                        details: "Fun and Exciting coding challenge event."
+                    },
+                    {
+                        sno: 5,
+                        name: "Envistas’25",
+                        date: "Feb 1, 2025",
+                        details: "Intra-college fest to explore technical and creative events."
+                    },
+                    {
+                        sno: 6,
+                        name: "Innovatix 2k25",
+                        date: "Feb 15, 2025",
+                        details: "A National level symposium exclusively for other college students."
+                    },
+                    {
+                        sno: 7,
+                        name: "Ncitt’25",
+                        date: "March 1, 2025",
+                        details: "A National Level Conference on Innovative Trends in Technologies."
+                    },
+                    {
+                        sno: 8,
+                        name: "Techno Task’25",
+                        date: "March 21, 2025",
+                        details: "Platform to showcase the technical skills, real world problem solving and develop innovative solutions."
+                    },
+                    {
+                        sno: 9,
+                        name: "Next-Gen Coding",
+                        date: "March 28, 2025",
+                        details: "Workshop based on Full Stack Development with AI Agents."
+                    },
+                    {
+                        sno: 10,
+                        name: "Project Expo",
+                        date: "April 12, 2025",
+                        details: "Technical exhibition event for innovators to showcase creative technical projects."
+                    },
+                    {
+                        sno: 11,
+                        name: "Valedictory Function",
+                        date: "May 3, 2025",
+                        details: "Lecture on Level UP for Placements : What you should start doing now."
+                    },
+                ]
+            },
+             {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function 2023-2024",
+                        date: "Aug 12, 2023",
+                        details: "Inaugural followed by lecture on Cloud and its Applications in the Industry Perspective."
+                    },
+                     {
+                        sno: 2,
+                        name: "Design It Right",
+                        date: "Aug 30, 2023",
+                        details: "Chance to showcase the creativity of students in design using Figma."
+                    },
+                     {
+                        sno: 3,
+                        name: "Naevus’23",
+                        date: "Nov 4, 2023",
+                        details: "From Code to Creativity, Unleash Your Superpowers."
+                    },
+                     {
+                        sno: 4,
+                        name: "Workshop – Figma’s Design Symphonyt",
+                        date: "Dec 15, 2023",
+                        details: "Workshop on Figma’s Design Symphony."
+                    },
+                     {
+                        sno: 5,
+                        name: "Project Expo",
+                        date: "March 7, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 6,
+                        name: "Innovatix’24",
+                        date: "March 15, 2024",
+                        details: "A National level symposium exclusively for other college Students."
+                    },
+                    {
+                        sno: 7,
+                        name: "Code Fest",
+                        date: "April 13, 2024",
+                        details: "Fun and Exciting coding challenge event."
+                    },
+                    {
+                        sno: 8,
+                        name: "Techno Task",
+                        date: "April 24, 2024",
+                        details: "Platform to showcase their technical skills, real worlds problem solving and develop innovative solutions."
+                    },
+                    {
+                        sno: 9,
+                        name: "UI Design Sprint",
+                        date: "April 24, 2024",
+                        details: "Chance to showcase your creativity and design in UI."
+                    },
+                    {
+                        sno: 10,
+                        name: "Envistas’24",
+                        date: "June 15, 2024",
+                        details: "Intra-college fest to explore technical and creative events."
+                    },
+                    {
+                        sno: 11,
+                        name: "Valedictory",
+                        date: "June 15, 2024",
+                        details: "Valedictory Current trends in IT industry and about the placements."
+                    },
+            
+                ]
+            }
+         ]
+    },
+
     {
         id: "nss",
         name: "National Service Scheme (NSS)",
