@@ -39,6 +39,7 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
+    "dev": "npm start",
     "prestart": "node scripts/generate-downloads-data.js",
     "start": "react-scripts start",
     "prebuild": "node scripts/generate-downloads-data.js",
