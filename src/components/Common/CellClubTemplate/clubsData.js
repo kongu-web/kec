@@ -4350,7 +4350,7 @@ export const clubsData = [
                         sno: 5,
                         name: "Project Expo",
                         date: "March 7, 2024",
-                        details: ""
+                        details: "Technical exhibition event for innovators to showcase creative technical projects."
                     },
                     {
                         sno: 6,
