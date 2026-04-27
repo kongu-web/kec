@@ -1,27 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import './CellClubTemplate.css';
-import { useParams, Navigate, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Navbar from '../../HomePage/navbar/Navbar';
 import Footer from '../../HomePage/Footer/Footer';
-import { FaPhoneAlt, FaEnvelope, FaFilePdf, FaExternalLinkAlt, FaCalendarAlt, FaStar, FaUsers, FaLightbulb, FaHistory, FaCheckCircle, FaFileDownload, FaChevronRight } from 'react-icons/fa';
+import { FaPhoneAlt, FaEnvelope, FaExternalLinkAlt, FaCalendarAlt, FaHistory, FaUsers, FaChevronRight, FaBullseye, FaCheckCircle } from 'react-icons/fa';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 /**
  * CellClubTemplate Component
  * 
- * Props:
- * - name: String (Name of the Cell / Club)
- * - coordinators: Array of Objects ({ name, designation, dept, phone, email, image })
- * - about: String (Introduction/Aim)
- * - objectives: Array of Strings (List of objectives)
- * - activitiesSummary: Object ({ "2025-26": count, "2024-25": count, "2023-24": count })
- * - eventDetails: Array of Objects ({ year: "2025-26", events: [{ sno, name, date, details }] })
- * - gallery: Array of Strings (Image URLs)
- * - reports: Array of Objects ({ title: "Report Name", link: "URL" })
- * - otherDetails: String (Optional additional information)
+ * A generic template for clubs and cells that don't need a specialized layout.
  */
-
 const CellClubTemplate = ({
     name = "Cell / Club Name",
     coordinators = [],
@@ -30,9 +20,9 @@ const CellClubTemplate = ({
     activitiesSummary = { "2025-26": 0, "2024-25": 0, "2023-24": 0 },
     eventDetails = [],
     gallery = [],
-    driveLink = null,
     reports = [],
-    otherDetails = ""
+    otherDetails = "",
+    heroImage = null
 }) => {
     const [activeYear, setActiveYear] = useState(eventDetails[0]?.year || "2025-26");
 
@@ -41,75 +31,57 @@ const CellClubTemplate = ({
         window.scrollTo(0, 0);
     }, []);
 
-    // Extracting available years from eventDetails
     const availableYears = eventDetails.map(item => item.year);
 
     return (
         <div className="cell-club-container">
             <Navbar />
 
-            {/* 1. Name of the Cell / Club - Hero Section */}
-            <header className="cell-club-hero" data-aos="fade">
+            {/* Hero Section */}
+            <header 
+                className="cell-club-hero" 
+                data-aos="fade"
+                style={heroImage ? { backgroundImage: `url(${heroImage})` } : {}}
+            >
                 <div className="hero-overlay"></div>
                 <div className="hero-content">
-                    {/* <div className="breadcrumb" data-aos="fade-down">
-                        <Link to="/" style={{ color: 'inherit', textDecoration: 'none' }}>Home</Link> / 
-                        <Link to="/campus-life" style={{ color: 'inherit', textDecoration: 'none' }}> Campus Life</Link> / 
-                        <span> {name}</span>
-                    </div> */}
-                    <h1 data-aos="zoom-in">{name}</h1>
-                    <div className="hero-actions" data-aos="fade-up" data-aos-delay="200">
-                        <Link to="/student-centric-activities" className="back-to-all-btn">
-                            <FaChevronRight className="rotate-180" /> Back to All Clubs & Cells
-                        </Link>
+                    <div className="hero-flex-layout">
+                        <div className="hero-title-group">
+                            <h1 data-aos="fade-right">{name}</h1>
+                            <div className="hero-actions-group" data-aos="fade-up" data-aos-delay="200">
+                                <Link to="/student-centric-activities" className="back-to-all-btn">
+                                    <FaChevronRight className="rotate-180" /> Back to All Clubs & Cells
+                                </Link>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div className="hero-scroll-indicator">
-                    <div className="mouse"></div>
                 </div>
             </header>
 
-            {/* 3. Aim and objectives of the club/cell */}
+            {/* Aim & Objectives */}
             {((about && about !== "Aim and objectives will be described here.") || (objectives && objectives.length > 0)) && (
                 <section className="cc-section" id="about">
-                    <div className="cc-about-grid">
-                        <div className="cc-about-text" data-aos="fade-right">
-                            <div className="cc-section-header" style={{ textAlign: 'left' }}>
-                                <h2>Aim & Objectives</h2>
-                            </div>
-                            {about && about !== "Aim and objectives will be described here." && <p className="cc-intro-text">{about}</p>}
+                    <div className="cc-about-card" data-aos="fade-up">
+                        <div className="cc-about-content">
+                            <h2><FaBullseye /> Aim & Objectives</h2>
+                            <p className="cc-intro-text">{about}</p>
+                            
                             {objectives && objectives.length > 0 && (
-                                <ul className="cc-objectives-list">
-                                    {objectives.map((obj, index) => (
-                                        <li key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                                            {obj}
-                                        </li>
+                                <div className="cc-objectives-list">
+                                    {objectives.map((obj, idx) => (
+                                        <div key={idx} className="cc-objective-item" data-aos="fade-up" data-aos-delay={idx * 100}>
+                                            <div className="status-icon"><FaCheckCircle /></div>
+                                            <p>{obj}</p>
+                                        </div>
                                     ))}
-                                </ul>
+                                </div>
                             )}
-                        </div>
-                        <div className="cc-about-stats" data-aos="fade-left">
-                            <div className="cc-about-card">
-                                <h3>Quick Status</h3>
-                                <div className="status-item">
-                                    <FaCheckCircle className="status-icon active" />
-                                    <span>Active for Academic Year 2025-26</span>
-                                </div>
-                                <div className="status-item">
-                                    <FaUsers className="status-icon" />
-                                    <span>Open to all Departments</span>
-                                </div>
-                                <div className="status-item">
-                                    <FaLightbulb className="status-icon" />
-                                    <span>Innovation Focused</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </section>
             )}
 
-            {/* 2. Coordinators name with full details */}
+            {/* Coordinators */}
             {coordinators && coordinators.length > 0 && (
                 <section className="cc-section bg-light" id="coordinators">
                     <div className="cc-section-header" data-aos="fade-up">
@@ -145,7 +117,7 @@ const CellClubTemplate = ({
                 </section>
             )}
 
-            {/* 4. Activities Summary Band (Counts) */}
+            {/* Activity Summary */}
             {activitiesSummary && Object.values(activitiesSummary).some(count => count > 0) && (
                 <section className="activity-summary-section">
                     <div className="cc-section-header" data-aos="fade-up" style={{ color: 'white', textAlign: 'center' }}>
@@ -160,14 +132,13 @@ const CellClubTemplate = ({
                                     <span className="year-label">{year}</span>
                                     <span className="desc-label">Programs Conducted</span>
                                 </div>
-                                <div className="stat-decoration"></div>
                             </div>
                         ))}
                     </div>
                 </section>
             )}
 
-            {/* Event Details Tables (Year-wise) */}
+            {/* Event Details */}
             {eventDetails && eventDetails.length > 0 && (
                 <section className="cc-section cc-events-section" id="events">
                     <div className="cc-section-header" data-aos="fade-up">
@@ -209,49 +180,26 @@ const CellClubTemplate = ({
                 </section>
             )}
 
-            {/* 5. Photos or videos required for the gallery section */}
-            {((gallery && gallery.length > 0) || driveLink) && (
-                <section className="cc-section" id="gallery">
-                    <div className="cc-section-header" data-aos="fade-up">
-                        <h2>Gallery</h2>
-                        <p>Moments captured from our various events and sessions</p>
-                    </div>
-                    {gallery && gallery.length > 0 ? (
-                        <div className="gallery-grid">
-                            {gallery.map((img, index) => (
-                                <div className="gallery-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
-                                    <img src={img} alt={`${name} Gallery ${index}`} />
-                                </div>
-                            ))}
-                        </div>
-                    ) : (
-                        <div style={{ textAlign: 'center', color: '#666', padding: '20px' }}>
-                            <p>No featured photos yet. Check our shared drive album below!</p>
-                        </div>
-                    )}
-                    {driveLink && (
-                        <div style={{ textAlign: 'center', marginTop: '30px' }}>
-                            <a href={driveLink} target="_blank" rel="noopener noreferrer" className="cc-btn-link">
-                                <FaExternalLinkAlt /> View Drive Album
-                            </a>
-                        </div>
-                    )}
-                </section>
-            )}
-
-            {/* 6. Any other relevant details (Reports) */}
+            {/* Reports Section */}
             {((reports && reports.length > 0) || otherDetails) && (
                 <section className="cc-section bg-light" id="reports">
                     <div className="cc-section-header" data-aos="fade-up">
                         <h2>Reports & Documentation</h2>
                         <p>Official reports and relevant details of cell activities</p>
                     </div>
-                    <div className="reports-grid">
-                        {reports && reports.length > 0 && reports.map((report, index) => (
-                            <a href={report.link} className="report-link-card" key={index} data-aos="fade-up" data-aos-delay={index * 100}>
-                                <FaFilePdf className="report-icon" />
+                    <div className="resources-links-grid">
+                        {reports && reports.map((report, index) => (
+                            <a 
+                                href={report.link} 
+                                className="resource-link-btn" 
+                                key={index} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                data-aos="fade-up" 
+                                data-aos-delay={index * 50}
+                            >
                                 <span>{report.title}</span>
-                                <FaFileDownload style={{ marginLeft: 'auto' }} />
+                                <FaExternalLinkAlt className="external-link-icon" />
                             </a>
                         ))}
                         {otherDetails && (
@@ -260,6 +208,23 @@ const CellClubTemplate = ({
                                 <p>{otherDetails}</p>
                             </div>
                         )}
+                    </div>
+                </section>
+            )}
+
+            {/* Gallery Section */}
+            {gallery && gallery.length > 0 && (
+                <section className="cc-section gallery-section-enhanced" id="gallery">
+                    <div className="cc-section-header" data-aos="fade-up">
+                        <h2>Gallery</h2>
+                        <p>Moments captured from our various events and sessions</p>
+                    </div>
+                    <div className="gallery-grid">
+                        {gallery.map((img, index) => (
+                            <div className="gallery-card" key={index} data-aos="zoom-in" data-aos-delay={index * 50}>
+                                <img src={img} alt={`${name} Gallery ${index}`} />
+                            </div>
+                        ))}
                     </div>
                 </section>
             )}

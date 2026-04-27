@@ -146,6 +146,7 @@ import ClubDetail from './components/Common/CellClubTemplate/ClubDetail';
 import Webteam from './components/FooterContents/Webteam/Webteam.jsx';
 import EventDetails from './components/HomePage/EventsSection/EventDetails.jsx';
 import EventsPage from './components/HomePage/EventsSection/EventsPage.jsx';
+import Nominie from './components/Common/NCC/Nominie.jsx';
 // import Admission from  './components/ExtraPages/Admission/Admission.jsx';
 
 const App = () => {
@@ -307,6 +308,7 @@ const App = () => {
 
           {/* New Clubs & Cells Dynamic Route */}
           <Route path="/clubs/:id" element={<ClubDetail />} />
+          <Route path="/nominie" element={<Nominie />} />
 
           {/* IQAC Routes */}
           <Route path="/iqac" element={<IqacHome />} />
