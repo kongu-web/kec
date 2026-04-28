@@ -4167,7 +4167,7 @@ export const clubsData = [
         id: "csi-cell",
         name: "Computer Society of India",
         category: "Professional Societies",
-        about: "-",
+        about: "The Computer Society of India (CSI) is the premier professional body dedicated to the advancement of computer science and information technology in India. It connects students, academicians and industry professionals to promote knowledge sharing and innovation.",
         objectives: [
             "To promote technical excellence and continuous learning through structured programs and hands-on training.",
             "To provide training, certifications, and skill development in emerging and future technologies.",
