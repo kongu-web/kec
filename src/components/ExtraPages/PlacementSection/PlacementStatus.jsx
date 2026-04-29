@@ -16,7 +16,6 @@ const PlacementStatus = () => {
     const yearList = placementFiles.keys().map((path) => {
       const match = path.match(/status-(\d{4}-\d{4})\.json$/);
       if (match) return match[1];
-      if (path.includes("historicaldata")) return "2004-2009"; 
       return null;
     }).filter(Boolean)
       .sort((a, b) => {
@@ -32,12 +31,7 @@ const PlacementStatus = () => {
   useEffect(() => {
     if (!year) return;
 
-    let filePath;
-    if (year === "2004-2009") {
-      filePath = "./historicaldata.json";
-    } else {
-      filePath = `./status-${year}.json`;
-    }
+    const filePath = `./status-${year}.json`;
 
     try {
       const fileData = placementFiles(filePath);
@@ -52,36 +46,12 @@ const PlacementStatus = () => {
       return (
         <div className="status-summary">
           <p><strong>Total Offers:</strong> {data.summary.offers}</p>
-          <p><strong>Students Placed:</strong> {data.summary.placed}</p> 
+          {data.summary.placed ? (
+            <p><strong>Students Placed:</strong> {data.summary.placed}</p>
+          ) : null}
           <p><strong>Companies Visited:</strong> {data.summary.companies}</p>
         </div>
       );
-    } else if (data?.historical) {
-      return data.historical.map((entry, index) => (
-        <div className="historical-summary" key={index}>
-          <h4>{entry.year}</h4>
-          <p><strong>Companies Visited:</strong> {entry.visited}</p>
-          <p><strong>Hit Rate:</strong> {entry.hit_rate}</p>
-          <table className="status-table">
-            <thead>
-              <tr>
-                <th>Department</th>
-                <th>Students Placed</th>
-                <th>Placement %</th>
-              </tr>
-            </thead>
-            <tbody>
-              {entry.departments.map((dept, i) => (
-                <tr key={i}>
-                  <td>{dept.name}</td>
-                  <td>{dept.placed}</td>
-                  <td>{dept.percentage}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      ));
     }
 
     return null;
@@ -113,7 +83,7 @@ const PlacementStatus = () => {
   return (
     <div className="placement-status-wrapper">
       <div className="status-header">
-        <h2>Placement Status</h2>
+        <h2>Placement Status {year === availableYears[0] && "(As on April,2026*)"}</h2>
         <select value={year} onChange={(e) => setYear(e.target.value)}>
           {availableYears.map((y) => (
             <option key={y} value={y}>
