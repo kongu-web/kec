@@ -13,7 +13,7 @@ const members = [
     role: "Chairman",
   },
   {
-    name: "Thiru.P.C.Palanisamy",
+    name: "Thiru. C. Devarajan",
     designation: "President, The Kongu Vellalar Institute of Technology Trust",
     role: "Member",
   },
@@ -65,7 +65,7 @@ const members = [
   },
   {
     name: "Dr. G. Murugesan MS ME PhD",
-    designation: "Chief Coordinator Academic, Professor, ECE, KEC",
+    designation: "Dean Academic, Professor, ECE, KEC",
     role: "Member from Faculty",
   },
   {

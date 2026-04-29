@@ -38,7 +38,7 @@ const AcademicCouncil = () => {
       ],
     },
     {
-      title: "Chairmen - Board of Studies",
+      title: "Chairman - Board of Studies",
       members: [
         "Dr.S.Balaji - Civil Engg",
         "Dr.B.Meenakshi Priya - Mechanical Engg",
@@ -46,20 +46,20 @@ const AcademicCouncil = () => {
         "Dr.R.Thangarajan - CSE & IT",
         "Dr.M.Karthik - EEE",
         "Dr.R.Baskar - Food Tech",
-        "Dr.C.Duraisamy - S&H",
+        "Dr.R.Viswanathan - S&H",
         "Dr.P.Karthikeyan - Management Science",
       ],
     },
     {
       title: "Controller of Examinations",
-      members: ["Dr.P.Shanmugam"],
+      members: ["Dr.R.Thamilselvan"],
     },
     {
       title: "Teaching Staff Representatives",
       members: [
         "Dr.R.Somasundaram - MBA",
         "Dr.T.P.Sathishkumar - Mechanical",
-        "Dr.P.Jayanthi - CSE",
+        "Dr.P.Jayanthi - CSD",
         "Dr.P.Srinivasan - Chemistry",
       ],
     },
@@ -69,7 +69,7 @@ const AcademicCouncil = () => {
         "Dr.P.Balasubramanie - Registrar",
         "Dr.K.Krishnamurthy - Student Affairs",
         "Dr.P.N.Palanisamy - Planning Cell",
-        "Dr.R.Parameshwaran - TBI & IIC",
+        "Mr.P.S.Kannan - TBI & IIC",
         "Dr.N.Senthilnathan - Accreditation",
         "Dr.R.Rajasekar - R&D",
         "Dr.N.Shanthi - Training Officer",
@@ -80,11 +80,12 @@ const AcademicCouncil = () => {
         "Dr.S.Suji Prasad - HoD, EIE",
         "Dr.S.Malliga - HoD, CSE",
         "Dr.S.Anandamurugan - HoD, IT",
-        "Dr.C.S.Kanimozhi Selvi - HoD, AI",
+        "Dr.P.Natesan - HoD, AIDS",
+        "Dr.R.R.Rajalaxmi - HoD, AIML",
         "Dr.V.Sangeetha - HoD, Chemical",
         "Dr.A.Tamilarasi - HoD, CA",
         "Dr.S.Kalaiselvi - HoD, CT-UG",
-        "Dr.E.Gothai - HoD, CT-PG",
+        "Dr.R.C.Suganthe - HoD, CT-PG",
         "Dr.P.Dhakshinamoorthy - Placement Officer",
         "Dr.M.Dhavamani - HoD, Maths",
         "Dr.K.Prabhu - HoD, Physics",
@@ -94,7 +95,7 @@ const AcademicCouncil = () => {
     },
     {
       title: "Member Secretary",
-      members: ["Dr.G.Murugesan, Chief Coordinator (Academic)"],
+      members: ["Dr.G.Murugesan, Dean (Academic)"],
     },
   ];
 
