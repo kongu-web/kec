@@ -67,6 +67,7 @@ const OfficeBearers = () => {
             "THIRU. K. V. RAVISHANKAR, B.A.",
             "THIRU. L. SARAVANAN, B.A.",
             "THIRU. P. SATHIYAMOORTHY, B.E., M.B.A., M.S.",
+            "THIRU. T. SENTHILKUMAR B.E.",
             "THIRU. D. SHANMUGASUNDARAM, B.E., M.B.A.",
             "THIRU. SKM. SHREE SHIVKUMAR, B.E.",
             "THIRU. SIVAKUMAR MURUGESAN, B.Tech., M.B.A.",
