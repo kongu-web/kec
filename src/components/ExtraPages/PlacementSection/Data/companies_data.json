@@ -758,13 +758,7 @@
     "departments": "EEE",
     "category": "EEE_ECE"
   },
-  {
-    "name": "CRP robots",
-    "logo": "./EEE_ECE/crp_robots.webp",
-    "placed": "8 students",
-    "departments": "MTRS",
-    "category": "EEE_ECE"
-  },
+
 
  {
     "name": "JGC",
@@ -861,6 +855,13 @@
     "name": "Emerson",
     "logo": "./MECH_AUTO/emerson.webp",
     "placed": "1 students",
+    "departments": "MTRS",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "CRP robots",
+    "logo": "./EEE_ECE/crp_robots.webp",
+    "placed": "8 students",
     "departments": "MTRS",
     "category": "MECH_AUTO"
   },
