@@ -50,7 +50,7 @@ import II_card6 from "../../../assets/images/Placement/II_card6.webp";
 
 import companiesData from "./Data/companies_data.json";
 
-const categories = ["CSE / IT", "EEE / ECE", "Mechanical / Auto", "Civil / Core", "Bio / Food / Chemical"];
+const categories = ["CSE / IT / AI", "EEE / ECE", "Mechanical / Auto", "Civil / Core", "Bio / Food / Chemical"];
 
 const companyLogos = require.context(
   "../../../assets/images/Placement/Companies",
@@ -87,7 +87,7 @@ const getLogo = (jsonPath) => {
 };
 
 const recruitersByDept = {
-  "CSE / IT": companiesData.filter((c) => c.category === "CSE_IT"),
+  "CSE / IT / AI": companiesData.filter((c) => c.category === "CSE_IT"),
   "EEE / ECE": companiesData.filter((c) => c.category === "EEE_ECE"),
   "Mechanical / Auto": companiesData.filter((c) => c.category === "MECH_AUTO"),
   "Civil / Core": companiesData.filter((c) => c.category === "CIVIL_CORE"),
@@ -135,7 +135,7 @@ export const teamData = [
 ];
 
 const Placement = () => {
-  const [activeCategory, setActiveCategory] = useState("CSE / IT");
+  const [activeCategory, setActiveCategory] = useState(categories[0]);
 
   return (
     <div className="placement-page">
