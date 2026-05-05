@@ -13,6 +13,7 @@ import video9 from "../../../assets/images/HomePage/video9thum.webp";
 import video10 from "../../../assets/images/HomePage/video10thum.webp";
 import video11 from "../../../assets/images/HomePage/video11thum.webp";
 import video12 from "../../../assets/images/HomePage/video12thum.webp";
+import video13 from "../../../assets/images/HomePage/video13thum.webp";
 
 
 function FelicitationSection() {
@@ -24,7 +25,12 @@ function FelicitationSection() {
 
 
   const videos = [
-   
+   {
+      id: "pvui6WqwwiY?si",
+      title: "38th Graduation Day",
+      desc: "38th Graduation Day",
+      thumb: video13,
+    },
      {
       id: "dQCXtJCeh7Q",
       title: "Techno Cultural Fest",
