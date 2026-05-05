@@ -4394,6 +4394,234 @@ export const clubsData = [
          ]
     },
 
+     {
+        id: "iete-cell",
+        name: "Institution of Electronics and Telecommunication Engineers (IETE)",
+        category: "Professional Societies",
+        about: "The IETE focuses on advancement of the Science and Technology of Electronics, Telecommunication, Computers, Information Technology and related areas. Towards this end the Institution promotes and conducts basic engineering and continuing technical education programmes for human resource development.",
+        objectives: [
+            "To encourage research and development in electronics and communication engineering.",
+            "To organize technical activities such as workshops, seminars, and project expos.",
+            "To provide a platform for students and professionals to share technical knowledge.",
+            "To enhance technical skills and professional growth."
+        ],
+        coordinators: [
+            { name: "R.Ramyea", designation: "Coordinator", dept: "ECE", phone: "9566698330" },
+            { name: "S.Arulmurugan  ", designation: "Coordinator", dept: "ECE", phone: "9943201055" }
+        ],
+        activitiesSummary: { "2025-26": 10, "2024-25": 8, "2023-24": 10 },
+        eventDetails: [
+            {
+                year: "2025-26",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural function of ECEA & ISF",
+                        date: "Aug 4, 2025",
+                        details: "An Inauguration of a ISF is a formal event that marks the beginning of the ISF's activities for the academic year 2026. It serves as a bridge between the classroom and the professional world, providing a platform for students to lead and innovate."
+                    },
+                     {
+                        sno: 2,
+                        name: "Work Shop",
+                        date: "Sep 20, 2025",
+                        details: ""
+                    },
+                      {
+                        sno: 3,
+                        name: "Design It Right",
+                        date: "Sep 22, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 4,
+                        name: "Aptitude Quest",
+                        date: "Oct 11, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 5,
+                        name: "Techno Task",
+                        date: "Oct 17, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 6,
+                        name: "Aventrix’25",
+                        date: "Dec 20, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 7,
+                        name: "Innovatix’26",
+                        date: "Feb 18, 2026",
+                        details: ""
+                    },
+                    {
+                        sno: 8,
+                        name: "Workshop",
+                        date: "Feb 26, 2026",
+                        details: ""
+                    },
+                    {
+                        sno: 9,
+                        name: "Project Skill X’26",
+                        date: "Feb 27, 2026",
+                        details: ""
+                    },
+                    {
+                        sno: 10,
+                        name: "Hackhub’26",
+                        date: "March 12 - 13, 2026",
+                        details: ""
+                    },
+                ]
+            },
+             {
+                year: "2024-25",
+                events: [
+                     {
+                        sno: 1,
+                        name: "Inaugural Function 2024-2025",
+                        date: "Oct 1, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 2,
+                        name: "Design It Right",
+                        date: "Oct 23, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 3,
+                        name: "Aventrix’24",
+                        date: "Nov 6, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 4,
+                        name: "Codefest’25",
+                        date: "Jan 25, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 5,
+                        name: "Envistas’25",
+                        date: "Feb 1, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 6,
+                        name: "Innovatix 2k25",
+                        date: "Feb 15, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 7,
+                        name: "Ncitt’25",
+                        date: "March 1, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 8,
+                        name: "Techno Task’25",
+                        date: "March 21, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 9,
+                        name: "Next-Gen Coding",
+                        date: "March 28, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 10,
+                        name: "Project Expo",
+                        date: "April 12, 2025",
+                        details: ""
+                    },
+                    {
+                        sno: 11,
+                        name: "Valedictory Function",
+                        date: "May 3, 2025",
+                        details: ""
+                    },
+                ]
+            },
+             {
+                year: "2023-24",
+                events: [
+                    {
+                        sno: 1,
+                        name: "Inaugural Function 2023-2024",
+                        date: "Aug 12, 2023",
+                        details: ""
+                    },
+                     {
+                        sno: 2,
+                        name: "Design It Right",
+                        date: "Aug 30, 2023",
+                        details: ""
+                    },
+                     {
+                        sno: 3,
+                        name: "Naevus’23",
+                        date: "Nov 4, 2023",
+                        details: ""
+                    },
+                     {
+                        sno: 4,
+                        name: "Workshop – Figma’s Design Symphonyt",
+                        date: "Dec 15, 2023",
+                        details: ""
+                    },
+                     {
+                        sno: 5,
+                        name: "Project Expo",
+                        date: "March 7, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 6,
+                        name: "Innovatix’24",
+                        date: "March 15, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 7,
+                        name: "Code Fest",
+                        date: "April 13, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 8,
+                        name: "Techno Task",
+                        date: "April 24, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 9,
+                        name: "UI Design Sprint",
+                        date: "April 24, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 10,
+                        name: "Envistas’24",
+                        date: "June 15, 2024",
+                        details: ""
+                    },
+                    {
+                        sno: 11,
+                        name: "Valedictory",
+                        date: "June 15, 2024",
+                        details: ""
+                    },
+            
+                ]
+            }
+         ]
+    },
+
     nssData,
     nccData
 
