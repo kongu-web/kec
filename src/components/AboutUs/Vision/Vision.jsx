@@ -55,17 +55,15 @@ const Vision = () => {
         {/* Quality Policy Row */}
         <div className="vision-row">
           <div className="vision-section animate-zoom">
-            <h2>Quality Policy</h2>
+            <h2>EOMS Policy</h2>
             <ul>
               <li>
-                Provide value-based quality education for developing the
-                students as competent and responsible citizens.
+                Provide value-based quality education to develop students as competent and responsible citizens.
               </li>
               <li>
-                Contribute to the nation and beyond through the state of the art
-                Technology.
+                Contribute to national and global development through state-of-the-art technology, innovation, and intellectual property.
               </li>
-              <li>Continuously improve our services.</li>
+              <li>Meet applicable statutory and stakeholder requirements while continuously improving our education services.</li>
             </ul>
           </div>
           <img
