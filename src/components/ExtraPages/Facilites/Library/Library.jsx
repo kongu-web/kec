@@ -109,8 +109,8 @@ const Library = () => {
                 <strong>Books:</strong>
               </li>
               <ul className="library-bullet-list">
-                <li>Volumes: 97,554</li>
-                <li>Titles: 41,177</li>
+                <li>Volumes: 97,999</li>
+                <li>Titles: 41,539</li>
               </ul>
               <li>
                 <strong>Periodicals:</strong>
@@ -134,26 +134,26 @@ const Library = () => {
                 <tbody>
                   {[
                     ["Civil Engineering", 2501, 6228],
-                    ["Mechanical Engineering", 2949, 6356],
-                    ["Automobile Engineering", 742, 2643],
+                    ["Mechanical Engineering", 2956, 6415],
+                    ["Automobile Engineering", 745, 2656],
                     ["Mechatronics Engineering", 2092, 4636],
                     ["Chemical Engineering", 2216, 4812],
                     ["Food Technology", 1746, 3972],
                     ["Electronics and Communication Engineering", 2390, 6366],
-                    ["Electrical and Electronics Engineering", 2274, 5491],
+                    ["Electrical and Electronics Engineering", 2294, 5521],
                     ["Electronics and Instrumentation Engineering", 2011, 4707],
                     ["Computer Science and Engineering", 2615, 5760],
-                    ["Information Technology", 1932, 4720],
+                    ["Information Technology", 1977, 4768],
                     ["Artificial Intelligence and Machine Learning", 415, 1685],
                     ["Artificial Intelligence and Data Science", 397, 1658],
                     ["Computer Science and Design", 480, 1343],
                     ["B.Sc", 2811, 6204],
-                    ["M.Sc", 249, 608],
+                    ["M.Sc", 252, 611],
                     ["Science and Humanities", 4376, 9394],
-                    ["Master of Computer Applications", 4079, 9569],
-                    ["Master of Business Administration", 4308, 9623],
+                    ["Master of Computer Applications", 4087, 9606],
+                    ["Master of Business Administration", 4415, 9878],
                     ["PG Courses in Engineering", 763, 1779],
-                    ["Total", 41177, 97554],
+                    ["Total", 41539, 97999],
                   ].map((row, i) => (
                     <tr key={i}>
                       <td>{i + 1 <= 20 ? i + 1 : ""}</td>

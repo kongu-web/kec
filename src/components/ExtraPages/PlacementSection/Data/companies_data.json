@@ -1,15 +1,85 @@
 [
+   {
+    "name": "Rubrix",
+    "logo": "./CSE_IT/rubrix.webp",
+    "placed": "2 students",
+    "departments": "CSE,CSD",
+    "category": "CSE_IT"
+  },
+  {
+    "name": "JP MorganChase",
+    "logo": "./CSE_IT/jp_morganchase.webp",
+    "placed": "1 students",
+    "departments": "CSE",
+    "category": "CSE_IT"
+  },
+  {
+    "name": "Presidio",
+    "logo": "./CSE_IT/presidio.webp",
+    "placed": "3 students",
+    "departments": "CSE, CSD, EIE",
+    "category": "CSE_IT"
+  }, 
+  {
+    "name": "Zoho",
+    "logo": "./CSE_IT/zoho.webp",
+    "placed": "12 students",
+    "departments": "CSE,IT,AIDS,CSD,EEE,EIE",
+    "category": "CSE_IT"
+  },
+  {
+    "name": "Mr.Cooper",
+    "logo": "./CSE_IT/mr_cooper.webp",
+    "placed": "2 students",
+    "departments": "CSE,IT",
+    "category": "CSE_IT"
+  },
+  {
+    "name": "Josh",
+    "logo": "./CSE_IT/josh.webp",
+    "placed": "2 students",
+    "departments": "CSE,AIDS",
+    "category": "CSE_IT"
+  },
+   {
+    "name": "Codingmart",
+    "logo": "./CSE_IT/codingmart.webp",
+    "placed": "1 students",
+    "departments": "CSD",
+    "category": "CSE_IT"
+  },
+   {
+    "name": "ERP Roots",
+    "logo": "./CSE_IT/erp_roots.webp",
+    "placed": "2 students",
+    "departments": "AIDS,EEE",
+    "category": "CSE_IT"
+  },
+   {
+    "name": "Rently",
+    "logo": "./CSE_IT/rently.webp",
+    "placed": "1 students",
+    "departments": "CSE",
+    "category": "CSE_IT"
+  },
+  {
+    "name": "Mallow",
+    "logo": "./CSE_IT/mallow.webp",
+    "placed": "8 students",
+    "departments": "CSE,IT,AIDS,CSD,EEE,MTRS",
+    "category": "CSE_IT"
+  },
   {
     "name": "Infosys",
     "logo": "./CSE_IT/infosys.webp",
-    "placed": "120 students",
+    "placed": "9 students",
     "departments": "CSE, EEE, ECE",
     "category": "CSE_IT"
   },
   {
     "name": "Cognizant",
     "logo": "./CSE_IT/cognizant.webp",
-    "placed": "110 students",
+    "placed": "126 students",
     "departments": "CSE, ECE, AIDS,AIML",
     "category": "CSE_IT"
   },
@@ -23,7 +93,7 @@
   {
     "name": "Accenture",
     "logo": "./CSE_IT/accenture.webp",
-    "placed": "123 students",
+    "placed": "129 students",
     "departments": "CSE, EEE, IT,AIDS,AIML,CSD,ECE,EIE",
     "category": "CSE_IT"
   },
@@ -37,15 +107,8 @@
   {
     "name": "TCS",
     "logo": "./CSE_IT/tcs.webp",
-    "placed": "55 students",
+    "placed": "61 students",
     "departments": "CSE,MTRS",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Zoho",
-    "logo": "./CSE_IT/zoho.webp",
-    "placed": "12 students",
-    "departments": "CSE,IT,AIDS,CSD,EEE,EIE",
     "category": "CSE_IT"
   },
   {
@@ -61,40 +124,12 @@
     "placed": "7 students",
     "departments": "CSE, AIDS,AIML",
     "category": "CSE_IT"
-  },
-  {
-    "name": "Presidio",
-    "logo": "./CSE_IT/presidio.webp",
-    "placed": "3 students",
-    "departments": "CSE, CSD, EIE",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "JP MorganChase",
-    "logo": "./CSE_IT/jp_morganchase.webp",
-    "placed": "1 students",
-    "departments": "CSE",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Josh",
-    "logo": "./CSE_IT/josh.webp",
-    "placed": "2 students",
-    "departments": "CSE,AIDS",
-    "category": "CSE_IT"
-  },
+  }, 
   {
     "name": "JMAN Group",
     "logo": "./CSE_IT/jman_group.webp",
     "placed": "5 students",
     "departments": "CSE,AIDS",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Mr.Cooper",
-    "logo": "./CSE_IT/mr_cooper.webp",
-    "placed": "2 students",
-    "departments": "CSE,IT",
     "category": "CSE_IT"
   },
   {
@@ -168,13 +203,6 @@
     "category": "CSE_IT"
   },
   {
-    "name": "Codingmart",
-    "logo": "./CSE_IT/codingmart.webp",
-    "placed": "1 students",
-    "departments": "CSD",
-    "category": "CSE_IT"
-  },
-  {
     "name": "Kaar Technologies",
     "logo": "./CSE_IT/kaar_technologies.webp",
     "placed": "2 students",
@@ -237,13 +265,7 @@
     "departments": "CSE,IT,AIML",
     "category": "CSE_IT"
   },
-  {
-    "name": "Rubrix",
-    "logo": "./CSE_IT/rubrix.webp",
-    "placed": "2 students",
-    "departments": "CSE,CSD",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "Survay Sparrow",
     "logo": "./CSE_IT/survay_sparrow.webp",
@@ -350,13 +372,6 @@
     "category": "CSE_IT"
   },
   {
-    "name": "ERP Roots",
-    "logo": "./CSE_IT/erp_roots.webp",
-    "placed": "2 students",
-    "departments": "AIDS,EEE",
-    "category": "CSE_IT"
-  },
-  {
     "name": "Endava Solution",
     "logo": "./CSE_IT/endava_solution.webp",
     "placed": "13 students",
@@ -396,13 +411,6 @@
     "logo": "./CSE_IT/integra_connect.webp",
     "placed": "1 students",
     "departments": "AIML",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Rently",
-    "logo": "./CSE_IT/rently.webp",
-    "placed": "1 students",
-    "departments": "CSE",
     "category": "CSE_IT"
   },
   {
@@ -494,7 +502,7 @@
     "logo": "./CSE_IT/aypols.webp",
     "placed": "2 students",
     "departments": "CHEM",
-    "category": "CSE_IT"
+    "category": "BIO_FOOD_CHEM"
   },
   {
     "name": "Pinnacle Infotech",
@@ -538,28 +546,15 @@
     "departments": "EEE",
     "category": "CSE_IT"
   },
-  {
-    "name": "Mallow",
-    "logo": "./CSE_IT/mallow.webp",
-    "placed": "8 students",
-    "departments": "CSE,IT,AIDS,CSD,EEE,MTRS",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "JSE",
-    "logo": "./EEE_ECE/jse.webp",
-    "placed": "1 students",
-    "departments": "EEE",
-    "category": "EEE_ECE"
-  },
-  {
+
+    {
     "name": "Applied Materials",
     "logo": "./EEE_ECE/applied_materials.webp",
     "placed": "7 students",
     "departments": "CSE,IT,AIML,CSD,EEE,EIE",
     "category": "EEE_ECE"
   },
-  {
+   {
     "name": "Tessolve Semiconductors",
     "logo": "./EEE_ECE/tessolve_semiconductors.webp",
     "placed": "2 students",
@@ -574,19 +569,76 @@
     "category": "EEE_ECE"
   },
   {
-    "name": "Kitron India Services Pvt,Ltd",
-    "logo": "./EEE_ECE/kitron_india_services_pvt_ltd.webp",
-    "placed": "2 students",
-    "departments": "MTRS",
-    "category": "EEE_ECE"
-  },
-  {
     "name": "Delphi TVS",
     "logo": "./EEE_ECE/delphi_tvs.webp",
     "placed": "5 students",
     "departments": "MECH,AUTO",
     "category": "EEE_ECE"
   },
+    {
+    "name": "Yokogawa",
+    "logo": "./EEE_ECE/yokogawa.webp",
+    "placed": "9 students",
+    "departments": "EIE,CHEM",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "Data Pattern",
+    "logo": "./EEE_ECE/data_pattern.webp",
+    "placed": "5 students",
+    "departments": "ECE,EEE",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "NSK Bearings",
+    "logo": "./EEE_ECE/nsk_bearings.webp",
+    "placed": "1 students",
+    "departments": "MECH",
+    "category": "EEE_ECE"
+  },
+   {
+    "name": "Schneider",
+    "logo": "./EEE_ECE/schneider.webp",
+    "placed": "7 students",
+    "departments": "ECE,EIE",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "Toshiba",
+    "logo": "./EEE_ECE/toshiba.webp",
+    "placed": "1 student",
+    "departments": "AIML",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "Delta",
+    "logo": "./EEE_ECE/delta.webp",
+    "placed": "26 students",
+    "departments": "EEE,ECE,EIE,MECH,MTRS",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "NETGEAR",
+    "logo": "./EEE_ECE/netgear.webp",
+    "placed": "3 students",
+    "departments": "CSE,CSD,ECE",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "JSE",
+    "logo": "./EEE_ECE/jse.webp",
+    "placed": "1 students",
+    "departments": "EEE",
+    "category": "EEE_ECE"
+  },
+  {
+    "name": "Kitron India Services Pvt,Ltd",
+    "logo": "./EEE_ECE/kitron_india_services_pvt_ltd.webp",
+    "placed": "2 students",
+    "departments": "MTRS",
+    "category": "EEE_ECE"
+  },
+  
   {
     "name": "Logicgo infotech",
     "logo": "./EEE_ECE/logicgo_infotech.webp",
@@ -644,59 +696,10 @@
     "category": "EEE_ECE"
   },
   {
-    "name": "Yokogawa",
-    "logo": "./EEE_ECE/yokogawa.webp",
-    "placed": "9 students",
-    "departments": "EIE,CHEM",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "Data Pattern",
-    "logo": "./EEE_ECE/data_pattern.webp",
-    "placed": "5 students",
-    "departments": "ECE,EEE",
-    "category": "EEE_ECE"
-  },
-  {
     "name": "KT Telematics",
     "logo": "./EEE_ECE/kt_telematics.webp",
     "placed": "5 students",
     "departments": "AIDS,AIML,CSD,ECE,EEE",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "NSK Bearings",
-    "logo": "./EEE_ECE/nsk_bearings.webp",
-    "placed": "1 students",
-    "departments": "MECH",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "Schneider",
-    "logo": "./EEE_ECE/schneider.webp",
-    "placed": "7 students",
-    "departments": "ECE,EIE",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "Toshiba",
-    "logo": "./EEE_ECE/toshiba.webp",
-    "placed": "1 student",
-    "departments": "AIML",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "Delta",
-    "logo": "./EEE_ECE/delta.webp",
-    "placed": "26 students",
-    "departments": "EEE,ECE,EIE,MECH,MTRS",
-    "category": "EEE_ECE"
-  },
-  {
-    "name": "NETGEAR",
-    "logo": "./EEE_ECE/netgear.webp",
-    "placed": "3 students",
-    "departments": "CSE,CSD,ECE",
     "category": "EEE_ECE"
   },
   {
@@ -711,7 +714,7 @@
     "logo": "./EEE_ECE/trimble.webp",
     "placed": "12 students",
     "departments": "CSE,IT,CSD,AIML,AIDS",
-    "category": "EEE_ECE"
+    "category": "CSE_IT"
   },
   {
     "name": "Linkra cables",
@@ -755,12 +758,112 @@
     "departments": "EEE",
     "category": "EEE_ECE"
   },
+
+
+ {
+    "name": "JGC",
+    "logo": "./MECH_AUTO/jgc.webp",
+    "placed": "8 students",
+    "departments": "EIE,MTRS,CHEM",
+    "category": "MECH_AUTO"
+  },
+    {
+    "name": "SLB",
+    "logo": "./MECH_AUTO/slb.webp",
+    "placed": "8 students",
+    "departments": "EIE,MECH,MTRS,CIV,CHEM",
+    "category": "MECH_AUTO"
+  },
   {
+    "name": "TAC Tuticorin",
+    "logo": "./MECH_AUTO/tac_tuticorin.webp",
+    "placed": "6 students",
+    "departments": "EIE,MECH,CHEM",
+    "category": "MECH_AUTO"
+  },
+{
+    "name": "TVS Sri Chakra",
+    "logo": "./MECH_AUTO/tvs_sri_chakra.webp",
+    "placed": "1 students",
+    "departments": "CHEM",
+    "category": "MECH_AUTO"
+  },
+  {
+    "name": "Brakes India",
+    "logo": "./MECH_AUTO/brakes_india.webp",
+    "placed": "4 students",
+    "departments": "EEE,MECH,MTRS",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "Janatics",
+    "logo": "./MECH_AUTO/janatics.webp",
+    "placed": "1 students",
+    "departments": "MECH",
+    "category": "MECH_AUTO"
+  },
+    {
+    "name": "Propel Industries",
+    "logo": "./MECH_AUTO/propel_industries.webp",
+    "placed": "5 students",
+    "departments": "ECE,EEE,MECH,AUTO",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "Titan Engineering and Automation Limited",
+    "logo": "./MECH_AUTO/titan_engineering_and_automation_limited.webp",
+    "placed": "4 students",
+    "departments": "EIE,EEE",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "HiTech Calibration",
+    "logo": "./MECH_AUTO/hitech_calibration.webp",
+    "placed": "4 students",
+    "departments": "EIE",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "McWane",
+    "logo": "./MECH_AUTO/mcwane.webp",
+    "placed": "1 students",
+    "departments": "MECH",
+    "category": "MECH_AUTO"
+  },
+  {
+    "name": "Kavin Engineering And Services Pvt,Ltd",
+    "logo": "./MECH_AUTO/kavin_engineering_and_services_pvt_ltd.webp",
+    "placed": "4 students",
+    "departments": "EIE",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "Motherson-SMRC",
+    "logo": "./MECH_AUTO/motherson_smrc.webp",
+    "placed": "8 students",
+    "departments": "MTRS",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "H&MV Engineering",
+    "logo": "./MECH_AUTO/h_mv_engineering.webp",
+    "placed": "8 students",
+    "departments": "EEE",
+    "category": "MECH_AUTO"
+  },
+   {
+    "name": "Emerson",
+    "logo": "./MECH_AUTO/emerson.webp",
+    "placed": "1 students",
+    "departments": "MTRS",
+    "category": "MECH_AUTO"
+  },
+   {
     "name": "CRP robots",
     "logo": "./EEE_ECE/crp_robots.webp",
     "placed": "8 students",
     "departments": "MTRS",
-    "category": "EEE_ECE"
+    "category": "MECH_AUTO"
   },
   {
     "name": "Sakthi Auto Components Ltd",
@@ -798,31 +901,10 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "Janatics",
-    "logo": "./MECH_AUTO/janatics.webp",
-    "placed": "1 students",
-    "departments": "MECH",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "Aquasub",
     "logo": "./MECH_AUTO/aquasub.webp",
     "placed": "1 students",
     "departments": "MECH",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "Brakes India",
-    "logo": "./MECH_AUTO/brakes_india.webp",
-    "placed": "4 students",
-    "departments": "EEE,MECH,MTRS",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "TVS Sri Chakra",
-    "logo": "./MECH_AUTO/tvs_sri_chakra.webp",
-    "placed": "1 students",
-    "departments": "CHEM",
     "category": "MECH_AUTO"
   },
   {
@@ -833,13 +915,6 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "Propel Industries",
-    "logo": "./MECH_AUTO/propel_industries.webp",
-    "placed": "5 students",
-    "departments": "ECE,EEE,MECH,AUTO",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "WEG Industries",
     "logo": "./MECH_AUTO/weg_industries.webp",
     "placed": "3 students",
@@ -847,31 +922,10 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "Titan Engineering and Automation Limited",
-    "logo": "./MECH_AUTO/titan_engineering_and_automation_limited.webp",
-    "placed": "4 students",
-    "departments": "EIE,EEE",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "Adwik Intellimech -Mds",
     "logo": "./MECH_AUTO/adwik_intellimech__mds.webp",
     "placed": "3 students",
     "departments": "MTRS",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "HiTech Calibration",
-    "logo": "./MECH_AUTO/hitech_calibration.webp",
-    "placed": "4 students",
-    "departments": "EIE",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "JGC",
-    "logo": "./MECH_AUTO/jgc.webp",
-    "placed": "8 students",
-    "departments": "EIE,MTRS,CHEM",
     "category": "MECH_AUTO"
   },
   {
@@ -931,31 +985,10 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "McWane",
-    "logo": "./MECH_AUTO/mcwane.webp",
-    "placed": "1 students",
-    "departments": "MECH",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "Kavin Engineering And Services Pvt,Ltd",
-    "logo": "./MECH_AUTO/kavin_engineering_and_services_pvt_ltd.webp",
-    "placed": "4 students",
-    "departments": "EIE",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "Harvee Designs",
     "logo": "./MECH_AUTO/harvee_designs.webp",
     "placed": "1 students",
     "departments": "IT",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "Motherson-SMRC",
-    "logo": "./MECH_AUTO/motherson_smrc.webp",
-    "placed": "8 students",
-    "departments": "MTRS",
     "category": "MECH_AUTO"
   },
   {
@@ -966,13 +999,6 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "H&MV Engineering",
-    "logo": "./MECH_AUTO/h_mv_engineering.webp",
-    "placed": "8 students",
-    "departments": "EEE",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "WTT International Pvt, Ltd",
     "logo": "./MECH_AUTO/wtt_international_pvt__ltd.webp",
     "placed": "5 students",
@@ -980,24 +1006,10 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "Emerson",
-    "logo": "./MECH_AUTO/emerson.webp",
-    "placed": "1 students",
-    "departments": "MTRS",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "Real Tech System",
     "logo": "./MECH_AUTO/real_tech_system.webp",
     "placed": "4 students",
     "departments": "EEE",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "SLB",
-    "logo": "./MECH_AUTO/slb.webp",
-    "placed": "8 students",
-    "departments": "EIE,MECH,MTRS,CIV,CHEM",
     "category": "MECH_AUTO"
   },
   {
@@ -1014,25 +1026,47 @@
     "departments": "IT,AIML,CSD",
     "category": "MECH_AUTO"
   },
+
+    {
+    "name": "Reliance Industries",
+    "logo": "./CIVIL_CORE/reliance_industries.webp",
+    "placed": "8 students",
+    "departments": "EEE,EIE,CHEM",
+    "category": "CIVIL_CORE"
+  },
   {
-    "name": "TAC Tuticorin",
-    "logo": "./MECH_AUTO/tac_tuticorin.webp",
-    "placed": "6 students",
-    "departments": "EIE,MECH,CHEM",
-    "category": "MECH_AUTO"
+    "name": "Jindal Steel",
+    "logo": "./CIVIL_CORE/jindal_steel.webp",
+    "placed": "2 students",
+    "departments": "EIE",
+    "category": "CIVIL_CORE"
+  },
+   {
+    "name": "ITC Food Division",
+    "logo": "./BIO_FOOD_CHEM/itc_food_division.webp",
+    "placed": "5 students",
+    "departments": "EEE,MECH",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Amul",
+    "logo": "./BIO_FOOD_CHEM/amul.webp",
+    "placed": "1 students",
+    "departments": "FT",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Britannia RFID",
+    "logo": "./BIO_FOOD_CHEM/britannia_rfid.webp",
+    "placed": "2 students",
+    "departments": "CSE,ECE",
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Ramco Cements Ltd",
     "logo": "./CIVIL_CORE/ramco_cements_ltd.webp",
     "placed": "1 students",
     "departments": "CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Janaki Construction",
-    "logo": "./CIVIL_CORE/janaki_construction.webp",
-    "placed": "1 students",
-    "departments": "CIV",
     "category": "CIVIL_CORE"
   },
   {
@@ -1047,6 +1081,69 @@
     "logo": "./CIVIL_CORE/spic.webp",
     "placed": "9 students",
     "departments": "MECH,CHEM",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Timbertruss Design Private Limited",
+    "logo": "./CIVIL_CORE/timbertruss_design_private_limited.webp",
+    "placed": "7 students",
+    "departments": "CIV",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "SRC Projects",
+    "logo": "./CIVIL_CORE/src_projects.webp",
+    "placed": "5 students",
+    "departments": "CIV",
+    "category": "CIVIL_CORE"
+  },
+    {
+    "name": "GEA BGR & Group",
+    "logo": "./CIVIL_CORE/gea_bgr___group.webp",
+    "placed": "12 students",
+    "departments": "MECH,CHEM",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Bull Machine",
+    "logo": "./CIVIL_CORE/bull_machine.webp",
+    "placed": "3 students",
+    "departments": "ECE,AUTO",
+    "category": "CIVIL_CORE"
+  },
+   {
+    "name": "Jain Resource Recycling",
+    "logo": "./CIVIL_CORE/jain_resource_recycling.webp",
+    "placed": "7 students",
+    "departments": "EIE,CHEM",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "PRIMAS Bioscience",
+    "logo": "./BIO_FOOD_CHEM/primas_bioscience.webp",
+    "placed": "1 students",
+    "departments": "FT",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "SKM Egg products",
+    "logo": "./BIO_FOOD_CHEM/skm_egg_products.webp",
+    "placed": "1 students",
+    "departments": "FT",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Angel Starch&Food Pvt Ltd",
+    "logo": "./BIO_FOOD_CHEM/angel_starch_food_pvt_ltd.webp",
+    "placed": "1 students",
+    "departments": "FT",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "Janaki Construction",
+    "logo": "./CIVIL_CORE/janaki_construction.webp",
+    "placed": "1 students",
+    "departments": "CIV",
     "category": "CIVIL_CORE"
   },
   {
@@ -1071,52 +1168,10 @@
     "category": "CIVIL_CORE"
   },
   {
-    "name": "Timbertruss Design Private Limited",
-    "logo": "./CIVIL_CORE/timbertruss_design_private_limited.webp",
-    "placed": "7 students",
-    "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "SRC Projects",
-    "logo": "./CIVIL_CORE/src_projects.webp",
-    "placed": "5 students",
-    "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
     "name": "HR Construction",
     "logo": "./CIVIL_CORE/hr_construction.webp",
     "placed": "1 students",
     "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Reliance Industries",
-    "logo": "./CIVIL_CORE/reliance_industries.webp",
-    "placed": "8 students",
-    "departments": "EEE,EIE,CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Jindal Steel",
-    "logo": "./CIVIL_CORE/jindal_steel.webp",
-    "placed": "2 students",
-    "departments": "EIE",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "GEA BGR & Group",
-    "logo": "./CIVIL_CORE/gea_bgr___group.webp",
-    "placed": "12 students",
-    "departments": "MECH,CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Bull Machine",
-    "logo": "./CIVIL_CORE/bull_machine.webp",
-    "placed": "3 students",
-    "departments": "ECE,AUTO",
     "category": "CIVIL_CORE"
   },
   {
@@ -1148,122 +1203,67 @@
     "category": "CIVIL_CORE"
   },
   {
-    "name": "Jain Resource Recycling",
-    "logo": "./CIVIL_CORE/jain_resource_recycling.webp",
-    "placed": "7 students",
-    "departments": "EIE,CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "ITC Food Division",
-    "logo": "./BIO_FOOD_CHEM/itc_food_division.webp",
-    "placed": "5 students",
-    "departments": "EEE,MECH",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "Jain Resource Recycling",
-    "logo": "./BIO_FOOD_CHEM/jain_resource_recycling.webp",
-    "placed": "7 students",
-    "departments": "EIE,CHEM",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "Angel Starch&Food Pvt Ltd",
-    "logo": "./BIO_FOOD_CHEM/angel_starch_food_pvt_ltd.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
     "name": "April3rdfoods",
     "logo": "./BIO_FOOD_CHEM/april3rdfoods.webp",
     "placed": "1 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "PRIMAS Bioscience",
-    "logo": "./BIO_FOOD_CHEM/primas_bioscience.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Grenera Nutrents pvt Ltd",
     "logo": "./BIO_FOOD_CHEM/grenera_nutrents_pvt_ltd.webp",
     "placed": "1 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Sahuwala Flour Mills",
     "logo": "./BIO_FOOD_CHEM/sahuwala_flour_mills.webp",
     "placed": "4 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Sid's Farm",
     "logo": "./BIO_FOOD_CHEM/sid_s_farm.webp",
     "placed": "1 students",
     "departments": "MECH",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "Amul",
-    "logo": "./BIO_FOOD_CHEM/amul.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Accura Deldrods",
     "logo": "./BIO_FOOD_CHEM/accura_deldrods.webp",
     "placed": "1 students",
     "departments": "CHEM",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Freezeton",
     "logo": "./BIO_FOOD_CHEM/freezeton.webp",
     "placed": "2 students",
     "departments": "MTRS",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Vintage agro",
     "logo": "./BIO_FOOD_CHEM/vintage_agro.webp",
     "placed": "2 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "SKM Egg products",
-    "logo": "./BIO_FOOD_CHEM/skm_egg_products.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Green Collar Agritech Solutions",
     "logo": "./BIO_FOOD_CHEM/green_collar_agritech_solutions.webp",
     "placed": "1 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Reading Chocolate (Sago factory )",
     "logo": "./BIO_FOOD_CHEM/reading_chocolate__sago_factory__.webp",
     "placed": "2 students",
     "departments": "FT",
-    "category": "BIO_FOOD_CHEM"
-  },
-  {
-    "name": "Britannia RFID",
-    "logo": "./BIO_FOOD_CHEM/britannia_rfid.webp",
-    "placed": "2 students",
-    "departments": "CSE,ECE",
-    "category": "BIO_FOOD_CHEM"
+    "category": "CIVIL_CORE"
   }
+  
 ]

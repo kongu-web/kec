@@ -50,7 +50,7 @@ import II_card6 from "../../../assets/images/Placement/II_card6.webp";
 
 import companiesData from "./Data/companies_data.json";
 
-const categories = ["CSE / IT / AI", "EEE / ECE", "Mechanical / Auto", "Civil / Core", "Bio / Food / Chemical"];
+const categories = ["CS / IT / AI", "EIE / EEE / ECE", "Mechanical / Mechatronics / Auto", "Core Companies"];
 
 const companyLogos = require.context(
   "../../../assets/images/Placement/Companies",
@@ -87,10 +87,10 @@ const getLogo = (jsonPath) => {
 };
 
 const recruitersByDept = {
-  "CSE / IT / AI": companiesData.filter((c) => c.category === "CSE_IT"),
-  "EEE / ECE": companiesData.filter((c) => c.category === "EEE_ECE"),
-  "Mechanical / Auto": companiesData.filter((c) => c.category === "MECH_AUTO"),
-  "Civil / Core": companiesData.filter((c) => c.category === "CIVIL_CORE"),
+  "CS / IT / AI": companiesData.filter((c) => c.category === "CSE_IT"),
+  "EIE / EEE / ECE": companiesData.filter((c) => c.category === "EEE_ECE"),
+  "Mechanical / Mechatronics / Auto": companiesData.filter((c) => c.category === "MECH_AUTO"),
+  "Core Companies": companiesData.filter((c) => c.category === "CIVIL_CORE"),
   "Bio / Food / Chemical": companiesData.filter((c) => c.category === "BIO_FOOD_CHEM"),
 };
 
