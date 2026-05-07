@@ -1476,6 +1476,17 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">-</td>
                                                 <td className="text-center">2024-2027</td>
                                             </tr>
+
+                                            
+                                             {/* 50 */}
+                                            <tr>
+                                                <td className="text-center">50</td>
+                                                <td>Extension of Approval</td>
+                                                <td className="text-center">-</td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/ENG/50.AICTE_Approval_2025_26.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-46268108692/2026/EOA</a></td>
+                                                <td className="text-center">-</td>
+                                                <td className="text-center">2026-2027</td>
+                                            </tr>
                                         </tbody>
                                     </table>
                                 </div>
