@@ -58,7 +58,7 @@ const Navbar = () => {
             Policies ▾
             {activeDropdowns.policies && (
               <ul className="dropdownMenu">
-                <li><a href="/ief/docs/kisp2020.pdf" className="link">KEC Innovation and Startup Policy - KISP 2020</a></li>
+                <li><a href="/ief/docs/KISP.pdf" className="link">KEC Innovation and Startup Policy - KISP 2020</a></li>
                 <li><a href="/ief/docs/STARTUP-TN-Policy.pdf" className="link">Tamil Nadu Startup & Innovation Policy 2023</a></li>
                 <li><a href="/ief/docs/nisp2020.pdf" className="link">National Innovation and Startup Policy - NISP 2019</a></li>
               </ul>
