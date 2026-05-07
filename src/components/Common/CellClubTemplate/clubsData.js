@@ -1367,6 +1367,12 @@ export const clubsData = [
                         date: "Jan - Oct, 2025",
                         details: "Interested students were given training for the IELTS examination from the top educators from various sources."
                     },
+                    {
+                        sno: 8,
+                        name: "MOXIE - An interactive experience sharing session",
+                        date: "March 23, 2026",
+                        details: "To provide students with valuable insights about IELTS examination and guidance on studying abroad."
+                    },
                 ]
             },
              {
