@@ -277,6 +277,11 @@ const Navbar = () => {
                   <a href="https://kms.kongu.edu/nt_recruitment/">
                     Non-Teaching
                   </a>
+
+                 <a href="studentcounsellor.webp" target="_blank" rel="noopener noreferrer">
+                    Student Counsellor
+                </a>
+                
                 </div>
               )}
             </div>
@@ -1093,6 +1098,17 @@ const Navbar = () => {
                     >
                       Non-Teaching
                     </li>
+
+                    <li
+                      onClick={() =>
+                        window.open(
+                          "/studentcounsellor.webp",
+                          "_blank"
+                    )
+                    }
+                  >
+                  Student Counsellor
+                  </li>
                   </ul>
                 )}
 
