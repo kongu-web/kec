@@ -19,11 +19,11 @@ import staff3 from "../../../../assets/images/PhysicalDept/Staff/vkannan.webp";
 import staff4 from "../../../../assets/images/PhysicalDept/Staff/pavithra.webp";
 
 const staffMembers = [
-  {
-    role: "Professor-Incharge",
-    name: "Dr. K. Kannan, M.Tech, Ph.D",
-    image: staff1,
-  },
+  // {
+  //   role: "Professor-Incharge",
+  //   name: "Dr. K. Kannan, M.Tech, Ph.D",
+  //   image: staff1,
+  // },
   {
     role: "Director of Physical Education",
     name: "Dr. R. Jeyaraman, M.P.Ed, M.Phil, Ph.D",
