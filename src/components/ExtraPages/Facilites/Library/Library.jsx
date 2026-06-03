@@ -1363,9 +1363,9 @@ const Library = () => {
 
             <h3>Professor In-charge - Library</h3>
             <p>
-              <strong>Dr. R. Baskar</strong>
+              <strong>Dr.P.Karthikeyan</strong>
               <br />
-              Department of Food Technology
+              MBA
             </p>
 
             <h3>Library Staff Members</h3>
@@ -1459,7 +1459,7 @@ const Library = () => {
 
             <div className="contact-list">
               <div className="contact-item">
-                <p className="contact-name">Dr. R. Baskar</p>
+                <p className="contact-name">Dr.P.Karthikeyan</p>
                 <p className="contact-role">Professor In-Charge</p>
                 <p className="contact-phone">Phone: 04294 226630</p>
               </div>
