@@ -104,27 +104,27 @@ const IqacAffiliation = () => {
                                 </tr>
                                 <tr>
                                     <td className="text-center">10</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/6..20AU.20affiliation.202016-2017.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2016-17</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/6. AU affiliation 2016-2017.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2016-17</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">11</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/5..20AU.20Affiliation.202015-2016.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2015-16</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/5. AU Affiliation 2015-2016.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2015-16</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">12</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/4..20AU.20Affiliation.202014-2015.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2014-15</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/4. AU Affiliation 2014-2015.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2014-15</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">13</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/3..20AU.20Affiliation.202013-2014.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2013-14</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/3. AU Affiliation 2013-2014.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2013-14</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">14</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/2..20AU.20Affiliation.202012-2013.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2012-13</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/2. AU Affiliation 2012-2013.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2012-13</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">15</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/1..20AUT.20affiliation.202011-2012.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2011-12</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/1. AUT affiliation 2011-2012.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2011-12</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -142,27 +142,27 @@ const IqacAffiliation = () => {
                             <tbody>
                                 <tr>
                                     <td className="text-center">1</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P1..20Permanent.20affiliation.202011-2012.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2011-2012</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P1. Permanent affiliation 2011-2012.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2011-2012</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">2</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P2..20Permanent.20affiliation.202012-2013.pdf" target="_blank" rel="noreferrer">Permanent Affiliationorder 2012-2013</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P2. Permanent affiliation 2012-2013.pdf" target="_blank" rel="noreferrer">Permanent Affiliationorder 2012-2013</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">3</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P3..20Permanent.20Affiliation.202013-2014.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order2013-2014</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P3. Permanent Affiliation 2013-2014.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order2013-2014</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">4</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P4..20Permanent.20Affiliation.202013-14.20-.2010.20Courses.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2013-2014 10 courses BE EIE MTS BTECH IT ME MTECH</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P4. Permanent Affiliation 2013-14 - 10 Courses.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2013-2014 10 courses BE EIE MTS BTECH IT ME MTECH</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">5</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P5..20Permanent.20Affiliation.20M.E..20MTS.20-.202014-15.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2014-2015 ME MTS</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P5. Permanent Affiliation M.E. MTS - 2014-15.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2014-2015 ME MTS</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">6</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P6..20Permanent.20affiliation.20for.20BTECH.20FT.20from.202016-2017.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2016-2017 BTECH FT</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P6. Permanent affiliation for BTECH FT from 2016-2017.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2016-2017 BTECH FT</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">7</td>
@@ -170,11 +170,11 @@ const IqacAffiliation = () => {
                                 </tr>
                                 <tr>
                                     <td className="text-center">8</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P7..20Permanent.20Affiliation.20ME.20Structural.20and.20ME.20Embedded.202019-2020.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2019-2020 ME Structural and ME Embedded 2019-2020</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P7. Permanent Affiliation ME Structural and ME Embedded 2019-2020.pdf" target="_blank" rel="noreferrer">Permanent Affiliation order 2019-2020 ME Structural and ME Embedded 2019-2020</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">9</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P8..20Permanent.20Affiliation.20M.Tech.20Food.20Tech.20.202020-2021.pdf" target="_blank" rel="noreferrer">Permanent Affiliation M.Tech Food Tech 2020-2021</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation & Approval/AU Affiliation/P8. Permanent Affiliation M.Tech Food Tech  2020-2021.pdf" target="_blank" rel="noreferrer">Permanent Affiliation M.Tech Food Tech 2020-2021</a></td>
                                 </tr>
                             </tbody>
                         </table>
