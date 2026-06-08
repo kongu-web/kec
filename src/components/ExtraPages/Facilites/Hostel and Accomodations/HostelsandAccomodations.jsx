@@ -319,7 +319,7 @@ const HostelsandAccommodation = () => {
   const [rulesTab, setRulesTab] = useState("boys");
 
   useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 800);
+    const timer = setTimeout(() => setLoading(false), 1800);
     return () => clearTimeout(timer);
   }, []);
 

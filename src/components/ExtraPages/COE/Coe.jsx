@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import "./Coe.css";
 import Footer from "../../HomePage/Footer/Footer";
-import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
-import topImage from "../../../assets/images/InnovationEcosystem/Coe/coe.webp";
 
 const coeData = [
   {
@@ -52,7 +50,7 @@ const coeData = [
       "Computer Science and Engineering - Centre of Excellence in Cyber Security",
     image: require("../../../assets/images/InnovationEcosystem/Coe/cse1.webp"),
     content: [
-      "Center of Excellence in Cyber Security aims to create a more diverse, equitable and inclusive cybersecurity workforce. It bridges the gap between learning and careers through access to industry-recognized Fortinet NSE training and certification courses. The Academic Partner Program collaborates with highest education institutions to help learners become part of an elite group of skilled cybersecurity professionals. Fortinet sponsors the training content and exam vouchers for each Authorized Security Academy, along with supporting instructor preparation. COE will prepare students for a career in cyber security and build a workforce skilled in all aspects of Fortinet’s network security platform who will be recognized in the industry among an elite group of security professionals. Fortinet will provide access to self-paced training to Academy students and provide exam vouchers upon request for students who have completed the self-paced learning. Fortinet will inform student who complete the self-paced learning of any potential internships or employment opportunities at Fortinet. Supported by Fortinet, Network Security Academy, California-94086.",
+      "Center of Excellence in Cyber Security aims to create a more diverse, equitable and inclusive cybersecurity workforce. It bridges the gap between learning and careers through access to industry-recognized Fortinet NSE training and certification courses. The Academic Partner Program collaborates with highest education institutions to help learners become part of an elite group of skilled cybersecurity professionals. Fortinet sponsors the training content and exam vouchers for each Authorized Security Academy, along with supporting instructor preparation. COE will prepare students for a career in cyber security and build a workforce skilled in all aspects of Fortinet's network security platform who will be recognized in the industry among an elite group of security professionals. Fortinet will provide access to self-paced training to Academy students and provide exam vouchers upon request for students who have completed the self-paced learning. Fortinet will inform student who complete the self-paced learning of any potential internships or employment opportunities at Fortinet. Supported by Fortinet, Network Security Academy, California-94086.",
     ],
     features: null,
     objectives: null,
@@ -81,7 +79,7 @@ const coeData = [
       "Computer Science and Design - Centre of Excellence in Virtual Reality and Augmented Reality",
     image: require("../../../assets/images/InnovationEcosystem/Coe/csd1.webp"),
     content: [
-      "Virtual Reality and Augmented Reality Center of Excellence was established in 06 July 2023. Our lab is equipped with Dell Precision 3660 Tower Workstation (36 Units) Core i9 12900K processor, 32 Gb RAM, 512 SSD, 1 TB Sata HDD, Nvidia GeForce RTX 3070 8 GB, 21.5” Full HD Monitor,Meta Quest -2 VR Headset (10 Units).",
+      "Virtual Reality and Augmented Reality Center of Excellence was established in 06 July 2023. Our lab is equipped with Dell Precision 3660 Tower Workstation (36 Units) Core i9 12900K processor, 32 Gb RAM, 512 SSD, 1 TB Sata HDD, Nvidia GeForce RTX 3070 8 GB, 21.5\u201d Full HD Monitor,Meta Quest -2 VR Headset (10 Units).",
     ],
     features: null,
     objectives: [
@@ -116,7 +114,7 @@ const coeData = [
       "Electrical and Electronics Engineering - Centre of Excellence in Smart Electrical Lab",
     image: require("../../../assets/images/InnovationEcosystem/Coe/eee1.webp"),
     content: [
-      "The CoE in association with Schneider Electric (P) Ltd aims to develops skill set in building automation and industrial drives among the student community to mould them industry ready. The CoE organizes short term program for a span of 2 days – 5 days on a nominal cost. The training certificate issued after completion is a global certification from Schneider which helps the students to fit into their carrier in any of the core company",
+      "The CoE in association with Schneider Electric (P) Ltd aims to develops skill set in building automation and industrial drives among the student community to mould them industry ready. The CoE organizes short term program for a span of 2 days \u2013 5 days on a nominal cost. The training certificate issued after completion is a global certification from Schneider which helps the students to fit into their carrier in any of the core company",
     ],
     features: null,
     objectives: null,
@@ -179,9 +177,8 @@ const coeData = [
       "Enhanced employability through practical engineering training",
     ],
   },
-   {
-    title:
-      "Automobile Engineering - Centre of Excellence for Design",
+  {
+    title: "Automobile Engineering - Centre of Excellence for Design",
     image: require("../../../assets/images/InnovationEcosystem/Coe/coe-design.webp"),
     content: null,
     features: null,
@@ -199,7 +196,7 @@ const coeData = [
       "Stronger links between academia and industry through Autodesk-supported events and projects.",
     ],
   },
-     {
+  {
     title:
       "Automobile Engineering - Centre of Excellence in Advanced Fuel Injection System",
     image: require("../../../assets/images/InnovationEcosystem/Coe/coe-delphi.webp"),
@@ -210,7 +207,7 @@ const coeData = [
       "To facilitate industry-oriented internships and real-time project opportunities that enable students to gain practical exposure to industrial challenges.",
       "To promote joint research initiatives and conduct Faculty Development Programs aimed at knowledge exchange, innovation, and technological advancement.",
       "To organize expert lectures and technical sessions by industry professionals to bridge the gap between academic learning and industrial applications.",
-      "To establish a structured industry–institute recruitment framework that enhances student employability and creates a sustainable talent pipeline for Delphi TVS.",
+      "To establish a structured industry\u2013institute recruitment framework that enhances student employability and creates a sustainable talent pipeline for Delphi TVS.",
     ],
     outcomes: [
       "Students gain industry-relevant skills leading to improved placement opportunities and career readiness in automotive and mobility sectors.",
@@ -220,9 +217,9 @@ const coeData = [
       "Faculty members gain exposure to latest industrial trends through FDPs, workshops, and collaborative technical programs.",
     ],
   },
-   {
+  {
     title:
-      "Artificial Intelligence and Data Science - Centre of Excellence in Intel® Unnati Data-Centric Labs in Emerging Technologies",
+      "Artificial Intelligence and Data Science - Centre of Excellence in Intel\u00ae Unnati Data-Centric Labs in Emerging Technologies",
     image: require("../../../assets/images/InnovationEcosystem/Coe/ai-intel.webp"),
     content: null,
     features: null,
@@ -242,7 +239,7 @@ const coeData = [
       "IoT related R&D projects can be carried out.",
     ],
   },
-   {
+  {
     title:
       "Artificial Intelligence and Machine Learning - Centre of Excellence in Real-Time Analytics",
     image: require("../../../assets/images/InnovationEcosystem/Coe/ai-realtime.webp"),
@@ -268,128 +265,308 @@ const coeData = [
 ];
 
 const Coe = () => {
-  const [selectedIndex, setSelectedIndex] = useState(null);
+  const [selectedIndex, setSelectedIndex] = useState(0);
 
   const handleClick = (index) => {
     setSelectedIndex(index === selectedIndex ? null : index);
   };
 
+  const selected = selectedIndex !== null ? coeData[selectedIndex] : null;
+
   return (
     <>
-      {/* <Section/> */}
       <Navbar />
-      <div className="coe-container">
-        <div className="coe-header">
-          <h2 className="coe-title">Centre of Excellence @ KEC</h2>
-          <div className="coe-description">
-            <div className="coe-text">
-              <p>
-                Kongu Engineering College establishes Center of Excellence (CoE)
-                to enhance the skills and knowledge of students and faculty in
-                various emerging technologies. The CoEs are equipped with
-                state-of-the-art infrastructure and facilities relevant to the
-                specific field of study, includes advanced laboratories,
-                specialized equipments, software, and other resources necessary
-                for hands-on learning and practical applications. Students have
-                the opportunity to gain practical experience and hands-on
-                training, preparing them for real-world challenges in their core
-                industry. It also engages students and faculty in
-                industry-relevant projects and provides practical exposure and
-                helps to bridge the gap between academic knowledge and industry
-                requirements.
-              </p>
-              <p>
-                It serves as hubs for continuous learning and knowledge
-                upgradation. Regular workshops, seminars, and training sessions
-                conducted within the CoE, help the students and faculty to have
-                the insight on latest developments in their field and plays a
-                role in promoting research and innovation within a specific
-                domain.
-              </p>
+
+      {/* ===== HERO — FULL-WIDTH CINEMATIC ===== */}
+      <div className="coe-hero">
+
+        {/* Content Container */}
+        <div className="coe-hero-container">
+          {/* Left panel: Text and button */}
+          <div className="coe-hero-left">
+            {/* Breadcrumb pill */}
+            <div className="coe-hero-breadcrumb">
+              INNOVATION &nbsp;·&nbsp; RESEARCH &nbsp;·&nbsp; EXCELLENCE
             </div>
-            <div className="coe-image-container">
-              <img
-                src={topImage}
-                alt="Centre of Excellence"
-                className="coe-top-image"
-              />
-            </div>
+
+            {/* Main Heading */}
+            <h1 className="coe-hero-title">
+              Centre of <span>Excellence</span>
+            </h1>
+
+            {/* Description */}
+            <p className="coe-hero-desc">
+              Our Centres of Excellence (CoE) empower students and faculty with advanced
+              infrastructure, industry collaboration, and hands-on learning to drive innovation
+              and bridge the gap between academia and industry.
+            </p>
+
+            {/* Explore button */}
+            <button
+              className="coe-explore-btn"
+              onClick={() => {
+                const element = document.querySelector(".coe-body");
+                if (element) {
+                  element.scrollIntoView({ behavior: "smooth" });
+                }
+              }}
+            >
+              <span>Explore Our CoEs</span>
+              <span className="coe-explore-btn-circle">
+                <span className="coe-explore-btn-arrow">➔</span>
+              </span>
+            </button>
           </div>
-        </div>
 
-        <div className="coe-card-section">
-          {coeData.map((coe, index) => (
-            <div key={index} className="coe-card">
-              <button
-                className="coe-card-title"
-                onClick={() => handleClick(index)}
-              >
-                {coe.title}
-              </button>
-
-              {selectedIndex === index && (
-                <div className="coe-details">
-                  <div className="coe-details-layout">
-                    <div className="coe-content-column">
-                      {coe.content && (
-                        <div className="coe-section">
-                          <h3>Content</h3>
-                          <ul>
-                            {coe.content.map((item, idx) => (
-                              <li key={idx}>{item}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      )}
-
-                      {coe.features && (
-                        <div className="coe-section">
-                          <h3>Features</h3>
-                          <ul>
-                            {coe.features.map((item, idx) => (
-                              <li key={idx}>{item}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      )}
-
-                      {coe.objectives && (
-                        <div className="coe-section">
-                          <h3>Objectives</h3>
-                          <ul>
-                            {coe.objectives.map((item, idx) => (
-                              <li key={idx}>{item}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      )}
-
-                      {coe.outcomes && (
-                        <div className="coe-section">
-                          <h3>Outcomes</h3>
-                          <ul>
-                            {coe.outcomes.map((item, idx) => (
-                              <li key={idx}>{item}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      )}
-                    </div>
-
-                    <div className="coe-image-column">
-                      <img
-                        src={coe.image}
-                        alt={coe.title}
-                        className="coe-detail-image"
-                      />
+          {/* Right panel: Orbiting Hexagons */}
+          <div className="coe-hero-hexagons">
+            <div className="coe-orbit-container">
+              
+              <div className="coe-hexagon-wrapper top">
+                <div className="coe-hexagon">
+                  <div className="coe-hexagon-border">
+                    <div className="coe-hexagon-content">
+                      <span className="coe-hex-icon">💡</span>
+                      <span className="coe-hex-label">INNOVATE</span>
                     </div>
                   </div>
                 </div>
-              )}
+              </div>
+              
+              <div className="coe-hexagon-wrapper right">
+                <div className="coe-hexagon">
+                  <div className="coe-hexagon-border">
+                    <div className="coe-hexagon-content">
+                      <span className="coe-hex-icon">👥</span>
+                      <span className="coe-hex-label">COLLABORATE</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div className="coe-hexagon-wrapper bottom">
+                <div className="coe-hexagon">
+                  <div className="coe-hexagon-border">
+                    <div className="coe-hexagon-content">
+                      <span className="coe-hex-icon">📈</span>
+                      <span className="coe-hex-label">EXCEL</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="coe-hexagon-wrapper left">
+                <div className="coe-hexagon">
+                  <div className="coe-hexagon-border">
+                    <div className="coe-hexagon-content">
+                      <span className="coe-hex-icon">🔬</span>
+                      <span className="coe-hex-label">RESEARCH</span> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+
             </div>
-          ))}
+          </div>
         </div>
       </div>
+
+      {/* ===== INTRO SECTION ===== */}
+      <div className="coe-intro">
+        <div className="coe-intro-container">
+          <div className="coe-intro-card">
+            
+            {/* Left side: Text content */}
+            <div className="coe-intro-text-section">
+              <div className="coe-intro-badge">
+                <div className="coe-intro-badge-icon-wrap">
+                  <span className="coe-intro-badge-icon">💬</span>
+                </div>
+                <span className="coe-intro-badge-text">ABOUT OUR CENTRES OF EXCELLENCE</span>
+              </div>
+              
+              <div className="coe-intro-paragraphs">
+                <p>
+                  <span className="coe-dropcap">K</span>ongu Engineering College establishes Center of Excellence (CoE) to enhance the skills and knowledge of students and faculty in various emerging technologies. The CoEs are equipped with state-of-the-art infrastructure and facilities relevant to the specific field of study, includes advanced laboratories, specialized equipments, software, and other resources necessary for hands-on learning and practical applications. Students have the opportunity to gain practical experience and hands-on training, preparing them for real-world challenges in their core industry. It also engages students and faculty in industry-relevant projects and provides practical exposure and helps to bridge the gap between academic knowledge and industry requirements.
+                </p>
+                <p>
+                  It serves as hubs for continuous learning and knowledge upgradation. Regular workshops, seminars, and training sessions conducted within the CoE, help the students and faculty to have the insight on latest developments in their field and plays a role in promoting research and innovation within a specific domain.
+                </p>
+              </div>
+            </div>
+
+            {/* Right side: Flushed Image */}
+            <div className="coe-intro-image-section">
+              <img
+                src="/assets/images/Laboratories/It/ssw_lab.webp"
+                alt="SSW Laboratory"
+                className="coe-intro-card-img"
+              />
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      {/* ===== MAIN BODY: ACCORDION + DETAIL ===== */}
+      <div className="coe-body">
+        {/* LEFT: Accordion List */}
+        <div className="coe-accordion-panel">
+          <div className="coe-accordion-header-block">
+            <h2 className="coe-accordion-heading">Our Centres of Excellence</h2>
+            <p className="coe-accordion-subtext">{coeData.length} Centres across departments</p>
+          </div>
+          <div className="coe-accordion-list">
+            {coeData.map((coe, index) => {
+              const isSelected = selectedIndex === index;
+              return (
+                <div key={index} className="coe-accordion-group">
+                  <button
+                    className={`coe-accordion-item ${isSelected ? "coe-accordion-item--active" : ""}`}
+                    onClick={() => handleClick(index)}
+                  >
+                    <span className="coe-accordion-item-title">{coe.title}</span>
+                    <span className="coe-accordion-chevron">
+                      {isSelected ? "▲" : "▼"}
+                    </span>
+                  </button>
+                  {isSelected && (
+                    <div className="coe-mobile-detail">
+                      <div className="coe-detail-body">
+                        <div className="coe-detail-content">
+                          {coe.content && (
+                            <div className="coe-detail-section">
+                              <h3>About the Centre</h3>
+                              {coe.content.map((item, idx) => (
+                                <p key={idx}>{item}</p>
+                              ))}
+                            </div>
+                          )}
+
+                          {coe.features && (
+                            <div className="coe-detail-section">
+                              <h3>Features</h3>
+                              <ul>
+                                {coe.features.map((item, idx) => (
+                                  <li key={idx}>{item}</li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
+
+                          {coe.objectives && (
+                            <div className="coe-detail-section">
+                              <h3>Objectives</h3>
+                              <ul>
+                                {coe.objectives.map((item, idx) => (
+                                  <li key={idx}>{item}</li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
+
+                          {coe.outcomes && (
+                            <div className="coe-detail-section">
+                              <h3>Outcomes</h3>
+                              <ul>
+                                {coe.outcomes.map((item, idx) => (
+                                  <li key={idx}>{item}</li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
+                        </div>
+
+                        <div className="coe-detail-image-wrap">
+                          <img
+                            src={coe.image}
+                            alt={coe.title}
+                            className="coe-detail-img"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* RIGHT: Detail Panel */}
+        <div className="coe-detail-panel">
+          {selected ? (
+            <div className="coe-detail-card" key={selectedIndex}>
+              <div className="coe-detail-top-bar">
+                <span className="coe-detail-top-icon">⚡</span>
+                <span className="coe-detail-top-title">{selected.title}</span>
+              </div>
+
+              <div className="coe-detail-body">
+                {/* Top: image */}
+                <div className="coe-detail-image-wrap">
+                  <img
+                    src={selected.image}
+                    alt={selected.title}
+                    className="coe-detail-img"
+                  />
+                </div>
+
+                {/* Bottom: content */}
+                <div className="coe-detail-content">
+                  {selected.content && (
+                    <div className="coe-detail-section">
+                      <h3>About the Centre</h3>
+                      {selected.content.map((item, idx) => (
+                        <p key={idx}>{item}</p>
+                      ))}
+                    </div>
+                  )}
+
+                  {selected.features && (
+                    <div className="coe-detail-section">
+                      <h3>Features</h3>
+                      <ul>
+                        {selected.features.map((item, idx) => (
+                          <li key={idx}>{item}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {selected.objectives && (
+                    <div className="coe-detail-section">
+                      <h3>Objectives</h3>
+                      <ul>
+                        {selected.objectives.map((item, idx) => (
+                          <li key={idx}>{item}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {selected.outcomes && (
+                    <div className="coe-detail-section">
+                      <h3>Outcomes</h3>
+                      <ul>
+                        {selected.outcomes.map((item, idx) => (
+                          <li key={idx}>{item}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          ) : (
+            <div className="coe-detail-empty">
+              <div className="coe-detail-empty-icon">🏆</div>
+              <p>Select a Centre of Excellence from the list to view details.</p>
+            </div>
+          )}
+        </div>
+      </div>
+
       <Footer />
     </>
   );

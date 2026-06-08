@@ -38,7 +38,7 @@ const CampusLife = () => {
 
     useEffect(() => {
         AOS.init({ duration: 1000, once: true });
-        const timer = setTimeout(() => setLoading(false), 800);
+        const timer = setTimeout(() => setLoading(false), 1800);
         return () => clearTimeout(timer);
     }, []);
 
