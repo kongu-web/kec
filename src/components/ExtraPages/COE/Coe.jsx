@@ -284,7 +284,7 @@ const Coe = () => {
           <div className="coe-description">
             <div className="coe-text">
               <p>
-                Kongu Engineering College establishes Center of Excellence (CoE)
+                Kongu Engineering College establishes Centre of Excellence (CoE)
                 to enhance the skills and knowledge of students and faculty in
                 various emerging technologies. The CoEs are equipped with
                 state-of-the-art infrastructure and facilities relevant to the

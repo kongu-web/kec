@@ -18,7 +18,7 @@ export default function InnovationSection() {
           <div className="icon-box purple">💡</div>
           <h3>Centre of Excellence</h3>
           <p>
-            15+ specialized research centers focusing on AI, IoT, Robotics,
+            15+ specialized research centres focusing on AI, IoT, Robotics,
             Renewable Energy, and Advanced Manufacturing
           </p>
           <ul>
@@ -28,7 +28,7 @@ export default function InnovationSection() {
             <li>Clean Energy Research</li>
           </ul>
           <Link to="/coe" className="btn purple">
-            Explore Centers
+            Explore Centres
           </Link>
         </div>
 
