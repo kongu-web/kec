@@ -45,7 +45,7 @@ const Achievements = () => {
   const [category, setCategory] = useState("faculty"); // 'faculty' | 'student'
 
   useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 1500);
+    const timer = setTimeout(() => setLoading(false), 1800);
     return () => clearTimeout(timer);
   }, []);
 

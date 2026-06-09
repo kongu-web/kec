@@ -2,15 +2,18 @@ import React, { useEffect, useState } from 'react';
 import './Preloader.css';
 import loaderGif from '../../assets/gif/Five_Dots_Loading_combined_colors.gif';
 
-const Preloader = () => {
+const Preloader = ({ onComplete }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false);
+      if (onComplete) {
+        onComplete();
+      }
     }, 2800);
     return () => clearTimeout(timer);
-  }, []);
+  }, [onComplete]);
 
   const renderStaggeredText = (text, startDelay = 0) => {
     return text.split('').map((char, index) => (
