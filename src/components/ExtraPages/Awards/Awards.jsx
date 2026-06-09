@@ -30,7 +30,7 @@ const Awards = () => {
       files.sort((a, b) => b.original.localeCompare(a.original));
 
       setPdfs(files);
-      setLoading(false);
+      setTimeout(() => setLoading(false), 1800);
     };
 
     fetchPDFs();

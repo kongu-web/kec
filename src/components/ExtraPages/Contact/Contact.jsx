@@ -1,22 +1,12 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./Contact.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 import Contactimg from "../../../assets/images/aboutkec.webp";
-import Spinner from "../../Spinner";
 import { FaPhoneAlt, FaEnvelope, FaFax, FaMapMarkerAlt, FaGlobe, FaClock, FaUniversity, FaUserGraduate, FaHandshake, FaUserShield, FaBuilding, FaBus, FaTrain, FaPlane } from "react-icons/fa";
 import { MdOutlineAssignmentInd, MdAdminPanelSettings } from "react-icons/md";
 
 const Contact = () => {
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 800);
-    return () => clearTimeout(timer);
-  }, []);
-
-  if (loading) return <Spinner />;
-
   return (
     <>
       <Navbar />

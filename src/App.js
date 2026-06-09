@@ -152,13 +152,8 @@ import Nominie from './components/Common/NCC/Nominie.jsx';
 const App = () => {
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 1500);
-    return () => clearTimeout(timer);
-  }, []);
-
   return loading ? (
-    <Preloader />
+    <Preloader onComplete={() => setLoading(false)} />
   ) : (
     <AuthProvider>
       <Router>
