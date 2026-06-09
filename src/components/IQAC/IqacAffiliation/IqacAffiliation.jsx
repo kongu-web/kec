@@ -62,8 +62,6 @@ const IqacAffiliation = () => {
                             <thead>
                                 <tr>
                                     <th style={{ width: '10%' }} className="text-center">Sl.No.</th>
-
-                                    
                                     <th style={{ width: '90%' }} className="text-left">Particulars</th>
                                 </tr>
                             </thead>
