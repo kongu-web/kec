@@ -14,7 +14,7 @@ import kecundertaking from "../../../assets/docs/Footer/Undertaking/undertaking2
 import professional_socieites_2025 from "../../../assets/docs/Footer/KecProfessionalSocieties/professional_socieites_2025.pdf";
 import excessfee from "../../../assets/docs/Footer/ExcessFeeCommittee/excess_fee_committee.pdf";
 
-import pmsss from "../../../assets/docs/Footer/PMSSScholarship/pmsss.pdf";
+import pmsss from "../../../assets/docs/Footer/PMSSScholarship/pmsss2026.pdf";
 import selfdeclaration from "../../../assets/docs/Footer/SelfDeclaration/kec_selfdeclaration.pdf";
 import fulltimephd from "../../../assets/docs/Footer/FulltimePHD/fulltime_phd.pdf";
 import rti from "../../../assets/docs/Footer/RTI/kec_rti.pdf";
