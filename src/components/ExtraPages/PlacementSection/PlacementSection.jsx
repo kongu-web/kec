@@ -274,7 +274,7 @@ const PlacementSection = () => {
                   <p>
                     <strong>Dr.N.Shanthi</strong>
                     <br />
-                    Training Officer
+                    Dean - Training & Skill Enhancement
                     <br />
                     Mobile: <a href="tel:9842013355">9842013355</a>
                     <br />
