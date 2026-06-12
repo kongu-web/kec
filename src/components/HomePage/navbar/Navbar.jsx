@@ -644,10 +644,21 @@ const Navbar = () => {
         document.body.style.paddingTop = `${headerHeight}px`;
       }
     };
-    // Set padding after a short delay to ensure images are loaded
+    
+    // Set padding initially
+    setPadding();
+    
+    // Set padding after images/DOM nodes are loaded and settled
     const timer = setTimeout(setPadding, 100);
+    const timer2 = setTimeout(setPadding, 500);
+    
+    // Listen for window resize to adjust dynamically
+    window.addEventListener("resize", setPadding);
+    
     return () => {
       clearTimeout(timer);
+      clearTimeout(timer2);
+      window.removeEventListener("resize", setPadding);
       document.body.style.paddingTop = "0"; // Cleanup on unmount
     };
   }, []);
@@ -790,13 +801,13 @@ const Navbar = () => {
             <a href="/onlinepayment">Online Payment</a>
             <a href="/contact" onClick={(e) => { e.preventDefault(); navigate("/contact"); }}>Contact</a>
             
-            {/* <button 
+            <button 
               className="utility-search-trigger-btn"
               onClick={() => setSearchDrawerOpen(true)}
               title="Search KEC"
             >
               <FontAwesomeIcon icon={faSearch} />
-            </button> */}
+            </button>
           </div>
         </div>
         {/* ================= EXISTING NAVBAR ================= */}
@@ -1203,6 +1214,11 @@ const Navbar = () => {
                     Student Centric Activities
                   </span>
 
+                  <span onClick={() => navigate("/coe")}>
+                    <GeneralIcon className="submenu-icon" />
+                    Centre of Excellence
+                  </span>
+
                   <span onClick={() => navigate("/clubs/ncc")}>
                     <GeneralIcon className="submenu-icon" />
                     NCC
@@ -1291,7 +1307,7 @@ const Navbar = () => {
                   Enquiry Now
                 </button> */}
 
-                {/* <div 
+                <div 
                   className="mobile-search-trigger" 
                   onClick={() => { 
                     setSearchDrawerOpen(true); 
@@ -1300,7 +1316,7 @@ const Navbar = () => {
                 >
                   <FontAwesomeIcon icon={faSearch} />
                   <span>Search...</span>
-                </div> */}
+                </div>
 
                 <a
                   href="/admission"
@@ -1530,6 +1546,7 @@ const Navbar = () => {
                     <li onClick={() => window.open("https://cpf-frontend.onrender.com/", "_blank")}>SCC (Student Counselling Cell - Portal)</li>
 
                     <li onClick={() => navigate("/student-centric-activities")}>Student Centric Activities</li>
+                    <li onClick={() => { navigate("/coe"); setMobileMenu(false); }}>Centre of Excellence</li>
                     <li onClick={() => navigate("/clubs/ncc")}>NCC</li>
                     <li onClick={() => navigate("/clubs/nss")}>NSS</li>
 
