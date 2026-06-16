@@ -1,8 +1,10 @@
 import os
 import json
+import urllib.parse
 
-base_dir = r"d:\kongu\kec\public\files\iqac"
-output_file = r"d:\kongu\kec\src\components\IQAC\iqacData.js"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.join(script_dir, "public", "files", "iqac")
+output_file = os.path.join(script_dir, "src", "components", "IQAC", "iqacData.js")
 
 data = {
     "circulars": {"recent": [], "archived": []},
@@ -29,7 +31,8 @@ def get_files_with_paths(directory):
             # Path relative to public folder
             # d:\kongu\kec\public\files\iqac\... -> /files/iqac/...
             full_path = os.path.join(directory, f)
-            rel_path = "/files/iqac" + full_path.split("files\\iqac")[-1].replace("\\", "/")
+            raw_path = "/files/iqac" + full_path.split("files\\iqac")[-1].replace("\\", "/")
+            rel_path = urllib.parse.quote(raw_path, safe="/")
             file_list.append({"name": f, "path": rel_path})
     # Sort files by name reverse usually for years
     file_list.sort(key=lambda x: x['name'], reverse=True)
@@ -58,13 +61,13 @@ data['affiliation']['aicte']['mca'] = get_files_with_paths(os.path.join(aff_dir,
 
 # Circulars (Hardcoded logic or scan Assets)
 # Circulars were copied to assets/iqac/circulars
-circular_dir = r"d:\kongu\kec\public\assets\iqac\circulars"
+circular_dir = os.path.join(script_dir, "public", "assets", "iqac", "circulars")
 if os.path.exists(circular_dir):
     data['circulars']['recent'] = []
     for f in os.listdir(circular_dir):
          if f.lower().endswith('.pdf'):
              full_path = os.path.join(circular_dir, f)
-             rel_path = "/assets/iqac/circulars/" + f
+             rel_path = "/assets/iqac/circulars/" + urllib.parse.quote(f)
              data['circulars']['recent'].append({"name": f, "path": rel_path, "date": "2026-01-21"}) # Dummy date
     
     archive_dir = os.path.join(circular_dir, "archive")
@@ -72,7 +75,7 @@ if os.path.exists(circular_dir):
         for f in os.listdir(archive_dir):
              if f.lower().endswith('.pdf'):
                  full_path = os.path.join(archive_dir, f)
-                 rel_path = "/assets/iqac/circulars/archive/" + f
+                 rel_path = "/assets/iqac/circulars/archive/" + urllib.parse.quote(f)
                  data['circulars']['archived'].append({"name": f, "path": rel_path, "date": "2024-01-01"})
 
 # Generate JS content
