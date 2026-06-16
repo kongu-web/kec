@@ -1,194 +1,94 @@
 export const iqacData = {
-    "circulars": {
-        "recent": [
-            {
-                "name": "Circular 202 SAR Verification Audit.pdf",
-                "path": "/assets/iqac/circulars/Circular%20202%20SAR%20Verification%20Audit.pdf",
-                "date": "2026-01-21"
-            }
+    "naac": {
+        "certificates": [
+            { "name": "Certificate-Cycle-2 2022.pdf", "path": "/files/iqac/naac/NAAC%20Certificate/Certificate-Cycle-2%202022.pdf" },
+            { "name": "Certificate Cycle-1 2016.pdf", "path": "/files/iqac/naac/NAAC%20Certificate/Certificate%20Cycle-1%202016.pdf" }
         ],
-        "archived": [
-            {
-                "name": "ISO Surveillance audit schedule-19_04_2025.pdf",
-                "path": "/assets/iqac/circulars/archive/ISO%20Surveillance%20audit%20schedule-19_04_2025.pdf",
-                "date": "2024-01-01"
-            },
-            {
-                "name": "NBA Compliance Report 13.11.2024.pdf",
-                "path": "/assets/iqac/circulars/archive/NBA%20Compliance%20Report%2013.11.2024.pdf",
-                "date": "2024-01-01"
-            },
-            {
-                "name": "NBA for Mca,Mba-13.11.2024.pdf",
-                "path": "/assets/iqac/circulars/archive/NBA%20for%20Mca%2CMba-13.11.2024.pdf",
-                "date": "2024-01-01"
-            }
+        "ssr": [
+            { "name": "Cycle 2.pdf", "path": "/files/iqac/naac/NAAC%20SSR/Cycle%202.pdf" }
+        ],
+        "aqar": [
+            { "name": "2023-2024.pdf", "path": "/files/iqac/naac/AQAR/2023-2024.pdf" },
+            { "name": "2022-2023.pdf", "path": "/files/iqac/naac/AQAR/2022-2023.pdf" },
+            { "name": "2021-2022.pdf", "path": "/files/iqac/naac/AQAR/2021-2022.pdf" },
+            { "name": "2020-2021.pdf", "path": "/files/iqac/naac/AQAR/2020-2021.pdf" },
+            { "name": "2019-2020.pdf", "path": "/files/iqac/naac/AQAR/2019-2020.pdf" },
+            { "name": "2018-2019.pdf", "path": "/files/iqac/naac/AQAR/2018-2019.pdf" },
+            { "name": "2017-2018.pdf", "path": "/files/iqac/naac/AQAR/2017-2018.pdf" },
+            { "name": "2016-2017.pdf", "path": "/files/iqac/naac/AQAR/2016-2017.pdf" },
+            { "name": "2015-2016.pdf", "path": "/files/iqac/naac/AQAR/2015-2016.pdf" }
         ]
     },
     "iso": [
-        {
-            "name": "Cycle 2 Certificate 10.03.2023.pdf",
-            "path": "/files/iqac/ISO/Cycle%202%20Certificate%2010.03.2023.pdf"
-        },
-        {
-            "name": "Cycle 1 Certificate 05.03.2020.pdf",
-            "path": "/files/iqac/ISO/Cycle%201%20Certificate%2005.03.2020.pdf"
-        }
+        { "name": "Cycle 2 Certificate 10.03.2023.pdf", "path": "/files/iqac/ISO/Cycle%202%20Certificate%2010.03.2023.pdf" },
+        { "name": "Cycle 1 Certificate 05.03.2020.pdf", "path": "/files/iqac/ISO/Cycle%201%20Certificate%2005.03.2020.pdf" }
     ],
-    "meetings": [
-        {
-            "name": "2023-2024.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2023-2024.pdf"
-        },
-        {
-            "name": "2021-2022.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2021-2022.pdf"
-        },
-        {
-            "name": "2020-2021.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2020-2021.pdf"
-        },
-        {
-            "name": "2019-2020.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2019-2020.pdf"
-        },
-        {
-            "name": "2018-2019.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2018-2019.pdf"
-        },
-        {
-            "name": "2017-2018.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2017-2018.pdf"
-        },
-        {
-            "name": "2016-2017.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2016-2017.pdf"
-        },
-        {
-            "name": "2015-2016.pdf",
-            "path": "/files/iqac/Meeting%20%26%20Minutes/2015-2016.pdf"
-        }
-    ],
-    "audit": {
-        "reports": [
-            {
-                "name": "2021-2022 Report.pdf",
-                "path": "/files/iqac/Audit%20details/reports/2021-2022%20Report.pdf"
-            },
-            {
-                "name": "2020-2021 Report.pdf",
-                "path": "/files/iqac/Audit%20details/reports/2020-2021%20Report.pdf"
-            },
-            {
-                "name": "2019-2020 Report.pdf",
-                "path": "/files/iqac/Audit%20details/reports/2019-2020%20Report.pdf"
-            },
-            {
-                "name": "2018-2019 Report.pdf",
-                "path": "/files/iqac/Audit%20details/reports/2018-2019%20Report.pdf"
-            },
-            {
-                "name": "2017-2018 Report.pdf",
-                "path": "/files/iqac/Audit%20details/reports/2017-2018%20Report.pdf"
-            }
-        ],
-        "actionTaken": [
-            {
-                "name": "2021-2022 Action Taken Report.pdf",
-                "path": "/files/iqac/Audit%20details/action%20taken%20reports/2021-2022%20Action%20Taken%20Report.pdf"
-            },
-            {
-                "name": "2020-2021 Action Taken Report.pdf",
-                "path": "/files/iqac/Audit%20details/action%20taken%20reports/2020-2021%20Action%20Taken%20Report.pdf"
-            },
-            {
-                "name": "2019-2020 Audit ActionReport.pdf",
-                "path": "/files/iqac/Audit%20details/action%20taken%20reports/2019-2020%20Audit%20ActionReport.pdf"
-            },
-            {
-                "name": "2018-2019 Action Taken Report.pdf",
-                "path": "/files/iqac/Audit%20details/action%20taken%20reports/2018-2019%20Action%20Taken%20Report.pdf"
-            },
-            {
-                "name": "2017-2018 Action Taken Report.pdf",
-                "path": "/files/iqac/Audit%20details/action%20taken%20reports/2017-2018%20Action%20Taken%20Report.pdf"
-            }
-        ],
-        "files": [
-            {
-                "name": "2024-25 Audit Report.pdf",
-                "path": "/files/iqac/Audit%20details/2024-25%20Audit%20Report.pdf"
-            },
-            {
-                "name": "2023-2024 Report & Action Taken.pdf",
-                "path": "/files/iqac/Audit%20details/2023-2024%20Report%20%26%20Action%20Taken.pdf"
-            },
-            {
-                "name": "2022-2023 Report & Action Taken Report.pdf",
-                "path": "/files/iqac/Audit%20details/2022-2023%20Report%20%26%20Action%20Taken%20Report.pdf"
-            }
-        ]
-    },
     "strategic": [
-        {
-            "name": "2020-2025.pdf",
-            "path": "/files/iqac/Strategic%20Plan/2020-2025.pdf"
-        },
-        {
-            "name": "2015-2020.pdf",
-            "path": "/files/iqac/Strategic%20Plan/2015-2020.pdf"
-        }
+        { "name": "2020-2025.pdf", "path": "/files/iqac/Strategic%20Plan/2020-2025.pdf" },
+        { "name": "2015-2020.pdf", "path": "/files/iqac/Strategic%20Plan/2015-2020.pdf" }
     ],
     "bestPractices": [
-        {
-            "name": "Best Practices II.pdf",
-            "path": "/files/iqac/Best%20Practices/Best%20Practices%20II.pdf"
-        },
-        {
-            "name": "Best Practices I.pdf",
-            "path": "/files/iqac/Best%20Practices/Best%20Practices%20I.pdf"
-        }
+        { "name": "Best Practices II.pdf", "path": "/files/iqac/Best%20Practices/Best%20Practices%20II.pdf" },
+        { "name": "Best Practices I.pdf", "path": "/files/iqac/Best%20Practices/Best%20Practices%20I.pdf" }
     ],
     "annualReport": [
+        { "name": "2024-2025.pdf", "path": "/files/iqac/Annual%20Reports/2024-2025.pdf" },
+        { "name": "2023-2024.pdf", "path": "/files/iqac/Annual%20Reports/2023-2024.pdf" },
+        { "name": "2022-2023.pdf", "path": "/files/iqac/Annual%20Reports/2022-2023.pdf" },
+        { "name": "2021-2022.pdf", "path": "/files/iqac/Annual%20Reports/2021-2022.pdf" },
+        { "name": "2020-2021.pdf", "path": "/files/iqac/Annual%20Reports/2020-2021.pdf" },
+        { "name": "2019-2020.pdf", "path": "/files/iqac/Annual%20Reports/2019-2020.pdf" },
+        { "name": "2018-2019.pdf", "path": "/files/iqac/Annual%20Reports/2018-2019.pdf" },
+        { "name": "2017-2018.pdf", "path": "/files/iqac/Annual%20Reports/2017-2018.pdf" },
+        { "name": "2016-2017.pdf", "path": "/files/iqac/Annual%20Reports/2016-2017.pdf" },
+        { "name": "2015-2016.pdf", "path": "/files/iqac/Annual%20Reports/2015-2016.pdf" }
+    ],
+    "meetings": [
+        { "name": "2023-2024.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2023-2024.pdf" },
+        { "name": "2021-2022.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2021-2022.pdf" },
+        { "name": "2020-2021.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2020-2021.pdf" },
+        { "name": "2019-2020.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2019-2020.pdf" },
+        { "name": "2018-2019.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2018-2019.pdf" },
+        { "name": "2017-2018.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2017-2018.pdf" },
+        { "name": "2016-2017.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2016-2017.pdf" },
+        { "name": "2015-2016.pdf", "path": "/files/iqac/Meeting%20%26%20Minutes/2015-2016.pdf" }
+    ],
+    "audit": {
+        "files": [
+            { "name": "2024-2025 Report & Action Taken.pdf", "path": "/files/iqac/Audit%20details/2024-25%20Audit%20Report.pdf" },
+            { "name": "2023-2024 Report & Action Taken.pdf", "path": "/files/iqac/Audit%20details/2023-2024%20Report%20%26%20Action%20Taken.pdf" },
+            { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit%20details/2022-2023%20Report%20%26%20Action%20Taken%20Report.pdf" }
+        ],
+        "reports": [
+            { "name": "2021-2022 Report.pdf", "path": "/files/iqac/Audit%20details/reports/2021-2022%20Report.pdf" },
+            { "name": "2020-2021 Report.pdf", "path": "/files/iqac/Audit%20details/reports/2020-2021%20Report.pdf" },
+            { "name": "2019-2020 Report.pdf", "path": "/files/iqac/Audit%20details/reports/2019-2020%20Report.pdf" },
+            { "name": "2018-2019 Report.pdf", "path": "/files/iqac/Audit%20details/reports/2018-2019%20Report.pdf" },
+            { "name": "2017-2018 Report.pdf", "path": "/files/iqac/Audit%20details/reports/2017-2018%20Report.pdf" }
+        ],
+        "actionTaken": [
+            { "name": "2021-2022 Action Taken Report.pdf", "path": "/files/iqac/Audit%20details/action%20taken%20reports/2021-2022%20Action%20Taken%20Report.pdf" },
+            { "name": "2020-2021 Action Taken Report.pdf", "path": "/files/iqac/Audit%20details/action%20taken%20reports/2020-2021%20Action%20Taken%20Report.pdf" },
+            { "name": "2019-2020 Audit ActionReport.pdf", "path": "/files/iqac/Audit%20details/action%20taken%20reports/2019-2020%20Audit%20ActionReport.pdf" },
+            { "name": "2018-2019 Action Taken Report.pdf", "path": "/files/iqac/Audit%20details/action%20taken%20reports/2018-2019%20Action%20Taken%20Report.pdf" },
+            { "name": "2017-2018 Action Taken Report.pdf", "path": "/files/iqac/Audit%20details/action%20taken%20reports/2017-2018%20Action%20Taken%20Report.pdf" }
+        ]
+    },
+    "composition": [
+        { "name": "2023.pdf", "path": "/files/iqac/Formation%20of%20IQAC/2023.pdf" },
+        { "name": "2022.pdf", "path": "/files/iqac/Formation%20of%20IQAC/2022.pdf" },
+        { "name": "2020.pdf", "path": "/files/iqac/Formation%20of%20IQAC/2020.pdf" },
+        { "name": "2017.pdf", "path": "/files/iqac/Formation%20of%20IQAC/2017.pdf" },
+        { "name": "2015.pdf", "path": "/files/iqac/Formation%20of%20IQAC/2015.pdf" }
+    ],
+    "gallery": [
         {
-            "name": "2024-2025.pdf",
-            "path": "/files/iqac/Annual%20Reports/2024-2025.pdf"
+            "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/WhatsApp%20Image%202025-02-04%20at%209.34.02%20AM.jpeg",
+            "alt": "ISO 9001-2015 surveillance audit 1"
         },
         {
-            "name": "2023-2024.pdf",
-            "path": "/files/iqac/Annual%20Reports/2023-2024.pdf"
-        },
-        {
-            "name": "2022-2023.pdf",
-            "path": "/files/iqac/Annual%20Reports/2022-2023.pdf"
-        },
-        {
-            "name": "2021-2022.pdf",
-            "path": "/files/iqac/Annual%20Reports/2021-2022.pdf"
-        },
-        {
-            "name": "2020-2021.pdf",
-            "path": "/files/iqac/Annual%20Reports/2020-2021.pdf"
-        },
-        {
-            "name": "2019-2020.pdf",
-            "path": "/files/iqac/Annual%20Reports/2019-2020.pdf"
-        },
-        {
-            "name": "2018-2019.pdf",
-            "path": "/files/iqac/Annual%20Reports/2018-2019.pdf"
-        },
-        {
-            "name": "2017-2018.pdf",
-            "path": "/files/iqac/Annual%20Reports/2017-2018.pdf"
-        },
-        {
-            "name": "2016-2017.pdf",
-            "path": "/files/iqac/Annual%20Reports/2016-2017.pdf"
-        },
-        {
-            "name": "2015-2016.pdf",
-            "path": "/files/iqac/Annual%20Reports/2015-2016.pdf"
+            "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/WhatsApp%20Image%202025-02-04%20at%209.34.04%20AM%20(1).jpeg",
+            "alt": "ISO 9001-2015 surveillance audit 2"
         }
     ],
     "affiliation": {
@@ -208,74 +108,6 @@ export const iqacData = {
         ],
         "au": [
             {
-                "name": "p7.Renaming_Mechatronics Engineering.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/p7.Renaming_Mechatronics%20Engineering.pdf"
-            },
-            {
-                "name": "P8..20Permanent.20Affiliation.20M.Tech.20Food.20Tech.20.202020-2021.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P8..20Permanent.20Affiliation.20M.Tech.20Food.20Tech.20.202020-2021.pdf"
-            },
-            {
-                "name": "P8. Permanent Affiliation M.Tech Food Tech  2020-2021.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P8.%20Permanent%20Affiliation%20M.Tech%20Food%20Tech%20%202020-2021.pdf"
-            },
-            {
-                "name": "P7..20Permanent.20Affiliation.20ME.20Structural.20and.20ME.20Embedded.202019-2020.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P7..20Permanent.20Affiliation.20ME.20Structural.20and.20ME.20Embedded.202019-2020.pdf"
-            },
-            {
-                "name": "P7. Permanent Affiliation ME Structural and ME Embedded 2019-2020.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P7.%20Permanent%20Affiliation%20ME%20Structural%20and%20ME%20Embedded%202019-2020.pdf"
-            },
-            {
-                "name": "P6..20Permanent.20affiliation.20for.20BTECH.20FT.20from.202016-2017.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P6..20Permanent.20affiliation.20for.20BTECH.20FT.20from.202016-2017.pdf"
-            },
-            {
-                "name": "P6. Permanent affiliation for BTECH FT from 2016-2017.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P6.%20Permanent%20affiliation%20for%20BTECH%20FT%20from%202016-2017.pdf"
-            },
-            {
-                "name": "P5..20Permanent.20Affiliation.20M.E..20MTS.20-.202014-15.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P5..20Permanent.20Affiliation.20M.E..20MTS.20-.202014-15.pdf"
-            },
-            {
-                "name": "P5. Permanent Affiliation M.E. MTS - 2014-15.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P5.%20Permanent%20Affiliation%20M.E.%20MTS%20-%202014-15.pdf"
-            },
-            {
-                "name": "P4..20Permanent.20Affiliation.202013-14.20-.2010.20Courses.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P4..20Permanent.20Affiliation.202013-14.20-.2010.20Courses.pdf"
-            },
-            {
-                "name": "P4. Permanent Affiliation 2013-14 - 10 Courses.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P4.%20Permanent%20Affiliation%202013-14%20-%2010%20Courses.pdf"
-            },
-            {
-                "name": "P3..20Permanent.20Affiliation.202013-2014.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P3..20Permanent.20Affiliation.202013-2014.pdf"
-            },
-            {
-                "name": "P3. Permanent Affiliation 2013-2014.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P3.%20Permanent%20Affiliation%202013-2014.pdf"
-            },
-            {
-                "name": "P2..20Permanent.20affiliation.202012-2013.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P2..20Permanent.20affiliation.202012-2013.pdf"
-            },
-            {
-                "name": "P2. Permanent affiliation 2012-2013.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P2.%20Permanent%20affiliation%202012-2013.pdf"
-            },
-            {
-                "name": "P1..20Permanent.20affiliation.202011-2012.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P1..20Permanent.20affiliation.202011-2012.pdf"
-            },
-            {
-                "name": "P1. Permanent affiliation 2011-2012.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/P1.%20Permanent%20affiliation%202011-2012.pdf"
-            },
-            {
                 "name": "9_KEC_AU_affiliation_11.09.2014.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/9_KEC_AU_affiliation_11.09.2014.pdf"
             },
@@ -292,48 +124,16 @@ export const iqacData = {
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/6_KEC_AU_affiliation_Research_Centre_23.12.2013.pdf"
             },
             {
-                "name": "6..20AU.20affiliation.202016-2017.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/6..20AU.20affiliation.202016-2017.pdf"
-            },
-            {
-                "name": "6. AU affiliation 2016-2017.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/6.%20AU%20affiliation%202016-2017.pdf"
-            },
-            {
                 "name": "5_KEC_AU_affiliation_15.05.2013.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/5_KEC_AU_affiliation_15.05.2013.pdf"
-            },
-            {
-                "name": "5..20AU.20Affiliation.202015-2016.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/5..20AU.20Affiliation.202015-2016.pdf"
-            },
-            {
-                "name": "5. AU Affiliation 2015-2016.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/5.%20AU%20Affiliation%202015-2016.pdf"
             },
             {
                 "name": "4_KEC_AU_affiliation_15.05.2013.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/4_KEC_AU_affiliation_15.05.2013.pdf"
             },
             {
-                "name": "4..20AU.20Affiliation.202014-2015.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/4..20AU.20Affiliation.202014-2015.pdf"
-            },
-            {
-                "name": "4. AU Affiliation 2014-2015.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/4.%20AU%20Affiliation%202014-2015.pdf"
-            },
-            {
                 "name": "3_KEC_AU_affiliation_ 19.09.2011.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/3_KEC_AU_affiliation_%2019.09.2011.pdf"
-            },
-            {
-                "name": "3..20AU.20Affiliation.202013-2014.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/3..20AU.20Affiliation.202013-2014.pdf"
-            },
-            {
-                "name": "3. AU Affiliation 2013-2014.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/3.%20AU%20Affiliation%202013-2014.pdf"
             },
             {
                 "name": "2_KEC_AU_affiliation_ 22.10.2008.pdf",
@@ -354,22 +154,6 @@ export const iqacData = {
             {
                 "name": "2024-2025.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2024-2025.pdf"
-            },
-            {
-                "name": "2023-2024.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2023-2024.pdf"
-            },
-            {
-                "name": "2022-2023.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2022-2023.pdf"
-            },
-            {
-                "name": "2..20AU.20Affiliation.202012-2013.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2..20AU.20Affiliation.202012-2013.pdf"
-            },
-            {
-                "name": "2. AU Affiliation 2012-2013.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2.%20AU%20Affiliation%202012-2013.pdf"
             },
             {
                 "name": "1_KEC_AU_affiliation_16.04.2008.pdf",
@@ -414,14 +198,6 @@ export const iqacData = {
             {
                 "name": "10_KEC_AU_affiliation_10.11.2014.pdf",
                 "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/10_KEC_AU_affiliation_10.11.2014.pdf"
-            },
-            {
-                "name": "1..20AUT.20affiliation.202011-2012.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/1..20AUT.20affiliation.202011-2012.pdf"
-            },
-            {
-                "name": "1. AUT affiliation 2011-2012.pdf",
-                "path": "/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/1.%20AUT%20affiliation%202011-2012.pdf"
             }
         ],
         "aicte": {
@@ -443,20 +219,8 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/6.E%26T-006-1996-97%20increase%20in%20intake%20OF%20CSE%2030%20to%2060%2007.06.1995.pdf"
                 },
                 {
-                    "name": "50.AICTE_Approval_2025_26.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/50.AICTE_Approval_2025_26.pdf"
-                },
-                {
                     "name": "5.E&T-005-1995-97 ext OF APPROVAL 05.06.1995.pdf",
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/5.E%26T-005-1995-97%20ext%20OF%20APPROVAL%2005.06.1995.pdf"
-                },
-                {
-                    "name": "49.AICTE_Approval_2024_27.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/49.AICTE_Approval_2024_27.pdf"
-                },
-                {
-                    "name": "48.AICTE_Approval_2025_26.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/48.AICTE_Approval_2025_26.pdf"
                 },
                 {
                     "name": "47.AICTE_Approval_2024_25.pdf",
@@ -479,8 +243,8 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/43.AICTE_Approval_2020-21.pdf"
                 },
                 {
-                    "name": "42.E&T-042 -2019-2020 EOA 04.05.2019.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/42.E%26T-042%20-2019-2020%20EOA%2004.05.2019.pdf"
+                    "name": "42.E&T-042 -2019-2020 EOA 04.05.2019.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/42.E%26T-042%20-2019-2020%20EOA%2004.05.2019.PDF"
                 },
                 {
                     "name": "41.E&T-041 -2018-2019 EOA Corrigendum 4.7.2018 for mechatronics engineering instead MECHATRONICS.pdf",
@@ -499,20 +263,20 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/39.E%26T-039-%202016-2017%20EOA%2025.4.2016.pdf"
                 },
                 {
-                    "name": "38.E&T-38-2015-16 BTECH Autonomobile EOA 07.04.20152015.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/38.E%26T-38-2015-16%20BTECH%20Autonomobile%20EOA%2007.04.20152015.pdf"
+                    "name": "38.E&T-38-2015-16 BTECH Autonomobile EOA 07.04.20152015.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/38.E%26T-38-2015-16%20BTECH%20Autonomobile%20EOA%2007.04.20152015.PDF"
                 },
                 {
-                    "name": "37.E&T-037-2014-2015 EOA 2014.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/37.E%26T-037-2014-2015%20EOA%202014.pdf"
+                    "name": "37.E&T-037-2014-2015 EOA 2014.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/37.E%26T-037-2014-2015%20EOA%202014.PDF"
                 },
                 {
-                    "name": "36.E&T-036-2013-2014 EOA AND INC. IN INTAKE CIVIL 120 to240 chem 60 to120 NEW MTECH FT & IT (CW) 19.03.2013.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/36.E%26T-036-2013-2014%20EOA%20AND%20INC.%20IN%20INTAKE%20CIVIL%20120%20to240%20chem%2060%20to120%20NEW%20MTECH%20FT%20%26%20IT%20%28CW%29%2019.03.2013.pdf"
+                    "name": "36.E&T-036-2013-2014 EOA AND INC. IN INTAKE CIVIL 120 to240 chem 60 to120 NEW MTECH FT & IT (CW) 19.03.2013.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/36.E%26T-036-2013-2014%20EOA%20AND%20INC.%20IN%20INTAKE%20CIVIL%20120%20to240%20chem%2060%20to120%20NEW%20MTECH%20FT%20%26%20IT%20(CW)%2019.03.2013.PDF"
                 },
                 {
-                    "name": "35.E&T-035-2012-2013 EOA AND INC IN MECH ECE CSE 180 to 240 NEW ME EMB SYS & STR ENGG 10.05.2012.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/35.E%26T-035-2012-2013%20EOA%20AND%20INC%20IN%20MECH%20ECE%20CSE%20180%20to%20240%20NEW%20ME%20EMB%20SYS%20%26%20STR%20ENGG%2010.05.2012.pdf"
+                    "name": "35.E&T-035-2012-2013 EOA AND INC IN MECH ECE CSE 180 to 240 NEW ME EMB SYS & STR ENGG 10.05.2012.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/35.E%26T-035-2012-2013%20EOA%20AND%20INC%20IN%20MECH%20ECE%20CSE%20180%20to%20240%20NEW%20ME%20EMB%20SYS%20%26%20STR%20ENGG%2010.05.2012.PDF"
                 },
                 {
                     "name": "34.E&T-034-2011-2012 EOA AND INCREASE IN INTAKE OF MECH,ECE,CSE 120 TO 180 NEW ME COMM SYS &PED 01.09.2011.pdf",
@@ -523,8 +287,8 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/33.E%26T-033-2010-2011%20EOA%20AND%20APPROVAL%20OF%20ME%20C%26I%20COMP%26%20COMM%20ENGG%2023.08.2010.pdf"
                 },
                 {
-                    "name": "32.E&T-032-2008-09-2010 INCREASE IN INTKAE OF EIE & MTS 60 TO 120, IT 90 TO 120 23.05.2008.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/32.E%26T-032-2008-09-2010%20INCREASE%20IN%20INTKAE%20OF%20EIE%20%26%20MTS%2060%20TO%20120%2C%20IT%2090%20TO%20120%2023.05.2008.pdf"
+                    "name": "32.E&T-032-2008-09-2010 INCREASE IN INTKAE OF EIE & MTS 60 TO 120, IT 90 TO 120 23.05.2008.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/32.E%26T-032-2008-09-2010%20INCREASE%20IN%20INTKAE%20OF%20EIE%20%26%20MTS%2060%20TO%20120%2C%20IT%2090%20TO%20120%2023.05.2008.PDF"
                 },
                 {
                     "name": "31.E&T-031-2008-2011 EXTENSION OF APPROVAL 27.05.2008.Pdf",
@@ -624,7 +388,7 @@ export const iqacData = {
                 },
                 {
                     "name": "1.E&T-001-1993-94 FIRST APPROVAL OF THE COLLEGE (E&T) 19.04.1993 001.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/1.E%26T-001-1993-94%20FIRST%20APPROVAL%20OF%20THE%20COLLEGE%20%28E%26T%29%2019.04.1993%20001.pdf"
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/ENG/1.E%26T-001-1993-94%20FIRST%20APPROVAL%20OF%20THE%20COLLEGE%20(E%26T)%2019.04.1993%20001.pdf"
                 }
             ],
             "mca": [
@@ -657,8 +421,8 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/3.MCA-003-1997-98%20ext%20of%20approval%201997-98%2018.06.1997.pdf"
                 },
                 {
-                    "name": "23.MCA-023-2019-2020 Extension of Approval 04.05.2019.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/23.MCA-023-2019-2020%20Extension%20of%20Approval%2004.05.2019.pdf"
+                    "name": "23.MCA-023-2019-2020 Extension of Approval 04.05.2019.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/23.MCA-023-2019-2020%20Extension%20of%20Approval%2004.05.2019.PDF"
                 },
                 {
                     "name": "22.MCA-022-2018-2019 Extension of Approval 21.04.2018.pdf",
@@ -677,20 +441,20 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/2.MCA-002-1996-97%20ext%20of%20approval%2001.07.1996.pdf"
                 },
                 {
-                    "name": "19.MCA-019-2015-2016 Extension of approval 07.06.2015.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/19.MCA-019-2015-2016%20Extension%20of%20approval%2007.06.2015.pdf"
+                    "name": "19.MCA-019-2015-2016 Extension of approval 07.06.2015.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/19.MCA-019-2015-2016%20Extension%20of%20approval%2007.06.2015.PDF"
                 },
                 {
-                    "name": "18.MCA-018-2014-2015 Extension of approval 04.06.2014.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/18.MCA-018-2014-2015%20Extension%20of%20approval%2004.06.2014.pdf"
+                    "name": "18.MCA-018-2014-2015 Extension of approval 04.06.2014.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/18.MCA-018-2014-2015%20Extension%20of%20approval%2004.06.2014.PDF"
                 },
                 {
-                    "name": "17.MCA-017-2013-2014 Extension of approval 19.03.2013.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/17.MCA-017-2013-2014%20Extension%20of%20approval%2019.03.2013.pdf"
+                    "name": "17.MCA-017-2013-2014 Extension of approval 19.03.2013.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/17.MCA-017-2013-2014%20Extension%20of%20approval%2019.03.2013.PDF"
                 },
                 {
-                    "name": "16.MCA-016-2012-2013 Extension of approval 10.05.2012.pdf",
-                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/16.MCA-016-2012-2013%20Extension%20of%20approval%2010.05.2012.pdf"
+                    "name": "16.MCA-016-2012-2013 Extension of approval 10.05.2012.PDF",
+                    "path": "/files/iqac/Affliation%20%26%20Approval/AICTE/MCA/16.MCA-016-2012-2013%20Extension%20of%20approval%2010.05.2012.PDF"
                 },
                 {
                     "name": "15.MCA-015-2011-2012 EXTENSION OF APPROVAL 01.09.2011.pdf",
@@ -722,27 +486,91 @@ export const iqacData = {
                 }
             ]
         }
-    },
-    "composition": [
-        {
-            "name": "2023.pdf",
-            "path": "/files/iqac/Formation%20of%20IQAC/2023.pdf"
-        },
-        {
-            "name": "2022.pdf",
-            "path": "/files/iqac/Formation%20of%20IQAC/2022.pdf"
-        },
-        {
-            "name": "2020.pdf",
-            "path": "/files/iqac/Formation%20of%20IQAC/2020.pdf"
-        },
-        {
-            "name": "2017.pdf",
-            "path": "/files/iqac/Formation%20of%20IQAC/2017.pdf"
-        },
-        {
-            "name": "2015.pdf",
-            "path": "/files/iqac/Formation%20of%20IQAC/2015.pdf"
-        }
-    ]
+    }
+    ,
+    "gallery": {
+        "current": [
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/AUTO-2.jpeg",
+                "alt": "Automobile Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/Chemistry-2.jpeg",
+                "alt": "Chemistry Department Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/CSE-3.jpeg",
+                "alt": "Computer Science Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/ECE%201.jpeg",
+                "alt": "Electronics & Communication Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/FT-2.jpeg",
+                "alt": "Food Technology Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/IQAC%20coordinator%20meeting.jpeg",
+                "alt": "IQAC Coordinator Meeting"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/IQAC%20coordinator%20meeting1.jpeg",
+                "alt": "IQAC Coordinator Meeting Session"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/IQAC%20coordinator%20meeting22.webp",
+                "alt": "IQAC Coordinator Meeting Review"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/IT%201.jpeg",
+                "alt": "Information Technology Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/MECH-2.jpeg",
+                "alt": "Mechanical Engineering Surveillance Audit"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/OBE%20Programe%20for%20Faculty.jpeg",
+                "alt": "OBE Programme for Faculty"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/OBE%20Programe%20for%20Faculty%20(2).jpeg",
+                "alt": "OBE Programme for Faculty Session 2"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/OBE%20Programe%20for%20Faculty%20(3).jpeg",
+                "alt": "OBE Programme for Faculty Session 3"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/OBE%20Programe%20for%20Faculty%20(4).jpeg",
+                "alt": "OBE Programme for Faculty Session 4"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/OBE%20Programe%20for%20Faculty%20(5).jpeg",
+                "alt": "OBE Programme for Faculty Session 5"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/Orientation%20Progrsme%20for%20student.jpeg",
+                "alt": "Orientation Programme for Students"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/Orientation%20Progrsme%20for%20student%20(2).jpeg",
+                "alt": "Orientation Programme for Students Session 2"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/Orientation%20Progrsme%20for%20student%20(3).jpeg",
+                "alt": "Orientation Programme for Students Session 3"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/SAR%20meeting.jpeg",
+                "alt": "SAR Meeting"
+            },
+            {
+                "src": "/assets/iqac/gallery/ISO%209001-2015%20surveillance%20audit%20(04.02.2025)/SAR%20meeting1.jpeg",
+                "alt": "SAR Meeting Session"
+            }
+        ],
+        "archived": []
+    }
 };
