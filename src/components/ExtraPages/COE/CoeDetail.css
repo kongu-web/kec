@@ -1,0 +1,320 @@
+/* ============================================================
+   CENTRE OF EXCELLENCE DETAIL PAGE
+   ============================================================ */
+
+.coe-detail-not-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  padding: 40px;
+  text-align: center;
+  background: #f8fafc;
+}
+
+.coe-detail-not-found h2 {
+  font-size: 2rem;
+  color: #1e293b;
+  margin-bottom: 15px;
+}
+
+.coe-detail-not-found p {
+  color: #64748b;
+  margin-bottom: 30px;
+}
+
+.coe-back-btn {
+  display: inline-flex;
+  align-items: center;
+  background: #1e3a8a;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.coe-back-btn:hover {
+  background: #172554;
+  transform: translateY(-2px);
+}
+
+.coed-hero {
+  position: relative;
+  width: 100%;
+  background-color: #0f172a;
+  background-image: 
+    url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2v-4h4v-2h-4zM6 34v-4h-2v4H0v2h4v4h2v-4h4v-2H6zM6 4V0h-2v4H0v2h4v4h2v-4h4v-2H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"),
+    radial-gradient(at 0% 0%, rgba(30, 58, 138, 0.8) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(59, 130, 246, 0.5) 0px, transparent 50%);
+  color: white;
+  padding: 90px 5% 35px;
+}
+
+.coed-hero-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.coed-back-link {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  padding: 0;
+  transition: color 0.3s ease;
+}
+
+.coed-back-link:hover {
+  color: #009edb;
+}
+
+.coed-hero-badge {
+  background: rgba(0, 158, 219, 0.1);
+  border: 1px solid rgba(0, 158, 219, 0.3);
+  color: #009edb;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.coed-hero-title {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.25;
+  margin: 0 0 15px 0;
+  letter-spacing: -1px;
+  max-width: 900px;
+  font-family: 'Inter', sans-serif;
+}
+
+.coed-hero-subtitle {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+/* Body and Grid Layout */
+.coed-body {
+  background: #f8fafc;
+  padding: 60px 0 80px;
+  min-height: 50vh;
+}
+
+.coed-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+.coed-layout {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  gap: 50px;
+  align-items: start;
+}
+
+/* Sidebar Column */
+.coed-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.coed-image-card {
+  background: white;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e2e8f0;
+  padding: 10px;
+}
+
+.coed-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 16px;
+  display: block;
+}
+
+.coed-meta-card {
+  background: white;
+  border-radius: 24px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e2e8f0;
+}
+
+.coed-meta-card h4 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #64748b;
+  margin: 0 0 8px 0;
+}
+
+.coed-meta-card p {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.coed-meta-card hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid #edf2f7;
+}
+
+/* Main Content Column */
+.coed-main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.coed-section {
+  background: white;
+  border-radius: 24px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
+  border: 1px solid #e2e8f0;
+}
+
+.coed-section h3 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: #1e3a8a;
+  margin: 0 0 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e2e8f0;
+  position: relative;
+  font-weight: 800;
+}
+
+.coed-section h3::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: #91c04a;
+}
+
+.coed-section p {
+  font-size: 1rem;
+  color: #475569;
+  line-height: 1.8;
+  margin: 0 0 15px 0;
+  text-align: justify;
+}
+
+.coed-section p:last-child {
+  margin-bottom: 0;
+}
+
+.coed-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.coed-section li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 0.98rem;
+  color: #475569;
+  line-height: 1.6;
+}
+
+.coed-section li::before {
+  content: '✓';
+  flex-shrink: 0;
+  margin-top: 3px;
+  width: 18px;
+  height: 18px;
+  background: #dcfce7;
+  color: #16a34a;
+  font-weight: 800;
+  font-size: 0.7rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+  .coed-layout {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+  .coed-sidebar {
+    flex-direction: row;
+    align-items: stretch;
+  }
+  .coed-image-card {
+    flex: 1;
+    max-width: 300px;
+  }
+  .coed-meta-card {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .coed-meta-card hr {
+    display: none;
+  }
+  .coed-meta-card {
+    gap: 15px;
+  }
+  .coed-meta-card h4 {
+    margin-bottom: 4px;
+  }
+}
+
+@media (max-width: 768px) {
+  .coed-hero {
+    padding: 30px 5% 20px;
+    overflow: hidden;
+  }
+  .coed-hero-title {
+    font-size: 1.8rem;
+  }
+  .coed-sidebar {
+    flex-direction: column;
+  }
+  .coed-image-card {
+    max-width: 100%;
+  }
+  .coed-section {
+    padding: 25px;
+  }
+}

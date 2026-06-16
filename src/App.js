@@ -136,6 +136,7 @@ import Awards from './components/ExtraPages/Awards/Awards.jsx';
 import Updates from './components/ExtraPages/Updates/Updates.jsx';
 import NewsClippings from './components/ExtraPages/NewsClippings/NewsClippings.jsx';
 import Coe from './components/ExtraPages/COE/Coe.jsx';
+import CoeDetail from './components/ExtraPages/COE/CoeDetail.jsx';
 import Hackathon from './components/ExtraPages/Hackathons/Hackathon.jsx';
 import IEF from './components/ExtraPages/IEF/IEF.jsx';
 import Preloader from './components/Preloader/Preloader.jsx';
@@ -174,6 +175,7 @@ const App = () => {
 
           {/* Innovation Ecosystem */}
           <Route path="/coe" element={<Coe />} />
+          <Route path="/coe/:id" element={<CoeDetail />} />
           <Route path="/hackathons" element={<Hackathon />} />
 
           {/* Departments */}
