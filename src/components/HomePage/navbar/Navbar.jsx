@@ -788,9 +788,9 @@ const Navbar = () => {
                     Non-Teaching
                   </a>
 
-                 <a href="studentcounsellor.webp" target="_blank" rel="noopener noreferrer">
+                 {/* <a href="studentcounsellor.webp" target="_blank" rel="noopener noreferrer">
                     Student Counsellor
-                </a>
+                </a> */}
                 
                 </div>
               )}
@@ -1632,7 +1632,7 @@ const Navbar = () => {
                       Non-Teaching
                     </li>
 
-                    <li
+                    {/* <li
                       onClick={() =>
                         window.open(
                           "/studentcounsellor.webp",
@@ -1641,7 +1641,8 @@ const Navbar = () => {
                     }
                   >
                   Student Counsellor
-                  </li>
+                  </li> */}
+                  
                   </ul>
                 )}
 
