@@ -706,13 +706,14 @@ const Navbar = () => {
                   📣 Admission Enquiry 2026
                 </a>
 
-                <a
+                {/* international conference */}
+                {/* <a
                   href="https://ngcast2026.kongu.edu/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   ⚡ International conference - NG-CAST 2026
-                </a>
+                </a> */}
 
                  {/* <a
                   href="https://grad2026.kongu.edu/"

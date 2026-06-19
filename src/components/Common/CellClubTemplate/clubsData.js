@@ -1320,7 +1320,7 @@ export const clubsData = [
             { name: "Dr. R. Ramya Sri", designation: "Coordinator", dept: "English", phone: "8012617387" },
             { name: "Ms. S. Shobana", designation: "Coordinator", dept: "English", phone: "9360038345" }
         ],
-        activitiesSummary: { "2025-26": 7, "2024-25": 9, "2023-24": 6 },
+        activitiesSummary: { "2025-26": 9, "2024-25": 9, "2023-24": 6 },
         eventDetails: [
              {
                 year: "2025-26",
@@ -1347,7 +1347,7 @@ export const clubsData = [
                         sno: 4,
                         name: "Prolingua - Competition for I year Students",
                         date: "Dec 15, 2025",
-                        details: "Though a small event was effective where students’ creativity and interest was understood."
+                        details: "The event was highly effective in showcasing and understanding the students' creativity and interests."
                     },
                     {
                         sno: 5,
@@ -1372,6 +1372,12 @@ export const clubsData = [
                         name: "MOXIE - An interactive experience sharing session",
                         date: "March 23, 2026",
                         details: "To provide students with valuable insights about IELTS examination and guidance on studying abroad."
+                    },
+                     {
+                        sno: 9,
+                        name: "Valedictory & Guest lecture on IELTS Examination And Career Opportunities",
+                        date: "May 11, 2026",
+                        details: "A formal conclusion to the academic year, honoring the dedication of our club members while providing a comprehensive guide to navigating exam preparation and international career pathways."
                     },
                 ]
             },

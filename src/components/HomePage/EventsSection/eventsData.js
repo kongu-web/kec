@@ -53,19 +53,19 @@ const eventsData = [
         category: "College Function",
         department: "College Level",
     },
-    {
-        id: 5,
-        image:  ITConference,
-        date: "December 3-4, 2026",
-        title: "International Conference",
-        description: "Next-Gen Cyber AI for Sustainable Technologies.",
-        location: "IT Park",
-        time: "10:00 AM - 4:00 PM",
-        category: "Conference",
-        department: "IT",
-        //  popupImage: popupImage,
-        // Add your popup image source here if available
-    },
+    // {
+    //     id: 5,
+    //     image:  ITConference,
+    //     date: "December 3-4, 2026",
+    //     title: "International Conference",
+    //     description: "Next-Gen Cyber AI for Sustainable Technologies.",
+    //     location: "IT Park",
+    //     time: "10:00 AM - 4:00 PM",
+    //     category: "Conference",
+    //     department: "IT",
+    //     //  popupImage: popupImage,
+    //     // Add your popup image source here if available
+    // },
     {
         id: 6,
         image:  graduationday,
