@@ -64,6 +64,46 @@ import fc6 from '../../../assets/images/Clubs/freelancersclub/fc6.webp';
 import fc7 from '../../../assets/images/Clubs/freelancersclub/fc7.webp';
 import fc8 from '../../../assets/images/Clubs/freelancersclub/fc8.webp';
 
+import ge1 from '../../../assets/images/Clubs/genderquality/ge1.webp';
+import ge2 from '../../../assets/images/Clubs/genderquality/ge2.webp';
+import ge3 from '../../../assets/images/Clubs/genderquality/ge3.webp';
+import ge4 from '../../../assets/images/Clubs/genderquality/ge4.webp';
+import ge5 from '../../../assets/images/Clubs/genderquality/ge5.webp';
+import ge6 from '../../../assets/images/Clubs/genderquality/ge6.webp';
+
+import ielts1 from '../../../assets/images/Clubs/ielts/ielts1.webp';
+import ielts2 from '../../../assets/images/Clubs/ielts/ielts2.webp';
+import ielts3 from '../../../assets/images/Clubs/ielts/ielts3.webp';
+import ielts4 from '../../../assets/images/Clubs/ielts/ielts4.webp';
+import ielts5 from '../../../assets/images/Clubs/ielts/ielts5.webp';
+import ielts6 from '../../../assets/images/Clubs/ielts/ielts6.webp';
+import ielts7 from '../../../assets/images/Clubs/ielts/ielts7.webp';
+
+import kma1 from '../../../assets/images/Clubs/karate/kma1.webp';
+import kma2 from '../../../assets/images/Clubs/karate/kma2.webp';
+import kma3 from '../../../assets/images/Clubs/karate/kma3.webp';
+import kma4 from '../../../assets/images/Clubs/karate/kma4.webp';
+import kma5 from '../../../assets/images/Clubs/karate/kma5.webp';
+import kma6 from '../../../assets/images/Clubs/karate/kma6.webp';
+
+import mad1 from '../../../assets/images/Clubs/mobileapp/mad1.webp';
+import mad2 from '../../../assets/images/Clubs/mobileapp/mad2.webp';
+import mad3 from '../../../assets/images/Clubs/mobileapp/mad3.webp';
+import mad4 from '../../../assets/images/Clubs/mobileapp/mad4.webp';
+import mad5 from '../../../assets/images/Clubs/mobileapp/mad5.webp';
+
+import pv1 from '../../../assets/images/Clubs/pasumaivanam/pv1.webp';
+import pv2 from '../../../assets/images/Clubs/pasumaivanam/pv2.webp';
+import pv3 from '../../../assets/images/Clubs/pasumaivanam/pv3.webp';
+import pv4 from '../../../assets/images/Clubs/pasumaivanam/pv4.webp';
+import pv5 from '../../../assets/images/Clubs/pasumaivanam/pv5.webp';
+import pv6 from '../../../assets/images/Clubs/pasumaivanam/pv6.webp';
+import pv7 from '../../../assets/images/Clubs/pasumaivanam/pv7.webp';
+import pv8 from '../../../assets/images/Clubs/pasumaivanam/pv8.webp';
+import pv9 from '../../../assets/images/Clubs/pasumaivanam/pv9.webp';
+import pv10 from '../../../assets/images/Clubs/pasumaivanam/pv10.webp';
+import pv11 from '../../../assets/images/Clubs/pasumaivanam/pv11.webp';
+
 export const clubsData = [
     // {
     //     id: "innovation-hub",
@@ -1353,7 +1393,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [ge1, ge2, ge3, ge4, ge5, ge6]
     },
     {
         id: "ielts-club",
@@ -1532,7 +1573,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [ielts1, ielts2, ielts3, ielts4, ielts5, ielts6, ielts7]
     },
     {
         id: "karate-martial-arts",
@@ -1675,7 +1717,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [kma1, kma2, kma3, kma4, kma5, kma6]
     },
     {
         id: "mobile-app-dev",
@@ -1692,9 +1735,8 @@ export const clubsData = [
             { name: "Ms. P. Vanitha", designation: "Coordinator", dept: "IT", phone: "9488066933 " }
         ],
         activitiesSummary: { "2025-26": 6, "2024-25": 7, "2023-24": 7 },
-        eventDetails: [
-            
-        ]
+        eventDetails: [ ],
+        gallery: [mad1, mad2, mad3, mad4, mad5]
     },
     {
         id: "pasumaivanam",
@@ -1929,7 +1971,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+          gallery: [pv1, pv2, pv3, pv4, pv5, pv6, pv7, pv8, pv9, pv10, pv11]
     },
     {
         id: "photography-design",
