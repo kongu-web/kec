@@ -12,28 +12,28 @@ const teamMembers = [
         id: 'principal',
         name: 'Dr.R.Parameshwaran',
         role: 'Chairman, IQAC',
-        image: '/assets/iqac/Team/Dr.R.Parameshwaran.jpg',
+        image: '/assets/iqac/Team/parameshwaran.webp',
         link: 'https://docs.google.com/document/u/2/d/e/2PACX-1vTe3K-ddwT5IklzhB0e-tc5tqOhlwkGBJNWmRPVZDNFcd0-IeEeUkjK83plS6k8nA/pub'
     },
     {
         id: '1',
         name: 'Dr.N.Senthilnathan',
         role: 'Chief Coordinator, IQAC',
-        image: '/assets/iqac/Team/senthilnathan.jpg',
+        image: '/assets/iqac/Team/senthilnathan.webp',
         link: '//sites.google.com/a/kongu.edu/eee-dept/'
     },
     {
         id: '2',
         name: 'Dr.P.Nirmala devi',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/nirmaladevi.jpg',
+        image: '/assets/iqac/Team/nirmaladevi.webp',
         link: 'https://sites.google.com/a/kongu.edu/p-nirmala-devi/'
     },
     {
         id: '3',
         name: 'Dr.S J suji prasad',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/sujiprasad.jpg',
+        image: '/assets/iqac/Team/sujiprasad.webp',
         link: 'https://sites.google.com/a/kongu.edu/sjsujiprasad/'
     },
     // {
@@ -47,56 +47,56 @@ const teamMembers = [
         id: '6',
         name: 'Dr.V.Surendar',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/surendar.jpg',
+        image: '/assets/iqac/Team/surendar.webp',
         link: 'https://sites.google.com/a/kongu.edu/surendar-v/'
     },
     {
         id: '5',
         name: 'Dr.B.Venkatesan',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/venkatesan.jpg',
+        image: '/assets/iqac/Team/venkatesan.webp',
         link: 'https://sites.google.com/a/kongu.edu/venkatesan-balakrishnan/'
     },
     {
         id: '7',
         name: 'Dr.P.Sundharesalingam',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/sundharesalingam.jpg',
+        image: '/assets/iqac/Team/sundharesalingam.webp',
         link: 'https://sites.google.com/a/kongu.edu/sundaresalingam-mba/'
     },
     {
         id: '8',
         name: 'Mr.A.Ganesh',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/ganesh.jpg',
+        image: '/assets/iqac/Team/ganesh.webp',
         link: 'https://sites.google.com/a/kongu.edu/ganesh-a/'
     },
     {
         id: '9',
         name: 'Ms.N.Dhivya bharathi',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/diviya.jpg',
+        image: '/assets/iqac/Team/dhivyabharathi.webp',
         link: 'https://sites.google.com/a/kongu.edu/dhivya-bharathi-food-technology/'
     },
     {
         id: '10',
         name: 'Ms.P.Ananthi',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/Ms.P.Ananthi.png',
+        image: '/assets/iqac/Team/ananthi.webp',
         link: 'https://docs.google.com/document/d/e/2PACX-1vS5FFf7_UfYT4PF1a5ySn647zlbZMaQZ4Z6b-cbx0YmEV1oTjIBtAIJ8xMXR1Vxvg/pub'
     },
      {
         id: '11',
         name: 'E.Sowmiya',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/Sowmiya.jpeg',
+        image: '/assets/iqac/Team/sowmiya.webp',
         link: 'https://docs.google.com/document/d/e/2PACX-1vQg5hECooDHuglo3a63pf6YGhu7lyC2T0hNOUQCOKm5x5_zJhdbP_9JjrtX3iqkeA/pub'
     },
      {
         id: '12',
         name: 'J.Charanya',
         role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/charanya.jpg',
+        image: '/assets/iqac/Team/charanya.webp',
         link: 'https://docs.google.com/document/u/1/d/e/2PACX-1vTPauYocWakPYAuJc3WoAC9oOgTfX3Lmqx54n0L8bLFqg3vKp1uVR-rXIeCd9PYvQ/pub'
     }
 ];
