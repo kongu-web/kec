@@ -19,6 +19,51 @@ import cii8 from '../../../assets/images/Clubs/cii-yuva/cii8.webp';
 import cii9 from '../../../assets/images/Clubs/cii-yuva/cii9.webp';
 import cii10 from '../../../assets/images/Clubs/cii-yuva/cii10.webp';
 
+import cug1 from '../../../assets/images/Clubs/cloudusergroup/cug1.webp';
+import cug2 from '../../../assets/images/Clubs/cloudusergroup/cug2.webp';
+import cug3 from '../../../assets/images/Clubs/cloudusergroup/cug3.webp';
+import cug4 from '../../../assets/images/Clubs/cloudusergroup/cug4.webp';
+import cug5 from '../../../assets/images/Clubs/cloudusergroup/cug5.webp';
+import cug6 from '../../../assets/images/Clubs/cloudusergroup/cug6.webp';
+
+import cf1 from '../../../assets/images/Clubs/codingforum/cf1.webp';
+import cf2 from '../../../assets/images/Clubs/codingforum/cf2.webp';
+import cf3 from '../../../assets/images/Clubs/codingforum/cf3.webp';
+import cf4 from '../../../assets/images/Clubs/codingforum/cf4.webp';
+import cf5 from '../../../assets/images/Clubs/codingforum/cf5.webp';
+import cf6 from '../../../assets/images/Clubs/codingforum/cf6.webp';
+
+import cm1 from '../../../assets/images/Clubs/cultural/cm1.webp';
+import cm2 from '../../../assets/images/Clubs/cultural/cm2.webp';
+import cm3 from '../../../assets/images/Clubs/cultural/cm3.webp';
+import cm4 from '../../../assets/images/Clubs/cultural/cm4.webp';
+import cm5 from '../../../assets/images/Clubs/cultural/cm5.webp';
+import cm6 from '../../../assets/images/Clubs/cultural/cm6.webp';
+import cm7 from '../../../assets/images/Clubs/cultural/cm7.webp';
+import cm8 from '../../../assets/images/Clubs/cultural/cm8.webp';
+
+import eec1 from '../../../assets/images/Clubs/energy&environment/eec1.webp';
+import eec2 from '../../../assets/images/Clubs/energy&environment/eec2.webp';
+import eec3 from '../../../assets/images/Clubs/energy&environment/eec3.webp';
+import eec4 from '../../../assets/images/Clubs/energy&environment/eec4.webp';
+import eec5 from '../../../assets/images/Clubs/energy&environment/eec5.webp';
+import eec6 from '../../../assets/images/Clubs/energy&environment/eec6.webp';
+import eec7 from '../../../assets/images/Clubs/energy&environment/eec7.webp';
+
+import eprc1 from '../../../assets/images/Clubs/englishproficiency/eprc1.webp';
+import eprc2 from '../../../assets/images/Clubs/englishproficiency/eprc2.webp';
+import eprc3 from '../../../assets/images/Clubs/englishproficiency/eprc3.webp';
+import eprc4 from '../../../assets/images/Clubs/englishproficiency/eprc4.webp';
+
+import fc1 from '../../../assets/images/Clubs/freelancersclub/fc1.webp';
+import fc2 from '../../../assets/images/Clubs/freelancersclub/fc2.webp';
+import fc3 from '../../../assets/images/Clubs/freelancersclub/fc3.webp';
+import fc4 from '../../../assets/images/Clubs/freelancersclub/fc4.webp';
+import fc5 from '../../../assets/images/Clubs/freelancersclub/fc5.webp';
+import fc6 from '../../../assets/images/Clubs/freelancersclub/fc6.webp';
+import fc7 from '../../../assets/images/Clubs/freelancersclub/fc7.webp';
+import fc8 from '../../../assets/images/Clubs/freelancersclub/fc8.webp';
+
 export const clubsData = [
     // {
     //     id: "innovation-hub",
@@ -460,7 +505,8 @@ export const clubsData = [
                     },
                 ]
             },
-        ]
+        ],
+        gallery: [cug1, cug2, cug3, cug4, cug5, cug6]
     },
 
     {
@@ -479,7 +525,8 @@ export const clubsData = [
             { name: "Ms. R. Subapriya", designation: "Coordinator", dept: "AI", phone: "9442732285" }
         ],
         activitiesSummary: { "2025-26": 5},
-        eventDetails: []
+        eventDetails: [],
+        gallery: [cf1, cf2, cf3, cf4, cf5, cf6]
     },
 
     {
@@ -711,7 +758,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [cm1, cm2, cm3, cm4, cm5, cm6, cm7, cm8]
     },
     {
         id: "energy-environment",
@@ -897,7 +945,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [eec1, eec2, eec3, eec4, eec5, eec6, eec7]
     },
     {
         id: "english-proficiency",
@@ -1148,7 +1197,8 @@ export const clubsData = [
                     },
                 ]
             }
-        ]
+        ],
+        gallery: [eprc1, eprc2, eprc3, eprc4]
     },
     {
         id: "freelancers",
@@ -1166,9 +1216,8 @@ export const clubsData = [
             { name: "Ms.T.E.Ramya", designation: "Coordinator", dept: "CSE", phone: "8883677334" }
         ],
         activitiesSummary: { "2025-26": 11 },
-        eventDetails: [
-
-        ]
+        eventDetails: [ ],
+        gallery: [fc1, fc2, fc3, fc4, fc5, fc6, fc7, fc8]
     },
     {
         id: "gender-equality",
