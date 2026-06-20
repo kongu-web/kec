@@ -1002,7 +1002,7 @@ export const clubsData = [
             { name: "Dr. T. Geetha", designation: "Coordinator", dept: "English", phone: "8489788914" },
             { name: "Dr. B. Priyadharishini", designation: "Coordinator", dept: "English", phone: "9940902480" }
         ],
-        activitiesSummary: { "2025-26": 10, "2024-25": 14, "2023-24": 12 },
+        activitiesSummary: { "2025-26": 12, "2024-25": 14, "2023-24": 12 },
         eventDetails: [
              {
                 year: "2025-26",
@@ -1067,7 +1067,20 @@ export const clubsData = [
                         date: "March 11 - 18, 2026",
                         details: "Cover page designing Competition for EPIC magazine."
                     },
+                    {
+                        sno: 11,
+                        name: "Thiru V.K.Muthusamy award for Best creative writing in English",
+                        date: "April 27, 2026",
+                        details: "Release of EPIC magazine and Thiru V.K.Muthusamy award for Best creative writing in English."
+                    },
+                     {
+                        sno: 12,
+                        name: "Valedictory and Guest Lecture",
+                        date: "April 27, 2026",
+                        details: "Topic: Enhancing Communication Skills using AI Tools."
+                    },
                 ]
+                
             },
              {
                 year: "2024-25",
