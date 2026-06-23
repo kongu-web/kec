@@ -1387,6 +1387,7 @@ body {
   /* Left Align */
   cursor: pointer;
   transition: transform 0.3s ease;
+  width: 100%;
 }
 
 .civil-faculty-card:hover {
