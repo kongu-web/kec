@@ -1415,30 +1415,25 @@ const Library = () => {
                     ["6", "Mr. S. SURESH", "C.Lib.I.Sc.", "LIBRARY ASSISTANT (SR.G)"],
                     [
                       "7",
-                      "Mr. S. SHANMUGAM",
-                      "C.Lib.I.Sc.",
-                      "LIBRARY ASSISTANT",
-                    ],
-                    [
-                      "8",
                       "Ms. N. GOMATHIPRIYA",
                       "M.Sc., B.Lib.I.Sc.",
                       "LIBRARY ASSISTANT (SR.G)",
                     ],
+                    ["8", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT (L1)"],
                     [
                       "9",
-                      "Mr. K. DURAISWAMI",
-                      "T/W BOTH HIGHER/SHORT HAND (English Jr.)",
-                      "DATA ENTRY OPERATOR (SR.G)",
-                    ],
-                    [
-                      "10",
                       "Mr. V. NANDHAKUMAR",
                       "B.Com (CS)",
                       "LIBRARY ASSISTANT (L1)",
                     ],
-                    ["11", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT (L1)"],
-                    ["12", "Mr. J. KARTHIK", "BBA", "TECHNICAL ASSISTANT"],
+                    
+                    [
+                      "10",
+                      "Mr. S. SHANMUGAM",
+                      "C.Lib.I.Sc.",
+                      "LIBRARY ASSISTANT",
+                    ],
+                    ["11", "Mr. J. KARTHIK", "BBA", "TECHNICAL ASSISTANT"],
                   ].map(([sl, name, qualification, designation]) => (
                     <tr key={sl}>
                       <td>{sl}</td>
