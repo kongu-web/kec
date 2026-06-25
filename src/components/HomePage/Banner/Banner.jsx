@@ -31,9 +31,10 @@ import img21 from "../../../assets/images/21.webp";
 import img22 from "../../../assets/images/22.webp";
 import img23 from "../../../assets/images/23.webp";
 import img24 from "../../../assets/images/24.webp";
+import img25 from "../../../assets/images/25.webp";
 
 export default function Banner() {
-  const images = [img1, img24, img22, img23,img21, img19, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img13, img20, img12];
+  const images = [img1, img25, img24, img22, img23,img21, img19, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img13, img20, img12];
 
   return (
     <div className="Banner-container">

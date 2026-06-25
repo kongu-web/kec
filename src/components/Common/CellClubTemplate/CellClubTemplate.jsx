@@ -85,7 +85,7 @@ const CellClubTemplate = ({
             {coordinators && coordinators.length > 0 && (
                 <section className="cc-section bg-light" id="coordinators">
                     <div className="cc-section-header" data-aos="fade-up">
-                        <h2>Our Coordinators</h2>
+                        <h2>Coordinators</h2>
                         <p>Leadership team driving the vision of {name}</p>
                     </div>
                     <div className="cc-coordinators-grid">
