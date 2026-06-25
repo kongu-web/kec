@@ -146,6 +146,13 @@ const IqacNba = () => {
                 { letter: "F.No. NBA 24-BRD-ATR-2002 dated 13.05.2002", period: "From 2002-2003", pdf: `${docPath}MBA/1.F.No. NBA 24-BRD-ATR-2002dated 13.05.2002.pdf` },
             ]
         },
+           {
+            slNo: 13,
+            programme: "MCA",
+            letters: [
+                { letter: "F.No. 33-50-2010-NBA dated 12.06.2026", period: "From 2026-2028", pdf: `${docPath}MCA/1.F.No. 33-50-2010-NBA dated 12.06.2026.pdf` },
+            ]
+        },
     ];
 
     return (
