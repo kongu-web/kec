@@ -224,6 +224,10 @@ export const iqacData = {
                     "path": "/files/iqac/Affliation & Approval/AICTE/ENG/5.E&T-005-1995-97 ext OF APPROVAL 05.06.1995.pdf"
                 },
                 {
+                    "name": "48.AICTE_Approval_2025_26.pdf",
+                    "path": "/files/iqac/Affliation & Approval/AICTE/ENG/48.AICTE_Approval_2025_26.pdf"
+                },
+                {
                     "name": "47.AICTE_Approval_2024_25.pdf",
                     "path": "/files/iqac/Affliation & Approval/AICTE/ENG/47.AICTE_Approval_2024_25.pdf"
                 },
