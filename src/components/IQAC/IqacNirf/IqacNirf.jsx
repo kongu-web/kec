@@ -5,6 +5,7 @@ import IqacNavbar from '../IqacNavbar';
 import '../IQAC.css';
 import './IqacNirf.css';
 
+
 // Dynamically load NIRF PDF files
 const nirfContext = require.context(
     "../../../assets/docs/Footer/Nirf",
@@ -66,6 +67,35 @@ const IqacNirf = () => {
                             <p className="alignment-justify iqac-text mt-3">
                                 Kongu Engineering College is continuously participating in NIRF ranking from its inception in the year 2015, for the year 2023 Kongu Engineering is ranked in the Band of 101 to 150 in the Engineering Category and in the Band of 51 to 100 in the Innovation Category. Additionally, KEC has secured top positions in several rankings conducted by various organizations and magazines like, Careers 360, Business world etc.
                             </p>
+                        </div>
+                    </div>
+
+                     {/* NIRF certificate - PDF Downloads */}
+                    <div className="iqac-card">
+                        <h2 className="iqac-card-title">NIRF Certificate</h2>
+                        <div className="iqac-card-body">
+                            <div className="file-grid">
+                                {nirfFiles.length > 0 ? (
+                                    nirfFiles.map((pdf, index) => (
+                                        <a
+                                            key={index}
+                                            href={pdf.file}
+                                            className="file-card"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            download
+                                        >
+                                            <div className="file-icon-wrapper">
+                                                <i className="fa-regular fa-file-pdf"></i>
+                                            </div>
+                                            <span className="file-name">{pdf.displayName}</span>
+                                            <i className="fa-solid fa-download download-icon"></i>
+                                        </a>
+                                    ))
+                                ) : (
+                                    <p className="iqac-text">No NIRF reports available.</p>
+                                )}
+                            </div>
                         </div>
                     </div>
 
