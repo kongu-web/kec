@@ -28,6 +28,32 @@ const nirfFiles = nirfContext
     })
     .sort((a, b) => b.name.localeCompare(a.name)); // Sort descending (newest first)
 
+// Dynamically load NIRF Certificate PDF files
+const nirfCertificateContext = require.context(
+    "../../../assets/docs/Footer/Nirfcertificate",
+    false,
+    /\.pdf$/
+);
+const nirfCertificates = nirfCertificateContext
+    .keys()
+    .map((key) => {
+        const mod = nirfCertificateContext(key);
+        const rawName = key.replace("./", ""); // e.g. "NIRF_2025  Engineering Category Bandwith 101-150.pdf"
+        const displayName = rawName
+            .replace(/\.pdf$/i, "")
+            .replace(/_/g, " ")
+            .replace(/Innvoation/gi, "Innovation")
+            .replace(/Bandwith/gi, "Bandwidth")
+            .replace(/\s+/g, " ")
+            .trim();
+        return {
+            name: rawName,
+            displayName,
+            file: mod.default || mod,    // handle both ES module and CJS exports
+        };
+    })
+    .sort((a, b) => b.name.localeCompare(a.name)); // Sort descending (newest first)
+
 // Dynamically load facility images
 const imageContext = require.context(
     "../../../assets/images/Footer/NirfPage",
@@ -75,8 +101,8 @@ const IqacNirf = () => {
                         <h2 className="iqac-card-title">NIRF Certificate</h2>
                         <div className="iqac-card-body">
                             <div className="file-grid">
-                                {nirfFiles.length > 0 ? (
-                                    nirfFiles.map((pdf, index) => (
+                                {nirfCertificates.length > 0 ? (
+                                    nirfCertificates.map((pdf, index) => (
                                         <a
                                             key={index}
                                             href={pdf.file}
@@ -93,7 +119,7 @@ const IqacNirf = () => {
                                         </a>
                                     ))
                                 ) : (
-                                    <p className="iqac-text">No NIRF reports available.</p>
+                                    <p className="iqac-text">No NIRF certificates available.</p>
                                 )}
                             </div>
                         </div>
