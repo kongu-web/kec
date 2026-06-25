@@ -20,6 +20,7 @@ export const iqacData = {
         ]
     },
     "iso": [
+        { "name": "Cycle 3 Certificate 30.05.2026.pdf", "path": "/files/iqac/ISO/Cycle 3 Certificate 30.05.2026.pdf" },
         { "name": "Cycle 2 Certificate 10.03.2023.pdf", "path": "/files/iqac/ISO/Cycle 2 Certificate 10.03.2023.pdf" },
         { "name": "Cycle 1 Certificate 05.03.2020.pdf", "path": "/files/iqac/ISO/Cycle 1 Certificate 05.03.2020.pdf" }
     ],
