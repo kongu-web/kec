@@ -50,7 +50,7 @@ const HomePage = () => {
       <CampusLife />
       <RecruitingPartners />
       <Testimonials />
-      {/* <FlashNews/>  */}
+      <FlashNews/>  
       {/* <CampusVideo/>
       <Slider/>
       <About/> */}

@@ -21,18 +21,23 @@ const FlashNews = () => {
               </a>
             </span>
             <br/> */}
-             <span>
+             {/* <span>
               <a href="https://grad2026.kongu.edu/"target="_blank" rel="noopener noreferrer">
                 📢  38th Graduation Day Registration Link
               </a>
-            </span>
-            <br/>
-            <span>
+            </span> */}
+            {/* <br/> */}
+            {/* <span>
               <a href="https://forms.office.com/pages/responsepage.aspx?id=M1G4uEkE1UKRnJzJJ-FblOaVkm1VBqhLqiQwpjtHzPpUNk5YMk1UVUJYVlhZRDdDMlcyWUU0UFNFSC4u&origin=lprLink&route=shorturl"target="_blank" rel="noopener noreferrer">
                 📢 Sports Quota Admissions 2026
               </a>
-            </span>
+            </span> */}
             
+      <span>
+        <a href="others/mts_pa2026.pdf" target="_blank" rel="noopener noreferrer">
+          📢 Recruitment of Project Assistant - Department of Mechatronics Engineering.
+        </a>
+      </span>
             
           </div>
         </div>

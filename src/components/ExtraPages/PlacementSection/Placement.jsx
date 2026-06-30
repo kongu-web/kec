@@ -272,7 +272,7 @@ const Placement = () => {
                 <img src={card1} alt="Companies Visited Icon" />
               </div>
 
-              <div className="Placement-stat-valu">339</div>
+              <div className="Placement-stat-valu">344</div>
             </div>
 
             <div className="ps-stat-card blue center">
@@ -284,7 +284,7 @@ const Placement = () => {
                 <img src={card2} alt="Students Placed Icon" />
               </div>
 
-              <div className="Placement-stat-valu">1399</div>
+              <div className="Placement-stat-valu">1407</div>
             </div>
 
             <div className="ps-stat-card green">
