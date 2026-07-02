@@ -388,6 +388,16 @@
 
 /* Red Header */
 
+/* Scanned Docs (Small Card) */
+.scanned-docs {
+    grid-column: span 4;
+    background: linear-gradient(to bottom, #ffffff, #fdf4f4); /* Subtle red tint */
+}
+
+.scanned-docs h4::before {
+    background: #ef4444; /* Red accent */
+}
+
 /* DOC Files (Large Card) */
 .doc-files {
     grid-column: span 6;
@@ -424,7 +434,8 @@
 
     .quality-plan,
     .roles,
-    .copo-sheet {
+    .copo-sheet,
+    .scanned-docs {
         grid-column: span 6;
     }
 
@@ -465,7 +476,8 @@
     .roles,
     .copo-sheet,
     .pdf-files,
-    .doc-files {
+    .doc-files,
+    .scanned-docs {
         grid-column: span 1;
     }
 }
