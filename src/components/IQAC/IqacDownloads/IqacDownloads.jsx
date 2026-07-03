@@ -477,6 +477,8 @@ const IqacDownloads = () => {
                                     </li>
                                 </ul>
                             </div>
+                       
+
                             {/* MDI Documents */}
                             <div className="download-card pdf-files">
                                 <h4>EOMS - MDI (PDF Documents)</h4>
