@@ -132,6 +132,13 @@ const eomsMdiDocFiles = [
     "MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.doc"
 ];
 
+const scannedDocuments = [
+    { name: "1.EOMS-MANUAL.pdf", path: `${BASE_PATH}/scaned document/1.EOMS-MANUAL.pdf` },
+    { name: "2.EOMS-SYSTEM PROCEDURES.pdf", path: `${BASE_PATH}/scaned document/2.EOMS-SYSTEM PROCEDURES.pdf` },
+    { name: "3.EOMS-MDI.pdf", path: `${BASE_PATH}/scaned document/3.EOMS-MDI.pdf` },
+    { name: "4.EOMS-FORMATS.pdf", path: `${BASE_PATH}/scaned document/4.EOMS-FORMATS.pdf` }
+];
+
 const IqacDownloads = () => {
     const { isAuthenticated, loginWithGoogle, logout, user } = useAuth();
     const [error, setError] = useState('');
@@ -477,8 +484,6 @@ const IqacDownloads = () => {
                                     </li>
                                 </ul>
                             </div>
-                       
-
                             {/* MDI Documents */}
                             <div className="download-card pdf-files">
                                 <h4>EOMS - MDI (PDF Documents)</h4>
