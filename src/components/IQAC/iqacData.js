@@ -60,7 +60,12 @@ export const iqacData = {
         "files": [
             { "name": "2024-2025 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2024-25 Audit Report.pdf" },
             { "name": "2023-2024 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2023-2024 Report & Action Taken.pdf" },
-            { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit details/2022-2023 Report & Action Taken Report.pdf" }
+            { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit details/2022-2023 Report & Action Taken Report.pdf" },
+            { "name": "22021-2022 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2021-2022 Report & Action Taken.pdf" },
+            { "name": "2020-2021 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2020-2021 Report & Action Taken.pdf" },
+            { "name": "2019-2020 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2019-2020 Report & Action Taken.pdf" },
+            { "name": "2018-2019 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2018-2019 Report & Action Taken.pdf" },
+            { "name": "2017-2018 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2017-2018 Report & Action Taken.pdf" }
         ],
         "reports": [
             { "name": "2021-2022 Report.pdf", "path": "/files/iqac/Audit details/reports/2021-2022 Report.pdf" },
