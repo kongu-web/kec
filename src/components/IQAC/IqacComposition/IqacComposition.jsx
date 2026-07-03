@@ -79,15 +79,8 @@ const teamMembers = [
         image: '/assets/iqac/Team/parthasarathi.webp',
         link: '-'
     },
-    {
-        id: '10',
-        name: 'P.Ananthi',
-        role: 'Coordinator, IQAC',
-        image: '/assets/iqac/Team/ananthi.webp',
-        link: 'https://docs.google.com/document/d/e/2PACX-1vS5FFf7_UfYT4PF1a5ySn647zlbZMaQZ4Z6b-cbx0YmEV1oTjIBtAIJ8xMXR1Vxvg/pub'
-    },
      {
-        id: '11',
+        id: '10',
         name: 'E.Sowmiya',
         role: 'Coordinator, IQAC',
         image: '/assets/iqac/Team/sowmiya.webp',
