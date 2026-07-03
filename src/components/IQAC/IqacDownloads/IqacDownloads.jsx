@@ -487,7 +487,7 @@ const IqacDownloads = () => {
                             </div>
 
                             <div className="download-card scanned-docs">
-                                <h4>Scanned Documents</h4>
+                                <h4>Controlled Copy</h4>
                                 <ul className="iqac-file-list">
                                     {scannedDocuments.map((file, idx) => (
                                         <li key={idx}>
