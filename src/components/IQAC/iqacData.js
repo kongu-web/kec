@@ -25,6 +25,7 @@ export const iqacData = {
         { "name": "Cycle 1 Certificate 05.03.2020.pdf", "path": "/files/iqac/ISO/Cycle 1 Certificate 05.03.2020.pdf" }
     ],
     "strategic": [
+        { "name": "2025-2030.pdf", "path": "/files/iqac/Strategic Plan/2025-2030.pdf" },
         { "name": "2020-2025.pdf", "path": "/files/iqac/Strategic Plan/2020-2025.pdf" },
         { "name": "2015-2020.pdf", "path": "/files/iqac/Strategic Plan/2015-2020.pdf" }
     ],
@@ -45,6 +46,7 @@ export const iqacData = {
         { "name": "2015-2016.pdf", "path": "/files/iqac/Annual Reports/2015-2016.pdf" }
     ],
     "meetings": [
+        { "name": "2025-2026.pdf", "path": "/files/iqac/Meeting & Minutes/2025-2026.pdf" },
         { "name": "2023-2024.pdf", "path": "/files/iqac/Meeting & Minutes/2023-2024.pdf" },
         { "name": "2021-2022.pdf", "path": "/files/iqac/Meeting & Minutes/2021-2022.pdf" },
         { "name": "2020-2021.pdf", "path": "/files/iqac/Meeting & Minutes/2020-2021.pdf" },
@@ -58,7 +60,12 @@ export const iqacData = {
         "files": [
             { "name": "2024-2025 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2024-25 Audit Report.pdf" },
             { "name": "2023-2024 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2023-2024 Report & Action Taken.pdf" },
-            { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit details/2022-2023 Report & Action Taken Report.pdf" }
+            { "name": "2022-2023 Report & Action Taken Report.pdf", "path": "/files/iqac/Audit details/2022-2023 Report & Action Taken Report.pdf" },
+            { "name": "22021-2022 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2021-2022 Report & Action Taken.pdf" },
+            { "name": "2020-2021 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2020-2021 Report & Action Taken.pdf" },
+            { "name": "2019-2020 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2019-2020 Report & Action Taken.pdf" },
+            { "name": "2018-2019 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2018-2019 Report & Action Taken.pdf" },
+            { "name": "2017-2018 Report & Action Taken.pdf", "path": "/files/iqac/Audit details/2017-2018 Report & Action Taken.pdf" }
         ],
         "reports": [
             { "name": "2021-2022 Report.pdf", "path": "/files/iqac/Audit details/reports/2021-2022 Report.pdf" },

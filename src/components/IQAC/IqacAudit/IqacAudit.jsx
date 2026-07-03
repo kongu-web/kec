@@ -51,7 +51,7 @@ const IqacAudit = () => {
                         </div>
                     </div>
 
-                    <div className="row">
+                    {/* <div className="row">
                         <div className="col-md-6">
                             <div className="iqac-card">
                                 <h2 className="iqac-card-title">Action Taken Reports</h2>
@@ -100,7 +100,7 @@ const IqacAudit = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                 </div>
             </div>

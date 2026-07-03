@@ -109,6 +109,7 @@ const staffMembers = [
 ];
 
 const formationFiles = [
+    '2026.pdf',
     '2023.pdf',
     '2022.pdf',
     '2020.pdf',

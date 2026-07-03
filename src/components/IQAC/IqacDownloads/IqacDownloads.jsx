@@ -485,19 +485,6 @@ const IqacDownloads = () => {
                                     </li>
                                 </ul>
                             </div>
-                            <div className="download-card scanned-docs">
-                                <h4>Scanned Documents</h4>
-                                <ul className="iqac-file-list">
-                                    {scannedDocuments.map((file, idx) => (
-                                        <li key={idx}>
-                                            <a href={file.path} target="_blank" rel="noopener noreferrer">
-                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
-                                                {file.name}
-                                            </a>
-                                        </li>
-                                    ))}
-                                </ul>
-                            </div>
                             {/* MDI Documents */}
                             <div className="download-card pdf-files">
                                 <h4>EOMS - MDI (PDF Documents)</h4>
