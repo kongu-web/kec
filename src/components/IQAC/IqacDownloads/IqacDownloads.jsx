@@ -196,6 +196,7 @@ const IqacDownloads = () => {
             </div>
         );
     }
+    
 
     return (
         <div className="iqac-wrapper">
