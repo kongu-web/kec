@@ -218,8 +218,18 @@ const IqacDownloads = () => {
                     <div className="user-controls-bar" style={{ display: 'flex', alignItems: 'center', paddingBottom: '20px' }}>
                         {/* Back Button (Left Aligned) */}
                         {activeFolder && (
-                            <button className="back-btn-iqac" onClick={() => setActiveFolder(null)}>
-                                <FontAwesomeIcon icon={faArrowLeft} />Back to Folders
+                            <button 
+                                className="back-btn-iqac" 
+                                onClick={() => {
+                                    if (activeFolder === 'controlled-copy') {
+                                        setActiveFolder('eoms21001');
+                                    } else {
+                                        setActiveFolder(null);
+                                    }
+                                }}
+                            >
+                                <FontAwesomeIcon icon={faArrowLeft} />
+                                {activeFolder === 'controlled-copy' ? 'Back to EOMS 21001' : 'Back to Folders'}
                             </button>
                         )}
 
@@ -488,15 +498,19 @@ const IqacDownloads = () => {
 
                             <div className="download-card scanned-docs">
                                 <h4>Controlled Copy</h4>
-                                <ul className="iqac-file-list">
-                                    {scannedDocuments.map((file, idx) => (
-                                        <li key={idx}>
-                                            <a href={file.path} target="_blank" rel="noopener noreferrer">
-                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" />
-                                                {file.name}
-                                            </a>
-                                        </li>
-                                    ))}
+                                <ul>
+                                    <li>
+                                        <button
+                                            onClick={() => setActiveFolder('controlled-copy')}
+                                            className="files-link"
+                                            style={{ border: 'none', width: '100%', background: 'transparent', padding: 0 }}
+                                        >
+                                            <div className="icon-box">
+                                                <FontAwesomeIcon icon={faFolder} />
+                                            </div>
+                                            <span>View Files</span>
+                                        </button>
+                                    </li>
                                 </ul>
                             </div>
                             {/* MDI Documents */}
@@ -585,6 +599,25 @@ const IqacDownloads = () => {
                                 </ul>
                             </div>
 
+                        </div>
+                    )}
+
+                    {/* Controlled Copy View */}
+                    {activeFolder === 'controlled-copy' && (
+                        <div className="downloads-grid">
+                            <div className="download-card scanned-docs" style={{ gridColumn: 'span 12' }}>
+                                <h4>Controlled Copy Files</h4>
+                                <ul className="iqac-file-list" style={{ padding: '1.5rem 2rem' }}>
+                                    {scannedDocuments.map((file, idx) => (
+                                        <li key={idx} style={{ marginBottom: '0.75rem' }}>
+                                            <a href={file.path} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center' }}>
+                                                <FontAwesomeIcon icon={faFilePdf} className="file-icon pdf" style={{ fontSize: '1.25rem' }} />
+                                                <span style={{ fontSize: '1.05rem', fontWeight: '500' }}>{file.name}</span>
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
                         </div>
                     )}
                 </div>
