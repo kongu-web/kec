@@ -73,7 +73,7 @@ const AdmissionPage = () => {
     {
       q: "How are the placements at KEC?",
       // ✅ UPDATED: Shows Current (25-26) and Previous (24-25) Stats
-      a: "Placements are excellent. For the academic year 2025-26, we have already secured 1683+ offers with a highest package of 61.21 LPA. In the academic year 2024-25, we achieved 1693 offers with a highest package of 61.21 LPA.",
+      a: "Placements are excellent. For the academic year 2025-26, we have already secured 1685+ offers with a highest package of 61.21 LPA. In the academic year 2024-25, we achieved 1693 offers with a highest package of 61.21 LPA.",
     },
     {
       q: "Is there transport facility available?",
