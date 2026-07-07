@@ -84,6 +84,7 @@ import AuditReport from './components/FooterContents/QuickLinks/AuditReport/Audi
 import BestPractices from './components/FooterContents/QuickLinks/BestPractices/BestPractices.jsx';
 import FitnessProtocol from './components/FooterContents/QuickLinks/FitnessProtocol/FitnessProtocol.jsx';
 import Nbadcs from "./components/FooterContents/QuickLinks/NBADCS/nbadcs";
+import PrivacyPolicy from './components/FooterContents/QuickLinks/PrivacyPolicy/PrivacyPolicy.jsx';
 
 
 
@@ -267,6 +268,7 @@ const App = () => {
           <Route path="/best-practices" element={<BestPractices />} />
           <Route path="/fitness-protocols" element={<FitnessProtocol />} />
           <Route path="/Nbadcs" element={<Nbadcs />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
 
           {/* Footer - Students Corner */}
           <Route path="/help-desk" element={<HelpDesk />} />
