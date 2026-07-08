@@ -1757,9 +1757,9 @@ export const clubsData = [
         category: "Social",
         about: "The green initiative of KEC focused on campus afforestation and environmental awareness.",
         objectives: [
-            "To encourage planting and conservation of native tree varieties, develop green spaces using modern ecological concepts, and motivate community participation in nature conservation.",
-            "To support and promote natural farming and healthy food practices inspired by Dr. G. Nammalvar, while fostering environmental awareness and sustainable living.",
-            "To restore ecological balance and protect biodiversity through native tree conservation, community-driven afforestation, and adoption of eco-friendly habits including proper waste management."
+            "To encourage planting of native trees and develop green spaces.",
+            "To promote natural farming and sustainable living inspired by Dr. G. Nammalvar.",
+            "To create environmental awareness and promote proper waste management."
         ],
         coordinators: [
             { name: "Mr. A. Saravanan", designation: "Coordinator", dept: "Mech", phone: " 9789467617" },
