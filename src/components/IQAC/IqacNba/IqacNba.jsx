@@ -184,6 +184,56 @@ const IqacNba = () => {
                         </div>
                     </div>
 
+                    
+                      <div className="iqac-card">
+    <h2 className="iqac-card-title">NBA - DCS</h2>
+
+    <div className="iqac-card-body">
+        <div className="file-grid">
+
+            <a
+                href="/files/iqac/Nba-dcs/B.E - Computer Science and Engineering.pdf"
+                className="file-card"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <div className="file-icon-wrapper">
+                    <i className="fa-regular fa-file-pdf"></i>
+                </div>
+                <span className="file-name">B.E - Computer Science and Engineering</span>
+                <i className="fa-solid fa-download download-icon"></i>
+            </a>
+
+            <a
+                href="/files/iqac/Nba-dcs/B.E - Electrical and Electronics Engineering.pdf"
+                className="file-card"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <div className="file-icon-wrapper">
+                    <i className="fa-regular fa-file-pdf"></i>
+                </div>
+                <span className="file-name">B.E - Electrical and Electronics Engineering</span>
+                <i className="fa-solid fa-download download-icon"></i>
+            </a>
+
+            <a
+                href="/files/iqac/Nba-dcs/B.Tech - Information Technology.pdf"
+                className="file-card"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <div className="file-icon-wrapper">
+                    <i className="fa-regular fa-file-pdf"></i>
+                </div>
+                <span className="file-name">B.Tech - Information Technology</span>
+                <i className="fa-solid fa-download download-icon"></i>
+            </a>
+
+        </div>
+    </div>
+</div>
+
                     <div className="iqac-card">
                         <h2 className="iqac-card-title">Programs Accredited by NBA</h2>
                         <div className="iqac-card-body p-0">
