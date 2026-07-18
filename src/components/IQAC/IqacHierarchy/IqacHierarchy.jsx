@@ -21,7 +21,7 @@ const IqacHierarchy = () => {
                     </div>
 
                     <div className="iqac-actions">
-                        <a href="/files/iqac/IQAC chart.JPG" download className="iqac-btn-download">
+                        <a href="/files/iqac/IQACchart.webp" download className="iqac-btn-download">
                             <span>Download Chart</span>
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -40,7 +40,7 @@ const IqacHierarchy = () => {
                         </div>
                         <div className="iqac-image-wrapper">
                             <img
-                                src="/files/iqac/IQAC chart.JPG"
+                                src="/files/iqac/IQACchart.webp"
                                 className="iqac-hierarchy-image"
                                 alt="IQAC Organizational Chart"
                             />
