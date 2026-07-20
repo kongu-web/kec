@@ -45,7 +45,7 @@ export default function LegacySection() {
           <h3>
             AAAA <span>Grade</span>
           </h3>
-          <p>Career 360, September 2025</p>
+          <p>Career 360, June 2026</p>
         </div>
 
         <div className="legacy-card dark">
@@ -87,7 +87,7 @@ export default function LegacySection() {
           <h2>
             55<sup>th</sup> in India
           </h2>
-          <p>HANSA Research Survey, June 2025</p>
+          <p>HANSA Research Survey, June 2026</p>
           <span className="green-tag">INCLUDING IITS & NITS</span>
         </div>
       </div>
