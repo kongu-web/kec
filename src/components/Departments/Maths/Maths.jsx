@@ -123,10 +123,10 @@ const Maths = () => {
                   <div className="stat-label">Head of Department</div>
                   <div className="stat-value">{autoData.hod_name || "N/A"}</div>
                 </div>
-                <div className="dept-stat-card">
+                {/* <div className="dept-stat-card">
                   <div className="stat-label">Total Intake</div>
                   <div className="stat-value">{autoData.intake || autoData.Intake || "N/A"}</div>
-                </div>
+                </div> */}
                 <div 
                   className="dept-stat-card" 
                   onClick={() => autoData.rnd?.academic && window.open(`${autoData.rnd.academic}?tab=supervisors`, "_blank")}
