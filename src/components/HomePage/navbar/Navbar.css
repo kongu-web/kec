@@ -483,7 +483,7 @@
   justify-content: space-between;
   padding: 12px 40px;
   background: #fff;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: none;
   z-index: 900;
 }
 
@@ -886,5 +886,225 @@
   50% {
     color: #319143;
     opacity: 0.9;
+  }
+}
+
+/* ===== ADMISSION ANNOUNCEMENT BAR ===== */
+.admission-capsule-wrapper {
+  width: 100%;
+  background: #ffffff;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.admission-capsule-bar {
+  width: 100%;
+  max-width: 100%;
+  height: 48px;
+  background: linear-gradient(90deg, #021a4e 0%, #083785 28%, #0d4bb3 68%, #0066ff 100%);
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  box-shadow: 0 3px 10px rgba(0, 35, 102, 0.2);
+  position: relative;
+  overflow: hidden;
+  transition: background 0.25s ease;
+}
+
+/* Dots background matrix effect */
+.admission-capsule-bar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 100%;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.22) 1.5px, transparent 1.5px);
+  background-size: 8px 8px;
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.admission-capsule-bar::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 140px;
+  height: 100%;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.22) 1.5px, transparent 1.5px);
+  background-size: 8px 8px;
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.capsule-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  z-index: 2;
+}
+
+.chevrons-left {
+  color: #8ce600;
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  user-select: none;
+}
+
+.grad-badge-ring {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #8ce600 0%, #ffffff 50%, #8ce600 100%);
+  padding: 2.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+.grad-badge-inner {
+  width: 100%;
+  height: 100%;
+  background-color: #053b94;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 19px;
+}
+
+.capsule-center {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 2;
+  animation: smooth-opacity-pulse 3.2s ease-in-out infinite;
+}
+
+@keyframes smooth-opacity-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+.capsule-title {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.tnea-tag {
+  background-color: rgb(145 192 74);
+  color: #ffffff;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.capsule-right {
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+
+.chevrons-right {
+  color: #8ce600;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: -3px;
+  user-select: none;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 992px) {
+  .admission-capsule-bar {
+    height: 46px;
+    padding: 0 16px;
+  }
+  .capsule-title {
+    font-size: 15px;
+  }
+  .tnea-tag {
+    font-size: 12px;
+    padding: 3px 9px;
+  }
+  .grad-badge-ring {
+    width: 34px;
+    height: 34px;
+  }
+  .grad-badge-inner {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .admission-capsule-wrapper {
+    padding: 0;
+  }
+
+  .admission-capsule-bar {
+    height: 42px;
+    padding: 0 12px;
+  }
+
+  .grad-badge-ring {
+    width: 30px;
+    height: 30px;
+  }
+
+  .grad-badge-inner {
+    font-size: 14px;
+  }
+
+  .chevrons-left {
+    font-size: 16px;
+  }
+
+  .chevrons-right {
+    font-size: 16px;
+  }
+
+  .capsule-title {
+    font-size: 13px;
+  }
+
+  .tnea-tag {
+    font-size: 11px;
+    padding: 2px 7px;
+  }
+
+  .capsule-left {
+    gap: 8px;
+  }
+
+  .capsule-center {
+    gap: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .chevrons-left, .chevrons-right {
+    display: none;
+  }
+  .capsule-title {
+    font-size: 11.5px;
   }
 }

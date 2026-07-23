@@ -10,7 +10,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBars,
   faSearch,
-  faTimes
+  faTimes,
+  faGraduationCap
 } from "@fortawesome/free-solid-svg-icons";
 
 import { ReactComponent as VisionIcon } from "../../../assets/images/Icon/menu/vision.svg";
@@ -1660,6 +1661,33 @@ const Navbar = () => {
           </div>
           {/* )} */}
         </nav>
+
+        {/* ===== ADMISSION ANNOUNCEMENT CAPSULE BAR ===== */}
+        <div className="admission-capsule-wrapper">
+          <div 
+            className="admission-capsule-bar"
+            onClick={() => window.open("/tnea%20counsiling/admission/index.html", "_blank")}
+            style={{ cursor: "pointer" }}
+          >
+            <div className="capsule-left">
+              <span className="chevrons-left">«</span>
+              <div className="grad-badge-ring">
+                <div className="grad-badge-inner">
+                  <FontAwesomeIcon icon={faGraduationCap} />
+                </div>
+              </div>
+            </div>
+
+            <div className="capsule-center">
+              <span className="capsule-title">BE/BTech Admission 2026-27</span>
+              <span className="tnea-tag">TNEA Category</span>
+            </div>
+
+            <div className="capsule-right">
+              <span className="chevrons-right">»»»</span>
+            </div>
+          </div>
+        </div>
       </div>
 
       {/* SEARCH DRAWER */}
