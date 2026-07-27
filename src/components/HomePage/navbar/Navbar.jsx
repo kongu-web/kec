@@ -95,7 +95,8 @@ const searchPages = [
   { name: "Doctoral / PhD", path: "/doctoral" },
   { name: "Computer Technology (Applied Science)", path: "/appliedscience" },
   { name: "Science & Humanities", path: "/snh" },
-  { name: "Online Payment", path: "/onlinepayment" },
+  // { name: "Online Payment", path: "/onlinepayment" },
+  { name: "Online Payment", path: "/kec.linways.com" },
   { name: "Contact Us", path: "/contact" },
   { name: "Campus Life", path: "/campus-life" },
   { name: "Facilities", path: "/facilities" },
@@ -800,7 +801,7 @@ const Navbar = () => {
 
             {/* <a href="/admission">Admission</a> */}
             <a href="https://alumni.kongu.edu/">Alumni</a>
-            <a href="/onlinepayment">Online Payment</a>
+            <a href="https://kec.linways.com/">Online Payment</a>
             <a href="/contact" onClick={(e) => { e.preventDefault(); navigate("/contact"); }}>Contact</a>
             
             {/* <button 
@@ -1652,7 +1653,11 @@ const Navbar = () => {
                   Alumni
                 </li>
 
-                <li onClick={() => navigate("/onlinepayment")}>
+                {/* <li onClick={() => navigate("/onlinepayment")}>
+                  Online Payment
+                </li> */}
+
+                 <li onClick={() => window.open("https://kec.linways.com/", "_blank")}>
                   Online Payment
                 </li>
                 <li onClick={() => navigate("/contact")}>Contact</li>
