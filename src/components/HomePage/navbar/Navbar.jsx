@@ -804,13 +804,13 @@ const Navbar = () => {
             <a href="https://kec.linways.com/">Online Payment</a>
             <a href="/contact" onClick={(e) => { e.preventDefault(); navigate("/contact"); }}>Contact</a>
             
-            {/* <button 
+            <button 
               className="utility-search-trigger-btn"
               onClick={() => setSearchDrawerOpen(true)}
               title="Search KEC"
             >
               <FontAwesomeIcon icon={faSearch} />
-            </button> */}
+            </button>
           </div>
         </div>
         {/* ================= EXISTING NAVBAR ================= */}
@@ -1310,7 +1310,7 @@ const Navbar = () => {
                   Enquiry Now
                 </button> */}
 
-                {/* <div 
+                <div 
                   className="mobile-search-trigger" 
                   onClick={() => { 
                     setSearchDrawerOpen(true); 
@@ -1319,7 +1319,7 @@ const Navbar = () => {
                 >
                   <FontAwesomeIcon icon={faSearch} />
                   <span>Search...</span>
-                </div> */}
+                </div>
 
                 <a
                   href="/admission"
