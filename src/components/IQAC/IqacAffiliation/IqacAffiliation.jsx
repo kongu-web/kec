@@ -32,13 +32,13 @@ const IqacAffiliation = () => {
                     <h4 className="heading">Autonomous</h4>
                     <div className="clean-file-list">
                         <div className="clean-file-item">
-                            <span className="file-name-text">Kongu Engineering College autonomous status valid upto 2032-2033</span>
+                            <span className="file-name-text">Kongu Engineering College autonomous status valid upto 2022-2023 to 2032-2033</span>
                             <a href="/files/iqac/Affliation & Approval/AUTONOMOUS/3.KEC_autonomous_approval_23-33.pdf" target="_blank" rel="noreferrer" className="text-download-link">
                                 Download
                             </a>
                         </div>
                         <div className="clean-file-item">
-                            <span className="file-name-text">Kongu Engineering College autonomous status valid upto 2022-2023</span>
+                            <span className="file-name-text">Kongu Engineering College autonomous status valid upto 2017-2018 to 2022-2023</span>
                             <a href="/files/iqac/Affliation & Approval/AUTONOMOUS/2.KEC_autonomous_approval.pdf" target="_blank" rel="noreferrer" className="text-download-link">
                                 Download
                             </a>
