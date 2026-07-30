@@ -1737,11 +1737,11 @@ export const clubsData = [
         id: "mobile-app-dev",
         name: "Mobile Application Development Club",
         category: "Technical",
-        about: "Fostering creativity and technical skills in mobile platform applications and multi-platform development.",
+        about: "To bridge the gap between classroom theory and industry reality by transforming students into full-stack mobile creators. Our goal is to empower every member to build and launch functional, high-quality applications for the global market.",
         objectives: [
-            "To train students in Android and iOS development.",
-            "To organize workshops on Flutter and React Native.",
-            "To help students build and publish their own apps."
+            "To organize regular workshops, hackathons, and tech talks that enhance technical and problem-solving skills on cross platform and native app development.",
+            "To promote peer learning, mentorship, and collaborative project development among members.",
+            "To create networking and career growth opportunities through industry interaction and continuous learning initiatives."
         ],
         coordinators: [
             { name: "Mr. A. P. Pon Selva Kumar", designation: "Coordinator", dept: "IT", phone: "9942074214" },
