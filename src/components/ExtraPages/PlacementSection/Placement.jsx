@@ -55,7 +55,7 @@ const categories = ["CS / IT / AI", "EIE / EEE / ECE", "Mechanical / Mechatronic
 const companyLogos = require.context(
   "../../../assets/images/Placement/Companies",
   true,
-  /\.(png|jpe?g|svg|webp)$/
+  /\.(png|jpe?g|svg|webp)$/i
 );
 
 const logoKeys = companyLogos.keys();
@@ -69,17 +69,25 @@ const getLogo = (jsonPath) => {
     return companyLogos(cleanPath);
   } catch (err) {}
 
-  // 2. Try fuzzy match by filename (extension-agnostic search)
-  const filename = jsonPath.split("/").pop().split(".")[0].toLowerCase();
+  // 2. Try matching by basename
+  const basename = jsonPath.split("/").pop().toLowerCase();
   const foundKey = logoKeys.find((key) => {
-    const keyLower = key.toLowerCase();
-    // Check if filename is contained in the path (handles prefixes like '1-' or suffix differences)
-    return keyLower.includes(filename);
+    const keyBasename = key.split("/").pop().toLowerCase();
+    return keyBasename === basename;
   });
 
   if (foundKey) {
     try {
       return companyLogos(foundKey);
+    } catch (err) {}
+  }
+
+  // 3. Fallback fuzzy search
+  const nameWithoutExt = basename.split(".")[0];
+  const fuzzyKey = logoKeys.find((key) => key.toLowerCase().includes(nameWithoutExt));
+  if (fuzzyKey) {
+    try {
+      return companyLogos(fuzzyKey);
     } catch (err) {}
   }
 
@@ -328,8 +336,20 @@ const Placement = () => {
                 />
                 <div className="company-overlay">
                   <h3>{company.name}</h3>
-                  <p>Placed: {company.placed}</p>
-                  <p>Departments: {company.departments}</p>
+                  {company.placed && (
+                    <p>
+                      {company.placed.toLowerCase().startsWith("placed")
+                        ? company.placed
+                        : `Placed: ${company.placed}`}
+                    </p>
+                  )}
+                  {company.departments && (
+                    <p>
+                      {company.departments.toLowerCase().startsWith("department")
+                        ? company.departments
+                        : `Departments: ${company.departments}`}
+                    </p>
+                  )}
                 </div>
               </div>
             ))}

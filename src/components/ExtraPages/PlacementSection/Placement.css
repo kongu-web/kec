@@ -764,7 +764,7 @@
   width: 100%;
   height: 100%;
   background: rgba(26, 60, 135, 0.95);
-  color: #fff;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -773,6 +773,7 @@
   transition: opacity 0.4s ease;
   text-align: center;
   padding: 15px;
+  box-sizing: border-box;
 }
 
 .company-info-box:hover {
@@ -788,12 +789,14 @@
   font-size: 16px;
   margin: 0 0 8px 0;
   font-weight: 600;
+  color: #ffffff;
 }
 
 .company-overlay p {
   font-size: 13px;
   margin: 4px 0;
   line-height: 1.4;
+  color: #ffffff;
 }
 
 /* RESPONSIVE */
