@@ -121,8 +121,8 @@ const PlacementSection = () => {
               </li>
             </ul>
 
-            <h3>Prominent Recruiters</h3>
-            <div className="placement-gallery">{renderImages()}</div>
+            {/* <h3>Prominent Recruiters</h3>
+            <div className="placement-gallery">{renderImages()}</div> */}
           </div>
         )}
 
