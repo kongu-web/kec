@@ -71,7 +71,7 @@ export const coeData = [
     id: "cse-hpc",
     title:
       "Computer Science and Engineering - Centre of Excellence in  High Performance Computing (HPC)",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/cse1.webp"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/hpc.webp"),
     category: "CSE",
     content: [
       "The High Performance Computing (HPC) Centre of Excellence (HPC CoE) has been established by the Department of Computer Science and Engineering to advance education, research, and innovation in Artificial Intelligence (AI), High Performance Computing (HPC), and related interdisciplinary domains.",
@@ -149,7 +149,7 @@ export const coeData = [
     id: "ece-drone",
     title:
       "Electronics and Communication Engineering - Centre of Excellence in  Drone UnSkool ",
-    image: require("../../../assets/images/InnovationEcosystem/Coe/ece1.webp"),
+    image: require("../../../assets/images/InnovationEcosystem/Coe/drone.webp"),
     category: "ECE",
     content: [
       "Drone UnSkool - Centre of Excellence (Drone CoE) is a multidisciplinary innovation hub dedicated to drone engineering, aerial intelligence, artificial intelligence, geospatial analytics, and industry-focused drone applications. The Centre provides an integrated ecosystem for learning, research, product development, data intelligence, and professional drone services by combining advanced drone platforms with modern software tools and engineering expertise.",
