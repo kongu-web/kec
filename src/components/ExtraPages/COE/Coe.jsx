@@ -66,6 +66,25 @@ export const coeData = [
     objectives: null,
     outcomes: null,
   },
+
+   {
+    id: "cse-hpc",
+    title:
+      "Computer Science and Engineering - Centre of Excellence in  High Performance Computing (HPC)",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/cse1.webp"),
+    category: "CSE",
+    content: [
+      "The High Performance Computing (HPC) Centre of Excellence (HPC CoE) has been established by the Department of Computer Science and Engineering to advance education, research, and innovation in Artificial Intelligence (AI), High Performance Computing (HPC), and related interdisciplinary domains.",
+      "The Centre is equipped with an NVIDIA H200 GPU Server, high-performance AI workstations, high-speed networking, power backup, and dedicated faculty cabins, providing a robust computing environment for AI model development, scientific computing, large-scale data analytics, simulation, and GPU-accelerated applications.",
+      "The HPC CoE will serve as a shared facility for UG and PG laboratory courses, faculty and student research, funded projects, consultancy, and industry collaborations. It will also facilitate Faculty Development Programmes (FDPs), workshops, certification courses, hackathons, and specialized training in AI, GPU computing, parallel programming, distributed computing, and Generative AI.",
+      "The Centre will support multidisciplinary research, promote innovation through student projects and prototype development, and strengthen collaborations with academic institutions and industry. It will also provide computational infrastructure for high-impact research leading to quality publications, patents, technology development, and externally funded projects.",
+      "The HPC CoE aims to establish a sustainable ecosystem for advanced computing, fostering research excellence, industry engagement, and the development of skilled professionals in next-generation AI and HPC technologies.",
+    ],
+    features: null,
+    objectives: null,
+    outcomes: null,
+  },
+
   {
     id: "it-datascience",
     title: "Information Technology - Centre of Excellence in Data Science",
@@ -125,6 +144,22 @@ export const coeData = [
       "The CoE delivers Embedded AI Associate Developer Certification Course in collaboration with Digitoad Technologies to make students and faculty updated on the recent trends in ARM architectures. CoE also offers assistance for ideation and project implementation, internship and placement assistance and development of Edge computing applications.",
     ],
   },
+
+    {
+    id: "ece-drone",
+    title:
+      "Electronics and Communication Engineering - Centre of Excellence in  Drone UnSkool ",
+    image: require("../../../assets/images/InnovationEcosystem/Coe/ece1.webp"),
+    category: "ECE",
+    content: [
+      "Drone UnSkool - Centre of Excellence (Drone CoE) is a multidisciplinary innovation hub dedicated to drone engineering, aerial intelligence, artificial intelligence, geospatial analytics, and industry-focused drone applications. The Centre provides an integrated ecosystem for learning, research, product development, data intelligence, and professional drone services by combining advanced drone platforms with modern software tools and engineering expertise.",
+      "The CoE follows a Design - Develop - Deploy approach, enabling students, researchers, startups, industries, and government organizations to transform ideas into real-world drone solutions through hands-on learning, collaborative research, and technology innovation.",     
+    ],
+    features: null,
+    objectives: null,
+    outcomes: null,
+  },
+
   {
     id: "eee-smart-electrical",
     title:
