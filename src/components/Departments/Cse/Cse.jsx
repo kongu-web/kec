@@ -29,6 +29,7 @@ const Cse = () => {
   const [dropdowns, setDropdowns] = useState({
     vision: false,
     mission: false,
+    peo: false,
     po: false,
     pso: false,
   });
@@ -174,27 +175,44 @@ const Cse = () => {
               </div>
 
               {/* Remaining Dropdowns */}
-              {["peo", "po", "pso"].map((key) => (
-                <div
-                  key={key}
-                  className={`dropdown-section ${dropdowns[key] ? "active" : ""
-                    }`}
-                >
-                  <button onClick={() => toggleDropdown(key)}>
-                    {key.toUpperCase()}
-                  </button>
-                  <div className="dropdown-content">
-                    <ul>
-                      {Array.isArray(autoData[key]) ? (
-                        autoData[key].map((point, index) => (
-                          <li key={index}>{point}</li>
-                        ))
-                      ) : (
-                        <li>{autoData[key] || "N/A"}</li>
+              {[
+                { key: "peo", title: "PEO" },
+                { key: "po", title: "PO" },
+                { key: "pso", title: "PSO" },
+              ].map(({ key, title }) => (
+                autoData[key] && (
+                  <div
+                    key={key}
+                    className={`dropdown-section ${dropdowns[key] ? "active" : ""}`}
+                  >
+                    <button onClick={() => toggleDropdown(key)}>
+                      {title}
+                    </button>
+                    <div className="dropdown-content">
+                      <ul>
+                        {Array.isArray(autoData[key]) ? (
+                          autoData[key].map((point, index) => (
+                            <li key={index}>{point}</li>
+                          ))
+                        ) : (
+                          <li>{autoData[key] || "N/A"}</li>
+                        )}
+                      </ul>
+                      {key === "po" && autoData.wk && (
+                        <div style={{ marginTop: "25px", paddingTop: "20px", borderTop: "2px dashed #e2e8f0" }}>
+                          <h4 style={{ color: "#1a3c87", fontWeight: "700", fontSize: "1.1rem", marginBottom: "15px" }}>
+                            Knowledge and Attitude Profile
+                          </h4>
+                          <ul>
+                            {autoData.wk.map((point, index) => (
+                              <li key={index}>{point}</li>
+                            ))}
+                          </ul>
+                        </div>
                       )}
-                    </ul>
+                    </div>
                   </div>
-                </div>
+                )
               ))}
             </div>
           )}
