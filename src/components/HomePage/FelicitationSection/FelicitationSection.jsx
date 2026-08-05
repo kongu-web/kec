@@ -14,6 +14,8 @@ import video10 from "../../../assets/images/HomePage/video10thum.webp";
 import video11 from "../../../assets/images/HomePage/video11thum.webp";
 import video12 from "../../../assets/images/HomePage/video12thum.webp";
 import video13 from "../../../assets/images/HomePage/video13thum.webp";
+import video14 from "../../../assets/images/HomePage/video14thum.webp";
+import video15 from "../../../assets/images/HomePage/video15thum.webp";
 
 
 function FelicitationSection() {
@@ -25,6 +27,18 @@ function FelicitationSection() {
 
 
   const videos = [
+    {
+      id: "Ek7F4DvZBZE?si",
+      title: "CoE in HPC & Drone UnSkool",
+      desc: "CoE in HPC & Drone UnSkool",
+      thumb: video15,
+    },
+     {
+      id: "s9B1nABZ7D0?si",
+      title: "✨ Transform Yourself with KEC",
+      desc: "✨ Transform Yourself with KEC",
+      thumb: video14,
+    },
    {
       id: "pvui6WqwwiY?si",
       title: "38th Graduation Day",
