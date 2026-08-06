@@ -9,7 +9,6 @@ const committeeData = [
     policy: "Green Campus Policy",
     members: [
       "Dr.V.Sangeetha (Chemical)",
-      "Dr.A.R.Krishnaraja (Civil)",
       "Mr.A.Mohan Kumar (Mechanical)",
     ],
   },
@@ -20,8 +19,8 @@ const committeeData = [
   {
     policy: "Divyangan Friendliness Information Policy",
     members: [
-      "Dr.R.Rajasekar (Mechanical)",
       "Dr.P.Ravichandran (Mechatronics)",
+      "Dr.K.S.Karthi Vinith (Automobile)",
     ],
   },
   {

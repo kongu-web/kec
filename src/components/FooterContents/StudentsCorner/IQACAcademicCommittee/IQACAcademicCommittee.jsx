@@ -6,16 +6,16 @@ import Footer from "../../../HomePage/Footer/Footer";
 import "../../../../App.css";
 
 const members = [
-  { name: "Dr.N.Senthilnathan (CCO Accreditation)", role: "Chairman" },
-  { name: "Dr.P.Nirmaladevi (ECE)", role: "Member" },
-  { name: "Dr.B.Venkatesan (EIE)", role: "Member" },
-  { name: "Dr.V.Surendar (EEE)", role: "Member" },
-  { name: "Dr.T.Abirami (IT)", role: "Member" },
-  { name: "Dr.P.Sundharesalingam (MBA)", role: "Member" },
-  { name: "Ms.N.Dhivya Bharathi (FT)", role: "Member" },
-  { name: "Mr.A.Ganesh (Mechanical)", role: "Member" },
-  { name: "Ms.P.Ananthi (CSD)", role: "Member" },
-  { name: "Mr.K.S.Parthasarathi (B.Arch)", role: "Member" },
+  { name: "Dr.N.Senthilnathan (EEE & Dean Accreditation)", role: "Chairman" },
+  { name: "Dr.P.Nirmaladevi (ECE)", role: "coordinator" },
+  { name: "Dr.P.Sundharesalingam (MBA)", role: "coordinator" },
+  { name: "Dr.V.Surendar (EEE)", role: "coordinator" },
+  { name: "Dr.B.Venkatesan (EIE)", role: "coordinator" },
+  { name: "Dr.P.Ravichandran (MTS)", role: "coordinator" },
+  { name: "Dr.N.Sasipriyaa (CSE)", role: "coordinator" },
+  { name: "Ms.N.Dhivya Bharathi (FT)", role: "coordinator" },
+  { name: "Mr.K.S.Parthasarathi (B.Arch)", role: "coordinator" },
+  { name: "Ms.E.Sowmiya (IT)", role: "coordinator" },
 ];
 
 const IQACAcademicCommittee = () => {

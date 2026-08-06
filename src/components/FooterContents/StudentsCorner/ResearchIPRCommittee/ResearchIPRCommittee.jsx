@@ -7,13 +7,13 @@ import "../../../../App.css";
 
 const members = [
   { name: "Dr.R.Rajasekar (Mechanical)", role: "Chairman" },
-  { name: "Dr.K.Senthilkumar (FT)", role: "Member" },
-  { name: "Dr.C.Maheswari (Mechatronics)", role: "Member" },
+  { name: "Dr.S.Maheswaran (ECE)", role: "Member" },
+  { name: "Dr.K.Senthilkumar (Food Tech)", role: "Member" },
   { name: "Dr.V.Sampathkumar (Civil)", role: "Member" },
   { name: "Dr.S.Mothil (Chemical)", role: "Member" },
   { name: "Dr.M.Suresh (EEE)", role: "Member" },
   { name: "Dr.R.Rajkumar (EIE)", role: "Member" },
-  { name: "Mr.Vibin Mammen Vinod (ECE)", role: "Member" },
+  { name: "Mr.S.Sathesh (ECE)", role: "Member" },
 ];
 
 const ResearchIPRCommittee = () => {
@@ -25,7 +25,7 @@ const ResearchIPRCommittee = () => {
         <h2 className="page-title">Research & IPR Committee</h2>
         <p className="description">
           A Research and IPR Committee is formed to monitor and address the
-          issues of Research. CCO R&D is the chairman and a faculty from each
+          issues of Research. Dean R&D is the chairman and a faculty from each
           department as Research Coordinator / Members. The Research committee
           will facilitate the research activities and it will be reviewed
           fortnightly by the Head of the Institution.

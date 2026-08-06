@@ -16,7 +16,7 @@ const StudentsCounsellingCell = () => {
       { name: "Dr. P. VidhyaPriya", designation: "Chairman", dept: "Mgt. Studies", email: "vidhyapriya@kongu.ac.in", phone: "9443722211" },
       { name: "Dr. S. Varadhaganapathy", designation: "Member", dept: "IT", email: "varadhaganapathy@kongu.ac.in", phone: "9443034110" },
       { name: "Dr. V. Marutharaj", designation: "Member (BNYS, M.Sc Psychology)", dept: "Medical Center", email: "marutharaj@kongu.ac.in", phone: "9865201144" },
-      { name: "Dr. S. Rajarathinam", designation: "Counsellor (BNYS, M.S)", dept: "Medical Center", email: "rajarathinam@kongu.ac.in", phone: "9842792277" }
+      { name: "B. Dharshini", designation: "Memberr", dept: "Students Counsellor", email: "-", phone: "9789766104" }
     ],
     activitiesSummary: {
       "2025-26": 4,

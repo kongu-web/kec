@@ -6,8 +6,8 @@ import Footer from "../../../HomePage/Footer/Footer";
 import "../../../../App.css";
 
 const members = [
-  { name: "Dr.R.Rajasekar (Mechanical)", role: "Coordinator" },
-  { name: "Dr.P.Selvakumar (Mechanical)", role: "Member" },
+  { name: "Dr.P.Selvakumar (Mechanical", role: "Coordinator" },
+  { name: "Dr.R.Naveenkumar (Mechanical)", role: "Member" },
   { name: "Dr.T.Logeswaran (EEE)", role: "Member" },
   { name: "Dr.K.Dinesh (CSE)", role: "Member" },
   { name: "Mr.R.Sathish Raam (Chemical)", role: "Member" },

@@ -7,9 +7,8 @@ import "../../../../App.css";
 
 const LibraryCommittee = () => {
   const members = [
-    ["Dr.R.Baskar (FT)", "Chairman"],
+    ["Dr.P.Karthikeyan (MBA)", "Chairman"],
     ["Dr.N.Nithyavathy (MTS)", "Member"],
-    ["Dr.P.Karthikeyan (Mgt.Studies)", "Member"],
     ["Dr.K.Dinesh (CSE)", "Member"],
     ["Ms.V.Mekala (ECE)", "Member"],
     ["Dr.N.Priyadharshini (EEE)", "Member"],
