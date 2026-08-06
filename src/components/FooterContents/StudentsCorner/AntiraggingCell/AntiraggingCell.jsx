@@ -7,29 +7,25 @@ import "../../../../App.css";
 
 const antiraggingData = [
   {
-    name: "Dr. R. Parameshwaran (Principal)",
+    name: "Dr.R.Parameshwaran (Principal)",
     category: "Chairman",
     phone: "9942820583",
   },
-  { name: "Dr. G. Murugesan (ECE)", category: "Member", phone: "9865273774" },
+  { name: "Dr.G.Murugesan (ECE)", category: "Member", phone: "9865273774" },
+  { name: "Dr. R.Viswanathan (S&H)", category: "Member", phone: "9487151694" },
   { name: "Dr. S.Shanthi (CSE)", category: "Member", phone: "9942911551" },
-  {
-    name: "Dr. P.N. Palanisamy (Chemistry)",
-    category: "Member",
-    phone: "9715508383",
-  },
   {
     name: "Inspector of Police, Perundurai",
     category: "Police Department",
-    phone: "4294220548",
+    phone: "04294220548",
   },
   {
     name: "Tahsildar, Perundurai",
     category: "Taluk Office",
-    phone: "4294220577",
+    phone: "04294220577",
   },
   {
-    name: "Ms. G. Priya Naveen",
+    name: "Ms.G.Priya Naveen",
     category: "Official of NGO",
     phone: "9047036969",
   },
@@ -39,24 +35,24 @@ const antiraggingData = [
     phone: "9842914895",
   },
   {
-    name: "Mr. K. Sakthivel",
+    name: "Dr.K.Manjula Rani",
     category: "Parent representative",
-    phone: "9842720087",
+    phone: "9443087977",
   },
   {
-    name: "Mr. V. Thangavelu",
+    name: "Mr.C.Mohanraj",
     category: "Non Teaching representative",
-    phone: "9698770597",
+    phone: "9865721106",
   },
   {
-    name: "Mr. V. Kathirvel, 22CER036",
+    name: "Mr.S.Janish, 24ECR085",
     category: "Student representative",
-    phone: "9965004018",
+    phone: "8089365701",
   },
   {
-    name: "Ms. Dhiyabharathi Balan, 23ECR052",
+    name: "Ms.G.P.Rajamithra, 25CSR230",
     category: "Student representative",
-    phone: "9047531785",
+    phone: "7845010918",
   },
 ];
 

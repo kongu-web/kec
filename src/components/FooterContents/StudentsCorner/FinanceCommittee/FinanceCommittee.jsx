@@ -11,10 +11,10 @@ import { faMoneyBillWave } from "@fortawesome/free-solid-svg-icons";
 const FinanceCommittee = () => {
   const committeeMembers = [
     { name: "Dr. R. Parameshwaran  (Principal)", role: "Chairman" },
-    { name: "Dr. P. N. Palanisamy (Chemistry)", role: "Member" },
-    { name: "Mr. T. Chandrasekaran (AO)", role: "Member" },
+    { name: "Dr. P. N. Palanisamy (Dean Planning)", role: "Member" },
     { name: "Dr. P. Balasubramanie (Registrar)", role: "Member" },
-    { name: "Mr. M. Murali (AR)", role: "Convener" },
+    { name: "Mr. T. Chandrasekaran (AO, KVITT)", role: "Member" },
+    { name: "Mr. M. Murali (AO)", role: "Convener" },
   ];
 
   return (

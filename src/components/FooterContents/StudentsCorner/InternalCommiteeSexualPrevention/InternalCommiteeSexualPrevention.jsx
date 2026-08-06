@@ -8,22 +8,16 @@ import "../../../../App.css";
 
 const members = [
   {
-    name: "Thiru.E.R.K.KRISHNAN",
-    category: "Correspondent",
-    mobile: "042924226510",
-    email: "principal@kongu.edu",
-  },
-  {
-    name: "Dr.R.Parameshwaran",
-    category: "Principal",
-    mobile: "9942820583",
-    email: "principal@kongu.ac.in",
-  },
-  {
-    name: "Dr.R.R.Rajalaxmi (AI)",
+    name: "Dr.R.R.Rajalaxmi (AIML)",
     category: "Presiding Officier",
     mobile: "9486561199",
     email: "rrr@kongu.ac.in",
+  },
+  {
+    name: "Dr.P.Balasubramanie (Registrar)",
+    category: "Member",
+    mobile: "9965277765",
+    email: "registrar@kongu.ac.in",
   },
   {
     name: "Dr.M.Dhavamani (Mathematics)",
@@ -44,10 +38,10 @@ const members = [
     email: "vidyapriya@kongu.ac.in",
   },
   {
-    name: "Dr.K.Gomathi (MTS)",
+    name: "Dr.E.B.Priyanga (MTS)",
     category: "Member",
-    mobile: "9965010639",
-    email: "gomathik@kongu.ac.in",
+    mobile: "8098927503",
+    email: "priyanka.auto@kongu.ac.in",
   },
   {
     name: "Dr.T.Logeswaran (EEE)",
@@ -56,58 +50,52 @@ const members = [
     email: "logeswaran@kongu.ac.in",
   },
   {
-    name: "Dr.P.Balasubramanie (Registrar)",
+    name: "Ar.V.Sivaranjani (B.Arch)",
     category: "Member",
-    mobile: "9965277765",
-    email: "registrar@kongu.ac.in",
+    mobile: "7358192274",
+    email: "Sivaranajani.ksa@kongu.edu",
   },
   {
-    name: "Mr.M.Murali (AR)",
+    name: "Mr.M.Murali (AO)",
     category: "Member",
     mobile: "9842352452",
     email: "mmurali@kongu.ac.in",
   },
   {
-    name: "Dr.J.Sudha (PA to Principal)",
+    name: "Dr.J.Sudha (Deputy Registrar)",
     category: "Member",
     mobile: "9444192238",
     email: "sudha@kongu.ac.in",
   },
   {
-    name: "Ms.C.Barbara Lydia,Advocate,Erode",
+    name: "Ms.A.P.Sailendharani,Advocate",
     category: "Member",
-    mobile: "9842704828",
-    email: "lawyercbl@gmail.com",
+    mobile: "7010292100",
+    email: "advsailendharani@gmail.com",
   },
   {
-    name: "Ms.M.Subitsa (Psychology,KASC)",
+    name: "Ms.A.Abirami (Psychology,KASC)",
     category: "Member",
-    mobile: "8870775045",
-    email: "subitsakumar@gmail.com",
+    mobile: "7810040448",
+    email: "abiramianand28d@gmail.com",
   },
-  {
-    name: "Ms.B.Swetha (Psychology,KASC)",
-    category: "Member",
-    mobile: "9344516755",
-    email: "swetha23257@gmail.com",
-  },
-  {
-    name: "Ms.A.P.Sahana (22ECR159)",
+ {
+    name: "Ms.Harshithaa SV (23CER016)",
     category: "Student Representative",
-    mobile: "9514243183",
-    email: "sahanaap.22ece@kongu.edu",
+    mobile: "9444854747",
+    email: "harshithaa.23civil@kongu.edu",
   },
-  {
+   {
     name: "Mr.Sibi R (24ALR057)",
     category: "Student Representative",
     mobile: "6374054121",
     email: "sibir.24aim@kongu.edu",
   },
   {
-    name: "Ms.Harshithaa SV (23CER016)",
+    name: "Mr.Akshaya S M (25EER005)",
     category: "Student Representative",
-    mobile: "9444854747",
-    email: "harshithaa.23civil@kongu.edu",
+    mobile: "6385320769",
+    email: "akshayasm.25eee@kongu.edu",
   },
 ];
 
@@ -125,8 +113,7 @@ const InternalCommiteeSexualPrevention = () => {
           working environment to all girl students and its women employees. As
           per the guidelines of University Grants Commission and the Supreme
           Court, an Anti-Sexual Harassment cell / Internal Complaint Committee
-          (ICC) has been established by the College. Its Internal Complaints
-          Committee (ICC) members, who can be contacted by any aggrieved person,
+          (ICC) has been established by the College. ICC members who can be contacted by any aggrieved person,
           are as follows:
         </p>
 

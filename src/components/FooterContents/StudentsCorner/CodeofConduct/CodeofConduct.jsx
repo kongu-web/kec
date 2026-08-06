@@ -10,11 +10,11 @@ import { faBalanceScale } from "@fortawesome/free-solid-svg-icons";
 
 const CodeofConduct = () => {
   const committeeMembers = [
-    { name: "Dr.B.Meenakshi Priya (MTS)", role: "Chairman" },
-    { name: "Dr.S.Varadhaganapathy  (IT)", role: "Member" },
-    { name: "Dr.T.Meeradevi  (ECE)", role: "Member" },
-    { name: "Dr.S.J.Suji Prasad  (EIE)", role: "Member" },
-    { name: "Dr.J.Rajini (English)", role: "Convener" },
+    { name: "Dr.R.Rajasekar (Dean R&D)", role: "Chairman" },
+    { name: "Dr.S.Malliga (CSE)", role: "Member" },
+    { name: "Dr.N.Kasthuri (ECE)", role: "Member" },
+    { name: "Dr.A.Geetha (Chemistry)", role: "Member" },
+    { name: "Dr.K.Senthilkumar (Food Tech)", role: "Convener" },
   ];
 
   return (

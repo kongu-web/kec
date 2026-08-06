@@ -13,7 +13,7 @@ const members = [
     role: "Chairman",
     mobile: "9715814284",
   },
-  { name: "Dr.K.Prabu (HOD Physics)", role: "Member", mobile: "9095171720" },
+  { name: "Dr.K.Prabu (Physics)", role: "Member", mobile: "9095171720" },
   { name: "Dr.R.Ramyasri (English)", role: "Member", mobile: "8012617387" },
   {
     name: "Mr.K.V.Satheesh Kumar (Mechanical)",

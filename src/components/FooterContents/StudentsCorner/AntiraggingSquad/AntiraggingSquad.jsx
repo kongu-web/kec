@@ -7,16 +7,16 @@ import "../../../../App.css";
 
 const squadMembers = [
   {
-    name: "Dr. K. Krishnamurthy, Student Affairs",
+    name: "Dr.K.Kannan, Student Affairs",
     category: "Chairman",
-    phone: "9842722881",
+    phone: "9842823432",
   },
-  { name: "Dr. V. Chitradevi  (FT)", category: "Member", phone: "9865904404" },
-  { name: "Dr. P. Natesan (AI)", category: "Member", phone: "9443840665" },
+  { name: "Dr.V.Jegadheesan  (MTS)", category: "Member", phone: "9003760212" },
+  { name: "Dr.M.Karthik (EEE)", category: "Member", phone: "9843626288" },
   {
-    name: "Dr. R. Somasundaram (MBA)",
+    name: "Dr.J.Rajini (English)",
     category: "Member",
-    phone: "9443305502",
+    phone: "9715508383",
   },
 ];
 

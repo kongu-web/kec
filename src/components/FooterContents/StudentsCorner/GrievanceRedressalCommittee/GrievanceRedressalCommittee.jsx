@@ -19,19 +19,19 @@ const members = [
     icon: faUserTie,
   },
   {
-    name: "Dr.E.Gothai (CSE)",
+    name: "Dr.K.Kannan (Chemical)",
     role: "Member",
     mobile: "9842726627",
     icon: faUserTie,
   },
   {
-    name: "Dr.R.Somasundaram (Mgt.Studies)",
+    name: "Dr.R.Somasundaram (MBA)",
     role: "Member",
     mobile: "9443305502",
     icon: faUserTie,
   },
   {
-    name: "Dr.C.Jegadeesan (Auto)",
+    name: "Dr.C.Jegadeesan (MTS)",
     role: "Member",
     mobile: "9003760212",
     icon: faUserTie,
@@ -43,15 +43,15 @@ const members = [
     icon: faUserTie,
   },
   {
-    name: "Mr.Bharani Sri J J (22MTR017)",
+    name: "Mr.S.Chiradeep (24MTR015)",
     role: "Student Representative",
-    mobile: "8056654316",
+    mobile: "9486789332",
     icon: faUserGraduate,
   },
   {
-    name: "Ms.M.Mathumathi (23CSR126)",
+    name: "Ms.Rithikvik (25CSR244)",
     role: "Student Representative",
-    mobile: "6369593242",
+    mobile: "9043702528",
     icon: faUserGraduate,
   },
 ];

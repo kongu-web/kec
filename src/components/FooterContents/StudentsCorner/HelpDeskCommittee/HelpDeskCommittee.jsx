@@ -7,6 +7,12 @@ import "../../../../App.css";
 
 const members = [
   {
+    name: "Dr.R.Parameshwaran",
+    category: "Grievances Redressal",
+    mobile: "9942820583",
+    email: "principal@kongu.ac.in",
+  },
+  {
     name: "Dr.P.N.Palanisamy",
     category: "All Services",
     mobile: "9488644390",
@@ -17,12 +23,6 @@ const members = [
     category: "Anti Ragging",
     mobile: "9865273774",
     email: "gmece@kongu.ac.in",
-  },
-  {
-    name: "Dr.E.Gothai",
-    category: "Grievances Redressal",
-    mobile: "9842726627",
-    email: "egothai@kongu.ac.in",
   },
   {
     name: "Dr.R.Viswanathan",
@@ -50,10 +50,10 @@ const members = [
     email: "kannank@kongu.ac.in",
   },
   {
-    name: "Dr.R.Baskar",
+    name: "Dr.B.Meenakshi Priya",
     category: "Alumni Matters",
     mobile: "9842294264",
-    email: "erbaskar@kongu.ac.in",
+    email: "Dean_ia@kongu.ac.in",
   },
   {
     name: "Mr.R.Gokulakrishnan",
@@ -66,12 +66,6 @@ const members = [
     category: "System and Website",
     mobile: "9443840665",
     email: "natesanp@kongu.ac.in",
-  },
-  {
-    name: "Dr.A.R.Krishnaraja",
-    category: "Campus Maintenance",
-    mobile: "9843501835",
-    email: "campusofficer@kongu.ac.in",
   },
   {
     name: "Mr.N.Subramanian",
@@ -95,7 +89,7 @@ const members = [
     name: "Mr.N.Rajadurai",
     category: "Housekeeping",
     mobile: "9940987456",
-    email: "",
+    email: "rajadurai@kongu.ac.in",
   },
 ];
 
