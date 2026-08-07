@@ -1,60 +1,145 @@
 [
+   {
+    "name": "Cognizant",
+    "logo": "./CSE_IT/cognizant.webp",
+    "placed": "126 students",
+    "departments": "CSE, ECE, AIDS,AIML",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Infosys",
+    "logo": "./CSE_IT/infosys.webp",
+    "placed": "9 students",
+    "departments": "CSE, EEE, ECE",
+    "category": "IT_companies"
+  },
   {
     "name": "Rubrix",
     "logo": "./CSE_IT/rubrix.webp",
     "placed": "2 students",
     "departments": "CSE,CSD",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "JP MorganChase",
     "logo": "./CSE_IT/jp_morganchase.webp",
     "placed": "1 students",
     "departments": "CSE",
-    "category": "CSE_IT"
+    "category": "IT_companies"
+  },
+   {
+    "name": "Deloitte",
+    "logo": "./CSE_IT/deloitte.webp",
+    "placed": "5 students",
+    "departments": "CSE,IT,AIDS,ECE",
+    "category": "IT_companies"
   },
   {
-    "name": "Presidio",
-    "logo": "./CSE_IT/presidio.webp",
-    "placed": "3 students",
-    "departments": "CSE, CSD, EIE",
-    "category": "CSE_IT"
+    "name": "Accenture",
+    "logo": "./CSE_IT/accenture.webp",
+    "placed": "129 students",
+    "departments": "CSE, EEE, IT,AIDS,AIML,CSD,ECE,EIE",
+    "category": "IT_companies"
+  },
+    {
+    "name": "wipro",
+    "logo": "./CSE_IT/wipro.webp",
+    "placed": "129 students",
+    "departments": "CSE, EEE, IT,AIDS,AIML,CSD,ECE,EIE",
+    "category": "IT_companies"
   },
   {
     "name": "Zoho",
     "logo": "./CSE_IT/zoho.webp",
     "placed": "12 students",
     "departments": "CSE,IT,AIDS,CSD,EEE,EIE",
-    "category": "CSE_IT"
+    "category": "IT_companies"
+  },
+  {
+    "name": "TCS",
+    "logo": "./CSE_IT/tcs.webp",
+    "placed": "61 students",
+    "departments": "CSE,MTRS",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Virtusa",
+    "logo": "./CSE_IT/virtusa.webp",
+    "placed": "2 students",
+    "departments": "CSE, AIML",
+    "category": "IT_companies"
+  },
+   {
+    "name": "HCL Tech",
+    "logo": "./CSE_IT/hcl_tech.webp",
+    "placed": "12 students",
+    "departments": "CSE,IT,CSD,MECH",
+    "category": "IT_companies"
+  },
+    {
+    "name": "hp",
+    "logo": "./CSE_IT/hp.webp",
+    "placed": "7 students",
+    "departments": "CSE, AIDS,AIML",
+    "category": "IT_companies"
+  },
+   {
+    "name": "amazon",
+    "logo": "./CSE_IT/amazon.webp",
+    "placed": "12 students",
+    "departments": "CSE,IT,CSD,MECH",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Soliton",
+    "logo": "./CSE_IT/soliton.webp",
+    "placed": "10 students",
+    "departments": "CSE,IT,AIML,ECE,MTRS",
+    "category": "IT_companies"
+  },
+    {
+    "name": "NETGEAR",
+    "logo": "./EEE_ECE/netgear.webp",
+    "placed": "3 students",
+    "departments": "CSE,CSD,ECE",
+    "category": "IT_companies"
+  },
+   {
+    "name": "Toshiba",
+    "logo": "./EEE_ECE/toshiba.webp",
+    "placed": "1 student",
+    "departments": "AIML",
+    "category": "IT_companies"
+  },
+   {
+    "name": "Capgemini",
+    "logo": "./CSE_IT/capgemini.webp",
+    "placed": "5 students",
+    "departments": "MECH,AUTO",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Presidio",
+    "logo": "./CSE_IT/presidio.webp",
+    "placed": "3 students",
+    "departments": "CSE, CSD, EIE",
+    "category": "IT_companies"
   },
   {
     "name": "Mr.Cooper",
     "logo": "./CSE_IT/mr_cooper.webp",
     "placed": "2 students",
     "departments": "CSE,IT",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "Josh",
     "logo": "./CSE_IT/josh.webp",
     "placed": "2 students",
     "departments": "CSE,AIDS",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
-  {
-    "name": "Codingmart",
-    "logo": "./CSE_IT/codingmart.webp",
-    "placed": "1 students",
-    "departments": "CSD",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Rently",
-    "logo": "./CSE_IT/rently.webp",
-    "placed": "1 students",
-    "departments": "CSE",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "Mallow",
     "logo": "./CSE_IT/mallow.webp",
@@ -62,89 +147,107 @@
     "departments": "CSE,IT,AIDS,CSD,EEE,MTRS",
     "category": "CSE_IT"
   },
-  {
-    "name": "Infosys",
-    "logo": "./CSE_IT/infosys.webp",
-    "placed": "9 students",
-    "departments": "CSE, EEE, ECE",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Cognizant",
-    "logo": "./CSE_IT/cognizant.webp",
-    "placed": "126 students",
-    "departments": "CSE, ECE, AIDS,AIML",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Deloitte",
-    "logo": "./CSE_IT/deloitte.webp",
-    "placed": "5 students",
-    "departments": "CSE,IT,AIDS,ECE",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Accenture",
-    "logo": "./CSE_IT/accenture.webp",
-    "placed": "129 students",
-    "departments": "CSE, EEE, IT,AIDS,AIML,CSD,ECE,EIE",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "IBM",
     "logo": "./CSE_IT/ibm.webp",
     "placed": "2 students",
     "departments": "CSE,AIML",
-    "category": "CSE_IT"
+    "category": "IT_companies"
+  },
+   {
+    "name": "Genworx.AI",
+    "logo": "./CSE_IT/genworx_ai.webp",
+    "placed": "3 students",
+    "departments": "CSE,AIDS,AIML",
+    "category": "IT_companies"
   },
   {
-    "name": "TCS",
-    "logo": "./CSE_IT/tcs.webp",
-    "placed": "61 students",
-    "departments": "CSE,MTRS",
-    "category": "CSE_IT"
+    "name": "Trimble",
+    "logo": "./EEE_ECE/trimble.webp",
+    "placed": "12 students",
+    "departments": "CSE,IT,CSD,AIML,AIDS",
+    "category": "IT_companies"
+  },
+   {
+    "name": "Temenos",
+    "logo": "./CSE_IT/Temenos_Logo_2022.svg.webp",
+    "category": "IT_companies"
   },
   {
-    "name": "Virtusa",
-    "logo": "./CSE_IT/virtusa.webp",
-    "placed": "2 students",
-    "departments": "CSE, AIML",
-    "category": "CSE_IT"
+    "name": "maersk",
+    "logo": "./CSE_IT/maersk.webp",
+    "category": "IT_companies"
   },
   {
-    "name": "Xoriant",
-    "logo": "./CSE_IT/xoriant.webp",
+    "name": "oracle",
+    "logo": "./CSE_IT/oracle.webp",
     "placed": "7 students",
     "departments": "CSE, AIDS,AIML",
-    "category": "CSE_IT"
+    "category": "IT_companies"
+  },
+  {
+    "name": "commscope",
+    "logo": "./CSE_IT/commscope.webp",
+    "placed": "7 students",
+    "departments": "CSE, AIDS,AIML",
+    "category": "IT_companies"
+  },
+   {
+    "name": "zopsmart",
+    "logo": "./CSE_IT/zopsmart.webp",
+    "placed": "7 students",
+    "departments": "CSE, AIDS,AIML",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Survay Sparrow",
+    "logo": "./CSE_IT/survay_sparrow.webp",
+    "placed": "3 students",
+    "departments": "CSE,CSD",
+    "category": "IT_companies"
+  },
+   {
+    "name": "Codingmart",
+    "logo": "./CSE_IT/codingmart.webp",
+    "placed": "1 students",
+    "departments": "CSD",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Rently",
+    "logo": "./CSE_IT/rently.webp",
+    "placed": "1 students",
+    "departments": "CSE",
+    "category": "IT_companies"
   },
   {
     "name": "JMAN Group",
     "logo": "./CSE_IT/jman_group.webp",
     "placed": "5 students",
     "departments": "CSE,AIDS",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "Workhall",
     "logo": "./CSE_IT/workhall.webp",
     "placed": "1 students",
     "departments": "CSD",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "Sirius",
     "logo": "./CSE_IT/sirius.webp",
     "placed": "2 students",
     "departments": "AIDS,AIML",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "AppSentinels",
     "logo": "./CSE_IT/appsentinels.webp",
     "placed": "2 students",
     "departments": "AIDS",
-    "category": "CSE_IT"
+    "category": "IT_companies"
   },
   {
     "name": "Securin",
@@ -165,7 +268,26 @@
     "logo": "./CSE_IT/avasoft.webp",
     "placed": "2 students",
     "departments": "AIML,CSD",
-    "category": "CSE_IT"
+    "category": "IT_companies"
+  },
+   {
+    "name": "Kaar Technologies",
+    "logo": "./CSE_IT/kaar_technologies.webp",
+    "placed": "2 students",
+    "departments": "AIML",
+    "category": "IT_companies"
+  },
+   {
+    "name": "ZoomRx",
+    "logo": "./CSE_IT/ZoomRx.jpg",
+    "category": "IT_companies"
+  },
+  {
+    "name": "Vtiger",
+    "logo": "./CSE_IT/vtiger.webp",
+    "placed": "1 students",
+    "departments": "AIML",
+    "category": "IT_companies"
   },
   {
     "name": "Besant Technologies",
@@ -181,20 +303,7 @@
     "departments": "ECE",
     "category": "CSE_IT"
   },
-  {
-    "name": "Kaar Technologies",
-    "logo": "./CSE_IT/kaar_technologies.webp",
-    "placed": "2 students",
-    "departments": "AIML",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Vtiger",
-    "logo": "./CSE_IT/vtiger.webp",
-    "placed": "1 students",
-    "departments": "AIML",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "Zuci Systems",
     "logo": "./CSE_IT/zuci_systems.webp",
@@ -209,27 +318,8 @@
     "departments": "CSE,IT",
     "category": "CSE_IT"
   },
-  {
-    "name": "HCL Tech",
-    "logo": "./CSE_IT/hcl_tech.webp",
-    "placed": "12 students",
-    "departments": "CSE,IT,CSD,MECH",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Capgemini",
-    "logo": "./CSE_IT/capgemini.webp",
-    "placed": "5 students",
-    "departments": "MECH,AUTO",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Soliton",
-    "logo": "./CSE_IT/soliton.webp",
-    "placed": "10 students",
-    "departments": "CSE,IT,AIML,ECE,MTRS",
-    "category": "CSE_IT"
-  },
+ 
+  
   {
     "name": "Ignitarium",
     "logo": "./CSE_IT/ignitarium.webp",
@@ -244,13 +334,7 @@
     "departments": "CSE,IT,AIML",
     "category": "CSE_IT"
   },
-  {
-    "name": "Survay Sparrow",
-    "logo": "./CSE_IT/survay_sparrow.webp",
-    "placed": "3 students",
-    "departments": "CSE,CSD",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "CodeMagon",
     "logo": "./CSE_IT/codemagon.webp",
@@ -321,13 +405,7 @@
     "departments": "CSE,IT",
     "category": "CSE_IT"
   },
-  {
-    "name": "Genworx.AI",
-    "logo": "./CSE_IT/genworx_ai.webp",
-    "placed": "3 students",
-    "departments": "CSE,AIDS,AIML",
-    "category": "CSE_IT"
-  },
+ 
   {
     "name": "Calibraint Technologies",
     "logo": "./CSE_IT/calibraint_technologies.webp",
@@ -473,49 +551,49 @@
     "logo": "./EEE_ECE/applied_materials.webp",
     "placed": "7 students",
     "departments": "CSE,IT,AIML,CSD,EEE,EIE",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Honeywell",
     "logo": "./EEE_ECE/Honeywell.webp",
     "placed": "3 students",
     "departments": "EIE",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Tessolve Semiconductors",
     "logo": "./EEE_ECE/tessolve_semiconductors.webp",
     "placed": "2 students",
     "departments": "ECE",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Valeo India Pvt Ltd",
     "logo": "./EEE_ECE/valeo_india_pvt_ltd.webp",
     "placed": "31 students",
     "departments": "CSE,IT,AIDS,AIML,CSD,ECE,MECH,MTRS",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Delphi TVS",
     "logo": "./EEE_ECE/delphi_tvs.webp",
     "placed": "5 students",
     "departments": "MECH,AUTO",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Yokogawa",
     "logo": "./EEE_ECE/yokogawa.webp",
     "placed": "9 students",
     "departments": "EIE,CHEM",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Data Pattern",
     "logo": "./EEE_ECE/data_pattern.webp",
     "placed": "5 students",
     "departments": "ECE,EEE",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "NSK Bearings",
@@ -529,15 +607,9 @@
     "logo": "./EEE_ECE/schneider.webp",
     "placed": "7 students",
     "departments": "ECE,EIE",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
-  {
-    "name": "Toshiba",
-    "logo": "./EEE_ECE/toshiba.webp",
-    "placed": "1 student",
-    "departments": "AIML",
-    "category": "EEE_ECE"
-  },
+ 
   {
     "name": "Delta",
     "logo": "./EEE_ECE/delta.webp",
@@ -545,13 +617,7 @@
     "departments": "EEE,ECE,EIE,MECH,MTRS",
     "category": "EEE_ECE"
   },
-  {
-    "name": "NETGEAR",
-    "logo": "./EEE_ECE/netgear.webp",
-    "placed": "3 students",
-    "departments": "CSE,CSD,ECE",
-    "category": "EEE_ECE"
-  },
+
   {
     "name": "JSE",
     "logo": "./EEE_ECE/jse.webp",
@@ -636,13 +702,7 @@
     "departments": "ECE",
     "category": "EEE_ECE"
   },
-  {
-    "name": "Trimble",
-    "logo": "./EEE_ECE/trimble.webp",
-    "placed": "12 students",
-    "departments": "CSE,IT,CSD,AIML,AIDS",
-    "category": "CSE_IT"
-  },
+  
   {
     "name": "Algomox",
     "logo": "./CSE_IT/algomox_logo.jpg",
@@ -658,31 +718,14 @@
     "logo": "./CSE_IT/Grootan.jpg",
     "category": "CSE_IT"
   },
-  {
-    "name": "Netgear",
-    "logo": "./CSE_IT/Logo_Netgear.png",
-    "category": "CSE_IT"
-  },
+  
   {
     "name": "RX100 Venturus",
     "logo": "./CSE_IT/RX100.png",
     "category": "CSE_IT"
   },
-  {
-    "name": "Temenos",
-    "logo": "./CSE_IT/Temenos_Logo_2022.svg.webp",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "Toshiba",
-    "logo": "./CSE_IT/TOSHIBA_Logo.png",
-    "category": "CSE_IT"
-  },
-  {
-    "name": "ZoomRx",
-    "logo": "./CSE_IT/ZoomRx.jpg",
-    "category": "CSE_IT"
-  },
+ 
+ 
   {
     "name": "Linkra cables",
     "logo": "./EEE_ECE/linkra_cables.webp",
@@ -702,7 +745,7 @@
     "logo": "./EEE_ECE/base_automation.webp",
     "placed": "14 students",
     "departments": "CSE,ECE,EEE,EIE,MTRS",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Niral Automation",
@@ -723,21 +766,21 @@
     "logo": "./EEE_ECE/Fanuc_logo.svg.webp",
     "placed": "Placed Students",
     "departments": "Departments",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "ITC Limited",
     "logo": "./EEE_ECE/ITC.png",
     "placed": "Placed Students",
     "departments": "Departments",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Microchip Technology",
     "logo": "./EEE_ECE/Microchip-Logo.svg.webp",
     "placed": "Placed Students",
     "departments": "Departments",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Motherson Group",
@@ -751,14 +794,14 @@
     "logo": "./EEE_ECE/murugappa.png",
     "placed": "Placed Students",
     "departments": "Departments",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Renault Nissan",
     "logo": "./EEE_ECE/Renault.png",
     "placed": "Placed Students",
     "departments": "Departments",
-    "category": "EEE_ECE"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "SLB",
@@ -793,14 +836,14 @@
     "logo": "./MECH_AUTO/slb.webp",
     "placed": "8 students",
     "departments": "EIE,MECH,MTRS,CIV,CHEM",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "TAC Tuticorin",
-    "logo": "./MECH_AUTO/tac_tuticorin.webp",
+    "logo": "./MECH_AUTO/tac_tuticorin.jpg",
     "placed": "6 students",
     "departments": "EIE,MECH,CHEM",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "TVS Sri Chakra",
@@ -814,7 +857,7 @@
     "logo": "./MECH_AUTO/brakes_india.webp",
     "placed": "4 students",
     "departments": "EEE,MECH,MTRS",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Janatics",
@@ -877,7 +920,7 @@
     "logo": "./MECH_AUTO/emerson.webp",
     "placed": "1 students",
     "departments": "MTRS",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "CRP robots",
@@ -933,7 +976,7 @@
     "logo": "./MECH_AUTO/craftsman__automation__limited.webp",
     "placed": "2 students",
     "departments": "ECE,EEE",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "WEG Industries",
@@ -1050,37 +1093,37 @@
   {
     "name": "Delphi TVS",
     "logo": "./MECH_AUTO/1681206514_Gv5Utq_Delphi_TVS_Logo.png",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Adani",
     "logo": "./MECH_AUTO/Adani_2012_logo.png",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Ford Motor Company",
     "logo": "./MECH_AUTO/Ford-Motor-Company-Logo.png",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Hyundai",
     "logo": "./MECH_AUTO/Hyundai.png",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "JSW Group",
     "logo": "./MECH_AUTO/JSW_Group_logo.svg.png",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Moog",
     "logo": "./MECH_AUTO/Moog_logo.svg.webp",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Rane Group",
     "logo": "./MECH_AUTO/Rane_Group_Logo.jpg",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "TAC Tuticorin",
@@ -1095,7 +1138,7 @@
   {
     "name": "Valeo",
     "logo": "./MECH_AUTO/Valeo_Logo.svg.webp",
-    "category": "MECH_AUTO"
+    "category": "CIVIL_CORE"
   },
   {
     "name": "Reliance Industries",
@@ -1177,6 +1220,13 @@
   {
     "name": "Bull Machine",
     "logo": "./CIVIL_CORE/bull_machine.webp",
+    "placed": "3 students",
+    "departments": "ECE,AUTO",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "bosch",
+    "logo": "./CIVIL_CORE/16-Bosch.webp",
     "placed": "3 students",
     "departments": "ECE,AUTO",
     "category": "CIVIL_CORE"
