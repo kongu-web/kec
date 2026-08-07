@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import "./PlacementSection.css";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
@@ -8,6 +9,7 @@ import Spinner from "../../Spinner";
 import Slider from "./Slider";
 
 const PlacementSection = () => {
+  const location = useLocation();
   const importSliderImages = (r) => r.keys().map(r);
   const sliderImages = importSliderImages(
     require.context(
@@ -16,7 +18,13 @@ const PlacementSection = () => {
       /\.(png|jpe?g|svg|webp)$/
     )
   );
-  const [activeTab, setActiveTab] = useState("Home");
+  const [activeTab, setActiveTab] = useState(location.state?.tab || "Home");
+
+  useEffect(() => {
+    if (location.state?.tab) {
+      setActiveTab(location.state.tab);
+    }
+  }, [location.state]);
 
   const renderImages = () => {
     const context = require.context(

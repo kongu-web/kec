@@ -481,7 +481,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 40px;
+  padding: 12px 24px;
   background: #fff;
   box-shadow: none;
   z-index: 900;
@@ -527,7 +527,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 22px;
+  gap: 16px;
   margin: 0;
   padding: 0;
 }
@@ -535,10 +535,12 @@
 /* MENU ITEM */
 .nav-menu li {
   position: relative;
-  padding: 8px 8px;
+  padding: 6px 4px;
+  font-size: 15.5px;
   font-weight: 600;
   color: #303877;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 /* TOP BAR */
@@ -546,9 +548,9 @@
   content: "";
   position: absolute;
   top: 0;
-  left: 20%;
+  left: 25%;
   transform: translateX(-50%);
-  width: 60px;
+  width: 36px;
   height: 3px;
   background: #009edb;
   border-radius: 3px;
@@ -559,12 +561,58 @@
   content: "";
   position: absolute;
   bottom: 0;
-  left: 80%;
+  left: 75%;
   transform: translateX(-50%);
-  width: 60px;
+  width: 36px;
   height: 3px;
   background: #009edb;
   border-radius: 3px;
+}
+
+/* PLACEMENT STATUS SPECIFIC ACTIVE LINE SLIDE INCREASE & THICKNESS */
+.nav-menu li.placement-status-menu.active::before {
+  left: 24%;
+  width: 58px;
+  height: 3.5px;
+}
+
+.nav-menu li.placement-status-menu.active::after {
+  left: 76%;
+  width: 58px;
+  height: 3.5px;
+}
+
+@media (max-width: 1360px) {
+  .main-navbar {
+    padding: 10px 16px;
+  }
+  .nav-left {
+    gap: 10px;
+  }
+  .nav-badges {
+    gap: 8px;
+  }
+  .nav-badges img {
+    height: 48px;
+  }
+  .nav-logo {
+    height: 54px;
+  }
+  .nav-menu {
+    gap: 10px;
+  }
+  .nav-menu li {
+    font-size: 14px;
+    padding: 4px 2px;
+  }
+  .nav-menu li.active::before,
+  .nav-menu li.active::after {
+    width: 28px;
+  }
+  .nav-menu li.placement-status-menu.active::before,
+  .nav-menu li.placement-status-menu.active::after {
+    width: 48px;
+  }
 }
 
 .nav-menu li.has-dropdown {
