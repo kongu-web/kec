@@ -50,7 +50,16 @@ import II_card6 from "../../../assets/images/Placement/II_card6.webp";
 
 import companiesData from "./Data/companies_data.json";
 
-const categories = ["CS / IT / AI", "EIE / EEE / ECE", "Mechanical / Mechatronics / Auto", "Core Companies"];
+const mainCategories = ["IT Companies", "Core Companies"];
+
+const getUniqueCompanies = (list) => {
+  const seen = new Set();
+  return list.filter((c) => {
+    if (!c.name || seen.has(c.name.trim().toLowerCase())) return false;
+    seen.add(c.name.trim().toLowerCase());
+    return true;
+  });
+};
 
 const companyLogos = require.context(
   "../../../assets/images/Placement/Companies",
@@ -69,37 +78,52 @@ const getLogo = (jsonPath) => {
     return companyLogos(cleanPath);
   } catch (err) {}
 
-  // 2. Try matching by basename
-  const basename = jsonPath.split("/").pop().toLowerCase();
-  const foundKey = logoKeys.find((key) => {
-    const keyBasename = key.split("/").pop().toLowerCase();
-    return keyBasename === basename;
-  });
-
-  if (foundKey) {
+  // 2. Try exact path match by case-insensitive key search
+  const cleanPathLower = jsonPath.replace("images/", "./").toLowerCase();
+  const exactKey = logoKeys.find((key) => key.toLowerCase() === cleanPathLower);
+  if (exactKey) {
     try {
-      return companyLogos(foundKey);
+      return companyLogos(exactKey);
     } catch (err) {}
   }
 
-  // 3. Fallback fuzzy search
-  const nameWithoutExt = basename.split(".")[0];
-  const fuzzyKey = logoKeys.find((key) => key.toLowerCase().includes(nameWithoutExt));
-  if (fuzzyKey) {
-    try {
-      return companyLogos(fuzzyKey);
-    } catch (err) {}
+  // 3. Try matching by exact filename (basename)
+  const basename = jsonPath.split("/").pop().toLowerCase();
+  if (basename && basename !== "image.png" && basename !== "logo.png" && basename !== "image.webp") {
+    const foundKey = logoKeys.find((key) => {
+      const keyBasename = key.split("/").pop().toLowerCase();
+      return keyBasename === basename;
+    });
+
+    if (foundKey) {
+      try {
+        return companyLogos(foundKey);
+      } catch (err) {}
+    }
   }
 
   return null;
 };
 
-const recruitersByDept = {
-  "CS / IT / AI": companiesData.filter((c) => c.category === "CSE_IT"),
-  "EIE / EEE / ECE": companiesData.filter((c) => c.category === "EEE_ECE"),
-  "Mechanical / Mechatronics / Auto": companiesData.filter((c) => c.category === "MECH_AUTO"),
-  "Core Companies": companiesData.filter((c) => c.category === "CIVIL_CORE"),
-  "Bio / Food / Chemical": companiesData.filter((c) => c.category === "BIO_FOOD_CHEM"),
+const isITCategory = (cat) => {
+  if (!cat) return false;
+  const c = cat.toLowerCase().trim();
+  return c === "it_companies" || c === "it & software" || c === "it_software";
+};
+
+const isCoreCategory = (cat) => {
+  if (!cat) return false;
+  const c = cat.toLowerCase().trim();
+  return c === "civil_core" || c === "bio_food_chem" || c === "core_companies" || c === "core";
+};
+
+const recruitersBySector = {
+  "IT Companies": getUniqueCompanies(
+    companiesData.filter((c) => isITCategory(c.category))
+  ),
+  "Core Companies": getUniqueCompanies(
+    companiesData.filter((c) => isCoreCategory(c.category))
+  ).slice(1),
 };
 
 
@@ -143,7 +167,7 @@ export const teamData = [
 ];
 
 const Placement = () => {
-  const [activeCategory, setActiveCategory] = useState(categories[0]);
+  const [activeSector, setActiveSector] = useState("IT Companies");
 
   return (
     <div className="placement-page">
@@ -312,45 +336,29 @@ const Placement = () => {
 
       <section className="recruiters-section">
         <div className="recruiters-container">
-          <h2 className="section-title">Department-wise Recruiting Companies</h2>
+          <h2 className="section-title">Recruiting Companies</h2>
 
-          <div className="dept-nav">
-            {categories.map((cat) => (
+          {/* Main Sector Navigation - Only 2 Buttons */}
+          <div className="dept-nav main-nav">
+            {mainCategories.map((sector) => (
               <button
-                key={cat}
-                className={activeCategory === cat ? "active" : ""}
-                onClick={() => setActiveCategory(cat)}
+                key={sector}
+                className={activeSector === sector ? "active" : ""}
+                onClick={() => setActiveSector(sector)}
               >
-                {cat}
+                {sector}
               </button>
             ))}
           </div>
 
-          <h2 className="category-heading">{activeCategory} Companies</h2>
+          {/* Company Logos Grid */}
           <div className="company-grid-container">
-            {recruitersByDept[activeCategory].map((company, index) => (
+            {(recruitersBySector[activeSector] || []).map((company, index) => (
               <div className="company-info-box" key={index}>
                 <img
                   src={getLogo(company.logo)}
                   alt={`Logo of ${company.name}`}
                 />
-                <div className="company-overlay">
-                  <h3>{company.name}</h3>
-                  {company.placed && (
-                    <p>
-                      {company.placed.toLowerCase().startsWith("placed")
-                        ? company.placed
-                        : `Placed: ${company.placed}`}
-                    </p>
-                  )}
-                  {company.departments && (
-                    <p>
-                      {company.departments.toLowerCase().startsWith("department")
-                        ? company.departments
-                        : `Departments: ${company.departments}`}
-                    </p>
-                  )}
-                </div>
               </div>
             ))}
           </div>
