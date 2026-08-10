@@ -87,7 +87,6 @@ const searchPages = [
   { name: "Endowments", path: "/endownments" },
   { name: "College Rules", path: "/collegerules" },
   { name: "Placement Cell", path: "/placement" },
-  { name: "Placement Status", path: "/placement-details" },
   { name: "Admission", path: "/admission" },
   { name: "Centre of Excellence (COE)", path: "/coe" },
   { name: "Hackathons", path: "/hackathons" },
@@ -1048,14 +1047,6 @@ const Navbar = () => {
               Placement
             </li>
 
-            <li
-              className={`${location.pathname === "/placement-details" ? "active" : ""} placement-status-menu`}
-              onMouseEnter={() => handleMouseEnter(null)}
-              onClick={() => navigate("/placement-details", { state: { tab: "Status" } })}
-            >
-              Placement Status
-            </li>
-
             {/* <li
               className={
                 location.pathname.startsWith("/campus-life")
@@ -1463,7 +1454,6 @@ const Navbar = () => {
                 )} */}
 
                 <li onClick={() => { navigate("/placement"); setMobileMenu(false); }}>Placement</li>
-                <li onClick={() => { navigate("/placement-details", { state: { tab: "Status" } }); setMobileMenu(false); }}>Placement Status</li>
                 <li onClick={() => { navigate("/admission"); setMobileMenu(false); }}>Admission</li>
 
                 {/* PLACEMENT */}

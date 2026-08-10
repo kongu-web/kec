@@ -1,5 +1,5 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import "./Placement.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
@@ -167,6 +167,7 @@ export const teamData = [
 ];
 
 const Placement = () => {
+  const navigate = useNavigate();
   const [activeSector, setActiveSector] = useState("IT Companies");
 
   return (
@@ -185,6 +186,36 @@ const Placement = () => {
             corporate demands, ensuring every student is industry-ready and
             poised for success.
           </p>
+
+          <div className="hero-buttons-container">
+            <button
+              className="hero-btn stats-btn"
+              onClick={() =>
+                navigate("/placement-details", { state: { tab: "Status" } })
+              }
+            >
+              <svg
+                className="hero-btn-icon"
+                width="22"
+                height="22"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <line x1="18" y1="20" x2="18" y2="10"></line>
+                <line x1="12" y1="20" x2="12" y2="4"></line>
+                <line x1="6" y1="20" x2="6" y2="14"></line>
+                <path d="M3 18l6-6 4 4 8-8"></path>
+                <polyline points="17 6 21 6 21 10"></polyline>
+              </svg>
+              <span>
+                Placement Status <span className="fade-in-out-text">2026-2027</span>
+              </span>
+            </button>
+          </div>
         </div>
       </section>
 
@@ -284,7 +315,7 @@ const Placement = () => {
         </div>
       </section>
 
-      <section className="placement-section">
+      <section className="placement-section" id="placement-statistics">
         <div className="wave-bg"></div>
 
         <div className="container">
