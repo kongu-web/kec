@@ -29,7 +29,7 @@ const PlacementSection = () => {
   const renderImages = () => {
     const context = require.context(
       "../../../assets/images/Placement/Companies",
-      false,
+      true,
       /\.(jpg|jpeg|png|webp|svg|avif|jfif)$/
     );
 
