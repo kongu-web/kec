@@ -1678,3 +1678,20 @@ body {
     margin-top: 10px;
   }
 }
+
+/* Custom Highlights Detail List Styling */
+.highlights-detail-list {
+  list-style-type: disc !important;
+  padding-left: 20px !important;
+  margin: 0 !important;
+}
+
+.highlights-detail-list li {
+  margin-bottom: 8px !important;
+  line-height: 1.6 !important;
+  display: list-item !important;
+}
+
+.highlights-detail-list li:last-child {
+  margin-bottom: 0 !important;
+}
