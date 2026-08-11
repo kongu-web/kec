@@ -7,7 +7,7 @@ import { useState } from "react";
 import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/Mandatory Disclosure 29.7.2025.pdf";
 import organizationStructurePDF from "../../../assets/docs/Footer/OrganizationStructure/KEC_OrganizationStructure2026.pdf";
 import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/KECCodeofConductHandbook.pdf";
-import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2026.pdf";
+import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2026new.pdf";
 import supporting_staff2025 from "../../../assets/docs/Footer/SupportingStaff/supporting_staff2026.pdf";
 import student_details from "../../../assets/docs/Footer/Student Details/student_details2026.pdf";
 import kecundertaking from "../../../assets/docs/Footer/Undertaking/undertaking2026.pdf";
