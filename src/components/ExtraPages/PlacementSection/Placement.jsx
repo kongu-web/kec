@@ -108,13 +108,12 @@ const getLogo = (jsonPath) => {
 const isITCategory = (cat) => {
   if (!cat) return false;
   const c = cat.toLowerCase().trim();
-  return c === "it_companies" || c === "it & software" || c === "it_software";
+  return c.includes("it") || c.includes("software") || c.includes("cse");
 };
 
 const isCoreCategory = (cat) => {
   if (!cat) return false;
-  const c = cat.toLowerCase().trim();
-  return c === "civil_core" || c === "bio_food_chem" || c === "core_companies" || c === "core";
+  return !isITCategory(cat);
 };
 
 const recruitersBySector = {
@@ -123,7 +122,7 @@ const recruitersBySector = {
   ),
   "Core Companies": getUniqueCompanies(
     companiesData.filter((c) => isCoreCategory(c.category))
-  ).slice(1),
+  ),
 };
 
 
