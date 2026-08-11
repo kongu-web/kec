@@ -538,6 +538,11 @@
     "logo": "./Core Engineering/jsw.webp",
     "category": "CIVIL_CORE"
   },
+    {
+    "name": "caterpillar",
+    "logo": "./Core Engineering/caterpillar.webp",
+    "category": "CIVIL_CORE"
+  },
    {
     "name": "Jindal Steel",
     "logo": "./CIVIL_CORE/jindal_steel.webp",
@@ -562,6 +567,11 @@
     "logo": "./Core Engineering/appliedmaterials.webp",
     "placed": "7 students",
     "departments": "CSE,IT,AIML,CSD,EEE,EIE",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "cadence",
+    "logo": "./Core Engineering/cadence.webp",
     "category": "CIVIL_CORE"
   },
    {
@@ -640,10 +650,16 @@
     "category": "CIVIL_CORE"
   },
   {
+    "name": "tafe",
+    "logo": "./MECH_AUTO/tafe.webp",
+    "category": "CIVIL_CORE"
+  },
+  {
     "name": "sanmar",
     "logo": "./MECH_AUTO/sanmar.webp",
     "category": "CIVIL_CORE"
   },
+
   {
     "name": "wabag",
     "logo": "./Core Engineering/wabag.webp",
@@ -1007,14 +1023,6 @@
     "departments": "EIE,EEE",
     "category": "MECH_AUTO"
   },
- 
-  {
-    "name": "McWane",
-    "logo": "./MECH_AUTO/mcwane.webp",
-    "placed": "1 students",
-    "departments": "MECH",
-    "category": "MECH_AUTO"
-  },
   {
     "name": "Kavin Engineering And Services Pvt,Ltd",
     "logo": "./MECH_AUTO/kavin_engineering_and_services_pvt_ltd.webp",
@@ -1086,24 +1094,10 @@
     "category": "MECH_AUTO"
   },
   {
-    "name": "WEG Industries",
-    "logo": "./MECH_AUTO/weg_industries.webp",
-    "placed": "3 students",
-    "departments": "EEE,EIE,MECH",
-    "category": "MECH_AUTO"
-  },
-  {
     "name": "Adwik Intellimech -Mds",
     "logo": "./MECH_AUTO/adwik_intellimech__mds.webp",
     "placed": "3 students",
     "departments": "MTRS",
-    "category": "MECH_AUTO"
-  },
-  {
-    "name": "DCW",
-    "logo": "./MECH_AUTO/dcw.webp",
-    "placed": "7 students",
-    "departments": "MECH,CHEM",
     "category": "MECH_AUTO"
   },
   {
@@ -1134,13 +1128,7 @@
     "departments": "MTRS",
     "category": "MECH_AUTO"
   },
-  {
-    "name": "Barry wehmiller",
-    "logo": "./MECH_AUTO/barry_wehmiller.webp",
-    "placed": "2 students",
-    "departments": "MTRS",
-    "category": "MECH_AUTO"
-  },
+ 
   {
     "name": "NAMIC Industrial Solution",
     "logo": "./MECH_AUTO/namic_industrial_solution.webp",
@@ -1211,6 +1199,16 @@
     "category": "CIVIL_CORE"
   },
    {
+    "name": "asianpints",
+    "logo": "./Core Engineering/asian.webp",
+    "category": "CIVIL_CORE"
+  },
+   {
+    "name": "nipponpaits",
+    "logo": "./Core Engineering/nippon.webp",
+    "category": "CIVIL_CORE"
+  },
+   {
     "name": "SPIC",
     "logo": "./CIVIL_CORE/spic.webp",
     "placed": "9 students",
@@ -1231,6 +1229,16 @@
     "departments": "CSE,ECE",
     "category": "CIVIL_CORE"
   },
+  {
+    "name": "urc",
+    "logo": "./Core Engineering/urc.webp",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "saintgobin",
+    "logo": "./Core Engineering/saintgobin.webp",
+    "category": "CIVIL_CORE"
+  },
 {
     "name": "Vguard",
     "logo": "./MECH_AUTO/vguard.webp",
@@ -1244,6 +1252,26 @@
   {
     "name": "city union Bank",
     "logo": "./Core Engineering/cub.webp",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "southindian Bank",
+    "logo": "./Core Engineering/southindianbank.webp",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "embedur",
+    "logo": "./Core Engineering/embedur.webp",
+    "category": "CIVIL_CORE"
+  },
+  {
+    "name": "simens",
+    "logo": "./Core Engineering/simens.webp",
+    "category": "CIVIL_CORE"
+  },
+   {
+    "name": "sanmina",
+    "logo": "./Core Engineering/sanmina.webp",
     "category": "CIVIL_CORE"
   },
   {
@@ -1275,80 +1303,28 @@
     "category": "CIVIL_CORE"
   },
   {
-    "name": "GEA BGR & Group",
-    "logo": "./CIVIL_CORE/gea_bgr___group.webp",
-    "placed": "12 students",
-    "departments": "MECH,CHEM",
-    "category": "CIVIL_CORE"
-  },
- 
-  {
-    "name": "Jain Resource Recycling",
-    "logo": "./CIVIL_CORE/jain_resource_recycling.webp",
-    "placed": "7 students",
-    "departments": "EIE,CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "PRIMAS Bioscience",
-    "logo": "./BIO_FOOD_CHEM/primas_bioscience.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "SKM Egg products",
-    "logo": "./BIO_FOOD_CHEM/skm_egg_products.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Angel Starch&Food Pvt Ltd",
-    "logo": "./BIO_FOOD_CHEM/angel_starch_food_pvt_ltd.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Janaki Construction",
-    "logo": "./CIVIL_CORE/janaki_construction.webp",
-    "placed": "1 students",
-    "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Ramalingan Construction",
-    "logo": "./CIVIL_CORE/ramalingan_construction.webp",
-    "placed": "6 students",
-    "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "NIMIR construction",
-    "logo": "./CIVIL_CORE/nimir_construction.webp",
-    "placed": "1 students",
-    "departments": "CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Sri Venkatachalapathy Construction Private Limited",
-    "logo": "./CIVIL_CORE/sri_venkatachalapathy_construction_private_limited.webp",
+    "name": "WEG Industries",
+    "logo": "./MECH_AUTO/weg_industries.webp",
     "placed": "3 students",
-    "departments": "CIV",
+    "departments": "EEE,EIE,MECH",
     "category": "CIVIL_CORE"
   },
-  {
-    "name": "HR Construction",
-    "logo": "./CIVIL_CORE/hr_construction.webp",
+   {
+    "name": "McWane",
+    "logo": "./MECH_AUTO/mcwane.webp",
     "placed": "1 students",
-    "departments": "CIV",
+    "departments": "MECH",
     "category": "CIVIL_CORE"
   },
-  {
-    "name": "PMEL Pvt. Ltd",
-    "logo": "./CIVIL_CORE/pmel_pvt__ltd.webp",
-    "placed": "3 students",
+   {
+    "name": "questglobal",
+    "logo": "./Core Engineering/quest.webp",
+    "category": "CIVIL_CORE"
+  },
+   {
+    "name": "Barry wehmiller",
+    "logo": "./MECH_AUTO/barry_wehmiller.webp",
+    "placed": "2 students",
     "departments": "MTRS",
     "category": "CIVIL_CORE"
   },
@@ -1359,84 +1335,6 @@
     "departments": "MTRS",
     "category": "CIVIL_CORE"
   },
-  {
-    "name": "Greenmile Consultancy Services Pvt Ltd",
-    "logo": "./CIVIL_CORE/greenmile_consultancy_services_pvt_ltd.webp",
-    "placed": "6 students",
-    "departments": "MECH,CIV",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Kanchi Karpooram Limited",
-    "logo": "./CIVIL_CORE/kanchi_karpooram_limited.webp",
-    "placed": "3 students",
-    "departments": "CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "April3rdfoods",
-    "logo": "./BIO_FOOD_CHEM/april3rdfoods.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Grenera Nutrents pvt Ltd",
-    "logo": "./BIO_FOOD_CHEM/grenera_nutrents_pvt_ltd.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Sahuwala Flour Mills",
-    "logo": "./BIO_FOOD_CHEM/sahuwala_flour_mills.webp",
-    "placed": "4 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Sid's Farm",
-    "logo": "./BIO_FOOD_CHEM/sid_s_farm.webp",
-    "placed": "1 students",
-    "departments": "MECH",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Accura Deldrods",
-    "logo": "./BIO_FOOD_CHEM/accura_deldrods.webp",
-    "placed": "1 students",
-    "departments": "CHEM",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Freezeton",
-    "logo": "./BIO_FOOD_CHEM/freezeton.webp",
-    "placed": "2 students",
-    "departments": "MTRS",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Vintage agro",
-    "logo": "./BIO_FOOD_CHEM/vintage_agro.webp",
-    "placed": "2 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Green Collar Agritech Solutions",
-    "logo": "./BIO_FOOD_CHEM/green_collar_agritech_solutions.webp",
-    "placed": "1 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-  {
-    "name": "Reading Chocolate (Sago factory )",
-    "logo": "./BIO_FOOD_CHEM/reading_chocolate__sago_factory__.webp",
-    "placed": "2 students",
-    "departments": "FT",
-    "category": "CIVIL_CORE"
-  },
-
    {
     "name": "Besant Technologies",
     "logo": "./CSE_IT/besant_technologies.webp",
@@ -1641,13 +1539,6 @@
     "placed": "4 students",
     "departments": "MECH",
     "category": "CSE_IT"
-  },
-  {
-    "name": "Aypols",
-    "logo": "./CSE_IT/aypols.webp",
-    "placed": "2 students",
-    "departments": "CHEM",
-    "category": "BIO_FOOD_CHEM"
   },
   {
     "name": "Pinnacle Infotech",
