@@ -198,20 +198,15 @@ const Maths = () => {
                           <td>{category.replace(/_/g, " ")}</td>
                           <td>
                             {Array.isArray(details) ? (
-                              [
-                                "Faculty Achievements",
-                                "Student Achievements",
-                                "Notable Student Achievements",
-                                "Awards and Achievements"
-                              ].includes(category) ? (
-                                <ul className="highlights-detail-list">
-                                  {details.map((item, idx) => (
-                                    <li key={idx}>{item}</li>
-                                  ))}
-                                </ul>
-                              ) : (
-                                details.join(", ")
-                              )
+                              <ul className="highlights-detail-list">
+                                {details.map((item, idx) => (
+                                  <li key={idx}>{item}</li>
+                                ))}
+                              </ul>
+                            ) : typeof details === "string" || typeof details === "number" ? (
+                              <ul className="highlights-detail-list">
+                                <li>{details}</li>
+                              </ul>
                             ) : (
                               details
                             )}
