@@ -490,6 +490,13 @@
         "departments": "EEE,MECH,MTRS",
         "category": "CIVIL_CORE"
     },
+      {
+        "name": "caterpillar",
+        "logo": "./Core Engineering/caterpillar.webp",
+        "placed": "4 students",
+        "departments": "EEE,MECH,MTRS",
+        "category": "CIVIL_CORE"
+    },
     {
         "name": "Rane Group",
         "logo": "./Core Engineering/35-rane.webp",
@@ -524,6 +531,11 @@
         "logo": "./Core Engineering/appliedmaterials.webp",
         "placed": "7 students",
         "departments": "CSE,IT,AIML,CSD,EEE,EIE",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "cadence",
+        "logo": "./Core Engineering/cadence.webp",
         "category": "CIVIL_CORE"
     },
     {
@@ -592,6 +604,11 @@
     {
         "name": "Technip Energies",
         "logo": "./MECH_AUTO/TECHNIP_ENERGIES_LOGO.png",
+        "category": "CIVIL_CORE"
+    },
+    {
+        "name": "tafe",
+        "logo": "./Core Engineering/tafe.webp",
         "category": "CIVIL_CORE"
     },
     {
@@ -726,13 +743,7 @@
         "departments": "ECE,EEE",
         "category": "CIVIL_CORE"
     },
-    {
-        "name": "Schneider",
-        "logo": "./EEE_ECE/schneider.webp",
-        "placed": "7 students",
-        "departments": "ECE,EIE",
-        "category": "CIVIL_CORE"
-    },
+   
     {
         "name": "Murugappa Group",
         "logo": "./EEE_ECE/murugappa.png",
@@ -804,6 +815,16 @@
         "departments": "EEE,EIE,CHEM",
         "category": "CIVIL_CORE"
     },
+     {
+        "name": "asianpaints",
+        "logo": "./Core Engineering/asian.webp",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "nipponpaints",
+        "logo": "./Core Engineering/nippon.webp",
+        "category": "CIVIL_CORE"
+    },
     {
         "name": "SPIC",
         "logo": "./CIVIL_CORE/spic.webp",
@@ -866,6 +887,46 @@
         "logo": "./MECH_AUTO/dcw.webp",
         "placed": "7 students",
         "departments": "MECH,CHEM",
+        "category": "CIVIL_CORE"
+    },
+    {
+        "name": "wegindia",
+        "logo": "./Core Engineering/weg_industries.webp",
+        "category": "CIVIL_CORE"
+    },
+    {
+        "name": "synapserobotics",
+        "logo": "./Core Engineering/synapserobotics.webp",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "mcwane",
+        "logo": "./Core Engineering/mcwane.webp",
+        "category": "CIVIL_CORE"
+    },
+    {
+        "name": "barrywehmiller",
+        "logo": "./Core Engineering/barry.webp",
+        "category": "CIVIL_CORE"
+    },
+    {
+        "name": "embedur",
+        "logo": "./Core Engineering/embedur.webp",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "simens",
+        "logo": "./Core Engineering/simens.webp",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "sanmina",
+        "logo": "./Core Engineering/sanmina.webp",
+        "category": "CIVIL_CORE"
+    },
+     {
+        "name": "quest",
+        "logo": "./Core Engineering/quest.webp",
         "category": "CIVIL_CORE"
     }
    
