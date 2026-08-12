@@ -108,11 +108,14 @@ const getLogo = (jsonPath) => {
 const isITCategory = (cat) => {
   if (!cat) return false;
   const c = cat.toLowerCase().trim();
+  if (c.includes("both") || c.includes("all") || c.includes("it_core")) return true;
   return c.includes("it") || c.includes("software") || c.includes("cse");
 };
 
 const isCoreCategory = (cat) => {
   if (!cat) return false;
+  const c = cat.toLowerCase().trim();
+  if (c.includes("both") || c.includes("all") || c.includes("it_core")) return true;
   return !isITCategory(cat);
 };
 

@@ -222,21 +222,14 @@ const Mca = () => {
                         <tr key={index}>
                           <td>{category.replace(/_/g, " ")}</td>
                           <td>
-                            {Array.isArray(details) ? (
-                              [
-                                "Faculty Achievements",
-                                "Student Achievements",
-                                "Notable Student Achievements",
-                                "Awards and Achievements"
-                              ].includes(category) ? (
-                                <ul className="highlights-detail-list">
-                                  {details.map((item, idx) => (
-                                    <li key={idx}>{item}</li>
-                                  ))}
-                                </ul>
-                              ) : (
-                                details.join(", ")
-                              )
+                            {Array.isArray(details) && details.length > 1 ? (
+                              <ul className="highlights-detail-list">
+                                {details.map((item, idx) => (
+                                  <li key={idx}>{item}</li>
+                                ))}
+                              </ul>
+                            ) : Array.isArray(details) && details.length === 1 ? (
+                              details[0]
                             ) : (
                               details
                             )}
