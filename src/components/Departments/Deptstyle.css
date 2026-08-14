@@ -1695,3 +1695,13 @@ body {
 .highlights-detail-list li:last-child {
   margin-bottom: 0 !important;
 }
+
+.highlights-detail-list li.highlight-heading-item,
+.highlight-heading-item {
+  list-style-type: none !important;
+  margin-left: -20px !important;
+  font-weight: 600 !important;
+  color: #1e293b;
+  margin-top: 6px !important;
+  margin-bottom: 6px !important;
+}

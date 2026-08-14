@@ -246,11 +246,24 @@ const Cse = () => {
                             {Array.isArray(details) && details.length > 1 ? (
                               <ul className="highlights-detail-list">
                                 {details.map((item, idx) => (
-                                  <li key={idx}>{item}</li>
+                                  <li
+                                    key={idx}
+                                    className={
+                                      typeof item === "string" && item.trim().endsWith(":")
+                                        ? "highlight-heading-item"
+                                        : ""
+                                    }
+                                  >
+                                    {item}
+                                  </li>
                                 ))}
                               </ul>
                             ) : Array.isArray(details) && details.length === 1 ? (
-                              details[0]
+                              typeof details[0] === "string" && details[0].trim().endsWith(":") ? (
+                                <div className="highlight-heading-item">{details[0]}</div>
+                              ) : (
+                                details[0]
+                              )
                             ) : (
                               details
                             )}
