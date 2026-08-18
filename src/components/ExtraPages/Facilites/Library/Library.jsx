@@ -1,6 +1,21 @@
 import React, { useState, useEffect } from "react";
 import "./Library.css";
 import Spinner from "../../../Spinner";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faBookOpen,
+  faIdCard,
+  faCheckCircle,
+  faGraduationCap,
+  faBook,
+  faRotateRight,
+  faCircleExclamation,
+  faTriangleExclamation,
+  faNewspaper,
+  faDesktop,
+  faUserShield,
+  faClipboardCheck
+} from "@fortawesome/free-solid-svg-icons";
 
 import Footer from "../../../HomePage/Footer/Footer";
 import Section from "../../../HomePage/Section/Section";
@@ -36,32 +51,20 @@ const Library = () => {
             "Digital Library",
             "Institutional Memberships",
             "Circulation Information",
+            "Rules",
             "Staff",
-            "AUERC",
             "Contact Us",
-          ].map((item, index) =>
-            item === "AUERC" ? (
-              <a
-                key={index}
-                href="https://access.auerc.com/keca"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="nav-button"
-              >
-                {item}
-              </a>
-            ) : (
-              <button
-                key={index}
-                onClick={() => handleNavClick(item)}
-                className={`nav-button ${
-                  activeSection === item ? "active" : ""
-                }`}
-              >
-                {item}
-              </button>
-            ),
-          )}
+          ].map((item, index) => (
+            <button
+              key={index}
+              onClick={() => handleNavClick(item)}
+              className={`nav-button ${
+                activeSection === item ? "active" : ""
+              }`}
+            >
+              {item}
+            </button>
+          ))}
         </nav>
 
         {activeSection === "Home" && (
@@ -1355,6 +1358,261 @@ const Library = () => {
               For any queries or support regarding library borrowing or
               resources, please contact the library staff for assistance.
             </p>
+          </div>
+        )}
+
+        {activeSection === "Rules" && (
+          <div className="library-section-content">
+            <h2>Rules & Regulations</h2>
+
+            <div className="library-rules-container">
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faBookOpen} className="library-title-icon" /> General Rules
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>The library is open to students, faculty members, research scholars, and staff of the institution who possess valid library membership.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>All users must maintain silence and discipline inside the library.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Bags, personal books, and other belongings must be kept in the designated place at the entrance.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Users must sign the entry register / use biometric or RFID entry system while entering the library.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Mobile phones must be kept in silent mode inside the library.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Eating, drinking, and smoking are strictly prohibited inside the library.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Users should handle library books, journals, and other materials carefully.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Any damage, marking, or loss of books will be treated as a serious violation.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faIdCard} className="library-title-icon" /> Library Membership
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Library membership is provided to all students based on roll numbers received from the office / departments.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Teaching and non-teaching staff must obtain approval from the Principal for library membership.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Library membership is enabled through RFID / Library Management Software.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faGraduationCap} className="library-title-icon" /> Borrowing Eligibility
+                </h3>
+                <p>Users are permitted to borrow books as per the following limits:</p>
+                <div className="library-table-container" style={{ marginTop: "1rem" }}>
+                  <table className="mainlibrary-table">
+                    <thead className="mainlibrary-table-thead">
+                      <tr>
+                        <th>Category</th>
+                        <th>No. of Books</th>
+                        <th>Loan Period</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {[
+                        ["UG Students", "4 Books", "14 Days"],
+                        ["PG Students", "6 Books", "14 Days"],
+                        ["Research Scholars", "6 Books", "14 Days"],
+                        ["Teaching Staff", "6 Books", "3 Months"],
+                        ["Non-Teaching Staff", "2 Books", "3 Months"],
+                      ].map((row, i) => (
+                        <tr key={i}>
+                          <td>{row[0]}</td>
+                          <td>{row[1]}</td>
+                          <td>{row[2]}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faBook} className="library-title-icon" /> Borrowing Rules
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>The library follows an Open Access System, allowing users to select books directly from shelves.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Books must be issued through the RFID Kiosk Self-Issue System.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>The due date slip inside the book indicates the return date.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Reference books, journals, magazines, and rare books will not be issued for borrowing.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>All books must be returned on or before the due date.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Books must be returned through the RFID Book Drop System or circulation counter.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faRotateRight} className="library-title-icon" /> Renewal of Books
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>One renewal is permitted for UG students, PG students, and research scholars, provided the book is not reserved by another user.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Renewal must be done before the due date through the library system or circulation desk.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faCircleExclamation} className="library-title-icon" /> Overdue and Fine
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>A nominal fine per day will be charged from students for overdue books.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Staff members are exempted from overdue fines.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Fine collection is recorded in the Fine Collection Register and deposited in the office daily.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faTriangleExclamation} className="library-title-icon" /> Loss or Damage of Books
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <div>
+                      <span>If a book is lost or damaged, the borrower must:</span>
+                      <ul style={{ marginTop: "0.4rem", paddingLeft: "1.2rem", listStyleType: "disc" }}>
+                        <li>Replace the book with the latest edition, OR</li>
+                        <li>Pay the cost of the book along with processing charges as decided by the library.</li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Borrowing privileges may be temporarily suspended until the issue is resolved.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faNewspaper} className="library-title-icon" /> Periodicals and Reference Section
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Journals, magazines, newspapers, and reference materials are for library use only.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>These materials must not be taken outside the library.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faDesktop} className="library-title-icon" /> Digital Library and E-Resources
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Users must access e-journals, databases, and digital resources only for academic and research purposes.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Unauthorized downloading, sharing, or misuse of e-resources is strictly prohibited.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faUserShield} className="library-title-icon" /> Library Discipline
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Users must maintain silence and proper conduct in the reading hall.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Library staff have the authority to suspend library privileges for violation of rules.</span>
+                  </li>
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Users must follow all instructions given by library staff.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="library-rules-group library-rules-highlight-green">
+                <h3 className="library-rules-title">
+                  <FontAwesomeIcon icon={faClipboardCheck} className="library-title-icon" /> Clearance Certificate
+                </h3>
+                <ul className="library-rules-list">
+                  <li className="library-rules-item">
+                    <FontAwesomeIcon icon={faCheckCircle} className="library-rule-icon" />
+                    <span>Final year students, staff leaving the institution, or research scholars must obtain a Library No Due Certificate from the library.</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         )}
 
