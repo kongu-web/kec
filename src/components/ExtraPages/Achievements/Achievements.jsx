@@ -110,9 +110,7 @@ const Achievements = () => {
                     }}
                   />
                   <p className="achievement-caption">
-                    {line1}
-                    <br />
-                    {line2}
+                    {img.name}
                   </p>
                 </div>
               );
