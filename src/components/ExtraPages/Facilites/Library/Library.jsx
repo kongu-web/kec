@@ -109,8 +109,8 @@ const Library = () => {
                 <strong>Books:</strong>
               </li>
               <ul className="library-bullet-list">
-                <li>Volumes: 97,999</li>
-                <li>Titles: 41,539</li>
+                <li>Volumes: 101608</li>
+                <li>Titles: 41,177</li>
               </ul>
               <li>
                 <strong>Periodicals:</strong>
@@ -133,30 +133,31 @@ const Library = () => {
                 </thead>
                 <tbody>
                   {[
-                    ["Civil Engineering", 2501, 6228],
-                    ["Mechanical Engineering", 2956, 6415],
-                    ["Automobile Engineering", 745, 2656],
-                    ["Mechatronics Engineering", 2092, 4636],
-                    ["Chemical Engineering", 2216, 4812],
-                    ["Food Technology", 1746, 3972],
-                    ["Electronics and Communication Engineering", 2390, 6366],
-                    ["Electrical and Electronics Engineering", 2294, 5521],
-                    ["Electronics and Instrumentation Engineering", 2011, 4707],
-                    ["Computer Science and Engineering", 2615, 5760],
-                    ["Information Technology", 1977, 4768],
-                    ["Artificial Intelligence and Machine Learning", 415, 1685],
-                    ["Artificial Intelligence and Data Science", 397, 1658],
-                    ["Computer Science and Design", 480, 1343],
-                    ["B.Sc", 2811, 6204],
-                    ["M.Sc", 252, 611],
-                    ["Science and Humanities", 4376, 9394],
-                    ["Master of Computer Applications", 4087, 9606],
-                    ["Master of Business Administration", 4415, 9878],
-                    ["PG Courses in Engineering", 763, 1779],
-                    ["Total", 41539, 97999],
+                    ["Civil Engineering", 2374, 6241],
+                    ["Mechanical Engineering", 2801, 6415],
+                    ["Automobile Engineering", 709, 2675],
+                    ["Mechatronics Engineering", 1994, 4678],
+                    ["Chemical Engineering", 2123, 4915],
+                    ["Food Technology", 1652, 3969],
+                    ["B.Arch", 1524, 2608],
+                    ["Electronics and Communication Engineering", 2266, 6374],
+                    ["Electrical and Electronics Engineering", 2173, 5521],
+                    ["Electronics and Instrumentation Engineering", 1916, 4730],
+                    ["Computer Science and Engineering", 2498, 5875],
+                    ["Information Technology", 1873, 4768],
+                    ["Artificial Intelligence and Machine Learning", 496, 1984],
+                    ["Artificial Intelligence and Data Science", 445, 1880],
+                    ["Computer Science and Design", 473, 1381],
+                    ["B.Sc", 2679, 6254],
+                    ["M.Sc", 239, 611],
+                    ["Science and Humanities", 4159, 9460],
+                    ["Master of Computer Applications", 3873, 9609],
+                    ["Master of Business Administration", 4188, 9881],
+                    ["PG Courses in Engineering", 722, 1779],
+                    ["Total", 41177, 101608],
                   ].map((row, i) => (
                     <tr key={i}>
-                      <td>{i + 1 <= 20 ? i + 1 : ""}</td>
+                      <td>{i + 1 <= 21 ? i + 1 : ""}</td>
                       <td>{row[0]}</td>
                       <td>{row[1]}</td>
                       <td>{row[2]}</td>
@@ -455,12 +456,12 @@ const Library = () => {
 
             <h3>LIBRARY RESOURCES (Values)</h3>
             <ul className="library-bullet-list">
-              <li>Value of Books: Rs. 6.08 Crore</li>
+              <li>Value of Books: Rs. 6.76 Crore</li>
               <li>Value of Journals: Rs. 2.56 Lakhs</li>
               <li>Value of Back Volumes (bounded Volumes): Rs. 4.10 Crore</li>
               <li>Value of Digital & Other Resources: Rs. 4.25 Lakhs</li>
-              <li>E-Resources : Rs.32.82 Lakhs</li>
-              <li>Plagiarism Check Tools : 10.67 Lakhs</li>
+              <li>E-Resources : Rs.33.64 Lakhs</li>
+              <li>Plagiarism Check Tools : 11.74 Lakhs</li>
             </ul>
 
             <h3>LIBRARY RESOURCES (In Numbers)</h3>
@@ -473,7 +474,7 @@ const Library = () => {
                 Other Digital Resources: 7,850 <br /> (Including Book
                 CDs/Audio/Video)
               </li>
-              <li>Ph.D Thesis: 501</li>
+              <li>Ph.D Thesis: 517</li>
             </ul>
           </section>
         )}
@@ -502,7 +503,7 @@ const Library = () => {
 
             <h2>REFERENCE HALL</h2>
             <p>
-              There are 6,179 reference books including Encyclopedias,
+              There are 6,463 reference books including Encyclopedias,
               Dictionaries and Hand Books (General, Science and Technology,
               Chemical) on all branches of Engineering and Science and
               humanities. The reference hall is equipped with 5 full-size and 15
@@ -577,7 +578,7 @@ const Library = () => {
             <h2>JOURNALS AND MAGAZINES</h2>
             <p>
               <strong>No. of National & International Subscriptions:</strong>{" "}
-              850
+              932
             </p>
 
             <h2>ONLINE JOURNALS & MAGAZINES (E-Resources)</h2>
@@ -622,7 +623,7 @@ const Library = () => {
                         <a href="https://idp.kongu.edu" target="_blank" rel="noopener noreferrer">
                           https://idp.kongu.edu
                         </a>
-                        <br />
+                        <br /><span>(use Network Authentication for user name /password)</span>
                         <br />
                         <strong>NPTEL PDF LECTURES</strong>
                         <br />
@@ -680,7 +681,7 @@ const Library = () => {
                   </tr>
                   <tr>
                     <td>1</td>
-                    <td>Turnitin - iThenticate</td>
+                    <td>Originality Check, Turnitin Originality</td>
                   </tr>
                   <tr>
                     <td></td>
@@ -1384,7 +1385,7 @@ const Library = () => {
                     [
                       "1",
                       "Dr. S. ARJUNAN",
-                      "MA., M.Lib.I.Sc., M.Phil., Ph.D.",
+                      "MA., M.Lib.I.Sc., M.Phil., Ph.D. PGDCA, PGDLAN",
                       "LIBRARIAN (As.P)",
                     ],
                     [
@@ -1409,31 +1410,32 @@ const Library = () => {
                       "5",
                       "Mr. R. THANGARAJ",
                       "B.Com., M.Lib.I.Sc.",
-                      "LIB. ASST. (SL.G)",
+                      "LIB. ASST. (L4)",
                     ],
                    
-                    ["6", "Mr. S. SURESH", "C.Lib.I.Sc.", "LIBRARY ASSISTANT (SR.G)"],
+                    ["6", "Mr. S. SURESH", "C.Lib.I.Sc.", "LIBRARY ASSISTANT (L01)"],
                     [
                       "7",
-                      "Ms. N. GOMATHIPRIYA",
-                      "M.Sc., B.Lib.I.Sc.",
-                      "LIBRARY ASSISTANT (SR.G)",
-                    ],
-                    ["8", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT (L1)"],
-                    [
-                      "9",
-                      "Mr. V. NANDHAKUMAR",
-                      "B.Com (CS)",
-                      "LIBRARY ASSISTANT (L1)",
-                    ],
-                    
-                    [
-                      "10",
                       "Mr. S. SHANMUGAM",
                       "C.Lib.I.Sc.",
                       "LIBRARY ASSISTANT",
                     ],
+                    [
+                      "8",
+                      "Ms. N. GOMATHIPRIYA",
+                      "M.Sc., B.Lib.I.Sc.",
+                      "LIBRARY ASSISTANT (L2)",
+                    ],
+                    [
+                      "9",
+                      "Mr. V. NANDHAKUMAR",
+                      "B.Com (CA)",
+                      "LIBRARY ASSISTANT (L1)",
+                    ],
+                    ["10", "Ms. M. SATHYA", "B.A", "LIBRARY ASSISTANT (L1)"],
                     ["11", "Mr. J. KARTHIK", "BBA", "TECHNICAL ASSISTANT"],
+                    ["12", "Ms. R. KAVITHAMANI", "B.Com., M.Lib.I.Sc.", "LIBRARY ASSISTANT (L2)"],
+                    ["13", "Ms.R. DHARANI", "B.A., M.Lib.I.Sc.", "LIBRARY ASSISTANT (L2)"],
                   ].map(([sl, name, qualification, designation]) => (
                     <tr key={sl}>
                       <td>{sl}</td>
