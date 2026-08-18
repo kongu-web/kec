@@ -8,7 +8,7 @@ import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclou
 import organizationStructurePDF from "../../../assets/docs/Footer/OrganizationStructure/KEC_OrganizationStructure2026.pdf";
 import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/KECCodeofConductHandbook.pdf";
 import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2026new.pdf";
-import supporting_staff2025 from "../../../assets/docs/Footer/SupportingStaff/supporting_staff2026.pdf";
+import supporting_staff2025 from "../../../assets/docs/Footer/SupportingStaff/supporting_staff18.8.26.pdf";
 import student_details from "../../../assets/docs/Footer/Student Details/student_details2026.pdf";
 import kecundertaking from "../../../assets/docs/Footer/Undertaking/undertaking2026.pdf";
 import professional_socieites_2025 from "../../../assets/docs/Footer/KecProfessionalSocieties/professional_socieites_2026.pdf";
