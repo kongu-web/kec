@@ -1185,11 +1185,6 @@ const Navbar = () => {
                     IEF
                   </span>
 
-                  <span onClick={() => navigate("/training-cell")}>
-                    <HostelIcon className="submenu-icon" />
-                    Training Cell
-                  </span>
-
                   <span
                     onClick={() =>
                       window.open("https://kecidealab.kongu.edu/", "_blank")
@@ -1531,8 +1526,6 @@ const Navbar = () => {
                     </li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
-
-                    <li onClick={() => navigate("/training-cell")}>Training Cell</li>
 
                     <li
                       onClick={() =>
