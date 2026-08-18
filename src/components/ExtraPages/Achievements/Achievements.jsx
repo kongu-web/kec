@@ -21,7 +21,7 @@ let facultyImages = importAll(
   require.context(
     "../../../assets/images/Achievements/Faculties",
     false,
-    /\.(png|jpe?g|jpg|JPG|svg)$/
+    /\.(png|jpe?g|jpg|JPG|svg|webp)$/i
   )
 );
 
