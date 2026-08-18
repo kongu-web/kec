@@ -6,31 +6,102 @@ import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 
 const rankings = [
-  {
-    head: "NIRF – India Ranking - 2025",
-    points: ["Band of 101 to 150 in the Engineering Category"],
-    pdf: null,
-  },
-  {
-    head: "Careers 360 Magazine - 2024",
-    points: ["KEC graded AAAA"],
-    pdf: "Career360_2024.pdf",
-  },
-  {
-    head: "NIRF – India Ranking - 2024",
-    points: ["Band of 101 to 150 in the Engineering Category"],
-    pdf: null,
-  },
-  {
-    head: "Education World - 2024",
+    {
+    head: "The Week – HANSA Research Survey – June 2026",
     points: [
-      "95th among Top 100 Private Engineering Institutions in India",
-      "22nd among Top Private Engineering Institutions in Tamil Nadu",
+      "55th Position among Top Engg. Institutions including IIT in All India",
+      "30th  Position among Private Engineering Colleges in All India",
+      "15th Position among Private Engineering Colleges in South Zone",
+      "7th Position among Private Engineering Colleges in Tamilnadu",
+    ],
+    pdf: null,
+  },
+   {
+    head: "Careers 360 - June 2026",
+    points: [
+      "Graded AAAA among India’s Best Engineering Institutes in Overall India",
     ],
     pdf: null,
   },
   {
-    head: "Business Today - Best B School - 2024",
+    head: "NIRF – India Ranking - 2025",
+    points: ["Bandwith 101-150 Rank in India NIRF in Engineering Category "],
+    pdf: null,
+  },
+  {
+    head: "IIRF- January 2025",
+    points: [
+      "53rd  Position among Top Private Engineering Institutions in India",
+      "35th  Position among South Zone Top Private Engineering Institutions",
+      "14th  Position among State Rank Top Private Engineering Institutions",
+    ],
+    pdf: null,
+  },
+  {
+    head: "Times Engineering - May 2025",
+    points: [
+      "34th Position among Top 175 Engg. Institutions in All India",
+      "32nd Position among Top 125 Private Engineering Colleges in All India",
+    ],
+    pdf: null,
+  },
+    {
+    head: "Education World - May 2025",
+    points: [
+      "126th Position among Top Private Engineering Institutions in India",
+      "25th Position among Top Private Engineering Institutions in Tamilnadu",
+    ],
+    pdf: null,
+  },
+    {
+    head: "The Week – HANSA Research Survey – June 2025",
+    points: [
+      "55th Position among Top Engg. Institutions including IIT in All India",
+      "30th  Position among Private Engineering Colleges in All India",
+      "15th Position among Private Engineering Colleges in South Zone",
+      "6th Position among Private Engineering Colleges in Tamilnadu",
+    ],
+    pdf: null,
+  },
+   {
+    head: "Careers 360 - September 2025",
+    points: [
+      "Graded AAAA among India’s Best Engineering Institutes in Overall India",
+      "Graded AAAA among India’s Best Engineering Institutes in University and Affiliated Colleges in Tamilnadu and Puducherry"
+    ],
+    pdf: null,
+  },
+  {
+    head: "Business Today - Best B School - December 2025",
+    points: [
+      "135th Position in All India Rank",
+      "75th Position in Top 100 Living Experience india’s best B school",
+      "89th Position in Top 100 Selection Process, governance, Establishment india’s best B school",
+      "90th Position in Top 100 Future Orientation india’s best B school",
+      "34th  Position in Top Best B school in South Zone",
+    ],
+    pdf: null,
+  },
+  {
+    head: "NIRF - 2024",
+    points: ["Bandwith 101-150 Rank in India NIRF in Engineering Category"],
+    pdf: null,
+  },
+  {
+    head: "Careers 360 - April 2024",
+    points: ["Graded AAAA among India’s Best Engineering Colleges in Tamilnadu"],
+    pdf: "Career360_2024.pdf",
+  },
+  {
+    head: "Education World - April 2024",
+    points: [
+      "95th Position among Top 100 Private Engineering Institutions in India",
+      "22nd Position among Top Private Engineering Institutions in Tamilnadu",
+    ],
+    pdf: null,
+  },
+  {
+    head: "Business Today - Best B School - July 2024",
     points: [
       "123rd Position in All India Rank",
       "72nd Position in Top 100 selection Process india’s best B school",
@@ -40,7 +111,7 @@ const rankings = [
     pdf: null,
   },
   {
-    head: "The Week – HANSA Research Survey – Best Colleges 2024",
+    head: "The Week – HANSA Research Survey – June 2024",
     points: [
       "58th Position among Top Engineering Institutions including IIT in All India",
       "32nd Position among Private Engineering Colleges in All India",
@@ -50,11 +121,29 @@ const rankings = [
     pdf: null,
   },
   {
-    head: "Business World – Top Engineering Colleges 2024",
+    head: "Business World – Top Engineering Colleges - July 2024",
     points: [
       "52nd Position among Best Engineering. Colleges including IIT,NIT and University",
       "18th Position among Private Engineering Colleges and Universities in All India",
       "15th Position among Private Engineering Colleges and Universities in South Zone",
+    ],
+    pdf: null,
+  },
+  {
+    head: "Business Today - Best B School - October 2024",
+    points: [
+      "123rd Position in All India Rank",
+      "72nd Position in Top 100 selection Process india’s best B school",
+      "73rd Position in Top 100 ROI india’s best B school",
+      "97th Position in Top 100 Private B Schools india’s best B school",
+    ],
+    pdf: null,
+  },
+   {
+    head: "Careers 360 - November 2024",
+    points: [
+      "Graded AAAA among India’s Best Engineering Institutes in Overall India",
+      "Graded AAA among India’s Best B-School in University and Affiliated Colleges in Tamilnadu and Puducherry"
     ],
     pdf: null,
   },
