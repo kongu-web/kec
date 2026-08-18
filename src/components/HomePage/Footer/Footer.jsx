@@ -4,7 +4,7 @@ import "./Footer.css";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
-import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/mandatorydisclosure2026.pdf";
+import mandatoryDisclosurePDF from "../../../assets/docs/Footer/MandatoryDisclousure/mandatorydisclosure18.8.2026.pdf";
 import organizationStructurePDF from "../../../assets/docs/Footer/OrganizationStructure/KEC_OrganizationStructure2026.pdf";
 import codeofConductPDF from "../../../assets/docs/Footer/CodeofConductHandbook/KECCodeofConductHandbook.pdf";
 import rulesandhr2025 from "../../../assets/docs/Footer/ServiceRulesandHRPolicy/rulesandhr2026new.pdf";
