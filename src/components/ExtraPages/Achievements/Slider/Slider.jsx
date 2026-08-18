@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './Slider.css';
 
 const importAll = (r) => r.keys().map(r);
-const images = importAll(require.context('../../../../assets/images/Achievements/Students', false, /\.(png|jpe?g|svg)$/));
+const images = importAll(require.context('../../../../assets/images/Achievements/Students', false, /\.(png|jpe?g|jpg|JPG|svg|webp)$/i));
 
 const Slider = () => {
   const [currentIndex, setCurrentIndex] = useState(0);

@@ -78,6 +78,7 @@ import Ariia from './components/FooterContents/QuickLinks/Ariia/Ariia.jsx';
 import StrategicPlan from './components/FooterContents/QuickLinks/StrategicPlan/StrategicPlan.jsx';
 import StudentCentric from './components/FooterContents/QuickLinks/StudentCentric/StudentCentric.jsx';
 import PageUnderDevelopement from './components/PageUnderDevelopement.jsx';
+import TrainingCell from './components/ExtraPages/TrainingCell/TrainingCell.jsx';
 import KonguCRS from './components/FooterContents/QuickLinks/KonguCRS/KonguCRS.jsx';
 import WebAlbum from './components/FooterContents/WebAlbum/WebAlbum.jsx';
 import AuditReport from './components/FooterContents/QuickLinks/AuditReport/AuditReport.jsx';
@@ -232,6 +233,7 @@ const App = () => {
           <Route path="/campus-life" element={<CampusLife />} />
           <Route path="/facilities" element={<Facilites />} />
           <Route path="/ief" element={<IEF />} />
+          <Route path="/training-cell" element={<TrainingCell />} />
           <Route path="/ug" element={<Ug />} />
           <Route path="/pg" element={<Pg />} />
           <Route path="/doctoral" element={<Phd />} />

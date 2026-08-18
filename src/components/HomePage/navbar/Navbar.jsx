@@ -509,7 +509,7 @@ const Navbar = () => {
   };
 
   const handleItemClick = (item) => {
-    if (item.type === "Subdomain") {
+    if (item.type === "Subdomain" || (item.path && item.path.startsWith("http"))) {
       window.open(item.path, "_blank");
     } else if (item.type === "Faculty" && item.profileLink) {
       window.open(item.profileLink, "_blank");
@@ -800,7 +800,7 @@ const Navbar = () => {
             </div>
 
             {/* <a href="/admission">Admission</a> */}
-            <a href="https://alumni.kongu.edu/">Alumni</a>
+            <a href="https://alumni.kongu.edu/" target="_blank" rel="noopener noreferrer">Alumni</a>
             <a href="https://kec.linways.com/">Online Payment</a>
             <a href="/contact" onClick={(e) => { e.preventDefault(); navigate("/contact"); }}>Contact</a>
             
@@ -1185,6 +1185,11 @@ const Navbar = () => {
                     IEF
                   </span>
 
+                  <span onClick={() => navigate("/training-cell")}>
+                    <HostelIcon className="submenu-icon" />
+                    Training Cell
+                  </span>
+
                   <span
                     onClick={() =>
                       window.open("https://kecidealab.kongu.edu/", "_blank")
@@ -1526,6 +1531,8 @@ const Navbar = () => {
                     </li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
+
+                    <li onClick={() => navigate("/training-cell")}>Training Cell</li>
 
                     <li
                       onClick={() =>
