@@ -68,7 +68,7 @@ const GrievanceRedressalCommitteeSCST = () => {
         </div>
 
         <div className="scst-registration">
-          <h2>SC/ST Student & Employee Registration Form</h2>
+          <h2>Student & Employee Registration Form</h2>
           <div className="registration-links">
             <a
               href="https://forms.gle/4f4bfmBXCwznmaXM6"
@@ -80,7 +80,7 @@ const GrievanceRedressalCommitteeSCST = () => {
                 <FontAwesomeIcon icon={faBriefcase} />
               </div>
               <div className="reg-info">
-                <h3>SC/ST Employee Registration Form</h3>
+                <h3>Employee Registration Form</h3>
                 <p>Click here to fill out the online registration form for SC/ST Employees</p>
               </div>
               <div className="reg-action">
@@ -99,7 +99,7 @@ const GrievanceRedressalCommitteeSCST = () => {
                 <FontAwesomeIcon icon={faGraduationCap} />
               </div>
               <div className="reg-info">
-                <h3>SC/ST Student Registration Form</h3>
+                <h3>Student Registration Form</h3>
                 <p>Click here to fill out the online registration form for SC/ST Students</p>
               </div>
               <div className="reg-action">
