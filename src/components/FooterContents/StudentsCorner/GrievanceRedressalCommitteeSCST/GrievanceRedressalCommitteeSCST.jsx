@@ -81,7 +81,7 @@ const GrievanceRedressalCommitteeSCST = () => {
               </div>
               <div className="reg-info">
                 <h3>Employee Registration Form</h3>
-                <p>Click here to fill out the online registration form for SC/ST Employees</p>
+                <p>Click here to submit your grievance form</p>
               </div>
               <div className="reg-action">
                 <span>Submit the Form</span>
@@ -100,7 +100,7 @@ const GrievanceRedressalCommitteeSCST = () => {
               </div>
               <div className="reg-info">
                 <h3>Student Registration Form</h3>
-                <p>Click here to fill out the online registration form for SC/ST Students</p>
+                <p>Click here to submit your grievance form</p>
               </div>
               <div className="reg-action">
                 <span>Submit the Form</span>
