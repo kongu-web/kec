@@ -13,6 +13,9 @@ const NAV_ITEMS = [
   "Home",
   "Highlights",
   "Laboratories",
+  "Faculty Details",
+  "Student Details",
+  "Placement Details",
   "Faculty",
   "Library",
   "Patents",
@@ -72,6 +75,22 @@ const Eee = () => {
     }
   }, [activeSection]);
 
+  const handleNavClick = (item) => {
+    if (item === "Faculty Details") {
+      window.open("/assets/pdf .department/EEE-Faculty Details.pdf", "_blank");
+      return;
+    }
+    if (item === "Student Details") {
+      window.open("/assets/pdf .department/EEE-Student Details.pdf", "_blank");
+      return;
+    }
+    if (item === "Placement Details") {
+      window.open("/assets/pdf .department/EEE-Placement Details.pdf", "_blank");
+      return;
+    }
+    setActiveSection(item);
+  };
+
   return (
     <div>
       <div className="navbar-section-wrapper">
@@ -86,12 +105,12 @@ const Eee = () => {
           <h1 className="auto-header">{autoData["dept-name"]}</h1>
         </div>
 
-        <nav className="auto-navbar">
+        <nav className="auto-navbar compact-navbar">
           {NAV_ITEMS.map((item) => (
             <button
               key={item}
               className={activeSection === item ? "active" : ""}
-              onClick={() => setActiveSection(item)}
+              onClick={() => handleNavClick(item)}
             >
               {item}
             </button>
@@ -312,6 +331,7 @@ const Eee = () => {
               </div>
             </div>
           )}
+          {/* PDF links are opened externally in a new tab via navbar click */}
 
           {activeSection === "Faculty" && (
             <div>

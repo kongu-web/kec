@@ -175,10 +175,11 @@ body {
 .auto-navbar {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 10px;
   background-color: #303877;
   /* Deep Blue Background */
-  padding: 15px 0;
+  padding: 15px 10px;
   position: sticky;
   top: 115px;
   /* Fixed: Increased to clear the main header */
@@ -200,6 +201,40 @@ body {
   transition: all 0.3s ease;
   min-width: auto;
   /* Remove fixed width constraint */
+}
+
+.auto-navbar button:hover,
+.auto-navbar button.active {
+  background-color: #f8c401;
+  color: #303877;
+  border-color: #f8c401;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Compact Navigation Bar for departments with additional PDF tabs (EEE, CSE, IT) */
+.auto-navbar.compact-navbar {
+  justify-content: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 6px;
+  padding: 10px 12px;
+  scrollbar-width: none; /* Hide scrollbar Firefox */
+  -ms-overflow-style: none; /* Hide scrollbar IE/Edge */
+  -webkit-overflow-scrolling: touch;
+}
+
+.auto-navbar.compact-navbar::-webkit-scrollbar {
+  display: none; /* Hide scrollbar Chrome/Safari/Blink */
+  width: 0;
+  height: 0;
+}
+
+.auto-navbar.compact-navbar button {
+  font-size: 0.85rem;
+  padding: 7px 13px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .auto-navbar button:hover,
@@ -1652,17 +1687,30 @@ body {
   } */
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   .auto-navbar {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .auto-navbar,
+  .auto-navbar.compact-navbar {
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 10px;
+    overflow-x: visible;
+    gap: 8px 6px;
+    padding: 15px 10px;
+    margin-bottom: 15px;
   }
 
-  .auto-navbar button {
+  .auto-navbar button,
+  .auto-navbar.compact-navbar button {
     width: auto;
-    height: 45px;
-    font-size: 13px;
+    height: auto;
+    font-size: 12px;
+    padding: 7px 13px;
+    border-radius: 25px;
   }
 
   .auto-header {
