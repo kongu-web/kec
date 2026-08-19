@@ -4,7 +4,13 @@ import Section from "../../../HomePage/Section/Section";
 import Navbar from "../../../HomePage/navbar/Navbar";
 import Footer from "../../../HomePage/Footer/Footer";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUserShield, faPhone } from "@fortawesome/free-solid-svg-icons";
+import {
+  faUserShield,
+  faPhone,
+  faExternalLinkAlt,
+  faGraduationCap,
+  faBriefcase,
+} from "@fortawesome/free-solid-svg-icons";
 import "../../../../App.css";
 
 const members = [
@@ -50,6 +56,7 @@ const GrievanceRedressalCommitteeSCST = () => {
             </div>
           ))}
         </div>
+
         <div className="objectives">
           <h2>Objectives</h2>
           <ul>
@@ -58,6 +65,49 @@ const GrievanceRedressalCommitteeSCST = () => {
             <li>To provide counseling services to SC/ST students</li>
             <li>To redress the grievances / complaints of SC/ST employees</li>
           </ul>
+        </div>
+
+        <div className="scst-registration">
+          <h2>SC/ST Student & Employee Registration Form</h2>
+          <div className="registration-links">
+            <a
+              href="https://forms.gle/4f4bfmBXCwznmaXM6"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="registration-card"
+            >
+              <div className="reg-icon-wrapper">
+                <FontAwesomeIcon icon={faBriefcase} />
+              </div>
+              <div className="reg-info">
+                <h3>SC/ST Employee Registration Form</h3>
+                <p>Click here to fill out the online registration form for SC/ST Employees</p>
+              </div>
+              <div className="reg-action">
+                <span>Submit the Form</span>
+                <FontAwesomeIcon icon={faExternalLinkAlt} />
+              </div>
+            </a>
+
+            <a
+              href="https://forms.gle/SwCTUt4uZfMbkEtCA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="registration-card"
+            >
+              <div className="reg-icon-wrapper">
+                <FontAwesomeIcon icon={faGraduationCap} />
+              </div>
+              <div className="reg-info">
+                <h3>SC/ST Student Registration Form</h3>
+                <p>Click here to fill out the online registration form for SC/ST Students</p>
+              </div>
+              <div className="reg-action">
+                <span>Submit the Form</span>
+                <FontAwesomeIcon icon={faExternalLinkAlt} />
+              </div>
+            </a>
+          </div>
         </div>
       </div>
       <Footer />
