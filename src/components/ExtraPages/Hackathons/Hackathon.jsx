@@ -5,6 +5,42 @@ import Footer from "../../HomePage/Footer/Footer";
 import Section from "../../HomePage/Section/Section";
 import Navbar from "../../HomePage/navbar/Navbar";
 
+// Helper to parse dates including ranges like "September 7 - 11 2026" or "July 17 - 18 2026"
+const parseEventDate = (dateStr) => {
+  if (!dateStr || dateStr.trim() === "-" || dateStr.trim().toLowerCase() === "n/a") {
+    return 0;
+  }
+
+  const cleanStr = dateStr.trim();
+
+  // Pattern: "Month D1 - D2 Year" e.g., "July 17 - 18 2026", "September 7 - 11 2026"
+  const rangeMatch = cleanStr.match(/^([A-Za-z]+)\s+(\d{1,2})\s*-\s*(\d{1,2})\s+(\d{4})$/);
+  if (rangeMatch) {
+    const [, month, startDay, , year] = rangeMatch;
+    const parsed = new Date(`${month} ${startDay}, ${year}`).getTime();
+    if (!isNaN(parsed)) return parsed;
+  }
+
+  // Pattern: "Month1 D1 - Month2 D2 Year" e.g., "July 30 - August 2 2026"
+  const multiMonthMatch = cleanStr.match(/^([A-Za-z]+)\s+(\d{1,2})\s*-\s*([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})$/);
+  if (multiMonthMatch) {
+    const [, month1, day1, , , year] = multiMonthMatch;
+    const parsed = new Date(`${month1} ${day1}, ${year}`).getTime();
+    if (!isNaN(parsed)) return parsed;
+  }
+
+  // Pattern: "Month Day Year" e.g., "July 18 2026", "July 4 2026"
+  const singleMatch = cleanStr.match(/^([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})$/);
+  if (singleMatch) {
+    const [, month, day, year] = singleMatch;
+    const parsed = new Date(`${month} ${day}, ${year}`).getTime();
+    if (!isNaN(parsed)) return parsed;
+  }
+
+  const fallback = Date.parse(cleanStr);
+  return isNaN(fallback) ? 0 : fallback;
+};
+
 const Hackathon = () => {
   const [events, setEvents] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
@@ -27,8 +63,8 @@ const Hackathon = () => {
     )
     .sort((a, b) => {
       if (sortField === "dates") {
-        const dateA = new Date(a.dates);
-        const dateB = new Date(b.dates);
+        const dateA = parseEventDate(a.dates);
+        const dateB = parseEventDate(b.dates);
         return dateB - dateA; // Latest date first (descending order)
       } else {
         const aField = a[sortField]?.toLowerCase?.() || "";
