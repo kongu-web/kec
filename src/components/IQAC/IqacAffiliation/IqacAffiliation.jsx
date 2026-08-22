@@ -1513,7 +1513,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">1</td>
                                                 <td>M.B.A</td>
                                                 <td className="text-center">40</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-001-1994-96 20firt 20approval 31.03.1994.pdf" target="_blank" rel="noreferrer">F.No: 453/BII/BOS( M)/94 23880</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-001-1994-96 firt approval 31.03.1994.pdf" target="_blank" rel="noreferrer">F.No: 453/BII/BOS( M)/94 23880</a></td>
                                                 <td className="text-center">31.03.1994</td>
                                                 <td className="text-center">1994-1995</td>
                                             </tr>
@@ -1522,7 +1522,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">2</td>
                                                 <td>M.B.A</td>
                                                 <td className="text-center">40</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-002-1996-97-98 20ext of approval 07.06.1996.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP(M)/94</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-002-1996-97-98 ext of approval 07.06.1996.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP(M)/94</a></td>
                                                 <td className="text-center">13.06.1996</td>
                                                 <td className="text-center">1995-1996</td>
                                             </tr>
@@ -1531,7 +1531,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">3</td>
                                                 <td>M.B.A</td>
                                                 <td className="text-center">40 to 60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-003-1996-97 20ext of approval increase in intkae 40 to 60 06.11.1996.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP-APR(M)/96</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-003-1996-97 ext of approval increase in intkae 40 to 60 06.11.1996.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP-APR(M)/96</a></td>
                                                 <td className="text-center">06.11.1996</td>
                                                 <td className="text-center">1996-1997</td>
                                             </tr>
@@ -1549,7 +1549,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">5</td>
                                                 <td>M.B.A</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-005-1999-2000 20ext of approval 18.08.1999 20005.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP-(M)/94</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MBA/MBA-005-1999-2000 ext of approval 18.08.1999 005.pdf" target="_blank" rel="noreferrer">F.No: 431/45-3/MCP-(M)/94</a></td>
                                                 <td className="text-center">18.08.1999</td>
                                                 <td className="text-center">1999-2000</td>
                                             </tr>
@@ -1750,7 +1750,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">01.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">30</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-001-1995-96 20first 20approval 16.08.1995.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/APR(CS)/BOS/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/1.MCA-001-1995-96 first approval 16.08.1995.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/APR(CS)/BOS/95</a></td>
                                                 <td className="text-center">16.08.1995</td>
                                                 <td className="text-center">1995-1996</td>
                                             </tr>
@@ -1759,7 +1759,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">02.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">30</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-002-1996-97 20ext of approval 01.07.1996.pdf" target="_blank" rel="noreferrer">F.No. TN-27/MCP/APR(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/2.MCA-002-1996-97 ext of approval 01.07.1996.pdf" target="_blank" rel="noreferrer">F.No. TN-27/MCP/APR(CS)/95</a></td>
                                                 <td className="text-center">01.07.1996</td>
                                                 <td className="text-center">1996-1997</td>
                                             </tr>
@@ -1768,7 +1768,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">03.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">30</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-003-1997-98 20ext of approval 1997-98 18.06.1997.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/3.MCA-003-1997-98 ext of approval 1997-98 18.06.1997.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">18.06.1997</td>
                                                 <td className="text-center">1997-1998</td>
                                             </tr>
@@ -1777,7 +1777,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">04.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">30</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-004-1998-99 20ext of approval 21.07.1998.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/4.MCA-004-1998-99 ext of approval 21.07.1998.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">21.07.1998</td>
                                                 <td className="text-center">1998-1999</td>
                                             </tr>
@@ -1786,7 +1786,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">05.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">30 to 60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-005-1998-99 20ext of approval   & increase in intake 30 to 60 09.09.1998.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/APR(CS)/BOS/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/5.MCA-005-1998-99 ext of approval & increase in intake 30 to 60 09.09.1998.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/APR(CS)/BOS/95</a></td>
                                                 <td className="text-center">09.09.1998</td>
                                                 <td className="text-center">1998-1999</td>
                                             </tr>
@@ -1795,7 +1795,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">06.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-006-1999-2001 EXT OF APPROVAL 16.07.1999.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/6.MCA-006-1999-2001 EXT OF APPROVAL 16.07.1999.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">16.07.1999</td>
                                                 <td className="text-center">1999-2001</td>
                                             </tr>
@@ -1804,7 +1804,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">07.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-007-2001-2002 EXT OF APPROVAL 21.06.2001.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/7.MCA-007-2001-2002 EXT OF APPROVAL 21.06.2001.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">21.06.2001</td>
                                                 <td className="text-center">2001-2002</td>
                                             </tr>
@@ -1813,7 +1813,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">08.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-008-2002-2005 EXT OF APPROVAL 19.06.2002.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/8.MCA-008-2002-2005 EXT OF APPROVAL 19.06.2002.pdf" target="_blank" rel="noreferrer">F.No. 411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">19.06.2002</td>
                                                 <td className="text-center">2002-2005</td>
                                             </tr>
@@ -1822,7 +1822,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">09.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-009-2005-2006 EOA APPROVAL ALONGWITH E&T APPROVAL 19.09.2005.pdf" target="_blank" rel="noreferrer">F.No.730-52-230(E)/ET/97</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/9.MCA-009-2005-2006 EOA APPROVAL ALONGWITH E&T APPROVAL 19.09.2005.pdf" target="_blank" rel="noreferrer">F.No.730-52-230(E)/ET/97</a></td>
                                                 <td className="text-center">19.09.2005</td>
                                                 <td className="text-center">2005-2006</td>
                                             </tr>
@@ -1831,7 +1831,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">10.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-010-2006-2007 EXT OF APPROVAL 25.05.2006.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/10.MCA-010-2006-2007 EXT OF APPROVAL 25.05.2006.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">25.05.2006</td>
                                                 <td className="text-center">2006-2007</td>
                                             </tr>
@@ -1840,7 +1840,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">11.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-011-2007-2008 EXT OF APPROVAL 10.05.2007.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/11.MCA-011-2007-2008 EXT OF APPROVAL 10.05.2007.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">10.05.2007</td>
                                                 <td className="text-center">2007-2008</td>
                                             </tr>
@@ -1849,7 +1849,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">12.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">60 to 120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-012-2007-2008 INCREASE IN INTAKE 60 TO 120 24.08.2007.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/12.MCA-012-2007-2008 INCREASE IN INTAKE 60 TO 120 24.08.2007.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">24.08.2007</td>
                                                 <td className="text-center">2007-2008</td>
                                             </tr>
@@ -1858,7 +1858,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">13.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-013-2008-2011 EXT OF APPROVAL 08.05.2008.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/13.MCA-013-2008-2011 EXT OF APPROVAL 08.05.2008.pdf" target="_blank" rel="noreferrer">F.No.411/TN-27/BOS(CS)/95</a></td>
                                                 <td className="text-center">08.05.2008</td>
                                                 <td className="text-center">2008-2011</td>
                                             </tr>
@@ -1867,7 +1867,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">14.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-014-2010-2011EXTENSION OF APPROVAL 23.08.2010.pdf" target="_blank" rel="noreferrer">No.Southern Region/1-7351981/2010/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/14.MCA-014-2010-2011EXTENSION OF APPROVAL 23.08.2010.pdf" target="_blank" rel="noreferrer">No.Southern Region/1-7351981/2010/EOA</a></td>
                                                 <td className="text-center">23.08.2010</td>
                                                 <td className="text-center">2010-2011</td>
                                             </tr>
@@ -1876,7 +1876,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">15.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-015-2011-2012 EXTENSION OF APPROVAL 01.09.2011.pdf" target="_blank" rel="noreferrer">F.No.Southern/1-404525611/ 2011/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/15.MCA-015-2011-2012 EXTENSION OF APPROVAL 01.09.2011.pdf" target="_blank" rel="noreferrer">F.No.Southern/1-404525611/ 2011/EOA</a></td>
                                                 <td className="text-center">01.09.2011</td>
                                                 <td className="text-center">2011-2012</td>
                                             </tr>
@@ -1885,7 +1885,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">16.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-016-2012-2013 Extension of approval 10.05.2012.pdf" target="_blank" rel="noreferrer">F.No.Southern/ 1-708969902/ 2012/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/16.MCA-016-2012-2013 Extension of approval 10.05.2012.pdf" target="_blank" rel="noreferrer">F.No.Southern/ 1-708969902/ 2012/EOA</a></td>
                                                 <td className="text-center">10.05.2012</td>
                                                 <td className="text-center">2012-2013</td>
                                             </tr>
@@ -1894,7 +1894,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">17.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-017-2013-2014 Extension of approval 19.03.2013.pdf" target="_blank" rel="noreferrer">F.No.Southern/1-1364281481/ 2013/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/17.MCA-017-2013-2014 Extension of approval 19.03.2013.pdf" target="_blank" rel="noreferrer">F.No.Southern/1-1364281481/ 2013/EOA</a></td>
                                                 <td className="text-center">19.03.2013</td>
                                                 <td className="text-center">2013-2014</td>
                                             </tr>
@@ -1903,7 +1903,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">18.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-018-2014-2015 Extension of approval 04.06.2014.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2017309969/2014/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/18.MCA-018-2014-2015 Extension of approval 04.06.2014.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2017309969/2014/EOA</a></td>
                                                 <td className="text-center">04.06.2014</td>
                                                 <td className="text-center">2014-2015</td>
                                             </tr>
@@ -1912,7 +1912,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">19.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-019-2015-2016 Extension of approval 07.06.2015.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2454396050/ 2015/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/19.MCA-019-2015-2016 Extension of approval 07.06.2015.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2454396050/ 2015/EOA</a></td>
                                                 <td className="text-center">07.06.2015</td>
                                                 <td className="text-center">2015-2016</td>
                                             </tr>
@@ -1921,7 +1921,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">20.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-020-2016-2017 Extension of Approval 25.04.2016.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2811121697/2016/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/20.MCA-020-2016-2017 Extension of Approval 25.04.2016.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-2811121697/2016/EOA</a></td>
                                                 <td className="text-center">25.04.2016</td>
                                                 <td className="text-center">2016-2017</td>
                                             </tr>
@@ -1930,7 +1930,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">21.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-021-2017-2018 Extension of Approval 20.04.2017.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-3324892934/2017/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/21.MCA-021-2017-2018 Extension of Approval 20.04.2017.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-3324892934/2017/EOA</a></td>
                                                 <td className="text-center">30.02.2017</td>
                                                 <td className="text-center">2017-2018</td>
                                             </tr>
@@ -1939,7 +1939,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">22.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-022-2018-2019 Extension of Approval 21.04.2018.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-3517174181/2018/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/22.MCA-022-2018-2019 Extension of Approval 21.04.2018.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-3517174181/2018/EOA</a></td>
                                                 <td className="text-center">04.04.2018</td>
                                                 <td className="text-center">2018-2019</td>
                                             </tr>
@@ -1948,7 +1948,7 @@ const IqacAffiliation = () => {
                                                 <td className="text-center">23.</td>
                                                 <td>MCA</td>
                                                 <td className="text-center">120</td>
-                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/MCA-023-2019-2020 Extension of Approval 04.05.2019.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-4262184852/2019/EOA</a></td>
+                                                <td><a href="/files/iqac/Affliation & Approval/AICTE/MCA/23.MCA-023-2019-2020 Extension of Approval 04.05.2019.pdf" target="_blank" rel="noreferrer">F.No. Southern/1-4262184852/2019/EOA</a></td>
                                                 <td className="text-center">10.04.2019</td>
                                                 <td className="text-center">2019-2020</td>
                                             </tr>
