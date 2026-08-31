@@ -16,6 +16,7 @@ import video12 from "../../../assets/images/HomePage/video12thum.webp";
 import video13 from "../../../assets/images/HomePage/video13thum.webp";
 import video14 from "../../../assets/images/HomePage/video14thum.webp";
 import video15 from "../../../assets/images/HomePage/video15thum.webp";
+import video16 from "../../../assets/images/HomePage/video16thum.webp";
 
 
 function FelicitationSection() {
@@ -27,6 +28,12 @@ function FelicitationSection() {
 
 
   const videos = [
+    {
+      id: "iwhzPQRwp10?si",
+      title: "Founders Day - 2026",
+      desc: "Founders Day - 2026",
+      thumb: video16,
+    },
     {
       id: "Ek7F4DvZBZE?si",
       title: "CoE in HPC & Drone UnSkool",
