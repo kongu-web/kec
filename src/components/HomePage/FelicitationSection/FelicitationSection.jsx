@@ -30,7 +30,7 @@ function FelicitationSection() {
   const videos = [
     {
       id: "iwhzPQRwp10?si",
-      title: "Founders Day - 2026",
+      title: "Founders Day - 2026 Special Guest : Thiru C.P. Radhakrishnan Vice President of India",
       desc: "Founders Day - 2026",
       thumb: video16,
     },
