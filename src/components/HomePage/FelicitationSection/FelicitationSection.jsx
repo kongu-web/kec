@@ -17,6 +17,13 @@ import video13 from "../../../assets/images/HomePage/video13thum.webp";
 import video14 from "../../../assets/images/HomePage/video14thum.webp";
 import video15 from "../../../assets/images/HomePage/video15thum.webp";
 import video16 from "../../../assets/images/HomePage/video16thum.webp";
+import video17 from "../../../assets/images/HomePage/video17thum.webp";
+import video18 from "../../../assets/images/HomePage/video18thum.webp";
+import video19 from "../../../assets/images/HomePage/video19thum.webp";
+import video20 from "../../../assets/images/HomePage/video20thum.webp";
+import video21 from "../../../assets/images/HomePage/video21thum.webp";
+import video22 from "../../../assets/images/HomePage/video22thum.webp";
+import video23 from "../../../assets/images/HomePage/video23thum.webp";
 
 
 function FelicitationSection() {
@@ -29,10 +36,52 @@ function FelicitationSection() {
 
   const videos = [
     {
+      id: "fK-ZaMghs-o?sii",
+      title: "Founders Day - 2026 Special Guest : Thiru C.P. Radhakrishnan Vice President of India",
+      desc: "Founders Day - 2026",
+      thumb: video17,
+    },
+    {
       id: "iwhzPQRwp10?si",
       title: "Founders Day - 2026 Special Guest : Thiru C.P. Radhakrishnan Vice President of India",
       desc: "Founders Day - 2026",
       thumb: video16,
+    },
+     {
+      id: "_06PBiNuHso?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 6",
+      thumb: video23,
+    },
+    {
+      id: "U2ek8vJnIKo?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 5",
+      thumb: video22,
+    },
+    {
+      id: "PWkugPdEbM8?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 4",
+      thumb: video21,
+    },
+     {
+      id: "31IbmUCHWNc?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 3",
+      thumb: video20,
+    },
+    {
+      id: "FzwJa77HCsg?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 2",
+      thumb: video19,
+    },
+    {
+      id: "m4Xu_QatxMg?si",
+      title: "Techno Fest 2026",
+      desc: "Glimpse 1",
+      thumb: video18,
     },
     {
       id: "Ek7F4DvZBZE?si",
