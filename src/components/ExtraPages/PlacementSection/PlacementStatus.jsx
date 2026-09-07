@@ -170,7 +170,7 @@ const PlacementStatus = () => {
   return (
     <div className="placement-status-wrapper">
       <div className="status-header">
-        <h2>Placement Status {year === availableYears[0] && "(As on August,2026*)"}</h2>
+        <h2>Placement Status {year === availableYears[0] && "(As on September,2026*)"}</h2>
         <div className="status-select-wrapper">
           <select value={year} onChange={(e) => setYear(e.target.value)}>
             {availableYears.map((y) => (

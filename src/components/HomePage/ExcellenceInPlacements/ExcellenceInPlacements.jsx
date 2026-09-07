@@ -20,11 +20,11 @@ function ExcellenceInPlacements() {
         </p>
 
         <div className="eip-stats-grid">
-          <StatCard value="1737" label="Offers received" />
+          <StatCard value="1784" label="Offers received" />
           <StatCard value="5.6 LPA" label="Average Salary" />
           <StatCard value="172" label="Above 8 LPA" />
           <StatCard value="61.21 LPA" label="Highest salary" />
-          <StatCard value="348" label="Companies Visited" />
+          <StatCard value="355" label="Companies Visited" />
           <StatCard value="94.1%" label="Placement Status" />
         </div>
 
