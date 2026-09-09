@@ -87,6 +87,8 @@ const searchPages = [
   { name: "Endowments", path: "/endownments" },
   { name: "College Rules", path: "/collegerules" },
   { name: "Placement Cell", path: "/placement" },
+  { name: "Training Cell", path: "/training-cell" },
+  { name: "Skill Enhancement Cell", path: "/skill-enhancement-cell" },
   { name: "Admission", path: "/admission" },
   { name: "Centre of Excellence (COE)", path: "/coe" },
   { name: "Hackathons", path: "/hackathons" },
@@ -1185,6 +1187,16 @@ const Navbar = () => {
                     IEF
                   </span>
 
+                  <span onClick={() => navigate("/training-cell")}>
+                    <TrainingIcon className="submenu-icon" />
+                    Training Cell
+                  </span>
+
+                  <span onClick={() => navigate("/skill-enhancement-cell")}>
+                    <ValueaddIcon className="submenu-icon" />
+                    Skill Enhancement Cell
+                  </span>
+
                   <span
                     onClick={() =>
                       window.open("https://kecidealab.kongu.edu/", "_blank")
@@ -1526,6 +1538,9 @@ const Navbar = () => {
                     </li>
 
                     <li onClick={() => navigate("/ief")}>IEF</li>
+
+                    <li onClick={() => navigate("/training-cell")}>Training Cell</li>
+                    <li onClick={() => navigate("/skill-enhancement-cell")}>Skill Enhancement Cell</li>
 
                     <li
                       onClick={() =>

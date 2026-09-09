@@ -18,10 +18,14 @@ const PlacementSection = () => {
       /\.(png|jpe?g|svg|webp)$/
     )
   );
-  const [activeTab, setActiveTab] = useState(location.state?.tab || "Home");
+  const [activeTab, setActiveTab] = useState(
+    location.state?.tab && location.state.tab !== "Training"
+      ? location.state.tab
+      : "Home"
+  );
 
   useEffect(() => {
-    if (location.state?.tab) {
+    if (location.state?.tab && location.state.tab !== "Training") {
       setActiveTab(location.state.tab);
     }
   }, [location.state]);
@@ -79,7 +83,7 @@ const PlacementSection = () => {
       <Navbar />
       <div className="placement-section-container">
         <nav className="placement-navbar">
-          {["Home", "Training", "Status", "Contact"].map((tab) => (
+          {["Home", "Status", "Contact"].map((tab) => (
             <button
               key={tab}
               className={`placement-tab ${activeTab === tab ? "active" : ""}`}

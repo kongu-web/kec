@@ -73,13 +73,6 @@ const TrainingCell = () => {
     }
   };
 
-  const scrollToAbout = () => {
-    const section = document.getElementById("about-training-section");
-    if (section) {
-      section.scrollIntoView({ behavior: "smooth" });
-    }
-  };
-
   return loading ? (
     <Spinner />
   ) : (
@@ -135,16 +128,16 @@ const TrainingCell = () => {
             </div>
           </div>
 
-          {/* Floating Key Metrics Card Bar */}
+          {/* Floating Key Pillars Card Bar */}
           <div className="tc-stats-container">
             <div className="tc-stats-grid">
               <div className="tc-stat-card">
                 <div className="tc-stat-icon-wrapper icon-blue">
-                  <FontAwesomeIcon icon={faUsers} className="tc-stat-icon" />
+                  <FontAwesomeIcon icon={faBrain} className="tc-stat-icon" />
                 </div>
                 <div className="tc-stat-info">
-                  <h3 className="tc-stat-number">350+</h3>
-                  <p className="tc-stat-label">Training Hours</p>
+                  <h3 className="tc-stat-number">Skill Development</h3>
+                  <p className="tc-stat-label">Technical & Professional Skills</p>
                 </div>
               </div>
 
@@ -153,8 +146,8 @@ const TrainingCell = () => {
                   <FontAwesomeIcon icon={faBriefcase} className="tc-stat-icon" />
                 </div>
                 <div className="tc-stat-info">
-                  <h3 className="tc-stat-number">Industry</h3>
-                  <p className="tc-stat-label">Focused Training</p>
+                  <h3 className="tc-stat-number">Industry Readiness</h3>
+                  <p className="tc-stat-label">Industry-Aligned Learning</p>
                 </div>
               </div>
 
@@ -163,8 +156,8 @@ const TrainingCell = () => {
                   <FontAwesomeIcon icon={faChartLine} className="tc-stat-icon" />
                 </div>
                 <div className="tc-stat-info">
-                  <h3 className="tc-stat-number">Continuous</h3>
-                  <p className="tc-stat-label">Skill Development</p>
+                  <h3 className="tc-stat-number">Performance Development</h3>
+                  <p className="tc-stat-label">Assessment & Feedback</p>
                 </div>
               </div>
 
@@ -173,8 +166,8 @@ const TrainingCell = () => {
                   <FontAwesomeIcon icon={faTrophy} className="tc-stat-icon" />
                 </div>
                 <div className="tc-stat-info">
-                  <h3 className="tc-stat-number">Career</h3>
-                  <p className="tc-stat-label">Excellence</p>
+                  <h3 className="tc-stat-number">Career Success</h3>
+                  <p className="tc-stat-label">Placement & Employability</p>
                 </div>
               </div>
             </div>
@@ -513,7 +506,7 @@ const TrainingCell = () => {
           </section>
 
           {/* Connect with Training Cell Section */}
-          <section className="tc-contact-section">
+          <section id="tc-contact-section" className="tc-contact-section">
             <div className="tc-contact-header">
               <h2 className="tc-contact-main-title">Connect with Training Cell</h2>
               <div className="tc-contact-divider">
