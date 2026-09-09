@@ -292,7 +292,7 @@ const TrainingCell = () => {
                   <FontAwesomeIcon icon={faUserGraduate} className="tc-impact-icon" />
                 </div>
                 <div className="tc-impact-data">
-                  <h3 className="tc-impact-number">7,500+</h3>
+                  <h3 className="tc-impact-number">12,500+</h3>
                   <p className="tc-impact-label">Students Trained</p>
                 </div>
               </div>

@@ -281,7 +281,7 @@ const PlacementSection = () => {
                   </p>
                 </div>
 
-                <div className="placement-contact-card">
+                {/* <div className="placement-contact-card">
                   <h3>Training Cell</h3>
                   <p>
                     <strong>Dr.N.Shanthi</strong>
@@ -330,7 +330,8 @@ const PlacementSection = () => {
                       training@kongu.ac.in
                     </a>
                   </p>
-                </div>
+                </div> */}
+
               </div>
             </div>
           </div>
