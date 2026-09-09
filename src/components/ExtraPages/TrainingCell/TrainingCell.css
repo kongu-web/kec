@@ -313,11 +313,12 @@
 }
 
 .tc-stat-number {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight: 700;
   color: #0f172a;
   margin: 0 0 0.15rem 0;
-  line-height: 1.2;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
 }
 
 .tc-stat-label {
@@ -1207,20 +1208,22 @@
   }
 
   .tc-stats-container {
-    margin-top: -25px;
-    padding: 0 0.75rem;
+    margin-top: -30px;
+    padding: 0 1rem;
   }
 
   .tc-stats-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 0.75rem;
-    padding: 1rem 0.5rem;
+    gap: 0.85rem;
+    padding: 1.1rem 1rem;
+    border-radius: 24px;
   }
   
   .tc-stat-card {
     border-right: none;
     border-bottom: 1px solid #e2e8f0;
-    padding: 0.6rem 0.5rem;
+    padding: 0.75rem 0.6rem;
+    justify-content: flex-start;
   }
 
   .tc-stat-card:nth-child(3),
@@ -1243,30 +1246,139 @@
   }
 }
 
+@media (max-width: 680px) {
+  .tc-stats-container {
+    margin-top: -30px;
+    padding: 0 1rem;
+    width: 100%;
+  }
+
+  .tc-stats-grid {
+    grid-template-columns: 1fr;
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    gap: 0;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  }
+
+  .tc-stat-card {
+    justify-content: flex-start;
+    padding: 0.85rem 0.5rem;
+    border-right: none;
+    border-bottom: 1px solid #f1f5f9;
+    gap: 1rem;
+  }
+
+  .tc-stat-card:last-child {
+    border-bottom: none;
+  }
+
+  .tc-stat-card:nth-child(3) {
+    border-bottom: 1px solid #f1f5f9;
+  }
+
+  .tc-stat-icon-wrapper {
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+  }
+
+  .tc-stat-info {
+    text-align: left;
+  }
+
+  .tc-stat-number {
+    font-size: 0.95rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .tc-stat-label {
+    font-size: 0.82rem;
+  }
+}
+
 @media (max-width: 576px) {
+  .tc-body-container {
+    margin: 2.5rem auto 3rem;
+    padding: 0 1rem;
+  }
+
+  .tc-areas-section,
+  .tc-impact-section,
+  .tc-why-section,
+  .tc-resources-section,
+  .tc-contact-section {
+    margin-top: 2.2rem;
+    margin-bottom: 2.2rem;
+  }
+
+  .tc-areas-main-title,
+  .tc-impact-main-title,
+  .tc-why-main-title,
+  .tc-resources-main-title,
+  .tc-contact-main-title {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
   .tc-areas-grid {
     grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .tc-area-card {
+    padding: 1.5rem 1.25rem;
+    border-radius: 14px;
+  }
+
+  .tc-area-title {
+    font-size: 1.05rem;
+    min-height: auto;
+    margin-bottom: 0.9rem;
   }
 
   .tc-impact-grid {
     grid-template-columns: 1fr;
+    gap: 0.75rem;
   }
 
   .tc-impact-card {
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: 0.85rem 1rem;
+    border-radius: 12px;
+  }
+
+  .tc-impact-data {
+    text-align: left;
   }
 
   .tc-why-grid {
     grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .tc-why-card {
+    padding: 1.25rem 1rem;
+    border-radius: 14px;
   }
 
   .tc-officers-grid {
     grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .tc-officer-card {
+    padding: 1rem;
+    border-radius: 14px;
   }
 
   .tc-officer-card.dean-card {
     grid-column: span 1;
+  }
+
+  .tc-address-panel {
+    border-radius: 16px;
   }
 
   .tc-res-card-header {
