@@ -106,7 +106,8 @@ const eomsMdiFiles = [
     { name: "MDI_13 NC Report.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_13 NON CONFIRMATIVE REPORT.pdf`, type: "pdf" },
     { name: "MDI_15 Action Taken.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_15 ACTION TAKEN REPORT FOR AUDIT.pdf`, type: "pdf" },
     { name: "MDI_16 Student Feedback.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_16 ACTION TAKEN FOR STUDENT FEEDBACK ABOUT THE FACULTY.pdf`, type: "pdf" },
-    { name: "MDI_17 Improvement Reg.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.pdf`, type: "pdf" }
+    { name: "MDI_17 Improvement Reg.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.pdf`, type: "pdf" },
+    { name: "MDI_23 IMPACT ANALYSIS OF ACTION TAKEN.pdf", path: `${EOMS_BASE_PATH}/MDI/PDF/MDI_23 IMPACT ANALYSIS OF ACTION TAKEN.pdf`, type: "pdf" }
 ];
 
 const eomsMdfDocFiles = [
@@ -129,7 +130,8 @@ const eomsMdiDocFiles = [
     "MDI_13 NON CONFIRMATIVE REPORT.docx",
     "MDI_15 ACTION TAKEN REPORT FOR AUDIT.docx",
     "MDI_16 ACTION TAKEN FOR STUDENT FEEDBACK ABOUT THE FACULTY.docx",
-    "MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.doc"
+    "MDI_17 MONITORING  MEASUREMENT & IMPROVEMENT REGISTER.doc",
+    "MDI_23 IMPACT ANALYSIS OF ACTION TAKEN.doc"
 ];
 
 const scannedDocuments = [
