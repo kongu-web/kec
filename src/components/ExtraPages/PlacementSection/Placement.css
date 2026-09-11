@@ -4,6 +4,14 @@
   color: #333;
 } */
 
+.placement-page .section-title::before,
+.placement-page .section-title::after,
+.placement-page h2::before,
+.placement-page h2::after {
+  display: none !important;
+  content: none !important;
+}
+
 .container {
   max-width: 1200px;
   margin: auto;
@@ -372,7 +380,7 @@
 }
 
 .placement-team {
-  padding: 80px 20px;
+  padding: 60px 20px 25px;
   background-color: #f8fbff;
 }
 
@@ -499,6 +507,288 @@
   text-decoration: none;
 }
 
+/* =========================================
+   PLACEMENT CONTACT INFORMATION SECTION
+========================================= */
+.placement-contact-info-section {
+  padding: 20px 20px 60px;
+  background: #ffffff;
+  position: relative;
+}
+
+.placement-contact-info-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.placement-contact-main-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1a3c87;
+  margin-bottom: 8px;
+  text-align: center;
+  position: relative;
+  display: block;
+}
+
+.placement-contact-main-title::before,
+.placement-contact-main-title::after {
+  display: none !important;
+  content: none !important;
+}
+
+.placement-contact-subtitle {
+  font-size: 1.05rem;
+  color: #64748b;
+  margin-top: 0;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.placement-contact-info-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 1.75rem;
+  margin-top: 35px;
+  text-align: left;
+  align-items: stretch;
+}
+
+/* Officers Grid */
+.placement-officers-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  align-content: space-between;
+}
+
+.placement-officer-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 1.25rem 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  box-shadow: 0 4px 18px rgba(4, 30, 66, 0.05);
+  border: 1px solid #e2e8f0;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.placement-officer-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(4, 30, 66, 0.09);
+  border-color: #cbd5e1;
+}
+
+.placement-officer-card.head-officer {
+  grid-column: span 2;
+  background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+  border: 1.5px solid #bfdbfe;
+  padding: 1.35rem 1.4rem;
+}
+
+.placement-officer-avatar {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  background: #eff6ff;
+  color: #1a3c87;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.placement-officer-avatar.head-avatar {
+  background: #1a3c87;
+  color: #ffffff;
+}
+
+.placement-officer-details {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.placement-officer-name {
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #1a3c87;
+  margin: 0 0 0.15rem 0;
+  text-align: left;
+}
+
+.placement-officer-role {
+  font-size: 0.85rem;
+  color: #0284c7;
+  font-weight: 600;
+  margin: 0 0 0.55rem 0;
+  text-align: left;
+}
+
+.placement-officer-contacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  text-align: left;
+}
+
+.placement-contact-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.84rem;
+  color: #334155;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.placement-contact-link:hover {
+  color: #0284c7;
+}
+
+.placement-cicon {
+  color: #64748b;
+  font-size: 0.82rem;
+}
+
+/* Communication Address Panel */
+.placement-address-panel {
+  background: #ffffff;
+  border-radius: 20px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 8px 30px rgba(4, 30, 66, 0.05);
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.placement-address-header {
+  padding: 1.1rem 1.5rem;
+  background: #f0f7ff;
+  border-bottom: 1.5px solid #bfdbfe;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: left;
+}
+
+.placement-address-icon {
+  font-size: 1.25rem;
+  color: #1a3c87;
+}
+
+.placement-address-header h3 {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #1a3c87;
+  margin: 0;
+  text-align: left;
+}
+
+.placement-address-body {
+  padding: 1.5rem 1.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  gap: 1.25rem;
+  text-align: left;
+}
+
+.placement-address-text {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #334155;
+  margin: 0;
+  text-align: left;
+}
+
+.placement-address-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  font-size: 0.9rem;
+  color: #475569;
+  text-align: left;
+}
+
+.placement-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-align: left;
+}
+
+.placement-meta-icon {
+  color: #0284c7;
+  font-size: 0.85rem;
+  width: 14px;
+}
+
+.placement-email-box {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  border: 1px solid #e2e8f0;
+  text-align: left;
+}
+
+.placement-email-item {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-align: left;
+}
+
+.placement-email-icon {
+  color: #0284c7;
+  font-size: 0.85rem;
+}
+
+.placement-email-item a {
+  color: #1a3c87;
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.placement-email-item a:hover {
+  color: #0284c7;
+  text-decoration: underline;
+}
+
+/* Responsive for Placement Contact Section */
+@media (max-width: 992px) {
+  .placement-contact-info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .placement-officers-grid {
+    grid-template-columns: 1fr;
+  }
+  .placement-officer-card.head-officer {
+    grid-column: span 1;
+  }
+  .placement-contact-info-section {
+    padding: 50px 15px;
+  }
+}
+
 /* ===============================
    RESPONSIVE GRID OVERRIDES
 ================================ */
@@ -565,10 +855,9 @@
 /* Placement Statistics */
 .placement-section {
   position: relative;
-  padding: 80px 20px 120px;
+  padding: 40px 20px 50px;
   overflow: hidden;
   background: #fff;
-  padding-bottom: 140px;
 }
 
 /* background wave */
@@ -604,7 +893,7 @@
 
 /* cards layout */
 .stats-wrapper {
-  margin-top: 80px;
+  margin-top: 40px;
   display: flex;
   justify-content: center;
   align-items: flex-end;
@@ -751,19 +1040,20 @@
   .stats-wrapper {
     /* flex-direction: column; */
     align-items: center;
-    gap: 28px;
-    margin-top: 50px;
+    gap: 16px;
+    margin-top: 25px;
   }
 
   .ps-stat-card {
     width: 85%;
     max-width: 320px;
-    height: 260px;
+    height: 230px;
+    padding: 20px 14px;
   }
 
   .ps-stat-card.center {
     transform: translateY(0);
-    height: 280px;
+    height: 250px;
   }
 
   /* hide connecting arrows on small screens */
@@ -772,21 +1062,30 @@
   }
 
   .ps-stat-card {
-    font-size: 36px;
+    font-size: 32px;
   }
 
   .section-title {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   .section-subtitle {
     font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .placement-section {
+    padding: 30px 10px 30px;
+  }
+
+  .recruiters-section {
+    padding: 30px 10px 40px;
   }
 }
 
 /* Our Esteemed Recruiters Redesign */
 .recruiters-section {
-  padding: 100px 20px;
+  padding: 50px 20px 60px;
   background: #f9fbff;
   text-align: center;
 }
@@ -801,7 +1100,7 @@
   font-size: 32px;
   font-weight: 700;
   color: #1a3c87;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 }
 
 .dept-nav {

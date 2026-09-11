@@ -3,6 +3,15 @@ import { useNavigate } from "react-router-dom";
 import "./Placement.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faUserTie,
+  faMobileScreen,
+  faPhone,
+  faLocationDot,
+  faFax,
+  faEnvelope,
+} from "@fortawesome/free-solid-svg-icons";
 
 import heroImg from "../../../assets/images/Placement/placement-hero.webp";
 import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.webp";
@@ -314,6 +323,148 @@ const Placement = () => {
               </div>
             </div>
           ))}
+        </div>
+      </section>
+
+      {/* CONTACT INFORMATION */}
+      <section className="placement-contact-info-section" id="placement-contact">
+        <div className="container">
+          <h2 className="placement-contact-main-title">Contact Information</h2>
+          <p className="placement-contact-subtitle">
+            Get in touch with the Placement Cell for recruitment inquiries and student placements
+          </p>
+
+          <div className="placement-contact-info-grid">
+            {/* Personnel / Officers Grid */}
+            <div className="placement-officers-grid">
+              {/* Head Placement Officer */}
+              <div className="placement-officer-card head-officer">
+                <div className="placement-officer-avatar head-avatar">
+                  <FontAwesomeIcon icon={faUserTie} className="tc-avatar-icon" />
+                </div>
+                <div className="placement-officer-details">
+                  <h3 className="placement-officer-name">Mr. P. Dhakshinamoorthy</h3>
+                  <p className="placement-officer-role">Placement Officer</p>
+                  <div className="placement-officer-contacts">
+                    <a href="tel:9790004095" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faMobileScreen} className="placement-cicon" />
+                      <span>9790004095</span>
+                    </a>
+                    <a href="tel:04294226644" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faPhone} className="placement-cicon" />
+                      <span>04294 – 226644</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Officer 2 */}
+              <div className="placement-officer-card">
+                <div className="placement-officer-avatar">
+                  <FontAwesomeIcon icon={faUserTie} className="tc-avatar-icon" />
+                </div>
+                <div className="placement-officer-details">
+                  <h3 className="placement-officer-name">Mr. S. Kavin</h3>
+                  <p className="placement-officer-role">Deputy Placement Officer</p>
+                  <div className="placement-officer-contacts">
+                    <a href="tel:9600777618" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faMobileScreen} className="placement-cicon" />
+                      <span>9600777618</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Officer 3 */}
+              <div className="placement-officer-card">
+                <div className="placement-officer-avatar">
+                  <FontAwesomeIcon icon={faUserTie} className="tc-avatar-icon" />
+                </div>
+                <div className="placement-officer-details">
+                  <h3 className="placement-officer-name">Mr. P. Sukumar</h3>
+                  <p className="placement-officer-role">Deputy Placement Officer</p>
+                  <div className="placement-officer-contacts">
+                    <a href="tel:9629455327" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faMobileScreen} className="placement-cicon" />
+                      <span>9629455327</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Officer 4 */}
+              <div className="placement-officer-card">
+                <div className="placement-officer-avatar">
+                  <FontAwesomeIcon icon={faUserTie} className="tc-avatar-icon" />
+                </div>
+                <div className="placement-officer-details">
+                  <h3 className="placement-officer-name">Mr. P. Dineshkumar</h3>
+                  <p className="placement-officer-role">Assistant Placement Officer</p>
+                  <div className="placement-officer-contacts">
+                    <a href="tel:7373675915" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faMobileScreen} className="placement-cicon" />
+                      <span>7373675915</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Officer 5 */}
+              <div className="placement-officer-card">
+                <div className="placement-officer-avatar">
+                  <FontAwesomeIcon icon={faUserTie} className="tc-avatar-icon" />
+                </div>
+                <div className="placement-officer-details">
+                  <h3 className="placement-officer-name">Mr. G. Srivaths Karthic</h3>
+                  <p className="placement-officer-role">Assistant Placement Officer</p>
+                  <div className="placement-officer-contacts">
+                    <a href="tel:9442751513" className="placement-contact-link">
+                      <FontAwesomeIcon icon={faMobileScreen} className="placement-cicon" />
+                      <span>9442751513</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Communication Address Panel */}
+            <div className="placement-address-panel">
+              <div className="placement-address-header">
+                <FontAwesomeIcon icon={faLocationDot} className="placement-address-icon" />
+                <h3>Communication Address</h3>
+              </div>
+              <div className="placement-address-body">
+                <p className="placement-address-text">
+                  <strong>Placement Cell</strong><br />
+                  Kongu Engineering College,<br />
+                  Perundurai, Erode – 638 060,<br />
+                  Tamil Nadu, India.
+                </p>
+
+                <div className="placement-address-meta">
+                  <div className="placement-meta-item">
+                    <FontAwesomeIcon icon={faPhone} className="placement-meta-icon" />
+                    <span>04294 - 226 564</span>
+                  </div>
+                  <div className="placement-meta-item">
+                    <FontAwesomeIcon icon={faFax} className="placement-meta-icon" />
+                    <span>04294 – 220087</span>
+                  </div>
+                </div>
+
+                <div className="placement-email-box">
+                  <div className="placement-email-item">
+                    <FontAwesomeIcon icon={faEnvelope} className="placement-email-icon" />
+                    <a href="mailto:placement@kongu.edu">placement@kongu.edu</a>
+                  </div>
+                  <div className="placement-email-item">
+                    <FontAwesomeIcon icon={faEnvelope} className="placement-email-icon" />
+                    <a href="mailto:placement@kongu.ac.in">placement@kongu.ac.in</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 

@@ -3,7 +3,6 @@ import "./SkillEnhancementCell.css";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Footer from "../../HomePage/Footer/Footer";
 import Spinner from "../../Spinner";
-import skillEnhancementOrgImg from "../../../assets/images/skill enhancement.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBookOpen,
@@ -24,7 +23,13 @@ import {
   faBriefcase,
   faBuilding,
   faIndustry,
-  faLayerGroup
+  faLayerGroup,
+  faUserTie,
+  faMobileScreen,
+  faPhone,
+  faLocationDot,
+  faFax,
+  faEnvelope
 } from "@fortawesome/free-solid-svg-icons";
 
 const SkillEnhancementCell = () => {
@@ -410,27 +415,164 @@ const SkillEnhancementCell = () => {
             </div>
           </section>
 
-          {/* SECTION 5: Organization Structure */}
-          <section className="sec-structure-section">
-            <div className="sec-section-header">
-              <span className="sec-badge-label">Team & Leadership</span>
-              <h2 className="sec-section-main-title">Organization Structure</h2>
-              <p className="sec-section-intro">
-                Leadership team and faculty coordinators dedicated to strengthening student skill enhancement initiatives.
-              </p>
-              <div className="sec-section-divider">
+          {/* SECTION 5: Connect with Skill Enhancement Cell */}
+          <section id="sec-contact-section" className="sec-contact-section">
+            <div className="sec-contact-header">
+              <h2 className="sec-contact-main-title">Connect with Skill Enhancement Cell</h2>
+              <div className="sec-contact-divider">
                 <span className="sec-divider-line"></span>
                 <span className="sec-divider-dot"></span>
                 <span className="sec-divider-line"></span>
               </div>
             </div>
 
-            <div className="sec-structure-img-wrapper">
-              <img
-                src={skillEnhancementOrgImg}
-                alt="Skill Enhancement Cell Organization Structure"
-                className="sec-structure-img"
-              />
+            <div className="sec-contact-grid">
+              {/* Personnel / Faculty Grid */}
+              <div className="sec-officers-grid">
+                {/* Dean Card */}
+                <div className="sec-officer-card dean-card">
+                  <div className="sec-officer-avatar dean-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Dr. N. Shanthi</h3>
+                    <p className="sec-officer-role">Dean - Training & Skill Enhancement</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:9842013355" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>98420 13355</span>
+                      </a>
+                      <a href="tel:04294226262" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faPhone} className="sec-cicon" />
+                        <span>04294 – 226262</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Coordinator 1 */}
+                <div className="sec-officer-card">
+                  <div className="sec-officer-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Dr. N. Sasipriyaa</h3>
+                    <p className="sec-officer-role">Faculty Coordinator</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:+919976798392" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>+91 99767 98392</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Coordinator 2 */}
+                <div className="sec-officer-card">
+                  <div className="sec-officer-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Mr. Jony Blessing Manoj</h3>
+                    <p className="sec-officer-role">Faculty Coordinator</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:9597600188" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>95976 00188</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Coordinator 3 */}
+                <div className="sec-officer-card">
+                  <div className="sec-officer-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Mr. Dharmaraj</h3>
+                    <p className="sec-officer-role">Faculty Coordinator</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:+918946082644" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>+91 89460 82644</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Coordinator 4 */}
+                <div className="sec-officer-card">
+                  <div className="sec-officer-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Dr. VimalaDevi</h3>
+                    <p className="sec-officer-role">Faculty Coordinator</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:+919965214142" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>+91 99652 14142</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Coordinator 5 */}
+                <div className="sec-officer-card">
+                  <div className="sec-officer-avatar">
+                    <FontAwesomeIcon icon={faUserTie} className="sec-avatar-icon" />
+                  </div>
+                  <div className="sec-officer-info">
+                    <h3 className="sec-officer-name">Mr. M. Thangatamilan</h3>
+                    <p className="sec-officer-role">Faculty Coordinator</p>
+                    <div className="sec-officer-contact">
+                      <a href="tel:8695263614" className="sec-contact-link">
+                        <FontAwesomeIcon icon={faMobileScreen} className="sec-cicon" />
+                        <span>86952 63614</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Communication Address Panel */}
+              <div className="sec-address-panel">
+                <div className="sec-address-header">
+                  <FontAwesomeIcon icon={faLocationDot} className="sec-address-icon" />
+                  <h3>Communication Address</h3>
+                </div>
+                <div className="sec-address-body">
+                  <p className="sec-address-text">
+                    <strong>Skill Enhancement Cell</strong><br />
+                    Kongu Engineering College,<br />
+                    Perundurai, Erode – 638 060,<br />
+                    Tamil Nadu, India.
+                  </p>
+                  
+                  <div className="sec-address-meta">
+                    <div className="sec-meta-item">
+                      <FontAwesomeIcon icon={faPhone} className="sec-meta-icon" />
+                      <span>04294 - 226 262</span>
+                    </div>
+                    <div className="sec-meta-item">
+                      <FontAwesomeIcon icon={faFax} className="sec-meta-icon" />
+                      <span>04294 – 220087</span>
+                    </div>
+                  </div>
+
+                  <div className="sec-email-box">
+                    <div className="sec-email-item">
+                      <FontAwesomeIcon icon={faEnvelope} className="sec-email-icon" />
+                      <a href="mailto:skilldevelopment@kongu.edu">skilldevelopment@kongu.edu</a>
+                    </div>
+                    <div className="sec-email-item">
+                      <FontAwesomeIcon icon={faEnvelope} className="sec-email-icon" />
+                      <a href="mailto:training@kongu.ac.in">training@kongu.ac.in</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </section>
         </div>
