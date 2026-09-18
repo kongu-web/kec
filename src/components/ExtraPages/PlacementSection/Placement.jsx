@@ -320,70 +320,76 @@ const Placement = () => {
       </section>
 
     {/* COMMUNICATION ADDRESS */}
-<section className="placement-contact-info-section" id="placement-contact">
-  <div className="container">
-    
-
-    <div className="placement-address-panel">
-      <div className="placement-address-header">
-        <FontAwesomeIcon
-          icon={faLocationDot}
-          className="placement-address-icon"
-        />
-        <h3>Communication Address</h3>
-      </div>
-
-      <div className="placement-address-body">
-        <p className="placement-address-text">
-           <strong>Placement Cell</strong><br />
-          Kongu Engineering College,<br />
-          Perundurai, Erode – 638 060,<br />
-          Tamil Nadu, India.
-        </p>
-
-        <div className="placement-address-meta">
-          <div className="placement-meta-item">
-            <FontAwesomeIcon
-              icon={faPhone}
-              className="placement-meta-icon"
-            />
-            <span>04294 - 226 564</span>
+    <section className="placement-comm-section" id="placement-contact">
+      <div className="container">
+        <div className="placement-comm-wrapper">
+          <div className="placement-comm-header">
+            <span className="placement-comm-badge">Get in Touch</span>
+            <h3 className="placement-comm-title">Communication Address</h3>
           </div>
 
-          <div className="placement-meta-item">
-            <FontAwesomeIcon
-              icon={faFax}
-              className="placement-meta-icon"
-            />
-            <span>04294 – 220087</span>
+          <div className="placement-comm-grid">
+            {/* Location Card */}
+            <div className="placement-comm-card">
+              <div className="placement-comm-icon-box location">
+                <FontAwesomeIcon icon={faLocationDot} />
+              </div>
+              <div className="placement-comm-info">
+                <h4>Office Location</h4>
+                <p className="placement-comm-highlight">Placement Cell</p>
+                <p className="placement-comm-desc">
+                  Kongu Engineering College,<br />
+                  Perundurai, Erode – 638 060,<br />
+                  Tamil Nadu, India.
+                </p>
+              </div>
+            </div>
+
+            {/* Phone & Fax Card */}
+            <div className="placement-comm-card">
+              <div className="placement-comm-icon-box phone">
+                <FontAwesomeIcon icon={faPhone} />
+              </div>
+              <div className="placement-comm-info">
+                <h4>Phone &amp; Fax</h4>
+                <p className="placement-comm-highlight">Contact Numbers</p>
+                <div className="placement-comm-line">
+                  <span className="placement-comm-label">Phone:</span>
+                  <a href="tel:04294226564" className="placement-comm-action-link">
+                    04294 - 226 564
+                  </a>
+                </div>
+                <div className="placement-comm-line">
+                  <span className="placement-comm-label">Fax:</span>
+                  <span className="placement-comm-plain-text">04294 – 220087</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Email Card */}
+            <div className="placement-comm-card">
+              <div className="placement-comm-icon-box email">
+                <FontAwesomeIcon icon={faEnvelope} />
+              </div>
+              <div className="placement-comm-info">
+                <h4>Email Support</h4>
+                <p className="placement-comm-highlight">Official Enquiries</p>
+                <div className="placement-comm-line">
+                  <a href="mailto:placement@kongu.edu" className="placement-comm-action-link">
+                    placement@kongu.edu
+                  </a>
+                </div>
+                <div className="placement-comm-line">
+                  <a href="mailto:placement@kongu.ac.in" className="placement-comm-action-link">
+                    placement@kongu.ac.in
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-
-        <div className="placement-email-box">
-          <div className="placement-email-item">
-            <FontAwesomeIcon
-              icon={faEnvelope}
-              className="placement-email-icon"
-            />
-            <a href="mailto:placement@kongu.edu">
-              placement@kongu.edu
-            </a>
-          </div>
-
-          <div className="placement-email-item">
-            <FontAwesomeIcon
-              icon={faEnvelope}
-              className="placement-email-icon"
-            />
-            <a href="mailto:placement@kongu.ac.in">
-              placement@kongu.ac.in
-            </a>
-          </div>
-        </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
       <section className="placement-section" id="placement-statistics">
         <div className="wave-bg"></div>
