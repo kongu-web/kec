@@ -168,13 +168,6 @@ export const teamData = [
     mobile: "7373675915",
     img: team4,
   },
-  {
-    id: 5,
-    name: "Mr.G.Srivaths Karthic",
-    role: "Assistant Placement Officer",
-    mobile: "9442751513",
-    img: team5,
-  },
 ];
 
 const Placement = () => {
@@ -412,7 +405,7 @@ const Placement = () => {
                 <img src={card1} alt="Companies Visited Icon" />
               </div>
 
-              <div className="Placement-stat-valu">357</div>
+              <div className="Placement-stat-valu">365</div>
             </div>
 
             <div className="ps-stat-card blue center">
@@ -424,7 +417,7 @@ const Placement = () => {
                 <img src={card2} alt="Students Placed Icon" />
               </div>
 
-              <div className="Placement-stat-valu">1520</div>
+              <div className="Placement-stat-valu">1528</div>
             </div>
 
             <div className="ps-stat-card green">
