@@ -18,7 +18,8 @@ import team1 from "../../../assets/images/Placement/Dhakshinamoorthy.P.webp";
 import team2 from "../../../assets/images/Placement/Kavin.S.webp";
 import team3 from "../../../assets/images/Placement/Sukumar.P.webp";
 import team4 from "../../../assets/images/Placement/Dineshkumar.P.webp";
-import team5 from "../../../assets/images/Placement/G.Srivaths Karthic.webp";
+import team5 from "../../../assets/images/Placement/chandramohan.webp";
+
 
 import stat1 from "../../../assets/images/Placement/Frame 260.webp";
 import stat2 from "../../../assets/images/Placement/Frame 257.webp";
@@ -140,6 +141,13 @@ const recruitersBySector = {
 
 
 export const teamData = [
+   {
+    id: 5,
+    name: "Mr. C. Chandramohan",
+    role: "Dean",
+    mobile: "96778 51471",
+    img: team5,
+  },
   {
     id: 1,
     name: "Mr. P. Dhakshinamoorthy ",
@@ -168,6 +176,7 @@ export const teamData = [
     mobile: "7373675915",
     img: team4,
   },
+ 
 ];
 
 const Placement = () => {
@@ -423,7 +432,7 @@ const Placement = () => {
                 <img src={card2} alt="Students Placed Icon" />
               </div>
 
-              <div className="Placement-stat-valu">1528</div>
+              <div className="Placement-stat-valu">1529</div>
             </div>
 
             <div className="ps-stat-card green">
