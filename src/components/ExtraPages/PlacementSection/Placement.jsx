@@ -420,7 +420,7 @@ const Placement = () => {
                 <img src={card1} alt="Companies Visited Icon" />
               </div>
 
-              <div className="Placement-stat-valu">365</div>
+              <div className="Placement-stat-valu">409</div>
             </div>
 
             <div className="ps-stat-card blue center">
