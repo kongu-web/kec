@@ -25,12 +25,10 @@ import img15 from "../../../assets/images/15.webp";
 import img16 from "../../../assets/images/16.webp";
 import img17 from "../../../assets/images/17.webp";
 import img18 from "../../../assets/images/18.webp";
-import img19 from "../../../assets/images/19.webp";
 import img20 from "../../../assets/images/20.webp";
 import img21 from "../../../assets/images/21.webp";
 import img22 from "../../../assets/images/22.webp";
 import img23 from "../../../assets/images/23.webp";
-import img24 from "../../../assets/images/24.webp";
 import img25 from "../../../assets/images/25.webp";
 import img26 from "../../../assets/images/26.webp";
 import img27 from "../../../assets/images/27.webp";
@@ -43,7 +41,7 @@ import img34 from "../../../assets/images/34.webp";
 import img35 from "../../../assets/images/35.webp";
 
 export default function Banner() {
-  const images = [img1, img35, img34, img28, img29, img30, img25, img24, img21, img19, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img20, img12];
+  const images = [img1, img35, img34, img28, img29, img30, img25, img21, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img20, img12];
 
   return (
     <div className="Banner-container">
