@@ -23,7 +23,7 @@ const WomenHelpLine = () => {
             </thead>
             <tbody>
               <tr>
-                <td>Dr. R. R. Rajalakshmi (CSE)</td>
+                <td>Dr. R. R. Rajalakshmi (AIML)</td>
                 <td>9486561199</td>
               </tr>
               {/* <tr>

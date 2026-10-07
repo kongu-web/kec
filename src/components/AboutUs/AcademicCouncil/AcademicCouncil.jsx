@@ -81,7 +81,7 @@ const AcademicCouncil = () => {
         "Dr.S.Malliga - HoD, CSE",
         "Dr.S.Varadhaganapathy - HoD, IT",
         "Dr.P.Natesan - HoD, AIDS",
-        "Dr.R.R.Rajalaxmi - HoD, AIML",
+        "Dr.T.Abirami - HoD, AIML",
         "Dr.V.Sangeetha - HoD, Chemical",
         "Dr.A.Tamilarasi - HoD, CA",
         "Dr.S.Kalaiselvi - HoD, CT-UG",
