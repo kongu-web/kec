@@ -143,7 +143,7 @@ const recruitersBySector = {
 export const teamData = [
    {
     id: 5,
-    name: "Mr. C. Chandramohan",
+    name: "Dr. R. Chandramohan",
     role: "Dean",
     mobile: "96778 51471",
     img: team5,
