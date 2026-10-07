@@ -19,7 +19,7 @@ const IqacNba = () => {
             })
             .then(data => {
                 if (Array.isArray(data)) {
-                    setDbData(data.filter(item => item && item.file_path && String(item.file_path).trim().length > 0));
+                    setDbData(data.filter(item => item && item.file_path && item.file_path.startsWith('/uploads/')));
                 }
             })
             .catch(err => {
@@ -30,7 +30,7 @@ const IqacNba = () => {
             .then(res => res.json())
             .then(data => {
                 if (Array.isArray(data)) {
-                    setDcsData(data.filter(item => item && item.file_path && String(item.file_path).trim().length > 0));
+                    setDcsData(data.filter(item => item && item.file_path && item.file_path.startsWith('/uploads/')));
                 }
             })
             .catch(err => {
