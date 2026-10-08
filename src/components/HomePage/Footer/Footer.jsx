@@ -389,11 +389,11 @@ const Footer = () => {
                   Undertaking
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="/faculty-members" title="Faculty Members">
                   Faculty Members
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
