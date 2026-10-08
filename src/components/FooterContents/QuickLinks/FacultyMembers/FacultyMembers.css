@@ -1,0 +1,371 @@
+/* FacultyMembers.css - Matches Downloads Grid UI with Inline PDF Modal */
+
+.faculty-members-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8fafc;
+}
+
+.faculty-members-main {
+  flex: 1;
+  padding: 8.5rem 1.5rem 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.faculty-members-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Page Title matching screenshot */
+.faculty-members-title {
+  text-align: center;
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #0b2545;
+  margin: 0 0 2.5rem;
+  letter-spacing: -0.5px;
+}
+
+/* 3-Column Grid for PDF Cards */
+.faculty-docs-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  align-items: stretch;
+}
+
+/* Document Card */
+.faculty-doc-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.1rem 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  position: relative;
+  user-select: none;
+}
+
+.faculty-doc-card:hover {
+  transform: translateY(-3px);
+  border-color: #009EDB;
+  box-shadow: 0 10px 20px -4px rgba(0, 158, 219, 0.12),
+              0 4px 6px -2px rgba(15, 23, 42, 0.04);
+}
+
+/* Left PDF Icon with soft red background */
+.faculty-doc-icon {
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  background: #fef2f2;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ef4444;
+  font-size: 1.25rem;
+  transition: transform 0.2s ease;
+}
+
+.faculty-doc-card:hover .faculty-doc-icon {
+  transform: scale(1.05);
+  background: #fee2e2;
+}
+
+/* Middle Text / Document Title */
+.faculty-doc-info {
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.faculty-doc-name {
+  display: block;
+  font-size: 0.94rem;
+  font-weight: 600;
+  color: #1e293b;
+  line-height: 1.4;
+  word-break: break-word;
+  transition: color 0.2s ease;
+}
+
+.faculty-doc-card:hover .faculty-doc-name {
+  color: #009EDB;
+}
+
+/* Right Action Icon */
+.faculty-doc-action {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #94a3b8;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  padding: 0.25rem;
+}
+
+.faculty-doc-card:hover .faculty-doc-action {
+  color: #009EDB;
+  transform: translateY(2px);
+}
+
+/* Empty State */
+.faculty-empty-state {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: #64748b;
+  font-size: 1.05rem;
+}
+
+/* ==========================================================
+   PDF POPUP MODAL STYLES
+   ========================================================== */
+.pdf-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(11, 37, 69, 0.75);
+  backdrop-filter: blur(6px);
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  animation: modalFadeIn 0.25s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.pdf-modal-container {
+  background: #ffffff;
+  width: 100%;
+  max-width: 1100px;
+  height: 90vh;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  animation: modalScaleUp 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalScaleUp {
+  from {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Modal Header */
+.pdf-modal-header {
+  padding: 1rem 1.5rem;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+
+.pdf-modal-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 0;
+}
+
+.pdf-modal-icon {
+  color: #ef4444;
+  font-size: 1.35rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.pdf-modal-title {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #0b2545;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Modal Action Buttons */
+.pdf-modal-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-shrink: 0;
+}
+
+.pdf-modal-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.5rem 0.85rem;
+  border-radius: 8px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+  color: #334155;
+  transition: all 0.2s ease;
+}
+
+.pdf-modal-btn:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.pdf-modal-btn.download {
+  background: #009EDB;
+  color: #ffffff;
+  border-color: #009EDB;
+}
+
+.pdf-modal-btn.download:hover {
+  background: #0284c7;
+  color: #ffffff;
+}
+
+.pdf-modal-btn.external {
+  padding: 0.5rem 0.65rem;
+  color: #64748b;
+}
+
+.pdf-modal-btn.external:hover {
+  color: #009EDB;
+  background: #f0f9ff;
+  border-color: #bae6fd;
+}
+
+.pdf-modal-btn.close {
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  background: #fee2e2;
+  color: #ef4444;
+  border-color: #fecaca;
+}
+
+.pdf-modal-btn.close:hover {
+  background: #ef4444;
+  color: #ffffff;
+  border-color: #ef4444;
+}
+
+/* Modal Body */
+.pdf-modal-body {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  background: #525659;
+  position: relative;
+  overflow: hidden;
+}
+
+.pdf-modal-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+/* ==========================================================
+   RESPONSIVE DESIGN
+   ========================================================== */
+@media (max-width: 1024px) {
+  .faculty-docs-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .pdf-modal-container {
+    height: 92vh;
+    max-width: 95%;
+  }
+}
+
+@media (max-width: 768px) {
+  .faculty-members-main {
+    padding: 7.5rem 1rem 3.5rem;
+  }
+
+  .faculty-members-title {
+    font-size: 1.85rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .faculty-docs-grid {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .faculty-doc-card {
+    padding: 1rem;
+  }
+
+  .faculty-doc-icon {
+    width: 38px;
+    height: 38px;
+    font-size: 1.1rem;
+  }
+
+  .faculty-doc-name {
+    font-size: 0.9rem;
+  }
+
+  .pdf-modal-overlay {
+    padding: 0.5rem;
+  }
+
+  .pdf-modal-container {
+    height: 96vh;
+    width: 100%;
+    border-radius: 12px;
+  }
+
+  .pdf-modal-header {
+    padding: 0.75rem 1rem;
+  }
+
+  .pdf-modal-title {
+    font-size: 0.98rem;
+  }
+
+  .pdf-modal-btn.download span {
+    display: none;
+  }
+
+  .pdf-modal-btn.download {
+    padding: 0.5rem 0.65rem;
+  }
+}
