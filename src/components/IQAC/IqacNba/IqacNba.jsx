@@ -77,18 +77,21 @@ const IqacNba = () => {
             slNo: 6,
             programme: "B.E. Computer Science and Engineering",
             letters: [
+                { letter: "F.No.33-50-2010 NBA dated 17.09.2026", period: "From 2026-2029", pdf: `${docPath}CSE/7.F.No.33-50-2010 NBA dated 17.09.2026.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}CSE/6.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}CSE/5.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}CSE/4.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 17.09.2012", period: "From 2012-2013 to 2014-2015", pdf: `${docPath}CSE/3.F.No.33-50-2010 NBA dated 17.09.2012.pdf` },
                 { letter: "F.No. NBA ACCR-666-2005 dated 19.09.2006", period: "From 2006-2007 to 2008-2009", pdf: `${docPath}CSE/2.F.No. NBA ACCR-666-2005 dated 19.09.2006.pdf` },
                 { letter: "F.No. NBA 24-BRD-ATR-2002 dated 13.05.2002", period: "From 2002-2003", pdf: `${docPath}CSE/1.F.No. NBA 24-BRD-ATR-2002dated 13.05.2002.pdf` },
+                
             ]
         },
         {
             slNo: 7,
             programme: "B.Tech. Information Technology",
             letters: [
+                { letter: "F.No.33-50-2010 NBA dated 17.09.2026", period: "From 2026-2029", pdf: `${docPath}CSE/7.F.No.33-50-2010 NBA dated 17.09.2026.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}IT/5.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}IT/4.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}IT/3.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
@@ -100,6 +103,7 @@ const IqacNba = () => {
             slNo: 8,
             programme: "B.E. Electrical and Electronics Engineering",
             letters: [
+                { letter: "F.No.33-50-2010 NBA dated 17.09.2026", period: "From 2026-2029", pdf: `${docPath}CSE/7.F.No.33-50-2010 NBA dated 17.09.2026.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 03.01.2024", period: "From 2023-2024 to 2025-2026", pdf: `${docPath}EEE/6.F.No.33-50-2010 NBA dated 03.01.2024.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 28.05.2020", period: "From 2020-2021 to 2022-2023", pdf: `${docPath}EEE/5.F.No.33-50-2010 NBA dated 28.05.2020.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 13.10.2017", period: "From 2017-2018 to 2019-2020", pdf: `${docPath}EEE/4.F.No.33-50-2010 NBA dated 13.10.2017.pdf` },
