@@ -34,8 +34,8 @@ const FlashNews = () => {
             </span> */}
             
       <span>
-        <a href="others/mts_pa2026.pdf" target="_blank" rel="noopener noreferrer">
-          📢 Recruitment of Project Assistant - Department of Mechatronics Engineering.
+        <a href="others/cse_research.pdf" target="_blank" rel="noopener noreferrer">
+          📢 Recruitment of Project Research Scientist (Non-Medical) - Department of Computer Science and Engineering.
         </a>
       </span>
             
