@@ -62,6 +62,7 @@ const DownloadArrowIcon = () => (
 const formatDocTitle = (rawName) => {
   const clean = rawName.replace(/\.pdf$/i, "").trim();
   const deptMap = {
+    
     aids: "Artificial Intelligence and Data Science",
     "artificial intelligence and data science": "Artificial Intelligence and Data Science",
     aiml: "Artificial Intelligence and Machine Learning",
@@ -271,12 +272,12 @@ const FacultyMembers = () => {
                     <span className="faculty-doc-name">{doc.name}</span>
                   </div>
 
-                  <div
+                  {/* <div
                     className="faculty-doc-action"
                     title="Download / View PDF"
                   >
                     <DownloadArrowIcon />
-                  </div>
+                  </div> */}
                 </div>
               ))}
             </div>
@@ -311,7 +312,7 @@ const FacultyMembers = () => {
               </div>
 
               <div className="pdf-modal-actions">
-                <a
+                {/* <a
                   href={selectedPdf.file}
                   download={`${selectedPdf.name}.pdf`}
                   className="pdf-modal-btn download"
@@ -319,7 +320,7 @@ const FacultyMembers = () => {
                 >
                   <FaDownload />
                   <span>Download</span>
-                </a>
+                </a> */}
                 <button
                   onClick={handleCloseModal}
                   className="pdf-modal-btn close"
