@@ -86,6 +86,7 @@ const searchPages = [
   { name: "University Ranks", path: "/universityranks" },
   { name: "Endowments", path: "/endownments" },
   { name: "College Rules", path: "/collegerules" },
+  { name: "Faculty Members", path: "/faculty-members" },
   { name: "Placement Cell", path: "/placement" },
   { name: "Training Cell", path: "/training-cell" },
   { name: "Skill Enhancement Cell", path: "/skill-enhancement-cell" },
@@ -594,6 +595,7 @@ const Navbar = () => {
       "/value-added",
     ],
     departments: ["/departments", "/ug", "/pg", "/phd", "/applied-science"],
+    faculty: ["/faculty-members", "/facultymembers"],
     placement: [
       "/placement",
       "/training",
@@ -992,6 +994,14 @@ const Navbar = () => {
                   </span>
                 </div>
               )}
+            </li>
+
+            <li
+              className={location.pathname === "/faculty-members" ? "active" : ""}
+              onMouseEnter={() => handleMouseEnter(null)}
+              onClick={() => navigate("/faculty-members")}
+            >
+              Faculty Members
             </li>
 
             {/* <li
@@ -1442,6 +1452,8 @@ const Navbar = () => {
                     </li>
                   </ul>
                 )}
+
+                <li onClick={() => { navigate("/faculty-members"); setMobileMenu(false); }}>Faculty Members</li>
 
                 {/* PLACEMENT */}
                 {/* <li
