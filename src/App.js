@@ -274,6 +274,7 @@ const App = () => {
           <Route path="/fitness-protocols" element={<FitnessProtocol />} />
           <Route path="/Nbadcs" element={<Nbadcs />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          {/* Faculty Members Directory */}
           <Route path="/faculty-members" element={<FacultyMembers />} />
           <Route path="/facultymembers" element={<FacultyMembers />} />
 
