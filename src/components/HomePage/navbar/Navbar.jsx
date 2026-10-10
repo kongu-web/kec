@@ -1001,7 +1001,7 @@ const Navbar = () => {
               onMouseEnter={() => handleMouseEnter(null)}
               onClick={() => navigate("/faculty-members")}
             >
-              Faculty Members
+              Faculty-Details
             </li>
 
             {/* <li

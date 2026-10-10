@@ -391,7 +391,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="/faculty-members" title="Faculty Members">
-                  Faculty Members
+                  Faculty-Details
                 </a>
               </li>
             </ul>
