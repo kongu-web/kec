@@ -226,7 +226,7 @@ const Navbar = () => {
           category: "Research/Doctorate"
         });
       });
-    }
+    } 
 
     // 6. Index Placement Highlights & Recruiters
     if (collegeData?.placements) {
