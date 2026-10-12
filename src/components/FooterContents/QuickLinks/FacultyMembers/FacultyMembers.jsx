@@ -162,8 +162,90 @@ try {
   // folder optional
 }
 
-// Sort alphabetically
-facultyPdfFiles.sort((a, b) => a.name.localeCompare(b.name));
+// Helper function to categorize and sort departments:
+// 1. Engineering departments (alphabetical)
+// 2. CT UG and CT PG (CT UG, then CT PG)
+// 3. MBA and MCA (MBA, then MCA)
+// 4. Science & Humanities (S&H) departments (alphabetical)
+const getDeptCategory = (doc) => {
+  const lowerRaw = (doc.rawName || "").toLowerCase();
+  const lowerName = (doc.name || "").toLowerCase();
+
+  // 1. CT UG
+  if (
+    lowerRaw.includes("ctug") ||
+    lowerRaw.includes("b.sc") ||
+    lowerName.includes("computer technology (ug)")
+  ) {
+    return { group: 1, subOrder: 1 };
+  }
+
+  // 2. CT PG
+  if (
+    lowerRaw.includes("ctpg") ||
+    lowerRaw.includes("m.sc") ||
+    lowerName.includes("computer technology (pg)")
+  ) {
+    return { group: 1, subOrder: 2 };
+  }
+
+  // 3. MBA
+  if (
+    lowerRaw.includes("mba") ||
+    lowerRaw.includes("business administration") ||
+    lowerName.includes("master of business administration")
+  ) {
+    return { group: 2, subOrder: 1 };
+  }
+
+  // 4. MCA
+  if (
+    lowerRaw.includes("mca") ||
+    lowerRaw.includes("computer applications") ||
+    lowerName.includes("master of computer applications")
+  ) {
+    return { group: 2, subOrder: 2 };
+  }
+
+  // 5. Science & Humanities (S and H): Chemistry, English, Maths/Mathematics, Physics
+  const isSH =
+    lowerRaw.includes("chemistry") ||
+    lowerName.includes("chemistry") ||
+    lowerRaw.includes("english") ||
+    lowerName.includes("english") ||
+    lowerRaw.includes("math") ||
+    lowerName.includes("mathematic") ||
+    lowerRaw.includes("physics") ||
+    lowerName.includes("physics");
+
+  if (isSH) {
+    return { group: 3, subOrder: 0 };
+  }
+
+  // 0. Engineering departments (default)
+  return { group: 0, subOrder: 0 };
+};
+
+// Remove any duplicates by name if present across multiple folders
+facultyPdfFiles = facultyPdfFiles.filter(
+  (doc, index, self) => index === self.findIndex((d) => d.name === doc.name)
+);
+
+// Sort: First Engineering (alphabetical), then CT UG & CT PG, then MBA & MCA, then S&H (alphabetical)
+facultyPdfFiles.sort((a, b) => {
+  const catA = getDeptCategory(a);
+  const catB = getDeptCategory(b);
+
+  if (catA.group !== catB.group) {
+    return catA.group - catB.group;
+  }
+
+  if (catA.subOrder !== catB.subOrder) {
+    return catA.subOrder - catB.subOrder;
+  }
+
+  return a.name.localeCompare(b.name);
+});
 
 const FacultyMembers = () => {
   const [selectedPdf, setSelectedPdf] = useState(null);
