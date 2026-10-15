@@ -8,6 +8,12 @@ const OUTPUT_FILE = path.join(__dirname, '../src/components/IQAC/IqacDownloads/a
 
 console.log(`Scanning: ${ARCHIVED_DIR}`);
 
+// Ensure output directory exists (src/components/IQAC/IqacDownloads)
+const outputDir = path.dirname(OUTPUT_FILE);
+if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+}
+
 if (!fs.existsSync(ARCHIVED_DIR)) {
     console.warn(`Archived directory not found: ${ARCHIVED_DIR}`);
     // Create empty file to prevent import errors
@@ -35,12 +41,6 @@ try {
             data.doc.push(file);
         }
     });
-
-    // Ensure output directory exists (src/components/IQAC/IqacDownloads)
-    const outputDir = path.dirname(OUTPUT_FILE);
-    if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true });
-    }
 
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(data, null, 2));
     console.log(`Successfully generated archived_data.json`);
