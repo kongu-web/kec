@@ -34,8 +34,8 @@ const FlashNews = () => {
             </span> */}
             
       <span>
-        <a href="others/cse_research.pdf" target="_blank" rel="noopener noreferrer">
-          📢 Recruitment of Project Research Scientist (Non-Medical) - Department of Computer Science and Engineering.
+        <a href="https://ichvhe.uhv.org.in/" target="_blank" rel="noopener noreferrer">
+          📢 11th International Conference on Human Values in Higher Education
         </a>
       </span>
             
