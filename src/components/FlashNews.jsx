@@ -35,7 +35,7 @@ const FlashNews = () => {
             
       <span>
         <a href="https://ichvhe.uhv.org.in/" target="_blank" rel="noopener noreferrer">
-          📢 11th International Conference on Human Values in Higher Education
+          📢 Organising Partner for 11th International Conference on Human Values in Higher Education
         </a>
       </span>
             
