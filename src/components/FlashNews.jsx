@@ -37,6 +37,13 @@ const FlashNews = () => {
         <a href="https://ichvhe.uhv.org.in/" target="_blank" rel="noopener noreferrer">
           📢 Organising Partner for 11th International Conference on Human Values in Higher Education
         </a>
+      </span> 
+
+      <br/><br/>
+      <span>
+        <a href="others/eee-projectassociate.pdf" target="_blank" rel="noopener noreferrer">
+          📢 Recruitment of Project Associate-I / II under the AICTE RPS – Lab to Market Project on "Indigenous PEM Electrolyzer Development"
+        </a>
       </span>
             
           </div>
