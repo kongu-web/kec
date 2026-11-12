@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='hero'>
         <div className='hero-text'>
-            <p>42 YEARS OF EXCELLENCE</p>
+            <p>43 YEARS OF EXCELLENCE</p>
             <h1>TRANSFORM YOURSELF</h1>
             
         </div>
