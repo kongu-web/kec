@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef, useMemo } from "react";
 import "./Navbar.css";
 import logo from "../../../assets/images/kec11.webp";
-import badge42 from "../../../assets/images/42 years new.png";
+import badge43 from "../../../assets/images/43 logo main.png";
 import nif from "../../../assets/images/nirf.webp";
 import naac from "../../../assets/images/naac.webp";
 import tneaBadge from "../../../assets/images/tneacode.webp";
@@ -831,7 +831,7 @@ const Navbar = () => {
 
             {/* BADGES */}
             <div className="nav-badges">
-              <img src={badge42} alt="42 Years" />
+              <img src={badge43} alt="43 Years" />
               {/* <img src={nif} alt="NIRF" /> */}
               <img src={naac} alt="NAAC" className="naac-badge" />
             </div>
