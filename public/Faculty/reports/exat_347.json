@@ -1,0 +1,994 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSOCIATE PROFESSOR",
+                                                       "Area of Specialisation":  "Cloud Computing, Nature Inspired Optimization Algorithms, Machine Learning, Deep Learning, Human Computer Interface, Web Development",
+                                                       "Date of joining in KEC":  "04-07-2007",
+                                                       "Mobile":  "9489241573",
+                                                       "E-mail":  "mg.teachtech@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "PhD",
+                                                       "Specialization":  "ICE (Cloud Computing)",
+                                                       "From":  "01-07-2011"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "27-07-2005"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "BE",
+                                                       "Specialization":  "EEE",
+                                                       "From":  "10-06-1998"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-10-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Prepared the necessary documents to upload SAR for CSE"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-08-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "01-07-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Motivated the students to attend community meetups and collaborate with industry experts. Made one student to handle a session in a Meetup."
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-07-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "28-06-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Made the students to take up freelance projects and obtained internships for the student members"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "03-06-2024",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Equiped the lab by purchasing new equipments to make the students develop projects"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "03-06-2024",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "01-07-2023",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Conduct various coding contests and Hackathons to enhance the logical thinking and problem solving skills of the students"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "03-06-2023",
+                                                       "End Date":  "31-05-2025",
+                                                       "Contribution to the Institute":  "Periodic updation and maintenance of Website content"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2023",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Prepared the necessary documents for Criteria 5"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2023",
+                                                       "End Date":  "31-05-2025",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2022",
+                                                       "End Date":  "31-05-2025",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2021",
+                                                       "End Date":  "31-05-2024",
+                                                       "Contribution to the Institute":  "Prepared the data and the supporting documents for the criteria"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2020",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Book Award",
+                                                       "Level":  "State",
+                                                       "Awarded by":  "Tamil Nadu Java User Group Community",
+                                                       "Place":  "EPAM Systems, Coimbatore",
+                                                       "Date":  "07-03-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "AICTE MoE\u0027s IIC Regional Meet - Finalist",
+                                                       "Level":  "State",
+                                                       "Awarded by":  "AICTE Ministry of Education",
+                                                       "Place":  "PSG College of Arts and Science, Coimbatore",
+                                                       "Date":  "25-11-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "KEC/CSE Ideathon - Mentor for Winning Team",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "Department of CSE",
+                                                       "Place":  "Kongu Engineering College, Erode",
+                                                       "Date":  "09-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "UYIR Hackathon 2025 - Mentor for Finalist Team",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "UYIR, Coimbatore",
+                                                       "Place":  "Sri Krishna College of Engineering and Technology, Coimbatore",
+                                                       "Date":  "08-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Smart India Hackathon 2025 Software Edition - Mentor for the Finalist Team",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "Ministry of Education and AICTE",
+                                                       "Place":  "IIT Hyderabad",
+                                                       "Date":  "11-12-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "3rd International Conference on Disruptive Technologies (ICDT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Chronic Kidney Disease Risk Prediction Using Machine Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "07-03-2025",
+                                                       "Published at":  "IEEE Explore"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Grenze International Journal of Engineering \u0026 Technology (GIJET)",
+                                                       "Level":  "International",
+                                                       "Title":  "Detection of Tuberculosis, Pneumonia, Covid-19 using Chest X-Ray",
+                                                       "Volume No":  "10",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2024",
+                                                       "Date":  "15-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Sambodhi",
+                                                       "Level":  "International",
+                                                       "Title":  "Design of Influent Parameters Prediction Model using Genetic Algorithm to Augment the Wastewater Treatment Process",
+                                                       "Volume No":  "43",
+                                                       "Issue No":  "3",
+                                                       "Year":  "Nov-Dec 2020",
+                                                       "Date":  "02-11-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Computer Applications in Engineering Education",
+                                                       "Level":  "International",
+                                                       "Title":  "Task scheduling using artificial bee foraging optimization for load balancing in cloud data centers",
+                                                       "Volume No":  "28",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2020",
+                                                       "Date":  "01-04-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Recent Technology and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Hybrid Binary Gray Wolf Optimization for finding Optimal Features in Classification Problems",
+                                                       "Volume No":  "8",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2019",
+                                                       "Date":  "01-11-2019",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Communication and Networking System",
+                                                       "Level":  "International",
+                                                       "Title":  "Enhancing the Performance of Live Migration of Virtual Machines with WSClock Replacement Algorithm",
+                                                       "Volume No":  "2",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2012",
+                                                       "Date":  "01-12-2012",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Canon Ball Fashions, Tirupur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Mobile Application Development",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "20-01-2026",
+                                                       "Date of Consultancy (To)":  "29-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "25000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Yaane Technologies, Annur, Tamilnadu",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Application",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "19-01-2026",
+                                                       "Date of Consultancy (To)":  "29-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Balaganapathy Textiles, Attayampatty, Salem - 637501",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Application",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "03-02-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "23000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Selvi\u0027s Asaiva Virundhu, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Application Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "09-03-2024",
+                                                       "Date of Consultancy (To)":  "13-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Santhosh Yarns, Chennimalai, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "27-01-2024",
+                                                       "Date of Consultancy (To)":  "09-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "MRV Matric Higher Secondary School, Ammapalayam",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "11-03-2023",
+                                                       "Date of Consultancy (To)":  "16-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "OM Muruga VVM Garments, Tirupur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "09-02-2023",
+                                                       "Date of Consultancy (To)":  "17-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Balaji Techno Traders, Salem",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "02-07-2022",
+                                                       "Date of Consultancy (To)":  "14-06-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "5000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "New Indian Bakery, Mayiladuthurai",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "23-03-2022",
+                                                       "Date of Consultancy (To)":  "09-11-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Anbu Pazhamudhir Nilayam, Avinashi",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "WebsiteCreation",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "09-03-2022",
+                                                       "Date of Consultancy (To)":  "13-07-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Training",
+                                                       "Name of Event":  "Java Open Souce",
+                                                       "Collaboration/Sponsored by":  "Tamilnadu Java Users Group",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "16-02-2026",
+                                                       "End Date":  "22-02-2026",
+                                                       "Duration":  "7 Days",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "Department of CSE"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Training",
+                                                       "Name of Event":  "Prompt Engineering",
+                                                       "Collaboration/Sponsored by":  "Amphisoft, Coimbatore",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "08-12-2025",
+                                                       "End Date":  "13-12-2025",
+                                                       "Duration":  "6 Days",
+                                                       "Role played":  "Convener",
+                                                       "Venue":  "CC16, Department of CSE, Kongu Engineering College, Erode"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Others",
+                                                       "Name of Event":  "Field Visit to ThoughtWorks, Coimbatore",
+                                                       "Collaboration/Sponsored by":  "ThoughtWorks, KCT Tech Park, Coimbatore",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-11-2025",
+                                                       "End Date":  "",
+                                                       "Duration":  "3 hrs",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Others",
+                                                       "Name of Event":  "Field Visit to ICrop Agriculture, Karur for the course \"Internet of Things \u0026 Cloud Computing\"",
+                                                       "Collaboration/Sponsored by":  "ICrop Agriculture, Karur",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "16-09-2025",
+                                                       "End Date":  "",
+                                                       "Duration":  "2 hrs",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "Design with AI",
+                                                       "Collaboration/Sponsored by":  "Pentans Design Studio, Tirupur",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "26-07-2025",
+                                                       "End Date":  "30-09-2025",
+                                                       "Duration":  "30 hrs",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Modern Web Development \u0026 AI Integration",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Edunet Foundation",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "15-12-2025",
+                                                       "End Date":  "19-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "Prompt Engineering",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of CSE, Kongu Engineering College, Erode",
+                                                       "Place":  "CC16, Department of CSE, Kongu Engineering College, Erode",
+                                                       "Start Date":  "08-12-2025",
+                                                       "End Date":  "13-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Smart and Sustainable Waste Management Using IoT and Data Analytics",
+                                                       "Level":  "National",
+                                                       "Organized by":  "MADANAPALLE INSTITUTE OF TECHNOLOGY \u0026 SCIENCE (AICTE ATAL)",
+                                                       "Place":  "Madanapalle, Andhra Pradesh",
+                                                       "Start Date":  "15-09-2025",
+                                                       "End Date":  "20-09-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Harnessing Generative AI: Smart Tools for Teaching, Learning, Evaluation \u0026 Research",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Department of CSE, St. Joseph\u0027s College",
+                                                       "Place":  "Tiruchirappalli",
+                                                       "Start Date":  "07-07-2025",
+                                                       "End Date":  "11-07-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "Virtual Reality and Augmented Reality using Unity",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of CSD, Kongu Engineering College",
+                                                       "Place":  "Perundurai, Erode",
+                                                       "Start Date":  "09-06-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "MERN Stack Web development",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE with Mocrosoft",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "17-02-2025",
+                                                       "End Date":  "21-02-2025"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "Computer Society of India",
+                                                       "Position":  "Life Member",
+                                                       "Level":  "National",
+                                                       "Start Date":  "01-06-2012",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "A Machine Learning-Based Framework for Dropout Prediction and Personalized Recommendation in E-Learning Systems",
+                                                       "Title of Conference":  "International Conference on Computational Intelligence, Security and Systems",
+                                                       "Organized by":  "Sona College of Technology, Salem",
+                                                       "Level":  "International",
+                                                       "Start Date":  "13-03-2026",
+                                                       "End Date":  "14-03-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Chronic Kidney Disease Risk Prediction Using Machine Learning",
+                                                       "Title of Conference":  "3rd International Conference on Disruptive Technologies (ICDT)",
+                                                       "Organized by":  "G.L.Bajaj Institute of Technology and Management, Greater Noida",
+                                                       "Level":  "International",
+                                                       "Start Date":  "07-03-2025",
+                                                       "End Date":  "08-03-2025"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "C# and .NET Technologies",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of CT-PG, Kongu Engineering College, Erode",
+                                                       "Start Date":  "15-12-2025",
+                                                       "End Date":  "19-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "16th IEEE International Conference on Computing, Communication, and Networking Technologies (ICCCNT) 2025",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT Indore, Madhya Pradesh, India",
+                                                       "Start Date":  "06-07-2025",
+                                                       "End Date":  "11-07-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Hackathon 2025",
+                                                       "Role":  "Others",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Nandha Engineering College, Erode",
+                                                       "Start Date":  "26-03-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Responsive UI Design using Bootstrap",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of IT, Excel Engineering College, Komarapalayam",
+                                                       "Start Date":  "18-02-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.M.GEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "International Conference on Computing, Communication, and Networking Technologies",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT, Mandi",
+                                                       "Start Date":  "24-06-2024",
+                                                       "End Date":  "28-06-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.M.GEETHA",
+                                                       "Title of the thesis for scholar":  "Detection and Identification of Chronic Kidney Disease using  Deep Convolutional Neural Network",
+                                                       "Name of Scholar":  "Ms.M.Kannukkiniyal",
+                                                       "Date of Registration":  "14-08-2023",
+                                                       "Registration No:":  "23224697466",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "KEC",
+                                                       "Date of Awarding PhD":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

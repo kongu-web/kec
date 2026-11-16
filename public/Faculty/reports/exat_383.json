@@ -1,0 +1,1032 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Designation":  "ASSISTANT PROFESSOR(SENIOR GRADE)",
+                                                       "Area of Specialisation":  "Structural Engineering",
+                                                       "Date of joining in KEC":  "23-07-2010",
+                                                       "Mobile":  "8248781094",
+                                                       "E-mail":  "venkatcivil@kongu.ac.in"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "Structural Engineering",
+                                                       "From":  "05-08-2008"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "Structural Engineering",
+                                                       "From":  "17-07-2008"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "23-07-2010",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of Award/Achievement":  "ELITE in NPTEL EXAM",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Date":  "04-11-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of Award/Achievement":  "Bharat Nirman Challange",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "Top 100 Project shortlisted",
+                                                       "Place":  "Chennai",
+                                                       "Date":  "09-03-2026"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Ceramic Processing Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Effect of ceramic Nano-silica on microstructure and flexural behavior of RC beams under Low a/d ratio",
+                                                       "Volume No":  "27",
+                                                       "Issue No":  "5",
+                                                       "Year":  "2026",
+                                                       "Date":  "31-10-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Buildings",
+                                                       "Level":  "International",
+                                                       "Title":  "Integrating Experimental Durability Assessment and Explainable Artificial Intelligence for Sustainable UHPC in Smart Construction Applications.",
+                                                       "Volume No":  "16",
+                                                       "Issue No":  "3946",
+                                                       "Year":  "2026",
+                                                       "Date":  "05-10-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Publishing LLC",
+                                                       "Level":  "International",
+                                                       "Title":  "Masonry workers risk assessment with different trowels using\nARIMA model forecasting",
+                                                       "Volume No":  "3284",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2026",
+                                                       "Date":  "30-07-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Field Robotics",
+                                                       "Level":  "International",
+                                                       "Title":  "A Critical Review of Reinforcement Learning Algorithms for Mobile Robot Path Planning.",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "12-05-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of  Environmental  Nanotechnology",
+                                                       "Level":  "International",
+                                                       "Title":  "Seismic Performance of Reinforced Cantilever \nColumns in Earthquake Environments through \nNano-GFRP Retrofitting",
+                                                       "Volume No":  "13",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "30-12-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Scientific \u0026 Industrial Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Ergonomic Evaluation of Different Working Posture and Handle Designs of Mason Trowel during Wall Plastering Work based on Shoulder and Arm Muscle Activity",
+                                                       "Volume No":  "82",
+                                                       "Issue No":  "9",
+                                                       "Year":  "2023",
+                                                       "Date":  "26-07-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Intelligent Manufacturing Systems in Industry 4.0",
+                                                       "Level":  "International",
+                                                       "Title":  "Effect of Occupational Exposure to Ergonomic Risk Factors on Musculoskeletal Diseases Among the Construction Workers-A Review",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "01-07-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Conference Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Ergonomics assessment of critical work posture in construction industries - A state of art review",
+                                                       "Volume No":  "2690",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2023",
+                                                       "Date":  "24-03-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Materials Today: Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "The ASR mechanism in concrete and the influence of lithium in mitigating it: A critical review",
+                                                       "Volume No":  "65",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2022",
+                                                       "Date":  "12-08-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Materials Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Strength and settlement of subgrade soil in southern part of Kangeyam block",
+                                                       "Volume No":  "65",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2022",
+                                                       "Date":  "25-05-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Materials Today: Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "A review on soil stabilization using rice husk ash and lime sludge",
+                                                       "Volume No":  "65",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2022",
+                                                       "Date":  "28-04-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Materials Research Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "[PDF] from mrforum.com\nA Study on Fresh and Hardened Properties of Concrete with Partial Replacement of Bottom Ash as a Fine Aggregate",
+                                                       "Volume No":  "19",
+                                                       "Issue No":  "",
+                                                       "Year":  "2021",
+                                                       "Date":  "15-10-2021",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "INTERNATIONAL JOURNAL OF SCIENTIFIC \u0026 TECHNOLOGY RESEARCH",
+                                                       "Level":  "International",
+                                                       "Title":  "Design And Fabrication Of Semi Automatic Rapid Wall Making Machine",
+                                                       "Volume No":  "9",
+                                                       "Issue No":  "3",
+                                                       "Year":  "2020",
+                                                       "Date":  "01-10-2021",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Materials Today: Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Experimental and finite element modelling of reinforced geopolymer concrete beam",
+                                                       "Volume No":  "45",
+                                                       "Issue No":  "7",
+                                                       "Year":  "2021",
+                                                       "Date":  "23-10-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Solid State Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigation on Strength Properties of Geopolymer Matrix with Ambient Curing",
+                                                       "Volume No":  "63",
+                                                       "Issue No":  "5",
+                                                       "Year":  "2020",
+                                                       "Date":  "20-10-2020",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Principal Investigator":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Project":  "R\u0026D",
+                                                       "Title of Project":  "Design and Development of a Sustainable Dry Mortar Mix using a Recycle System for Structural Rehabilitation and Maintenance Works in Buildings",
+                                                       "Funding Agency":  "Kongu Engineering College",
+                                                       "Name of the Scheme":  "Seed Grant",
+                                                       "Co-Investigator(s)":  "Ramya P, Dr.G.S.Rampradheep",
+                                                       "Project Start Date":  "25-06-2026",
+                                                       "Duration":  "3 Years",
+                                                       "Status":  "Ongoing"
+                                                   },
+                                                   {
+                                                       "Principal Investigator":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Project":  "Programe Organize Grant",
+                                                       "Title of Project":  "Mentor- Mentee Program for IIC institutions 2023-24",
+                                                       "Funding Agency":  "All India Council for Technical Education",
+                                                       "Name of the Scheme":  "Mentor-Mentee Program",
+                                                       "Co-Investigator(s)":  "",
+                                                       "Project Start Date":  "29-02-2024",
+                                                       "Duration":  "1 year",
+                                                       "Status":  "Completed"
+                                                   },
+                                                   {
+                                                       "Principal Investigator":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Project":  "R\u0026D",
+                                                       "Title of Project":  "Semi-Automatic Rapid-wall making machine",
+                                                       "Funding Agency":  "EDII",
+                                                       "Name of the Scheme":  "INNOVATION VOUCHER PROGRAM APPLICATION : VOUCHER A",
+                                                       "Co-Investigator(s)":  "Dr.C.Naveen",
+                                                       "Project Start Date":  "03-07-2023",
+                                                       "Duration":  "1 year",
+                                                       "Status":  "Completed"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Palladam Municipality",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party inspection",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "16-10-2026",
+                                                       "Date of Consultancy (To)":  "16-10-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Government \u0026 Private",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party Inspection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "03-06-2024",
+                                                       "Date of Consultancy (To)":  "04-03-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "229000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Goverment",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party inspection",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "01-06-2024",
+                                                       "Date of Consultancy (To)":  "31-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "229000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Government \u0026 Private",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party Inspection",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "06-07-2023",
+                                                       "Date of Consultancy (To)":  "07-03-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "300000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Government \u0026 Private",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party inspection",
+                                                       "Number of persons involved":  "Government \u0026 Private Works",
+                                                       "Date of Consultancy (From)":  "02-05-2023",
+                                                       "Date of Consultancy (To)":  "05-03-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "63000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Government \u0026 Private",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party inspection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "06-06-2021",
+                                                       "Date of Consultancy (To)":  "14-03-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "60000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "",
+                                                       "Name of Event":  "Innovation , Design and Entrepreneurship (IDE) Bootcamp",
+                                                       "Collaboration/Sponsored by":  "AICTE,MOE",
+                                                       "Level":  "National",
+                                                       "Start Date":  "11-05-2026",
+                                                       "End Date":  "15-05-2026",
+                                                       "Duration":  "5DAYS",
+                                                       "Role played":  "Joint Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Seminar",
+                                                       "Name of Event":  "Cost Effective Techniques in Construction",
+                                                       "Collaboration/Sponsored by":  "CSIR",
+                                                       "Level":  "National",
+                                                       "Start Date":  "16-06-2012",
+                                                       "End Date":  "",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "OBE AND ACCREDITATION",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "04-11-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "High Performance concrete: Mastering SCC and Sustainable Geopolymers",
+                                                       "Level":  "National",
+                                                       "Organized by":  "SRM Institute od Science and Technology",
+                                                       "Place":  "Chennai",
+                                                       "Start Date":  "11-08-2026",
+                                                       "End Date":  "12-08-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "AI for Engineers",
+                                                       "Level":  "National",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "AI Department",
+                                                       "Start Date":  "20-06-2026",
+                                                       "End Date":  "29-06-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Advanced entrepreneurship -cum-Skill Development Pregramme (E-SDP)",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NIT Rourkela",
+                                                       "Place":  "Rourkela",
+                                                       "Start Date":  "12-01-2026",
+                                                       "End Date":  "16-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Admixtures and Special Concretes",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "IITM",
+                                                       "Place":  "",
+                                                       "Start Date":  "14-07-2025",
+                                                       "End Date":  "29-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Virtual reality and Augment reality using Unity",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "09-06-2025",
+                                                       "End Date":  "13-06-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "Industrial Training program",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Dineshchandrar agrawal  Infacon private limited",
+                                                       "Place":  "Chennai",
+                                                       "Start Date":  "02-06-2025",
+                                                       "End Date":  "08-06-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Creating a successful start-up ecosystem : ideation to fund raising : key critical steps and processes",
+                                                       "Level":  "National",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "TBI",
+                                                       "Start Date":  "02-02-2023",
+                                                       "End Date":  "04-02-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Nurturing innovation and entrepreneurship ecosystem in technical institution",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "Kongu Engineering College",
+                                                       "Start Date":  "04-07-2022",
+                                                       "End Date":  "08-07-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Application of Geospatial technologies in building sustainable smart cities",
+                                                       "Level":  "State",
+                                                       "Organized by":  "",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "23-08-2021",
+                                                       "End Date":  "27-08-2021"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Sustainable Engineering theory and Practices",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "IIT Bomby",
+                                                       "Start Date":  "03-10-2018",
+                                                       "End Date":  "07-10-2018"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Professional Body/Society":  "IEI",
+                                                       "Position":  "Associate Member",
+                                                       "Level":  "National",
+                                                       "Start Date":  "28-01-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Name of the Professional Body/Society":  "IAENG",
+                                                       "Position":  "Member",
+                                                       "Level":  "International",
+                                                       "Start Date":  "22-01-2026",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Title of Paper":  "AI-DRIVEN  PERFORMANCE  CLASSIFICATION  OF  NANO-ENGINEERED  COMPOSITES FOR INTELLIGENT MATERIAL DESIGN",
+                                                       "Title of Conference":  "ADVANCED INTELLIGENCE AND INNOVATIONS IN MECHANICAL SCIENCES",
+                                                       "Organized by":  "SRM-RAMAPURAM, CHENNAI",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-04-2026",
+                                                       "End Date":  "24-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Title of Paper":  "An Explainable and Seasonally Robust Machine Learning Framework for PM?.? Forecasting in Delhi’s Urban Atmosphere",
+                                                       "Title of Conference":  "ADVANCED INTELLIGENCE AND INNOVATIONS IN MECHANICAL SCIENCES",
+                                                       "Organized by":  "SRM-RAMAPURAM, CHENNAI",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-04-2026",
+                                                       "End Date":  "24-04-2026"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "Multi Chamber Ventilation Cover with Ergonomic design",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "S. VENKATACHALAM, P. RAMYA, T. ABIRAMI, K. GOWSIKAN,V. SANTHIESH,R.V. BAVADHARANI, K. VISHNUVARDHAN",
+                                                       "Application Number":  "499282-001",
+                                                       "Date of Registration":  "24-04-2026",
+                                                       "Application Status":  "Published",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  "15-06-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "ROBOTIC DEVICE FOR FIELD BOUNDARY MEASUREMENT",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "2. S.Venkatachalam 3.P.Ramya 4.Dr.T.Abirami 5.Dr.K.Vishnuvardhan 6.A.Santhosh 7.D.Medhunesh 8.V.HariHaran.",
+                                                       "Application Number":  "497014-001",
+                                                       "Date of Registration":  "01-04-2026",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  "18-06-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "PASSIVE ELASTIC TRUNK SUPPORT SYSTEM FOR CONTROLLED BENDING RESISTANCE AND ASSISTED UPRIGHT  RETURN",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "Venkatachalam S, BAVADHARANI R V ,GOWSIKAN K,SANTHIESH V ,VISHNUVARDHAN K ,RAMYA P",
+                                                       "Application Number":  "202641026960 A",
+                                                       "Date of Registration":  "07-03-2026",
+                                                       "Application Status":  "Published",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  "18-09-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "PAVER BLOCK",
+                                                       "Name of Application":  "kongu engineering college",
+                                                       "Co-inventors Name":  "Dr. Suchithra Shanmughan,Mr. S. Venkatachalam",
+                                                       "Application Number":  "375458-001",
+                                                       "Date of Registration":  "12-12-2022",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "08-02-2023",
+                                                       "Published Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "PERMANENT FORM WORK PANEL FOR  REINFORCED CONCRETE BEAMS",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "S.Venkatachalam,.Dr.K.Vishnuvardhan,P.Ramya,Dr.S.Suchithra",
+                                                       "Application Number":  "373852-001",
+                                                       "Date of Registration":  "09-11-2022",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "27-01-2023",
+                                                       "Published Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "Self-Align brick",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "S.Venkatachalam,Dr.K.Vishnuvardhan,P.Ramya",
+                                                       "Application Number":  "373851-001",
+                                                       "Date of Registration":  "09-11-2022",
+                                                       "Application Status":  "Published",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "DETACHABLE MULTI STORAGE CONTAINER",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "S.Venkatachalam",
+                                                       "Application Number":  "365824-001",
+                                                       "Date of Registration":  "10-06-2022",
+                                                       "Application Status":  "Published",
+                                                       "Granted Date":  "31-01-2024",
+                                                       "Published Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "INTEGRAL PERMANENT PANEL FOR  CONCRETE FORM-WORK",
+                                                       "Name of Application":  "Kongu Engineering College",
+                                                       "Co-inventors Name":  "S.Venkatachalam,Dr.S.Praveen Kumar ,Dr.K.Vishnuvardhan,S.K.Maniarasan",
+                                                       "Application Number":  "364432-001",
+                                                       "Date of Registration":  "19-05-2022",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "29-12-2022",
+                                                       "Published Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.VENKATACHALAM",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "GEOPOLYMER PREFABRICATED FIBRE  REINFORCED HOLLOW CORE BUILDING PANEL",
+                                                       "Name of Application":  "Venkatachalam S",
+                                                       "Co-inventors Name":  "-",
+                                                       "Application Number":  "201941002742",
+                                                       "Date of Registration":  "23-01-2019",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

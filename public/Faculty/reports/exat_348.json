@@ -1,0 +1,760 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSISTANT PROFESSOR(SELECTION GRADE)",
+                                                       "Area of Specialisation":  "DISTRIBUTED COMPUTING, OBJECT ORIENTED ANALYSIS AND DESIGN",
+                                                       "Date of joining in KEC":  "01-06-2001",
+                                                       "Mobile":  "9976874089",
+                                                       "E-mail":  "npsaravanan1973@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "M.E.",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "10-06-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "M C A",
+                                                       "Specialization":  "COMPUTER APPLICATIONS",
+                                                       "From":  "03-07-1995"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "BSc",
+                                                       "Specialization":  "COMPUTER SCIENCE",
+                                                       "From":  "01-06-1992"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2011",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "ASSISTANT PROFESSOR (SELECTION GRADE)"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-07-2006",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Lecturer(Senior Grade)"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2001",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "LECTURER"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "JAYARAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                                       "Position/Designation":  "Lecturer",
+                                                       "Start Date":  "03-10-2000",
+                                                       "End Date":  "31-05-2001",
+                                                       "Duration":  "0 Y 7 M",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-N.P.SARAVANAN-107e0cfe-25f8-4c40-a105-01be74faa1b7.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121019Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=6a9434cf8b9fce48235c244b895da2d2582a736d70122374892f8031685ac62d",
+                                                                                            "name":  "nps-jayaramservice.pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "Ly73ZPbqauAG7DBqa",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "MUTHAYMMAL COLLEGE OF ARTS AND SCIENCE",
+                                                       "Position/Designation":  "Lecturer",
+                                                       "Start Date":  "11-06-1999",
+                                                       "End Date":  "19-05-2000",
+                                                       "Duration":  "0 Y 11 M",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-N.P.SARAVANAN-1f04066e-e6f3-4e4c-9294-34e75a0c95d7.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121019Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=1e1643baf7bcf2077da7268036098e72dc68d0bc21c8d62c37e56715fbba70ed",
+                                                                                            "name":  "MUTHAYAMMAL.pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "WHtsMdXWRhangJMZr",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "INTELLIGENT SYSTEMS AND SUSTAINABLE COMPUTING",
+                                                       "Level":  "International",
+                                                       "Title":  "NATURAL LANGUAGE PROCESSING E OF TEXT-BASED METRICS FOR IMAGE CAPTIONING",
+                                                       "Volume No":  "289",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "29-05-2022",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Principal Investigator":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Project":  "Naan Mudhalvan - Niral Thiruvizha",
+                                                       "Title of Project":  "SMART INVENTORY SOLUTIONS FOR SMALL WAREHOUSES",
+                                                       "Funding Agency":  "Tamil nadu Government",
+                                                       "Name of the Scheme":  "Naan Mudhalvan - Niral Thiruvizha",
+                                                       "Co-Investigator(s)":  "",
+                                                       "Project Start Date":  "05-02-2025",
+                                                       "Duration":  "3 months",
+                                                       "Status":  "Completed"
+                                                   },
+                                                   {
+                                                       "Principal Investigator":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Project":  "Naan Mudhalvan - Niral Thiruvizha",
+                                                       "Title of Project":  "A Smart Learning Management System for Seamless Course Delivery Attendance tracking and Certification",
+                                                       "Funding Agency":  "Tamil Nadu Government",
+                                                       "Name of the Scheme":  "Naan Mudhalvan - Niral Thiruvizha",
+                                                       "Co-Investigator(s)":  "",
+                                                       "Project Start Date":  "05-02-2025",
+                                                       "Duration":  "3 months",
+                                                       "Status":  "Completed"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "V R FASHIONS TIRUPUR",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-12-2025",
+                                                       "Date of Consultancy (To)":  "20-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "17000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "EVP TRADERS, TIRUPUR",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-12-2025",
+                                                       "Date of Consultancy (To)":  "07-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "23000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Venkateshwara AI Matric Hr. Sec. School, Salem-Ulundurpettai Highway, Nathakarai, Thalaivasal Post, Attur, Salem, TN - 636112.",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Development",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "07-02-2025",
+                                                       "Date of Consultancy (To)":  "09-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "18000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Goodluck Enterprises, 1/4, Sivapuram, Erode-638107",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Development",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "24-01-2025",
+                                                       "Date of Consultancy (To)":  "09-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "24500"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Aaruthra Textiles, 5/1/18, Gandhi Nagar, Pallipalayam Road, Komarapalayam, Erode, TN-638183.",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Full stack Development",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "10-01-2025",
+                                                       "Date of Consultancy (To)":  "09-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "17500"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Others",
+                                                       "Name of Event":  "ADVANCED C PROGRAMMING",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "07-07-2025",
+                                                       "End Date":  "14-08-2025",
+                                                       "Duration":  "15 DAYS",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "ITP-215"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Mobile Application Development using Flutter and Firebase",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of CSE, Kongu Engineering College",
+                                                       "Place":  "ITP-CC16, Kongu Engineering College, Perundurai",
+                                                       "Start Date":  "24-11-2025",
+                                                       "End Date":  "29-11-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Accreditation and Outcome Based Learning",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL-AICTE",
+                                                       "Place":  "ONLINE",
+                                                       "Start Date":  "01-08-2025",
+                                                       "End Date":  "31-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Modern Web App Development using MERN stack",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Department of CSE",
+                                                       "Place":  "Kongu Engineering College",
+                                                       "Start Date":  "26-05-2025",
+                                                       "End Date":  "31-05-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Teaching and Learning in General Programs",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL - AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "22-07-2024",
+                                                       "End Date":  "24-08-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Data Structures",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Dept. of CSE, kongu Engineering College, Perundurai",
+                                                       "Start Date":  "26-02-2024",
+                                                       "End Date":  "01-03-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "DESIGNING LEARNER CENTRIC E-LEARNING IN STEM DISCIPLINE",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL - AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "21-08-2023",
+                                                       "End Date":  "23-09-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Frontiers in Multidisciplinary Research",
+                                                       "Level":  "National",
+                                                       "Organized by":  "School of Basic Sciences, Galgotias Univeristy,",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "16-08-2023",
+                                                       "End Date":  "22-08-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Emerging Technologies for Next Generation Networks",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Department of CSE, Kings Engineering College, Chennai",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "17-07-2023",
+                                                       "End Date":  "22-07-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Design Thinking - A Primer",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL - AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "14-02-2022",
+                                                       "End Date":  "16-03-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "tECHNIQUES IN RESEARCCH AND INNOVATIONS",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "KARPAGAM COLLEGE OF ENGINEERING",
+                                                       "Place":  "COIMBATORE",
+                                                       "Start Date":  "05-07-2021",
+                                                       "End Date":  "09-07-2021"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Cardiovascular Disease Prediction Using Machine Learning",
+                                                       "Title of Conference":  "3rd International Conference on Futuristic Technologies",
+                                                       "Organized by":  "SIDDHANT GROUP OF INSTITUTIONS, PUNE",
+                                                       "Level":  "International",
+                                                       "Start Date":  "21-02-2025",
+                                                       "End Date":  "22-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "DEEP CONVOLUTtONAL NEURAL NETWORK MODEL FOR PREDICTING ALZHEIMER\u0027S DISEASE",
+                                                       "Title of Conference":  "8n International Conference on Computational Intelligence in Data Science",
+                                                       "Organized by":  "Department of Computer Science and Engineering, Sri Sivasubramaniya Nadar College of Engineering, Chennai",
+                                                       "Level":  "International",
+                                                       "Start Date":  "12-02-2025",
+                                                       "End Date":  "14-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "EARLY PROPHASE OF ALZHEIMER\u0027S DISEASE USING DEEP LEARNING",
+                                                       "Title of Conference":  "INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION AND INFORMATICS",
+                                                       "Organized by":  "SHRI SAKTHI INSTITUTE OF TECHNOLOGY",
+                                                       "Level":  "International",
+                                                       "Start Date":  "25-01-2021",
+                                                       "End Date":  "27-01-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Biologically Inspired QoS Aware Routing Protocol to Optimize Lifetime in Sensor Networks",
+                                                       "Title of Conference":  "Third International Conference on Recent Trends in Information Technology",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "10-04-2014",
+                                                       "End Date":  "12-04-2014"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Pixel 25",
+                                                       "Role":  "Jury/Judge",
+                                                       "Level":  "Inter-Collegiate",
+                                                       "Organized by":  "Photography and Design Club",
+                                                       "Start Date":  "24-09-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "N.P.SARAVANAN",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "CSEA \u0026 CRESCITA 25",
+                                                       "Role":  "Jury/Judge",
+                                                       "Level":  "Intra-Collegiate",
+                                                       "Organized by":  "Department of CSE",
+                                                       "Start Date":  "07-03-2025",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

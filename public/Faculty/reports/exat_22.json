@@ -1,0 +1,818 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSISTANT PROFESSOR (SENIOR GRADE)",
+                                                       "Area of Specialisation":  "Web Development,Compiler Design",
+                                                       "Date of joining in KEC":  "04-06-2010",
+                                                       "Mobile":  "9942504690",
+                                                       "E-mail":  "skdeva.cse@kongu.edu"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "04-08-2008"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "04-06-2010",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2024 International Conference on IoT, Communication and Automation Technology (ICICAT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Feature Selection for Disease Prediction in Medical Diagnosis Using Machine Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "20-03-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "https://www.sciencedirect.com/science/article/abs/pii/S1568494624009037",
+                                                       "Level":  "International",
+                                                       "Title":  "Optimized task scheduling approach with fault tolerant load balancing using multi-objective cat swarm optimization for multi-cloud environment",
+                                                       "Volume No":  "165",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "27-08-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Metaverse Technologies in Healthcare",
+                                                       "Level":  "International",
+                                                       "Title":  "Metaverse technology-based enhanced machine learning models for mental healthcare",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "01-01-2024",
+                                                       "Published at":  "Academic Press"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Metaverse Technologies in Healthcare",
+                                                       "Level":  "International",
+                                                       "Title":  "A new paradigm in smart healthcare: Metaverse methodologies for prevention of obesity and chronic diseases",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "01-01-2024",
+                                                       "Published at":  "Academic Press"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Metaverse Technologies in Healthcare",
+                                                       "Level":  "International",
+                                                       "Title":  "Blockchain strategies for medicine and health science",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "01-01-2024",
+                                                       "Published at":  "Academic Press"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Mathematical Problems in Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Research Article Prediction of Flank Wear during Turning of EN8 Steel with Cutting Force Signals Using a Deep Learning Approach",
+                                                       "Volume No":  "Volume 2023,",
+                                                       "Issue No":  "Article ID 5401372,",
+                                                       "Year":  "2023",
+                                                       "Date":  "15-02-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Quantum Blockchain: An Emerging Cryptographic Paradigm",
+                                                       "Level":  "International",
+                                                       "Title":  "Post?Quantum Confidential Transaction Protocols",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "15-07-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International journal of health sciences",
+                                                       "Level":  "International",
+                                                       "Title":  "Brain tumor segmentation and prediction on MRI images using deep learning network",
+                                                       "Volume No":  "6",
+                                                       "Issue No":  "S2",
+                                                       "Year":  "2022",
+                                                       "Date":  "27-05-2022",
+                                                       "Published at":  "ScienceScholar"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Machine Learning for Biometrics",
+                                                       "Level":  "International",
+                                                       "Title":  "Retina biometrics for personal authentication",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "01-01-2022",
+                                                       "Published at":  "Academic Press"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Vaibhav Logistics",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "22000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "GK WAX",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "10-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "18000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "GAYATHRI TEX - 153 - 1/6, CHINNIYAMPALAYAM(P.O), MODAKKURICHI(Via), ERODE 638104 .",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "12-02-2024",
+                                                       "Date of Consultancy (To)":  "06-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "11800"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Nellai Balaji Stationaries",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "01-02-2024",
+                                                       "Date of Consultancy (To)":  "12-04-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "11800"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "16/93 , Palappalayam , Ingur , Perundurai , Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Billing and stock Management",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "01-02-2023",
+                                                       "Date of Consultancy (To)":  "11-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "11800"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Siva maligai, 76, Amman kovil street, Eswaran kovil backside, Nallur, Tiruppur Dt-641604.",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "01-02-2023",
+                                                       "Date of Consultancy (To)":  "11-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "11800"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "",
+                                                       "Name of Event":  "IIPC Workshop",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "27-03-2026",
+                                                       "End Date":  "27-03-2026",
+                                                       "Duration":  "i day",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "IT Park"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Value added courses",
+                                                       "Name of Event":  "Web Development using ReactJS",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "29-12-2025",
+                                                       "End Date":  "06-02-2026",
+                                                       "Duration":  "30hours",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "ITPARK"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Introduction to Industry 4.0 and Industrial Internet of Things",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "19-01-2026",
+                                                       "End Date":  "25-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Introduction to Industry 4.0 and Industrial Internet of Things",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "19-01-2026",
+                                                       "End Date":  "25-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Virtual Reality and Augmented Reality using Unity",
+                                                       "Level":  "State",
+                                                       "Organized by":  "Department of CSD",
+                                                       "Place":  "Kongu NEgineering",
+                                                       "Start Date":  "09-06-2025",
+                                                       "End Date":  "13-06-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Codetantra Software Pvt Ltd",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "20-01-2025",
+                                                       "End Date":  "28-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  ".NET Full Stack",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Wipro Certified Program",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "13-05-2024",
+                                                       "End Date":  "31-05-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Research Data Management",
+                                                       "Level":  "International",
+                                                       "Organized by":  "VIT",
+                                                       "Place":  "Vellore",
+                                                       "Start Date":  "13-03-2023",
+                                                       "End Date":  "17-03-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "ICTACADEMY",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "23-05-2022",
+                                                       "End Date":  "27-05-2022"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Prediction of Parkinson\u0027s Disease Using Ensemble Learning",
+                                                       "Title of Conference":  "International Conference on Power Engineering and Intelligent Systems (PEIS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "08-03-2025",
+                                                       "End Date":  "09-03-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Efficient Medicinal Plant Leaf Classification Using MobileNet Architecture: A Deep Learning Approach",
+                                                       "Title of Conference":  "8th IFIP TC 12 International Conference, ICCIDS 2025",
+                                                       "Organized by":  "SSN Chennai",
+                                                       "Level":  "International",
+                                                       "Start Date":  "12-02-2025",
+                                                       "End Date":  "14-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Feature Selection for Disease Prediction in Medical Diagnosis Using Machine Learning",
+                                                       "Title of Conference":  "2024 International Conference on IoT, Communication and Automation Technology",
+                                                       "Organized by":  "Buddha Institute of Technology",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-11-2024",
+                                                       "End Date":  "24-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Feature Selection for Disease Prediction in Medical Diagnosis Using Machine Learning",
+                                                       "Title of Conference":  "Feature Selection for Disease Prediction in Medical Diagnosis Using Machine Learning",
+                                                       "Organized by":  "2024 International Conference on IoT, Communication and Automation Technology (ICICAT)",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-11-2024",
+                                                       "End Date":  "24-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Optimized crop prediction system using feature selection techniques with machine learning classifiers",
+                                                       "Title of Conference":  "2023 International Conference on Intelligent Technologies for Sustainable Electric and Communications Systems (iTech SECOM)",
+                                                       "Organized by":  "PSG iTech",
+                                                       "Level":  "International",
+                                                       "Start Date":  "18-12-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Multi Face Detection Based Attendance System",
+                                                       "Title of Conference":  "International Conference on Intelligent Systems Design and Applications",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "11-12-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "K DEVENDRAN K DEVENDRAN Auto scaling infrastructure with monitoring tools using linux server on cloud",
+                                                       "Title of Conference":  "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-02-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Machine learning-based crop recommendations for precision farming to maximize crop yields",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Twitter sentiment analysis using collaborative multi layer perceptron (MLP) classifier",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Compute query and document similarity using Explicit semantic analysis",
+                                                       "Title of Conference":  "2022 6th International Conference on Computing Methodologies and Communication (ICCMC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-03-2022",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Detection of diabetic retinopathy using optimized back-propagation neural network (Op-BPN) algorithm",
+                                                       "Title of Conference":  "2021 5th International conference on computing methodologies and communication (ICCMC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "04-08-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.DEVENDRAN",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Effective prediction on music therapy using hybrid SVM-ANN approach",
+                                                       "Title of Conference":  "ITM Web of Conferences,",
+                                                       "Organized by":  "VIT,Chennai",
+                                                       "Level":  "International",
+                                                       "Start Date":  "17-03-2021",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

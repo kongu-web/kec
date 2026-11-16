@@ -1,0 +1,903 @@
+/**
+ * Faculty Academic Portfolio Styles
+ * Exact replica of the KEC Faculty Template
+ */
+
+.faculty-portfolio-container {
+  width: 100%;
+  min-height: 100vh;
+  background: #f1f5f9;
+  color: #1e293b;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  padding-bottom: 80px;
+}
+
+/* ========================================================
+   TOP HERO BANNER (ROYAL BLUE GRADIENT)
+   ======================================================== */
+.faculty-hero-banner {
+  background: linear-gradient(135deg, #09206b 0%, #0d38a8 45%, #1852cf 100%);
+  color: #ffffff;
+  padding: 36px 32px 42px;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(9, 32, 107, 0.25);
+}
+
+.faculty-hero-inner {
+  max-width: 1350px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 240px 1.15fr 1.35fr;
+  gap: 32px;
+  align-items: start;
+  position: relative;
+}
+
+/* Top Right Home Button */
+.faculty-home-btn {
+  position: absolute;
+  top: -12px;
+  right: 0;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(6px);
+}
+
+.faculty-home-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  transform: scale(1.08);
+}
+
+/* Column 1: Portrait & Names */
+.faculty-banner-col-portrait {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.faculty-portrait-glow {
+  width: 140px;
+  height: 140px;
+  border-radius: 18px;
+  overflow: hidden;
+  border: 2.5px solid #22d3ee;
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.45);
+  background: transparent;
+  margin-bottom: 14px;
+}
+
+.faculty-portrait-glow img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: top center !important;
+  display: block !important;
+  border: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+.faculty-portrait-glow:hover img,
+.faculty-portrait-glow img:hover,
+.faculty-banner-col-portrait:hover img,
+.faculty-hero-banner:hover img,
+.faculty-hero-banner img:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
+
+.faculty-banner-name {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 4px 0;
+  letter-spacing: -0.01em;
+}
+
+.faculty-banner-designation {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #93c5fd;
+  margin: 0 0 4px 0;
+}
+
+.faculty-banner-dept {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #cbd5e1;
+  margin: 0;
+}
+
+/* Column 2: Academic Overview */
+.faculty-banner-col-overview {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  border-left: 1px solid rgba(255, 255, 255, 0.15);
+  padding-left: 28px;
+}
+
+.faculty-overview-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #93c5fd;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.faculty-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px 20px;
+  margin-bottom: 20px;
+}
+
+.faculty-overview-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.faculty-overview-label {
+  font-size: 0.72rem;
+  color: #bfdbfe;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.faculty-overview-val {
+  font-size: 0.95rem;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.faculty-specialization-wrap {
+  margin-bottom: 16px;
+}
+
+.faculty-spec-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(34, 211, 238, 0.15);
+  color: #e0f2fe;
+  border: 1px solid rgba(34, 211, 238, 0.4);
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+.faculty-spec-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #22d3ee;
+}
+
+.faculty-ext-profile-wrap {
+  margin-top: 4px;
+}
+
+.faculty-ext-view-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  color: #ffffff;
+  padding: 6px 16px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.faculty-ext-view-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+}
+
+/* Column 3: Key Metrics & Achievements (Tiles Grid) */
+.faculty-banner-col-metrics {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  border-left: 1px solid rgba(255, 255, 255, 0.15);
+  padding-left: 28px;
+}
+
+.faculty-metrics-tiles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.faculty-metric-tile {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  padding: 10px 8px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.faculty-metric-tile:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.faculty-tile-num {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+
+.faculty-tile-label {
+  font-size: 0.68rem;
+  font-weight: 400;
+  color: #bfdbfe;
+  line-height: 1.2;
+}
+
+/* ========================================================
+   SECTIONS CONTAINER
+   ======================================================== */
+.faculty-sections-main {
+  max-width: 1350px;
+  margin: 36px auto 0;
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+#faculty-journey-section,
+#faculty-research-section,
+#faculty-awards-section,
+#faculty-innovations-section,
+#faculty-outreach-section,
+#faculty-committees-section {
+  scroll-margin-top: 100px;
+}
+
+/* Section Header Bar */
+.faculty-block-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 8px;
+  position: relative;
+}
+
+.faculty-block-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0;
+  letter-spacing: -0.01em;
+  position: relative;
+  display: inline-block;
+}
+
+.faculty-block-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  width: 44px;
+  height: 3px;
+  background: #0284c7;
+  border-radius: 2px;
+}
+
+.faculty-block-badge {
+  background: #e2e8f0;
+  color: #475569;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 9999px;
+}
+
+/* ========================================================
+   SECTION 1: ACADEMIC JOURNEY (EDUCATION & EXPERIENCE)
+   ======================================================== */
+.faculty-journey-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.faculty-journey-col-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #0284c7;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 16px 0;
+}
+
+/* Education Timeline */
+.faculty-edu-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  padding-left: 28px;
+}
+
+.faculty-edu-timeline::before {
+  content: "";
+  position: absolute;
+  left: 12px;
+  top: 14px;
+  bottom: 14px;
+  width: 2px;
+  background: #cbd5e1;
+}
+
+.faculty-edu-item {
+  position: relative;
+}
+
+.faculty-edu-node {
+  position: absolute;
+  left: -28px;
+  top: 14px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 0.75rem;
+  z-index: 1;
+}
+
+.faculty-node-ug {
+  background: #10b981;
+}
+
+.faculty-node-pg {
+  background: #0284c7;
+}
+
+.faculty-node-doc {
+  background: #1e1b4b;
+}
+
+.faculty-edu-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #0284c7;
+  padding: 16px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+}
+
+.faculty-edu-degree {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+}
+
+.faculty-pill-tag {
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+
+.faculty-pill-ug {
+  background: #10b981;
+  color: #ffffff;
+}
+
+.faculty-pill-pg {
+  background: #0284c7;
+  color: #ffffff;
+}
+
+.faculty-pill-doc {
+  background: #1e1b4b;
+  color: #ffffff;
+}
+
+/* Experience Card */
+.faculty-exp-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #0284c7;
+  padding: 20px 24px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  position: relative;
+}
+
+.faculty-exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.faculty-exp-desig {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+}
+
+.faculty-exp-badge {
+  background: #22c55e;
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 9999px;
+}
+
+.faculty-exp-dept {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #0284c7;
+  margin: 0 0 4px 0;
+}
+
+.faculty-exp-inst {
+  font-size: 0.88rem;
+  color: #64748b;
+  margin: 0 0 10px 0;
+}
+
+.faculty-exp-dates {
+  font-size: 0.85rem;
+  color: #475569;
+  font-weight: 400;
+  margin: 0;
+}
+
+/* ========================================================
+   SECTION 2: RESEARCH & ACADEMIC OUTPUT (TABS)
+   ======================================================== */
+.faculty-tabs-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.faculty-tab-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border: 1px solid #cbd5e1;
+  background: #ffffff;
+  color: #475569;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.faculty-tab-btn.active {
+  background: #0284c7;
+  color: #ffffff;
+  border-color: #0284c7;
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25);
+}
+
+.faculty-tab-count-pill {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 0.78rem;
+}
+
+.faculty-tab-btn.active .faculty-tab-count-pill {
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+
+/* Publication / Output Card */
+.faculty-output-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #0284c7;
+  padding: 20px 24px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.faculty-pub-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 6px 0;
+  line-height: 1.4;
+}
+
+.faculty-pub-author {
+  font-size: 0.88rem;
+  color: #d97706;
+  font-weight: 400;
+  margin: 0 0 4px 0;
+}
+
+.faculty-pub-journal {
+  font-size: 0.9rem;
+  color: #0284c7;
+  font-weight: 400;
+  margin: 0 0 10px 0;
+}
+
+.faculty-pub-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.faculty-meta-pill {
+  background: #f1f5f9;
+  color: #334155;
+  font-size: 0.78rem;
+  font-weight: 400;
+  padding: 3px 10px;
+  border-radius: 6px;
+}
+
+/* ========================================================
+   SECTION 3: AWARDS & ACHIEVEMENTS GRID
+   ======================================================== */
+.faculty-awards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.faculty-award-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 16px 18px;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  position: relative;
+  text-align: left;
+}
+
+.faculty-award-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: #0284c7;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-award-body {
+  flex-grow: 1;
+  padding-right: 75px;
+}
+
+.faculty-award-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+  line-height: 1.35;
+}
+
+.faculty-award-org {
+  font-size: 0.8rem;
+  color: #64748b;
+  margin: 0;
+}
+
+.faculty-award-date {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: #e0f2fe;
+  color: #0369a1;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 3px 8px;
+  border-radius: 6px;
+}
+
+/* ========================================================
+   SECTION 4: TEACHING INNOVATIONS & PEDAGOGIES GRID
+   ======================================================== */
+.faculty-innovations-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.faculty-innovation-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-innovation-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.faculty-course-code-pill {
+  border: 1px solid #06b6d4;
+  color: #0891b2;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.faculty-platform-pill {
+  border: 1px solid #f59e0b;
+  color: #d97706;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.faculty-innovation-date-pill {
+  background: #f1f5f9;
+  color: #475569;
+  font-size: 0.72rem;
+  font-weight: 400;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.faculty-course-name {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+  line-height: 1.35;
+}
+
+.faculty-methodology-text {
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: #334155;
+  margin: 0;
+}
+
+.faculty-resource-link {
+  font-size: 0.78rem;
+  color: #0284c7;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 4px;
+}
+
+.faculty-resource-link:hover {
+  text-decoration: underline;
+}
+
+/* ========================================================
+   SECTION 5: OUTSIDE WORLD INTERACTION (OUTREACH)
+   ======================================================== */
+.faculty-outreach-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-outreach-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-outreach-icon-box {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background: #f1f5f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.15rem;
+  flex-shrink: 0;
+}
+
+.faculty-outreach-body {
+  flex-grow: 1;
+}
+
+.faculty-outreach-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 3px 0;
+  line-height: 1.35;
+}
+
+.faculty-outreach-role {
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: #0284c7;
+  margin: 0;
+}
+
+.faculty-outreach-date {
+  background: #e0f2fe;
+  color: #0369a1;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 4px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+/* ========================================================
+   SECTION 6: INSTITUTE COMMITTEE & CELL CONTRIBUTIONS
+   ======================================================== */
+.faculty-committees-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-committee-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #f59e0b;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-committee-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #fef3c7;
+  color: #d97706;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-committee-body {
+  flex-grow: 1;
+}
+
+.faculty-committee-name {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+}
+
+.faculty-committee-role-pill {
+  display: inline-block;
+  background: #fef3c7;
+  color: #b45309;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+.faculty-committee-date {
+  background: #f1f5f9;
+  color: #475569;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 4px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .faculty-hero-inner {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .faculty-banner-col-overview,
+  .faculty-banner-col-metrics {
+    border-left: none;
+    padding-left: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    padding-top: 20px;
+  }
+  .faculty-metrics-tiles-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .faculty-journey-grid {
+    grid-template-columns: 1fr;
+  }
+  .faculty-awards-grid,
+  .faculty-innovations-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .faculty-metrics-tiles-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .faculty-awards-grid,
+  .faculty-innovations-grid,
+  .faculty-outreach-grid,
+  .faculty-committees-grid {
+    grid-template-columns: 1fr;
+  }
+}

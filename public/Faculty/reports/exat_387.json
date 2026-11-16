@@ -1,0 +1,560 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Designation":  "ASSISTANT PROFESSOR",
+                                                       "Area of Specialisation":  "Construction Engineering \u0026 Management",
+                                                       "Date of joining in KEC":  "06-08-2014",
+                                                       "Mobile":  "9566539814",
+                                                       "E-mail":  "sampathkumar6390@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Conf. Proc.",
+                                                       "Level":  "International",
+                                                       "Title":  "Experimental investigation of fly ash-based geopolymers as\nan alternative to ordinary portland cement",
+                                                       "Volume No":  "3298",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "09-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Conf. Pro",
+                                                       "Level":  "International",
+                                                       "Title":  "Transforming medical-glass waste into sustainable concrete\nmixtures",
+                                                       "Volume No":  "3298",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "09-07-2025",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "United Engineers, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "TIP",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "11-10-2025",
+                                                       "Date of Consultancy (To)":  "14-10-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "12750"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "C S Construction, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "TIP",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "11-10-2025",
+                                                       "Date of Consultancy (To)":  "14-10-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "12750"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "RKR Infrastructure, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Design mix",
+                                                       "Number of persons involved":  "One",
+                                                       "Date of Consultancy (From)":  "26-08-2025",
+                                                       "Date of Consultancy (To)":  "15-09-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Ganesan Conctractor, Srivilliputhur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party Inspection",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "08-08-2025",
+                                                       "Date of Consultancy (To)":  "18-09-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Green Gaarden  Realty India Pvt Ltd, Tiruppur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party Inpsection",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "07-08-2025",
+                                                       "Date of Consultancy (To)":  "21-08-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "SRV \u0026 Co., Tiruppur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Design mix",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "04-08-2025",
+                                                       "Date of Consultancy (To)":  "10-09-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "32000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Veyem Engineering Services, Chennai",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOIL WMM",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "14-07-2025",
+                                                       "Date of Consultancy (To)":  "13-08-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "P\u0026C Project Pvt Ltd",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Design MIx",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "18-06-2025",
+                                                       "Date of Consultancy (To)":  "24-07-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "32000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Selvamadhu Developers Pvt. Ltd.",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Stability Report",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "17-06-2025",
+                                                       "Date of Consultancy (To)":  "16-07-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "SRV \u0026 Co, Tirupur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Design mix",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "25-04-2025",
+                                                       "Date of Consultancy (To)":  "30-06-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "32000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "S.Palanisamy",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party inspection",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "24-04-2025",
+                                                       "Date of Consultancy (To)":  "30-04-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SAMPATH KUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "BRICK MOULDING MACHINE",
+                                                       "Name of Application":  "BRICK MOULDING MACHINE",
+                                                       "Co-inventors Name":  "kongu engineering college",
+                                                       "Application Number":  "Serial No. : 138721",
+                                                       "Date of Registration":  "21-03-2023",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "21-03-2023",
+                                                       "Published Date":  "21-03-2023"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

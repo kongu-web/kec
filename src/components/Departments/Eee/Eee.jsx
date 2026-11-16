@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import DbFacultySection from "../../../features/faculty/components/DbFacultySection";
 import Papa from "papaparse";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
@@ -334,36 +335,7 @@ const Eee = () => {
           {/* PDF links are opened externally in a new tab via navbar click */}
 
           {activeSection === "Faculty" && (
-            <div>
-              <h2>Faculty Members</h2>
-              {facultyData.length > 0 && (
-                <h3>
-                  <strong>Total Faculty Members: {facultyData.length}</strong>
-                </h3>
-              )}
-
-              <div className="auto-faculty-container">
-                {facultyData.map((faculty, index) => (
-                  <div
-                    key={index}
-                    className="civil-faculty-card"
-                    onClick={() => window.open(faculty.profileLink, "_blank")}
-                  >
-                    <div className="faculty-photo">
-                      <img
-                        src={require(`../../../assets/images/faculty_images/eee/${faculty.image}`)}
-                        alt={faculty.name} loading="lazy"
-                      />
-                    </div>
-
-                    <div className="faculty-info">
-                      <h4>{faculty.name}</h4>
-                      <p>{faculty.designation}</p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
+            <DbFacultySection dept="eee" />
           )}
 
           {activeSection === "Library" && autoData.library && (

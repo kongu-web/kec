@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Papa from "papaparse";
+import DbFacultySection from "../../../features/faculty/components/DbFacultySection";
 import Navbar from "../../HomePage/navbar/Navbar";
 import Section from "../../HomePage/Section/Section";
 import Footer from "../../HomePage/Footer/Footer";
@@ -318,38 +319,7 @@ const Civil = () => {
           )}
 
           {activeSection === "Faculty" && (
-            <div>
-              <h2>Faculty Members</h2>
-              {facultyData.length > 0 && (
-                <h3>
-                  <strong>Total Faculty Members: {facultyData.length}</strong>
-                </h3>
-              )}
-
-              <div className="auto-faculty-container">
-                {facultyData.map((faculty, index) => (
-                  <div
-                    key={index}
-                    className="civil-faculty-card"
-                    onClick={() => window.open(faculty.profileLink, "_blank")}
-                  >
-                    <div className="faculty-photo">
-                      {faculty.image && (
-                        <img
-                          src={require(`../../../assets/images/faculty_images/civil/${faculty.image}`)}
-                          alt={faculty.name} loading="lazy"
-                        />
-                      )}
-                    </div>
-
-                    <div className="faculty-info">
-                      <h4>{faculty.name}</h4>
-                      <p>{faculty.designation}</p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
+            <DbFacultySection dept="civil" />
           )}
 
           {activeSection === "Library" && autoData.library && (

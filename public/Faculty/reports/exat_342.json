@@ -1,0 +1,2147 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "PROFESSOR",
+                                                       "Area of Specialisation":  "Image Processing, Machine learning, Network Security",
+                                                       "Date of joining in KEC":  "03-07-2017",
+                                                       "Mobile":  "9842013355",
+                                                       "E-mail":  "shanthi.moorthi@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "PhD",
+                                                       "Specialization":  "Information and Communication Engineering",
+                                                       "From":  "23-03-2009"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "22-01-2001"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "BE",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "29-04-1994"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Dean",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "01-06-2026",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "TRAINING \u0026 SKILL ENHANCEMENT"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "HOD",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "09-03-2020",
+                                                       "End Date":  "17-10-2023",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Others",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "25-07-2019",
+                                                       "End Date":  "31-05-2026",
+                                                       "Contribution to the Institute":  "Taking care of Placement training for the entre Institution"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "03-07-2017",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "Nandha Engineering College",
+                                                       "Position/Designation":  "Professor \u0026 Dean",
+                                                       "Start Date":  "01-05-2013",
+                                                       "End Date":  "30-06-2017",
+                                                       "Duration":  "",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.N.SHANTHI-bf583691-a005-45ca-a5db-7d805a0f960b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121015Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=1e6b614ac8b6c3341b721b9b9bfc7ca4c0a8e9989efd8732d4e9a3f2597e0f69",
+                                                                                            "name":  "Nandha Appointment order.pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "3zEszuQPoxQ2FawPr",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+                                                                                             {
+                                                                                                 "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.N.SHANTHI-5c69b363-6848-4a32-92f4-be7bde172184.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121015Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=0746e0cd1840c67906f8e4f68e8932143d6281026fd4b74c80af6eb9e8fe4d94",
+                                                                                                 "name":  "Nandha experience certificate.pdf",
+                                                                                                 "totalRecords":  null,
+                                                                                                 "resourceId":  "EJDNxgZDmQpzFzxeA",
+                                                                                                 "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                             }
+                                                                                         ]
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "K.S.Rangasamy College of Technology",
+                                                       "Position/Designation":  "Professor",
+                                                       "Start Date":  "31-08-1994",
+                                                       "End Date":  "30-05-2013",
+                                                       "Duration":  "",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.N.SHANTHI-00380179-4141-413a-89c4-4fb66c883bab.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121015Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=80e995d6acabcbaf89cf966da4332fe1c0df1881d655da12b2d26abbad45b423",
+                                                                                            "name":  "KSR(NS).pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "Mv5BByseKjwjsBDPw",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+                                                                                             {
+                                                                                                 "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.N.SHANTHI-cd953121-2162-4361-951b-6e50327b410e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121015Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=707675b6c15203fe9ad94bb79befd2867b0323899e7049f996ab3739b5c374dc",
+                                                                                                 "name":  "KSR(NS).pdf",
+                                                                                                 "totalRecords":  null,
+                                                                                                 "resourceId":  "y2hr3M3KiamEZdfNS",
+                                                                                                 "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                             }
+                                                                                         ]
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Best faculty in IIPC Activities",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "KEC",
+                                                       "Place":  "",
+                                                       "Date":  "18-03-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "BEST ENGINEER (ACADEMICS)",
+                                                       "Level":  "State",
+                                                       "Awarded by":  "IEI(Erode)",
+                                                       "Place":  "Erode",
+                                                       "Date":  "17-09-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Best faculty of CSE",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "KEC",
+                                                       "Place":  "Perundurai",
+                                                       "Date":  "27-03-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 8th International Conference on Inventive Material Science and Applications (ICIMA)",
+                                                       "Level":  "International",
+                                                       "Title":  "Advanced Deep Learning Architectures for Sign Language Recognition, Translation, and Multimodal Gesture Processing: A Comprehensive Survey",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "13-05-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+                                                       "Level":  "International",
+                                                       "Title":  "A Vessel-Aware Deep Learning Framework for Cardiovascular Risk Prediction using Retinal Images",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "28-04-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+                                                       "Level":  "International",
+                                                       "Title":  "Tea Leaf Disease Detection Using HSI-Enhanced ResNet50 Features and Weighted Random Forest",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "28-04-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 International Conference on Smart Electronic Devices and Intelligent Systems (ICSEDIS)",
+                                                       "Level":  "International",
+                                                       "Title":  "From Generative to Agentic: A Survey of Autonomous AI Systems and Their Evolving Capabilities",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "13-04-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+                                                       "Level":  "International",
+                                                       "Title":  "A Robust Online Exam Proctoring Framework using Aadhaar-Based Identity Verification and Advanced Spoof Detection",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "02-03-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2026 2nd International Conference on Big Data \u0026 Machine Learning (ICBDML)",
+                                                       "Level":  "International",
+                                                       "Title":  "Detection of Chronic Respiratory Diseases Using a Deep Learning-Based CXR Framework",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "27-02-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Power Engineering and Intelligent Systems (PEIS)",
+                                                       "Level":  "International",
+                                                       "Title":  "Privacy-Preserving Face Recognition System with Federated Learning and Fully Homomorphic Encryption",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "06-02-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Ad Hoc and Ubiquitous Computing",
+                                                       "Level":  "International",
+                                                       "Title":  "Intelligent task offloading in vehicular edge computing using federated learning and Kolmogorov Arnold networks (FL-KAN)",
+                                                       "Volume No":  "51",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2026",
+                                                       "Date":  "20-01-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Securing AI-Generated Media With Blockchain Technologies",
+                                                       "Level":  "International",
+                                                       "Title":  "Secure and Intelligent Computation Offloading Between Edge and Cloud Servers Using Generative AI and Blockchain",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "05-01-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Innovative Computing and Communications",
+                                                       "Level":  "International",
+                                                       "Title":  "An Enhanced Diagnosis of Thyroid Disorder Using Machine Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "01-10-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Proceedings of the International Conference on E-Mobility—Volume 2: ICEM 2024, September 11–12, Kota Kinabalu, Malaysia",
+                                                       "Level":  "International",
+                                                       "Title":  "Integration of ORB with ROS for Hazard Detection and Avoidance in AAV\u0027s",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "26-09-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Traitement du Signal",
+                                                       "Level":  "International",
+                                                       "Title":  "Modelling a Deep Network Model for Diabetic Foot Ulcer Prediction Using Learning Approaches",
+                                                       "Volume No":  "42",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2025",
+                                                       "Date":  "14-08-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "16th International Conference on Advances in Computing, Control, and Telecommunication Technologies, ACT 2025",
+                                                       "Level":  "International",
+                                                       "Title":  "Schizophrenia and its Subtype Detection using Reddit Posts",
+                                                       "Volume No":  "2",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "23-06-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "3rd International Conference on Advancement in Computation \u0026 Computer Technologies (InCACCT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Skin Lesion Classification Using Deep Learning Technique",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "17-04-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2025 International Conference on Emerging Smart Computing and Informatics (ESCI)",
+                                                       "Level":  "International",
+                                                       "Title":  "Optimizing construction and demolition waste Segmentation using Advanced Deep Learning Techniques (Semantic vs Instance segmentation)",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "05-03-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "PeerJ Computer Science",
+                                                       "Level":  "International",
+                                                       "Title":  "Blockchain and explainable-AI integrated system for Polycystic Ovary Syndrome (PCOS) detection",
+                                                       "Volume No":  "11",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "28-02-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Wireless Networks",
+                                                       "Level":  "International",
+                                                       "Title":  "Optimizing healthcare big data privacy with scalable subtree-based L-Anonymization in cloud environments",
+                                                       "Volume No":  "31",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "08-02-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Enhancing Dyslexia Detection: A Robust Machine\nLearning Approach",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "05-02-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Healthcare Technology Letters",
+                                                       "Level":  "International",
+                                                       "Title":  "An integrated approach for mental health assessment using emotion analysis and scales",
+                                                       "Volume No":  "12",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "06-01-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "9th International Conference on Communication and Electronics Systems (ICCES)",
+                                                       "Level":  "International",
+                                                       "Title":  "An Acceptable Deep Learning Approach for\nDetecting Drowsiness",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "16-12-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "8 th International Conference on Signal and Image Processing Applications (ICSIPA",
+                                                       "Level":  "International",
+                                                       "Title":  "3D Mapping and Landing Zone Identification in Complex\nTerrains using DSM and Photogrammetry",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "03-09-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Advancements in Heart Disease\nClassification: Leveraging Deep Learning Techniques for ECG\nAnalysis",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "24-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Level":  "International",
+                                                       "Title":  "Diabetic Foot Ulcer Detection using Deep Learning Approaches",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "02-05-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Level":  "International",
+                                                       "Title":  "ECG-Driven Heart Disorder\nProfiler using Machine Learning Techniques",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "02-05-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2024 International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Level":  "International",
+                                                       "Title":  "An Enhanced Ensemble Framework for\nDisaster Tweet Categorization",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "02-05-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Cognitive Robotics and Intelligent Systems (ICC-ROBINS)",
+                                                       "Level":  "International",
+                                                       "Title":  "Unveiling the Power of Machine Learning and Deep\nLearning in Advancing American Sign Language Recognition",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "17-04-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IEEE Sensors Letters",
+                                                       "Level":  "International",
+                                                       "Title":  "AAV Landing Area 3-D Reconstruction Using Photogrammetric Approach",
+                                                       "Volume No":  "8",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2024",
+                                                       "Date":  "26-03-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "10th International Conference on Advanced Computing and Communication Systems (ICACCS",
+                                                       "Level":  "International",
+                                                       "Title":  "Resource Allocation in Edge Computing\nEnvironment using Deterministic Policy Gradient Algorithm.",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "14-03-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IEEE Access",
+                                                       "Level":  "International",
+                                                       "Title":  "Integrating Computer Vision and Photogrammetry for Autonomous Aerial Vehicle Landing in Static Environment",
+                                                       "Volume No":  "12",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "03-01-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Ad Hoc and Ubiquitous Computing",
+                                                       "Level":  "International",
+                                                       "Title":  "Computational offloading in vehicular edge computing using multiple agent-based deterministic policy gradient algorithm and generative adversarial networks",
+                                                       "Volume No":  "44",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2023",
+                                                       "Date":  "30-11-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Drones",
+                                                       "Level":  "International",
+                                                       "Title":  "Target Localization for Autonomous Landing Site Detection: A Review and Preliminary Result with Static Image Photogrammetry",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "8",
+                                                       "Year":  "2023",
+                                                       "Date":  "02-08-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Computational Intelligence \u0026 Neuroscience",
+                                                       "Level":  "International",
+                                                       "Title":  "Analysis on the Bus Arrival Time Prediction Model for Human-Centric Services Using Data Mining Techniques",
+                                                       "Volume No":  "2022",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2022",
+                                                       "Date":  "26-09-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Environmental Science and Pollution Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Energy and environmental analysis of a solar evacuated tube heat pipe integrated thermoelectric generator using IoT",
+                                                       "Volume No":  "2022",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "31-03-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Critical Reviews",
+                                                       "Level":  "International",
+                                                       "Title":  "Blockchain Based Certificate Verification Using Ethereum and Smart Contract",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "9",
+                                                       "Year":  "2020",
+                                                       "Date":  "11-05-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Critical Reviews",
+                                                       "Level":  "International",
+                                                       "Title":  "Blockchain Based E-Voting Approach in P2P Network",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "9",
+                                                       "Year":  "2020",
+                                                       "Date":  "07-05-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Cluster Computing",
+                                                       "Level":  "International",
+                                                       "Title":  "A modified multi objective heuristic for effective feature selection in text classification",
+                                                       "Volume No":  "22",
+                                                       "Issue No":  "5",
+                                                       "Year":  "2017",
+                                                       "Date":  "05-10-2017",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Computational and Theoretical Nanoscience",
+                                                       "Level":  "International",
+                                                       "Title":  "Multi Level Web Data Extraction Based Topical Visual Structure Clustering for Efficient Web Search",
+                                                       "Volume No":  "14",
+                                                       "Issue No":  "9",
+                                                       "Year":  "2017",
+                                                       "Date":  "01-09-2017",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "The International Arab Journal of Information Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Weighted Delta Factor Cluster Ensemble Algorithm for Categorical Data Clustering in Data Mining",
+                                                       "Volume No":  "14",
+                                                       "Issue No":  "3",
+                                                       "Year":  "2017",
+                                                       "Date":  "01-05-2017",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Kongu Engineering College",
+                                                       "Nature of Consultancy":  "Training",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "10-04-2026",
+                                                       "Date of Consultancy (To)":  "10-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "13500"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "KSM Tex",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Desktop application for Billing Software",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "03-12-2025",
+                                                       "Date of Consultancy (To)":  "23-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sakthi Auto Component Limited",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Digital Trial Card System",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "04-11-2025",
+                                                       "Date of Consultancy (To)":  "02-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "35000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Kongu Engineering College",
+                                                       "Nature of Consultancy":  "Training",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "15-09-2025",
+                                                       "Date of Consultancy (To)":  "19-09-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "16325"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Shri Balaji Engineering",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website development",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "26-02-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Global Matriculation Higher Secondary School",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "05-02-2025",
+                                                       "Date of Consultancy (To)":  "21-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Saraswathi Tex",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "E-Commerce website",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "02-02-2025",
+                                                       "Date of Consultancy (To)":  "09-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "25000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Best Collection Men’s Wear",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Mobile application Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "24-02-2024",
+                                                       "Date of Consultancy (To)":  "02-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sivam Chem Tex Proses",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Mobile application Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "06-02-2024",
+                                                       "Date of Consultancy (To)":  "13-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sakthi Auto Component Limited",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Performance management system, Certificate Digitization,  Service ticket management system, Settlement calculation for Employees",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "02-12-2023",
+                                                       "Date of Consultancy (To)":  "23-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "40000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Refinidia Technologies",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "08-02-2023",
+                                                       "Date of Consultancy (To)":  "12-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Pentafox Technologies Private Limited",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Content Management Platform for dynamic content delivery",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "18-12-2022",
+                                                       "Date of Consultancy (To)":  "14-09-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "40000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Harish mobiles",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Application Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "09-05-2022",
+                                                       "Date of Consultancy (To)":  "10-08-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Pentafox Technologies Private Limited, Chennai",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Invoice Processing and Management System on cloud",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "30-07-2021",
+                                                       "Date of Consultancy (To)":  "18-11-2021",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "45000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Rudolf Diesel Consultants, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Face Mask Detection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "26-10-2020",
+                                                       "Date of Consultancy (To)":  "13-01-2021",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "5000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "FDP",
+                                                       "Name of Event":  "Advancing Healthcare and Med-Tech through Machine Learning: From Theory to Practice",
+                                                       "Collaboration/Sponsored by":  "AICTE ATAL",
+                                                       "Level":  "National",
+                                                       "Start Date":  "03-02-2025",
+                                                       "End Date":  "15-02-2025",
+                                                       "Duration":  "12 days",
+                                                       "Role played":  "Joint Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "National Mathematics day",
+                                                       "Collaboration/Sponsored by":  "TNSCST",
+                                                       "Level":  "District",
+                                                       "Start Date":  "10-01-2025",
+                                                       "End Date":  "",
+                                                       "Duration":  "1 day",
+                                                       "Role played":  "Joint Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Seminar",
+                                                       "Name of Event":  "Artificial Intelligence For The Indian Defense: Security Challenges And Opportunities",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "03-03-2023",
+                                                       "End Date":  "04-03-2023",
+                                                       "Duration":  "2 days",
+                                                       "Role played":  "Convener",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Internet of Things",
+                                                       "Collaboration/Sponsored by":  "AICTE ATAL",
+                                                       "Level":  "National",
+                                                       "Start Date":  "21-12-2020",
+                                                       "End Date":  "26-12-2020",
+                                                       "Duration":  "6 days",
+                                                       "Role played":  "Joint Coordinator",
+                                                       "Venue":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Rapid Application Deveopment with Large Language Models",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC CSE CoE",
+                                                       "Place":  "",
+                                                       "Start Date":  "17-04-2026",
+                                                       "End Date":  "18-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Introduction to Large Language Models(LLMs)",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "19-01-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Introduction to Machine Learning",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "16-07-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "MERN Stack Web development",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "20-01-2025",
+                                                       "End Date":  "24-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Software Testing",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "20-01-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Revolutionizing Agriculture through AI Models, Practices and Interventions",
+                                                       "Level":  "National",
+                                                       "Organized by":  "M Kumarasamy College of Engineering",
+                                                       "Place":  "Karur",
+                                                       "Start Date":  "06-01-2025",
+                                                       "End Date":  "11-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Designing Learner-Centric E-Learning In Stem Disciplines",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-08-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Outcome Based Pedagogic Principles for Effective Teaching",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "06-02-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Design Thinking - A Primer",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "05-07-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Python for Data Science",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "07-09-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Demystifying Networking",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "02-07-2019",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "The Joy of Computing using Python",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "02-07-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Blockchain Architecture design and use cses",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "02-07-2018",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "IE",
+                                                       "Position":  "Fellow Member",
+                                                       "Level":  "National",
+                                                       "Start Date":  "30-04-2016",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "ISTE",
+                                                       "Position":  "Life Member",
+                                                       "Level":  "National",
+                                                       "Start Date":  "01-03-2004",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Enhancing Dyslexia Detection: A Robust Machine Learning Approach",
+                                                       "Title of Conference":  "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "05-02-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Acceptable Deep Learning Approach for Detecting Drowsiness",
+                                                       "Title of Conference":  "2024 9th International Conference on Communication and Electronics Systems (ICCES)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "16-12-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "3D Mapping and Landing Zone Identification in Complex Terrains Using DSM and Photogrammetry",
+                                                       "Title of Conference":  "2024 IEEE 8th International Conference on Signal and Image Processing Applications (ICSIPA)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "03-09-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Advancements in Heart Disease Classification: Leveraging Deep Learning Techniques for ECG Analysis",
+                                                       "Title of Conference":  "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "24-06-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Enhanced Ensemble Framework for Disaster Tweet Categorization",
+                                                       "Title of Conference":  "2024 International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "02-05-2024",
+                                                       "End Date":  "03-05-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "ECG - Driven Heart Disorder Profiler using Machine Learning Techniques",
+                                                       "Title of Conference":  "2024 International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "02-05-2024",
+                                                       "End Date":  "03-05-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Diabetic Foot Ulcer Detection using Deep Learning Approaches",
+                                                       "Title of Conference":  "2024 International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "02-05-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Unveiling the Power of Machine Learning and Deep Learning in Advancing American Sign Language Recognition",
+                                                       "Title of Conference":  "International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "17-04-2024",
+                                                       "End Date":  "19-04-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Resource Allocation in Edge Computing Environment Using Deterministic Policy Gradient Algorithm",
+                                                       "Title of Conference":  "2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "14-03-2024",
+                                                       "End Date":  "15-03-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Deep Learning based Audio Description of Visual Content by Enhancing Accessibility for the Visually Impaired",
+                                                       "Title of Conference":  "2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "15-11-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Explainable Approach for Detecting Potato Leaf Disease Using Ensemble Model",
+                                                       "Title of Conference":  "2023 Third International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "GPS-based Arrival Time Prediction for Bus Schedules: Enhancing Commuter Experience",
+                                                       "Title of Conference":  "2023 12th International Conference on Advanced Computing (ICoAC)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "17-08-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Early Prediction of Sepsis Using Machine Learning Algorithms: A Review",
+                                                       "Title of Conference":  "International Conference on Computational Sciences and Sustainable Technologies",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "08-05-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Automated System for the Early Detection of Dysgraphia using Deep Learning Algorithms",
+                                                       "Title of Conference":  "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-03-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Suicidal Thoughts of Recent Generations- A Review",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Optimizing Virtual Machine Downtime in Live Migration using the Least Frequently Used Service-based Pre-copy Algorithm",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Image Captioning Using Deep Learning Techniques for Partially Impaired Peopl",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Performance Evaluation of Transfer Learning Based Models On Skin Disease Classification",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Suicidal Ideation Prediction Using Machine Learning",
+                                                       "Title of Conference":  "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Identification of Malignant Patterns in FNAC Digital Images of Thyroid Nodules through Cascaded Segmentation Stages",
+                                                       "Title of Conference":  "2023 International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "05-01-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "A Novel Machine Learning Approach to predict Sepsis at an Early Stage",
+                                                       "Title of Conference":  "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "25-01-2022",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Gender and Age Detection using Deep Convolutional Neural Networks",
+                                                       "Title of Conference":  "4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "20-01-2022",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Exploration on Deep Learning Approaches for the Detection of Glaucoma",
+                                                       "Title of Conference":  "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "02-12-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Video-Based Dynamic Authentication System",
+                                                       "Title of Conference":  "2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "08-10-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Blockchain enabled Digitization of Land Registration",
+                                                       "Title of Conference":  "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "27-01-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Automated Vision Defect Detection Supported Deep Convolutional Neural Networks",
+                                                       "Title of Conference":  "International Conference on Advances in Computational Science and Engineering (ICACSE 2020)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "25-12-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Retinal Image Analysis for Glaucoma Detection Using Transfer Learning",
+                                                       "Title of Conference":  "International Conference on Advances in Electrical and Computer Technologies",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "28-10-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "A Survey on Multimodal Biometrics Authentication and Template Protection",
+                                                       "Title of Conference":  "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "14-12-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Multi-factor Based User Authentication Scheme for Lightweight IoT Devices",
+                                                       "Title of Conference":  "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "14-12-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Secure Three-Factor Remote user Authentication for E-Governance of Smart Cities",
+                                                       "Title of Conference":  "2018 International Conference on Current Trends towards Converging Technologies (ICCTCT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "01-03-2018",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "ANRF Sponsored Five-Days National Level Workshop on “Dynamic Semantic Perception: Photonic Spiking Neural Networks for Multi-Agent 6G V2X Orchestration in Medical IoT via Surgeons (H-MR) Intelligence”",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Erode Sengunthar Engineering College",
+                                                       "Start Date":  "04-05-2026",
+                                                       "End Date":  "08-05-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "BoS Meeting",
+                                                       "Role":  "BOS Member",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "sasurie College of Engineering",
+                                                       "Start Date":  "11-04-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Reviewer in Frontiers in Artificial Intelligence Journal",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "07-04-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "18-12-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "16-12-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "09-12-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "08-12-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "14-11-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "10-11-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "19-09-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "04-09-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "03-07-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "University",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "10-06-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "FDP",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "State",
+                                                       "Organized by":  "JSS College of Pharmacy",
+                                                       "Start Date":  "12-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DHR Funded workshop",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Erode Sengunthar Engineering College",
+                                                       "Start Date":  "07-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "AICTE ATAL FDP",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Gnanamani College of Technology",
+                                                       "Start Date":  "25-01-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "AICTE ATAL FDP",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Gnanamani College of Technology",
+                                                       "Start Date":  "20-01-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.N.SHANTHI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "IEEE Sponsored International Conference on Electrical, Computer and Communication Technologies",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "26-06-2024",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Kanchana M",
+                                                       "Date of Registration":  "21-12-2025",
+                                                       "Registration No:":  "26244691465",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Ms.Poornima Devi L",
+                                                       "Date of Registration":  "18-08-2025",
+                                                       "Registration No:":  "25234697458",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Suvalakshmi K",
+                                                       "Date of Registration":  "12-07-2023",
+                                                       "Registration No:":  "23224697383",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Roopa C",
+                                                       "Date of Registration":  "12-07-2023",
+                                                       "Registration No:":  "23244697375",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "CERTAIN INVESTIGATIONS ON COMPUTATION OFFLOADING IN VEHICULAR EDGE COMPUTING USING OPTIMIZATION AND DEEP LEARNING TECHNIQUES",
+                                                       "Name of Scholar":  "Shabariram C P",
+                                                       "Date of Registration":  "24-06-2022",
+                                                       "Registration No:":  "22144697102",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "16-06-2026"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Gowthami J",
+                                                       "Date of Registration":  "14-07-2018",
+                                                       "Registration No:":  "18244697318",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "Privacy preservation of medical bigdata in healthcare cloud",
+                                                       "Name of Scholar":  "Aravindhraj N",
+                                                       "Date of Registration":  "12-06-2018",
+                                                       "Registration No:":  "18134697174",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "21-01-2026"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Manimaran V",
+                                                       "Date of Registration":  "12-06-2018",
+                                                       "Registration No:":  "18144697277",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Muthuraja M",
+                                                       "Date of Registration":  "29-06-2017",
+                                                       "Registration No:":  "17134697417",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "AN EFFICIENT MULTI-OBJECTIVE GLOBAL OPTIMIZATION APPROACH FOR FEATURE SELECTION IN TEXT CLASSIFICATION",
+                                                       "Name of Scholar":  "Thiyagarajan D",
+                                                       "Date of Registration":  "18-02-2013",
+                                                       "Registration No:":  "71160631061",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "14-12-2018"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "AN EFFICIENT SIMILARITY BASED MINING MODEL FOR ENHANCING WEB DOCUMENT CLUSTERING",
+                                                       "Name of Scholar":  "Reka M",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "71030122047",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "CERTAIN INVESTIGATIONS ON OBJECT SEGMENTATION FROM NATURAL IMAGES",
+                                                       "Name of Scholar":  "THILAGAMANI S",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "71040622044",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "20-06-2014"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "AN IMPROVED SUB-WORD MODEL BASED CONTINUOUS ROBUST SPEECH RECOGNITION FOR TAMIL LANGUAGE",
+                                                       "Name of Scholar":  "Sundarapandiyan S",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "10910621106",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "21-07-2017"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "DEVELOPMENT OF AN AUTOMATED DIAGNOSIS SYSTEM FOR CLASSIFYING TUMOR CELLS IN MULTI-STAINED CYTOLOGICAL IMAGES",
+                                                       "Name of Scholar":  "GOPINATH B",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "7076042116",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "08-11-2013"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "A COMPETENT CLUSTER ENSEMBLE APPROACH FOR DATA CLUSTERING IN DATA MINING",
+                                                       "Name of Scholar":  "Sarumathi S",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "71060622034",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "02-12-2016"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "MULTI LEVEL AND MULTI ATTRIBUTE CONTENT DEPTH MEASURE BASED WEB DOCUMENT CLUSTERING FOR EFFICIENT WEB SEARCH",
+                                                       "Name of Scholar":  "Suresh Kumar T",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "11160631040",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "03-09-2018"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "AN IMPROVED MULTICAST ROUTE SELECTION IN MANET USING HYBRID OPTIMIZATION ALGORITHM",
+                                                       "Name of Scholar":  "Rajan C",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "71060921011",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "19-08-2016"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "A HYBRID APPROACH FOR QUERY EXPANSION BASED ON PROBABILISTIC LOG -LIKELIHOOD SCORE METHOD WITH SEMANTIC FILTERING",
+                                                       "Name of Scholar":  "Jothilakshmi R",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "100960622009",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "27-12-2017"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "ANALYSIS OF SPECTRAL AND FIREFLY RESOURCE OPTIMIZATION MODELS FOR ROUTE SELECTION IN WMSN",
+                                                       "Name of Scholar":  "Gowsic K",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "71060621010",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "03-09-2018"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "AN EFFICIENT SEMANTIC WEB SEARCH USING ONTOLOGY BASED CLASSIFICATION ALGORITHMS FOR UNSTRUCTURED DOCUMENTS",
+                                                       "Name of Scholar":  "Umamaheswari R",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "100960622026",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "04-09-2017"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "A CERTAIN INVESTIGATION ON GLAUCOMA DETECTION USING DEEP LEARNING ALGORITHMS",
+                                                       "Name of Scholar":  "Sharmila C",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "17244697424",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "23-01-2023"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.N.SHANTHI",
+                                                       "Title of the thesis for scholar":  "IDENTIFICATION OF AMBLYOPIA DISEASE USING RECURRENT NEURAL NETWORK AND DEEP CODED LINK NET ARCHITECTURE",
+                                                       "Name of Scholar":  "Lalitha S",
+                                                       "Date of Registration":  "",
+                                                       "Registration No:":  "16234697417",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "29-12-2022"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

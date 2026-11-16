@@ -1,0 +1,1032 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSISTANT PROFESSOR",
+                                                       "Area of Specialisation":  "Natural Language Processing. Machine Learning, Cloud Computing",
+                                                       "Date of joining in KEC":  "07-12-2020",
+                                                       "Mobile":  "8883677334",
+                                                       "E-mail":  "ramyaerusan@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "COMPUTER SCIENCE AND ENGINEERING",
+                                                       "From":  "20-09-2018"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "BE",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "07-08-2014"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "07-12-2020",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Best Faculty in Innovation and Entrepreneurship",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "Kongu Engineering College",
+                                                       "Place":  "",
+                                                       "Date":  "27-03-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Expert Systems with Applications",
+                                                       "Level":  "International",
+                                                       "Title":  "Physics-guided transfer learning framework for melanoma detection using optimized visual geometry group networks",
+                                                       "Volume No":  "318",
+                                                       "Issue No":  "131940",
+                                                       "Year":  "2026",
+                                                       "Date":  "11-03-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Lecture Notes in Networks and Systems ((LNNS,volume 23))",
+                                                       "Level":  "International",
+                                                       "Title":  "Enhancing Click-Through Rate Prediction: A Composite Approach Integrating DNN with DCN and FM-NN",
+                                                       "Volume No":  "23",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "15-12-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "NEUROQUANTOLOGY",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigation Of Metaheuristics Machine Learning (Ml) Approaches For Generating Robust Discriminative Neuroimaging Representations Using Equation Model (Sem)",
+                                                       "Volume No":  "20",
+                                                       "Issue No":  "16",
+                                                       "Year":  "2022",
+                                                       "Date":  "14-09-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "CiiT International Journal of Software Engineering and Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Improving Text Summarization Using Latent Semantic Analysis",
+                                                       "Volume No":  "12",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2020",
+                                                       "Date":  "12-02-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Engineering Trends and Technology (IJETT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigations on Combinational Approach for Processing Remote Sensing Images Using Deep learning Techniques",
+                                                       "Volume No":  "67",
+                                                       "Issue No":  "8",
+                                                       "Year":  "2019",
+                                                       "Date":  "22-08-2019",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Intellectual Advancements and Research in Engineering Computations (IJIAREC)",
+                                                       "Level":  "International",
+                                                       "Title":  "Multimodel Document Summarization K-SVM Algorithm",
+                                                       "Volume No":  "6",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2018",
+                                                       "Date":  "29-03-2018",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Scientific Research in Computer Science and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Text Summarization using Latent Semantic Analysis",
+                                                       "Volume No":  "5",
+                                                       "Issue No":  "3",
+                                                       "Year":  "2017",
+                                                       "Date":  "30-12-2017",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Bharani Furnitures, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "22-12-2025",
+                                                       "Date of Consultancy (To)":  "30-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "18880"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sekar Industries, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software project",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "19-12-2025",
+                                                       "Date of Consultancy (To)":  "23-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "29500"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sweet Bite, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Industrial (Software Development)",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "06-01-2025",
+                                                       "Date of Consultancy (To)":  "30-04-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "11800"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "HOTEL AISHWARYA INN",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software Development",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "02-01-2024",
+                                                       "Date of Consultancy (To)":  "30-04-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Dairy Lush, Perundurai",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software Development (Web Development)",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "25-01-2023",
+                                                       "Date of Consultancy (To)":  "30-04-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "ABI TRADERS, THIRUPUR",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT (WEB DEVELOPMENT)",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-12-2022",
+                                                       "Date of Consultancy (To)":  "30-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "5000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "PUJA EXPORTS, ERODE",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT (WESITE DEVELOPMENT)",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-12-2022",
+                                                       "Date of Consultancy (To)":  "31-05-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "5000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "NISHANTH DIGITAL STUDIO",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "10-08-2022",
+                                                       "Date of Consultancy (To)":  "30-11-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "TVR WEAVING MILL",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "SOFTWARE DEVELOPMENT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "08-08-2022",
+                                                       "Date of Consultancy (To)":  "30-11-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "6000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "AI Application Deployment using Fast API, Streamlit and AWS",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "11-08-2025",
+                                                       "End Date":  "25-10-2025",
+                                                       "Duration":  "5 Days",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Aptitude Shortcuts for Competetive exams",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "06-09-2024",
+                                                       "End Date":  "",
+                                                       "Duration":  "1 day",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "Kongu Engineering College"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Bridging Mathematics and Biology: Modelling and Analysis",
+                                                       "Level":  "National",
+                                                       "Organized by":  "National Institute of Technology",
+                                                       "Place":  "",
+                                                       "Start Date":  "06-04-2026",
+                                                       "End Date":  "10-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Emerging Trends and Challenges in Cyber Security",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Guru Nanak Institute of Technology",
+                                                       "Place":  "",
+                                                       "Start Date":  "10-11-2025",
+                                                       "End Date":  "15-11-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "INTELLIGENT COMPUTING TECHNIQUES AND ITS ENGINEERING APPLICATIONS",
+                                                       "Level":  "National",
+                                                       "Organized by":  "COLLEGE OF ENGINEERING AND MANAGEMENT",
+                                                       "Place":  "KOLAGHAT",
+                                                       "Start Date":  "06-01-2025",
+                                                       "End Date":  "10-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Generative AI and its Multidomain Usecases",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Vishwakarma Institute of Technology",
+                                                       "Place":  "Pune",
+                                                       "Start Date":  "02-12-2024",
+                                                       "End Date":  "06-12-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Devops",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Guvi Geek Network Private Limited",
+                                                       "Place":  "",
+                                                       "Start Date":  "25-11-2024",
+                                                       "End Date":  "29-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Research Methodology - Writing Content for Thesis",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "St Joseph\u0027s College (Arts and Science)",
+                                                       "Place":  "Kovur",
+                                                       "Start Date":  "19-08-2024",
+                                                       "End Date":  "23-08-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Designing Learner-Centric E-Learning in STEM Disciplines",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "nptel",
+                                                       "Place":  "",
+                                                       "Start Date":  "05-08-2024",
+                                                       "End Date":  "23-09-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Designing Learner-Centric E-Learning in STEM Disciplines",
+                                                       "Level":  "National",
+                                                       "Organized by":  "nptel",
+                                                       "Place":  "",
+                                                       "Start Date":  "05-08-2024",
+                                                       "End Date":  "23-09-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Cyber Security for Industry 4.0",
+                                                       "Level":  "National",
+                                                       "Organized by":  "National Institute of Technology",
+                                                       "Place":  "warangal",
+                                                       "Start Date":  "08-07-2024",
+                                                       "End Date":  "17-07-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Data Analytics using Python",
+                                                       "Level":  "State",
+                                                       "Organized by":  "ICT Academy",
+                                                       "Place":  "Annapoorana Engineering College, Salem",
+                                                       "Start Date":  "25-06-2024",
+                                                       "End Date":  "29-06-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Research Paper Writing and Publications in SCI",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Pencil Bitz",
+                                                       "Place":  "",
+                                                       "Start Date":  "23-05-2024",
+                                                       "End Date":  "29-05-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Entrepreneurship Development for Faculty in Energy Conservation Domains of Engineering and Technology using Mobile Application Development",
+                                                       "Level":  "International",
+                                                       "Organized by":  "ANNA UNIVERSITY",
+                                                       "Place":  "",
+                                                       "Start Date":  "23-10-2023",
+                                                       "End Date":  "08-11-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Introduction to Artificial Intelligence",
+                                                       "Level":  "International",
+                                                       "Organized by":  "G.Pulla Reddy Engineering College",
+                                                       "Place":  "Kurnool",
+                                                       "Start Date":  "09-10-2023",
+                                                       "End Date":  "14-10-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Innovative Research Opportunities and Applications of datascience in Industry  Paradigm",
+                                                       "Level":  "International",
+                                                       "Organized by":  "SRM Institute of Science and Technology",
+                                                       "Place":  "",
+                                                       "Start Date":  "18-08-2023",
+                                                       "End Date":  "31-08-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "DESIGN THINKING - A PRIMER",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "17-07-2023",
+                                                       "End Date":  "18-08-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "DESIGN THINKING - A PRIMER",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "17-07-2023",
+                                                       "End Date":  "18-08-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Microsoft AI Engineer Associate",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "ICT ACADEMY",
+                                                       "Place":  "Sona College of  Technology.",
+                                                       "Start Date":  "20-06-2023",
+                                                       "End Date":  "24-06-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "NLP training Program",
+                                                       "Level":  "National",
+                                                       "Organized by":  "iMORPH Solutions in Association with Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "10-06-2023",
+                                                       "End Date":  "18-10-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Cloud Practitioner (AWS)",
+                                                       "Level":  "State",
+                                                       "Organized by":  "Mahendra Engineering College",
+                                                       "Place":  "Mallasamudram",
+                                                       "Start Date":  "12-09-2022",
+                                                       "End Date":  "16-09-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Python for Data science",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "06-06-2022",
+                                                       "End Date":  "30-08-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Orientation Program",
+                                                       "Title of the program":  "Collaboration of AI with AR and VR",
+                                                       "Level":  "International",
+                                                       "Organized by":  "K.S.R Institute for Engineering and Technology",
+                                                       "Place":  "Tiruchengode",
+                                                       "Start Date":  "14-02-2022",
+                                                       "End Date":  "19-02-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "DATABASE MANAGEMENT SYSTEM",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "24-01-2022",
+                                                       "End Date":  "18-03-2022"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "Computer Society of India",
+                                                       "Position":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "20-11-2025",
+                                                       "End Date":  "20-12-2027"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "A Hybrid Approach for Crop Disease Prediction Using Deep Learning Techniques",
+                                                       "Title of Conference":  "2026 9th International Conference on Intelligent Computing and Control Systems (ICICCS)",
+                                                       "Organized by":  "Nandha Engineering College",
+                                                       "Level":  "International",
+                                                       "Start Date":  "16-03-2026",
+                                                       "End Date":  "18-03-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Enhancing Chart Question Answering using Multimodal Reasoning Techniques",
+                                                       "Title of Conference":  "2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication, IConSC??? 2025",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "06-12-2025",
+                                                       "End Date":  "07-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Automated Extraction Of Lung Cancer Diagnostic Indicators From Clinical Texts Using NLP And Machine Learning",
+                                                       "Title of Conference":  "2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication, IConSC??? 2025",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "06-12-2025",
+                                                       "End Date":  "07-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Sleep Disorder Prediction Using CNN and Bidirectional LSTM",
+                                                       "Title of Conference":  "2025 International Conference on Next Generation Computing Systems (ICNGCS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "21-08-2025",
+                                                       "End Date":  "22-08-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Deep Learning Approach for Prediction Employee Attrition for HR Analytics",
+                                                       "Title of Conference":  "2025 6th International Conference for Emerging Technology (INCET)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-05-2025",
+                                                       "End Date":  "25-05-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Deep Learning Based Hybrid Transformer Model for Stock Price Prediction",
+                                                       "Title of Conference":  "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "20-01-2025",
+                                                       "End Date":  "22-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Blood Cell Classification and Counting in Hematology through Deep Learning",
+                                                       "Title of Conference":  "2024 4th International Conference on Sustainable Expert Systems (ICSES)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "15-10-2024",
+                                                       "End Date":  "17-10-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Harnessing Artificial Neural Network Model to Anticipate Housing Market Rates",
+                                                       "Title of Conference":  "International Conference on Computing and Networking Technology (ICCNT)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "24-06-2024",
+                                                       "End Date":  "28-06-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "E-Commerce Recommender System based on Customer Reviews Analysis using Deep Neural Network",
+                                                       "Title of Conference":  "2nd International Conference on Edge Computing and Applications (ICECAA)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "19-07-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Ensemble based intrusion detection system for IoT device",
+                                                       "Title of Conference":  "International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "14-06-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "An Effective approach for Mental Health Prediction using Machine Learning algorithms",
+                                                       "Title of Conference":  "Cognitive Computing and Intelligent Communication systems",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "20-05-2022",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Unlocking the power of ML : A practical Workshop",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Inter-Collegiate",
+                                                       "Organized by":  "Nandha Engineering College",
+                                                       "Start Date":  "10-08-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Flutter App Development",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Intra-Collegiate",
+                                                       "Organized by":  "Department of Computer Applications, Kongu Engineering College",
+                                                       "Start Date":  "09-08-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "T.E.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Amazon Web Service",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Inter-Collegiate",
+                                                       "Organized by":  "Mahendra Institute of Technology",
+                                                       "Start Date":  "22-11-2022",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}
