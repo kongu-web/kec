@@ -95,7 +95,7 @@ const AdmissionPage = () => {
         style={{ "--hero-bg": `url(${admissionHero})` }}
       >
         <div className="hero-content">
-          <h1>Admission Enquiry 2026-27</h1>
+          <h1>Admission Enquiry 2027-28</h1>
           <p>
             NAAC A++ Accredited | Affiliated to Anna University | <br></br>AICTE
             Approved
@@ -105,7 +105,7 @@ const AdmissionPage = () => {
               className="btn-primary"
               onClick={() => {
                 window.open(
-                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=20&smId=OT5DDWQdZ9",
+                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=22&smId=NNA7uIb6Fk",
                   "_blank",
                   "noopener,noreferrer"
                 );
