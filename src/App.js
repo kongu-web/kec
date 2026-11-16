@@ -88,6 +88,7 @@ import FitnessProtocol from './components/FooterContents/QuickLinks/FitnessProto
 import Nbadcs from "./components/FooterContents/QuickLinks/NBADCS/nbadcs";
 import PrivacyPolicy from './components/FooterContents/QuickLinks/PrivacyPolicy/PrivacyPolicy.jsx';
 import FacultyMembers from './components/FooterContents/QuickLinks/FacultyMembers/FacultyMembers.jsx';
+import FacultyPortfolioPage from './features/faculty/pages/FacultyPortfolioPage.jsx';
 
 
 
@@ -277,6 +278,9 @@ const App = () => {
           {/* Faculty Members Directory */}
           <Route path="/faculty-members" element={<FacultyMembers />} />
           <Route path="/facultymembers" element={<FacultyMembers />} />
+          {/* Individual Faculty Academic Portfolio */}
+          <Route path="/faculty/:deptSlug/:facultySlug" element={<FacultyPortfolioPage />} />
+          <Route path="/faculty/:deptSlug" element={<FacultyPortfolioPage />} />
 
           {/* Footer - Students Corner */}
           <Route path="/help-desk" element={<HelpDesk />} />

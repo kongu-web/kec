@@ -1,0 +1,1168 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSISTANT PROFESSOR(SENIOR GRADE)",
+                                                       "Area of Specialisation":  "Deep Learning, AI, NLP, DBMS",
+                                                       "Date of joining in KEC":  "02-06-2010",
+                                                       "Mobile":  "9787080129",
+                                                       "E-mail":  "sramya.cse@kongu.edu"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "M.E",
+                                                       "Specialization":  "Software Engineering",
+                                                       "From":  "01-07-2008"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "M.E",
+                                                       "Specialization":  "Software Engineering",
+                                                       "From":  "01-06-2008"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "B.E",
+                                                       "Specialization":  "Computer Science and Engineering",
+                                                       "From":  "01-07-2004"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "B.E",
+                                                       "Specialization":  "Computer Science and Engineering",
+                                                       "From":  "01-06-2004"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "02-06-2010",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AI-Driven Cyber Resilience Framework for Critical Digital Infrastructure Using Reinforcement Learning",
+                                                       "Level":  "National",
+                                                       "Title":  "AI-Driven Cyber Resilience Framework for Critical Digital Infrastructure Using Reinforcement Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "11-10-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Theoretical and Applied Information Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "AI-ADAPTIVE POST-QUANTUM CRYPTOGRAPHY FOR SECURE AND FRAUD-RESILIENT DIGITAL PAYMENTS",
+                                                       "Volume No":  "104",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2026",
+                                                       "Date":  "31-01-2026",
+                                                       "Published at":  "Zenodo"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Generative AI",
+                                                       "Level":  "International",
+                                                       "Title":  "Generative AI",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "01-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Remote Sensing in Earth Systems Sciences",
+                                                       "Level":  "International",
+                                                       "Title":  "Comprehensive Earth System Analysis for Advancing Community Resilience: Integrating Remote Sensing with Hybrid GAN-RNN Techniques",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "11-11-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Remote Sensing in Earth Systems Sciences",
+                                                       "Level":  "National",
+                                                       "Title":  "Cutting-Edge Climate Analysis: Combining MLP-GRU and Remote Sensing Technologies",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "04-09-2024",
+                                                       "Published at":  "Springer"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Remote Sensing in Earth Systems Sciences",
+                                                       "Level":  "International",
+                                                       "Title":  "Cutting-Edge Climate Analysis: Combining MLP-GRU and Remote Sensing Technologies",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "04-09-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Blockchain for Biomedical Research and Healthcare",
+                                                       "Level":  "International",
+                                                       "Title":  "Integrating Healthcare Management System Using Blockchain Technology",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "01-09-2024",
+                                                       "Published at":  "Singapore"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Big Data Fundamentals",
+                                                       "Level":  "Others",
+                                                       "Title":  "Big Data Fundamentals",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "13-12-2023",
+                                                       "Published at":  "notionpress.com"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Others",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2023 International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)",
+                                                       "Level":  "International",
+                                                       "Title":  "Machine Learning Model used Efficiently to Manage the Smart Grid and Renewable Energy",
+                                                       "Volume No":  "1",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "27-10-2023",
+                                                       "Published at":  "Bangalore, India"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Others",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2023 International Conference on Inventive Computation Technologies (ICICT)",
+                                                       "Level":  "International",
+                                                       "Title":  "Diabetes Prediction Model for Better Clarification by using Machine Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "01-06-2023",
+                                                       "Published at":  "Lalitpur, Nepal"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Advances in Materials Science and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Machine Learning Approach on Time Series for PV-Solar Energy",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "16-08-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Intelligent Communication Technologies and Virtual Mobile Networks: Proceedings of ICICV 2022",
+                                                       "Level":  "International",
+                                                       "Title":  "Classification of Breast Cancer Using CNN and Its Variant",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "20-07-2022",
+                                                       "Published at":  "Springer, Singapore"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Computer Applications (0975 – 8887)",
+                                                       "Level":  "International",
+                                                       "Title":  "Image to Image Translation using Deep Learning Techniques",
+                                                       "Volume No":  "175",
+                                                       "Issue No":  "22",
+                                                       "Year":  "2020",
+                                                       "Date":  "01-10-2020",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "SP TEX",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "04-01-2026",
+                                                       "Date of Consultancy (To)":  "05-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Canon Ball Fashions",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "02-01-2026",
+                                                       "Date of Consultancy (To)":  "08-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "25000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Yaane Technologies",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "24-12-2025",
+                                                       "Date of Consultancy (To)":  "24-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Kumaran Motors",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "20-02-2025",
+                                                       "Date of Consultancy (To)":  "13-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "22000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Maha Karvembu Traders",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "14-02-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Navil Spinnings",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "05-02-2025",
+                                                       "Date of Consultancy (To)":  "13-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "18000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Recreation of existing hospital management system for an eye clinic",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "4 (Ramya S, Sabarishni K, Prabha R, Srimathi C)",
+                                                       "Date of Consultancy (From)":  "16-06-2020",
+                                                       "Date of Consultancy (To)":  "24-09-2020",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "AI Application Development using MLOPS",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "01-06-2026",
+                                                       "End Date":  "06-06-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "One day Online workshop on Data Chaos to Trusted and Secure Intelligent Systems: Building High-Quality Data, Reliable Models and Defensive Strategies",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "VIT",
+                                                       "Place":  "Vellore",
+                                                       "Start Date":  "09-05-2026",
+                                                       "End Date":  "09-05-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai,",
+                                                       "Start Date":  "06-04-2026",
+                                                       "End Date":  "11-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Capacity Building for Faculty Excellence: Emerging Scientific Research, Transformative Teaching and AI-Assisted Scholarly Writing",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NEHRU INSTITUTE OF INFORMATION TECHNOLOGY \u0026 MANAGEMENT",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "02-02-2026",
+                                                       "End Date":  "07-02-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Others",
+                                                       "Title of the program":  "Google’s Gemini Academy 2025",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Google",
+                                                       "Place":  "India",
+                                                       "Start Date":  "18-11-2025",
+                                                       "End Date":  "18-11-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "One-Day Online Workshop on Generative AI Revolution: Build Smart Apps \u0026 Explore Cutting-Edge Research on AWS”",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "VIT",
+                                                       "Place":  "Vellore",
+                                                       "Start Date":  "01-11-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Generative AI Revolution: Build Smart Apps \u0026 Explore Cutting-Edge Research on AWS",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "the Department Software Systems and Department of Database Systems, SCOPE, Vellore Institute of Technology,",
+                                                       "Place":  "Vellore",
+                                                       "Start Date":  "01-11-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Conference",
+                                                       "Title of the program":  "CAP-FL: A Context-Aware Personalized Federated Learning Framework for Next-Word Prediction",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "IES college of Technology",
+                                                       "Place":  "Bhopal",
+                                                       "Start Date":  "27-02-2025",
+                                                       "End Date":  "28-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Generative AI and the Future of Work",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Reva University",
+                                                       "Place":  "Bengaluru",
+                                                       "Start Date":  "22-07-2024",
+                                                       "End Date":  "26-07-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Business Analytics \u0026 Data Mining Modeling using R Part II",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Swayam NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "22-07-2024",
+                                                       "End Date":  "16-08-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Data structures - Foundation Course",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "26-02-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Software Testing",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "swayam -NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "22-01-2024",
+                                                       "End Date":  "16-02-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Innovative practices in Teaching Learning Process",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Navsahyadri, Group of Institutions",
+                                                       "Place":  "Pune",
+                                                       "Start Date":  "19-12-2023",
+                                                       "End Date":  "23-12-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Emerging Technologies for Next Generation Networks",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Kings Engineering College",
+                                                       "Place":  "chennai",
+                                                       "Start Date":  "17-07-2023",
+                                                       "End Date":  "22-07-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Full Stack Development",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Kamaraj College of Engineering and Technology",
+                                                       "Place":  "Virudhunagar",
+                                                       "Start Date":  "11-07-2023",
+                                                       "End Date":  "15-07-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "The Joy of Computing using Python",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "swayam-NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "23-01-2023",
+                                                       "End Date":  "14-04-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Computer Networks and Internet Protocol",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "swayam-NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "24-01-2022",
+                                                       "End Date":  "15-04-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "AICTE Training And Learning (ATAL) Academy Online FDP on \"Immersive Virtual Reality\"",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE - ATAL",
+                                                       "Place":  "New Delhi",
+                                                       "Start Date":  "04-01-2021",
+                                                       "End Date":  "08-01-2021"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Inculcating Universal Human Values in Technical Education",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "NEW DELHI",
+                                                       "Start Date":  "02-11-2020",
+                                                       "End Date":  "06-11-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Artificial Intelligence",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "AICTE - ATAL",
+                                                       "Place":  "New Delhi",
+                                                       "Start Date":  "19-10-2020",
+                                                       "End Date":  "23-10-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Recent trends in digital technologies",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "The American College",
+                                                       "Place":  "Madurai",
+                                                       "Start Date":  "07-07-2020",
+                                                       "End Date":  "11-07-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "MERN Stack Developer",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "KSR College of Technology",
+                                                       "Place":  "Tiruchengode",
+                                                       "Start Date":  "15-06-2020",
+                                                       "End Date":  "19-06-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Webinar",
+                                                       "Title of the program":  "Virtual classes – are you ready?",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Sri Eshwar College of Engineering",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "08-06-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Webinar",
+                                                       "Title of the program":  "Fundamentals of computer architecture",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Sri Eshwar College of Engineering",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "05-06-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Webinar",
+                                                       "Title of the program":  "6th wave of innovation : Disruption",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Sri Eshwar College of Engineering",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "04-06-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Webinar",
+                                                       "Title of the program":  "Agile Methodology",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Sri Eshwar College of Engineering",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "03-06-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Python Programming",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Sona College of Technology",
+                                                       "Place":  "salem",
+                                                       "Start Date":  "18-05-2020",
+                                                       "End Date":  "22-05-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Seminar",
+                                                       "Title of the program":  "Geospatial Block Chain: Exploration of Promises, Challenges and Opportunities in Healthcare",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "20-03-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Conference",
+                                                       "Title of the program":  "AICTE Sponsored International Conference on Recent Trends and Challenges in Healthcare Informatics",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "12-12-2019",
+                                                       "End Date":  "13-12-2019"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Seminar",
+                                                       "Title of the program":  "Adversarial Deep Learning: Threats, Challenges and Defence Mechanisms in Cyber Forensics",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "30-11-2019",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Wireless Sensor Networks Application Towards Secured Automation With Iot",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Nandha Engineering College",
+                                                       "Place":  "Erode",
+                                                       "Start Date":  "25-05-2019",
+                                                       "End Date":  "01-06-2019"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Agile for the legends",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Cognizant",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "21-04-2017",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Introduction to R Programming",
+                                                       "Level":  "State",
+                                                       "Organized by":  "ICT Academy",
+                                                       "Place":  "Erode",
+                                                       "Start Date":  "18-04-2017",
+                                                       "End Date":  "19-04-2017"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Seminar",
+                                                       "Title of the program":  "DBT Sponsored National Level Seminar on Smart Farming: Improving Agriculture Sustainability Using Environmental Condition’ Big Data Management and Cloud Computing Analytics",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "31-03-2017",
+                                                       "End Date":  "01-04-2017"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Concurrent and Stream Analytics in Big Data",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongunadu College of Engineering and Technology",
+                                                       "Place":  "Trichy.",
+                                                       "Start Date":  "10-03-2017",
+                                                       "End Date":  "11-03-2017"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "IBM Worklight Training with HTML5, JAVA Scripting, CSS, Dojo, Jquery",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Micro Genesis",
+                                                       "Place":  "KEC, Perundurai",
+                                                       "Start Date":  "23-04-2016",
+                                                       "End Date":  "30-04-2016"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Introduction to Design of Algorithms",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "Indian Institute of Technology under the National Mission on Education through ICT (MHRD)",
+                                                       "Place":  "Kharagpur",
+                                                       "Start Date":  "27-04-2015",
+                                                       "End Date":  "30-05-2015"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Database Management Systems",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Indian Institute of Technology and ICT",
+                                                       "Place":  "Bombay",
+                                                       "Start Date":  "21-05-2013",
+                                                       "End Date":  "31-05-2013"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Core Computing Skills",
+                                                       "Level":  "State",
+                                                       "Organized by":  "ICT Academy of Tamil Nadu in association with TAHDCO \u0026 TRANSTAFF",
+                                                       "Place":  "Sathyamangalam",
+                                                       "Start Date":  "11-10-2011",
+                                                       "End Date":  "13-10-2011"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Seminar",
+                                                       "Title of the program":  "Information Security in Medical Informatics",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Place":  "Perundurai",
+                                                       "Start Date":  "11-11-2010",
+                                                       "End Date":  "12-11-2010"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "Computer Society of India",
+                                                       "Position":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "14-11-2025",
+                                                       "End Date":  "13-11-2026"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "CAP-FL: A Context-Aware Personalized Federated Learning Framework for Next-Word Prediction",
+                                                       "Title of Conference":  "2026 2nd International Conference on Big Data \u0026 Machine Learning (ICBDML)",
+                                                       "Organized by":  "IEEE",
+                                                       "Level":  "International",
+                                                       "Start Date":  "27-02-2026",
+                                                       "End Date":  "28-02-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Personalized and Memory-Efficient Federated Learning via Parameter Efficient Fine Tuning Techniques for Next Word Prediction",
+                                                       "Title of Conference":  "2026 9th International Conference on Computational Intelligence in Data Science (ICCIDS)",
+                                                       "Organized by":  "IEEE",
+                                                       "Level":  "International",
+                                                       "Start Date":  "08-01-2026",
+                                                       "End Date":  "10-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Machine Learning Model used Efficiently to Manage the Smart Grid and Renewable Energy",
+                                                       "Title of Conference":  "2023 International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "27-10-2023",
+                                                       "End Date":  "28-10-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "S.RAMYA",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Classification of Breast Cancer Using CNN and Its Variant",
+                                                       "Title of Conference":  "Intelligent Communication Technologies and Virtual Mobile Networks",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "20-07-2022",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

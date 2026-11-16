@@ -1,0 +1,1130 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSOCIATE PROFESSOR",
+                                                       "Area of Specialisation":  "Machine Learning, Data Analytics",
+                                                       "Date of joining in KEC":  "01-06-2001",
+                                                       "Mobile":  "9659447988",
+                                                       "E-mail":  "kalairupa.cse@kongu.edu"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "PhD",
+                                                       "Specialization":  "Information and Commnunication Engineering",
+                                                       "From":  "01-07-2011"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "01-08-2005"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "BE",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "11-08-1997"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Institution",
+                                                       "Start Date":  "01-06-2001",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Topper (Top 1 %)",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "NPTEL, SWAYAM",
+                                                       "Place":  "",
+                                                       "Date":  "30-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Wipro Certified Faculty",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "WIPRO",
+                                                       "Place":  "KEC",
+                                                       "Date":  "05-07-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Appreciation",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "TCS-ION",
+                                                       "Place":  "KEC",
+                                                       "Date":  "14-11-2014"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Best Faculty",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "KEC",
+                                                       "Place":  "Kongu Engineering College",
+                                                       "Date":  "08-03-2011"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Taylor \u0026 Francis Group, CRC Press",
+                                                       "Level":  "International",
+                                                       "Title":  "Artificial Intelligent Towards Sustainable Impact Accelerator through Education, Research and Advocacy - AI in Education—Transforming Teaching and Learning\nin the Digital Age",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "26-05-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "9th International Conference on Communication and Electronics Systems (ICCES)",
+                                                       "Level":  "International",
+                                                       "Title":  "A Multi-Scale Learning Assisted Neural Network for Improved Object Detection in Complex Environments",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "06-02-2025",
+                                                       "Published at":  "IEEE Xplorer"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Computational Intellogence",
+                                                       "Level":  "International",
+                                                       "Title":  "Hybrid HAN-CNN with aspect term extraction for sentiment analysis using product review",
+                                                       "Volume No":  "40",
+                                                       "Issue No":  "25",
+                                                       "Year":  "2024",
+                                                       "Date":  "15-10-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Smart Innovation, Systems and Technologies",
+                                                       "Level":  "International",
+                                                       "Title":  "Exploring Ethical Considerations: Privacy and Accountability in Conversational Agents like ChatGPT",
+                                                       "Volume No":  "390",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "03-08-2024",
+                                                       "Published at":  "Springer"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Smart Innovation, Systems and Technologies",
+                                                       "Level":  "International",
+                                                       "Title":  "Advancing Beyond Contextual Embeddings: Innovations in Word and Document Representations for Natural Language Processing",
+                                                       "Volume No":  "390",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "03-08-2024",
+                                                       "Published at":  "Springer"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Smart Innovation, Systems and TechnologiesThis link is disabled.",
+                                                       "Level":  "International",
+                                                       "Title":  "Advancing Beyond Contextual Embeddings: Innovations in Word and Document Representations for Natural Language Processing",
+                                                       "Volume No":  "390",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "03-08-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "15th International Conference on Advances in Computing, Control, and Telecommunication Technologies, ACT 2024",
+                                                       "Level":  "International",
+                                                       "Title":  "Classification and Summarization of News Article using Rank SVM and Fuzzy Logic",
+                                                       "Volume No":  "2",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "21-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Utilization of AI Technology in Supply Chain Management,",
+                                                       "Level":  "International",
+                                                       "Title":  "Computational biology meets swarm intelligence: Implications for supply chain management",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "14-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Utilization of AI Technology in Supply Chain Management",
+                                                       "Level":  "International",
+                                                       "Title":  "Revolutionizing supply chain management: A comprehensive review of AI and machine learning impacts",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "14-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2nd International Conference on Augmented Intelligence and Sustainable Systems, ICAISS 2023,",
+                                                       "Level":  "International",
+                                                       "Title":  "Revolutionizing Hand Gesture Recognition: A Transfer Learning Approach using Surface Electromyography and Convolutional Neural Networks",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "23-08-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "7th International Conference on Intelligent Computing and Control Systems, ICICCS 2023",
+                                                       "Level":  "International",
+                                                       "Title":  "Cauchy Grasshopper Optimization Algorithm with Deep Learning Model for Cloud Enabled Cyber Threat Detection System",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "17-05-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "7th International Conference on Intelligent Computing and Control Systems, ICICCS 2023",
+                                                       "Level":  "International",
+                                                       "Title":  "Deep Learning-based Early Parkinson\u0027s Disease Detection from Brain MRI Image",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "17-05-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Computer Communication and Informatics, ICCCI 2023",
+                                                       "Level":  "International",
+                                                       "Title":  "Hand Gestures for Mouse Movements with Hand and Computer Interaction model",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "27-01-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IFIP Advances in Information and Communication Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Counting Number of People and Social Distance Detection Using Deep Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "29-09-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Physics",
+                                                       "Level":  "International",
+                                                       "Title":  "Review on Crop Prediction Using Deep Learning Techniques",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2020",
+                                                       "Date":  "11-12-2021",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Electronics and Sustainable Communication Systems, ICESC 2020",
+                                                       "Level":  "International",
+                                                       "Title":  "Clothing Image Recognition Based on Multiple Features Using Deep Neural Networks",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2020",
+                                                       "Date":  "04-08-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Intelligent Automation And Soft Computing",
+                                                       "Level":  "International",
+                                                       "Title":  "Enhancing the Classification Accuracy in Sentiment Analysis with Computational Intelligence Using Joint Sentiment Topic Detection with MEDLDA",
+                                                       "Volume No":  "26",
+                                                       "Issue No":  "",
+                                                       "Year":  "2020",
+                                                       "Date":  "02-01-2020",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "KEC",
+                                                       "Nature of Consultancy":  "Training",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "14-03-2026",
+                                                       "Date of Consultancy (To)":  "14-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "5000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sunlight offset Printers",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Order Managament and Sales Analytics",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "20-01-2026",
+                                                       "Date of Consultancy (To)":  "30-03-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Bharath Enterprises",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software Developmemt",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "16-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "25000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sri Kumaran Clinic,",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website Deevlopment",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "16-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Sre Barane Paper Boards",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web development",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "16-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Ajra Tex",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Software Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "21-02-2024",
+                                                       "Date of Consultancy (To)":  "30-04-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Lumiere Exports",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Site Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "18-02-2024",
+                                                       "Date of Consultancy (To)":  "30-04-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Digital Dream Creations",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "06-03-2023",
+                                                       "Date of Consultancy (To)":  "26-04-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "10000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Shri Ganesj Jewellery",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Development",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "20-05-2022",
+                                                       "Date of Consultancy (To)":  "20-06-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "UMA MEDICALS",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Web Application",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "07-05-2022",
+                                                       "Date of Consultancy (To)":  "30-06-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Green Agro Ttech",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Respnsive web site",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "07-08-2021",
+                                                       "Date of Consultancy (To)":  "08-11-2021",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "8000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Data Analytics and Visualization using Power BI",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "State",
+                                                       "Start Date":  "14-03-2026",
+                                                       "End Date":  "14-03-2026",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Value added courses",
+                                                       "Name of Event":  "Advanced C Programming",
+                                                       "Collaboration/Sponsored by":  "-",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "17-09-2025",
+                                                       "End Date":  "16-10-2025",
+                                                       "Duration":  "17",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "CSD Lab CC1"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "Design with AI",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Institute",
+                                                       "Start Date":  "24-08-2025",
+                                                       "End Date":  "29-09-2025",
+                                                       "Duration":  "30 hours",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "IT park"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Training Program",
+                                                       "Title of the program":  "Advanced Java Full stack",
+                                                       "Level":  "State",
+                                                       "Organized by":  "WIPRO",
+                                                       "Place":  "Chennai",
+                                                       "Start Date":  "04-05-2026",
+                                                       "End Date":  "15-05-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Mastering Devops",
+                                                       "Level":  "State",
+                                                       "Organized by":  "HCL guvi",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "19-01-2026",
+                                                       "End Date":  "24-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "Kongu Engineering College",
+                                                       "Start Date":  "15-12-2025",
+                                                       "End Date":  "20-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Others",
+                                                       "Title of the program":  "Artificial Intelligence and Machine Learning",
+                                                       "Level":  "State",
+                                                       "Organized by":  "Wipro",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "13-10-2025",
+                                                       "End Date":  "20-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Accreditation and Outcome Based Learning",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL swayam",
+                                                       "Place":  "",
+                                                       "Start Date":  "04-08-2025",
+                                                       "End Date":  "30-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Advanced Technology Program on AI \u0026 ML",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Wipro",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "21-04-2025",
+                                                       "End Date":  "25-04-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "(ATAL) Faculty Development Program on Metaverse in Digital Health care: New Frontiers and Design Thinking",
+                                                       "Level":  "National",
+                                                       "Organized by":  "DR N.G.P.INSTITUTE OF TECHNOLOGY",
+                                                       "Place":  "CBE",
+                                                       "Start Date":  "17-02-2025",
+                                                       "End Date":  "22-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Devops",
+                                                       "Level":  "National",
+                                                       "Organized by":  "GUVI  Geek Network Private Limited and HCL",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "25-11-2024",
+                                                       "End Date":  "29-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Evolving Landscapes of Data Science - Current  Trends nd Pattern",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Hindusthan College of  Arts and Science , CBE",
+                                                       "Place":  "",
+                                                       "Start Date":  "23-09-2024",
+                                                       "End Date":  "27-09-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Teaching and Learning in General Programs: TALG",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL-AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "15-07-2024",
+                                                       "End Date":  "17-08-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Wipro Cerified Faculty Program -  Java Full stack",
+                                                       "Level":  "National",
+                                                       "Organized by":  "WIPRO",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "13-05-2024",
+                                                       "End Date":  "31-05-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "Computer Society of India",
+                                                       "Position":  "Life Member (Associate)",
+                                                       "Level":  "National",
+                                                       "Start Date":  "16-03-2011",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Optimized Hybrid Stacking Approach for Depression Detection in College Students",
+                                                       "Title of Conference":  "2026 6th International Conference on Multimedia, Signal Processing and Communication Technologies (IMPACT)",
+                                                       "Organized by":  "IEEE",
+                                                       "Level":  "International",
+                                                       "Start Date":  "14-02-2026",
+                                                       "End Date":  "15-02-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Artificial Intelligent based Self Driving Cars for the Senior Citizens",
+                                                       "Title of Conference":  "Interntational Conferenc e on Inventive Material Science and Applications (ICIMA)",
+                                                       "Organized by":  "Akshaya College of Engineering and Technology, Coimbatore, Tamil Nadu, India   and Diligentec Solutions, Coimbatore, India",
+                                                       "Level":  "International",
+                                                       "Start Date":  "28-05-2025",
+                                                       "End Date":  "30-05-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "ENHANCING IMAGE QUALITY THROUGH PHOTON BASED GENERATIVE DENOISING WITH HYPER PARAMETER TUNING",
+                                                       "Title of Conference":  "Third International Conference on Artificial Intelligence and Machine :Learning Applications",
+                                                       "Organized by":  "KSRCT, Tiruchengode",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-04-2025",
+                                                       "End Date":  "30-04-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Enhancing Image Quality Through Photon Based Generative Denoising with Hyper Parameter Tuning",
+                                                       "Title of Conference":  "2025 3rd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things",
+                                                       "Organized by":  "KSR College of Technology, Tiruchengode",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-04-2025",
+                                                       "End Date":  "30-04-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Dark Patterns Detection and Classification Using Machine Learning Techniques",
+                                                       "Title of Conference":  "2024 First International Conference on Data, Computation and Communication (ICDCC)",
+                                                       "Organized by":  "VIT Bhopal",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-11-2024",
+                                                       "End Date":  "30-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "A Comparative Analysis of Machine Learning Algorithms",
+                                                       "Title of Conference":  "International Conference on Data, Computation and Communication (ICDCC - 2024)",
+                                                       "Organized by":  "VIT Bhopal",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-11-2024",
+                                                       "End Date":  "30-11-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Classification and Summarization of News Article using Rank SVM and Fuzzy Logic",
+                                                       "Title of Conference":  "Hinweis Second International Conference on Advanced Research in Engineering and Technology- ARET",
+                                                       "Organized by":  "Hinweis Research",
+                                                       "Level":  "International",
+                                                       "Start Date":  "23-02-2024",
+                                                       "End Date":  "24-02-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "LLVM and Code Generation : Unlocking Performance in Modern Compilers",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "Inter-Collegiate",
+                                                       "Organized by":  "Excel EngineeringCollege",
+                                                       "Start Date":  "06-03-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Giancarlo Storti Gajani Politecnico di Milano, Italy",
+                                                       "Start Date":  "24-02-2026",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "16th International IEEE Conferenc on Computing, Communication and Networking Technologies (ICCCNT)",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT Indore Madhya Pradesh",
+                                                       "Start Date":  "06-07-2025",
+                                                       "End Date":  "11-07-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "16th International IEEE conferencE  on Computing, Communication and Networking Technologies (ICCCNT)",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT Indore , Madhya Pradesh",
+                                                       "Start Date":  "06-07-2025",
+                                                       "End Date":  "11-07-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "IEEE sponsored International Conference on Data Science and Business Systems",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "SRM University - KTR Campus",
+                                                       "Start Date":  "17-04-2025",
+                                                       "End Date":  "18-04-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Hackathon 25",
+                                                       "Role":  "Jury/Judge",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Nandha Engineering College",
+                                                       "Start Date":  "26-03-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "ICECET 2024",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IEEE",
+                                                       "Start Date":  "25-07-2024",
+                                                       "End Date":  "27-07-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "15th ICCCNT 2024",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT Mandi Himachala Pradesh",
+                                                       "Start Date":  "24-06-2024",
+                                                       "End Date":  "28-06-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.PCD.KALAIVAANI",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "15th ICCCNT 2024",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "International",
+                                                       "Organized by":  "IIT Mandi",
+                                                       "Start Date":  "24-06-2024",
+                                                       "End Date":  "28-06-2024"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

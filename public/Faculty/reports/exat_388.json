@@ -1,0 +1,685 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Designation":  "ASSISTANT PROFESSOR",
+                                                       "Area of Specialisation":  "Structural Engineering, Concrete Structure design, Estimation and Quantity surveying, Surveying",
+                                                       "Date of joining in KEC":  "01-06-2015",
+                                                       "Mobile":  "8056554879",
+                                                       "E-mail":  "navaneethan.kec@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "M.E",
+                                                       "Specialization":  "Structural Engineering",
+                                                       "From":  "01-08-2012"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "B.E",
+                                                       "Specialization":  "CIVIL",
+                                                       "From":  "01-07-2008"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2015",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Solid Fuel Chemistry",
+                                                       "Level":  "International",
+                                                       "Title":  "Energy Harvesting from Agro Biomass\nin the Form of Solid Briquettes\nand Its Combustion Characteristics: A Review",
+                                                       "Volume No":  "60",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2026",
+                                                       "Date":  "15-02-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "aip conference proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Transforming medical-glass waste into sustainable concrete\nmixtures",
+                                                       "Volume No":  "3298",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "09-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "aip conference proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Experimental investigation of fly ash-based geopolymers as\nan alternative to ordinary portland cement",
+                                                       "Volume No":  "3298",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "09-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Revista Matéria (Rio de Janeiro)",
+                                                       "Level":  "International",
+                                                       "Title":  "Enhancing flexural capacity and crack resistance of two-span continuous beams with engineered cementitious composite (ECC) under static loading conditions",
+                                                       "Volume No":  "30",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "10-02-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Proceedings of the International Conference on Eco-friendly Fibers and Polymeric Materials",
+                                                       "Level":  "International",
+                                                       "Title":  "Experimental Study on Mechanical Properties of Concrete Using Wood Waste and Silica Fume",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "27-11-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Proceedings of the International Conference on Eco-friendly Fibers and Polymeric Materials",
+                                                       "Level":  "International",
+                                                       "Title":  "Analysis of Side Wall Crack Arrester in Buildings Using Polymeric Nanocomposites",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "27-11-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Proceedings of the International Conference on Eco-friendly Fibers and Polymeric Materials",
+                                                       "Level":  "International",
+                                                       "Title":  "The Effect of Wood Incorporation on Concrete Mechanical Integrity and Structural Resilience: A Practical Investigation",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "27-11-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Environmental Science and Pollution Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigating the influence of various metakaolin combinations with different proportions of pond ash and Alccofine 1203 on ternary blended geopolymer concrete at ambient curing",
+                                                       "Volume No":  "31",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "26-10-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Revista Matéria (Rio de Janeiro)",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigating the structural integrity of glass fiber reinforced polymer (GFRP) composite-striated reinforced concrete beams",
+                                                       "Volume No":  "29",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2024",
+                                                       "Date":  "30-09-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Ceramic Processing Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Production and characteristic analysis of thick solid biomass fuel from the waste of watermelon-muskmelon using ceramic powder and cassava starch as binder – ceramics in energy application",
+                                                       "Volume No":  "25",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2024",
+                                                       "Date":  "10-07-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "J. Environ. Nanotechnol",
+                                                       "Level":  "International",
+                                                       "Title":  "Strength Characteristics of Bentonite Nano Clay Stabilized with Addition of Lime, Fly Ash, and Silica Fume for Soil Environmental Sustainability",
+                                                       "Volume No":  "13",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2024",
+                                                       "Date":  "30-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "J. Environ. Nanotechnol",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigation on Reinforced Concrete Beams with High-Strength FRP Composite",
+                                                       "Volume No":  "13",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2024",
+                                                       "Date":  "30-06-2024",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Selvaraj S, Namakkal",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party inspection",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "25-02-2025",
+                                                       "Date of Consultancy (To)":  "25-02-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Valar \u0026 co",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party Inspection",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "24-10-2024",
+                                                       "Date of Consultancy (To)":  "24-10-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "16000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Insta innovator, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party inspection",
+                                                       "Number of persons involved":  "4",
+                                                       "Date of Consultancy (From)":  "08-10-2024",
+                                                       "Date of Consultancy (To)":  "08-10-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Logu Construction",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third Party Inspection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "19-09-2024",
+                                                       "Date of Consultancy (To)":  "19-09-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "K.Palanisamy, Vellakovil",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party inspection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "16-09-2024",
+                                                       "Date of Consultancy (To)":  "16-09-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "20000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Dream home developer, Tirupur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "28-08-2024",
+                                                       "Date of Consultancy (To)":  "28-08-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "Divyadharshini and co",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Third party inspection",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "19-08-2024",
+                                                       "Date of Consultancy (To)":  "19-08-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "40000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "M.Rajkumar, Erode",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "NDT - Ultra sonic pulse velocity",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "06-08-2024",
+                                                       "Date of Consultancy (To)":  "06-08-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "45000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "The Great Indian textile and lenin infrastructure company, tirupur",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "NDT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "22-07-2024",
+                                                       "Date of Consultancy (To)":  "22-07-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "15000"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.S.NAVANEETHAN",
+                                                       "Department":  "CER",
+                                                       "Name of the Professional Body/Society":  "Institute of Engineering India (IEI)",
+                                                       "Position":  "Associate Member",
+                                                       "Level":  "National",
+                                                       "Start Date":  "03-09-2016",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

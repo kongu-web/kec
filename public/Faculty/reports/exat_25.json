@@ -1,0 +1,772 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSISTANT PROFESSOR",
+                                                       "Area of Specialisation":  "THEORY OF COMPUTATION , DEEP LEARNING",
+                                                       "Date of joining in KEC":  "13-07-2022",
+                                                       "Mobile":  "09952561965",
+                                                       "E-mail":  "sureshkumar.cse@kongu.edu"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "CSE (SE)",
+                                                       "From":  "01-06-2010"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "B.E",
+                                                       "Specialization":  "CSE",
+                                                       "From":  "02-05-2006"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "13-07-2022",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "Vivekanandha College of Engineering for Women",
+                                                       "Position/Designation":  "AP",
+                                                       "Start Date":  "20-09-2021",
+                                                       "End Date":  "02-07-2022",
+                                                       "Duration":  ".9",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-K.SURESH_KUMAR-eebc0dc3-3640-443b-a8c4-9f4a8f36da01.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121011Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=71c5abceab72fe51639a5d95d49a67b5031a6fee7e7fc98ff8b79cde8d61730b",
+                                                                                            "name":  "vcew reliewing order (1).pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "vDHZRdHgA7NgF3vTB",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "VSB Engineering College",
+                                                       "Position/Designation":  "AP",
+                                                       "Start Date":  "16-07-2012",
+                                                       "End Date":  "30-04-2021",
+                                                       "Duration":  "9",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-K.SURESH_KUMAR-6869dfa3-adc9-417f-9e1b-ae46f3b1cff9.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121011Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=449404def47ef4095ce8d1ed46ded29e4c1b1718134e6d659a0ce334b136607f",
+                                                                                            "name":  "VSB suresh appointment order.pdf",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "SEdLqmri8sBM4voQz",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "SIH FINALIST",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "Ministry of Education\u0027s Innovation Cell and AICTE",
+                                                       "Place":  "",
+                                                       "Date":  "08-12-2025"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Network: Computations in neural systems",
+                                                       "Level":  "International",
+                                                       "Title":  "Kruskal Szekeres Generative Adversarial Network Augmented Deep Autoencoder For Colorectal Cancer Detection",
+                                                       "Volume No":  "37",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2026",
+                                                       "Date":  "20-01-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2025 4th OPJU International Technology Conference (OTCON) on Smart Computing for Innovation and Advancement in Industry 5.0",
+                                                       "Level":  "International",
+                                                       "Title":  "Detection of Glaucoma Using A CNN-Based Hybrid Model with Color Fundus Images",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "14-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Grenze International Journal of Engineering and Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "A Generative Adversarial Network for Intelligent Emoji\nPrediction",
+                                                       "Volume No":  "11",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2025",
+                                                       "Date":  "01-06-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2025 3rd International Conference on Data Science and Information System (ICDSIS)",
+                                                       "Level":  "International",
+                                                       "Title":  "Multi-Objective Genetic Algorithm Optimised Convolutional Neural Networks for Improved Pancreatic Cancer Detection",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "16-05-2025",
+                                                       "Published at":  "IEEE"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)",
+                                                       "Level":  "International",
+                                                       "Title":  "Machine Learning Approach for Mitigating Security Threats in IoT Environment",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "28-08-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "2022 3rd International Conference on Communication, Computing and Industry 4.0 (C2I4)",
+                                                       "Level":  "International",
+                                                       "Title":  "IoT Based Accident Investigation and Rescue System",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "15-12-2022",
+                                                       "Published at":  "IEEE Xplore"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Applied  Science and  Computations",
+                                                       "Level":  "International",
+                                                       "Title":  "DISSN - Upgrading Drip Irrigation System using Sensor Network",
+                                                       "Volume No":  "5",
+                                                       "Issue No":  "12",
+                                                       "Year":  "2018",
+                                                       "Date":  "12-12-2018",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "THENU STYLE STUDIO",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "WEB DEVELOPMENT",
+                                                       "Number of persons involved":  "3",
+                                                       "Date of Consultancy (From)":  "18-02-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "16500"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Raji Rani Relax bar",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "WEB DEVELOPMENT",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "21-01-2025",
+                                                       "Date of Consultancy (To)":  "13-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "23500"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+                                                       "Level":  "State",
+                                                       "Organized by":  "DEPT OF IT ,KEC",
+                                                       "Place":  "IT DEPARTMENT",
+                                                       "Start Date":  "06-04-2026",
+                                                       "End Date":  "11-04-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Next GEN AI advancing from NLP basics to intelligent agents",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "Dept of AI",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "22-12-2025",
+                                                       "End Date":  "27-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "EDGE AI IN ACTION INDUSTRAIL APPLICATIONS AND RESEARCH CHALLANGES",
+                                                       "Level":  "State",
+                                                       "Organized by":  "PSG CARE",
+                                                       "Place":  "CBE",
+                                                       "Start Date":  "23-10-2025",
+                                                       "End Date":  "25-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "CODETANTRA C PROGRAMMING TRAINING",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "KEC",
+                                                       "Start Date":  "25-07-2025",
+                                                       "End Date":  "06-08-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "DEVOPS",
+                                                       "Level":  "National",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "PERUNDURAI",
+                                                       "Start Date":  "25-11-2024",
+                                                       "End Date":  "29-05-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "ML and DL Recent trends and applications",
+                                                       "Level":  "National",
+                                                       "Organized by":  "GCT coimbatore",
+                                                       "Place":  "Coimbatore",
+                                                       "Start Date":  "19-08-2024",
+                                                       "End Date":  "23-08-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Fundamentals of Machine Learning and Deep Learning",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NITTTR",
+                                                       "Place":  "KOLKATA",
+                                                       "Start Date":  "25-09-2023",
+                                                       "End Date":  "29-09-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Cracking AI with ML algorithms",
+                                                       "Level":  "Others",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "KEC PERUNDURAI",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  "14-09-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Data Analytics using SPSS",
+                                                       "Level":  "Online",
+                                                       "Organized by":  "NITTTR",
+                                                       "Place":  "KOLKATA",
+                                                       "Start Date":  "25-07-2022",
+                                                       "End Date":  "05-08-2022"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "CSI",
+                                                       "Position":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "17-11-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "ISTE",
+                                                       "Position":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "24-07-2012",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Multi-Objective Genetic Algorithm Optimised Convolutional Neural Networks for Improved Pancreatic Cancer Detection",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "Department of Information Science and Engineering Malnad College of Engineering, Hassan",
+                                                       "Level":  "International",
+                                                       "Start Date":  "16-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Detection of Glaucoma Using A CNN-Based Hybrid Model with Color Fundus Images",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "JINDAL UNIVERSITY",
+                                                       "Level":  "International",
+                                                       "Start Date":  "09-04-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Machine Learning Approach for Mitigating Security Threats in IoT Environment",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "03-08-2023",
+                                                       "End Date":  "05-08-2023"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "IoT Based Accident Investigation and Rescue System",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "15-12-2022",
+                                                       "End Date":  "16-12-2022"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Automated water  Distribution System in  Metro’s using IOT",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "02-04-2019",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Title of Paper":  "Dissn-Upgrading Drip  Irrigation System Using  Sensor Network",
+                                                       "Title of Conference":  "",
+                                                       "Organized by":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "01-12-2018",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "K.SURESH KUMAR",
+                                                       "Department":  "CSR",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "A COMPUTER-IMPLEMENTED METHOD AND SYSTEM FOR CONTINUOUS LEARNING AND OPTIMIZATION USING HYBRID SUPERVISED, UNSUPERVISED, AND REINFORCEMENT LEARNING MODELS",
+                                                       "Name of Application":  "Dr. C.N. VANITHA",
+                                                       "Co-inventors Name":  "K.SURESH KUMAR",
+                                                       "Application Number":  "202641010324 A",
+                                                       "Date of Registration":  "31-01-2026",
+                                                       "Application Status":  "Published",
+                                                       "Granted Date":  "",
+                                                       "Published Date":  "13-02-2026"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

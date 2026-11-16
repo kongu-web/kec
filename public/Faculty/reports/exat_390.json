@@ -1,0 +1,1597 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "PhD",
+                                                       "Specialization":  "Civil Engineering",
+                                                       "From":  "03-07-2017"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "GEOTECHNICAL ENGINEERING",
+                                                       "From":  "05-09-2012"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Academic Degree":  "BE",
+                                                       "Specialization":  "CIVIL ENGINEERING",
+                                                       "From":  "23-06-2008"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-08-2025",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-06-2015",
+                                                       "End Date":  "31-07-2025",
+                                                       "Contribution to the Institute":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "Sri Krishna College of Engineering and Technology, Coimbatore",
+                                                       "Position/Designation":  "Assistant Professor",
+                                                       "Start Date":  "18-06-2014",
+                                                       "End Date":  "15-05-2015",
+                                                       "Duration":  "",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CER-DR.S.VINODHKUMAR-d7a8c6ae-4469-45aa-a92c-90b157da9bf5.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T112203Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=91dd35d2f63d41bab68eac7c35b19c9c5ba764e12b9d98243bbbc8090b6694aa",
+                                                                                            "name":  "SERVICE CERT.jpeg",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "WHZpBYS9p839cHJyK",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+                                                                                             {
+                                                                                                 "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CER-DR.S.VINODHKUMAR-56ebeeda-8c2a-4099-ade7-e2ae9e0a82bb.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T112203Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=719862dae20d2251f0df6c276ac0dafc45008f55cace61f3d97c48b137ecb122",
+                                                                                                 "name":  "SERVICE CERT.jpeg",
+                                                                                                 "totalRecords":  null,
+                                                                                                 "resourceId":  "6wxvPnXZKySESuLmF",
+                                                                                                 "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                             }
+                                                                                         ]
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of Award/Achievement":  "Awarded with “Certificate of Reorganisation” for publishing in Q1 journals from Anna University, Chennai on 31.07.2024",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "Anna University",
+                                                       "Place":  "",
+                                                       "Date":  "31-07-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of Award/Achievement":  "Received “Seermigu Engineer Award” from The Hindu (Tamil) for outstanding research category on 07.12.2023",
+                                                       "Level":  "National",
+                                                       "Awarded by":  "",
+                                                       "Place":  "",
+                                                       "Date":  "07-12-2023"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Emergent Materials",
+                                                       "Level":  "International",
+                                                       "Title":  "Sustainable mortar design: optimizing performance with bamboo fiber and coal bottom ash using Taguchi and ANN",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "23-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Taibah University for Science",
+                                                       "Level":  "International",
+                                                       "Title":  "Incorporation of furnace treated alum and textile sludge in concrete: strength, durability and environmental impact",
+                                                       "Volume No":  "19",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "18-07-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Environmental Science and Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Utilisation of magnesite mine tailings as sustainable structural fill material: a novel approach to mitigate environmental impact",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2025",
+                                                       "Date":  "08-05-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Environmental Science and Pollution Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Characterisation of magnesite mine tailings as a construction material",
+                                                       "Volume No":  "28",
+                                                       "Issue No":  "33",
+                                                       "Year":  "2021",
+                                                       "Date":  "18-04-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP CONFERENCE PROCEDDINGS",
+                                                       "Level":  "International",
+                                                       "Title":  "Machine learning techniques for estimating compressive strength of high-performance concrete - A comparative study",
+                                                       "Volume No":  "3231",
+                                                       "Issue No":  "060005",
+                                                       "Year":  "2024",
+                                                       "Date":  "30-12-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Taibah University for Science,",
+                                                       "Level":  "International",
+                                                       "Title":  "Sustainable Reuse of Magnesite Mine Tailings in Cement-Treated Expansive Soil for Enhanced Subgrade Performance: Geotechnical and Environmental Analysis",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "23-08-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Engineering and Applied Science",
+                                                       "Level":  "International",
+                                                       "Title":  "Utilization of waste face masks to reinforce magnesite mine tailings for sustainable subgrade construction",
+                                                       "Volume No":  "71",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2024",
+                                                       "Date":  "15-03-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Engineering and Applied Science",
+                                                       "Level":  "International",
+                                                       "Title":  "A reliability-based mechanical-empirical design method for flexible pavements containing cement-treated magnesite mine tailings as subgrade",
+                                                       "Volume No":  "71",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2024",
+                                                       "Date":  "04-03-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Environmental Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Sustainable Reuse of Shredded Face Mask in Biopolymer Treated Expansive Soil",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2024",
+                                                       "Date":  "17-02-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Global NEST",
+                                                       "Level":  "International",
+                                                       "Title":  "Eco-friendly soil stabilization: a combined approach using lime and waste eggshell powder",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "18-08-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Construction and Building Materials",
+                                                       "Level":  "International",
+                                                       "Title":  "Application of cement treated magnesite mine tailings as subgrade",
+                                                       "Volume No":  "365",
+                                                       "Issue No":  "",
+                                                       "Year":  "2023",
+                                                       "Date":  "01-02-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IOP Conference Series: Materials Science and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Strength characteristics of banana and sisal fiber reinforced composites",
+                                                       "Volume No":  "1055",
+                                                       "Issue No":  "",
+                                                       "Year":  "2021",
+                                                       "Date":  "15-12-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IOP Conference Series: Materials Science and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Strength Behaviour of Clay Soil Stabilized with Lime",
+                                                       "Volume No":  "961",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2020",
+                                                       "Date":  "18-07-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Conference Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Experimental study of load settlement behaviour of circular footing rested over M-sand",
+                                                       "Volume No":  "2240",
+                                                       "Issue No":  "",
+                                                       "Year":  "2020",
+                                                       "Date":  "22-05-2020",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Recent Technology and Engineering (IJRTE)",
+                                                       "Level":  "International",
+                                                       "Title":  "Applications and Performance of Geogrids in Structures.",
+                                                       "Volume No":  "8",
+                                                       "Issue No":  "4",
+                                                       "Year":  "2019",
+                                                       "Date":  "30-11-2019",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Recent Technology and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Dredged soil improvement by electro osmosis",
+                                                       "Volume No":  "8",
+                                                       "Issue No":  "3",
+                                                       "Year":  "2019",
+                                                       "Date":  "30-09-2019",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "LAP LAMBERT Academic publishing",
+                                                       "Level":  "International",
+                                                       "Title":  "HANDBOOK ON PREPARATION OF BLACK COTTON SOIL\nSUBGRADE USING STEEL SLAG",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2018",
+                                                       "Date":  "28-11-2018",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Advanced Research in Dynamical and Control Systems",
+                                                       "Level":  "International",
+                                                       "Title":  "Stability analysis of slope: A support vector machine approach",
+                                                       "Volume No":  "10",
+                                                       "Issue No":  "12",
+                                                       "Year":  "2018",
+                                                       "Date":  "21-08-2018",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "LAP Lambert Academic Publishing",
+                                                       "Level":  "International",
+                                                       "Title":  "Edge based Active Contour Model for Semi-transparent Images",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2018",
+                                                       "Date":  "20-06-2018",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Asian Journal of Engineering and Applied Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Study of Black Cotton Soil Characteristics with Molasses",
+                                                       "Volume No":  "7",
+                                                       "Issue No":  "S1",
+                                                       "Year":  "2018",
+                                                       "Date":  "09-04-2018",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International journal of engineering and technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Development of Support Vector Machine Model to Predict Stability of Slopes Based on Bound Theorems",
+                                                       "Volume No":  "9",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2017",
+                                                       "Date":  "03-04-2017",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Advance Civil Engineering and Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Study on Properties of SCC with Partial Replacement of Cement\nby GGBFS and Fly Ash",
+                                                       "Volume No":  "1",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2016",
+                                                       "Date":  "12-10-2016",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Research in Advanced Technology",
+                                                       "Level":  "International",
+                                                       "Title":  "Index and Chemical Properties of Black Cotton Soil Blended with Flyash",
+                                                       "Volume No":  "1",
+                                                       "Issue No":  "6",
+                                                       "Year":  "2017",
+                                                       "Date":  "01-07-2016",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "National Conference on Recent Advancements in Geotechnical Engineering",
+                                                       "Level":  "National",
+                                                       "Title":  "Performance Analysis of Geogrid Encased Stone Column in Soft Clay",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2016",
+                                                       "Date":  "06-05-2016",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Proceedings",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "National Conference on Recent Advancements in Geotechnical Engineering",
+                                                       "Level":  "National",
+                                                       "Title":  "Support Vector Machine Applied to Stability Analysis of Slopes Based on Limit Equilibrium Analysis",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2016",
+                                                       "Date":  "06-05-2016",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Earth Sciences and Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Artificial neural network modelling and economic analysis of black cotton soil subgrade stabilized with flyash and geotextile’",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2016",
+                                                       "Date":  "04-05-2016",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "List enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2025",
+                                                       "Date of Consultancy (To)":  "01-10-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "120800"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "LIST ENCLOSED",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "GEOTECHNICAL",
+                                                       "Number of persons involved":  "LIST ENCLOSED",
+                                                       "Date of Consultancy (From)":  "01-06-2024",
+                                                       "Date of Consultancy (To)":  "31-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "196667"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed`",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "List enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2023",
+                                                       "Date of Consultancy (To)":  "31-05-2024",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "455780"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "list enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "list enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2022",
+                                                       "Date of Consultancy (To)":  "31-05-2023",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "280420"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "list enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2021",
+                                                       "Date of Consultancy (To)":  "31-05-2022",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "242650"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "List enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2020",
+                                                       "Date of Consultancy (To)":  "31-05-2021",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "190500"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "List enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2019",
+                                                       "Date of Consultancy (To)":  "31-05-2020",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "84000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Industry/Organization":  "List enclosed",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "",
+                                                       "Number of persons involved":  "List enclosed",
+                                                       "Date of Consultancy (From)":  "01-06-2018",
+                                                       "Date of Consultancy (To)":  "31-05-2019",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "36500"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "One Credit course on 22VC118 - AVEVA E3D DESIGN FUNDAMENTALS AND ADVANCED MODELLING",
+                                                       "Collaboration/Sponsored by":  "Dynamic CAD, Chennai",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "15-09-2025",
+                                                       "End Date":  "20-09-2025",
+                                                       "Duration":  "40",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "Mini Project",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "29-07-2024",
+                                                       "End Date":  "18-11-2025",
+                                                       "Duration":  "90",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "FDP",
+                                                       "Name of Event":  "Faculty Development Programmeon“Advancements in Transportation andGeotechnics for Future Infrastructure”",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "01-04-2024",
+                                                       "End Date":  "06-04-2024",
+                                                       "Duration":  "6",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "20VC055 BUILDING SERVICES",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "12-09-2022",
+                                                       "End Date":  "11-11-2022",
+                                                       "Duration":  "30",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "18VAC36 Building Services",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "12-09-2022",
+                                                       "End Date":  "11-11-2022",
+                                                       "Duration":  "30",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "Two credit course on Building services",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "22-03-2022",
+                                                       "End Date":  "30-04-2022",
+                                                       "Duration":  "30",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "One credit course on wind load analysis of structures",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "22-03-2022",
+                                                       "End Date":  "20-04-2022",
+                                                       "Duration":  "30",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Credit Courses",
+                                                       "Name of Event":  "One credit course on wind load analysis of structure",
+                                                       "Collaboration/Sponsored by":  "",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "15-03-2021",
+                                                       "End Date":  "23-04-2021",
+                                                       "Duration":  "30",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Geotechnical Investigations and Foundation Design",
+                                                       "Collaboration/Sponsored by":  "IGS Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "17-09-2019",
+                                                       "End Date":  "",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Ground Improvement Techniques for Infrastructure Developement",
+                                                       "Collaboration/Sponsored by":  "IGS Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "01-04-2019",
+                                                       "End Date":  "",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Vaastu Shastra in Design Application",
+                                                       "Collaboration/Sponsored by":  "IGS Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "20-08-2018",
+                                                       "End Date":  "",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "GEOTECHNICAL ASPECTS OF EARTHQUAKE RESISTANT STRUCTURES",
+                                                       "Collaboration/Sponsored by":  "IGS Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "14-02-2018",
+                                                       "End Date":  "",
+                                                       "Duration":  "1",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "Civil Engineer\u0027s Challanges in Geotechnical Investigation and Foundation Design",
+                                                       "Collaboration/Sponsored by":  "IGS Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "18-08-2017",
+                                                       "End Date":  "22-10-2025",
+                                                       "Duration":  "01",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Product Design Engineering using Fusion",
+                                                       "Level":  "National",
+                                                       "Organized by":  "ICT Academy",
+                                                       "Place":  "",
+                                                       "Start Date":  "28-07-2025",
+                                                       "End Date":  "01-08-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "AICTE Training and Learning (ATAL) Academy - Disaster Risk Management Analysis and Mitigation",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "17-02-2025",
+                                                       "End Date":  "22-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "AI applications and recent advancements in Civil Engineering",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "05-02-2025",
+                                                       "End Date":  "09-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "Application of Multi Model GeoStudio software",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NITW",
+                                                       "Place":  "",
+                                                       "Start Date":  "07-01-2025",
+                                                       "End Date":  "11-01-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Faculty Development Program on “Advancements in Transportation and Geotechnics for Future Infrastructure”",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-04-2024",
+                                                       "End Date":  "06-04-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module – 7: Creative Problem Solving, Innovation and Meaningful Research \u0026 Development",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module 8:Institutional Management and Administrative Procedures",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module – 5: Technology Enabled Learning and Lifelong Self-Learning",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module – 6: Student Assessment and Evaluation",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module – 2: Professional Ethics and Sustainability",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Module – 3: Communication skills, Modes and Knowledge Dissemination",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTR Module – 4: Instructional Planning and Delivery",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-09-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "NITTTR Module – 1: Orientation Towards Technical Education \u0026 Curriculum Aspects",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-02-2021",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Indo-Canadian Workshop on “Interactive Design in Geotechnical Engineering: Theory to Practice",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "24-09-2020",
+                                                       "End Date":  "02-10-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "APPLICATIONS OF REMOTE SENSING IN SOIL AND GROUNDWATER CONTAMINATION ASSESSMENT",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "07-09-2020",
+                                                       "End Date":  "12-09-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Webinar",
+                                                       "Title of the program":  "APPLICATION OF FIBRE REINFORCED POLYMER COMPOSITES IN CIVIL ENGINEERING",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "26-05-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Others",
+                                                       "Title of the program":  "Civil Engineering Quiz-2020",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "14-05-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Introduction to Soft Skills",
+                                                       "Level":  "National",
+                                                       "Organized by":  "TCS",
+                                                       "Place":  "",
+                                                       "Start Date":  "08-05-2020",
+                                                       "End Date":  "14-05-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "GEOSPATIAL APPLICATIONS FOR DISASTER RISK MANAGEMENT",
+                                                       "Level":  "International",
+                                                       "Organized by":  "ISRO",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-04-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Living your purpose",
+                                                       "Level":  "National",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "",
+                                                       "Start Date":  "01-12-2018",
+                                                       "End Date":  "03-12-2018"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "GEOTECHNICAL ENGINEERING ASPECTS IN DEEP EXCAVATIONS AND FOUNDATIONS",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Bannari Amman Institute of Technology",
+                                                       "Place":  "",
+                                                       "Start Date":  "19-07-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "GREEN TECHNOLOGY FOR SUSTAINABLE DEVELOPMENT",
+                                                       "Level":  "National",
+                                                       "Organized by":  "DST SERB, skcet",
+                                                       "Place":  "",
+                                                       "Start Date":  "19-01-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Seminar",
+                                                       "Title of the program":  "GEOTECHNICS FOR INFRASTURES",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Amrita Vishwa Vidyapeetham, Coimbatore",
+                                                       "Place":  "",
+                                                       "Start Date":  "03-01-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "FOUNDATION ENGINEERING",
+                                                       "Level":  "National",
+                                                       "Organized by":  "",
+                                                       "Place":  "",
+                                                       "Start Date":  "29-09-2016",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "GEOTECHNCIAL INVESTIGATIONS AND PRACTICES",
+                                                       "Level":  "National",
+                                                       "Organized by":  "AICTE",
+                                                       "Place":  "",
+                                                       "Start Date":  "02-05-2016",
+                                                       "End Date":  "08-05-2016"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Select Programme":  "STTP",
+                                                       "Title of the program":  "INTRODUCTION TO STRUCTURAL ENGINEERING",
+                                                       "Level":  "National",
+                                                       "Organized by":  "IITK",
+                                                       "Place":  "",
+                                                       "Start Date":  "30-11-2015",
+                                                       "End Date":  "03-01-2016"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Professional Body/Society":  "International Association of Engineers",
+                                                       "Position":  "",
+                                                       "Level":  "International",
+                                                       "Start Date":  "11-09-2017",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Name of the Professional Body/Society":  "Indian Geotechnical Society",
+                                                       "Position":  "Life Member",
+                                                       "Level":  "State",
+                                                       "Start Date":  "03-03-2014",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of Paper":  "Machine Learning Techniques for Estimating Compressive Strength of High- Performance Concrete - A Comparative Study",
+                                                       "Title of Conference":  "Fifth International Conference on Recent Advances in Materials  and Manufacturing (ICRAMM 2023)",
+                                                       "Organized by":  "Department of Mechanical Engineering, Velalar College of Engineering and Technology, Erode, Tamil Nadu, India",
+                                                       "Level":  "International",
+                                                       "Start Date":  "29-12-2024",
+                                                       "End Date":  "30-12-2024"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of Paper":  "Performance Analysis of Geogrid Encased Stone Column in Soft Clay",
+                                                       "Title of Conference":  "National Conference on Recent Advancements in Geotechnical Engineering",
+                                                       "Organized by":  "GCT, Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "06-05-2016",
+                                                       "End Date":  "06-05-2016"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of Paper":  "Support Vector Machine Applied to Stability Analysis of Slopes Based on Limit Equilibrium Analysis",
+                                                       "Title of Conference":  "National Conference on Recent Advancements in Geotechnical Engineering",
+                                                       "Organized by":  "GCT, Coimbatore",
+                                                       "Level":  "National",
+                                                       "Start Date":  "06-05-2016",
+                                                       "End Date":  "06-05-2016"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Type of Patent":  "Indian",
+                                                       "Title of the Patent":  "Brick Moulding Machine",
+                                                       "Name of Application":  "",
+                                                       "Co-inventors Name":  "M. Arun Kumar, P. Kulanthaivel, S. Vinodhkumar, P. Ravichandran, T.S. Mukesh, A.R. Krishnaraja, A. Siva Kumar, V. Naveen Raj, K. Sampathkumar",
+                                                       "Application Number":  "381983-001",
+                                                       "Date of Registration":  "15-09-2022",
+                                                       "Application Status":  "Granted",
+                                                       "Granted Date":  "21-03-2023",
+                                                       "Published Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Discover Geoscience",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "21-10-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "SCIENTIFIC REPORTS",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "20-10-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Scientific Reports",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "08-10-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Waste and Biomass Valorization (WAVE",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "24-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Scientific Reports",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "17-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Scientific Reports",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "07-05-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "RECENT PATENTS ON ENGINEERING",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "19-04-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "12th National Conference on Innovations in Civil Engineering",
+                                                       "Role":  "Keynote Address",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Karpagam Academy of Higher Education Coimbatore.",
+                                                       "Start Date":  "14-03-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "International Journal of Pavement Research and Technology",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "10-10-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "Journal of Engineering Research and Reports",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "13-07-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "GLOBAL NEST",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "28-03-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "GLOBAL NEST",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "11-03-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "GLOBAL NEST journal",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "21-02-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.S.VINODHKUMAR",
+                                                       "Department":  "CER",
+                                                       "Title of the Program":  "GLOBAL NEST journal",
+                                                       "Role":  "Editor/Reviewer",
+                                                       "Level":  "International",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "26-08-2023",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Department":  "CER",
+                                                       "Name of Supervisor":  "DR.S.VINODHKUMAR",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Vijay Sankar K",
+                                                       "Date of Registration":  "03-07-2023",
+                                                       "Registration No:":  "23141697145",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CER",
+                                                       "Name of Supervisor":  "DR.S.VINODHKUMAR",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Nandhini U",
+                                                       "Date of Registration":  "03-07-2023",
+                                                       "Registration No:":  "23241697142",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CER",
+                                                       "Name of Supervisor":  "DR.S.VINODHKUMAR",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Indhumathi",
+                                                       "Date of Registration":  "03-07-2023",
+                                                       "Registration No:":  "23231697128",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Full time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CER",
+                                                       "Name of Supervisor":  "DR.S.VINODHKUMAR",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Ramsundhar",
+                                                       "Date of Registration":  "05-07-2021",
+                                                       "Registration No:":  "21131797215",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}

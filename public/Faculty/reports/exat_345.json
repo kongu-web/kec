@@ -1,0 +1,1208 @@
+{
+    "id":  "nbhB3D8Y793eTKdgf",
+    "name":  "STAFF PROFILE INFORMATION",
+    "type":  "STAFF",
+    "published":  "1",
+    "data":  [
+                 {
+                     "id":  "1D3061B8E7EC049EC",
+                     "name":  "PERSONAL DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "5F1A75ACF8C06FB9D",
+                                      "name":  "Personal Details",
+                                      "headers":  [
+                                                      "Name",
+                                                      "Department",
+                                                      "Designation",
+                                                      "Area of Specialisation",
+                                                      "Date of joining in KEC",
+                                                      "Mobile",
+                                                      "E-mail"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Designation":  "ASSOCIATE PROFESSOR",
+                                                       "Area of Specialisation":  "Computer Networks, IoT,Optimization",
+                                                       "Date of joining in KEC":  "01-07-2006",
+                                                       "Mobile":  "9943070702",
+                                                       "E-mail":  "sangeethaksandeep@gmail.com"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "827CF3CD4B687EBCA",
+                     "name":  "QUALIFICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "29EF5C748472131E7",
+                                      "name":  "ACADEMIC QUALIFICATION",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Academic Degree",
+                                                      "Specialization",
+                                                      "From"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "Ph.D",
+                                                       "Specialization":  "Computer Science and Engineering",
+                                                       "From":  "21-06-2007"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "ME",
+                                                       "Specialization":  "Computer Science and Engineering",
+                                                       "From":  "19-07-2004"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "MCA",
+                                                       "Specialization":  "Computer Applications",
+                                                       "From":  "15-06-1998"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Academic Degree":  "B.Sc.",
+                                                       "Specialization":  "Physics",
+                                                       "From":  "03-07-1995"
+                                                   }
+                                               ]
+                                  },
+                                  {
+                                      "id":  "3BE43F904AA21E672",
+                                      "name":  "Additional Qualifications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Category",
+                                                      "Reference No",
+                                                      "Roll No",
+                                                      "Year",
+                                                      "Specialization",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E7ACE8E1F58B0B15F",
+                     "name":  "ACADEMIC POSITION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "91F823A51BEC9C26A",
+                                      "name":  "Academic Position",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Contribution to the Institute"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Position":  "Faculty",
+                                                       "Level":  "Department",
+                                                       "Start Date":  "01-07-2006",
+                                                       "End Date":  "",
+                                                       "Contribution to the Institute":  "Deputy CoE (4 years)"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "524F1067CD9585B6E",
+                     "name":  "PREVIOUS EXPERIENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "9D9C62B29D3CD06E5",
+                                      "name":  "Previous Experience",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Organization",
+                                                      "Name of Institution/Organization",
+                                                      "Position/Designation",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Upload Appointment Order",
+                                                      "Upload Experience Certificate"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "Nandha Arts and Science College,Erode",
+                                                       "Position/Designation":  "Lecturer",
+                                                       "Start Date":  "02-01-2003",
+                                                       "End Date":  "03-05-2004",
+                                                       "Duration":  "1.4",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.K.SANGEETHA-2776a42d-0974-49a2-bbe0-ef06d44ba0a1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121017Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=e6716346afa7aa60569b3c70f0b81fdf6e3c80a9d37b072ec6b648e80ee1b079",
+                                                                                            "name":  "Nandha.jpg",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "q6BeJ6zaRgq65ZYRB",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Organization":  "Academic",
+                                                       "Name of Institution/Organization":  "Vellalar College for Women, Erode",
+                                                       "Position/Designation":  "Lecturer",
+                                                       "Start Date":  "04-07-2001",
+                                                       "End Date":  "04-12-2002",
+                                                       "Duration":  "1.5",
+                                                       "Upload Appointment Order":  [
+                                                                                        {
+                                                                                            "url":  "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-DR.K.SANGEETHA-f72a7553-ab13-4e92-9186-edb778f54511.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261114%2Fap-south-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20261114T121017Z\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Expires=1800\u0026X-Amz-Signature=61233e497cd3972d07a3b3f4fd86d72459b5dd08baf1edbef7ae0464844f58b4",
+                                                                                            "name":  "vellalar.jpg",
+                                                                                            "totalRecords":  null,
+                                                                                            "resourceId":  "mW4npuC2PNgBYQbz8",
+                                                                                            "baseUrl":  "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                                                                                        }
+                                                                                    ],
+                                                       "Upload Experience Certificate":  [
+
+                                                                                         ]
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "29113CB9FA3D699AD",
+                     "name":  "AWARDS, ACHIEVEMENTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "830BC56180255BFF3",
+                                      "name":  "Awards, Achievements",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of Award/Achievement",
+                                                      "Level",
+                                                      "Awarded by",
+                                                      "Place",
+                                                      "Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of Award/Achievement":  "Best Faculty Award KEC",
+                                                       "Level":  "Others",
+                                                       "Awarded by":  "Kongu Engineering College",
+                                                       "Place":  "Kongu Engineering College",
+                                                       "Date":  "15-03-2019"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "F5B0DABB843CE5DA2",
+                     "name":  "PUBLICATIONS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "311DA14E57DFEE9B4",
+                                      "name":  "Publications",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Publication Type",
+                                                      "Name of Journal/Books/Book chapter/ Proceedings",
+                                                      "Level",
+                                                      "Title",
+                                                      "Volume No",
+                                                      "Issue No",
+                                                      "Year",
+                                                      "Date",
+                                                      "Published at"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Sustainable Computing: Informatics and Systems",
+                                                       "Level":  "International",
+                                                       "Title":  "Energy efficient optimization of grid event authentication using blockchain and transformer-based anomaly detection",
+                                                       "Volume No":  "50",
+                                                       "Issue No":  "",
+                                                       "Year":  "2026",
+                                                       "Date":  "03-06-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Automatika Journal for Control, Measurement, Electronics, Computing and Communications",
+                                                       "Level":  "International",
+                                                       "Title":  "Evaluating convolutional neural networks and machine learning algorithms for accurate landslide detection from satellite data",
+                                                       "Volume No":  "VOL. 67,",
+                                                       "Issue No":  "NO. 1,",
+                                                       "Year":  "2026,",
+                                                       "Date":  "21-04-2026",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "MDPI Engineering Proceedings",
+                                                       "Level":  "International",
+                                                       "Title":  "Investigation of Incorporation of Internet of Things with Wireless Sensor Networks Based on Path Vector Hop Count and Limited Bandwidth Channel IoT Mechanism",
+                                                       "Volume No":  "82,1,113,2025",
+                                                       "Issue No":  "1",
+                                                       "Year":  "2025",
+                                                       "Date":  "16-12-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "3D Printing and Digital Twins in Smart Agriculture",
+                                                       "Level":  "International",
+                                                       "Title":  "Cybersecurity in Agriculture 5.0: Monitoring Agricultural Threats Through Digital Twin Technology.",
+                                                       "Volume No":  "-",
+                                                       "Issue No":  "-",
+                                                       "Year":  "November 2025",
+                                                       "Date":  "11-11-2025",
+                                                       "Published at":  "IGI Global Scientific Publishing."
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "The Convergence of Extended Reality and Metaverse in Agriculture",
+                                                       "Level":  "International",
+                                                       "Title":  "Data-Driven Farming in the Agricultural Metaverse: Leveraging Virtual Environments and Digital Twins.",
+                                                       "Volume No":  "-",
+                                                       "Issue No":  "-",
+                                                       "Year":  "Sep2025",
+                                                       "Date":  "16-09-2025",
+                                                       "Published at":  "IGI Global Scientific Publishing."
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Innovations in Bio-Inspired Computing and Applications",
+                                                       "Level":  "International",
+                                                       "Title":  "Hybrid Deep Neural Network for Detecting Fake Traffic Data in Vehicular Social Network",
+                                                       "Volume No":  "14",
+                                                       "Issue No":  "",
+                                                       "Year":  "June 2025",
+                                                       "Date":  "25-06-2025",
+                                                       "Published at":  "Springer Nature Switzerland"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Hospital Waste Management and Toxicity Evaluation",
+                                                       "Level":  "International",
+                                                       "Title":  "Integrating IoT and Machine Learning for Real-Time Monitoring of Infectious Waste Management",
+                                                       "Volume No":  "-",
+                                                       "Issue No":  "-",
+                                                       "Year":  "2025",
+                                                       "Date":  "20-03-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Journal of Communication Systems",
+                                                       "Level":  "International",
+                                                       "Title":  "Cyber Threat Detection in 6G Internet of Things Using Deep Learning and Privacy Preservation via Blockchain",
+                                                       "Volume No":  "39",
+                                                       "Issue No":  "2",
+                                                       "Year":  "2025",
+                                                       "Date":  "18-03-2025",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Network: Computation in Neural Systems",
+                                                       "Level":  "International",
+                                                       "Title":  "M2AI-CVD: Multi-modal AI approach cardiovascular risk prediction system using fundus images",
+                                                       "Volume No":  "35",
+                                                       "Issue No":  "3",
+                                                       "Year":  "2024 Aug",
+                                                       "Date":  "14-08-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "IETE Journal of Research",
+                                                       "Level":  "International",
+                                                       "Title":  "Hybrid RNN-FFBPNN Optimized with Glowworm Swarm Algorithm for Lung  Cancer Prediction",
+                                                       "Volume No":  "70",
+                                                       "Issue No":  "5",
+                                                       "Year":  "2024",
+                                                       "Date":  "16-07-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Information and Communication Technology(ICICT 2024),",
+                                                       "Level":  "International",
+                                                       "Title":  "Classification of Multiple Human Activities using Deep Learning.",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "June 2024",
+                                                       "Date":  "12-06-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2024),",
+                                                       "Level":  "International",
+                                                       "Title":  "Classification of Fruits and its Quality Prediction using Deep Learning",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "May 2024",
+                                                       "Date":  "15-05-2024",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Smart Grids and Internet of Things:An Energy Perspective",
+                                                       "Level":  "International",
+                                                       "Title":  "Integrated Architecture for IoTSG: Internet of Things (IoT) and Smart Grid (SG)",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "May 2023",
+                                                       "Date":  "28-04-2023",
+                                                       "Published at":  "Scrivener Publishing LLC"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Book",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Smart Grids and Internet of Things: : An Energy Perspective",
+                                                       "Level":  "International",
+                                                       "Title":  "Fault and Delay Tolerant IoT Smart Grid",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "May 2023",
+                                                       "Date":  "28-04-2023",
+                                                       "Published at":  "Scrivener Publishing LLC,Beverly"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Springer Nature Journal Computer Science",
+                                                       "Level":  "International",
+                                                       "Title":  "Energy Efficient Mathematical Model for Cyber Physical Systems: A Model for Industrial Internet of Things",
+                                                       "Volume No":  "Vol 4 2661-8907",
+                                                       "Issue No":  "article number 455",
+                                                       "Year":  "June 2023",
+                                                       "Date":  "23-04-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Concurrency and Computation Practice and Experience",
+                                                       "Level":  "International",
+                                                       "Title":  "Modeling a novel heuristic model for handling vehicle routing using objective optimization",
+                                                       "Volume No":  "35",
+                                                       "Issue No":  "21",
+                                                       "Year":  "2023",
+                                                       "Date":  "14-03-2023",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "AIP Conference Proceedings, 2022.",
+                                                       "Level":  "International",
+                                                       "Title":  "Prediction of human height, weight and BMI from face images using machine learning algorithms",
+                                                       "Volume No":  "",
+                                                       "Issue No":  "",
+                                                       "Year":  "2022",
+                                                       "Date":  "19-05-2022",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Annals of the Romanian Society for Cell Biology,",
+                                                       "Level":  "International",
+                                                       "Title":  "Future Forecasting with Machine Learning Models for Covid-19",
+                                                       "Volume No":  "Vol.25,",
+                                                       "Issue No":  "5",
+                                                       "Year":  "April 2021.",
+                                                       "Date":  "14-04-2021",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Computer Science",
+                                                       "Level":  "International",
+                                                       "Title":  "Intellisense Cluster Management and Energy Efficient Routing in Mobile Ad Hoc Networks",
+                                                       "Volume No":  "Vol. No.9",
+                                                       "Issue No":  "Issue 9",
+                                                       "Year":  "2013",
+                                                       "Date":  "19-09-2013",
+                                                       "Published at":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Publication Type":  "Journal",
+                                                       "Name of Journal/Books/Book chapter/ Proceedings":  "Journal of Emerging Technology and Advanced Engineering",
+                                                       "Level":  "International",
+                                                       "Title":  "Securing the Mobile Agents and QoS Aware Routing in Mobile Ad Hoc Networks",
+                                                       "Volume No":  "Vol No.7",
+                                                       "Issue No":  "Issue 5",
+                                                       "Year":  "2013",
+                                                       "Date":  "15-05-2013",
+                                                       "Published at":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "FCDA812A13EED38F4",
+                     "name":  "PROJECTS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "839643CB3941AF7C2",
+                                      "name":  "Research Projects",
+                                      "headers":  [
+                                                      "Principal Investigator",
+                                                      "Department",
+                                                      "Type of Project",
+                                                      "Title of Project",
+                                                      "Funding Agency",
+                                                      "Name of the Scheme",
+                                                      "Co-Investigator(s)",
+                                                      "Project Start Date",
+                                                      "Duration",
+                                                      "Status"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7AD4350BAEEE757FB",
+                     "name":  "CONSULTANCY",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "639BDC7C4F6C7DBAF",
+                                      "name":  "Consultancy",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Industry/Organization",
+                                                      "Nature of Consultancy",
+                                                      "Type of Consultancy",
+                                                      "Number of persons involved",
+                                                      "Date of Consultancy (From)",
+                                                      "Date of Consultancy (To)",
+                                                      "Revenue Generated (amount in Rupees without GST)"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "SMT Agencies,Namakkal",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "web application",
+                                                       "Number of persons involved":  "1",
+                                                       "Date of Consultancy (From)":  "15-12-2025",
+                                                       "Date of Consultancy (To)":  "28-04-2026",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "30000"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Izole Clothing Company",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website development",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-02-2025",
+                                                       "Date of Consultancy (To)":  "12-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "21240"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Industry/Organization":  "Florascape",
+                                                       "Nature of Consultancy":  "Consultancy",
+                                                       "Type of Consultancy":  "Website development",
+                                                       "Number of persons involved":  "2",
+                                                       "Date of Consultancy (From)":  "12-02-2025",
+                                                       "Date of Consultancy (To)":  "15-05-2025",
+                                                       "Revenue Generated (amount in Rupees without GST)":  "25960"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "37A3B953FC0D5CE26",
+                     "name":  "EVENTS ORGANIZED",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "79A3DD2C1482FCFED",
+                                      "name":  "Events Organized",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Event",
+                                                      "Name of Event",
+                                                      "Collaboration/Sponsored by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date",
+                                                      "Duration",
+                                                      "Role played",
+                                                      "Venue"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Type of Event":  "Workshop",
+                                                       "Name of Event":  "SimDrive",
+                                                       "Collaboration/Sponsored by":  "IIPC",
+                                                       "Level":  "State",
+                                                       "Start Date":  "11-04-2026",
+                                                       "End Date":  "11-04-2026",
+                                                       "Duration":  "1 day",
+                                                       "Role played":  "Coordinator",
+                                                       "Venue":  "CC-11"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "6CC5C0EF97FB28A11",
+                     "name":  "FACULTY DEVELOPMENT PROGRAM",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EE7504BCF27922700",
+                                      "name":  "Faculty Development Program",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Select Programme",
+                                                      "Title of the program",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Place",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Applied Machine Learning for Engineering Applications",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Kangeyam Institute of TEchnology",
+                                                       "Place":  "Online",
+                                                       "Start Date":  "27-01-2026",
+                                                       "End Date":  "31-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+                                                       "Level":  "National",
+                                                       "Organized by":  "KEC",
+                                                       "Place":  "online",
+                                                       "Start Date":  "15-12-2025",
+                                                       "End Date":  "20-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Foundations of Data Science and its applications",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Guru Nanak Institute of Technology",
+                                                       "Place":  "Hyderabad",
+                                                       "Start Date":  "27-10-2025",
+                                                       "End Date":  "01-11-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "Workshop",
+                                                       "Title of the program":  "Designing Intelligent Agents: A Hands-on Workshop on Building Agentic AI Systems",
+                                                       "Level":  "National",
+                                                       "Organized by":  "VIT Vellore",
+                                                       "Place":  "online",
+                                                       "Start Date":  "25-10-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "FDP",
+                                                       "Title of the program":  "Accreditation and Outcome Based Learning",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "08-09-2025",
+                                                       "End Date":  "20-10-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Select Programme":  "NPTEL/SWAYAM/MOOC Training",
+                                                       "Title of the program":  "Teaching and Learning in General Programmes",
+                                                       "Level":  "National",
+                                                       "Organized by":  "NPTEL",
+                                                       "Place":  "",
+                                                       "Start Date":  "15-07-2025",
+                                                       "End Date":  "15-08-2025"
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "E28212373B2D5FEC2",
+                     "name":  "MEMBERSHIP",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "FCAABE36CA69771AE",
+                                      "name":  "Membership (Research body/Professional Association)",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Name of the Professional Body/Society",
+                                                      "Position",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "CSI",
+                                                       "Position":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "11-01-2017",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Name of the Professional Body/Society":  "ISTE",
+                                                       "Position":  "",
+                                                       "Level":  "National",
+                                                       "Start Date":  "01-07-2006",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "174E1E2B3296B9A30",
+                     "name":  "CONFERENCE",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "D1FF0F2B7EA393C12",
+                                      "name":  "Conference",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of Paper",
+                                                      "Title of Conference",
+                                                      "Organized by",
+                                                      "Level",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "B7530DA4FA509D571",
+                     "name":  "PATENT",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "680A8C58859E6946B",
+                                      "name":  "PATENT",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Type of Patent",
+                                                      "Title of the Patent",
+                                                      "Name of Application",
+                                                      "Co-inventors Name",
+                                                      "Application Number",
+                                                      "Date of Registration",
+                                                      "Application Status",
+                                                      "Granted Date",
+                                                      "Published Date"
+                                                  ],
+                                      "data":  [
+
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "3EFB1375218F1C75A",
+                     "name":  "OUTSIDE WORLD INTERACTION",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "962BD39A298E3F413",
+                                      "name":  "Outside World Interaction",
+                                      "headers":  [
+                                                      "Name of Faculty",
+                                                      "Department",
+                                                      "Title of the Program",
+                                                      "Role",
+                                                      "Level",
+                                                      "Organized by",
+                                                      "Start Date",
+                                                      "End Date"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Repowis 26",
+                                                       "Role":  "Jury/Judge",
+                                                       "Level":  "National",
+                                                       "Organized by":  "MBA Department",
+                                                       "Start Date":  "06-02-2026",
+                                                       "End Date":  "06-02-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "VANET",
+                                                       "Role":  "Keynote Address",
+                                                       "Level":  "International",
+                                                       "Organized by":  "Scholar Colab",
+                                                       "Start Date":  "03-01-2026",
+                                                       "End Date":  "03-01-2026"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Transforming V2X Networks through 6G and Federated lLearning",
+                                                       "Role":  "Keynote Address",
+                                                       "Level":  "National",
+                                                       "Organized by":  "ECE Dept",
+                                                       "Start Date":  "12-12-2025",
+                                                       "End Date":  "12-12-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "State",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "15-07-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "Inter-Collegiate",
+                                                       "Organized by":  "KPR Institute of Technology",
+                                                       "Start Date":  "21-04-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "REPOWIS \u002725",
+                                                       "Role":  "Jury/Judge",
+                                                       "Level":  "National",
+                                                       "Organized by":  "MBA Dept",
+                                                       "Start Date":  "18-02-2025",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Ph.D DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Bannari Amman Institute of Technology",
+                                                       "Start Date":  "14-02-2025",
+                                                       "End Date":  "14-02-2025"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Tools for Wireless Sensor Network",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "PSNA College of Engineering and Technology",
+                                                       "Start Date":  "22-10-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "DC Meeting",
+                                                       "Role":  "DC Member",
+                                                       "Level":  "State",
+                                                       "Organized by":  "",
+                                                       "Start Date":  "18-01-2024",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Exciting Project Ideas in IoT for Beginners",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Madanapalle Institute of Technology and Science",
+                                                       "Start Date":  "15-04-2023",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Heterogenenous Network Routing Protocol Design",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Sreenivasa Institute of Technology and Management Studies",
+                                                       "Start Date":  "29-06-2020",
+                                                       "End Date":  "30-06-2020"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Security Models and Security in databases",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Vivekanandha Institute of Information and Management Studies",
+                                                       "Start Date":  "10-03-2020",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Recent Trends and Challenges in CSE",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Sreenivasa Institute of TEchnology and Management Studies",
+                                                       "Start Date":  "12-06-2019",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Routing in MANET",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "SriShanmugha College of Engineering  and technology",
+                                                       "Start Date":  "23-03-2019",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Mobile Adhoc Network",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Sri Shanmugha College of Engineering and Technology",
+                                                       "Start Date":  "24-02-2018",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "NS2 tool",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Sri Krishna College of Engineering and TEchnology",
+                                                       "Start Date":  "12-10-2017",
+                                                       "End Date":  "13-10-2017"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Infocruise 2017",
+                                                       "Role":  "Session Chair",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Kongu Engineering College",
+                                                       "Start Date":  "20-03-2017",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Recent Trends in Wireless Sensor Networks",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Vivekanandha Institute of Information and Management Studies",
+                                                       "Start Date":  "30-08-2016",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Networking and NS2 Simulator Tool",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Sri Krishna College of Engineering and Technology",
+                                                       "Start Date":  "22-07-2016",
+                                                       "End Date":  "23-07-2016"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Advanced Features in NS2",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Jansons Institute of Technology  Coimbatore",
+                                                       "Start Date":  "20-06-2016",
+                                                       "End Date":  "22-06-2016"
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Network Simulation and Analysis using NS2",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "PSG College of Arts and Science,Coimbatore",
+                                                       "Start Date":  "26-02-2016",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Network Simulation and Analysis using NS2",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Unified Institute of Technology ,Coimbatore",
+                                                       "Start Date":  "20-02-2016",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Hands on training on NS2",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "SNS College of Technology,Coimbatore",
+                                                       "Start Date":  "19-09-2015",
+                                                       "End Date":  ""
+                                                   },
+                                                   {
+                                                       "Name of Faculty":  "DR.K.SANGEETHA",
+                                                       "Department":  "CSR",
+                                                       "Title of the Program":  "Network Simulator2",
+                                                       "Role":  "Expert Lecture",
+                                                       "Level":  "National",
+                                                       "Organized by":  "Erode Sengunthar Engineering College",
+                                                       "Start Date":  "17-12-2011",
+                                                       "End Date":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 },
+                 {
+                     "id":  "7FC8C444B3E33BF5D",
+                     "name":  "PHD / REASEARCH GUIDESHIP DETAILS",
+                     "type":  "section",
+                     "data":  [
+                                  {
+                                      "id":  "EA7DE62637B00162C",
+                                      "name":  "PhD/Research Guidance Details",
+                                      "headers":  [
+                                                      "Department",
+                                                      "Name of Supervisor",
+                                                      "Title of the thesis for scholar",
+                                                      "Name of Scholar",
+                                                      "Date of Registration",
+                                                      "Registration No:",
+                                                      "Status",
+                                                      "Type",
+                                                      "Scholarship",
+                                                      "Date of Awarding PhD"
+                                                  ],
+                                      "data":  [
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "EXTREME WEATHER EVENT PREDICTION USING GENERATIVE ARTIFICIAL INTELLIGENCE",
+                                                       "Name of Scholar":  "Ramesh.M",
+                                                       "Date of Registration":  "20-01-2026",
+                                                       "Registration No:":  "26134691190",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "Others",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "AI-ENHANCED CYBER THREAT INTELLIGENCE AND RESILIENCE FRAMEWORK FOR HIGHER EDUCATION INSTITUTIONS",
+                                                       "Name of Scholar":  "Gowthami.S",
+                                                       "Date of Registration":  "20-01-2026",
+                                                       "Registration No:":  "26244691461",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "Others",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "A DEEP LEARNING FRAMEWORK FOR EARLY DETECTION AND PREVENTION OF CYBERBULLYING",
+                                                       "Name of Scholar":  "Mohana Priya.K T",
+                                                       "Date of Registration":  "25-07-2025",
+                                                       "Registration No:":  "25244697472",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "KEC",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "ARTIFICIAL INTELLIGENCE DRIVEN MACHINE LEARNING FOR HIGH PERFORMANCE ENERGY MATERIALS",
+                                                       "Name of Scholar":  "Gowrishwari.A S",
+                                                       "Date of Registration":  "21-01-2025",
+                                                       "Registration No:":  "25244691201",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Full time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "CERTAIN INVESTIGATIONS ON SECURITY THREATS TO PROPOSE A PREDICTIVE TECHNIQUE USING MACHINE LEARNING ALGORITHMS",
+                                                       "Name of Scholar":  "Vijaya K",
+                                                       "Date of Registration":  "28-07-2022",
+                                                       "Registration No:":  "22244697118",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "KEC",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Sivaranjani",
+                                                       "Date of Registration":  "20-07-2021",
+                                                       "Registration No:":  "21244697435",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "Others",
+                                                       "Date of Awarding PhD":  ""
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "Certain Investigations on Node Deployment and Clustering Techniques in Wireless Sensor Networks",
+                                                       "Name of Scholar":  "S.Malathi",
+                                                       "Date of Registration":  "26-02-2021",
+                                                       "Registration No:":  "19244697305",
+                                                       "Status":  "Completed",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "",
+                                                       "Date of Awarding PhD":  "29-01-2025"
+                                                   },
+                                                   {
+                                                       "Department":  "CSR",
+                                                       "Name of Supervisor":  "DR.K.SANGEETHA",
+                                                       "Title of the thesis for scholar":  "",
+                                                       "Name of Scholar":  "Santhiya P",
+                                                       "Date of Registration":  "19-01-2021",
+                                                       "Registration No:":  "21234691274",
+                                                       "Status":  "Pursuing",
+                                                       "Type":  "Part time",
+                                                       "Scholarship":  "KEC",
+                                                       "Date of Awarding PhD":  ""
+                                                   }
+                                               ]
+                                  }
+                              ]
+                 }
+             ]
+}
