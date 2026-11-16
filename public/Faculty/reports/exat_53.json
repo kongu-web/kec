@@ -1,0 +1,704 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Thin film and Luminescence",
+              "Date of joining in KEC": "06-06-2012",
+              "Mobile": "9080554215",
+              "E-mail": "parthiphysics@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Academic Degree": "B,Sc",
+              "Specialization": "Physics",
+              "From": "01-06-2025"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Physics",
+              "From": "11-06-2008"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Physics",
+              "From": "01-06-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "06-06-2012",
+              "End Date": "11-06-2025",
+              "Contribution to the Institute": "Assistant Professor of Physics, Assistant warden of Dheeran Hostel, EMDC coordinator, AICTE 360 degree coordinator, Department web page incharge, Class Advisor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Name of Award/Achievement": "Best Performing faculty of  IIC",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "KEC",
+              "Date": "18-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Fluorescence",
+              "Level": "International",
+              "Title": "Investigation on Luminescence Properties of Dy3+ Ions Doped NaBaB9O15 Phosphors for Optoelectronic Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-07-2024",
+              "Published at": "KONGU ENGINEERING COLLEGE"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Materials Science: Materials in Electronics",
+              "Level": "International",
+              "Title": "Luminescent properties of thermally stable and high efficiency green-emitting Ce3+/Tb3+ ions co-doped NaBaB9O15 phosphor",
+              "Volume No": "33",
+              "Issue No": "33",
+              "Year": "2022",
+              "Date": "07-10-2022",
+              "Published at": "KONGU ENGINEERING COLLEGE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Name of the Industry/Organization": "Elger Controls India Pvt, Ltd, Sipcot, Perundurai",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "14-07-2025",
+              "Date of Consultancy (To)": "18-07-2025",
+              "Revenue Generated (amount in Rupees without GST)": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "VALEDICTORY FUNCTION CUM GUEST LECTURE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-05-2026",
+              "End Date": "",
+              "Duration": "HALF DAY",
+              "Role played": "Coordinator",
+              "Venue": "SIR CV RAMAN SEMINAR HALL"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "NEURAL NEXUS - TECHNICAL EVENT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "14-03-2026",
+              "End Date": "",
+              "Duration": "HALF DAY",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Basics of Intellectual property Rights & its importance for Innovators and Entrepreneurs",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-11-2025",
+              "End Date": "21-02-2026",
+              "Duration": "3 hours",
+              "Role played": "Coordinator",
+              "Venue": "Dr.Saravapalli Radhakrishnan Seminar hall, IT Park"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "DEMO day (Proof of Concept)",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "27-11-2025",
+              "End Date": "27-11-2025",
+              "Duration": "8 HOURS",
+              "Role played": "Coordinator",
+              "Venue": "SH block Ground floor near DEAN office, SH 006 & SH 007"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Achieving Problem Solution fit",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-11-2025",
+              "End Date": "17-11-2025",
+              "Duration": "3 hours",
+              "Role played": "Coordinator",
+              "Venue": "Homo Bhabha Seminar hall, EIE block"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "INNOVATZ -26",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "10-11-2025",
+              "End Date": "10-11-2025",
+              "Duration": "8 hours",
+              "Role played": "Coordinator",
+              "Venue": "Physics and Chemistry Laboratory, SH Block"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Workshop",
+              "Name of Event": "\"My story\" by successful Innovator",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "27-10-2025",
+              "End Date": "27-10-2025",
+              "Duration": "3 hours",
+              "Role played": "Coordinator",
+              "Venue": "Maharaja Seminar hall"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "IDEATHON",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "25-10-2025",
+              "End Date": "27-10-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "TBI Conference Hall, Mini Seminar Hall and IT Seminar hall"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Problem Solving and Ideation Workshop II",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "13-10-2025",
+              "End Date": "13-10-2025",
+              "Duration": "3 hours",
+              "Role played": "Coordinator",
+              "Venue": "Homi J Bhabha Seminar Hall, EIE block"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Problem Solving and Ideation Workshop -I",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-09-2025",
+              "End Date": "29-09-2025",
+              "Duration": "3 hours",
+              "Role played": "Coordinator",
+              "Venue": "Homi J Bhabha seminar hall, EIE block"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "World Environment day",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-06-2025",
+              "End Date": "11-06-2025",
+              "Duration": "1 hour",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "Entrepreneurship Awareness camp II",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-06-2025",
+              "End Date": "",
+              "Duration": "8 hours",
+              "Role played": "Coordinator",
+              "Venue": "Homi J Bhaba Seminar hall, EIE, KEC"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "Entrepreneurship Awareness Camp -I",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "17-05-2025",
+              "End Date": "",
+              "Duration": "6 hours",
+              "Role played": "Coordinator",
+              "Venue": "Homi J Bhabha Seminar hall, EIE KEC"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Type of Event": "Others",
+              "Name of Event": "National Education day Cum Inception day",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "11-11-2024",
+              "End Date": "11-11-2024",
+              "Duration": "8 hours",
+              "Role played": "Coordinator",
+              "Venue": "Physics and Chemistry Laboratory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "An introduction to lasers and laser systems",
+              "Level": "National",
+              "Organized by": "IIT Bombay",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Nano materials and their properties",
+              "Level": "National",
+              "Organized by": "IIT kanpur",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "20-10-2025"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Nano materials and their properties",
+              "Level": "National",
+              "Organized by": "IIT kanpur",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "20-10-2025"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced materials and techniques for the repair and strengthening of concrete sturctures",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "R.V.R & J.C college of Engineering, Andhra pradesh",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Two weeks online FDP on Frontiers in materials research, Innovations and Entrepreneurship",
+              "Level": "National",
+              "Organized by": "Sri sairam Engineering College, Chennai",
+              "Place": "Chennai",
+              "Start Date": "25-07-2024",
+              "End Date": "08-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.PARTHIBARAJ",
+              "Department": "PHR",
+              "Title of Paper": "Luminescent Properties of thermally stable and high efficiency green emiiting ce3+/Tb3+ ions codoped NaBaB9O15 phospor/",
+              "Title of Conference": "8th International Conference on Science , Engineering and Technology",
+              "Organized by": "Nehru Institute of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "04-03-2023",
+              "End Date": "04-03-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

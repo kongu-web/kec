@@ -1,0 +1,842 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.RAMYA",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Networking",
+              "Date of joining in KEC": "01-06-2024",
+              "Mobile": "9688164260",
+              "E-mail": "ramyak.ctug@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Computer Networks",
+              "From": "01-06-2012"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "01-06-2008"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Academic Degree": "B.Sc(IT)",
+              "Specialization": "Information Technology",
+              "From": "01-06-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Category": "NET",
+              "Reference No": "260511049888",
+              "Roll No": "TN020100142",
+              "Year": "2026",
+              "Specialization": "AIML",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Category": "SET",
+              "Reference No": "0612612",
+              "Roll No": "TNS291706451411",
+              "Year": "2024",
+              "Specialization": "COMPUTER SCIENCE AND APPLICATIONS",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Category": "SET",
+              "Reference No": "",
+              "Roll No": "TNS291706451411",
+              "Year": "2024",
+              "Specialization": "Computer science and Applications",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Vellalar College for Women",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "29-06-2015",
+              "End Date": "20-05-2024",
+              "Duration": "9",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-K.RAMYA-b0c62dd1-3e84-4140-9665-49acb1d5a040.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1cd3a753afa4ad9cf62ba5fce5589b161945b4e20fe6ba179b7c9c9a4d757492",
+                  "name": "vellalar appoint.jpg",
+                  "totalRecords": null,
+                  "resourceId": "ytYkPHZpXJSrFbhtq",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Sri Vasavi College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-06-2012",
+              "End Date": "28-02-2013",
+              "Duration": "10 months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-K.RAMYA-af2c8b41-41df-4edd-8fdc-942bae762021.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d4501c33c8b2570d494c9941f7950109412aed0ca7ce6f8b8c2a17d553157367",
+                  "name": "RAMYA K AFFLIATION 276264.pdf",
+                  "totalRecords": null,
+                  "resourceId": "kReRywMBaQEsHHuhm",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "PKR Arts College for Women",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "15-06-2011",
+              "End Date": "27-04-2012",
+              "Duration": "11 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-K.RAMYA-6104e780-3944-4f18-9486-d9520eb62fd4.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=10bf55f04134eca0c35f5aef90e79688bbc099cfcacb873b73c06210010e7ba7",
+                  "name": "RAMYA K AFFLIATION 276264.pdf",
+                  "totalRecords": null,
+                  "resourceId": "ksxGeDhG47wJ3avy6",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "AI-Powered Workforce Planning and Optimization: Aligning Workforce Capabilities With Organizational Goals Through AI-Driven Insights",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "01-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "scopus",
+              "Level": "International",
+              "Title": "DEEP LEARNING BASED DIAGNOSIS OF GUM INFECTION AND TOOTH ALIGNMENT USING DENTAL X-RAYS",
+              "Volume No": "",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "18-02-2025",
+              "Published at": "4th International Conference on Sentiment Analysis and Deep Learning ICSADL 2025."
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scopus",
+              "Level": "International",
+              "Title": "Hybrid Deep Learning Approach for Early Mastitis Detection in Dairy Cattle Using Convolutional Neural Networks and Vision Transformers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "12-12-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Jai Sakthi Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "28-11-2025",
+              "Date of Consultancy (To)": "18-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "GeeBees Cake Shop",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-07-2024",
+              "Date of Consultancy (To)": "18-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": ".5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Bit Blitz Hackerrank",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "27-11-2025",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "CTUG"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Azure with Network",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "03-10-2025",
+              "End Date": "",
+              "Duration": "half day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Angular",
+              "Collaboration/Sponsored by": "MoU with Xenovex Technologies",
+              "Level": "Department",
+              "Start Date": "23-09-2025",
+              "End Date": "",
+              "Duration": "1/2 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Internal Hackathon",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "13-09-2025",
+              "End Date": "",
+              "Duration": "1Day",
+              "Role played": "Coordinator",
+              "Venue": "seminar Hall"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Ideathon through Coding Club - Phase1,2,3",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "05-09-2025",
+              "End Date": "23-09-2024",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": "CTUG"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Hands on Training on Full Stack Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Industrial Expert Training on Node Js",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "15-03-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CTUG I  Year Classes"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Cyber Security",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "07-03-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC4 and CC5"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Code Fallas- Web designing Contest Phase1,Phase2",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "08-01-2025",
+              "End Date": "29-01-2025",
+              "Duration": "2 Days",
+              "Role played": "Coordinator",
+              "Venue": "CC4 and CC5 Lab"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Hackerrank through Coding Club",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "16-11-2024",
+              "End Date": "04-06-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "CTUG Labs"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Full Stack Development",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "21-09-2024",
+              "End Date": "04-06-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC6,CTUG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning (Tamil)",
+              "Level": "National",
+              "Organized by": "NPTEL-IIT MADRAS",
+              "Place": "NPTEL-IIT MADRAS- online",
+              "Start Date": "01-07-2026",
+              "End Date": "30-09-2026"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Business Intelligence and Anlytics",
+              "Level": "National",
+              "Organized by": "Swayam Nptel",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "AI-Driven Solutions for Sustainable Development: A Faculty Development",
+              "Level": "National",
+              "Organized by": "K. RAMAKRISHNAN COLLEGE OF ENGINEERING Dr. Sunil Luthra Director & Bureau Head Training and Learning Bureau, AICTE",
+              "Place": "",
+              "Start Date": "08-09-2025",
+              "End Date": "13-09-2025"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Devops",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "Erode",
+              "Start Date": "25-11-2024",
+              "End Date": "29-11-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of Paper": "Climagrow",
+              "Title of Conference": "International Conference on Sustainability Innovation in Computing and Engineering.",
+              "Organized by": "Bhavani College , Chennai",
+              "Level": "International",
+              "Start Date": "30-12-2025",
+              "End Date": "31-12-2025"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of Paper": "Deep Learning Based Diagnosis of Gum Infection and Tooth Alignment using Dental X-Ray",
+              "Title of Conference": "4th International Conference on Sentiment Analysis and Deep Learning",
+              "Organized by": "Far Western University in Bhimdatta,Nepal",
+              "Level": "International",
+              "Start Date": "18-02-2025",
+              "End Date": "20-02-2025"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of Paper": "Hybrid Deep Learning Approach for Early Mastitis Detection in Dairy Cattle Using Convolutional Neural Networks and Vision Transformers",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON EMERGING RESEARCH IN COMPUTATIONAL SCIENCE - 2024",
+              "Organized by": "Karpagam College",
+              "Level": "International",
+              "Start Date": "12-12-2024",
+              "End Date": "14-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of the Program": "Field Visit",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "10-02-2026",
+              "End Date": "10-02-2026"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of the Program": "Field Visit",
+              "Role": "Others",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "27-01-2026",
+              "End Date": "27-01-2026"
+            },
+            {
+              "Name of Faculty": "K.RAMYA",
+              "Department": "CTUG",
+              "Title of the Program": "Field Visit",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "13-10-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

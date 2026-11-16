@@ -1,0 +1,900 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Cyber Security, Cryptography",
+              "Date of joining in KEC": "25-05-2012",
+              "Mobile": "9003683789",
+              "E-mail": "vinoth21787@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Academic Degree": "ME",
+              "Specialization": "COMPUTER AND COMMUNICATION ENGINEERING",
+              "From": "01-06-2010"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Academic Degree": "BE",
+              "Specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+              "From": "01-07-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of Award/Achievement": "BEST PLACEMENT COORDINATOR",
+              "Level": "Others",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of Award/Achievement": "BEST FACULTY",
+              "Level": "Others",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Date": "21-06-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Innovative Trends in Information Technology (ICITIIT)",
+              "Level": "International",
+              "Title": "Phishing Attack Detection with Minimal Features Using Snake-Frog Predator Optimization Algorithm with RNN and LSTM",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "08-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Information Technology  Management",
+              "Level": "International",
+              "Title": "Adaptive Fingerprint Verification Using Siamese Neural Networks and Transfer Learning for Robust Authentication of Damaged Prints",
+              "Volume No": "8",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "20-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lulu Publisher",
+              "Level": "National",
+              "Title": "Cryptography and Security Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Pneumonia Detection Using Extended VGG19 Architecture",
+              "Volume No": "1243 LNNS",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "International",
+              "Title": "TweetSense: Navigating Disaster Signals Using Machine Learning and Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "https://docs.google.com/document/d/1cCjm6QoERNHofs38jFnu1W0TWPBw9FNT/edit",
+              "Level": "International",
+              "Title": "Utilizing Generative AI for Text-to-Image Generation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "International",
+              "Title": "News Article Summarization using PEGASUS model for Efficient Information Consumption",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "International",
+              "Title": "Crop Prediction Based on Factors of the Agricultural Environment Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Digital Twin and Blockchain for Smart Cities",
+              "Level": "International",
+              "Title": "Introduction to Blockchain Technology for Smart Cities",
+              "Volume No": "3-26",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Biomedical Named Entity Recognition with BiLSTM-EDA: A Deep Learning Approach",
+              "Volume No": "1047 LNNS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "25-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Arterial Disease Prediction in Inflammatory Bowel Disease Patients",
+              "Volume No": "1046 LNNS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Enhancing Road Infrastructure Maintenance Using Deep Learning Approach",
+              "Volume No": "vol 1047.",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-07-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "MidStreet-Smart Restaurant Ordering and Management System",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-12-2025",
+              "Date of Consultancy (To)": "30-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "V.K.T.N GRANITIES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "29-03-2025",
+              "Date of Consultancy (To)": "29-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10752"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Amman Rice Mill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Rice Yield Prediction Using Data Analytics",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8474"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Mithun Electricals and Hardwares",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBCART PLATFORM",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "R Graphics and Visualization Essentials",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "State",
+              "Start Date": "18-04-2026",
+              "End Date": "18-04-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Enterprise Computing Lab (CC 8)"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Introduction to Data Analytics with Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "05-03-2026",
+              "End Date": "25-03-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "Online"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Data Analytics using power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "Admin Block AB205"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "React in Action: Building Scalable  Frontend Architectures",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-11-2025",
+              "End Date": "15-11-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "ENTERPRISING COMPUTING LAB (IT PARK CC8)"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "PC Troubleshooting and SOHO Networking",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "17 Days",
+              "Role played": "Coordinator",
+              "Venue": "Networking Laboratory"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Quantitative Aptitude Training",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-05-2025",
+              "End Date": "07-05-2025",
+              "Duration": "3 Days",
+              "Role played": "Coordinator",
+              "Venue": "Department of IT"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building Smarter AI : Hands on Workshop on RAG (Retrieval Augmented Reality)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "29-03-2025",
+              "End Date": "29-03-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "Department of IT"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "GO Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "25-03-2025",
+              "End Date": "20-05-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Analytics with Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "12-10-2024",
+              "End Date": "03-11-2024",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "IT PARK Department of IT"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Aptitude Training",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-06-2024",
+              "End Date": "15-06-2024",
+              "Duration": "1/2 Day",
+              "Role played": "Coordinator",
+              "Venue": "Department of IT"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Dynamic Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "12-06-2024",
+              "End Date": "12-06-2024",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Select Programme": "Workshop",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "Kongu engineering College",
+              "Place": "Perundurai",
+              "Start Date": "01-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Select Programme": "Others",
+              "Title of the program": "Cyber Security and Digital Forensics",
+              "Level": "National",
+              "Organized by": "INDIAN INSTITUTE OF INFORMATION AND TECHNOLOGY",
+              "Place": "KOTTAYAM",
+              "Start Date": "30-06-2025",
+              "End Date": "19-12-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence forImage, Text and Edge AI Applications",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "iste",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "03-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of Paper": "News Article Summarization using PEGASUS model for Efficient Information Consumption",
+              "Title of Conference": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT),",
+              "Organized by": "IIT MANDY",
+              "Level": "International",
+              "Start Date": "04-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of Paper": "Crop Prediction Based on Factors of the Agricultural Environment Using Machine Learning",
+              "Title of Conference": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "IIT MANDY",
+              "Level": "International",
+              "Start Date": "04-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of Paper": "Utilizing Generative AI for Text-to-Image Generation",
+              "Title of Conference": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "IIT MANDY",
+              "Level": "International",
+              "Start Date": "03-04-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "Journal of Advances in Information Technology",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "09-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "International IEEE conference on Computing, Communication and Network Technologies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT Indore",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "MINTRA 2K25",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Department of Mechanical Engineering, Kongu Engineering College",
+              "Start Date": "16-04-2025",
+              "End Date": "16-04-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "KEC Hackathon 2025- Software Edition - Prelims",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "KEC Innov ation and Entrepreneurship Forum & KEC Coding Forum",
+              "Start Date": "26-02-2025",
+              "End Date": "26-02-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "Innovatix",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Computer Society of India - Kongu Engineering College",
+              "Start Date": "15-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "S.VINOTHKUMAR",
+              "Department": "ITR",
+              "Title of the Program": "INTER COLLEGE TECHNICAL SYMPOSIUM -  MXCEL 2K24",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Department of Mechanical Engineering,Kongu Engineering College",
+              "Start Date": "09-10-2024",
+              "End Date": "09-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1044 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Designation": "",
+              "Area of Specialisation": "Manufacturing, Tribology",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "9944643355",
+              "E-mail": "kamalkec99@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Academic Degree": "PhD",
+              "Specialization": "Tribology",
+              "From": "18-06-2018"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Academic Degree": "M.E.,",
+              "Specialization": "Advance Manufacturing Technologyy",
+              "From": "01-06-2007"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Academic Degree": "B.E.,",
+              "Specialization": "Mechanical Engineering",
+              "From": "01-08-2003"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "05-06-2017",
+              "End Date": "",
+              "Contribution to the Institute": "Assistant Professor (Sr.G)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of Award/Achievement": "PROJECT MENTORSHIP NATIONAL LEVEL - AAKRUTI2019",
+              "Level": "National",
+              "Awarded by": "DASSAULT SYSTEM AND SOLID WORKS",
+              "Place": "",
+              "Date": "25-10-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "World Scientific",
+              "Level": "International",
+              "Title": "Sustainable Fabrication of ZnO-Based Photocatalysts\nfor Light-Driven Degradation of Organic Dyes",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "An experimental validation of the predictive model for galling phenomenon in deep drawing processes",
+              "Volume No": "33",
+              "Issue No": "03",
+              "Year": "2026",
+              "Date": "02-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Manufacturing and Materials Processing",
+              "Level": "International",
+              "Title": "Experimental Study on Drilling Performance of Bio-Waste-Based\nCorn HuskFiber Reinforced Epoxy Composites for\nGreen Applications",
+              "Volume No": "10",
+              "Issue No": "74",
+              "Year": "2026",
+              "Date": "21-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "National",
+              "Title": "OPTIMIZING CRACK HEALING IN BY SUPPORT VECTOR MACHINE GUIDED LEARNING",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-10-2025",
+              "Published at": "IEEE Xplore:"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of System Assurance Engineering and Management",
+              "Level": "International",
+              "Title": "Implementation of lean six sigma (LSS) techniques for tyre manufacturing in small and medium-sized enterprises",
+              "Volume No": "14",
+              "Issue No": "4",
+              "Year": "2023",
+              "Date": "02-08-2023",
+              "Published at": "Springer India"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ADVANCEMENTS IN AEROMECHANICAL MATERIALS FOR MANUFACTURING: ICAAMM-2021",
+              "Level": "International",
+              "Title": "An autonomous seed material generation device for sugarcane, mechatronically integrated: A field of economic importance",
+              "Volume No": "2492",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "22-05-2023",
+              "Published at": "AIP Conf. Proc."
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ADVANCEMENTS IN AEROMECHANICAL MATERIALS FOR MANUFACTURING: ICAAMM-2021",
+              "Level": "International",
+              "Title": "Influences of habitat on agriculture spatial assessment and economic evaluation for harm reduction",
+              "Volume No": "2492",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "22-05-2023",
+              "Published at": "AIP Conf. Proc."
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Tribological properties of AlCoCrCuFeNi0.7 using tribometer in ANSYS",
+              "Volume No": "62",
+              "Issue No": "2",
+              "Year": "2022",
+              "Date": "13-05-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "l Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "A process of analyzing the performance evaluation of sisal fiber in fiber reinforced composites",
+              "Volume No": "56",
+              "Issue No": "6",
+              "Year": "2022",
+              "Date": "18-04-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "The sliding wear behavior of CrCuFeNi alloyed with various combinations of cobalt",
+              "Volume No": "50",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "07-02-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Machining parameters in WEDM of EN31 steel using Taguchi technique optimization",
+              "Volume No": "50",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Midget Salt Spray Testing Machine For Rapid Corrosion Test",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "05-05-2020",
+              "Published at": "https://www.ijstr.org/final-print/feb2020/Midget-Salt-Spray-Testing-Machine-For-Rapid-Corrosion-Test.pdf"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Design And Fabrication Of Synthetic Sea Water Apparatus",
+              "Volume No": "VOLUME 9",
+              "Issue No": "ISSUE 01",
+              "Year": "2020",
+              "Date": "03-01-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Internal/external",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "3D printing",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-06-2025",
+              "Date of Consultancy (To)": "31-05-2026",
+              "Revenue Generated (amount in Rupees without GST)": "21050"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Internal",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "3D printing",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "06-11-2024",
+              "Date of Consultancy (To)": "24-01-2025",
+              "Revenue Generated (amount in Rupees without GST)": "29852"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Macbro",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Design and 3D printing",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "04-10-2024",
+              "Date of Consultancy (To)": "27-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "7847"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Name of the Industry/Organization": "GDP Engineering Company, Kanchipuram",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "ERGONOMIC STUDY",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "19-05-2022",
+              "Date of Consultancy (To)": "19-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "23600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One credit course",
+              "Collaboration/Sponsored by": "Macbro",
+              "Level": "Institute",
+              "Start Date": "18-08-2026",
+              "End Date": "05-08-2026",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "MB 211"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Others",
+              "Name of Event": "MXCEL-26",
+              "Collaboration/Sponsored by": "MACBRO Technologies",
+              "Level": "National",
+              "Start Date": "22-01-2026",
+              "End Date": "22-01-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Others",
+              "Name of Event": "MXCEL-23",
+              "Collaboration/Sponsored by": "MACBRO TECHNOLOGIES",
+              "Level": "National",
+              "Start Date": "11-10-2025",
+              "End Date": "11-10-2023",
+              "Duration": "1 DAY",
+              "Role played": "Convener",
+              "Venue": "DEPARTMENT OF MECHANICAL ENGINEERING"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "one credit course",
+              "Collaboration/Sponsored by": "Macbro",
+              "Level": "Institute",
+              "Start Date": "18-08-2025",
+              "End Date": "05-09-2025",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "MB 210"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Others",
+              "Name of Event": "Seminar by External",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-07-2025",
+              "End Date": "04-07-2025",
+              "Duration": "3",
+              "Role played": "Coordinator",
+              "Venue": "Automobile seminar hall"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Type of Event": "Others",
+              "Name of Event": "MXCEL-24",
+              "Collaboration/Sponsored by": "MACBRO TECHNOLOGIES",
+              "Level": "National",
+              "Start Date": "09-10-2024",
+              "End Date": "09-10-2024",
+              "Duration": "1 DAY",
+              "Role played": "Convener",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Innovation Ambassador",
+              "Level": "National",
+              "Organized by": "IIC",
+              "Place": "online",
+              "Start Date": "02-02-2026",
+              "End Date": "17-02-2026"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-01-2026",
+              "End Date": "30-03-2026"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial training",
+              "Level": "Others",
+              "Organized by": "Macbro",
+              "Place": "Erode",
+              "Start Date": "03-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "FUEL INJECTION AND EQUIPMENTS",
+              "Level": "Others",
+              "Organized by": "Delphi TVS",
+              "Place": "Chennai",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "product design engineering using Fusion",
+              "Level": "State",
+              "Organized by": "ICT ACADEMY",
+              "Place": "KONGU ENGINEERING COLLEGE",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainability and Research in Moden Mechanical Engineering",
+              "Level": "Online",
+              "Organized by": "Madanapalle institute of Technology",
+              "Place": "Andrapradesh",
+              "Start Date": "02-06-2025",
+              "End Date": "06-06-2025"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "International Faculty Development Program on Additive manufacturing advancement in different applications",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "online",
+              "Start Date": "21-10-2024",
+              "End Date": "26-10-2024"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "International Faculty Development Program on Progress in Mechanical Engineering",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "chennai",
+              "Start Date": "14-10-2024",
+              "End Date": "19-10-2024"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Modelling and Computational in Engineering",
+              "Level": "National",
+              "Organized by": "SRM institute of science and  technology",
+              "Place": "online",
+              "Start Date": "24-07-2023",
+              "End Date": "30-07-2023"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Unlocking Innovation: Exploring Research, Innovation  and Patents (UIERIP-2023)",
+              "Level": "International",
+              "Organized by": "SVERI’s College of Engineering",
+              "Place": "online",
+              "Start Date": "17-07-2023",
+              "End Date": "22-07-2023"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Advances in Manufacturing Proces",
+              "Level": "National",
+              "Organized by": "Bharat Institute of Engineering and technology",
+              "Place": "online",
+              "Start Date": "13-07-2023",
+              "End Date": "17-07-2023"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "MATLAB ONRAMP",
+              "Level": "International",
+              "Organized by": "MATLAB",
+              "Place": "ONLINE",
+              "Start Date": "01-03-2022",
+              "End Date": "19-03-2022"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Control Techniques for Hybrid Electric Vehicles",
+              "Level": "National",
+              "Organized by": "VINAYAKA MISSION",
+              "Place": "",
+              "Start Date": "26-06-2021",
+              "End Date": "26-06-2021"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Achieving  Operational Excellence by Digital Transformation of Supply Chain",
+              "Level": "National",
+              "Organized by": "RV COLLEGE OF ENGINEERING",
+              "Place": "ONLINE",
+              "Start Date": "21-06-2021",
+              "End Date": "25-06-2021"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "STTP",
+              "Title of the program": "RAPID PROTOTYPING AND DIGITAL MANUFACTURING",
+              "Level": "National",
+              "Organized by": "NSS COLLEGE OF ENGINEERING",
+              "Place": "ONLINE",
+              "Start Date": "02-11-2020",
+              "End Date": "07-11-2020"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "SCILAB",
+              "Level": "National",
+              "Organized by": "ST PETERS ENGINEERING COLLEGE",
+              "Place": "ONLINE",
+              "Start Date": "15-06-2020",
+              "End Date": "19-06-2020"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "MATERIALS FOR THERMAL AND RENEWABLE ENERGY RESEARCH",
+              "Level": "National",
+              "Organized by": "SRI SAIRAM INSTITUTE OF TECHNOLOGY",
+              "Place": "ONLINE",
+              "Start Date": "20-05-2020",
+              "End Date": "24-05-2020"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "THERMAL MEASUREMENT AND PROCESS CONTROL",
+              "Level": "National",
+              "Organized by": "COIMBATORE INSTITUTE OF TECHNOLOGY",
+              "Place": "COIMBATORE INSTITUTE OF TECHNOLOGY, COIMBATORE",
+              "Start Date": "27-05-2019",
+              "End Date": "31-05-2019"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "POWDER X RAY DIFFRACTION; THEORY PRACTICAL AND APPLICATION",
+              "Level": "National",
+              "Organized by": "IISC, BANGALORE",
+              "Place": "IISC, BANGALORE",
+              "Start Date": "14-05-2018",
+              "End Date": "18-05-2018"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "RAPID CASTING TECHNIQUES",
+              "Level": "National",
+              "Organized by": "GURUNANAK INSTITUTE OF TECHNOLOGY",
+              "Place": "TELANGANA",
+              "Start Date": "27-11-2017",
+              "End Date": "09-12-2017"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "MANUFACTURING TECHNOLOGY - STAMPING, DIE CASTING AND INJECTION MOULDING",
+              "Level": "National",
+              "Organized by": "ROOTS INDUSTRIES, COIMBATORE",
+              "Place": "ROOTS INDUSTRIES, COIMBATORE",
+              "Start Date": "13-10-2017",
+              "End Date": "14-10-2017"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "FUNDAMENTALS OF MANUFACTURING PROCESS",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2017",
+              "End Date": "31-10-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "The sliding wear behavior of aluminium influenced CoCrCuFeNi using powder metallurgy route",
+              "Title of Conference": "International conference on Advances in Material and Manufacturing Engineering (ICAMME – 2024)",
+              "Organized by": "school of Mechanical Engineering at Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha.",
+              "Level": "International",
+              "Start Date": "19-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "The experimental study of wear and tear characteristics of cobalt influenced high entropy alloys",
+              "Title of Conference": "International conference on Advances in Material and Manufacturing Engineering (ICAMME – 2024)",
+              "Organized by": "school of Mechanical Engineering at Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha.",
+              "Level": "International",
+              "Start Date": "19-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "The sliding wear behavior of CrCuFeNi alloyed with various combinations of cobalt",
+              "Title of Conference": "2nd International Conference on Functional Materials, Manufacturing and Performance",
+              "Organized by": "Lovely Professional University, Punjab",
+              "Level": "International",
+              "Start Date": "17-09-2021",
+              "End Date": "18-09-2021"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "Machining parameters in WEDM of EN31 steel using Taguchi technique optimization",
+              "Title of Conference": "2nd International Conference on Functional Materials, Manufacturing and Performance",
+              "Organized by": "Lovely Professional University, Punjab",
+              "Level": "International",
+              "Start Date": "17-09-2021",
+              "End Date": "18-09-2021"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "Influence of Habitat on Agriculture Spatial Assessment and Economic Evaluation for Harm Reduction",
+              "Title of Conference": "International Conference on Advancement in Automotive Technology '21",
+              "Organized by": "Bannari Amman Institute of Technolgy",
+              "Level": "International",
+              "Start Date": "05-03-2021",
+              "End Date": "06-03-2021"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of Paper": "An autonomous seed material generation device for sugarcane, mechatronically integrated: A field of economic importance",
+              "Title of Conference": "International Conference on Advancement in Automotive Technology '21",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Level": "International",
+              "Start Date": "05-03-2021",
+              "End Date": "06-03-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of the Program": "Mintra - 26",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Mechanical Department",
+              "Start Date": "11-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of the Program": "Emerging trends in 3D printing technology",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Mechanical Engineering Association",
+              "Start Date": "22-01-2026",
+              "End Date": "22-01-2026"
+            },
+            {
+              "Name of Faculty": "R.KAMALAKANNAN",
+              "Department": "MER",
+              "Title of the Program": "MXCEL 26",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Mechanical Dept",
+              "Start Date": "22-01-2026",
+              "End Date": "22-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

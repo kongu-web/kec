@@ -1,0 +1,896 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.PAVITHARA",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "VLSI DESIGN, VLSI SIGNAL PROCESSING",
+              "Date of joining in KEC": "07-12-2020",
+              "Mobile": "7502114449",
+              "E-mail": "ppavithara1993@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Academic Degree": "ME",
+              "Specialization": "VLSI DESIGN",
+              "From": "01-09-2018"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Academic Degree": "BE",
+              "Specialization": "ECE",
+              "From": "10-08-2013"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "07-12-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "NPTEL Mentor",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "31-12-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Low Power, High Speed Current Starved Ring Oscillator based ADC using 18nm FinFET Technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "FPGA Implementation of XOR-MUX based Full Adder and Truncated Multiplier for Signal Processing Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "26-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Communication, Computing and Internet of Things (IC3IoT)",
+              "Level": "International",
+              "Title": "Implementation of EEG Signal Decomposition and Feature Extraction Through Efficient Wavelet Transforms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "VLSI implementation of vedic multiplier and carry look ahead adder based FIR filter for denoising EEG signal",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Skin cancer detection using convolutional neural network Available to Purchase",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "24-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Advanced smart human computer interface using computer vision (OpenCV) for spinal cord injured (quadraplegia) patient",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "24-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "A Novel approach for Image Processing based on colluding of Raspberry-Pi and FPGA adopting IoT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "7th International Conference on Devices, Circuits and Systems (ICDCS)",
+              "Level": "International",
+              "Title": "Design and analysis of 4 bit multipliers using pass transistor logic and gate diffusion input technique using 18nm FinFET technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Natural Volatiles and Essential Oils",
+              "Level": "International",
+              "Title": "Design and FPGA Implementation of Folded SHA-256 using 4-2 adder compressor",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Thulasi - VMC Steel and Alloy Industry",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "15-02-2024",
+              "Date of Consultancy (To)": "06-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9000"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Nutrivon International LLP",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "15-02-2024",
+              "Date of Consultancy (To)": "06-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Swiwatt Energy Solutions Pvt Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "15-02-2024",
+              "Date of Consultancy (To)": "06-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "14-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-09-2024",
+              "End Date": "28-09-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "06-07-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 7 - Creative Problem Solving, innovation and meaningful R & D",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 5 - Technology Enabled Learning and Life Long Self Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 8 - Institutional Management and Administrative Procedures",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 6 - Student Assessment and Evaluation",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "26-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-12-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "31-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-12-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 4",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 3",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 2",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-09-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-05-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-05-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT - Module 1",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "07-01-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of Paper": "FPGA Implementation of Epileptic Seizure Detection System using Discrete Wavelet Transform",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "12-06-2020",
+              "End Date": "13-06-2020"
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of Paper": "Wearable ISM Band Microstrip Patch Antenna using Jean Material",
+              "Title of Conference": "National Conference on Circuits, Networks and Systems",
+              "Organized by": "Coimbatore Institute of Technology",
+              "Level": "National",
+              "Start Date": "22-04-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "16th ICCCNT 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "02-04-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "ACUMEN'25",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "01-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "Infinity 3.1 (Project Presentation)",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "26-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "TECHTHIRST I",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "26-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "ACUMEN 2K24",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "16-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.PAVITHARA",
+              "Department": "ECR",
+              "Title of the Program": "Inception Day 2K23",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "09-11-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Wireless Networks",
+              "Date of joining in KEC": "20-07-2022",
+              "Mobile": "9629813491",
+              "E-mail": "arunkumar.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "01-08-2013"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Academic Degree": "B.E",
+              "Specialization": "CSE",
+              "From": "01-08-2009"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "20-07-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "SRI ANNAI DRESS MAKERS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB APPLICATION USING ML",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "02-01-2026",
+              "Date of Consultancy (To)": "03-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "22000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "VENKATESWARA VACCINE PHARMA",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "MOBILE APPLICATION",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "05-12-2025",
+              "Date of Consultancy (To)": "24-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "18000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Sri Kumaran Motors, 6/360,Gongu Selvam complex, Mummudy,Thalaivasal, Attur(Tk),Salem - 636112.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-02-2025",
+              "Date of Consultancy (To)": "13-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "22000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Kaniyamuthu, 48, Vallipuram, V. Karukampalayam (Po), Kodumudi, Erode - 638109.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "14-02-2025",
+              "Date of Consultancy (To)": "12-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Navil Spinnings, 53, Thekkalur, Periyakatuthottam, Arachalur (Po), Erode (Dt.) - 638101.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "05-02-2025",
+              "Date of Consultancy (To)": "13-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "18000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "SKY MART",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB DEVELOPMENT",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "16-02-2024",
+              "Date of Consultancy (To)": "30-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "CUBE TRADERS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB DEVELOPMENT",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "16-02-2024",
+              "Date of Consultancy (To)": "30-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on “AI & Innovation Sprints: Rapid Prototyping for Digital Transformation”",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "27-02-2026",
+              "End Date": "27-02-2026",
+              "Duration": "5 hours",
+              "Role played": "Coordinator",
+              "Venue": "IT PARK CC16"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "IDEATHON",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-10-2025",
+              "End Date": "",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "JAVA CERTIFICATION COURSE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-09-2025",
+              "End Date": "27-09-2025",
+              "Duration": "10",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "FUNDAMENTALS OF CYBER SECURITY",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-08-2025",
+              "End Date": "17-10-2025",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "KEC BYTS AI HACKATHON",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "11-04-2025",
+              "End Date": "12-06-2025",
+              "Duration": "24 HOURS",
+              "Role played": "Member",
+              "Venue": "MAHARAJA AUDITORIUM"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "FDP",
+              "Name of Event": "FDP ON CYBER SECURITY",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "14-03-2025",
+              "End Date": "15-03-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "AR /VR LAB - ADMIN BLOCK - KEC"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "E-HORYZON",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "10-03-2025",
+              "End Date": "15-03-2025",
+              "Duration": "6 days",
+              "Role played": "Member",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "KEC HACKATHON",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-03-2025",
+              "End Date": "11-03-2025",
+              "Duration": "30 HOURS",
+              "Role played": "Joint Coordinator",
+              "Venue": "MAHARAJA AUDITORIUM"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "PROJECT EXPO",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "28-02-2025",
+              "End Date": "",
+              "Duration": "1 DAY",
+              "Role played": "Member",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "NATIONAL MATHEMATICS DAY",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "10-01-2025",
+              "End Date": "",
+              "Duration": "1 DAY",
+              "Role played": "Member",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "PROOF OF CONCEPT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "14-11-2024",
+              "End Date": "",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "SIH 2024 - INTERNAL HACKATHON",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "22-08-2024",
+              "End Date": "23-08-2024",
+              "Duration": "2 DAYS",
+              "Role played": "Member",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "FUNDAMENTALS OF CYBER SECURITY",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "19-08-2024",
+              "End Date": "26-10-2024",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Securing the Future: Research-Driven Approaches to Cyber Defense & Ethical Hacking",
+              "Level": "Others",
+              "Organized by": "Hackers InfoTech , Chennai",
+              "Place": "Kongu Engineering College",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMERGING TRENDS AND  CHALLENGES IN CYBER SECURITY",
+              "Level": "National",
+              "Organized by": "GURU NANAK INSTITUTE OF TECHNOLOGY",
+              "Place": "TELANGANA",
+              "Start Date": "10-11-2025",
+              "End Date": "15-11-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Foundations of Data Science and its application",
+              "Level": "National",
+              "Organized by": "GURU NANAK INSTITUTE OF TECHNOLOGY",
+              "Place": "TELANGANA",
+              "Start Date": "27-10-2025",
+              "End Date": "01-11-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Software Project Management",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Fundamentals of Deep Learning",
+              "Level": "National",
+              "Organized by": "NVIDIA",
+              "Place": "",
+              "Start Date": "05-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Applications",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "Others",
+              "Title of the program": "Masterclass series under IP Utsav",
+              "Level": "National",
+              "Organized by": "All India Council for Technical Education (AICTE) and Ministry of Education’s Innovation Cell (MIC)",
+              "Place": "",
+              "Start Date": "21-04-2025",
+              "End Date": "26-04-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Intelligent computing Techniques and its Engineering Applications",
+              "Level": "National",
+              "Organized by": "College of Engineering and Management",
+              "Place": "Kolaghat(CEMK)",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "National",
+              "Organized by": "Jeppiaar Institute of Technology",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning and IOT Technologies in Precision Healthcare",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "16-08-2024",
+              "End Date": "17-08-2024"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Fortinet Certified Associate in Cybersecurity",
+              "Level": "National",
+              "Organized by": "FORTINET Training Institute",
+              "Place": "",
+              "Start Date": "09-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "SOTWARE ENGINEERING",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "02-07-2024",
+              "End Date": "30-10-2024"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "DATA SCIENCE TOOLS",
+              "Level": "International",
+              "Organized by": "ESWARI ENGINEERING COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "07-10-2022",
+              "End Date": "20-10-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "COMPUTER SOCIETY OF INDIA",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "14-11-2025",
+              "End Date": "13-11-2026"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-05-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "ISRD",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "11-05-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "A Robust Online Exam Proctoring Framework using Aadhaar-Based Identity Verification and Advanced Spoof Detection",
+              "Title of Conference": "2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-03-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "Assessing the  Performance of Machine Learning Algorithms in Fake News Detection",
+              "Title of Conference": "International Conference  on Computing and Machine Learning",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "Helical Gear Defect Detection System Using Symmetrized Dot Pattern with Convolutional Neural Network, Support Vector Machine and Random Forest",
+              "Title of Conference": "",
+              "Organized by": "2026 5th International Conference on Communication, Computing and Electronics Systems (ICCCES)",
+              "Level": "International",
+              "Start Date": "21-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "Predictive Modeling of Bitcoin Transaction: Daily Analysis",
+              "Title of Conference": "3rd International Conference on Futuristic Technology (INCOFT 2025)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "Blockchain-Based Digital Twin for Agricultural Field Management",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "02-04-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of Paper": "Design and Implementation of an Astute Infant M onitoring S ystem B ased on YOLO v 8 A lgorithm",
+              "Title of Conference": "ICCCNT",
+              "Organized by": "IIT - Mandi, Kamand, India",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "HACKATHON",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CODING CLUB",
+              "Start Date": "09-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "PROJECT PRESENTATION",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CSI",
+              "Start Date": "17-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "STARTUP - GLOBAL STARTUP SUBMIT",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "TAMILNADU GOVERNMENT",
+              "Start Date": "10-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "DESIGN THINKING",
+              "Role": "Others",
+              "Level": "State",
+              "Organized by": "",
+              "Start Date": "13-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "16th ICCCNT CONFERENCE 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "A INTER DEPARTMENT SYMPOSIUM",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CSI",
+              "Start Date": "01-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "RENAISSANCE 2024",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CSEA & CCC",
+              "Start Date": "26-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.ARUNKUMAR",
+              "Department": "CSR",
+              "Title of the Program": "IDEATHON",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CSEA",
+              "Start Date": "24-10-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

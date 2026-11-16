@@ -1,0 +1,720 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.KOWSIKA",
+              "Department": "EGR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "ENGLISH",
+              "Date of joining in KEC": "02-05-2025",
+              "Mobile": "8903411233",
+              "E-mail": "kowsika.eng@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Academic Degree": "Ph.D.,",
+              "Specialization": "ENGLISH LANGUAGE TEACHING",
+              "From": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Academic Degree": "M.A.,",
+              "Specialization": "ENGLISH LITERATURE",
+              "From": "03-08-2022"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Academic Degree": "B.A.,",
+              "Specialization": "ENGLISH LITERATURE",
+              "From": "17-06-2019"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Category": "NET",
+              "Reference No": "240520455894",
+              "Roll No": "TN22000363",
+              "Year": "2024",
+              "Specialization": "ENGLISH LITERATURE",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Category": "NET",
+              "Reference No": "230520516842",
+              "Roll No": "TN28000049",
+              "Year": "2023",
+              "Specialization": "ENGLISH LITERATURE",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-05-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Name of Award/Achievement": "NPTEL Discipline star award",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "31-05-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Name of Award/Achievement": "NPTEL Believers award",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "31-05-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Name of Award/Achievement": "Best Educator Award",
+              "Level": "National",
+              "Awarded by": "Blue Ava Ford Publications",
+              "Place": "",
+              "Date": "24-02-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Navigating the Future of Business: The Era of Commerce 5.0",
+              "Level": "National",
+              "Title": "AI powered personalisation in smart commerce",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Research and Scientific Innovation",
+              "Level": "International",
+              "Title": "The Effect of Digital Language Skills in Augmenting Speaking skills",
+              "Volume No": "XII",
+              "Issue No": "V",
+              "Year": "2025",
+              "Date": "23-06-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "ACCREDIATION AND OUTCOME BASED LEARNING",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-08-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "A ONE DAY NATIONAL RESEARCH WORKSHOP ON THINK, WRITE, PUBLISH: STRATEGIES FOR EMERGING RESEARCHERS",
+              "Level": "State",
+              "Organized by": "DEPARTMENT OF ENGLISH, KEC",
+              "Place": "PERUNDURAI",
+              "Start Date": "18-07-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "BEYOND INFORMATION: REIMAGINING LITERATURE IN THE AGE OF ARTIFICIAL INTELLIGENCE",
+              "Level": "Online",
+              "Organized by": "ST JOSEPH'S COLLEGE",
+              "Place": "CHENNAI",
+              "Start Date": "09-07-2026",
+              "End Date": "09-08-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital Research Ecosystems in Literary Studies: From AI Tools to IndexedPublishing and Intellectual Property",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-02-2026",
+              "End Date": "12-02-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Re-envisioning english studies: Emerging trends and pedagogical innovations",
+              "Level": "National",
+              "Organized by": "Dwaraka Doss Goverdhan Doss vaishnav college",
+              "Place": "ONLINE",
+              "Start Date": "08-02-2026",
+              "End Date": "12-02-2026"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Re-envisioning English Studies: Emerging Trends & Pedagogical Innovations",
+              "Level": "National",
+              "Organized by": "Dwaraka Doss Goverdhan Doss Vaishnav College",
+              "Place": "",
+              "Start Date": "08-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Orientation and Training Programme for Newly joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-08-2025",
+              "End Date": "20-11-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "IELTS Examination: Effective train9ing methodologies",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "28-07-2025",
+              "End Date": "02-08-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative pedagogies and Research Frontiers in English Language and Literature: Empowering Educators for Holistic Classroom Excellence",
+              "Level": "National",
+              "Organized by": "Kongu Arts and Science College",
+              "Place": "Erode",
+              "Start Date": "21-07-2025",
+              "End Date": "29-07-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Gender and Literature",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-12-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Transcultural voices and Gneder language& Migration in Contemporary Literature",
+              "Level": "National",
+              "Organized by": "Dr. MGR. Janaki Arts",
+              "Place": "",
+              "Start Date": "30-06-2025",
+              "End Date": "07-07-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research methods and Data Analysis using SPSS",
+              "Level": "National",
+              "Organized by": "Swami Keshvanand Institute of Technology",
+              "Place": "",
+              "Start Date": "26-05-2025",
+              "End Date": "30-05-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Training Program",
+              "Title of the program": "A COMPREHENSIVE TRAINING FOR NET",
+              "Level": "State",
+              "Organized by": "PROVIDENCE COLLEGE FOR WOMEN",
+              "Place": "",
+              "Start Date": "27-11-2023",
+              "End Date": "04-12-2023"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Seminar",
+              "Title of the program": "“Multidisciplinary Research and Practice”",
+              "Level": "National",
+              "Organized by": "SARADHA GANGADHARAN COLLEGE",
+              "Place": "",
+              "Start Date": "26-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "ARTIFICIAL INTELLIGENCE IN LITERATURE",
+              "Level": "State",
+              "Organized by": "BISHOP HERBER COLLEGE",
+              "Place": "TRICHY",
+              "Start Date": "06-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "19TH CENTURY ENGLISH NOVEL",
+              "Level": "Online",
+              "Organized by": "IIT MADRAS",
+              "Place": "",
+              "Start Date": "01-01-2023",
+              "End Date": "01-04-2023"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "SHORT FICTION IN INDIAN LITERATURE",
+              "Level": "Online",
+              "Organized by": "IIT MADRAS",
+              "Place": "",
+              "Start Date": "01-09-2020",
+              "End Date": "01-12-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Title of Paper": "AI and Algorithms in ELT",
+              "Title of Conference": "The need and use of Indian Languages",
+              "Organized by": "Government College, Khaniyadhana, Madhya Pradesh",
+              "Level": "National",
+              "Start Date": "15-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Title of Paper": "AI Powered personaltion in smart commerce",
+              "Title of Conference": "Navigating the future of business: the era of commerce 5.0",
+              "Organized by": "Arignar Anna College",
+              "Level": "National",
+              "Start Date": "15-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Title of Paper": "Deep Learning Approaches and Interventions in Engineering: Paving the way for Future ready and Sustainable solutions",
+              "Title of Conference": "16th International Conference on Computing, Communication and Networking Technologies",
+              "Organized by": "IIT Indore",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Title of Paper": "Profound Scrutiny of Sustainability in Deltaic Ecosystem and Memories Associated with it in Amitav Ghosh's  The Hungry Tide",
+              "Title of Conference": "International memory studies conference Memory, Ecology, and Sustainability",
+              "Organized by": "IIT Madras",
+              "Level": "International",
+              "Start Date": "20-09-2023",
+              "End Date": "22-09-2023"
+            },
+            {
+              "Name of Faculty": "M.KOWSIKA",
+              "Department": "EGR",
+              "Title of Paper": "Socio-Cultural approach of Dollar Bahu as a transnationalism novel",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "26-07-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

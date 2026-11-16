@@ -86,7 +86,7 @@ export const DEPARTMENT_MAP = {
   },
   aiml: {
     slug: 'aiml',
-    linwaysCode: 'AIML',
+    linwaysCode: 'AI',
     name: 'Artificial Intelligence and Machine Learning',
     shortName: 'AI & ML',
     category: 'Engineering',

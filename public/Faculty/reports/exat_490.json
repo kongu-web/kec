@@ -1,0 +1,700 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "APPLIED ELECTRONICS",
+              "Date of joining in KEC": "02-06-2025",
+              "Mobile": "9629443954",
+              "E-mail": "mohanaarasi@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "APPLIED ELECTRONICS",
+              "From": "01-06-2007"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+              "From": "01-06-2003"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": "Teaching and Learning Process"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR LEVEL II",
+              "Start Date": "01-06-2009",
+              "End Date": "31-12-2019",
+              "Duration": "10 years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-M.MOHANA_ARASI-79b510bb-845a-4b5b-a8fd-448d0369a3b2.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=241dae9845901393ba6705b3e2bf01486a3c2be56ea1837ae1ec348cb2bcfc74",
+                  "name": "Salary certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "8Wa7gkYXxKYP7aa6g",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of Award/Achievement": "online Course FDP",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of Award/Achievement": "Silver",
+              "Level": "National",
+              "Awarded by": "NPTEL Online Certification",
+              "Place": "",
+              "Date": "10-10-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 4th International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Level": "International",
+              "Title": "A Lightweight MobileVit Framework for Realtime Plant Leaf Disease Classification in Precision Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "17-04-2026",
+              "Published at": "22 May 2026"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific Development and Research",
+              "Level": "International",
+              "Title": "Classroom Automation using Raspberry Pi",
+              "Volume No": "Volume No 7",
+              "Issue No": "Issue 1",
+              "Year": "March 2019",
+              "Date": "04-03-2019",
+              "Published at": "International Journal of Scientific Development and Research"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Science and Computing",
+              "Level": "International",
+              "Title": "Efficient Design of MAC Carry Select Adder using Reversible Logic Gates",
+              "Volume No": "Volume 6",
+              "Issue No": "Issue No. 5",
+              "Year": "2016",
+              "Date": "05-05-2016",
+              "Published at": "International Journal of Engineering Science and Computing, May 2016"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research in Computer and Communication Engineering Vol. 5, Issue 5, May 2016",
+              "Level": "International",
+              "Title": "An Alternative Approach in Toll Path for Reducing\nthe Traffic Collision by GPS and GSM",
+              "Volume No": "Volume 5",
+              "Issue No": "Issue 2",
+              "Year": "2016",
+              "Date": "03-02-2016",
+              "Published at": "International Journal of Advanced Research in Electronics and Communication Engineering (IJARECE) Volume 5, Issue 2, February 2016"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Research in Computer  and Communication Engineering",
+              "Level": "International",
+              "Title": "Embedded System Design for Irrigating Field with Different Crops Using Soil Moisture Sensor",
+              "Volume No": "Vol. 2",
+              "Issue No": "Issue 8",
+              "Year": "August 2014",
+              "Date": "11-08-2014",
+              "Published at": "August 2014"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computer Science and Mobile Computing",
+              "Level": "International",
+              "Title": "VLSI Architecture for Implementing Kaiser Bessel Window Function Using Expanded Hyperbolic CORDIC Algorithm",
+              "Volume No": "Vol.3",
+              "Issue No": "Issue.2",
+              "Year": "2014",
+              "Date": "04-02-2014",
+              "Published at": "International Journal of Computer Science and Mobile Computing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Mayur Colours",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web application",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Mayur Colours",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Application",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "Emerging Technology Trends and career opportunities",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-12-2019",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Bannari Amman Institute of Technology"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "Two day workshop on (,Raspberry PI \"",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-09-2016",
+              "End Date": "16-09-2016",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "A Two day Workshop  on  “Embedded System Design using TI  MSP430 MCU”",
+              "Collaboration/Sponsored by": "TI India University Program Cranes Software International Limited  Bangalore",
+              "Level": "National",
+              "Start Date": "30-10-2014",
+              "End Date": "31-10-2014",
+              "Duration": "2",
+              "Role played": "Coordinator",
+              "Venue": "Bannari Amman Institute of Technology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "CyberSecurity(Cisco)",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "10-08-2026",
+              "End Date": "14-08-2026"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE and Accreditation",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "online",
+              "Start Date": "20-07-2026",
+              "End Date": "09-10-2026"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Step-by-Step Procedure to Write Effective Seminar & FDP Proposals for Funding Agencies,",
+              "Level": "Online",
+              "Organized by": "ProMind Learning Academy, Erode",
+              "Place": "online",
+              "Start Date": "13-02-2026",
+              "End Date": "17-02-2026"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Development Program on Python Programming",
+              "Level": "National",
+              "Organized by": "CodeTantra Tech Solutions Pvt. Ltd, Hyderabad.",
+              "Place": "Kongu Engineering College",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Enablement Program(FEP) on Python Programming",
+              "Level": "National",
+              "Organized by": "Team Infosys Springboard",
+              "Place": "online",
+              "Start Date": "17-11-2025",
+              "End Date": "21-11-2025"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and training programme for newly joined faculty",
+              "Level": "HRDC",
+              "Organized by": "HRD CELL",
+              "Place": "KONGU ENGINEERING COLLEGE",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Joy of computing using Python",
+              "Level": "National",
+              "Organized by": "NPTEL  AICTE",
+              "Place": "online",
+              "Start Date": "21-07-2025",
+              "End Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Reality and Augmented Reality using Unity",
+              "Level": "Others",
+              "Organized by": "SCOPIK EDUTECH PVT LTD, CHENNAI",
+              "Place": "Kongu Engineering college,Perundurai",
+              "Start Date": "09-06-2025",
+              "End Date": "13-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Life Member",
+              "Level": "National",
+              "Start Date": "02-02-2026",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Title of Paper": "A Lightweight MobileVit Framework for Realtime Plant Leaf Disease Classification in Precision Agriculture",
+              "Title of Conference": "2026 4th International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "K.S.Rangasamy College of Technology, Tiruchengode, Namakkal, Tamilnadu,",
+              "Level": "International",
+              "Start Date": "16-04-2026",
+              "End Date": "17-04-2026"
+            },
+            {
+              "Name of Faculty": "M.MOHANA ARASI",
+              "Department": "AI",
+              "Title of Paper": "Explainable AI for Smart Paddy Leaf Disease Detection",
+              "Title of Conference": "IEEE Sponsored International Conference on Sustainable computing and optimized practices for excellence",
+              "Organized by": "Thiagarajar College of Engineering",
+              "Level": "International",
+              "Start Date": "18-12-2025",
+              "End Date": "20-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

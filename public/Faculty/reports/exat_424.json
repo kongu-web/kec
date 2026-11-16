@@ -1,0 +1,1080 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Automobile Engineering, Engineering Design",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "8300163539",
+              "E-mail": "senthil.30989@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Academic Degree": "(Ph.D) Pursuing",
+              "Specialization": "Materials and Composites",
+              "From": "01-02-2018"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Academic Degree": "M.E.",
+              "Specialization": "Engineering Design",
+              "From": "06-08-2012"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Academic Degree": "M.E.",
+              "Specialization": "Automobile Engineering, Engineering Design",
+              "From": "01-06-2012"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Academic Degree": "B.E.",
+              "Specialization": "AUTOMOBILE ENGINEERING",
+              "From": "06-08-2007"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "05-06-2017",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SSM INSTITUTE OF ENGINEERING AND TECHNOLOGY, DINDIGUL",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "16-06-2014",
+              "End Date": "24-05-2017",
+              "Duration": "3 Years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-P.SENTHILKUMAR-0f732f5b-d84f-4887-9809-2e3e2cb0dde5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091859Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f353f4ff299459fa2482da759fa9a70b250039d143eb1c2647c75c0de008084a",
+                  "name": "PSK RELEVING ORDER.pdf",
+                  "totalRecords": null,
+                  "resourceId": "H6F2bbdhmoLafGBjG",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-P.SENTHILKUMAR-2e81291c-b958-459f-b276-3e991fcea2c5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091859Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=efbcd9501295b18db3d3ff29d71e14430d10a7a0d32bdef4f1cf31297869c6be",
+                  "name": "PSK SERVICE .pdf",
+                  "totalRecords": null,
+                  "resourceId": "2EvDqwQoKngWwuuK2",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "JCB - JAYARAJ AUTOMOBILE AGENCY",
+              "Position/Designation": "JCB SERVICE AND SUPPORT SERVICE ENGINEER",
+              "Start Date": "01-06-2011",
+              "End Date": "31-05-2012",
+              "Duration": "12 months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-P.SENTHILKUMAR-9c24cdc4-2771-4f63-89af-301379337675.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091859Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ff468049f49c022a4224669db560f0031d559e0d315632388f4e27bf76c258a7",
+                  "name": "PSK Experience Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "Ccumk5LSXBANqKaB3",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of Award/Achievement": "Academic Respect - NPTEL Topper (Autotronics)",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "NPTEL-Online",
+              "Date": "11-06-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of Award/Achievement": "NPTEL - Topper Mechanical Engineering",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "18-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SAE",
+              "Level": "International",
+              "Title": "Optimized Design, Analysis, and Validation of a Tractor Muffler for Enhanced Back-Pressure Control and Cost Efficiency",
+              "Volume No": "2026-28-0004",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "12-02-2026",
+              "Published at": "SAE International"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Biomass Conversion and Biorefinery",
+              "Level": "International",
+              "Title": "Characterization of novel cellulosic fiber extracted from agro?waste of Ricinus communis plant for sustainable green composite materials",
+              "Volume No": "15, Issue 7, pp.",
+              "Issue No": "7",
+              "Year": "2025",
+              "Date": "14-04-2025",
+              "Published at": "Biomass Conversion and Biorefinery"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Physics",
+              "Level": "International",
+              "Title": "Experimentation Study of Sound and Vibration\nAbsorption in Two-Wheeler Engines using Tea\nWaste and Nano-Clay Material",
+              "Volume No": "2837",
+              "Issue No": "012012",
+              "Year": "2024",
+              "Date": "18-10-2024",
+              "Published at": "IOP Publishing"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Mechanical testing of coconut sheath fibre reinforced\npolymer composite in effect to various treatments with\nalkaline solutions",
+              "Volume No": "2492",
+              "Issue No": "040068",
+              "Year": "2023",
+              "Date": "02-10-2023",
+              "Published at": "AIP Conference Proceedings"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Performance characteristics study on waste cooking oil blended with nano additives in a four stroke diesel engine",
+              "Volume No": "2492",
+              "Issue No": "050027",
+              "Year": "2023",
+              "Date": "02-10-2023",
+              "Published at": "AIP Conference Proceedings"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings journal homepage:",
+              "Level": "International",
+              "Title": "State of art: Review on laser surface hardening of alloy metals",
+              "Volume No": "In Press",
+              "Issue No": "In Press",
+              "Year": "2023",
+              "Date": "01-04-2023",
+              "Published at": "Materials Today: Proceedings journal homepage:"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Investigations on tribological behavior of natural fiber hybrid composites for brake friction",
+              "Volume No": "In Press, Corrected Proof",
+              "Issue No": "In Press, Corrected Proof",
+              "Year": "2023",
+              "Date": "01-04-2023",
+              "Published at": "Materials Today: Proceedings"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "JOURNAL OF ALGEBRAIC STATISTICS",
+              "Level": "International",
+              "Title": "Study of physical and mechanical properties for natural fiber composites under varying stacking sequence using natural rubber latex resin",
+              "Volume No": "13",
+              "Issue No": "2",
+              "Year": "2022",
+              "Date": "02-11-2022",
+              "Published at": "JOURNAL OF ALGEBRAIC STATISTICS"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Emerging Smart Computing and Informatics (ESCI)",
+              "Level": "International",
+              "Title": "Genetic Algorithm Based Robust H? Loop Shaping Control of SI Engines",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "13-04-2021",
+              "Published at": "IEEE Xplore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Karshan Springs and Forming",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Design and Analysis of Composite Disc Spring",
+              "Number of persons involved": "5",
+              "Date of Consultancy (From)": "09-04-2026",
+              "Date of Consultancy (To)": "16-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-12-2024",
+              "Date of Consultancy (To)": "20-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-12-2024",
+              "Date of Consultancy (To)": "20-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore-",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-Party vehicle inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "15-11-2024",
+              "Date of Consultancy (To)": "15-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "14-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "18880"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "A B T Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-Party vehicle inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "14-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "A B T Industries Limited, Coimbatore-",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "08-11-2024",
+              "Date of Consultancy (To)": "08-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "18-10-2024",
+              "Date of Consultancy (To)": "18-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "18-10-2024",
+              "Date of Consultancy (To)": "18-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "18-10-2024",
+              "Date of Consultancy (To)": "18-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "07-10-2024",
+              "Date of Consultancy (To)": "07-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "ABT Industries Limited, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "07-10-2024",
+              "Date of Consultancy (To)": "07-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Erode City Municipal Corporation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "06-10-2024",
+              "Date of Consultancy (To)": "06-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "47200"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Idappadi Municipality",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-10-2024",
+              "Date of Consultancy (To)": "03-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "EDANGANASALAI MUNICIPALITY",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-10-2024",
+              "Date of Consultancy (To)": "03-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Mettur Municipality",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third-Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "26-09-2024",
+              "Date of Consultancy (To)": "26-09-2024",
+              "Revenue Generated (amount in Rupees without GST)": "18880"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Komarapalayam Municipality",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "24-09-2024",
+              "Date of Consultancy (To)": "24-09-2024",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Wizaard System, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product development",
+              "Number of persons involved": "7",
+              "Date of Consultancy (From)": "25-04-2024",
+              "Date of Consultancy (To)": "25-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "69999.60"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Sri Sakthi Murugan Automobiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Design and development of automatic light beam dim adjustment",
+              "Number of persons involved": "5",
+              "Date of Consultancy (From)": "24-03-2023",
+              "Date of Consultancy (To)": "24-03-2023",
+              "Revenue Generated (amount in Rupees without GST)": "59999.50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI for Engineers",
+              "Level": "Others",
+              "Organized by": "EDSOLS and KEC",
+              "Place": "KEC",
+              "Start Date": "20-04-2026",
+              "End Date": "29-04-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Autotronics",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "NPTEL Platform",
+              "Start Date": "12-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Recent Trends in Manufacturing Methods for Industry Applications",
+              "Level": "National",
+              "Organized by": "Chaitanya Bharathi Institute of Technology (A) in collaboration with Advanced Systems Laboratory (ASL), DRDO, and Indian Society for Advancement of Materials and Process Engineering (ISAMPE)",
+              "Place": "Hyderabad - online",
+              "Start Date": "05-01-2026",
+              "End Date": "10-01-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Composites",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "IIT Madras",
+              "Start Date": "01-08-2025",
+              "End Date": "01-11-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI, AML & Deep Learning for Autonomous Vehicles",
+              "Level": "National",
+              "Organized by": "Pantech e-Learning",
+              "Place": "Chennai",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Electrolyzer and Fuel Cell Technology",
+              "Level": "Others",
+              "Organized by": "Research Supporters India",
+              "Place": "KEC",
+              "Start Date": "03-07-2025",
+              "End Date": "04-07-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial Training at Indo Shell Cast",
+              "Level": "National",
+              "Organized by": "Indo Shell Cast Pvt. Ltd.",
+              "Place": "Coimbatore",
+              "Start Date": "12-06-2025",
+              "End Date": "18-06-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Processing of Polymers and Polymer Composites",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "NPTEL",
+              "Start Date": "06-01-2025",
+              "End Date": "05-03-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Effective Engineering Teaching In Practice",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "NPTEL",
+              "Start Date": "06-01-2025",
+              "End Date": "05-02-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Effective Engineering Teaching In Practice",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "NPTEL",
+              "Start Date": "06-01-2025",
+              "End Date": "05-02-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Processing of Polymers and Polymer Composites",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "NPTEL",
+              "Start Date": "06-01-2025",
+              "End Date": "05-03-2025"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Renewable Energy and Electric Vehicles Technology for Sustainable Future",
+              "Level": "National",
+              "Organized by": "AICTE Training and Learning (ATAL) Academy",
+              "Place": "J.J. COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent advancements in AI & IoT - Industry Perspective",
+              "Level": "National",
+              "Organized by": "Periyar Maniammai Institute of Engineering and Technology",
+              "Place": "Thanjavur",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Masterclass on Power Electronics",
+              "Level": "National",
+              "Organized by": "PanTech E Learning",
+              "Place": "Online",
+              "Start Date": "23-08-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Select Programme": "Training Program",
+              "Title of the program": "CATIA",
+              "Level": "National",
+              "Organized by": "Dynamic CAD",
+              "Place": "KEC",
+              "Start Date": "15-07-2024",
+              "End Date": "19-07-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Professional Body/Society": "SAE INDIA",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "01-01-2026",
+              "End Date": "31-12-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Name of the Professional Body/Society": "Indian Society for Technical Education (ISTE)",
+              "Position": "Life Member",
+              "Level": "National",
+              "Start Date": "01-06-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Title of Paper": "Optimized Design, Analysis, and Validation of a Tractor Muffler for Enhanced Back-Pressure Control and Cost Efficiency",
+              "Title of Conference": "Advances in Design, Materials, Manufacturing and Surface Engineering for Mobility",
+              "Organized by": "SAE International",
+              "Level": "International",
+              "Start Date": "06-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "P.SENTHILKUMAR",
+              "Department": "AUR",
+              "Title of Paper": "EXPERIMENTAL AND ANALYSIS OF NATURAL FIBER POLYMER COMPOSITE MATERIAL",
+              "Title of Conference": "9 INTERNATIONAL CONFERENCE ON RECENT ADVANCEMENTS IN CHEMICAL, ENVIRONMENTAL, AND ENERGY ENGINEERING (RACEEE-2025)",
+              "Organized by": "DEPARTMENT OF CHEMICAL ENGINEERING 9 INTERNATIONAL CONFERENCE ON RECENT ADVANCEMENTS IN CHEMICAL, ENVIRONMENTAL, AND ENERGY ENGINEERING (RACEEE-2025) 06 – 07 FEBRUARY 2025. SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING KALAVAKKAM, CHENNAI",
+              "Level": "International",
+              "Start Date": "06-02-2025",
+              "End Date": "07-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

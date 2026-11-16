@@ -1,0 +1,983 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Designation": "PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "14-07-2000",
+              "Mobile": "9842168224",
+              "E-mail": "kanimozhi.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Academic Degree": "PhD",
+              "Specialization": "CSE",
+              "From": "16-12-2011"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "30-06-2004"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "30-04-1998"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Academic Degree": "BSc",
+              "Specialization": "Computer Science",
+              "From": "30-04-1994"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computational Intelligence Systems",
+              "Level": "International",
+              "Title": "DESCOP: Detection of Central Canal Spinal Stenosis via Spinal Cord Projector Integrated Mobile Network",
+              "Volume No": "19",
+              "Issue No": "184",
+              "Year": "2026",
+              "Date": "23-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Neural Computing and Applications",
+              "Level": "International",
+              "Title": "Advancing Alzheimer’s detection: integrative approaches in MRI analysis with traditional and deep learning models",
+              "Volume No": "37",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Yoga Pose Recognition and Correction Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Voice based gender recognition using deep learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "A Comparison of Word Embedding Techniques for Stress Identification using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IETE Journal of Research",
+              "Level": "International",
+              "Title": "SERAV Deep-MAD: Deep Learning-Based Security–Reliability–Availability Aware Multiple D2D Environment",
+              "Volume No": "71",
+              "Issue No": "2",
+              "Year": "2024",
+              "Date": "03-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+              "Level": "International",
+              "Title": "Land Cover Segmentation in Satellite Images Using Transfer Learning\nPDF",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Measurement:Sensors",
+              "Level": "International",
+              "Title": "Multinomial logistic regression method for early detection of autism spectrum disorders",
+              "Volume No": "33",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-06-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Project": "Sponsored",
+              "Title of Project": "Study and Development of a Tool for Alzheimer's Dementia Detection from Impulsive Emotions, Speech and Natual Language using Transfer Learning Based Deep Neural Network Techniques",
+              "Funding Agency": "ICMR",
+              "Name of the Scheme": "GIA - DHR",
+              "Co-Investigator(s)": "Dr. S.V.Kogilavani, Dr.S.Malliga, Ms.P.Jeyadharshini",
+              "Project Start Date": "01-02-2023",
+              "Duration": "3 Years",
+              "Status": "Ongoing"
+            },
+            {
+              "Principal Investigator": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Project": "Sponsored Project",
+              "Title of Project": "Study, Design and Development of Machine Learning Based Diagnostic and Therapeutic Application for Communicative Disorder",
+              "Funding Agency": "ICSSR",
+              "Name of the Scheme": "IMPRESS",
+              "Co-Investigator(s)": "-",
+              "Project Start Date": "22-04-2019",
+              "Duration": "2 Years",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Project": "Sponsored Project",
+              "Title of Project": "Design and Development of a Tool for Childhood Autism Grading Using Softcomputing Techniques",
+              "Funding Agency": "DST",
+              "Name of the Scheme": "TIDE",
+              "Co-Investigator(s)": "Dr.S.Malliga Dr.S.V.Kogilavani",
+              "Project Start Date": "02-01-2018",
+              "Duration": "3 Years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Senthil Murugan Electricals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students and Faculty",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Training",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "12-09-2025",
+              "Date of Consultancy (To)": "12-09-2025",
+              "Revenue Generated (amount in Rupees without GST)": "17340"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Training",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "15-03-2025",
+              "Date of Consultancy (To)": "15-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "19950"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Workshop",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "15-03-2025",
+              "Date of Consultancy (To)": "15-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "23450"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Kummraakuru Tex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "24-12-2024",
+              "Date of Consultancy (To)": "25-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "40000"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Workshop",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "05-10-2024",
+              "Date of Consultancy (To)": "05-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students and Faculty",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Training",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "05-10-2024",
+              "Date of Consultancy (To)": "05-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "14986"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Workshop",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-09-2024",
+              "Date of Consultancy (To)": "27-09-2024",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Data Analytics Using Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "AI Application Deployment",
+              "Collaboration/Sponsored by": "RobertBosch",
+              "Level": "Department",
+              "Start Date": "25-08-2025",
+              "End Date": "25-10-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Event": "Others",
+              "Name of Event": "Microsoft Azure AI Associate Certification",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "05-11-2024",
+              "End Date": "11-11-2024",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Aptitude and Coding Skills",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "19-10-2024",
+              "End Date": "17-11-2024",
+              "Duration": "6 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and outcome based Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Agents Development",
+              "Level": "National",
+              "Organized by": "Edux Labs, IITMadras",
+              "Place": "",
+              "Start Date": "31-07-2025",
+              "End Date": "14-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Machine Learning: Bridging the Gap Between Quantum Computing and AI",
+              "Level": "National",
+              "Organized by": "ATAL- FDP, RAJ KUMAR GOEL INSTITUE OF TECHNOLOGY",
+              "Place": "",
+              "Start Date": "06-01-2025",
+              "End Date": "11-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Computing – Research Perspective in Healthcare Applications",
+              "Level": "National",
+              "Organized by": "ATAL FDP - P.S.R. Engineering College",
+              "Place": "",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Teaching and Learning in General Programs: TALG",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Teaching and Learning in General Programs: TALG",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "International Workshop",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "Nandha College of Education",
+              "Start Date": "30-04-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Dr.K.Sangeetha",
+              "Start Date": "12-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "DC Member",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Dr.K.Premalatha, BIT, Sathy",
+              "Start Date": "17-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "DC member",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Dr.K.Premalatha",
+              "Start Date": "17-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "National Symposium",
+              "Role": "Chief Guest",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Indra Ganesan College of Engineering",
+              "Start Date": "19-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.C.S.KANIMOZHI SELVI",
+              "Department": "CSR",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Dr.K.Premalatha, BIT, Sathy",
+              "Start Date": "03-06-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "A multimodal Large Language Model for Early Alzheimers Disease Prediction from MRI and Clinical Data",
+              "Name of Scholar": "A.S.Vasuki",
+              "Date of Registration": "20-12-2025",
+              "Registration No:": "26244691341",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "ENHANCING FAKE NEWS DETECTION IN SOCIAL MEDIA USING DEEP LEARNING",
+              "Name of Scholar": "Neelamegan M",
+              "Date of Registration": "01-07-2025",
+              "Registration No:": "24144697161",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Design and Development of a Tool for Childhood Autism Grading Using Softcomputing Techniques",
+              "Name of Scholar": "Jayaprakash D",
+              "Date of Registration": "09-06-2025",
+              "Registration No:": "18134697178",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "13-04-2026"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Satellite Image segmentation and Classification",
+              "Name of Scholar": "Vijayakumari V",
+              "Date of Registration": "01-06-2024",
+              "Registration No:": "23234691232",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Alzhemere Detection Using Multimodal Deep Learning Techniques",
+              "Name of Scholar": "VananJa T",
+              "Date of Registration": "01-07-2023",
+              "Registration No:": "23244697123",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Deviant Behaviour Analysis in Social Networks",
+              "Name of Scholar": "Aarthi K",
+              "Date of Registration": "01-07-2021",
+              "Registration No:": "21244697526",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "DIAGNOSING AND ASSISTING CHILDREN WITH LEARNING DISABILITY USING MACHINE LEARNING TECHNIQUES",
+              "Name of Scholar": "Santhiya S",
+              "Date of Registration": "01-07-2021",
+              "Registration No:": "21244697450",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Personalized word Prediction Model using Deep Learning",
+              "Name of Scholar": "Ramya S",
+              "Date of Registration": "01-01-2021",
+              "Registration No:": "21274691325",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Certain Approaches to Enhance QoS and Gateway Discovery in MANET",
+              "Name of Scholar": "Mohan Prabhu N",
+              "Date of Registration": "01-06-2017",
+              "Registration No:": "17144697264",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "20-02-2025"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "Theoretical Investigations on the Design of Graphene Based TeraHertz Components for Near Field IOT",
+              "Name of Scholar": "Vijayalakshmi K",
+              "Date of Registration": "01-06-2017",
+              "Registration No:": "17244697284",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "21-06-2024"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "AN INVESTIGATION ON OPINION MINING IN CROSS DOMAIN AND SENTIMENT ANALYSIS",
+              "Name of Scholar": "Manivannan P",
+              "Date of Registration": "01-07-2013",
+              "Registration No:": "1314469202",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "23-09-2019"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "ADAPTIVE RESOURCE PROVISIONING TECHNIQUES FOR ENHANCING THE QUALITY OF SERVICE IN VIRTUALIZED CLOUD ENVIRONMENT",
+              "Name of Scholar": "Kalaiselvi S",
+              "Date of Registration": "01-07-2013",
+              "Registration No:": "1324469254",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "13-03-2021"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "A STUDY OF FEATURE SELECTION ALGORITHMS FOR AUTOMATED MINING OF MEDICAL TWEETS",
+              "Name of Scholar": "Anuprathibha T",
+              "Date of Registration": "01-06-2013",
+              "Registration No:": "1324469320",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "26-08-2020"
+            },
+            {
+              "Department": "CSR",
+              "Name of Supervisor": "DR.C.S.KANIMOZHI SELVI",
+              "Title of the thesis for scholar": "A STUDY ON THE APPLICATION OF SOFT COMPUTING TECHNIQUES FOR GRADING CHILDHOOD AUTISM",
+              "Name of Scholar": "Anju Pratap",
+              "Date of Registration": "01-06-2013",
+              "Registration No:": "10900632008",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "05-06-2015"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

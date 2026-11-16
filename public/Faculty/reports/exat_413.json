@@ -1,0 +1,855 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.KALAIVANI",
+              "Department": "CHR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "10-06-2013",
+              "Mobile": "9965675745",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Academic Degree": "M.Tech",
+              "Specialization": "Chemical Engineering",
+              "From": "01-08-2011"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Academic Degree": "B.Tech",
+              "Specialization": "Pharmaceutical Technology",
+              "From": "01-08-2007"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "10-06-2013",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of Award/Achievement": "Best Faculty Award 2024-2025",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "",
+              "Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of Award/Achievement": "Project Oral Presentation",
+              "Level": "State",
+              "Awarded by": "TNSCST",
+              "Place": "",
+              "Date": "25-01-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Global NEST Journal",
+              "Level": "International",
+              "Title": "Adsorption of Methylene Blue Dye using Biochar Derived from Finger Millet Waste Biomass: Kinetics, Isotherms, and Thermodynamic Studies",
+              "Volume No": "27",
+              "Issue No": "9",
+              "Year": "2025",
+              "Date": "02-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Nanotechnology",
+              "Level": "International",
+              "Title": "Sustainable Synthesis of Iron Oxide Using Plumeria\nalba Flowers: Enhanced Dye Removal and Its\nAntimicrobial Activity",
+              "Volume No": "14",
+              "Issue No": "3",
+              "Year": "2025-2026",
+              "Date": "30-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Impact of copper nanoparticle addition thermo physical properties of different base fluids",
+              "Volume No": "8",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "30-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Fouling Characteristics of Milk-water system in a plate heat Exchanger",
+              "Volume No": "8",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "20-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of Engineering research & technology",
+              "Level": "International",
+              "Title": "Box-Behnken Response surface Design for Acid red-87 adsorption on chemically activated Syzygium cumini seeds",
+              "Volume No": "8",
+              "Issue No": "6",
+              "Year": "2019",
+              "Date": "18-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Chemtech Research Engineering",
+              "Level": "International",
+              "Title": "Studies on Design of Bio semi Fluidized bed reactor",
+              "Volume No": "6",
+              "Issue No": "10",
+              "Year": "2014",
+              "Date": "14-09-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Agriculture and Biological Engineering",
+              "Level": "International",
+              "Title": "Mathematical modeling on drying of syzygium cumini(L.)",
+              "Volume No": "6",
+              "Issue No": "4",
+              "Year": "2013",
+              "Date": "09-12-2013",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "sanmar",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "7",
+              "Date of Consultancy (From)": "07-08-2025",
+              "Date of Consultancy (To)": "05-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "252566"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "Consolidated list",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "03-06-2025",
+              "Date of Consultancy (To)": "20-05-2026",
+              "Revenue Generated (amount in Rupees without GST)": "19697"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "M/s Chemplast Sanmar, Mettur Dam RS, Salem Dt",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Technical bridging and orientation for MSc., Executives",
+              "Number of persons involved": "07",
+              "Date of Consultancy (From)": "28-11-2024",
+              "Date of Consultancy (To)": "28-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "116820"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "M/s Chemplast Sanmar, Mettur Dam RS, Salem Dt",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Technical bridging and orientation for DCT",
+              "Number of persons involved": "07",
+              "Date of Consultancy (From)": "30-08-2024",
+              "Date of Consultancy (To)": "30-08-2024",
+              "Revenue Generated (amount in Rupees without GST)": "135700"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "M/s Chemplast Sanmar, Mettur Dam RS, Salem Dt",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "technical bridging and orientation for MSc. Executives",
+              "Number of persons involved": "07",
+              "Date of Consultancy (From)": "14-08-2024",
+              "Date of Consultancy (To)": "14-08-2024",
+              "Revenue Generated (amount in Rupees without GST)": "214170"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "Consolidated list",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "15-07-2024",
+              "Date of Consultancy (To)": "30-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "52392"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Name of the Industry/Organization": "M/s Chemplast sanmar,Mettur Dam RS, Salem Dt -636 402",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Technical Bridging and orientation for M.Sc. Executives",
+              "Number of persons involved": "07",
+              "Date of Consultancy (From)": "21-06-2024",
+              "Date of Consultancy (To)": "21-06-2024",
+              "Revenue Generated (amount in Rupees without GST)": "106200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Drinking water treatment BIS compliance and Industrial Operations",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-09-2025",
+              "End Date": "29-09-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Fundamentals In Fluid Flow",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "14-02-2025",
+              "End Date": "23-02-2025",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Commercial Drinking Water Treatment Process and Analysis of Water & Effluent",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-09-2024",
+              "End Date": "24-09-2024",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Glass Ceramic Technology",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-04-2024",
+              "End Date": "21-05-2024",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Digital Modeling, Simulation, and AI Integration for Smart Manufacturing and Industry 4.0 in Process Industry”",
+              "Level": "National",
+              "Organized by": "Kec",
+              "Place": "Kec",
+              "Start Date": "24-11-2026",
+              "End Date": "29-11-2026"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Advanced Sustainable Water Treatment and Reuse for a Low-Carbon Future”",
+              "Level": "National",
+              "Organized by": "Kec",
+              "Place": "Kec",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Climate resilient Pathways for Sustainable development",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "Training Program",
+              "Title of the program": "",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-12-2024",
+              "End Date": "07-12-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Analytical techniques",
+              "Level": "Online",
+              "Organized by": "Bon Secours College for Women",
+              "Place": "Thanjavur",
+              "Start Date": "21-10-2024",
+              "End Date": "26-10-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Current Bioprocess Technology, Products and Opportunities",
+              "Level": "Online",
+              "Organized by": "KLEF, Vadeswaram",
+              "Place": "",
+              "Start Date": "29-06-2024",
+              "End Date": "03-07-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Optimization Techniques in Engineering",
+              "Level": "Online",
+              "Organized by": "Dr. D. Y. Patil Institute of Engineering, Management and research.",
+              "Place": "Pune",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Fluid Mechanics",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology Kharagpur",
+              "Place": "",
+              "Start Date": "20-05-2014",
+              "End Date": "30-05-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Carbonizing Waste:Biomass-Derived Carbon Electrodes for High-Performance Supercapacitors",
+              "Title of Conference": "Material Science and Green Energy  (ICMSGE-2025)",
+              "Organized by": "Selvamm arts and Science Collge,Namakkal",
+              "Level": "International",
+              "Start Date": "14-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Performance of Activated Carbon Synthesized from Coroupita Guianensis Fruit Shells for Electrochemical Applications",
+              "Title of Conference": "Role of Chemical Engineering Toward Sustainable Development and Atmanirbhar Bharat",
+              "Organized by": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+              "Level": "International",
+              "Start Date": "27-12-2024",
+              "End Date": "30-12-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Fruit Biomass – Sulphuric Acid Activated Carbon for Supercapacitor Applications",
+              "Title of Conference": "Recent Advances in Chemical and Environmental Research",
+              "Organized by": "Jamal Mohamed College, Tiruchirappalli",
+              "Level": "International",
+              "Start Date": "18-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Performance of activated carbon synthesized from Couroupita guianensis Fruit shells for electrochemical and adsorption application",
+              "Title of Conference": "Recent Advancements in Chemistry and Environmental Sciences",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Level": "National",
+              "Start Date": "27-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Bio Synthesis of iron Oxide nano particles from flower extract for decolourisation of dyes",
+              "Title of Conference": "Recent Advancements in Chemistry and Environmental Sciences",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Level": "National",
+              "Start Date": "27-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Studies on Extraction of Bio active Compounds from Cashew apple",
+              "Title of Conference": "IIChE-Schemcon 2024",
+              "Organized by": "RGIPT, Amethi",
+              "Level": "National",
+              "Start Date": "20-09-2024",
+              "End Date": "21-09-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "A Review on Green Synthesis Nanoparticles Using Hibiscus Rosa-sinensis and its Antimicrobial Activities",
+              "Title of Conference": "IIChE-Schemcon 2024",
+              "Organized by": "RGIPT, Amethi",
+              "Level": "National",
+              "Start Date": "20-09-2024",
+              "End Date": "21-09-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Production of Eco- Friendly dhoop Sticks from Arecanut Husk Waste",
+              "Title of Conference": "Greenhack-2024",
+              "Organized by": "Sri Sivasubramaniya Nadar College of Engineering, Kalavakam, Tamil Nadu",
+              "Level": "National",
+              "Start Date": "19-09-2024",
+              "End Date": "20-09-2024"
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Green Synthesis of FE NPs for Effective Removal of Textile Dye – A review",
+              "Title of Conference": "Emerging Trends in Material Sciences ‘24",
+              "Organized by": "Sona College, Salem, India",
+              "Level": "International",
+              "Start Date": "23-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of Paper": "Kinetic and Isothermal Investigations of Textile Dye Adsorption onto Biomass: An Eco-friendly Approach",
+              "Title of Conference": "Emerging Trends in Material Sciences ‘24",
+              "Organized by": "Sona College, Salem, India",
+              "Level": "International",
+              "Start Date": "23-08-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "PROCESS AND SYSTEM FOR PRODUCING ECO-FRIENDLY INCENSE STICKS FROM ARECANUT HUSK WASTE",
+              "Name of Application": "Kongu Engineering College",
+              "Co-inventors Name": "K.Kalaivani,Lakshitha J,Javidh ahmed S,Udhaya P,Rama Lingam K,Thulasi Raman M B,Venu Gopal M,Vigneshwaran R",
+              "Application Number": "202441092014",
+              "Date of Registration": "26-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "29-11-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.KALAIVANI",
+              "Department": "CHR",
+              "Title of the Program": "Industry Visit",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "Fleming Laboratories",
+              "Start Date": "13-08-2026",
+              "End Date": "14-08-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "V.ANBUMANI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "VLSI and Image Processing",
+              "Date of joining in KEC": "04-06-2014",
+              "Mobile": "8825970182",
+              "E-mail": "anbumanigct@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Academic Degree": "Master of Engineering",
+              "Specialization": "Applied Electronics",
+              "From": "19-09-2012"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "Applied Electronics",
+              "From": "11-09-2012"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "16-07-2008"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Academic Degree": "Bachelor of Engineering",
+              "Specialization": "Electronics and Communication Engineering",
+              "From": "15-07-2008"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "04-06-2014",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Gate Qualified",
+              "Level": "International",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "27-02-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "AI-Enabled MBRT Based System for Rapid Microbial Detection in Milk",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "17-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "RTL to GDS Implementation of a RISC-V SoC with Integrated Timer using Openlane Framework",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "28-03-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advances in Applied Sciences (IJAAS)",
+              "Level": "International",
+              "Title": "Li-Fi technology for automated transport",
+              "Volume No": "14",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "24-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advances in Applied Sciences",
+              "Level": "International",
+              "Title": "Li-Fi technology for automated transport",
+              "Volume No": "14",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "10-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "analog integrated circuits and signal processing",
+              "Level": "International",
+              "Title": "Approximate median flter architecture with optimized comparator\nlogic for real-time image denoising on FPGA",
+              "Volume No": "126",
+              "Issue No": "3",
+              "Year": "2025",
+              "Date": "10-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Analog Integrated Circuits and Signal Processing",
+              "Level": "International",
+              "Title": "Approximate median filter architecture with optimized comparator\nlogic for real-time image denoising on FPGA",
+              "Volume No": "126",
+              "Issue No": "3",
+              "Year": "2025",
+              "Date": "09-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Microprocessor and Microsystems",
+              "Level": "International",
+              "Title": "Savitzky Golay and KPCA based Optimal Discrete Wavelet Transform Architecture for Image Compression",
+              "Volume No": "91",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "23-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer",
+              "Level": "International",
+              "Title": "Segmentation and classification of breast cancer using novel deep learning architecture",
+              "Volume No": "34",
+              "Issue No": "4",
+              "Year": "2022",
+              "Date": "25-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "World Scientific",
+              "Level": "International",
+              "Title": "Blockchain and Artificial Intelligent for Internet of Things in e-Health",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "19-04-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer, Singapore",
+              "Level": "International",
+              "Title": "Internet?of?Health?Things?(IoHT)\n?Against?COVID 19:?A?Review\n?of?Recent?Development",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "WILEY",
+              "Level": "International",
+              "Title": "Transfer learning based recurrent neural network algorithm for linguistic analysis",
+              "Volume No": "34",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "18-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer",
+              "Level": "International",
+              "Title": "Hybrid optimal algorithm?based 2D discrete wavelet transform for image compression using fractional KCA",
+              "Volume No": "26",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "19-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer-Soft Computing",
+              "Level": "International",
+              "Title": "Efficient hybrid multi-level matching with diverse set of features for image retrieval",
+              "Volume No": "20",
+              "Issue No": "8",
+              "Year": "2020",
+              "Date": "18-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Advanced Technology (IJEAT)",
+              "Level": "International",
+              "Title": "Performance Assessment of Different VLSI\nArchitectures for Data Comparators for Cost-Effective Sorting Networks",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "17-10-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering (IJITEE)",
+              "Level": "International",
+              "Title": "Implementation of Efficient Architecture of\nFine Grain Pipelined Lifting Scheme Based\nTwo Dimensional Discrete Wavelet Transform",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2019",
+              "Date": "10-10-2019",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Guideway Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-12-2025",
+              "Date of Consultancy (To)": "26-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "EttikEngineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "23-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Arun Steels",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Vamp Innovations Pvt.Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project Design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-11-2024",
+              "Date of Consultancy (To)": "26-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "7080"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "ARUN STEELS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "23-10-2024",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Vamp Innovations pvt ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "16-10-2024",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Print Zone, Tripur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "20-12-2023",
+              "Date of Consultancy (To)": "13-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Gugan Knitwears Pvt Ltd, Perundurai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "20-12-2023",
+              "Date of Consultancy (To)": "13-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Senthor Velan Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "10-10-2023",
+              "Date of Consultancy (To)": "23-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Dharmapuri Medical College and Hospital",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "15-06-2022",
+              "Date of Consultancy (To)": "18-10-2023",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SRI Venkateshwara Cables",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "20-05-2022",
+              "Date of Consultancy (To)": "10-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri ganesh steam Calendering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Design",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "20-10-2021",
+              "Date of Consultancy (To)": "24-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Siva Clinic",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Design",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "23-12-2020",
+              "Date of Consultancy (To)": "09-02-2022",
+              "Revenue Generated (amount in Rupees without GST)": "20060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National seminar on “ Radiation Expoture- Effects and protection for Comprehensive Health Promotion",
+              "Collaboration/Sponsored by": "BRNS",
+              "Level": "National",
+              "Start Date": "19-01-2018",
+              "End Date": "20-01-2018",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "ECE Department"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital VLSI Design and FPGA and Testability",
+              "Level": "International",
+              "Organized by": "ICT Academy",
+              "Place": "Kongu Engineering College",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Digital Design with verilog",
+              "Level": "Online",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "10-02-2026",
+              "End Date": "22-04-2026"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "VLSI Driven FPGA Systems",
+              "Level": "International",
+              "Organized by": "SSIT",
+              "Place": "Online",
+              "Start Date": "19-01-2026",
+              "End Date": "02-02-2026"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advancement in antenna technologies for next generation wireless communications and Bio-EM applications",
+              "Level": "National",
+              "Organized by": "Kongu Engineering college",
+              "Place": "Perundurai",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering and ChatGPT Utilization",
+              "Level": "National",
+              "Organized by": "KKR & KSR Institute of Technology And Sciences",
+              "Place": "Andra Pradesh",
+              "Start Date": "14-07-2025",
+              "End Date": "19-07-2025"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Computational Sciences",
+              "Level": "International",
+              "Organized by": "Amity University",
+              "Place": "Kolkata",
+              "Start Date": "22-07-2024",
+              "End Date": "26-07-2024"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NITTT Eight Module Course",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "20-10-2021",
+              "End Date": "25-10-2023"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Innovation by design",
+              "Level": "International",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "17-09-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Digital Electronic Circuits",
+              "Level": "International",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "08-01-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Basic Electronics",
+              "Level": "International",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "10-01-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "Associate Member",
+              "Level": "International",
+              "Start Date": "08-09-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Efficient Fault Detection Methods in Printed Circuit Boards using Machine Learning Techniques",
+              "Title of Conference": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Area-Efficient VLSI Architecture for Advanced Encryption Standard",
+              "Title of Conference": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Network Intrusion Detection system using optimized Feature Selection",
+              "Title of Conference": "Second International Conference on Artificial Intelligence and Machine learning Applications",
+              "Organized by": "K.S.Rangasamy College of Technology",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": "16-03-2024"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Design and analysis of microstrip patch antenna for 5 GHz",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON GREEN COMPUTING FOR COMMUNICATION TECHNOLOGIES (ICGCCT – 2024)",
+              "Organized by": "Sona College of Technology,Salem",
+              "Level": "International",
+              "Start Date": "06-03-2024",
+              "End Date": "07-03-2024"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Efficient VLSI Implementation of Image Denoising Using Hybrid Median Filter",
+              "Title of Conference": "Recent Advances in Industrial and Systems Engineering",
+              "Organized by": "VIT Vellore",
+              "Level": "International",
+              "Start Date": "20-12-2023",
+              "End Date": "22-12-2023"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Design of Reconfigurable Reversible Low Power Adders",
+              "Title of Conference": "2023 Third International Conference on Artificial Intelligence and Smart Energy (ICAIS)",
+              "Organized by": "JCT College of Engineering and Technology in Coimbatore, India",
+              "Level": "International",
+              "Start Date": "02-02-2023",
+              "End Date": "04-02-2023"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "An Efficient VLSI design of Median Filters using 8-bit Data Comparators in Image Applications",
+              "Title of Conference": "International Conference on Devices, Circuits and Systems (ICDCS)",
+              "Organized by": "Karunya Institute of Technology and Sciences, Coimbatore",
+              "Level": "International",
+              "Start Date": "21-04-2022",
+              "End Date": "22-04-2022"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "A Low Power Clock Gated Median Filter for Gray Level Images",
+              "Title of Conference": "International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
+              "Organized by": "VIT, Vellore",
+              "Level": "International",
+              "Start Date": "24-03-2022",
+              "End Date": "26-03-2022"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Speed and Power Efficient Vedic Multiplier using Adders with MUX",
+              "Title of Conference": "Speed and Power Efficient Vedic Multiplier using Adders with MUX",
+              "Organized by": "VIT vellore",
+              "Level": "International",
+              "Start Date": "27-11-2021",
+              "End Date": "29-11-2021"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "Movable Smartbin by WIFI Node",
+              "Title of Conference": "Innovations in Power and Advanced Computing Technologies (i-PACT)",
+              "Organized by": "VIT, Vellore",
+              "Level": "International",
+              "Start Date": "27-11-2021",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "2D Lifting Based Discrete Wavelet Transform Architecture based on Sub Expression Reduction Technique",
+              "Title of Conference": "International Conference on Intelligent Computing and Communication for Smart World (I2C2SW0)",
+              "Organized by": "KEC",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of Paper": "2D Lifting Based Discrete Wavelet Transform Architecture Using Modified Reduced Hardware Algorithm",
+              "Title of Conference": "International Conference on Intelligent Computing and Communication for Smart World (I2C2SW0)",
+              "Organized by": "KEC",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "System and Method for Assisting in Communication for Deaf and Mute person",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr.T.Meeradevi,Dr.S.Sasikala,Dr.D.Malathi",
+              "Application Number": "202011002948",
+              "Date of Registration": "22-01-2020",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "07-02-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of the Program": "Reviewer in Journal",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Analog Integrated Circuits and Signal Processing",
+              "Start Date": "17-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of the Program": "Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Microprocessor and Microsystems",
+              "Start Date": "17-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of the Program": "Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Discover Computing",
+              "Start Date": "12-11-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.ANBUMANI",
+              "Department": "ECR",
+              "Title of the Program": "International IEEE Conference on Computing Communication and Networking Technologies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT,Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

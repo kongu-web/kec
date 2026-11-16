@@ -1,0 +1,688 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.YUVARANI",
+              "Department": "AI",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Artificial Intelligence, Machine Learning",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "9942383782",
+              "E-mail": "yuvaranip91cse@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-2015"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-08-2008"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "05-06-2017",
+              "End Date": "31-07-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of Award/Achievement": "Faculty Hackathon",
+              "Level": "State",
+              "Awarded by": "KPR Institute of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Date": "14-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "9th International Conference on Intelligent Computing and Control Systems (ICICCS)",
+              "Level": "International",
+              "Title": "Computational and IoT Methods for Myocardial Infarction Prediction: A Review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-03-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Thermal Analysis and Calorimetry",
+              "Level": "International",
+              "Title": "Enhancing energy efficiency and reducing emissions \nin biodiesel?powered diesel engines through PCCI combustion \napproach and response surface methodology optimization",
+              "Volume No": "151",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "08-01-2026",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)",
+              "Level": "International",
+              "Title": "Fairness-Aware Loan Approval Prediction using Ensemble Boosting and Deep Tabular Models",
+              "Volume No": "1",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-11-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)",
+              "Level": "International",
+              "Title": "Hybrid Swin Transformer–EfficientNetV2 Model for Robust and Explainable Deepfake Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-09-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Data, Electronics and Computing",
+              "Level": "International",
+              "Title": "USB-Sentinel: A Generalized AIO Software-Assisted Insider Threat Detection Framework",
+              "Volume No": "1102 LNNS",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-02-2025",
+              "Published at": "Springer - Lecture Notes in Networks and Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Siva Skills, Pallakapalayam",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Mobile Application Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "27-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Sri Vari Sports and Trophy House",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-01-2025",
+              "Date of Consultancy (To)": "23-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "ERO COIR Products, Gobi",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2021",
+              "Date of Consultancy (To)": "14-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sun Mobiles, Snakari",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Mobile Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-08-2021",
+              "Date of Consultancy (To)": "30-11-2021",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Thiruppati Arts Crafts, Sivakasi",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-06-2020",
+              "Date of Consultancy (To)": "31-12-2020",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit - Gen AI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-12-2025",
+              "End Date": "23-04-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CTPG Classroom, KEC"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Type of Event": "Others",
+              "Name of Event": "Non-Formal Course",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "21-10-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CSD Classroom, KEC"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit - Cisco acket Tracer",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "28-06-2025",
+              "End Date": "29-11-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CTPG Classroom, KEC"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Django Framework and Web Scraping",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-03-2022",
+              "End Date": "31-05-2022",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "MSc Computer Center 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Securing the Future: Research Driven Approaches to Cyber defense and Ethical Hacking",
+              "Level": "Others",
+              "Organized by": "Hackers Infotech",
+              "Place": "Chennai",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Soft Skill Development",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Online",
+              "Start Date": "01-07-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Problem Solving Skills through Competitive Coding Platforms",
+              "Level": "Others",
+              "Organized by": "KEC Training Cell",
+              "Place": "IT Park",
+              "Start Date": "09-02-2023",
+              "End Date": "11-02-2023"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Excellence, Exposure and Development",
+              "Level": "State",
+              "Organized by": "Aspire Systems",
+              "Place": "Chennai",
+              "Start Date": "12-09-2022",
+              "End Date": "17-09-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Name of the Professional Body/Society": "Indian Society for Technical  Education",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "25-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Title of Paper": "Fairness-Aware Loan Approval Prediction Using Ensemble Boosting and Deep Tabular Models",
+              "Title of Conference": "International COnference on Innovations & Engineering and Next Generation Technologies for Sustainability (ICINVENTS-25)",
+              "Organized by": "Sri Krishna College of Engineering and Technology, Coimbatore",
+              "Level": "International",
+              "Start Date": "07-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Title of Paper": "Enhancinh of System: Monitoring with Generative Type AI with IOT Support",
+              "Title of Conference": "9th International Conference I-SMAC (IOT in Social, Mobile, Analytics and Cloud)",
+              "Organized by": "Tribhuvan University, Purwanchal Campus",
+              "Level": "International",
+              "Start Date": "08-10-2025",
+              "End Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Title of Paper": "Hybrid Swin Transformer–EfficientNetV2 Model for Robust and Explainable Deepfake Detection",
+              "Title of Conference": "5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)",
+              "Organized by": "P.E.S College of Engineering, Mandya",
+              "Level": "International",
+              "Start Date": "12-09-2025",
+              "End Date": "13-09-2025"
+            },
+            {
+              "Name of Faculty": "P.YUVARANI",
+              "Department": "CTPG",
+              "Title of Paper": "A Hybrid Deep Learning Approach for Phishing Detection Using Textual and Structured Feature Analysis",
+              "Title of Conference": "5th International Conference on Advances and Applications of Artificial Intelligence and Machine Learning  (ICAAAIML-2025)",
+              "Organized by": "Sharda School of Computing Science & Engineering, Sharda University",
+              "Level": "International",
+              "Start Date": "18-07-2025",
+              "End Date": "19-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

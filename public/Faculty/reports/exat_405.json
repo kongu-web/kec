@@ -1,0 +1,790 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Chemistry",
+              "Date of joining in KEC": "11-06-2013",
+              "Mobile": "9894421568",
+              "E-mail": "prabhakaranchemist@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Environmental Chemistry",
+              "From": "01-01-2021"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Chemistry",
+              "From": "03-06-2011"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Chemistry",
+              "From": "03-06-2005"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Chemistry",
+              "From": "05-06-2002"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-06-2013",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)",
+              "Level": "National",
+              "Title": "Analysis of Dynamic Domino Logic Gate Performance Using Body Bias Techniques in Sub-Micron VLSI",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Chemistry Select",
+              "Level": "International",
+              "Title": "Green Synthesis of Zero-Valent Tellurium Nanoparticles via Acalypha indica Leaf Extracts and Its Application for Photocatalytic Degradation of Safranin O Dye in Aqueous System",
+              "Volume No": "10",
+              "Issue No": "34",
+              "Year": "2025",
+              "Date": "08-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Research in Technology",
+              "Level": "International",
+              "Title": "Adsorption kinetic, equilibrium and thermodynamic studies for the removal of Acid Blue-25 from aqueous solution by using eco-friendly stishovite clay and its nanocomposite with MnO2- A comparative study.",
+              "Volume No": "11",
+              "Issue No": "10",
+              "Year": "2025",
+              "Date": "28-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "J. Environ. Nanotechnol",
+              "Level": "National",
+              "Title": "Development and Characterization of an Eco-friendly Stishovite Clay- manganese Dioxide  Nanocomposite for efficient Dye Removal from wastewater",
+              "Volume No": "Volume 13",
+              "Issue No": "No 4 (2024)",
+              "Year": "2024",
+              "Date": "30-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Communications on Applied Nonlinear Analysis",
+              "Level": "National",
+              "Title": "Validation of Size of Semiconductor Nano Material: Effect n Size and Shape",
+              "Volume No": "32",
+              "Issue No": "2 (2025)",
+              "Year": "2024",
+              "Date": "17-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Futuristic Treands in Chemical material science and nano technology",
+              "Level": "International",
+              "Title": "Deep Eutectic solvents glucose- malonic acid (DESs) and their nano synthesis of zinc chloride",
+              "Volume No": "3",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "30-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Latest Technology in Engineering , Management and Applied Science",
+              "Level": "International",
+              "Title": "Corrosion Inhibition of Carbon Steel by Cefotaxime Sodium in Acidic Medium",
+              "Volume No": "VII",
+              "Issue No": "VIII",
+              "Year": "2018",
+              "Date": "30-08-2018",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Name of the Industry/Organization": "Mr. N. Purusothaman",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-08-2026",
+              "Date of Consultancy (To)": "08-08-2026",
+              "Revenue Generated (amount in Rupees without GST)": "1000"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Name of the Industry/Organization": "P.Narayanan",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "water testing",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "13-07-2023",
+              "Date of Consultancy (To)": "13-07-2023",
+              "Revenue Generated (amount in Rupees without GST)": "3000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Smart Research 360 : Idea to Publications",
+              "Collaboration/Sponsored by": "Kongu Engineering College, Preundurai 60.",
+              "Level": "State",
+              "Start Date": "29-07-2026",
+              "End Date": "29-07-2026",
+              "Duration": "0ne day",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Environmental Applications of Chemical and Nanosciences (EACN-2026)",
+              "Collaboration/Sponsored by": "Association of Chemistry Teachers",
+              "Level": "National",
+              "Start Date": "31-01-2026",
+              "End Date": "31-01-2026",
+              "Duration": "1 day",
+              "Role played": "Joint Coordinator",
+              "Venue": "KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "STTP",
+              "Title of the program": "NEP 2020 Orientation and Sensitization Programme",
+              "Level": "Online",
+              "Organized by": "UGC-Malaviya Mission Teacher Training Centre, Rashtrasant Tukadoji Maharaj  Nagpur University,",
+              "Place": "",
+              "Start Date": "01-09-2026",
+              "End Date": "15-09-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "ENERGY CONVERSION TECHNOLOGIES (BIOMASS AND COAL)",
+              "Level": "Online",
+              "Organized by": "IIT-Madras",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "30-09-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Sustainable Water Treatment and Reuse for a Low-Carbon Future",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "Chemical Department",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Materials for Next Generation Energy Storage Devices",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-04-2026",
+              "End Date": "07-04-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Energy Resources, Economics and Sustainability",
+              "Level": "National",
+              "Organized by": "IIT Roorkee",
+              "Place": "",
+              "Start Date": "02-02-2026",
+              "End Date": "24-04-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainable Practices and Innovative Treands in Civil Engineering",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-11-2025",
+              "End Date": "15-11-2025"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial Training",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "Britannia Industries Limited, Perundurai",
+              "Start Date": "12-08-2025",
+              "End Date": "17-12-2025"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and out come based learning",
+              "Level": "National",
+              "Organized by": "AICTE-IIT Madras",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Teaching and learning in Engineering",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "03-01-2025",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "plastic waste management",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "02-01-2024",
+              "End Date": "28-03-2024"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Bioinorganic chemistry",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "03-01-2022",
+              "End Date": "28-02-2022"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Electronic waste management - issues and challenges",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "03-01-2020",
+              "End Date": "28-02-2020"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Strutural analysis of nanomaterials",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "01-08-2018",
+              "End Date": "30-09-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Delineation of an Eco-friendly Clay -oxide Nanocomposite for Efficient Dye- Acid Blue 25 Removal from wastewater",
+              "Title of Conference": "Bio Dogital Alchemy: Global Innovations in Al-Quantum Enabled Transformation of Next-Generation Smart Materials and Life sciences (BAGAQML-2026)",
+              "Organized by": "Dept of Chemistry, Bapatla Engg. of Chemistry. AP,",
+              "Level": "International",
+              "Start Date": "23-03-2026",
+              "End Date": "25-03-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Characterization of an Eco-friendly Clay oxide Nanicomposite for Efficient Dye( Basic blue-9, Basic Green 4) Removal from wastewater",
+              "Title of Conference": "Smart Materials for Innovation in Low Carbon Energy and Environment (SMILE-2025)",
+              "Organized by": "SRM Institute of Science and Technology, Ramapuram, Chennai-89.",
+              "Level": "International",
+              "Start Date": "12-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Development and Characterization of an Eco-Friendly Clay Oxide Nanocomposite foe eggicient dye removal from wastewater",
+              "Title of Conference": "Recent Advances in chemical and Environmental Research",
+              "Organized by": "Jamal Mohamed College",
+              "Level": "International",
+              "Start Date": "18-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Comparative study of the Photocatalytic Degradation of Methylene blue dye using modified Zr-MOF using visible light and solar light Irradiation.",
+              "Title of Conference": "Emerging Trends in Engineering and Technology",
+              "Organized by": "Nandha college of Technology",
+              "Level": "National",
+              "Start Date": "06-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Stischovite clay - Manganese di oxide Nanocomposite as an efficient adsorbent for reactive yellow 86:Kinetic and Thermodynamic studies",
+              "Title of Conference": "Emerging Trends in Engineering and Technology",
+              "Organized by": "Nandha college of Technology",
+              "Level": "National",
+              "Start Date": "06-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "cashewnut Shell liquid as ecofriendly catalyst for green synthesis of a schiff base and its divalent metal complexes",
+              "Title of Conference": "Emerging trends in engineering and technology",
+              "Organized by": "Nandha college of Technology",
+              "Level": "National",
+              "Start Date": "06-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of Paper": "Equilibrium , Kinetic and thermodynamic studies for the congored dye from an aqueous solution using stischovite clay-manganese dioxide super adsorbent nanocomposite",
+              "Title of Conference": "Recent advances in chemical and environment research",
+              "Organized by": "Jamal mohamed college",
+              "Level": "International",
+              "Start Date": "23-12-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of the Program": "Board of Studies Meeting-",
+              "Role": "BOS Member",
+              "Level": "Others",
+              "Organized by": "JKKN College of Engineering and Technology",
+              "Start Date": "07-08-2026",
+              "End Date": "07-08-2026"
+            },
+            {
+              "Name of Faculty": "K.PRABHAKARAN",
+              "Department": "CYR",
+              "Title of the Program": "Chemistry Association Valedictory",
+              "Role": "Chief Guest",
+              "Level": "State",
+              "Organized by": "Gobi Arts and Science College-Gobichettipalaym",
+              "Start Date": "26-03-2026",
+              "End Date": "26-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

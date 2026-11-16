@@ -1,0 +1,892 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.GOWRI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "PPLIED ELECTRONICS",
+              "Date of joining in KEC": "09-12-2020",
+              "Mobile": "8220006455",
+              "E-mail": "gowri.ece@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "APPLIED ELECTRONICS",
+              "From": "01-06-2009"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "01-06-1993"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "09-12-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "PMC TECH",
+              "Position/Designation": "LECTURER",
+              "Start Date": "26-02-2013",
+              "End Date": "07-05-2014",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-P.GOWRI-a4fb5c61-b333-4e59-a803-b4ec296f5346.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e5ac76fef32c539e2a917288d8c39f13c2cb317a432d433e1f5b0f7155258a4e",
+                  "name": "PMC EXPERIENCE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "feLLYPYKTDu7rumtF",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SHRIDI SAI ENGINEERING COLLEGE",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "14-07-2008",
+              "End Date": "15-12-2011",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-P.GOWRI-00976a3f-4427-4aa1-8cb9-55380161735e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=b9a6266621f570aa7e5fc00c0d86e6d3e8aea4f54a14edfe7cfb0fcf71f26d8a",
+                  "name": "SHRIDI SAI EXPERIENCE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "S7z4rJfYZ8vkkkBNg",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "ADHIYAMMAN POLYTECHNIC COLLEGE",
+              "Position/Designation": "LECTURER",
+              "Start Date": "10-12-2001",
+              "End Date": "12-10-2004",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-P.GOWRI-9694eb80-da43-4fc4-90e4-727a35ea5a09.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=309b8f373de322030c28b59323eae07d571d2b1ac7b07cc407aa7524fdfbe6eb",
+                  "name": "ADHIMAAN EXP.pdf",
+                  "totalRecords": null,
+                  "resourceId": "PGBLMi2k6JkfEPv7X",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K S RANGASAMY COLLEGE OF TECHNOLOGY",
+              "Position/Designation": "LECTURER",
+              "Start Date": "01-06-1998",
+              "End Date": "31-03-1999",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-P.GOWRI-d983b4af-2dd0-48f1-a8ad-8d52a550acae.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a180af910fae7893e6aac83ed1990080bb9c06ef304d5d8db1534265b90751ae",
+                  "name": "KSR EXPERIENCE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "NbPjRrPdvvDbhfbXN",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "NAan Mudhalavan",
+              "Level": "State",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "AI for Sustainability Hackathon 2026",
+              "Level": "International",
+              "Awarded by": "CANADIAN UNIVERSITY DUBAI",
+              "Place": "",
+              "Date": "16-02-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AASAN INTERNATIONAL PUBLICATIONS",
+              "Level": "National",
+              "Title": "BLOCKCHAIN ENABLED AI SECURITY ARCHITECTURES",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "11-02-2026",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V S Agro Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "29-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Murugan Agencies Chennimalai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "29-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Varniga Tex, Karur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "28-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Jeyam Tyres, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SRI RAM SILKS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "09-01-2024",
+              "Date of Consultancy (To)": "29-03-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SIDCO MADURAI",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-01-2024",
+              "Date of Consultancy (To)": "29-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "A Two-Day Workshop on \"Hands-on IoT and Vision-Based Systems using Edge Computing Platforms\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "10-04-2026",
+              "End Date": "11-04-2026",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Event": "",
+              "Name of Event": "IMAGE PROCESSING AND VISUVALISATION USING MATLAB",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "16 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "DSP LAB,ECE BLOCK"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Machine learning and deep learning model development using pytho",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-04-2025",
+              "End Date": "07-05-2025",
+              "Duration": "30 HRS",
+              "Role played": "Coordinator",
+              "Venue": "ECE DEPARTMENT"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "DATABASE MANAGEMENT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-09-2024",
+              "End Date": "19-11-2024",
+              "Duration": "30HRS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Embedded System Design with ARM",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "18-03-2026"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling and Data-Driven Approaches",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "KEC",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "Kongu Engineering College",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to semiconductor devices",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "23-10-2025"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "C PROGRAMMING AND ASSEMBLY LANGUAGE",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "03-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-02-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "09-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "tHE iNSTITUTION OF eNGINEERS",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "30-04-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-06-2015",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "Explainable AI-based Model Interpretability for Tomato Leaf Disease Identification",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "Diagnosis of Retinal Diseases with Fundus Images Using Deep Learning Method",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "adaptive traffic control using machine learning algorithm",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "Two-stage deep learning-based hybrid precoder design for very large scale massive MIMO systems",
+              "Title of Conference": "Physical Communication",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "A Smart Garbage System for Smart Cities Using Digital Image Processing",
+              "Title of Conference": "Third International Conference on Image Processing and Capsule Networks2022",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "29-07-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "Real Time Signature Forgery Detection Using Machine Learning",
+              "Title of Conference": "2022 Second International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "21-04-2022",
+              "End Date": "22-04-2022"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of Paper": "Parallel Network - A Deep Learning Approach for Blood Vessel Segmentation in Retinal fundus Images",
+              "Title of Conference": "2022 Second International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "21-04-2022",
+              "End Date": "22-04-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "EDGE AI: AN EMBEDDED APPROACH IN IMAGE PROCESSING AND IOT WITH INTEL UI XTREME KIT",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "09-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "SIMULATHON",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "03-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "CCUBE - 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "24-10-2025",
+              "End Date": "25-10-2025"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "16TH ICCCNT 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "ICCCNT",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.GOWRI",
+              "Department": "ECR",
+              "Title of the Program": "Toycathon",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "02-08-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

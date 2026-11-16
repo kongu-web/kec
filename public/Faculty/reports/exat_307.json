@@ -1,0 +1,892 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Differential and Integral Equations, Numerical Computations, Complex Analysis, Machine Learning, Cryptography, Cyber Security.",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "9994844066",
+              "E-mail": "indrakumar1729@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Academic Degree": "Ph.D.,",
+              "Specialization": "Differential and Integral Equations, Numerical Computations, Complex Analysis, Machine Learning, Cryptography, Cyber Security.",
+              "From": "01-09-2012"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Academic Degree": "M.Phil.,",
+              "Specialization": "DIFFERENTIAL EQUATIONS",
+              "From": "01-09-2010"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Academic Degree": "M.Sc.,",
+              "Specialization": "ALL PAPERS",
+              "From": "01-08-2008"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "05-06-2017",
+              "End Date": "31-07-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Best Professor Award",
+              "Level": "National",
+              "Awarded by": "WISDOM PATH FOUNDATION",
+              "Place": "Coimbatore",
+              "Date": "05-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "KALAM AWARD",
+              "Level": "National",
+              "Awarded by": "SILAMPOLI FOUNDATION",
+              "Place": "Coimbatore",
+              "Date": "27-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "TNSTC",
+              "Level": "State",
+              "Awarded by": "TAMILNADU STATE COUNCIL OF SCIENCE AND TECHNOLOGY",
+              "Place": "CHENNAI",
+              "Date": "16-04-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Ensemble Machine Learning Models for Accurate and Interpretable Weather Forecasting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "23-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)",
+              "Level": "International",
+              "Title": "Mathematical Foundations and Stability Analysis of \nTransformer Models in Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-01-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence: Theory and Applications, Springer",
+              "Level": "International",
+              "Title": "Data-Driven Approaches to Green Building Material Selection Using Deep Learning",
+              "Volume No": "5588",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of 5th International Conference on Artificial Intelligence and Smart Energy",
+              "Level": "International",
+              "Title": "Deep Neural Network Models for Comprehensive Kidney Stone Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-05-2025",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mathematics Beyond Frontiers: Recent Developments and Interdisciplinary Connections",
+              "Level": "International",
+              "Title": "Numerical simulations of computing control of systems",
+              "Volume No": "1st",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Neutrosophic Science (IJNS)",
+              "Level": "International",
+              "Title": "Neutrosophic Integrals by Reduction Formula and Partial \nFraction Methods for Indefinite Integrals",
+              "Volume No": "23",
+              "Issue No": "01",
+              "Year": "24",
+              "Date": "02-11-2023",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Gowtham Looms",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Developer",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "30-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "LAKSHMIPRIYA CLINIC",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB DEVELOPER",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "31-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5090"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "EXTREME WELLNESS STUDIO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB DEVELOPER",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "31-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SK GARMENTS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEB DEVELOPER",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "31-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "7080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Teachining with Machine Learning Tools, Techniques, and Trends",
+              "Level": "National",
+              "Organized by": "Department of Information Technology, Jeppiar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "02-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence and It's Applications",
+              "Level": "Online",
+              "Organized by": "Gyanmanjari Institute of Technology",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Securing the Future: Research-Driven Approaches to Cyber Defense & Ethical Hacking",
+              "Level": "National",
+              "Organized by": "conducted by Hackers Info-Tech, Chennai",
+              "Place": "Department of Computer Technology PG",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Teaching with AI Assistants",
+              "Level": "Online",
+              "Organized by": "Department of Computer Science and Engineering, Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV)",
+              "Place": "",
+              "Start Date": "16-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI in Teaching",
+              "Level": "National",
+              "Organized by": "The School of Computer Science and Engineering, IILM University, Noida, in association in Veritaz",
+              "Place": "Noida",
+              "Start Date": "09-01-2026",
+              "End Date": "13-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Generation Research: Integrating Mathematics with Artificial Intelligence",
+              "Level": "International",
+              "Organized by": "The Department of Mathematics, School of Engineering, Presidency University, Bengaluru, Karnataka, India",
+              "Place": "India",
+              "Start Date": "17-12-2025",
+              "End Date": "22-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "APPLICATIONS OF MATHEMATICAL & STATISTICAL TECHNIQUES IN HEALTH CARE (SDG-3)",
+              "Level": "National",
+              "Organized by": "Department of Mathematics, SRM Institute of Science and Technology",
+              "Place": "",
+              "Start Date": "08-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "New Dimension in Mathematical and Statistical Research",
+              "Level": "International",
+              "Organized by": "Department of Mathematics and Statistics, Faculty of Science and Humanities, SRM Institute of Science and Technology",
+              "Place": "Kattankulathur",
+              "Start Date": "01-12-2025",
+              "End Date": "07-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Generation Medical Automation: The Role of AI and IoMT in Transforming Healthcare Systems",
+              "Level": "Online",
+              "Organized by": "KONGUNADU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Place": "",
+              "Start Date": "01-12-2025",
+              "End Date": "06-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "National",
+              "Organized by": "The Department of Information Technology, Jeppiaar, Institute of Technology, Chennai.",
+              "Place": "",
+              "Start Date": "25-10-2025",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart  Healthcare with AI, IoT & Cybersecurity",
+              "Level": "National",
+              "Organized by": "Department of Master of  Computer Applications, Rathinam Technical Campus, Coimbatore.",
+              "Place": "Coimbatore",
+              "Start Date": "01-09-2025",
+              "End Date": "06-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for  Image, Text and Edge AI Applications",
+              "Level": "National",
+              "Organized by": "Department of Information Technology, Kongu Engineering College",
+              "Place": "Perundurai, Erode",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Convergence of AI, IoT and Cybersecurity in Industry 4.0.",
+              "Level": "National",
+              "Organized by": "Dept of CSE-Cybersecurity, School of Computer Science and Engineering, Jain (Deemed-to-be University), Bengaluru.",
+              "Place": "",
+              "Start Date": "17-03-2025",
+              "End Date": "21-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science Using Python",
+              "Level": "National",
+              "Organized by": "Department of  R P Sarathy Institute of  Technology, Salem.",
+              "Place": "Virtual",
+              "Start Date": "15-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Pedagogical Techniques in Management Education",
+              "Level": "National",
+              "Organized by": "Kamal institute of Higher Education and Advance Technology, New Delhi.",
+              "Place": "Virtual",
+              "Start Date": "21-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Industry Best Practices on Information Technology",
+              "Level": "National",
+              "Organized by": "Amity Institute of Information Technology, Mumbai.",
+              "Place": "",
+              "Start Date": "21-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovations in Sustainable Research and Modern Data-Driven Approaches",
+              "Level": "National",
+              "Organized by": "The Department of Chemistry, Physics and Mathematics, St. Joseph University, Nagaland",
+              "Place": "",
+              "Start Date": "14-10-2024",
+              "End Date": "18-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science(ML & AI)",
+              "Level": "International",
+              "Organized by": "E&ICT Academy, IIT Kanpur.",
+              "Place": "",
+              "Start Date": "09-09-2024",
+              "End Date": "15-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Exploring New Horizons in Mathematical Research",
+              "Level": "National",
+              "Organized by": "PG and Research Department of Mathematics, V.O.Chidambaram, College, Thoothukudi.",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": "24-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Scientific Software",
+              "Level": "National",
+              "Organized by": "School of Basic Sciences, The Assam.",
+              "Place": "",
+              "Start Date": "12-07-2024",
+              "End Date": "18-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Biostatistics",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "30-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Unlock Data Analytics with Mathematics and Python",
+              "Level": "National",
+              "Organized by": "Indian Mathematics Professors Association and infinity Research & Development Institute, Coimbatore.",
+              "Place": "Online",
+              "Start Date": "10-06-2024",
+              "End Date": "15-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Select Programme": "Webinar",
+              "Title of the program": "Common Yoga Protocol Training Course",
+              "Level": "National",
+              "Organized by": "Shree Hanuman Vyaym Prasarak Mandal, Amravati, Maharashtra.",
+              "Place": "",
+              "Start Date": "01-06-2024",
+              "End Date": "21-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of Paper": "Mathematical Foundations and Stability Analysis of Transformer Model in Deep Learning",
+              "Title of Conference": "5th IEEE International Conference on Information and Computation Technology in Business, Industry and Government (ICTBIG - 2025)",
+              "Organized by": "School of Computer Science and Information Technology, Symbiosis University of Applied Science, Indore",
+              "Level": "International",
+              "Start Date": "12-12-2026",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of Paper": "Ensemble Machine Learning Models for Accurate and Interpretable Weather Forecasting",
+              "Title of Conference": "6th International Conference on Expert Clouds and Applications (ICOECA-2026)",
+              "Organized by": "R V College of Engineering",
+              "Level": "International",
+              "Start Date": "09-03-2026",
+              "End Date": "11-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of Paper": "Brain Stroke Prediction Using Yolo Classifier Model",
+              "Title of Conference": "Computational Intelligence and Data Communication (ICCIDC 2025)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "10-10-2025",
+              "End Date": "11-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of Paper": "Deep Neural network Models for Comprehensive Kidney Stone Production",
+              "Title of Conference": "5th International Conference on Artificial Intelligence and Smart Energy (ICAIS).",
+              "Organized by": "JCT College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "30-01-2025",
+              "End Date": "31-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of Paper": "Data-Driven Approaches to Green Building Material Selection using Deep Learning.",
+              "Title of Conference": "2nd International Conference on Artificial Intelligence: Theory and Applications (AITA 2024)",
+              "Organized by": "ICFAI Business School(IBS) Bangalore.",
+              "Level": "International",
+              "Start Date": "09-08-2024",
+              "End Date": "10-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of the Program": "National level Workshop on - \"The science of Uncertainty: Probability and Statistics Using Machine Learning\"",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Department of Science and Humanities in Erode Sengunthar Engineering College Erode.",
+              "Start Date": "24-06-2025",
+              "End Date": "24-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.INDRAKUMAR",
+              "Department": "CTUG",
+              "Title of the Program": "Hands on Training on \"MATLAB\" Programming,",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Department of Science and Humanities in Erode Sengunthar Engineering College Erode.",
+              "Start Date": "24-04-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

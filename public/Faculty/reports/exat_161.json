@@ -1,0 +1,852 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.SANDHIYA",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Deep Learning, DBMS",
+              "Date of joining in KEC": "10-06-2022",
+              "Mobile": "8760425765",
+              "E-mail": "sandhiyaraja99@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "02-07-2020"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Academic Degree": "BE",
+              "Specialization": "Computer science and Engineering",
+              "From": "15-06-2016"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of Position": "Others",
+              "Level": "Institution",
+              "Start Date": "10-01-2022",
+              "End Date": "17-01-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of Award/Achievement": "NPTEL",
+              "Level": "International",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "24-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on NexGen Networks and Cybernetics (IC2NC)",
+              "Level": "International",
+              "Title": "Automating Corneal Diagnosis for Keratoconus Detection using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Electrical and Computer Technologies",
+              "Level": "International",
+              "Title": "Text sentiment analysis using machine learning and deep learning models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems ((LNNS,volume 1228))",
+              "Level": "International",
+              "Title": "Implementing Deep Learning Models For Identifying And Classifying Infectious Skin Disease In Humans",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-06-2025",
+              "Published at": "Scopus"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Enhanced Hypertension Disease Prediction using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Enhanced Risk Prediction of Chronic Obstructive Pulmonary Disease Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Nature Link",
+              "Level": "International",
+              "Title": "Performance Comparison of Different Convolutional Neural Network Models for the Detection of COVID-19",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "02-09-2022",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "MS Tex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "05-02-2025",
+              "Date of Consultancy (To)": "06-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "KK Construction",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "21-01-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "CarPulze",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-02-2024",
+              "Date of Consultancy (To)": "12-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9561.00"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Naturals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "15-02-2023",
+              "Date of Consultancy (To)": "18-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "7500.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Exploring IOT Technologies:A one day hands on workshop -Batch 1",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "11-10-2025",
+              "End Date": "11-10-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Exploring IOT Technologies:A one day hands on workshop-Batch 02",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "11-10-2025",
+              "End Date": "11-10-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Secure web development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-08-2025",
+              "End Date": "",
+              "Duration": "15 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "FDP",
+              "Name of Event": "FDP on Data Science",
+              "Collaboration/Sponsored by": "COE",
+              "Level": "Institute",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025",
+              "Duration": "6 Days",
+              "Role played": "Coordinator",
+              "Venue": "IT Park CC1"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "From Code to Container: A Practical Docker Bootcamp",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-03-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Getting started AI Applications with Eagle-101 Nano Developer Kit",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "04-10-2024",
+              "End Date": "05-10-2024",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Building and Deploying Applications on AWS: A Practical Workshop",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-09-2024",
+              "End Date": "21-09-2024",
+              "Duration": "01 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Workshop on Mobile Application Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-05-2024",
+              "End Date": "10-05-2024",
+              "Duration": "01 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "“MERN Stack Web development",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "20-01-2025",
+              "End Date": "24-01-2025"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Computational Techniques in Machine Learning: A Comprehensive Faculty Development Program Utilizing R Software",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence Impacts on Transforming Software, Robotics, Electrical, Electronics and Mechanical Filed",
+              "Level": "National",
+              "Organized by": "Dhaanish Ahmed College of Engineering",
+              "Place": "",
+              "Start Date": "29-08-2024",
+              "End Date": "03-09-2024"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cloud Infrastructures (AWS)",
+              "Level": "National",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "",
+              "Start Date": "21-08-2023",
+              "End Date": "25-08-2023"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Technologies for next generation Networks",
+              "Level": "National",
+              "Organized by": "Kings Engineering College",
+              "Place": "",
+              "Start Date": "17-07-2023",
+              "End Date": "22-07-2023"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "FULL  STACK DEVELOPMENT",
+              "Level": "National",
+              "Organized by": "Kamaraj College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "11-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Reality and Augmented Reality",
+              "Level": "National",
+              "Organized by": "Scopik Edutech Pvt Ltd",
+              "Place": "",
+              "Start Date": "10-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Problem Solving Skills through competitive coding platforms",
+              "Level": "Online",
+              "Organized by": "Talentio",
+              "Place": "",
+              "Start Date": "09-02-2023",
+              "End Date": "11-02-2023"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research and Paper Writing",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "23-09-2022",
+              "End Date": "23-09-2022"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research Perspectives and Future Trends in Artificial Intelligence and Data Science",
+              "Level": "National",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "",
+              "Start Date": "22-08-2022",
+              "End Date": "26-08-2022"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Python For Data Science",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-07-2022",
+              "End Date": "30-08-2022"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Role of Post Quantum Cryptography in Defence and Security of Future India",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "02-01-2022",
+              "End Date": "03-01-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "Others",
+              "Start Date": "14-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of Paper": "Keratoconus Detection Using Machine Learning",
+              "Title of Conference": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "03-05-2024",
+              "End Date": "04-05-2024"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of Paper": "Employing Deep Learning Algorithm to Identify Diabetic Retinopathy",
+              "Title of Conference": "2022 5th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-12-2022",
+              "End Date": "16-12-2022"
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of Paper": "BTSAH: Batch Task Scheduling Algorithm Based on Hungarian Algorithm in Cloud Computing Environment",
+              "Title of Conference": "International Conference on Hybrid Intelligent Systems",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of Paper": "Deep learning based sentiment analysis and offensive language identification on multilingual code-mixed data",
+              "Title of Conference": "Scientific Reports",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of Paper": "Performance Comparison of Different Convolutional Neural Network Models for the Detection of COVID-19",
+              "Title of Conference": "Springer Nature Singapore",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-09-2022",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of the Program": "KEC Hackathon",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "KEC",
+              "Start Date": "17-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.SANDHIYA",
+              "Department": "ITR",
+              "Title of the Program": "Innovatix",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "CSI KEC",
+              "Start Date": "14-03-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

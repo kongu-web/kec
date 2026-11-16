@@ -1,0 +1,917 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Designation": "ASSISTANT PROFESSOR(SELECTION GRADE)",
+              "Area of Specialisation": "Control and Instrumentation, Biomedical Instrumentation, Soft Computing",
+              "Date of joining in KEC": "15-11-2006",
+              "Mobile": "9344668801",
+              "E-mail": "ksjanarthanan@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Academic Degree": "ME",
+              "Specialization": "Control and Instrumentation",
+              "From": "01-07-2003"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Academic Degree": "BE",
+              "Specialization": "Instrumentation and Control Engineering",
+              "From": "01-08-1998"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "15-11-2006",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "Intelligent Anaesthesia Dosage Monitoring System using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In Proceedings of the 3rd International Conference on Futuristic Technology (INCOFT 2025)",
+              "Level": "International",
+              "Title": "Fault Identification of PV Cells in Solar Panel Using Reinforcement Learning",
+              "Volume No": "2",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-12-2025",
+              "Published at": "SCITEPRESS – Science and Technology Publications"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 9th International Conference on Communication and Electronics Systems (ICCES)",
+              "Level": "International",
+              "Title": "Enhancing Factory Automation Through Facial Recognition Using Phoenix PLC and Factory I/O",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC2024) AIP Conference Proceeding",
+              "Level": "International",
+              "Title": "Automatic water curing process using sprinkler method",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+              "Level": "International",
+              "Title": "Automatic Pathway Diverter for Conveyor in Packing Section of Cement Factory",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Level": "International",
+              "Title": "Filtration and Deposition Rate of Viscose Fiber in Textile Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 2nd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)",
+              "Level": "International",
+              "Title": "Automated Fabric Feeding Guide in Continuous Rotary Fabric Printing Machine",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "08-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Level": "International",
+              "Title": "Patient Health Monitoring using Foot Pressure",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "25-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 5th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+              "Level": "International",
+              "Title": "Design and Development of Thickness Measuring System for Copper Wire",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "Design and Development of Automatic Tomato Sorting Intelligent System using Image Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 International Conference on Edge Computing and Applications (ICECAA)",
+              "Level": "International",
+              "Title": "Investigation of Kidney Stone Detection using Image Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "08-11-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of International Science and Technology",
+              "Level": "International",
+              "Title": "Performance Analysis of Human Brain waves for the detection of Concentration Level",
+              "Volume No": "7",
+              "Issue No": "2",
+              "Year": "2018",
+              "Date": "01-04-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF CURRENT ENGINEERING AND SCIENTIFIC RESEARCH (IJCESR)",
+              "Level": "National",
+              "Title": "ANALYSING THE SEVERITY OF HUMAN ATTENTION BASED\nON AGE FLUCTUATION",
+              "Volume No": "5",
+              "Issue No": "2",
+              "Year": "2018",
+              "Date": "01-03-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Advanced Computing and Communication Technologies",
+              "Level": "International",
+              "Title": "Non-Integer Order Controller Based Robust Performance Analysis of a Conical Tank System",
+              "Volume No": "5",
+              "Issue No": "2",
+              "Year": "2017",
+              "Date": "01-04-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Information Communication and Embedded Systems (ICICES2014)",
+              "Level": "International",
+              "Title": "Performance analysis of non-integer order PID controller for liquid level control of conical tank system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "09-04-2015",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Project": "TNSCST",
+              "Title of Project": "Solar panel fault detection and improve efficiency using Reinforcement Learning",
+              "Funding Agency": "TNSCST",
+              "Name of the Scheme": "Student Project Schemes(2024-25)",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "13-05-2025",
+              "Duration": "3 months",
+              "Status": "Ongoing"
+            },
+            {
+              "Principal Investigator": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Project": "Fundened",
+              "Title of Project": "Design and Development of Test bench for sound and vibration analysis in electrical machines using Virtual Instrumentation",
+              "Funding Agency": "Department of Science and Technology",
+              "Name of the Scheme": "JTP Schemes",
+              "Co-Investigator(s)": "S Janarthanan",
+              "Project Start Date": "02-06-2007",
+              "Duration": "4",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivam Appeal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Automation",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-04-2022",
+              "Date of Consultancy (To)": "30-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "LabVIEW Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "17",
+              "Role played": "Coordinator",
+              "Venue": "EIE computer center"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VC121- LabVIEW Programming for IoT and Industrial Automation",
+              "Collaboration/Sponsored by": "Aadhyaa Skills Research and Development  Chennai - 600048",
+              "Level": "Department",
+              "Start Date": "13-09-2025",
+              "End Date": "28-09-2025",
+              "Duration": "6",
+              "Role played": "Coordinator",
+              "Venue": "EIE Research Laboratory"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "20VC109- Machine Learning for Industrial Automation",
+              "Collaboration/Sponsored by": "Punchbiz",
+              "Level": "Institute",
+              "Start Date": "15-03-2023",
+              "End Date": "02-05-2023",
+              "Duration": "6",
+              "Role played": "Coordinator",
+              "Venue": "EIE research Laboratory"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Uses of Functional Materials in Healthcare",
+              "Collaboration/Sponsored by": "ICMR",
+              "Level": "National",
+              "Start Date": "27-04-2017",
+              "End Date": "28-04-2017",
+              "Duration": "2",
+              "Role played": "Joint Convener",
+              "Venue": "Homi J BhaBha Seminal Hall"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Research issues: Smart Material Design Profession for Biomedical Applications",
+              "Collaboration/Sponsored by": "INSA",
+              "Level": "National",
+              "Start Date": "10-10-2016",
+              "End Date": "11-10-2016",
+              "Duration": "2",
+              "Role played": "Convener",
+              "Venue": "Homi J BhaBha Seminal Hall, EIE Department"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI and Machine learning for Engineering and Healthcare",
+              "Level": "National",
+              "Organized by": "Vidhyalankar Institute of Technology , Mumbai",
+              "Place": "",
+              "Start Date": "15-06-2026",
+              "End Date": "20-06-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI & ML based Health care Research Tools, Trends and challenges in health care system",
+              "Level": "National",
+              "Organized by": "Jothy Engineering College Trissur & NIT Manipur",
+              "Place": "NIT Manipur (Online)",
+              "Start Date": "21-05-2026",
+              "End Date": "26-05-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning and Deep Learning in Agriculture and Biomedical Engineering",
+              "Level": "National",
+              "Organized by": "IIIT Kahragphur",
+              "Place": "online",
+              "Start Date": "12-05-2026",
+              "End Date": "16-05-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cutting Edge Innovations for Next Generation Modern Healthcare Systems",
+              "Level": "National",
+              "Organized by": "SAVEETHA ENGINEERING COLLEGE-IEEE",
+              "Place": "",
+              "Start Date": "23-03-2026",
+              "End Date": "27-03-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Universal Human Values(Inculcating Universal Human Values in Technical Education)“",
+              "Level": "National",
+              "Organized by": "FDTC, Government Institute of Technology , Coimbatore",
+              "Place": "Coimbatore",
+              "Start Date": "24-11-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Role of AI in Next Generation Applications",
+              "Level": "State",
+              "Organized by": "Vidhyalankar Polytechnic",
+              "Place": "Polytechnic college in Indapur, Maharashtra",
+              "Start Date": "16-06-2025",
+              "End Date": "28-07-2025"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI and Digital Technologies for Sustainable Healthcare and Medical Technologies",
+              "Level": "National",
+              "Organized by": "Institute of Technology, Nirma University, S G Highway, Ahmedabad",
+              "Place": "Ahmedabad",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "GEN AI tools and techniques",
+              "Level": "National",
+              "Organized by": "Madanapalle Institute of technology and science, Madanapalle, Andhra Pradesh",
+              "Place": "Madanapalle, Andhra Pradesh",
+              "Start Date": "11-11-2024",
+              "End Date": "16-11-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Evolving Landscape of Data science- currents Trends and Patterns",
+              "Level": "National",
+              "Organized by": "Department of CSE, Hindustan Arts and science college",
+              "Place": "Coimbatore",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Industrial Applications of Embedded system and IoT",
+              "Level": "National",
+              "Organized by": "Rajalakshmi Engineering College, Chennai",
+              "Place": "Chennai",
+              "Start Date": "22-08-2024",
+              "End Date": "28-08-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Radiological Equipments",
+              "Level": "National",
+              "Organized by": "Kings Engineering College",
+              "Place": "Sriperumpudur",
+              "Start Date": "24-07-2024",
+              "End Date": "29-07-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning in Healthcare and Agriculture",
+              "Level": "National",
+              "Organized by": "Indian Institute of information Technology, Bagalpure.",
+              "Place": "Bagalpure.",
+              "Start Date": "09-05-2024",
+              "End Date": "13-05-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "ICT Tools for Research and Teachers",
+              "Level": "National",
+              "Organized by": "Government College of technology",
+              "Place": "Coimbatore",
+              "Start Date": "18-03-2024",
+              "End Date": "22-03-2024"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Current Trends in wearable technologies in textile industry",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "05-02-2024",
+              "End Date": "02-02-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "International Association of Engineers",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "02-10-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Title of Paper": "DESIGN OF FLOATING SENSOR SYSTEM FOR CONTINUOUS MEASUREMENT OF RIVER WATER LEVELS AND PHYSIOCHEMICAL PARAMETERS",
+              "Title of Conference": "4th International Conference on Intelligent Cyber Physical System and Internet of Things (ICoICI-2026)",
+              "Organized by": "Department of EEE, JCT College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "02-09-2026",
+              "End Date": "03-09-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Title of Paper": "AUTOMATIC FABRIC QUALITY INSPECTION SYSTEM IN TEXTILE INDUSTRY",
+              "Title of Conference": "10th International Conference on Inventive Systems and Control (ICISC 2026)",
+              "Organized by": "JCT College of Engineering and Technology, Coimbatore, India",
+              "Level": "International",
+              "Start Date": "05-08-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Title of Paper": "Intelligent Anaesthesia Dosage Monitoring System using Machine Learning",
+              "Title of Conference": "2026 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "11-02-2026",
+              "End Date": "11-02-2026"
+            },
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Title of Paper": "Fault Identification of PV Cells in Solar Panel using reinforcement learning",
+              "Title of Conference": "3rd International Conference on  Futuristic Technologies 2025",
+              "Organized by": "Western Business School,Siddhant Group of Institutions,",
+              "Level": "International",
+              "Start Date": "20-02-2025",
+              "End Date": "21-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JANARTHANAN",
+              "Department": "EIR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Method of Controlling Portable Robo Arm for Teaching & Playing purpose using IoT sensors",
+              "Name of Application": "",
+              "Co-inventors Name": "M.THangatamilan",
+              "Application Number": "201911053944A",
+              "Date of Registration": "26-12-2019",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "03-03-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

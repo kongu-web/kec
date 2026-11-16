@@ -1,0 +1,485 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.RAMYA",
+              "Department": "FTR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "FOOD TECHNOLOGY",
+              "Date of joining in KEC": "10-07-2024",
+              "Mobile": "9080847407",
+              "E-mail": "ramya.ft@kongu.a.cin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Academic Degree": "M.TECH",
+              "Specialization": "FOOD TECHNOLOGY",
+              "From": "24-10-2019"
+            },
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Academic Degree": "B.TECH",
+              "Specialization": "FOOD TECHNOLOGY",
+              "From": "27-07-2015"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "18-08-2022",
+              "End Date": "03-07-2024",
+              "Duration": "1 YEAR 9 MONTHS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-FTR-M.RAMYA-432aa187-f269-4a72-8a7c-0b4fe0816249.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fa49450b4aab5f838ab6258fa56efa097d2622337e4f0c309c0d8abf21c89640",
+                  "name": "appointment order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "HRGSqhEJEXB22rXiX",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-FTR-M.RAMYA-d4d77eb8-9153-48a5-9805-fdabe422c334.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=807aa802b48a95ccac55afd28fe2ddcaeedd83c3978ccbe0f7900408d6a0c0e0",
+                  "name": "releiving order bit.pdf",
+                  "totalRecords": null,
+                  "resourceId": "noJ7NXWaModZmEQ2u",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Name of the Industry/Organization": "S M SUBRAMANIAN",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "Physicochemical & microbiological analysis",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-06-2025",
+              "Date of Consultancy (To)": "07-07-2025",
+              "Revenue Generated (amount in Rupees without GST)": "2000"
+            },
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Name of the Industry/Organization": "Mr. K. V. Satheesh Kumar, AP/MECH",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "PROTEIN ISOLATE ANALYSIS",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "31-05-2025",
+              "Date of Consultancy (To)": "11-06-2025",
+              "Revenue Generated (amount in Rupees without GST)": "1400"
+            },
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Name of the Industry/Organization": "KVIT TRUST",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "OIL ANALYSIS",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "29-05-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "2400"
+            },
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Name of the Industry/Organization": "RICHBITE NATURAL FOOD PRODUCT",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "NEW PRODUCT DEVELOPMENT",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "05-05-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "4200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Select Programme": "FDP",
+              "Title of the program": "INNOVATIVE APPROACHES TO ENERGY, SUSTAINABILITY AND CLIMATE RESILIENCE: TEACHING AND RESEARCH STRATEGIES FOR A GREENER FUTURE",
+              "Level": "National",
+              "Organized by": "Nandha Engineering College",
+              "Place": "",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMYA",
+              "Department": "FTR",
+              "Title of Paper": "Development and Formulation of Instant Rasam Mix using Herbs and Spices",
+              "Title of Conference": "Innovations in Science, Technology, Agriculture and Healthcare Applications (NC-ISTAH 2024)",
+              "Organized by": "NEHRU GROUP OF INSTITUTIONS",
+              "Level": "National",
+              "Start Date": "23-08-2024",
+              "End Date": "24-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

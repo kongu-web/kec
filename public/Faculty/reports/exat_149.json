@@ -1,0 +1,1520 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Designation": "PROFESSOR",
+              "Area of Specialisation": "CSE",
+              "Date of joining in KEC": "16-07-2001",
+              "Mobile": "9442274215",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "ICE",
+              "From": "01-01-2005"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "03-07-2000"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electronics and Communication",
+              "From": "01-08-1985"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "03-01-1990",
+              "End Date": "21-01-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Best Teacher Award",
+              "Level": "Others",
+              "Awarded by": "KVITT",
+              "Place": "",
+              "Date": "23-04-2010"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Best Faculty",
+              "Level": "Others",
+              "Awarded by": "KVITT",
+              "Place": "Perundurai",
+              "Date": "25-04-1997"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Discover Computing",
+              "Level": "International",
+              "Title": "A blockchain-based scalable authentication framework for secure data sharing in internet of vehicles",
+              "Volume No": "Volume 29",
+              "Issue No": "640",
+              "Year": "2026",
+              "Date": "05-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Food Process Engineering",
+              "Level": "International",
+              "Title": "Optimization and Process Validation of Freeze-Structured Meat Substitute Using\nMachine Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cluster Computing",
+              "Level": "International",
+              "Title": "Enhancing security and scalability by AI/ML workload optimization\nin the cloud",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "13-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal on Artificial Intelligence Tools",
+              "Level": "International",
+              "Title": "Efficient Multimodal Biometric Recognition for Secure Authentication Based on Deep Learning Approach",
+              "Volume No": "Vol.32(3),",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "10-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Expert Systems",
+              "Level": "International",
+              "Title": "Multi?disease classification model using deep neural network and Strassen's rectilinear fine?tune bouncing training algorithm",
+              "Volume No": "40",
+              "Issue No": "8",
+              "Year": "2023",
+              "Date": "03-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Int. J. Ad Hoc and Ubiquitous Computing,",
+              "Level": "International",
+              "Title": "Analytical review on secure communication\nprotocols for 5G and IoT networks",
+              "Volume No": "40",
+              "Issue No": "1/2/3",
+              "Year": "2022",
+              "Date": "14-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Transaction on Telecommunication technologies",
+              "Level": "International",
+              "Title": "Blockchain enabled joint trust (MF-WWO-WO) algorithm\nfor clustered-based energy efficient routing protocol in\nwireless sensor network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "08-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific Reports Journal",
+              "Level": "International",
+              "Title": "Enhanced multimodal biometric recognition approach for smart cities based on an optimized fuzzy genetic algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Turkish Journal of Electrical Engineering & Computer Sciences",
+              "Level": "International",
+              "Title": "A futuristic approach to generate random bit sequence using dynamic perturbed\nchaotic system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "03-09-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Personal Communications",
+              "Level": "International",
+              "Title": "Enhanced WSN Routing Protocol for Internet of Things\nto Process Multimedia Big Data",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nonlinear Dynamics",
+              "Level": "International",
+              "Title": "Design of pseudo-random number generator\nfrom turbulence padded chaotic map",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "28-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Acta Polytechnica Hungarica",
+              "Level": "International",
+              "Title": "Secure Remote User Authentication Scheme on Health Care, IoT and Cloud Applications:\nA Multilayer Systematic Survey",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "05-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Peer-to-Peer Networking and Applications",
+              "Level": "International",
+              "Title": "Cancelable Iris template for secure authentication based on random\nprojection and double random phase encoding",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "03-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Sådhanå",
+              "Level": "International",
+              "Title": "A modernistic approach for chaotic based pseudo random number\ngenerator secured with gene dominance",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "17-11-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Communications and Mobile Computing",
+              "Level": "International",
+              "Title": "Enhanced Biometric Recognition for Secure Authentication Using\nIris Preprocessing and Hyperelliptic Curve Cryptography",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "17-09-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ComputerModeling in Engineering & Sciences",
+              "Level": "International",
+              "Title": "A Novel Forgery Detection in Image Frames of the Videos\nUsing Enhanced Convolutional Neural Network in Face Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "14-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BULLETIN OF THE POLISH ACADEMY OF SCIENCES TECHNICAL SCIENCES",
+              "Level": "International",
+              "Title": "Multi-factor signcryption scheme for secure authentication\nusing hyper elliptic curve cryptography and bio-hash function",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "04-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research (IJSTR)",
+              "Level": "International",
+              "Title": "Twining Technique to Minimize  collinearity in Cryptographically Secure Pseudorandom Number Generator",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "02-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "A Block Chain Based Framework to Enhance Security against Cyber Attacks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "04-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Sensor-Seeded Cryptographically Secure Random\nNumber Generation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "02-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "An Efficient Signcryption Scheme for Secure\nAuthentication using Hyper Elliptic Curve\nCryptography and Keccak Hashing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "02-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Int. J. Business Intelligence and Data Mining",
+              "Level": "International",
+              "Title": "Performance amelioration of MANETs using cooperative routing with cross-layer design",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "04-06-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of cluster computing, Springer publications",
+              "Level": "International",
+              "Title": "Intrusion Detection of Distributed Denial of Service Attack in Cloud",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "04-09-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Research Journal of Biotechnology",
+              "Level": "International",
+              "Title": "Protection against wormhole attack using smart protocol in MANET",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "01-08-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computer Science and Information Security",
+              "Level": "International",
+              "Title": "Attack Resistant Cloud based IP Traceback Framework for Internet Service Providers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "01-06-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Research Journal of Bio technology",
+              "Level": "International",
+              "Title": "Tree Based Classifiers for Distributed Denial of Service\nAttack Classification in Biotech and Science as a Service",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "01-05-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Biometric Signcryption using Hyperelliptic Curve and Cryptographically Secure Random Number",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "03-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation & Soft Computing",
+              "Level": "International",
+              "Title": "Region based find and spray scheme for co-operative data communication in vehicular cyber-physical systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "30-08-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Technologies in Networking and Security (ETNS)",
+              "Level": "International",
+              "Title": "PERFORMANCE EVALUATION OF TRUST MODAL WITH INVASIVE WEED OPTIMIZATION",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "28-08-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Personal Communication",
+              "Level": "International",
+              "Title": "Renaissance System Model Improving Security\nand Third Party Auditing in Cloud Computing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "12-04-2016",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Full stack Training",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "14-03-2026",
+              "Date of Consultancy (To)": "14-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "17542"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "KGM software",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "ERP software development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "02-03-2026",
+              "Date of Consultancy (To)": "15-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Kongu Hi-tech Rice Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "software for stock maintenance",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-01-2026",
+              "Date of Consultancy (To)": "21-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30339"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Lumo Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Billing system management",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-01-2026",
+              "Date of Consultancy (To)": "21-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Nandhini Marketing",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Pay Track for management",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-01-2025",
+              "Date of Consultancy (To)": "17-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Durai auto parts",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Invoice development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-01-2025",
+              "Date of Consultancy (To)": "13-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Rk Fiber-Namakkal, Senthil Raj &co-Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "website development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "03-01-2024",
+              "Date of Consultancy (To)": "30-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Artha Textiles, Extreme Fitness",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Billing software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-01-2023",
+              "Date of Consultancy (To)": "30-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "20060"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Arvind Chettinad snacks & Chennisenthur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "website development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "04-07-2022",
+              "Date of Consultancy (To)": "31-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "20060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Mastering Full Stack Development with MERN",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "05-04-2025",
+              "End Date": "05-04-2025",
+              "Duration": "1",
+              "Role played": "Convener",
+              "Venue": "Computer Centre8"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building dynamic UIs with React jS",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "19-10-2024",
+              "End Date": "",
+              "Duration": "1day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Block chain based cyber security in defence:Reinforcing digital resilence",
+              "Collaboration/Sponsored by": "DRDO",
+              "Level": "National",
+              "Start Date": "04-06-2024",
+              "End Date": "05-06-2024",
+              "Duration": "2days",
+              "Role played": "Convener",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Geospatial Block Chain: Exploration of Promises, Challenges and Opportunities in Healthcare”",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "20-03-2020",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Metaverse in Digital Health care: New Frontiers and Design Thinking",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "Coimbatore",
+              "Start Date": "17-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advancing Healthcare and Med-Tech through Machine Learning: From Theory to Practice",
+              "Level": "National",
+              "Organized by": "AICTE Training and Learning (ATAL) Academy",
+              "Place": "KEC",
+              "Start Date": "03-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Physics for Engineering",
+              "Level": "National",
+              "Organized by": "Physics department",
+              "Place": "KEC",
+              "Start Date": "02-09-2024",
+              "End Date": "03-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Soft Skills for Capacity Building",
+              "Level": "International",
+              "Organized by": "St. Joseph’s College (Autonomous),",
+              "Place": "Tiruchirappalli, Tamil Nadu, India",
+              "Start Date": "25-09-2023",
+              "End Date": "29-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Crack AI with ML algorithms",
+              "Level": "National",
+              "Organized by": "CT-PG",
+              "Place": "KEC",
+              "Start Date": "01-09-2023",
+              "End Date": "16-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Creative Thinking",
+              "Level": "National",
+              "Organized by": "ICTACT",
+              "Place": "VET Institute of Arts and Science",
+              "Start Date": "16-08-2023",
+              "End Date": "18-08-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Education 5.0",
+              "Level": "National",
+              "Organized by": "Dr.M.G.R educational research institute",
+              "Place": "chennai",
+              "Start Date": "15-05-2023",
+              "End Date": "19-05-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI & IoT in Biomedical Engineering",
+              "Level": "National",
+              "Organized by": "Department of Computer Science & Engineering, IIIT",
+              "Place": "Bhagalpur",
+              "Start Date": "02-05-2023",
+              "End Date": "06-05-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Integrated AI in datascience and its applications in cloud",
+              "Level": "National",
+              "Organized by": "GCT",
+              "Place": "Coimbatore",
+              "Start Date": "06-03-2023",
+              "End Date": "10-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Effective usages of educational technology in Teaching Learning Process as a part of  NBA accrediation",
+              "Level": "International",
+              "Organized by": "M.S. Ramaiah Institute of Technology",
+              "Place": "Bangalore",
+              "Start Date": "22-06-2020",
+              "End Date": "26-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "NLP in AI",
+              "Level": "International",
+              "Organized by": "Guntur Engineering College",
+              "Place": "Guntur",
+              "Start Date": "17-06-2020",
+              "End Date": "22-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Networking Technologies",
+              "Level": "International",
+              "Organized by": "Shadan college of Engineering and Technology",
+              "Place": "Hyderabad",
+              "Start Date": "13-06-2020",
+              "End Date": "15-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning",
+              "Level": "International",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "08-06-2020",
+              "End Date": "12-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning and Data Science for Engineering Applications",
+              "Level": "International",
+              "Organized by": "SHADAN COLLEGE OF ENGINEERING & TECHNOLOGY",
+              "Place": "Hyderabad",
+              "Start Date": "05-06-2020",
+              "End Date": "10-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence",
+              "Level": "International",
+              "Organized by": "AICTE Training And Learning (ATAL) Academy",
+              "Place": "Dr Harisingh Gour University Sagar,MP",
+              "Start Date": "25-05-2020",
+              "End Date": "30-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence",
+              "Level": "International",
+              "Organized by": "SIR C.R REDDY COLLEGE OF ENGINEERING",
+              "Place": "Eluru,AP",
+              "Start Date": "22-05-2020",
+              "End Date": "26-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to data science",
+              "Level": "International",
+              "Organized by": "Guntur Engineering College",
+              "Place": "Guntur",
+              "Start Date": "18-05-2020",
+              "End Date": "22-05-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-01-2009",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "CSI",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-01-2009",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Deep Learning-based Multiclass Classification of Viral, Bacterial, Pneumonia and Healthy Lungs from Chest Radiographs",
+              "Title of Conference": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "KEC",
+              "Level": "International",
+              "Start Date": "24-08-2024",
+              "End Date": "28-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Multiple Disease Prediction With Effective Feature Engineering Technique",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "A Deep Learning Technique for Chest Radiograph - based Pneumonia Prediction",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Cirrhosis Disease Prediction Using Machine Learning",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "03-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "An Extensive Analysis of CNN Models for Plant Disease Recognition and Recommendations",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-05-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "A Review on Kidney Failure Prediction UsingMachine Learning Models",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "A Review on Kidney Failure Prediction using Machine Learning Models",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Detecting Depression using Quality-of-Life Attributes with Machine Learning Techniques",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Detecting Depression using Quality-of-Life Attributes with Machine Learning Techniques",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-05-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Design and development of digital e-library",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Online food court payment processing using blockchain",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Scheduling task and offloading process based on KNN and NB algorithm on cloud",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "A cutting-edge approach to generate random bit sequence with confound chaotic maps",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Modified Linear Congruential Generator to Secure Random Number Generation",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Investigation of Strength and Security of Pseudo Random Number Generators",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "03-05-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "An Enhanced Anti-phishing Scheme to Detect Phishing Website",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-12-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Reinforcing Cyber World Security with Deep Learning Approaches",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "28-07-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "An Enhanced Anti-phishing Scheme to Detect Phishing Website",
+              "Title of Conference": "IVC RAISE 2020",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "04-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "AN OVERVIEW OF BLOCK CHAIN BASED FRAMEWORK TO ENHANCE SECURITY AGAINST CYBER ATTACKS",
+              "Title of Conference": "RECENT TRENDS AND CHALLENGES IN HEALTHCARE INFORMATICS (RCHI)",
+              "Organized by": "KEC",
+              "Level": "International",
+              "Start Date": "12-12-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "TWINING TECHNIQUE TO MINIMIZE COLLINEARITY IN CRYPTOGRAPHICALLY SECURE PSEUDORANDOM NUMBER GENERATOR",
+              "Title of Conference": "RECENT TRENDS AND CHALLENGES IN HEALTHCARE INFORMATICS (RCHI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "12-12-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Energy Efficient Cluster Formation in Wireless Sensor Networks Based on Multi Objective Bat Algorithm",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "An Improvement on password protection based on tradeoff between security and usability",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "09-03-2018",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "A hybrid GA-IWO scheduling algorithm",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "16-02-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of Paper": "Enhancing quality of service in MANETS by effective routing",
+              "Title of Conference": "International Conference on Wireless Communication and Sensor Computing (ICWCSC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-01-2010",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of the Program": "ICAMAC2025",
+              "Role": "Jury/Judge",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of the Program": "Final DC meeting",
+              "Role": "DC Member",
+              "Level": "State",
+              "Organized by": "",
+              "Start Date": "18-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.PREMALATHA",
+              "Department": "ITR",
+              "Title of the Program": "2023 IEEE Sponsored International Conference on Electrical, Computer and Communication Technologies (ICECCT 2023)",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "Velalar Engineering College",
+              "Start Date": "22-02-2023",
+              "End Date": "24-02-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "Efficient key Generation for robust Cryptographic Algorithms using Secure Random Numbers",
+              "Name of Scholar": "K. Sathya",
+              "Date of Registration": "15-06-2018",
+              "Registration No:": "18244697226",
+              "Status": "Completed",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "30-03-2022"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "An efficient biometric signcryption scheme for secure authentication using hyper elliptic curve cryptosystem",
+              "Name of Scholar": "Vani Rajasekar",
+              "Date of Registration": "15-06-2018",
+              "Registration No:": "18244697228",
+              "Status": "Completed",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "30-03-2022"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "Performance evaluation of traditional and heuristic scheduling with renaissance system model in cloud computing",
+              "Name of Scholar": "Mr.K.Logeswaran,",
+              "Date of Registration": "10-01-2013",
+              "Registration No:": "1313469114",
+              "Status": "Completed",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "13-11-2018"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "Improvisation of Adhoc on demand distance vector routing protocol to mitigate certain attacks of network layer in mobile adhoc networks",
+              "Name of Scholar": "Ms.M.Kiruthika",
+              "Date of Registration": "18-01-2012",
+              "Registration No:": "11210932004",
+              "Status": "Completed",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "30-01-2020"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "An enhanced BAT algorithm for intrusion detection of DoS and DDoS attack in cloud",
+              "Name of Scholar": "Mr.S.Velliangiri,",
+              "Date of Registration": "18-01-2012",
+              "Registration No:": "11260631072",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "13-11-2018"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.J.PREMALATHA",
+              "Title of the thesis for scholar": "Performance amelioration of QoS in MANETs using cross layer design",
+              "Name of Scholar": "Mr.S.Mylsamy",
+              "Date of Registration": "07-07-2011",
+              "Registration No:": "71130631030",
+              "Status": "Completed",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "18-12-2018"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

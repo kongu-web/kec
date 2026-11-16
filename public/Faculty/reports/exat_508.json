@@ -1,0 +1,1011 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.GAYATHRI",
+              "Department": "AI",
+              "Designation": "",
+              "Area of Specialisation": "Cloud Computing , Machine Learning",
+              "Date of joining in KEC": "11-06-2025",
+              "Mobile": "9486657591",
+              "E-mail": "gayathris3012@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Academic Degree": "PG",
+              "Specialization": "CSE",
+              "From": "02-06-2014"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Academic Degree": "UG",
+              "Specialization": "CSE",
+              "From": "01-07-2011"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Academic Degree": "12th",
+              "Specialization": "Maths",
+              "From": "01-06-2005"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Academic Degree": "10th",
+              "Specialization": "Maths",
+              "From": "01-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K. S. Rangasamy College of Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "18-01-2021",
+              "End Date": "06-06-2025",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-S.GAYATHRI-3bba95d9-0393-4112-9ee7-f1c0be0573c9.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d4c54640ca8b7d4599b7c66a003e2c4cc6b794ceef04dded80e0e204fcd4b54e",
+                  "name": "BEQPG9532Q-1.pdf",
+                  "totalRecords": null,
+                  "resourceId": "yMpqNnhypracJvhoR",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Sri Shanmugha College of Engineering and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "02-06-2016",
+              "End Date": "15-05-2017",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-S.GAYATHRI-2551558d-7dd8-403e-be94-9006c4cd7c9a.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9d57b25d632e3ebe59d4949adb1e1cb691dd15c9d9c96ac7a44016110b42fae3",
+                  "name": "Experience and Relieving order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "zmiy295WAa7Z4ACnT",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 5th International Conference on Communication, Computing and Electronics Systems (ICCCES).",
+              "Level": "International",
+              "Title": "Hybrid Ensemble Learning Framework for Multi-Class Brain Hemorrhage Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "21-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",
+              "Level": "International",
+              "Title": "AI-Powered Big Data Analytics for Personalized Learning in Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Level": "International",
+              "Title": "An AI-Powered Chatbot for Advanced Scan Interpretation of Brain Tumors, Pneumonia, and Lung Cancer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 6th International Conference on Mobile Computing and Sustainable Informatics",
+              "Level": "International",
+              "Title": "Healthcare Data Protection and Biometric \nAccess on Cloud Platforms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 6th International Conference on Mobile Computing and Sustainable Informatics",
+              "Level": "International",
+              "Title": "Integrating Fuzzy Approach in Text Mining and Summarization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computer Networks",
+              "Level": "International",
+              "Title": "Dynamic network slicing based resource management and service aware \nVirtual Network Function (VNF) migration in 5G networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "National Conference on Intelligent Computing Technologies and Business Systems",
+              "Level": "National",
+              "Title": "Heart Disease Prediction Using Machine Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "11-05-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Applied Artificial Intelligence and Computing",
+              "Level": "International",
+              "Title": "Interactive Tactile Book Framework for \nVisually Challenged Community",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Emerging Trends in Information Technology and Engineering",
+              "Level": "International",
+              "Title": "Interactive Data Science Hub With Chatbot",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Data Acquisition and Processing",
+              "Level": "International",
+              "Title": "REAL-TIME VEHICLE DETECTION USING OPENCV AND PYTHON",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Computer Science (IRJCS)",
+              "Level": "International",
+              "Title": "DEEP NEURAL NETWORK ALGORITHMS AND THEIR \nROLE: A SYSTEMATIC REVIEW",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-02-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal Of Engineering And Computer Science ISSN: 2319-7242",
+              "Level": "International",
+              "Title": "Distortion-Resistant Routing Framework for Video Traffic in Wireless \nNetworks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "01-11-2016",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "GREEN KOOLERS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-12-2026",
+              "Date of Consultancy (To)": "24-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "12000"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Vee Agency",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "30-12-2025",
+              "Date of Consultancy (To)": "16-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "IIPC- Hands on training : Data Visualization and Analytics using Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-02-2026",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Event": "Others",
+              "Name of Event": "Non formal",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "17 days",
+              "Role played": "Others",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Event": "Others",
+              "Name of Event": "One Credit",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "13-09-2025",
+              "End Date": "26-10-2025",
+              "Duration": "8 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Event": "Others",
+              "Name of Event": "Non Formal",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "25-09-2025",
+              "Duration": "17 days",
+              "Role played": "Others",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Mobile Application Development using flutter and firebase",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Android Basics with Compose",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-06-2025",
+              "End Date": "29-06-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative and ethical AI: Techniques and Applications with hands-on",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Palo Alto Cloud Security Fundamentals",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-08-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Practicing Analytics with Data Science",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-07-2024",
+              "End Date": "12-07-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "The Joy of Computing Using Python",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analytics: Crash Course workshop",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning Techniques for Social Media Analytics",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-04-2024",
+              "End Date": "20-04-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "DESIGN THINKING on STRATEGIC DEVELOPMENT GOALS(SDG)",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-11-2023",
+              "End Date": "02-12-2023"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Salesforce Platform Developer 1 (Online FDP)",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "04-09-2023",
+              "End Date": "09-09-2023"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "R Systems Women Educators Empowerment Program",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-02-2023",
+              "End Date": "17-02-2023"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "7 Day National Level Online Faculty Development Program on Outcome Based Education (OBE) in Computer Science Discipline",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Problem Solving and Python Programming",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-07-2022",
+              "End Date": "30-07-2022"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Linux and c Programming",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "28-04-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Fundamentals of AI (Online LIVE FDP",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "13-09-2021",
+              "End Date": "17-09-2021"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Creating Microsites on Infosys Springboard",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "31-08-2021",
+              "End Date": "21-09-2021"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Train The Trainer Program on Java Programming",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "Hybrid Ensemble Learning Framework for Multi-Class Brain Hemorrhage Classification",
+              "Title of Conference": "5th International Conference on Communication, Computing and Electronics Systems (ICCCES 2026)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "21-01-2026",
+              "End Date": "23-01-2026"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "AN AI-POWERED CHATBOT FOR ADVANCED SCAN  INTERPRETATION OF BRAIN TUMORS, PNEUMONIA ,AND  LUNG CANCER",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "29-04-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "Healthcare Data Protection and Biometric Access on cloud Platforms",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-01-2025",
+              "End Date": "08-01-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "Surveying Fuzzy techniques for Text Mining",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-01-2025",
+              "End Date": "08-01-2025"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "Interactive Tactile Book Framework for Visually Challenged Community",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-06-2024",
+              "End Date": "07-06-2024"
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Title of Paper": "Interactive Data Science Hub With Chatbot",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "22-02-2024",
+              "End Date": "23-02-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "AN IOT-BASED SYSTEM FOR REAL-TIME DEFECT DETECTION IN CHERRY TOMATOES",
+              "Name of Application": "",
+              "Co-inventors Name": "Mrs.Gayathri S",
+              "Application Number": "202441093953 A",
+              "Date of Registration": "30-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "STEALTH GUARD",
+              "Name of Application": "",
+              "Co-inventors Name": "Mrs. Gayathri .S",
+              "Application Number": "202441093956 A",
+              "Date of Registration": "30-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "MACHINE LEARNING BASED APPROACHES FOR RAINFALL PREDICTION SYSTEM FOR  SMART CITIES",
+              "Name of Application": "",
+              "Co-inventors Name": "Mrs. Gayathri .S",
+              "Application Number": "202341044691 A",
+              "Date of Registration": "03-07-2023",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            },
+            {
+              "Name of Faculty": "S.GAYATHRI",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "DETECTION OF DEFECTS DURING PRODUCTION USING DL",
+              "Name of Application": "",
+              "Co-inventors Name": "Mrs. Gayathri .S",
+              "Application Number": "202241052612 A",
+              "Date of Registration": "15-09-2022",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -151,21 +151,14 @@ const FacultyPortfolioPage = () => {
                       <div className="faculty-edu-item">
                         <div className="faculty-edu-node faculty-node-doc">🎓</div>
                         <div className="faculty-edu-card">
-                          <h4 className="faculty-edu-degree">Ph.D. — Environmental Engineering</h4>
+                          <h4 className="faculty-edu-degree">{portfolio.highestQualification || 'Ph.D.'} — {portfolio.specialisation || dept.name}</h4>
                           <span className="faculty-pill-tag faculty-pill-doc">Doctoral</span>
-                        </div>
-                      </div>
-                      <div className="faculty-edu-item">
-                        <div className="faculty-edu-node faculty-node-pg">📜</div>
-                        <div className="faculty-edu-card">
-                          <h4 className="faculty-edu-degree">M.E. — Environmental Engineering</h4>
-                          <span className="faculty-pill-tag faculty-pill-pg">Post Graduate</span>
                         </div>
                       </div>
                       <div className="faculty-edu-item">
                         <div className="faculty-edu-node faculty-node-ug">📖</div>
                         <div className="faculty-edu-card">
-                          <h4 className="faculty-edu-degree">B.E. — Civil Engineering</h4>
+                          <h4 className="faculty-edu-degree">Bachelor Degree — {dept.name}</h4>
                           <span className="faculty-pill-tag faculty-pill-ug">Under Graduate</span>
                         </div>
                       </div>
@@ -179,13 +172,13 @@ const FacultyPortfolioPage = () => {
                 <h3 className="faculty-journey-col-title">PROFESSIONAL EXPERIENCE</h3>
                 <div className="faculty-exp-card">
                   <div className="faculty-exp-header">
-                    <h4 className="faculty-exp-desig">{portfolio.designation || 'Associate Professor'}</h4>
-                    <span className="faculty-exp-badge">{portfolio.teachingExperienceFormatted || '17+ Years'}</span>
+                    <h4 className="faculty-exp-desig">{portfolio.designation || 'Faculty Member'}</h4>
+                    <span className="faculty-exp-badge">{portfolio.teachingExperienceFormatted || 'Faculty'}</span>
                   </div>
                   <div className="faculty-exp-dept">{dept.name}</div>
                   <div className="faculty-exp-inst">Kongu Engineering College, Perundurai, Erode</div>
                   <div className="faculty-exp-dates">
-                    📅 {portfolio.dateOfJoining || '24-06-2009'} — Present
+                    {portfolio.dateOfJoining ? `📅 ${portfolio.dateOfJoining} — Present` : '📅 Active Faculty'}
                   </div>
                 </div>
               </div>

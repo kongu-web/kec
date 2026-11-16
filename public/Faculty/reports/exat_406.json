@@ -1,0 +1,637 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Designation": "",
+              "Area of Specialisation": "ENVIRONMENTAL SCIENCE",
+              "Date of joining in KEC": "15-07-2015",
+              "Mobile": "9944297205",
+              "E-mail": "kyoghananthan.chemistry@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "CHEMISTRY",
+              "From": "01-08-2010"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "CHEMISTRY",
+              "From": "10-06-2005"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "CHEMISTRY",
+              "From": "01-06-1999"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K S R COLLEGE OF ENGINEERING",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "15-07-2010",
+              "End Date": "20-06-2015",
+              "Duration": "4 Y 11 MONTH",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CYR-K.YOGHANANTHAN-b3734c41-684a-4638-b332-2620c027cbae.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091856Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ca70a44323b730e2c51a456a15348ba9541c1c28c4b4b23481f67cb8e64a1ccf",
+                  "name": "2.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "m3gAsdXPgi9M6bKgX",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CYR-K.YOGHANANTHAN-8fd8b730-cd90-44bb-a8ee-e26b42665761.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091856Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=43ce6cf077805b529d6ae4217cd48b44979b726b33dc0cb59069d55483ec3913",
+                  "name": "1.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "mpzjSNChkSRRBFhLA",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "EPJ Web of Conferences 345, 01062 (2026)",
+              "Level": "International",
+              "Title": "Multi-response optimization of bamboo/PALF–TiC\nhybrid composites for enhanced mechanical and\ntribological performance",
+              "Volume No": "345",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "07-01-2026",
+              "Published at": "07-01-2026"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IONICS",
+              "Level": "International",
+              "Title": "Preparation of eco?friendly biopolymer electrolyte, K?carrageenan with zinc nitrate hexahydrate salt, for application in electrochemical devices",
+              "Volume No": "Volume 30, pages 7157–7175",
+              "Issue No": "11",
+              "Year": "2024",
+              "Date": "17-08-2024",
+              "Published at": "Springer Science and Business Media LLC"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Science Invention Research & Development",
+              "Level": "International",
+              "Title": "A Study On The Physico-Chemical Analysis Of Ground Water Quality In The Villages Of Odathurai Panchayat, Erode District, Tamilnadu",
+              "Volume No": "2349-6185",
+              "Issue No": "Vol II / Issue 12",
+              "Year": "2016",
+              "Date": "10-05-2016",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends and Innovations in Modern Science",
+              "Level": "Online",
+              "Organized by": "Department of Science and Humanities.",
+              "Place": "STUDY WORLD COLLEGE ENGINEERING",
+              "Start Date": "20-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Economic Environment and Business Strategy",
+              "Level": "National",
+              "Organized by": "NPTEL -AICTE",
+              "Place": "ONLINE",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovations in sustainable research and modern date-driven approaches",
+              "Level": "National",
+              "Organized by": "St Joseph’s University",
+              "Place": "St Joseph’s University",
+              "Start Date": "14-10-2024",
+              "End Date": "18-10-2024"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research opportunities in advanced functional materials",
+              "Level": "National",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Kattankulathur",
+              "Start Date": "30-09-2024",
+              "End Date": "05-10-2024"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "EFFETIVE RESEARCH PAPER WRITING STATEGIES AND HIGH IMPACT JOURNAL PUBLICATION TECHNIQUES",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC (ONLINE MODE)",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMERGING INNOVATIONS IN CHEMISTRY AND CHEMICAL TECVHNOLOGY",
+              "Level": "National",
+              "Organized by": "ARASU ENGINEERING COLLEGE",
+              "Place": "ARASU ENGINEERING COLLEGE",
+              "Start Date": "11-09-2023",
+              "End Date": "16-09-2023"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "RECENT RESEARCH DEVELOPMENT IN CHEMISTRY",
+              "Level": "National",
+              "Organized by": "ESWARI ENGINEERING COLLEGE,",
+              "Place": "DEPT. OF CHEMISTRY",
+              "Start Date": "24-07-2023",
+              "End Date": "29-07-2023"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Inculcating Universal Human Values in Technical Education”",
+              "Level": "National",
+              "Organized by": "ALL INDIA COUNCIL FOR TECHNICAL EDUCATION",
+              "Place": "VASANT KUNJ, NEW DELHI",
+              "Start Date": "31-10-2022",
+              "End Date": "04-11-2022"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart Technologies for drug design, Energy and environment",
+              "Level": "National",
+              "Organized by": "Kumaraguru College of Technology",
+              "Place": "Kumaraguru College of Technology",
+              "Start Date": "01-07-2020",
+              "End Date": "07-07-2020"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "FDP",
+              "Title of the program": "NANOSCIENCE AND TECHNOLOGY",
+              "Level": "National",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "29-06-2020",
+              "End Date": "07-07-2020"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "WATER, SOCIETY AND SUSTAINABILITY",
+              "Level": "National",
+              "Organized by": "IIT KHARAGPUR",
+              "Place": "NPTEL ONLINE",
+              "Start Date": "01-08-2018",
+              "End Date": "30-09-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "MEMBER",
+              "Level": "National",
+              "Start Date": "05-07-2011",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Title of Paper": "Multi-Response Optimization of Bamboo/PALF–TiC Hybrid Composites for Enhanced Mechanical and Tribological Performance",
+              "Title of Conference": "4th International Conference & Exposition on Materials, Manufacturing and Modelling Techniques (ICE3MT2025)’",
+              "Organized by": "Department of Mechanical Engineering, CVR COLLEGE OF ENGINEERING",
+              "Level": "International",
+              "Start Date": "24-10-2025",
+              "End Date": "25-10-2025"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Title of Paper": "Study of Zinc ion Conductivity of K-carrageenan - ZnNO3 polymer electrolytes and its application to primary Zinc ion battery",
+              "Title of Conference": "18th Asian Conference on Solid State Ionics",
+              "Organized by": "18th Asian Conference on Solid State Ionics",
+              "Level": "International",
+              "Start Date": "19-02-2024",
+              "End Date": "22-02-2024"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Title of Paper": "CONDUCTIVITY STUDY OF PVAC-ZNNO3 POLYMER ELECTROLYTE FOR ZINC PRIMARY BATTERY",
+              "Title of Conference": "AICTE Sponsored Second International Conference on Energy, Environment and Advanced Materials for a Sustainable Future (ICEEAMSF-2021)",
+              "Organized by": "DEPT. OF PHYSICS AND CHEMISTRY",
+              "Level": "International",
+              "Start Date": "15-07-2021",
+              "End Date": "16-07-2021"
+            },
+            {
+              "Name of Faculty": "K.YOGHANANTHAN",
+              "Department": "CYR",
+              "Title of Paper": "Microwave Enhance Synthesis of Sulphanilic Acid Under Solvent Free Condition",
+              "Title of Conference": "BRNS & CSIR Sponsored International Conference on Energy, Environment and Advanced Materials for a Sustainable Future (ICEEAMSF-2017)",
+              "Organized by": "Departments of Physics and Chemistry",
+              "Level": "International",
+              "Start Date": "23-05-2017",
+              "End Date": "24-05-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

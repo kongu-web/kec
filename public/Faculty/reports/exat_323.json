@@ -1,0 +1,719 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Data Mining",
+              "Date of joining in KEC": "01-07-2024",
+              "Mobile": "9942007836",
+              "E-mail": "pavithra.ctug@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "16-08-2012"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Computer Technology",
+              "From": "01-06-2009"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-07-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kongu Arts and Science College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "02-02-2021",
+              "End Date": "30-06-2024",
+              "Duration": "3.5 years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-R.PAVITHRA-17f51c0a-6d1a-43c4-a695-78ea5915a955.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9046c42afd1d4d67a9695c32f854f345462440d93d754dd04e24b45d45821399",
+                  "name": "Appointmnet Order (1).pdf",
+                  "totalRecords": null,
+                  "resourceId": "2mh7p2HbH72kkLWzp",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Palanisamy college of Arts",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "02-01-2020",
+              "End Date": "01-02-2021",
+              "Duration": "1 year and 1 month",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-R.PAVITHRA-c40eb235-66c3-40ce-a997-4c439276c95e.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=5364176d22e331d5a702ff7701748782fa38d58ff98cfd771b3b58c7009cbaa3",
+                  "name": "IMG-20220311-WA0002~2 (1).jpg",
+                  "totalRecords": null,
+                  "resourceId": "DTvYSdrFXYW6pdumv",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cybersecurity in the Era of AI and Quantum Threats",
+              "Level": "Others",
+              "Title": "Cybersecurity in the Era of AI and Quantum Threats",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-11-2025",
+              "Published at": "BEYONDLINE PUBLISHER"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "FishTaxa - Journal of Fish Taxonomy",
+              "Level": "International",
+              "Title": "Decoding Diversity in Freshwater Fishes of India: A Deep Fading Approach to Geographical Isolation and Speciation",
+              "Volume No": "36",
+              "Issue No": "1s",
+              "Year": "2025",
+              "Date": "29-09-2025",
+              "Published at": "FishTaxa - Journal of Fish Taxonomy"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "USER INTERFACE TECHNOLOGIES",
+              "Level": "National",
+              "Title": "USER INTERFACE TECHNOLOGIES",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "30-04-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SRI HARI TEXTILES & GARMENTS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "TEXTILES",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "20-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "ONE CREDIT COURSE ON PC TO IOT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "14-02-2026",
+              "End Date": "01-03-2025",
+              "Duration": "05 DAYS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "NON FORMAL COURSE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "06-12-2025",
+              "End Date": "19-12-2025",
+              "Duration": "5 DAYS",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "NON FORMLA COURSE - DATA ANALYTICS USING POWER BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "12-09-2025",
+              "Duration": "30 HOURS",
+              "Role played": "Others",
+              "Venue": "IT PARK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "EMPOWERING DIGITAL DEFENSE - A PRAGMATIC APPROACH TO CYBER SECURITY",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "Others",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber-Physical Security in Practice: Strategies for Building Resilient and Secure Ecosystems",
+              "Level": "Online",
+              "Organized by": "AALIM MUHAMMED SALEGH COLLEGE OF ENGINEERING",
+              "Place": "Chennai",
+              "Start Date": "25-08-2025",
+              "End Date": "30-08-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber-Physical Security in Practice: Strategies for Building Resilient and  Secure Ecosystems",
+              "Level": "Online",
+              "Organized by": "AALIM MUHAMMED SALEGH COLLEGE OF ENGINEERING",
+              "Place": "Chennai",
+              "Start Date": "25-08-2025",
+              "End Date": "30-08-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "DATA BASE MANAGEMENT SYSTEM",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "17-09-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Tools",
+              "Level": "National",
+              "Organized by": "Builders Engineering College",
+              "Place": "Tirupur",
+              "Start Date": "17-02-2025",
+              "End Date": "25-02-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science using Python",
+              "Level": "Online",
+              "Organized by": "RP Sarathy Institute of Technology",
+              "Place": "Salem",
+              "Start Date": "15-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Wireless Technologies for 6G",
+              "Level": "Online",
+              "Organized by": "CVR COLLEGE OF ENGINEERING",
+              "Place": "Telangana",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and its Multidomain Use Cases",
+              "Level": "Online",
+              "Organized by": "Vishwakarma Institute of Technology",
+              "Place": "Pune",
+              "Start Date": "02-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart Intelligence: Cutting-Edge Trends and Practical Applications of AI",
+              "Level": "Online",
+              "Organized by": "KARUNYA UNIVERSITY",
+              "Place": "COIMBATORE",
+              "Start Date": "15-10-2024",
+              "End Date": "19-10-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "“Workshop on Research Paper Writing Methodology for Beginners”",
+              "Level": "HRDC",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "15-10-2024",
+              "End Date": "15-08-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Evolving Landscape of Data Science - Current Trends and Patterns",
+              "Level": "Online",
+              "Organized by": "Hindusthan College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "Webinar",
+              "Title of the program": "Exploring the  Future of AWS Cloud: emerging Trends and Innovations",
+              "Level": "Online",
+              "Organized by": "BCBUZZ TECHNOLOGIES",
+              "Place": "COIMBATORE",
+              "Start Date": "17-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Exploring computational Intelligence in Deep Learning : Emerging Trends and Real Time Applications",
+              "Level": "Online",
+              "Organized by": "Kamaraj College of  Engineering and Technology",
+              "Place": "Vellakulam",
+              "Start Date": "09-09-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "“Orientation and Training Programme for Newly Joined Faculty”",
+              "Level": "HRDC",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": "27-08-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "NPTEL - AICTE",
+              "Level": "Online",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "",
+              "Start Date": "01-08-2024",
+              "End Date": "31-12-2024"
+            },
+            {
+              "Name of Faculty": "R.PAVITHRA",
+              "Department": "CTUG",
+              "Select Programme": "Webinar",
+              "Title of the program": "Mastering the Art of Hackathons for Innovations",
+              "Level": "National",
+              "Organized by": "Hindusthan College of Science and Commerce",
+              "Place": "Erode",
+              "Start Date": "22-07-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

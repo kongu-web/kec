@@ -1,0 +1,1364 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "GRAPH THEORY",
+              "Date of joining in KEC": "28-05-2012",
+              "Mobile": "7502508203",
+              "E-mail": "udayamaths@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "MATHEMATICS",
+              "From": "01-01-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "MATHEMATICS",
+              "From": "01-06-2006"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "01-06-2004"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "01-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "28-05-2012",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "RAJIV GANDHI COLLEGE OF ENGINEERING",
+              "Position/Designation": "SENIOR LECTURER",
+              "Start Date": "26-05-2008",
+              "End Date": "25-05-2012",
+              "Duration": "4 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MAR-K.V.UDAYANATCHI-f5889098-9326-4bd4-9392-bd3756bc53f2.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091823Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6bbd86519b60ac5981d02c6c8bfb5bd6bffd676129f333ad8d3f9fbd11b08f51",
+                  "name": "Rajiv Gandhi college experience certificate (1).pdf",
+                  "totalRecords": null,
+                  "resourceId": "g4cf57AePhrik3QWc",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 IEEE International Conference on Advances in Computing Research On Science Engineering and Technology (ACROSET)",
+              "Level": "International",
+              "Title": "Leveraging Graph Neural Networks for Fault Tolerance in Network Infrastructures",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Utilitas Mathematica",
+              "Level": "International",
+              "Title": "Graph of Pythagorean neutrosophic fuzzy ideal at near rings of M gamma groups and its maximal product",
+              "Volume No": "122",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "02-09-2025",
+              "Published at": "Q4"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "NONLINEAR STUDIES",
+              "Level": "International",
+              "Title": "Graph of Pythagorean neutrosophic fuzzy ideal of M gamma groups in near rings",
+              "Volume No": "32",
+              "Issue No": "3",
+              "Year": "2025",
+              "Date": "30-08-2025",
+              "Published at": "Q3"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Panamerican Mathematical journal",
+              "Level": "International",
+              "Title": "Harnessing Deep Learning for Automated Mathematical Problem Generation and Personalized Learning Pathways",
+              "Volume No": "35",
+              "Issue No": "S4",
+              "Year": "2025",
+              "Date": "07-04-2025",
+              "Published at": "Q4"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "LATEST UPDATES ON MATHEMATICAL RESEARCH",
+              "Level": "International",
+              "Title": "MATHEMATICAL MODELING AND REACTION-DIFFUSION PROCESSES AT ULTRA MICROELECTRODES",
+              "Volume No": "VOLUME 1",
+              "Issue No": "CHAPTER -1",
+              "Year": "2022",
+              "Date": "20-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Algebraic  Statistics",
+              "Level": "International",
+              "Title": "Effective coloring in single valued\nNeutrosophic graphs",
+              "Volume No": "13",
+              "Issue No": "2",
+              "Year": "2022",
+              "Date": "26-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": " Annals of the Romanian Society for Cell Biology",
+              "Level": "International",
+              "Title": "Mathematical Modeling in\nElectrochemical Reactions of Homogeneous Catalysis “Split   Waves” on the Rotating Disc\nElectrode",
+              "Volume No": "25",
+              "Issue No": "6",
+              "Year": "2021",
+              "Date": "08-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International   Journal of Ambient Energy",
+              "Level": "International",
+              "Title": "A novel method for Arduino based electric vehicle emulator",
+              "Volume No": "43",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "10-02-2021",
+              "Published at": "Q1"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "Even Vertex Square Difference Labeling\nGraphs",
+              "Volume No": "13",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "30-08-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Project": "RESEARCH",
+              "Title of Project": "DEVELOPMENT OF NEW FUZZY FILTERS FOR THE REMOVAL OF LINEAR AND NONLINEAR NOISES IN DEFENSE SATELLITE SAR IMAGES",
+              "Funding Agency": "DRDO",
+              "Name of the Scheme": "MINI PROJECT",
+              "Co-Investigator(s)": "Dr.M.HARIKRISHNAN (PI); Dr.K.V.TAMIL SELVI (Co-PI); Ms.K.V.UDAYANATCHI(Co-PI)",
+              "Project Start Date": "07-05-2024",
+              "Duration": "3 YEARS",
+              "Status": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Name of the Industry/Organization": "IIPC-KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "TWO DAYS WORKSHOP ON MATHEMATICAL SCIENCES(CSIR-NET,SET,GATE,NBHM)ASPIRANTS",
+              "Number of persons involved": "42",
+              "Date of Consultancy (From)": "07-02-2020",
+              "Date of Consultancy (To)": "08-02-2020",
+              "Revenue Generated (amount in Rupees without GST)": "31650"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Name of the Industry/Organization": "IIPC-KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "ONE DAY WORKSHOP ON CSIR-NET & SET MATHEMATICAL SCIENCES EXAM PREPARATION",
+              "Number of persons involved": "98",
+              "Date of Consultancy (From)": "15-02-2019",
+              "Date of Consultancy (To)": "15-02-2019",
+              "Revenue Generated (amount in Rupees without GST)": "34692"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Name of the Industry/Organization": "IIPC-KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "ONE DAY PRACTICAL TRAINING ON ‘’MATLAB TOOLS IN IMAGE PROCESSING AND ENGINEERING APPLICATIONS’’",
+              "Number of persons involved": "41",
+              "Date of Consultancy (From)": "06-08-2016",
+              "Date of Consultancy (To)": "06-08-2016",
+              "Revenue Generated (amount in Rupees without GST)": "18860"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Name of the Industry/Organization": "IIPC-KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "ONE DAY PRACTICAL TRAINING ON MATLAB TOOLS IN IMAGE PROCESSING",
+              "Number of persons involved": "48",
+              "Date of Consultancy (From)": "12-09-2015",
+              "Date of Consultancy (To)": "12-09-2015",
+              "Revenue Generated (amount in Rupees without GST)": "21888"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "TWO DAYS ONLINE TRAINING ON  CSIR -NET / SET (MATHEMATICAL SCIENCES)",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "National",
+              "Start Date": "05-11-2025",
+              "End Date": "06-11-2025",
+              "Duration": "TWO DAYS",
+              "Role played": "Coordinator",
+              "Venue": "ONLINE"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "MATLAB ESSENTIALS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-10-2025",
+              "End Date": "06-12-2025",
+              "Duration": "30 HOURS",
+              "Role played": "Convener",
+              "Venue": "SCHOOL OF SCIENCE AND HUMANITIES"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "CSIR & TNSCST  sPONSORED  INTERNATIONAL  CONFERENCE ON  APPLIED  MATHEMATICS  AND COMPUTING",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025",
+              "Duration": "TWO DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "Sir C.V.Raman Seminar Hall"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "PROCESSING AND VISUALIZING DATA WITH MATLAB",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "23-05-2023",
+              "End Date": "08-07-2023",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": "FIRST YEAR BLOCK -CC2"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "MATLAB FUNDAMENTALS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-06-2022",
+              "End Date": "20-07-2022",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": "FIRST YEAR BLOCK-CC1"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "FDP",
+              "Name of Event": "Applications of Intuitionistic Fuzzy Graphs",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-11-2020",
+              "End Date": "",
+              "Duration": "ONE DAY WEBINAR",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "FDP",
+              "Name of Event": "Real Analysis –Continuity of a function",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "02-11-2020",
+              "End Date": "",
+              "Duration": "ONE DAY WEBINAR",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "FDP",
+              "Name of Event": "Vedic Mathematics",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "27-10-2020",
+              "End Date": "",
+              "Duration": "ONE DAY WEBINAR",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "FDP",
+              "Name of Event": "Engineering & Statistics New Avenues in the data world",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-10-2020",
+              "End Date": "",
+              "Duration": "ONE DAY WEBINAR",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Workshop",
+              "Name of Event": "TWO DAYS WORKSHOP ON MATHEMATICAL SCIENCES(CSIR-NET,SET,GATE,NBHM)ASPIRANTS",
+              "Collaboration/Sponsored by": "IIPC-SELF",
+              "Level": "National",
+              "Start Date": "07-02-2020",
+              "End Date": "08-02-2020",
+              "Duration": "TWO DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Workshop",
+              "Name of Event": "ONE DAY WORKSHOP ON CSIR-NET & SET MATHEMATICAL SCIENCES EXAM PREPARATION",
+              "Collaboration/Sponsored by": "IIPC-SELF",
+              "Level": "National",
+              "Start Date": "15-02-2019",
+              "End Date": "",
+              "Duration": "ONE DAY",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL ,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "APPLIED MATHEMATICS AND INFORMATICS",
+              "Collaboration/Sponsored by": "SERB",
+              "Level": "International",
+              "Start Date": "16-02-2017",
+              "End Date": "17-02-2017",
+              "Duration": "TWO DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "APPLIED MATHEMATICS AND INFORMATICS",
+              "Collaboration/Sponsored by": "INSA",
+              "Level": "International",
+              "Start Date": "16-02-2017",
+              "End Date": "17-02-2017",
+              "Duration": "Two days",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "ONE DAY PRACTICAL TRAINING ON ‘’MATLAB TOOLS IN IMAGE PROCESSING AND ENGINEERING APPLICATIONS’’",
+              "Collaboration/Sponsored by": "IIPC-SELF",
+              "Level": "National",
+              "Start Date": "06-08-2016",
+              "End Date": "",
+              "Duration": "ONE DAY",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "ONE DAY PRACTICAL TRAINING ON MATLAB TOOLS IN IMAGE PROCESSING",
+              "Collaboration/Sponsored by": "IIPC-SELF",
+              "Level": "National",
+              "Start Date": "12-09-2015",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Joint Convener",
+              "Venue": "SIR C V RAMAN HALL ,KONGU ENGINEERING COLLEGE,PERUNDURAI-60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "RESEARCH ETHICS AND DATA ANALYSIS USING AI TOOLS",
+              "Level": "National",
+              "Organized by": "ST.JOSEPH COLLEGE(ARTS & SCIENCE),CHENNAI",
+              "Place": "ONLINE",
+              "Start Date": "17-02-2026",
+              "End Date": "23-02-2026"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "INNOVATIVE TEACHING WITH MACHINE LEARNING :TOOLS,TECHNIQUES, AND TRENDS",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLOGY",
+              "Place": "SRIPERUMBUDUR",
+              "Start Date": "02-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Transform Calculus and its Applications in Differential Equations",
+              "Level": "National",
+              "Organized by": "IIT,KHARAGPUR",
+              "Place": "ONLINE",
+              "Start Date": "20-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling and Data - Driven Approaches",
+              "Level": "National",
+              "Organized by": "Department of Mathematics, Kongu Engineering College, Erode, in collaboration with Mathworks and ARK Infosolutions Private Limited, Chennai.",
+              "Place": "KONGU ENGINEERING COLLEGE,ERODE",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "RESERACH PAPER DRAFTING AND REFINEMENT FROM IDEA TO PUBLICATION",
+              "Level": "Online",
+              "Organized by": "ST.JOSEPH'S COLLEGE OF ARTS AND SCIENCE",
+              "Place": "CHENNAI",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "BIO-INSPIRED COMPUTING AND INTELLIGENT OPTIMISATION:BRIDGING NATURE AND AI",
+              "Level": "Online",
+              "Organized by": "SRI SAIRAAM INSTITUTE OF TECHNOLOGY,CHENNAI",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "INTRODUCTION TO PROBABILITY AND STATISTICS",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "IIT MADRAS",
+              "Start Date": "01-01-2025",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "INNOVATIVE PEDEGOGICAL TECHNIQUES  IN  MANAGEMENT EDUCATION",
+              "Level": "National",
+              "Organized by": "KAMAL INSTITUTE OF HIGHER  EDUCATION AND ADVANCE TECHNOLOGY",
+              "Place": "NEW DELHI",
+              "Start Date": "21-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "INNOVATIONS IN  SUSTAINABLE RESEARCH  AND                                                               MODERN DATE-DRIVEN APPROACHES",
+              "Level": "National",
+              "Organized by": "ST.JOSEPH UNIVERSITY",
+              "Place": "NAGALAND-797115",
+              "Start Date": "14-10-2024",
+              "End Date": "18-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEXT-GEN EDUCATORS:HARNESSING THE POWER  OF MACHINE LEARNING",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLOGY",
+              "Place": "SUNGUVARCHATRAM-631604.",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "EVOLVING LANDSCAPE OF DATA SCIENCE- CURRENT TREND & PATTERNS",
+              "Level": "National",
+              "Organized by": "HINDUSTHAN COLLEGE OF ARTS & SCIENCE",
+              "Place": "COIMBATORE-641028.",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Driven  Decision making: Applied linear  Algebra,   integrating statistical methods and data science in research",
+              "Level": "National",
+              "Organized by": "ST.JOSEPH’S COLLEGE(ARTS & SCIENCE)",
+              "Place": "CHENNAI-600128.",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "EXPLORING NEW HORIZONS IN MATHEMATICAL  RESEARCH",
+              "Level": "National",
+              "Organized by": "V.O.CHIDAMBARAM COLLEGE",
+              "Place": "THOOTHUKUDI-628008.",
+              "Start Date": "19-08-2024",
+              "End Date": "24-08-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "MATHEMATICAL METHODS AND ITSAPPLICATIONS",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "IIT ROORKEE",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Issues, Opportunities and Challenges in Smart Grid",
+              "Level": "National",
+              "Organized by": "THE KAVERY ENGINEERING COLLEGE  Mecheri",
+              "Place": "Salem - 636 453.",
+              "Start Date": "20-02-2024",
+              "End Date": "24-02-2024"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "INNOVATIVE RESEARCH OPPORTUNITIES  AND APPLICATIONS OF DATA SCIENCE  IN THE INDUSTRY  5.0 PARADIGM",
+              "Level": "International",
+              "Organized by": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "RAMAPURAM",
+              "Start Date": "18-08-2023",
+              "End Date": "31-08-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Applicability of Mathematical Sciences in Emerging World",
+              "Level": "International",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "07-08-2023",
+              "End Date": "12-08-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Modelling and Computation in Engineering",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "elhi-NCR Campus, Ghaziabad, U.P",
+              "Start Date": "24-07-2023",
+              "End Date": "30-07-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Unlocking Innovation: Exploring Research, Innovation and Patents (UIERIP-2023)",
+              "Level": "National",
+              "Organized by": "Department of Mechanical Engineering, SVERI’s College of Engineering, Pandharpur in collaboration with Institution’s Innovation Council.",
+              "Place": "Pandharpur",
+              "Start Date": "17-07-2023",
+              "End Date": "22-07-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematics in Real, Applied and Computational Domains",
+              "Level": "International",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "03-07-2023",
+              "End Date": "08-07-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction To Biostatistics",
+              "Level": "National",
+              "Organized by": "IIT BOMBAY",
+              "Place": "BOMBAY",
+              "Start Date": "01-07-2023",
+              "End Date": "30-09-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Regression Analysis in Research",
+              "Level": "National",
+              "Organized by": "Division of Mathematics, School of Advanced Sciences,Vellore Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "24-04-2023",
+              "End Date": "28-04-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Development Programme",
+              "Level": "International",
+              "Organized by": "International School of Business Management, Suresh Gyan Vihar University, Jaipur & Pinaki Technno",
+              "Place": "India",
+              "Start Date": "08-03-2023",
+              "End Date": "14-03-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Business Statistics",
+              "Level": "National",
+              "Organized by": "IIT ROORKEE",
+              "Place": "",
+              "Start Date": "02-01-2023",
+              "End Date": "30-04-2023"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research Perspectives in Mathematics and its Applications",
+              "Level": "International",
+              "Organized by": "Department of Mathematics, Sathyabama Institute of Science and Technology",
+              "Place": "Chennai,",
+              "Start Date": "04-07-2022",
+              "End Date": "16-07-2022"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Engineering Mathematics II",
+              "Level": "National",
+              "Organized by": "IIT KARAGPUR",
+              "Place": "KARAGPUR",
+              "Start Date": "02-01-2022",
+              "End Date": "30-04-2022"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "STTP",
+              "Title of the program": "Enhancing Young Minds",
+              "Level": "National",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "04-10-2021",
+              "End Date": "12-10-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "RECENT RESEARCH ADVANCES IN MATHEMATICS",
+              "Level": "National",
+              "Organized by": "St. Joseph’s College(Arts & Science), Kovur",
+              "Place": "Chennai",
+              "Start Date": "04-10-2021",
+              "End Date": "09-10-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "SCOPE FOR SKILL DEVELOPMENT IN SCIENCE PROGRAMMES",
+              "Level": "National",
+              "Organized by": "AYYA NADAR JANAKI AMMAL COLLEGE (AUTONOMOUS)",
+              "Place": "SIVAKASI",
+              "Start Date": "23-09-2021",
+              "End Date": "25-09-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "AM I READY TO DO RESEARCH IN MATHEMATICS",
+              "Level": "National",
+              "Organized by": "CENTRE FOR GRAPH THEORY ,AYYA NADAR JANAKI AMMAL COLLEGE",
+              "Place": "IVAKASI – 626 124, TAMIL NADU",
+              "Start Date": "20-09-2021",
+              "End Date": "22-09-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "STABILITY ANALYSIS OF DYNAMICAL SYSTEMS",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College, Perundurai,",
+              "Place": "Erode- 638060",
+              "Start Date": "12-11-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Nonlinear Dynamics: An Evolving Science”",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "ERODE",
+              "Start Date": "02-11-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Initiation into Linear Algebra",
+              "Level": "National",
+              "Organized by": "Mar Thoma College  Tiruvalla",
+              "Place": "",
+              "Start Date": "28-09-2020",
+              "End Date": "03-10-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "HANDS ON TRAINING IN LATEX",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "ERODE",
+              "Start Date": "28-09-2020",
+              "End Date": "02-10-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "ROUGH SET THEORY AND ITS APPLICATIONS",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "ERODE",
+              "Start Date": "26-09-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends & Technologies in Data Science",
+              "Level": "National",
+              "Organized by": "GMR Institute of Technology, Rajam",
+              "Place": "Andhra Pradesh",
+              "Start Date": "24-08-2020",
+              "End Date": "29-08-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Research Directions in Mathematics",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "ERODE",
+              "Start Date": "09-06-2020",
+              "End Date": "12-06-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘????? ?????????????? ??????????’",
+              "Level": "National",
+              "Organized by": "KONGUNADU ARTS AND SCIENCE COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "29-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Emerging Trends in Interdisciplinary Researches’",
+              "Level": "National",
+              "Organized by": "KONGUNADU ARTS AND SCIENCE COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "28-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Gold nanoparticles – A milestone in Cancer Therapy’",
+              "Level": "National",
+              "Organized by": "KONGUNADU ARTS AND SCIENCE COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "26-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "MA8551 Algebra and Number theory",
+              "Level": "National",
+              "Organized by": "Ramco Institute of Technology",
+              "Place": "Rajapalayam",
+              "Start Date": "26-05-2020",
+              "End Date": "27-05-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Generation of solar cells’",
+              "Level": "National",
+              "Organized by": "KONGUNADU ARTS AND SCIENCE COLLEGE",
+              "Place": "Coimbatore",
+              "Start Date": "26-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "DESCRIPTIVE STATISTICS THROUGH R PROGRAMMING",
+              "Level": "National",
+              "Organized by": "KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+              "Place": "COIMBATORE",
+              "Start Date": "26-05-2020",
+              "End Date": "28-05-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "FUZZY SETS AND SYSTEMS",
+              "Level": "National",
+              "Organized by": "PATRICIAN COLLEGE OF ARTS AND SCIENCE",
+              "Place": "CHENNAI",
+              "Start Date": "16-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "CANCER SUPPRESSOR GENE P53 MUTATION IDENTIFICATION USING DIGRAPH",
+              "Level": "National",
+              "Organized by": "Providence College for Women",
+              "Place": "Coonoor.",
+              "Start Date": "15-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "MATHEMATICAL SCIENCES FOR CSIR-NET/SET/GATE",
+              "Level": "National",
+              "Organized by": "SREE NARAYANA GURU COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "11-05-2020",
+              "End Date": "20-05-2020"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "RESEARCH ARTICLE & THESIS WRITING USING LATEX",
+              "Level": "National",
+              "Organized by": "SRI VASAVI COLLEGE",
+              "Place": "ERODE",
+              "Start Date": "18-04-2020",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Title of Paper": "Leveraging Graph Neural Networks for Fault Tolerance in Network Infrastructures",
+              "Title of Conference": "2025 IEEE International Conference on Advances in Computing Research On Science Engineering and Technology (ACROSET)",
+              "Organized by": "I EEE",
+              "Level": "International",
+              "Start Date": "27-09-2025",
+              "End Date": "28-09-2025"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Title of Paper": "A Study on Coloring of Single-Valued Neutrosophic Graphs using (?, ?, ?) Cuts’",
+              "Title of Conference": "BRIDGING REALMS OF THE UNTODDEN FRONTIERS(BRUF-2025)",
+              "Organized by": "SREE SARASWATHI THYAGARAJA COLLEGE",
+              "Level": "National",
+              "Start Date": "25-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Title of Paper": "Coloring of SVN (zeta,yeta,theta)-cut graphs",
+              "Title of Conference": "3RD INTERNATIONAL CONFERENCE ON RECENT TREND SCIENCE AND TECHNOLOGY(",
+              "Organized by": "MAA SAKUMBARI TRUST,GREATER NOIDA,UP",
+              "Level": "International",
+              "Start Date": "19-06-2021",
+              "End Date": "20-06-2021"
+            },
+            {
+              "Name of Faculty": "K.V.UDAYANATCHI",
+              "Department": "MAR",
+              "Title of Paper": "‘Some Results on Even Vertex Square Difference Labeling Graphs’",
+              "Title of Conference": "Three day International Web Conference on Signed Graphs and Allied Areas (ICSGAA-2020)",
+              "Organized by": "epartment of Mathematics, Central University of Kerala, Kasaragod, Kerala, India.",
+              "Level": "International",
+              "Start Date": "07-12-2020",
+              "End Date": "09-12-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

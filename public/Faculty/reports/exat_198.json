@@ -1,0 +1,1055 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.SHOBANA",
+              "Department": "EGR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Grammar and Communication Skills",
+              "Date of joining in KEC": "02-07-2024",
+              "Mobile": "9360038345",
+              "E-mail": "Shobanasmoorthi@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Academic Degree": "M.S.W",
+              "Specialization": "Social Work",
+              "From": "01-08-2023"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Academic Degree": "M.A",
+              "Specialization": "English Literature",
+              "From": "10-11-2021"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Academic Degree": "B.A",
+              "Specialization": "ENGLISH LITERATURE",
+              "From": "16-07-2018"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2022",
+              "Specialization": "GOOGLE MARKETING AND ECOMMERCE",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2019-2020",
+              "Specialization": "Spoken English",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-07-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Name of Award/Achievement": "NPTEL Discipline Star",
+              "Level": "National",
+              "Awarded by": "SWAYAM",
+              "Place": "",
+              "Date": "12-06-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Name of Award/Achievement": "Young Researcher award",
+              "Level": "International",
+              "Awarded by": "International Teaching & Learning Excellence Award",
+              "Place": "",
+              "Date": "24-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Innovative Computing  and Communications  Proceedings of ICICC 2026",
+              "Level": "International",
+              "Title": "Evaluating Cloud Computing Adoption  for Enhancing Growth and Resilience of Small  and Medium Enterprises",
+              "Volume No": "7",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "11-08-2026",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "The Need and Use of Indian Languages: Diversity, Vernacularity, and the  Future of Knowledge",
+              "Level": "International",
+              "Title": "Semantic Shifts in Lexical Choices: Multilingual\nWord Formation Strategies in Social Media Posts",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mapping Gender -Interdisciplinary pathways to understanding the world",
+              "Level": "International",
+              "Title": "In Search of Home and Self: Reconfiguring Belonging in  \nTommy Orange’s There There",
+              "Volume No": "2",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "29-11-2025",
+              "Published at": "Authors Press"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "A Dynamic vision on the contemporary Global Literature",
+              "Level": "International",
+              "Title": "“Displacement and Disillusionment: \nSampath’s Quest for Identity and Its Impact \non Family Dynamics in Hullabaloo in the \nGuava Orchard\"",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "01-11-2025",
+              "Published at": "Blue Ava Ford Publications"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Trends Leadership 4.0 Evolving Management for the Digital Era",
+              "Level": "International",
+              "Title": "Humanity and Empathy in AI driven Workplaces",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "24-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Navigating the Future of business: The Era of Commerce 5.0",
+              "Level": "International",
+              "Title": "AI-Powered Personalisation in Smart Commerce",
+              "Volume No": "",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "15-10-2025",
+              "Published at": "Laser Park Publishing House"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of the School of Language, Literature and Culture studies",
+              "Level": "National",
+              "Title": "SELF SPLIT INTO THE YOU AND I TRAUMA AND JUSTICE",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "JETIR",
+              "Level": "International",
+              "Title": "SELF SPLIT INTO THE YOU AND I: IDENTIFYING THE EXPERIENCE OF OUTSIDER SYNDROME IN THE NATIVE TAMIL PEPOLE OF SRILANKA AS PORTRAYED IN SHEHAN KARUNATILAKA'S THE SEVEN MOONS OF MAALI ALMEIDA",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "27-09-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Type of Event": "Others",
+              "Name of Event": "An Awareness and Demo session on Toastmasters International",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "24-10-2026",
+              "End Date": "",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Type of Event": "Workshop",
+              "Name of Event": "A one-day virtual workshop on Mastering the Social Science Research Process",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "12-08-2026",
+              "End Date": "",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Type of Event": "Workshop",
+              "Name of Event": "A one-day National Online Workshop on Role of Language in Transformative Learning",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "15-06-2026",
+              "End Date": "",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Type of Event": "Training",
+              "Name of Event": "A One-day Virtual Workshop on Dynamic Skills Ecosystem: Cultivating the Culture of Learning",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "National",
+              "Start Date": "19-05-2025",
+              "End Date": "",
+              "Duration": "I Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "After theory: Mapping the post-2000 Turn in Literary Studies",
+              "Level": "Online",
+              "Organized by": "Mannar Thirumalai Naicker College",
+              "Place": "Madurai",
+              "Start Date": "05-10-2026",
+              "End Date": "11-10-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI-Powered Pedagogy: Integrated AI Teaching, Learning and Assessment",
+              "Level": "National",
+              "Organized by": "Thiagarajar College of Engineering",
+              "Place": "Madurai",
+              "Start Date": "24-08-2026",
+              "End Date": "28-08-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "OBE and Accreditation",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "01-10-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE and Accreditation",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "01-10-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "From Chalkboard to Chatbot: The Evolution of teaching and Learning in the Digital Age",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "14-06-2026",
+              "End Date": "19-06-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Holistic & Multidisciplinary Education",
+              "Level": "National",
+              "Organized by": "UGC MALAVIYA MISSION TEACHER TRAINING CENTRE",
+              "Place": "HIMACHAL PRADESH",
+              "Start Date": "02-02-2026",
+              "End Date": "10-02-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Refugee, Migration and Diaspora",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "01-04-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Refugee, Migration and Diaspora",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "01-04-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Webinar",
+              "Title of the program": "The Need and Use of Indian Languages: Diversity, Vernacularity, and the Future of Knowledge",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Webinar",
+              "Title of the program": "The Need and Use of Indian Languages: Diversity, Vernacularity, and the Future of Knowledge",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "CONTENT DEVELOPMENT & CREATIVE WRITING",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "30-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "IELTS Examination: Effective Training Methodologies",
+              "Level": "Others",
+              "Organized by": "Department of English",
+              "Place": "Erode",
+              "Start Date": "28-07-2025",
+              "End Date": "02-08-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Narrative across Borders : Multilingual and Multicultural Explorations",
+              "Level": "National",
+              "Organized by": "G.T.N Arts College,Dindigul",
+              "Place": "",
+              "Start Date": "23-07-2025",
+              "End Date": "29-07-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Narrative across Borders : Multilingual and Multicultural Explorations",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-07-2025",
+              "End Date": "29-07-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Public Speaking",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "PUBLIC SPEAKING",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Negotiation Essentials: Build leadership and Influence’",
+              "Level": "National",
+              "Organized by": "Gokul Global university & NLD",
+              "Place": "",
+              "Start Date": "02-12-2024",
+              "End Date": "07-12-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEP 2020",
+              "Level": "National",
+              "Organized by": "Gokul Global University",
+              "Place": "",
+              "Start Date": "02-12-2024",
+              "End Date": "07-12-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Qualitative Research :Challenges in implementation'",
+              "Level": "National",
+              "Organized by": "Gokul Global University & NLD",
+              "Place": "",
+              "Start Date": "27-11-2024",
+              "End Date": "03-12-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Arthashashtra: Understanding and application of a holistic approach’",
+              "Level": "National",
+              "Organized by": "B.R.B. College of Commerce",
+              "Place": "",
+              "Start Date": "21-10-2024",
+              "End Date": "26-10-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Research Paper writing methodology for beginners’",
+              "Level": "HRDC",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "15-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Navigating the legal landscape on labour laws in India’",
+              "Level": "National",
+              "Organized by": "Sri Jagdish Prasad Jhabarmal Triberwala University",
+              "Place": "",
+              "Start Date": "30-09-2024",
+              "End Date": "05-10-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Indian Knowledge System’",
+              "Level": "National",
+              "Organized by": "Jamal Mohammed College",
+              "Place": "",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Echoes from the Mountain Kingdom’",
+              "Level": "National",
+              "Organized by": "Gokul Global University, Gujarat.",
+              "Place": "",
+              "Start Date": "29-08-2024",
+              "End Date": "04-09-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Fantasy Literature’",
+              "Level": "National",
+              "Organized by": "Gokul Global University, Gujarat.",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": "23-08-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Orientation and Training programme for newly joined faculty",
+              "Level": "HRDC",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": "23-09-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "‘Critical and Creative thinking skills’",
+              "Level": "National",
+              "Organized by": "Michael Job Memorial College of Education for Women",
+              "Place": "",
+              "Start Date": "05-08-2024",
+              "End Date": "06-08-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Soft Skills",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-07-2024",
+              "End Date": "15-10-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "SHORT FICTION IN INDIAN LITERATURE",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "12-07-2024",
+              "End Date": "11-10-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Short Fiction in Indian Literature",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "12-07-2024",
+              "End Date": "12-10-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "‘Excellence in Research methodology’",
+              "Level": "National",
+              "Organized by": "SRM Institute of science and technology",
+              "Place": "",
+              "Start Date": "23-09-2023",
+              "End Date": "29-09-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Name of the Professional Body/Society": "The Association for English Studies of India",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "04-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Name of the Professional Body/Society": "ELTAI",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "03-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "Evaluating Cloud Computing Adoption for Enhancing Growth and Resilience of Small and Medium Enterprises",
+              "Title of Conference": "International Conference on Innovative Computing and Communication",
+              "Organized by": "Shaheed Sukhdev College Of Business Studies",
+              "Level": "International",
+              "Start Date": "06-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "Comprehensive Design,Development and Implementation of a 4axis Selective compliance assembly",
+              "Title of Conference": "GCMM 2025",
+              "Organized by": "Vellore Institute of Technology",
+              "Level": "International",
+              "Start Date": "10-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "Myth,Memory and Subversion: Reclaiming Literary Canons from the Margins",
+              "Title of Conference": "VERSES",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-11-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "Humanity and Empathy in AI driven Workplaces",
+              "Title of Conference": "Emerging Trends leadership 4.0 - evolving management for the digital era",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "Semantic Shifts in Lexical Choices: Multilingual Word Formation Strategies in Social Media Posts",
+              "Title of Conference": "The Need and Use of Indian Languages [?????? ?????? ?? ???????? ?? ?????:  ?????, ????????? ?? ????? ?? ?????]",
+              "Organized by": "Government College Khaniyadhana  Shivpuri (M.P.)",
+              "Level": "National",
+              "Start Date": "15-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "In Search of Home and Self: Reconfiguring Belonging in the novel There There by Tommy Orange",
+              "Title of Conference": "Gendering the world - Interdisciplinary approaches to Gender Studies",
+              "Organized by": "Quaid -E-Millath Government College for Women, Chennai, Guide of English writers,Editors and critics, Kerala",
+              "Level": "International",
+              "Start Date": "11-09-2025",
+              "End Date": "12-09-2025"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "“Self split into the you and I”",
+              "Title of Conference": "Rhetoric of Resilience: Impact of Trauma on Language, Memory, and Cultural Narratives",
+              "Organized by": "Shri Shankarlal Sundarbai Shasun Jain College for Women, Chennai",
+              "Level": "International",
+              "Start Date": "08-03-2024",
+              "End Date": "09-03-2024"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "CULTURAL REVIVAL OF IRULAS AND THEIRCREDIBILITY OVER GLOBALLY EFFECTIVE MEDICINE",
+              "Title of Conference": "“INDIAN CULTURE AND TRADITION-RESTORE, REPLENISH AND ACCOMPLISH TO ACHIEVE",
+              "Organized by": "Nirmala College for Women",
+              "Level": "National",
+              "Start Date": "28-10-2022",
+              "End Date": "29-10-2022"
+            },
+            {
+              "Name of Faculty": "S.SHOBANA",
+              "Department": "EGR",
+              "Title of Paper": "LIVING WORDS AND HUMANE THOUGHTS",
+              "Title of Conference": "EMERGING DIALOGUES IN PEACE LINGUISTICS",
+              "Organized by": "DEPARTMENT OF ENGLISH,BHARATHIAR UNIVERSITY AND GANDHI SAMITHI.MINISTRY OF CULTURE,GOVERNMENT OF INDIA",
+              "Level": "International",
+              "Start Date": "15-03-2022",
+              "End Date": "16-03-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

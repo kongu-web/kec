@@ -1,0 +1,832 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Wireless Networks",
+              "From": "01-07-2011"
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "DIGITAL COMMUNICATION AND NETWORK ENGINEERING",
+              "From": "10-08-2005"
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electronies and Communication Engineering",
+              "From": "13-08-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2024",
+              "Specialization": "IPv6 Fundamentals Course",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "18-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computer Networks",
+              "Level": "International",
+              "Title": "Maximizing End-to-End TCP\nConnection’s Aggregated Throughput in Connected Vehicle Networks",
+              "Volume No": "273",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Wireless Personal Communication",
+              "Level": "International",
+              "Title": "On\nMinimizing TCP Traffic Congestion in Vehicular Internet of Things (VIoT)",
+              "Volume No": "128",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "19-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wiley Internet Technology Letters",
+              "Level": "International",
+              "Title": "Wireless\nRetransmission Timeout Algorithm for Multi-Hop Vehicular Network",
+              "Volume No": "5",
+              "Issue No": "4",
+              "Year": "2022",
+              "Date": "25-08-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Wireless Networks",
+              "Level": "International",
+              "Title": "An Improved\nRetransmission Timeout Prediction Algorithm for Enhancing Data Transmission on\nInternet of Vehicles Network",
+              "Volume No": "28",
+              "Issue No": "6",
+              "Year": "2022",
+              "Date": "26-04-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Wireless Personal Communication",
+              "Level": "International",
+              "Title": "mproving Fairness and Convergence Efficiency of TCP Traffic in\nMulti-hop Wireless Networks",
+              "Volume No": "121",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "21-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Wireless Networks",
+              "Level": "International",
+              "Title": "Throughput stability and\nflow fairness enhancement of TCP traffic in multi-hop wireless networks",
+              "Volume No": "26",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "20-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Minimum Energy Consumption Objective Function for RPL in Internet of Thing",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "15-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Wireless Personal Communication",
+              "Level": "International",
+              "Title": "A Feedback\nAware Reliable Transport Protocol with Improved Window Increment Mechanism for\nInter Vehicular Wireless Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "18-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wiley IET Electronics Letters",
+              "Level": "International",
+              "Title": "Enhanced Window Increment and\nAdaptive Recovery TCP for Multi-hop Wireless Networks",
+              "Volume No": "53",
+              "Issue No": "6",
+              "Year": "2017",
+              "Date": "01-03-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "nternational Journal of Electronics and Communication Engineering",
+              "Level": "International",
+              "Title": "Adaptive Duty Cycle\nScheduling Algorithm for Wireless Sensor Networks using Test Bed",
+              "Volume No": "7",
+              "Issue No": "2",
+              "Year": "2014",
+              "Date": "17-09-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "American Journal of Applied Sciences",
+              "Level": "International",
+              "Title": "An Optimal Path\nManagement Strategy in Mobile Ad Hoc Network Using Fuzzy and Rough Set Theory",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2011",
+              "Date": "14-09-2011",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Project": "Research",
+              "Title of Project": "Design of a Robust End-to-End Congestion Control Algorithm for the Vehicle Internet",
+              "Funding Agency": "TAMILNADU STATE COUNCIL FOR SCIENCE AND TECHNOLOGY",
+              "Name of the Scheme": "PROGRAMME FOR BRIDGING THE GAP IN RESEARCH FUNDING FOR RESEARCH SCHOLARS IN COLLEGES (RFRS)",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "01-04-2023",
+              "Duration": "2 years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Dev Tex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-02-2024",
+              "Date of Consultancy (To)": "31-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "7080"
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V Guard Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-02-2024",
+              "Date of Consultancy (To)": "30-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "The elite garments",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "5",
+              "Date of Consultancy (From)": "01-02-2023",
+              "Date of Consultancy (To)": "31-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "FDP",
+              "Name of Event": "irtual FDP on Virtual FDP on Wireless Networking Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-05-2024",
+              "End Date": "24-05-2024",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Virtual FDP on Sinulation x Emulation of Self organized Network",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "06-11-2020",
+              "End Date": "10-11-2020",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Simulation and Emulation of Self Organized Networks (SEASON -2020)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-02-2020",
+              "End Date": "08-02-2020",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National level workshop on SEASON - 2019",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "13-09-2019",
+              "End Date": "14-09-2019",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Simulation and Emulation of Self Organized Networks (SEASON -2018)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "16-08-2018",
+              "End Date": "18-08-2018",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation and Emulation of Self Organized Network SEASON-2017",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "14-09-2017",
+              "End Date": "16-09-2017",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Simulation and Emulation of Self Organized Networks (SEASON -2016)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "01-09-2016",
+              "End Date": "03-09-2016",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Simulation and Emulation of Self Organized Networks (SEASON -2015) - Phase -II",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "08-10-2015",
+              "End Date": "10-10-2015",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "imulation and Emulation of Self Organized Networks (SEASON -2015)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-09-2015",
+              "End Date": "12-09-2015",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation and Emulation of Self Organized Networks: Phase- II (SEASON -2014)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "18-09-2014",
+              "End Date": "20-09-2014",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation and Emulation of Self Organized Networks (SEASON -2014)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "11-09-2014",
+              "End Date": "13-09-2014",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation and Emulation of Sensor Networks (SEASON-2013)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "24-10-2013",
+              "End Date": "26-10-2013",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation of Advance Wireless Networks using NS-2",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-09-2012",
+              "End Date": "22-09-2012",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation of Wireless Network Standards and Protocols using NS-2",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "13-09-2012",
+              "End Date": "15-09-2012",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Simulation and Emulation of Wired, Wireless and Sensor Networks Using EXata 2.3",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "26-07-2012",
+              "End Date": "28-07-2012",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "A National Level Workshop on Simulation & Analysis of Wireless Networks Using Ns-2 Tool –A Beginners Approach",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-10-2011",
+              "End Date": "21-10-2011",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "A National Level Workshop on Simulation of Wireless Networks Using Ns-2 Tool –A Beginners Approach",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "13-10-2011",
+              "End Date": "14-10-2011",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "ECR",
+              "Name of Supervisor": "DR.M.JOSEPH AUXILIUS JUDE",
+              "Title of the thesis for scholar": "Design of a Robust End-to-End Congestion Control Algorithm for the Vehicle Internet",
+              "Name of Scholar": "M Shivaranjani",
+              "Date of Registration": "15-12-2022",
+              "Registration No:": "23244691226",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "KEC",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

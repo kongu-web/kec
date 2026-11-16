@@ -1,0 +1,855 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.HEMALATHA",
+              "Department": "CDR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Machine Learning,Deep Learning",
+              "Date of joining in KEC": "18-07-2022",
+              "Mobile": "9578644844",
+              "E-mail": "hemashanmugam1990@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Academic Degree": "M.E",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "16-09-2013"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Academic Degree": "B.TECH",
+              "Specialization": "INFORMATION TECHNOLOGY",
+              "From": "26-08-2009"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Category": "GATE",
+              "Reference No": "",
+              "Roll No": "72011260",
+              "Year": "GATE 2013",
+              "Specialization": "Computer Science and Information Technology (CS)",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "18-07-2022",
+              "End Date": "07-06-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of Award/Achievement": "DISCIPLINE STAR",
+              "Level": "National",
+              "Awarded by": "Swayam - NPTEL",
+              "Place": "",
+              "Date": "31-12-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of Award/Achievement": "MENTOR FOR ONLINE CERTIFICATION COURSE",
+              "Level": "National",
+              "Awarded by": "SWAYAM-NPTEL",
+              "Place": "",
+              "Date": "30-04-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of Award/Achievement": "MENTOR FOR ONLINE CERTIFICATION COURSE",
+              "Level": "National",
+              "Awarded by": "SWAYAM - NPTEL",
+              "Place": "",
+              "Date": "31-12-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings Copyright © 2025 by SCITEPRESS – Science and Technology Publications, Lda.",
+              "Level": "International",
+              "Title": "A Hybrid CNN-GNN Framework for Enhanced Glaucoma Detection\nUsing Retinal Fundus Images",
+              "Volume No": "Volume 3",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "09-10-2026",
+              "Published at": "SCITEPRESS – Science and Technology Publications, Lda"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific Reports",
+              "Level": "International",
+              "Title": "K-STAMM: a knowledge-enhanced spatial – temporal attention model with multimodal fusion for pneumonia prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-04-2026",
+              "Published at": "Scientific reports"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "CUCN-2025: Cybersecurity Unlocked: Cryptography, Network Security, Data Protection",
+              "Level": "International",
+              "Title": "Artificial Intelligence and Machine Learning in Cybersecurity",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "04-03-2026",
+              "Published at": "De Gruyter"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Distributed and Parallel Computing",
+              "Level": "International",
+              "Title": "Introduction to Distributed Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-11-2025",
+              "Published at": "Wiley Online Library"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+              "Level": "International",
+              "Title": "Vision-based Lane Detection System using CNN and Sliding Window Polynomial Fitting for Autonomous Vehicle",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Level": "International",
+              "Title": "Exploring Machine Learning Algorithms for Identifying Optimal Features to Predict Childbirth Modes",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-06-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Textiles and Wearables for Health and Fitness",
+              "Level": "International",
+              "Title": "History of smart textiles and wearable",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-05-2025",
+              "Published at": "Wiley,Abhishek Kumar, Balwinder Raj, Jyotirmoy Pathak, Suman Lata Tripathi"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Textiles and Wearables for Health and Fitness",
+              "Level": "International",
+              "Title": "Human–Computer Interaction\nin Wearable Health Technologies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-05-2025",
+              "Published at": "Wiley,Abhishek Kumar, Balwinder Raj, Jyotirmoy Pathak, Suman Lata Tripathi"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain for Biomedical Research and Healthcare",
+              "Level": "International",
+              "Title": "Existing Tools and Technologies in Biomedical and Healthcare System",
+              "Volume No": "Online ISBN 978-981-97-4268-4   Print ISBN 978-981-97-4267-7",
+              "Issue No": "Online ISBN 978-981-97-4268-4   Print ISBN 978-981-97-4267-7",
+              "Year": "2024",
+              "Date": "01-09-2024",
+              "Published at": "Springer, Singapore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Figma: Fundamental to UI expertise",
+              "Number of persons involved": "59",
+              "Date of Consultancy (From)": "25-08-2026",
+              "Date of Consultancy (To)": "25-08-2026",
+              "Revenue Generated (amount in Rupees without GST)": "17700"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Shanruck Technologies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "10-02-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "SRI SIVAGAMI &CO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "06-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "introduction to Prompt ENgineering",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "25-07-2026",
+              "End Date": "23-10-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "Admin Block"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE AND ACCREDITATION",
+              "Level": "National",
+              "Organized by": "Indian Institute of Science Bangalore",
+              "Place": "Bangalore",
+              "Start Date": "21-07-2026",
+              "End Date": "30-10-2026"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "Kongu Engineering College",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Edge Computing",
+              "Level": "International",
+              "Organized by": "IIT KANPUR",
+              "Place": "online",
+              "Start Date": "01-01-2026",
+              "End Date": "31-03-2026"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Applications",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "Kongu Engineering College.",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Large Language Models (LLMs)",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "IIT-MADRAS-ONLINE",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Applied Linear Algebra in AI and ML",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "IIT-KHARAGPUR ONLINE",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Large Language Models (LLMs)",
+              "Level": "National",
+              "Organized by": "IIT-MADRAS",
+              "Place": "IIT-MADRAS-ONLINE",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Applied Linear Algebra in AI and ML",
+              "Level": "National",
+              "Organized by": "IIT-KHARAGPUR",
+              "Place": "IIT-KHARAGPUR ONLINE",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "IIT MADRAS-ONLINE",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Deep Learning",
+              "Level": "National",
+              "Organized by": "IIT MADRAS",
+              "Place": "ONLINE",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Impact of Machine Learning,Deep Learning AI:An Industrial Perspective",
+              "Level": "State",
+              "Organized by": "Kongu Engineerign College",
+              "Place": "Perundurai,Erode",
+              "Start Date": "06-05-2024",
+              "End Date": "10-05-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Effective Research Paper writing Strategies and High Impact Journal Publication Techniques",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai,Erode",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Name of the Professional Body/Society": "International Association of Engineers (IAENG) Member",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "23-02-2023",
+              "End Date": "10-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of Paper": "Disease Prediction and Specialist Recommendation Using Machine Learning",
+              "Title of Conference": "2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "16-12-2024",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of Paper": "Multimodal Approach for depression detection: Integrating speech and eye ball movement data",
+              "Title of Conference": "2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "16-12-2024",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of Paper": "Multilingual Exploration of the Kambaramayana: Analyzing Tamil Translations in Telugu, Malayalam, and Kannada Using mBERT and DistilBERT",
+              "Title of Conference": "2024 1st International Conference on Advances in Computing, Communication, and Networking (ICAC2N)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "16-12-2024",
+              "End Date": "28-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "INTERNET OF THINGS BASED AUTONOMOUS FOOD DELIVERY ROBOT FORCAMPUS ENVIRONMENTS",
+              "Name of Application": "ORDINARY APPLICATION",
+              "Co-inventors Name": "Mohamed Ajmal M, Karthika M, Nandita S, Selvaraj S, Maheswari C,Hemalatha S,Jothimani K,Thangarajan R,",
+              "Application Number": "202541060450",
+              "Date of Registration": "25-06-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "“AUTOMATED REAL-TIME CROP PROTECTION  SYSTEM”",
+              "Name of Application": "",
+              "Co-inventors Name": "HEMALATHA S,SELVARAJ S,THANGARAJAN R,JOTHIMANI K",
+              "Application Number": "202441092003",
+              "Date of Registration": "02-11-2024",
+              "Application Status": "Applied",
+              "Granted Date": "",
+              "Published Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of the Program": "Code, Compile, Conquer: Mastering the Fundamentals of C",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "29-05-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of the Program": "ICCSC-IEEE",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "2026 International Conference on Circuit, Systems and Communication (ICCSC)",
+              "Start Date": "22-04-2026",
+              "End Date": "05-05-2026"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of the Program": "Design Thinking",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Vivekanandha College of Technology for women",
+              "Start Date": "31-08-2025",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of the Program": "SESSION IN INNOVATION DESIGN THINKING",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "PAAVAI ENGINEERING COLLEGE (Autonomous) ,Department of B.E. CSE (AI and ML)",
+              "Start Date": "20-02-2025",
+              "End Date": "02-02-2025"
+            },
+            {
+              "Name of Faculty": "S.HEMALATHA",
+              "Department": "CDR",
+              "Title of the Program": "Research Significance of Visualization in Data Science",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "R P Sarathy Insitute of Technology",
+              "Start Date": "19-10-2024",
+              "End Date": "19-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

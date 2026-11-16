@@ -1,0 +1,1064 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Automobile Engineering, Composite Materials",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "8754254671",
+              "E-mail": "vinithmech10@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Academic Degree": "PG Degree",
+              "Specialization": "Cyberphysical System",
+              "From": "08-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Mechanical Engineering",
+              "From": "02-01-2017"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Academic Degree": "M.E",
+              "Specialization": "Automotive Engineering",
+              "From": "02-08-2010"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Academic Degree": "B.E",
+              "Specialization": "Mechanical Engineering",
+              "From": "01-08-2010"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "05-06-2017",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SNS College of Technology, College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "20-06-2016",
+              "End Date": "18-05-2017",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-DR.K.S.KARTHI_VINITH-241b0343-fd71-41f0-b8a3-9fd67dd4b927.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091859Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e3661d2d2dce00faa80811592b6581ffa8e406b87f487cb565c88356707ae1b3",
+                  "name": "SNS Appointment order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "QwSM83dg6QqL4mMxc",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of Award/Achievement": "Best Paper Award",
+              "Level": "National",
+              "Awarded by": "SSN College of Engineering",
+              "Place": "Kalavakkam",
+              "Date": "21-04-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "EPJ Web of Conferences",
+              "Level": "International",
+              "Title": "Task sequencing and scheduling of autonomous mobile robots in flexible manufacturing systems using metaheuristic optimization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "02-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Science home Accessibility Help Journal of Physics: Conference Series",
+              "Level": "International",
+              "Title": "Experimental Testing of Rubber Materials for Enhancement of Suspension Bush Performance",
+              "Volume No": "2837",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "24-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Ceramic Processing Research.",
+              "Level": "International",
+              "Title": "Effect of hybrid ceramic addition on Al7075 for prompt utilization",
+              "Volume No": "24",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "07-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Silicon",
+              "Level": "International",
+              "Title": "Development of Pineapple Fibre and Biosilica Toughened\nPolyester Sustainable Biocomposite of Few Mechanical Properties\nfor Automobile Application",
+              "Volume No": "15",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Recent Advances in Energy Technologies",
+              "Level": "International",
+              "Title": "Analysis of Performance and Emission Properties of Biodiesel Using Corn Oil Blended with Ethanol",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "30-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "TRANSACTIONS OF FAMENA XLVI-3 (",
+              "Level": "International",
+              "Title": "Forecasting the Equipment Effectiveness in Total Productive Maintenance using an Intelligent Hybrid Conceptual Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "25-07-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Strojniški vestnik - Journal of Mechanical Engineering",
+              "Level": "International",
+              "Title": "Extremal-Micro Genetic Algorithm Model for Time-Cost\nOptimization with Optimal Labour Productivity",
+              "Volume No": "67",
+              "Issue No": "12",
+              "Year": "2021",
+              "Date": "24-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Conference Series: Materials Science and Engineering",
+              "Level": "International",
+              "Title": "Experimental Investigation for the usage of Diesel - Jatropha – Rice bran Biodiesel Mixture Blends in Four Stroke Diesel Engine",
+              "Volume No": "1055",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "12-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today  :Proceedings",
+              "Level": "International",
+              "Title": "Fiber extraction and mechanical properties of Agave Americana/Kenaf fiber reinforced hybrid epoxy composite",
+              "Volume No": "46",
+              "Issue No": "17",
+              "Year": "2021",
+              "Date": "19-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "Design And Fabrication Of Adaptive Spoiler For Go\n- Kart Vehicles",
+              "Volume No": "9",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "12-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Performance and Emission Test in CI Engine using Magnetic Fuel Conditioning with Nano Additives",
+              "Volume No": "8",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "11-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Applied Science and Technology (AJAST)",
+              "Level": "International",
+              "Title": "Analyzing the Efficiency of Leaf Spring by Hybrid Composite Material Converter",
+              "Volume No": "03",
+              "Issue No": "01",
+              "Year": "2019",
+              "Date": "06-03-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Modern Trends in Engineering and Science",
+              "Level": "International",
+              "Title": "Analysis of Acetal Homopolymer Composites for Wheel Hub of All Terrain Vehicle",
+              "Volume No": "04",
+              "Issue No": "03",
+              "Year": "2017",
+              "Date": "13-03-2017",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "SS modern rice mill, tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Audit and Suggestion to improve efficiency",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-04-2026",
+              "Date of Consultancy (To)": "05-05-2026",
+              "Revenue Generated (amount in Rupees without GST)": "33899"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "A S R Body Works- Kovilpatti Municipality ,KovilpattiMunicipality, Kovilpatti",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "28-01-2025",
+              "Date of Consultancy (To)": "28-01-2025",
+              "Revenue Generated (amount in Rupees without GST)": "16000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "A B T Industries Limited - KALAKAD MUNICIPALITY ,KALAKADMUNICIPALITY TIRUNELVELI DISTRICT – 627 501",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Third Party Vehicle Inspection",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "13-11-2024",
+              "Date of Consultancy (To)": "13-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Wizaard System, Coimbatore ,Wizaard System, V.R. Complex,Ganapathy, Coimbatore-641 006",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "07",
+              "Date of Consultancy (From)": "25-04-2024",
+              "Date of Consultancy (To)": "25-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "59320"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Aadhi Cars Pvt Ltd, Coimbatore - 641035",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "ISO Documentation",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "21-05-2022",
+              "Date of Consultancy (To)": "21-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Type of Event": "Others",
+              "Name of Event": "SAEINDIA Student Convention",
+              "Collaboration/Sponsored by": "KEC and SAEINDIA Southern Section",
+              "Level": "National",
+              "Start Date": "03-10-2025",
+              "End Date": "03-10-2025",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "Maharaja Auditorium"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Type of Event": "Others",
+              "Name of Event": "SAE Student Convention Tier 2 - Presentation Skills",
+              "Collaboration/Sponsored by": "SAEINDIA Southern Section",
+              "Level": "National",
+              "Start Date": "25-10-2024",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "Automobile, Civil and Mechanical Seminar Hall"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Type of Event": "Others",
+              "Name of Event": "Enginium 2K18",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "National",
+              "Start Date": "05-10-2018",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Maharaja Auditorium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Excel, Dashboards & AI Powered Presentations for NAAC Accrediation",
+              "Level": "National",
+              "Organized by": "Scrollwell",
+              "Place": "Online",
+              "Start Date": "26-10-2026",
+              "End Date": "01-11-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "ENTREPRENEURSHIP",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "15-07-2026",
+              "End Date": "21-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Clean Mobility Revolution: Electric & Hydrogen-Powered Vehicles",
+              "Level": "National",
+              "Organized by": "Godavari Global University, Andra Pradesh",
+              "Place": "Online",
+              "Start Date": "17-11-2025",
+              "End Date": "22-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Product Design Engineering using Fusion",
+              "Level": "State",
+              "Organized by": "ICT Academy",
+              "Place": "Kongu Engineering College",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Industrial Engineering and Operations Research",
+              "Level": "National",
+              "Organized by": "IIT Guwahati",
+              "Place": "",
+              "Start Date": "14-07-2025",
+              "End Date": "24-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainable Manufacturing in the Era of Industry 4.0: Paving the Way for a Greener Future",
+              "Level": "National",
+              "Organized by": "SCHOOL OF STUDIES OF ENGINEERING AND TECHNOLOGY, GURU GHASIDAS VISHWAVIDYALAYA, BILASPUR",
+              "Place": "Online",
+              "Start Date": "23-12-2024",
+              "End Date": "28-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Technological Advancement in Synthesis of Novel Materials",
+              "Level": "National",
+              "Organized by": "Chaitanya Bharathi Institute of Technology, Hyderabad",
+              "Place": "Online",
+              "Start Date": "05-08-2024",
+              "End Date": "10-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital Pedagogy and Online Tools",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "Online",
+              "Start Date": "29-07-2024",
+              "End Date": "02-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Futuristics Challenges & Technologies in UAV's for Sustainable Environment",
+              "Level": "National",
+              "Organized by": "Department of Automobile Engineering",
+              "Place": "PSG College of Technology, Coimbatore",
+              "Start Date": "26-07-2024",
+              "End Date": "27-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Certificate Course in Mechanical CAD",
+              "Level": "National",
+              "Organized by": "Department of Automobile Engineering",
+              "Place": "Kongu Engineering College",
+              "Start Date": "14-07-2024",
+              "End Date": "18-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Logistics & Supply Chain Management",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "NPTEL",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Electric Vehicle System-Level Modelling and Simulation using MATLAB & Simulink",
+              "Level": "National",
+              "Organized by": "ICT Academy",
+              "Place": "PSG Institute of Technology and Applied Research",
+              "Start Date": "19-02-2024",
+              "End Date": "19-02-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Composites",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "NPTEL",
+              "Start Date": "03-07-2023",
+              "End Date": "31-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Creating a Successful Start - up Ecosystem: Ideation to Fund Raising: Key Critical Steps and Processes",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "KEC",
+              "Start Date": "02-02-2023",
+              "End Date": "04-02-2023"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Electronic Packaging and Manufacturing",
+              "Level": "National",
+              "Organized by": "IIT, Kharagpur",
+              "Place": "NPTEL",
+              "Start Date": "02-01-2023",
+              "End Date": "31-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Training Program on Autodesk Fusion 360",
+              "Level": "National",
+              "Organized by": "Autodesk",
+              "Place": "Thiagarajar Engineeering College",
+              "Start Date": "28-09-2022",
+              "End Date": "29-09-2022"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Industry 4.0 and Industrial Internet of Things",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "NPTEL",
+              "Start Date": "01-01-2022",
+              "End Date": "30-04-2022"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Trends in Measurement and Control for System Automation",
+              "Level": "National",
+              "Organized by": "Birla Institute of Technology",
+              "Place": "Online",
+              "Start Date": "28-06-2021",
+              "End Date": "02-07-2021"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning and Computer Vision",
+              "Level": "National",
+              "Organized by": "Vignans Foundation for Science Technology and Research University",
+              "Place": "Online",
+              "Start Date": "21-06-2021",
+              "End Date": "25-06-2021"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence and Green Power Technology",
+              "Level": "National",
+              "Organized by": "Kamala Nehru Institute of Technology",
+              "Place": "Online",
+              "Start Date": "14-06-2021",
+              "End Date": "18-06-2021"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Inculcating Universal Human Values in Technical Education",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "Online",
+              "Start Date": "19-10-2020",
+              "End Date": "23-10-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Writing Quality Research Paper and Proposal",
+              "Level": "National",
+              "Organized by": "International School of Management, Patna",
+              "Place": "Online",
+              "Start Date": "22-05-2020",
+              "End Date": "22-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Essentials of Immersive Learning",
+              "Level": "National",
+              "Organized by": "Kalaignarkarunanidhi Institute of Technology",
+              "Place": "Online",
+              "Start Date": "19-05-2020",
+              "End Date": "19-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Patent Filing Procedure",
+              "Level": "National",
+              "Organized by": "Sri Ramakrishna College of Arts & Sceience",
+              "Place": "Online",
+              "Start Date": "18-05-2020",
+              "End Date": "23-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Improving your Research Visibility - Research Impact and Metrics",
+              "Level": "National",
+              "Organized by": "Velalar College of Engineering and Technology",
+              "Place": "Online",
+              "Start Date": "11-05-2020",
+              "End Date": "13-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Emerging Trends in IC Engine Technologies for Enhancing the Performance and Reducing the Emission in Automobiles",
+              "Level": "National",
+              "Organized by": "Department of Automobile Engineering",
+              "Place": "Kongu Engineering COllege",
+              "Start Date": "05-02-2020",
+              "End Date": "06-02-2020"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Living your purpose workshop series - operation trident",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "01-12-2018",
+              "End Date": "03-12-2018"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "STTP",
+              "Title of the program": "Laboratory and Ergonomic Safety for Engineers",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology",
+              "Place": "Bombay",
+              "Start Date": "11-06-2018",
+              "End Date": "15-06-2018"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Outcome Based Pedagogic Principles for Effective Teaching",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-02-2018",
+              "End Date": "31-03-2018"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research Methodologies for Engineering & Management Teachers and Research Scholars",
+              "Level": "National",
+              "Organized by": "School of Management Studies",
+              "Place": "Kongu Engineering College",
+              "Start Date": "27-11-2017",
+              "End Date": "10-12-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Name of the Professional Body/Society": "Society of Automotive Engineers",
+              "Position": "Faculty Advisor / Champion",
+              "Level": "International",
+              "Start Date": "01-07-2017",
+              "End Date": "30-06-2032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KARTHI VINITH",
+              "Department": "AUR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "AI Driven Intelligent CNC Machining System with Predictive Optimization and Adaptive Process Control",
+              "Name of Application": "",
+              "Co-inventors Name": "Mohanprabhu Mylsamy, Sankararo Vinjavarapu, Dr.B.Dhanasakkaravarthi, Dr.Shailendra Kumar Bohidar, Dr. Gopala Rao Thellaputta",
+              "Application Number": "202641063943",
+              "Date of Registration": "20-04-2026",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

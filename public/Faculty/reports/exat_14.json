@@ -1,0 +1,664 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "A.DEEPA",
+              "Department": "CDR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Machine Learning, Cloud Computing",
+              "Date of joining in KEC": "13-03-2023",
+              "Mobile": "8310945940",
+              "E-mail": "deepa.csd@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Academic Degree": "M.Tech",
+              "Specialization": "Computer Science",
+              "From": "20-08-2020"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "13-03-2023",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Enhancing the Social Media Truthfulness with Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "17-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Early Stroke Prediction using Lifestyle and Health Metrics with SHGE Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "UGC",
+              "Level": "International",
+              "Title": "360 Virtual College Campus Tour using Virtual Reality",
+              "Volume No": "13",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "06-01-2025",
+              "Published at": "IJARESM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sri Sai Polymers & Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "12-01-2026",
+              "Date of Consultancy (To)": "29-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sri Rajaganapathy Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-01-2026",
+              "Date of Consultancy (To)": "29-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Ashwin Fabrics & Garments",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-01-2026",
+              "Date of Consultancy (To)": "03-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sri Kumaran Pharmacy",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-04-2025",
+              "Date of Consultancy (To)": "02-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sri Balasubramanian Timber Mart",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-04-2025",
+              "Date of Consultancy (To)": "02-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit Course,\" Introduction to Prompt Engineering\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "20-08-2025",
+              "End Date": "14-11-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Computing",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "Online",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Energy Efficient LLM model Deployment on Edge and Cloud",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "NextGenAI-Advancing NLP basics to intelligent agents",
+              "Level": "Others",
+              "Organized by": "Kogenix AI LLP",
+              "Place": "KEC",
+              "Start Date": "22-12-2025",
+              "End Date": "27-12-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "25-07-2025",
+              "End Date": "02-11-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "24-07-2025",
+              "End Date": "02-11-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Reality and Augmented Reality using Unity",
+              "Level": "Others",
+              "Organized by": "Scopik Edutech Pvt Ltd",
+              "Place": "",
+              "Start Date": "09-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and its application with Computer Vision",
+              "Level": "Online",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence Edge- Soft Computing",
+              "Level": "Online",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "09-12-2024",
+              "End Date": "14-12-2024"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Machine Learning",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "15-07-2024",
+              "End Date": "15-09-2024"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Developing Real time applications using IoT",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "19-06-2024",
+              "End Date": "21-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Title of Paper": "Early Stroke Prediction using Lifestyle and health metrics with SHGE algorithm",
+              "Title of Conference": "ICUIS 2025",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "26-11-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Title of Paper": "Enhancing the Social Media Truthfulness with Machine Learning",
+              "Title of Conference": "ICECMSN",
+              "Organized by": "Hindusthan Institute of Technology",
+              "Level": "International",
+              "Start Date": "24-11-2025",
+              "End Date": "26-11-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Title of Paper": "Advancing Autonomous Vehicles Safety with LSTM-AE for Anomaly Detection",
+              "Title of Conference": "ICCCNT",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "A.DEEPA",
+              "Department": "CDR",
+              "Title of Paper": "Distributed Control and Optimization of Electric  Vehicle Charging Stations in a Microgrid with  Renewable Energy Sources",
+              "Title of Conference": "International Conference on Smart Grid",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "27-05-2024",
+              "End Date": "29-05-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1689 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "CAD/CAM",
+              "Date of joining in KEC": "11-06-2009",
+              "Mobile": "9952306585",
+              "E-mail": "sambathme@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Academic Degree": "PH.D",
+              "Specialization": "Mechanical",
+              "From": "03-06-2010"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Academic Degree": "M.E.,",
+              "Specialization": "CAD/CAM",
+              "From": "04-08-2006"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Academic Degree": "B.E.,",
+              "Specialization": "Mechatronics Engineering",
+              "From": "02-08-2002"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-06-2009",
+              "End Date": "10-06-2026",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "Perundurai",
+              "Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "Best Faculty Placement Coordinator",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "Perundurai",
+              "Date": "28-04-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 2nd International Conference on Software, Systems and Information Technology (SSITCON)",
+              "Level": "International",
+              "Title": "Identification and Classification of Freezing of Gait Episodes in Parkinson's Disease Using AutoML Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "22-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applications of Artificial Intelligence in Pharmaceuticals",
+              "Level": "International",
+              "Title": "Innovative Implementation, Ethical Challenges, and Future Prospects of Artificial Intelligence in Pharmaceuticals",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AI-Powered Educational Games and Simulations",
+              "Level": "International",
+              "Title": "Digital Innovation in Higher Educational System: Application of Information and Communication Technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "An experimental validation of the predictive model for galling phenomenon in deep drawing processes",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "03-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "EXPERIMENTAL INVESTIGATION OF WEAR BEHAVIOR OF Al 8011/FLY ASH/B4C HYBRID METAL MATRIX COMPOSITE",
+              "Volume No": "32",
+              "Issue No": "3",
+              "Year": "2024",
+              "Date": "03-01-2025",
+              "Published at": "World Scientific Publishing Co. Pte. Ltd."
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Polymer Korea",
+              "Level": "International",
+              "Title": "Studies on Mechanical Behaviour of Coconut Peduncle Fibers",
+              "Volume No": "49",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "29-09-2024",
+              "Published at": "Polymer(Korea)"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Environmental Applications of Carbon-Based Materials",
+              "Level": "International",
+              "Title": "Tech-Driven Solutions for Environmental Conservation by AI Collaboration Processes",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2024",
+              "Date": "30-08-2024",
+              "Published at": "IGI Global"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain-Based Solutions for Accessibility in Smart Cities",
+              "Level": "International",
+              "Title": "Integrating 5G and IoT Technologies in Developing Smart City Communication Networks",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2024",
+              "Date": "30-08-2024",
+              "Published at": "IGI Global Scientific Publishing"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Multidisciplinary Applications of Extended Reality for Human Experience",
+              "Level": "International",
+              "Title": "Reality for human experience in AI in the digital economy",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2024",
+              "Date": "30-08-2024",
+              "Published at": "IGI Global"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Protection and Ecology",
+              "Level": "International",
+              "Title": "STUDY ON THE USE OF POLYMERIC TREATMENT WITH RICE HUSK SILICA ON DIRECT TENSION BEHAVIOUR AND ADHERENCE OF SISAL FIBRE IN CEMENTICIOUS COMPOSITES",
+              "Volume No": "25",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "05-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today Proceedings",
+              "Level": "International",
+              "Title": "Effect of various stitching patterns on mechanical properties of jute fiber reinforced composite",
+              "Volume No": "80",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "26-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Materials Science and Engineering",
+              "Level": "International",
+              "Title": "A Systematic Review on the Mechanical, Tribological, and\nCorrosion Properties of Al 7075 Metal Matrix Composites\nFabricated through Stir Casting Process",
+              "Volume No": "2023",
+              "Issue No": "5442809",
+              "Year": "2023",
+              "Date": "23-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "An investigation on selection and validation of suitable material to a steering knuckle of quad bike",
+              "Volume No": "2446",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "29-11-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Natural Fibers",
+              "Level": "International",
+              "Title": "Enhancement of Fracture Toughness Characteristics of\nWoven Jute Fabric Mat Reinforced Epoxy Composites\nwith SiC Fillers",
+              "Volume No": "20",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "18-11-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Research",
+              "Level": "International",
+              "Title": "Effect of Silicon Carbide and Alumina Reinforcement of Different Volume Fraction on Wear Characteristics of AL 7075 Hybrid Composites Using Response Surface Methodology",
+              "Volume No": "25",
+              "Issue No": "e20220204",
+              "Year": "2022",
+              "Date": "26-08-2022",
+              "Published at": "ABM, ABC, ABPol"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "Assessing the tribological properties of vegetable oil emulsions and machining parameter optimization using response surface methodology",
+              "Volume No": "28",
+              "Issue No": "12",
+              "Year": "2021",
+              "Date": "30-12-2021",
+              "Published at": "World Scientific"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Case Studies in Thermal Engineering",
+              "Level": "International",
+              "Title": "An extensive analysis of mechanical, thermal and physical properties of jute fiber composites with different fiber orientations",
+              "Volume No": "28",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Investigation of corrosion behaviour of Al 7075/B4C/Al2O3 hybrid metal matrix composite",
+              "Volume No": "50",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "24-09-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "Investigation of dry sliding wear behavior of al 7075–(SiC/TiC) hybrid metal matrix composites",
+              "Volume No": "28",
+              "Issue No": "7",
+              "Year": "2021",
+              "Date": "26-07-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Archives of Metallurgy and Materials",
+              "Level": "International",
+              "Title": "Investigation of mechanical and corrosion properties of Al 7075/garnet metal matrix composites by two-stage stir casting process",
+              "Volume No": "66",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "17-05-2021",
+              "Published at": "Institute of Metallurgy and Materials Science of Polish Academy of Sciences"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Revista de Metalurgia",
+              "Level": "International",
+              "Title": "Investigation of mechanical and corrosion properties of Al 7075/Redmud metal matrix composite",
+              "Volume No": "57",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "05-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Structural analysis of composite wind turbine blade using ANSYS",
+              "Volume No": "50",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "05-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Investigation of optimum process parameter of lost foam casting of A356/SiC metal matrix composite",
+              "Volume No": "47",
+              "Issue No": "14",
+              "Year": "2021",
+              "Date": "01-01-2021",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today Proceding",
+              "Level": "International",
+              "Title": "Effect of shot peening on surface properties of Al7075 hybrid aluminum metal matrix composites",
+              "Volume No": "33",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "05-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Design And Fabrication Of Mint Plucker Using\nCam Mechanism",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "11-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Mechanical and fracture study of hybrid natural fiber reinforced composite–Coir and sugarcane leaf sheath",
+              "Volume No": "33",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "02-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Investigations on AWJ cutting process of hybrid aluminium 7075 metal matrix composites using nozzle oscillation technique",
+              "Volume No": "33",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "01-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Acoustic characterization of farm residues for sound absorption applications",
+              "Volume No": "33",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "01-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Surface Review and Letters",
+              "Level": "International",
+              "Title": "Multi-objective optimization of EDM process parameters for machining of hybrid aluminum metal matrix composites (AL7075/TiC/B4C) using genetic algorithm",
+              "Volume No": "26",
+              "Issue No": "10",
+              "Year": "2019",
+              "Date": "30-12-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Process Parameter Optimization in Green Sand Casting Using ANN",
+              "Volume No": "8",
+              "Issue No": "11",
+              "Year": "2019",
+              "Date": "11-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Latin american journal of solids and structures",
+              "Level": "International",
+              "Title": "Mechanical and Corrosion Behavior of Al7075 (Hybrid) Metal Matrix Composites by Two Step Stir Casting Process",
+              "Volume No": "14",
+              "Issue No": "2",
+              "Year": "2017",
+              "Date": "05-03-2017",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Neomatics Engineering Machines Pvt Ltd - Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Design of mechanical components",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "30-12-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Neomatics Engineering Machines Pvt. Ltd",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "Design",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "19-04-2022",
+              "Date of Consultancy (To)": "19-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "27000"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Gugan Knitwears Pvt Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardness Testing",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "09-07-2019",
+              "Date of Consultancy (To)": "09-07-2019",
+              "Revenue Generated (amount in Rupees without GST)": "3000"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "How to do a Systematic research and write a technical paper",
+              "Number of persons involved": "15",
+              "Date of Consultancy (From)": "22-02-2019",
+              "Date of Consultancy (To)": "22-02-2019",
+              "Revenue Generated (amount in Rupees without GST)": "9000"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Composite Materials – Manufacturing and Characterization",
+              "Number of persons involved": "26",
+              "Date of Consultancy (From)": "29-12-2018",
+              "Date of Consultancy (To)": "29-12-2018",
+              "Revenue Generated (amount in Rupees without GST)": "13000"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Systematic research and paper writing",
+              "Number of persons involved": "49",
+              "Date of Consultancy (From)": "08-10-2016",
+              "Date of Consultancy (To)": "08-10-2016",
+              "Revenue Generated (amount in Rupees without GST)": "28200"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Systematic research and paper writing",
+              "Number of persons involved": "55",
+              "Date of Consultancy (From)": "29-08-2015",
+              "Date of Consultancy (To)": "29-08-2015",
+              "Revenue Generated (amount in Rupees without GST)": "22895"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "RB Wovens Pvt. Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Air Quality improvement",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "26-08-2015",
+              "Date of Consultancy (To)": "26-08-2015",
+              "Revenue Generated (amount in Rupees without GST)": "6500"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Composite Materials – Manufacturing and Characterization",
+              "Number of persons involved": "38",
+              "Date of Consultancy (From)": "01-08-2015",
+              "Date of Consultancy (To)": "01-08-2015",
+              "Revenue Generated (amount in Rupees without GST)": "16447"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "How to write a technical paper for reputed journals",
+              "Number of persons involved": "35",
+              "Date of Consultancy (From)": "28-03-2015",
+              "Date of Consultancy (To)": "28-03-2015",
+              "Revenue Generated (amount in Rupees without GST)": "26250"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Composite Materials – Manufacturing and Characterization",
+              "Number of persons involved": "27",
+              "Date of Consultancy (From)": "31-10-2014",
+              "Date of Consultancy (To)": "31-10-2014",
+              "Revenue Generated (amount in Rupees without GST)": "20826"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "Masterial Casting and Testing",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "23-09-2014",
+              "Date of Consultancy (To)": "31-03-2017",
+              "Revenue Generated (amount in Rupees without GST)": "108750"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "International certification course on Solid works",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "27-01-2026",
+              "End Date": "02-02-2026",
+              "Duration": "6",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "International Certification Course on Solid edge",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-02-2025",
+              "End Date": "05-03-2025",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "International Certification Course on SolidWorks",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "20-01-2025",
+              "End Date": "24-01-2025",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "International Certification Course on SolidWorks",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "30-09-2024",
+              "End Date": "07-10-2024",
+              "Duration": "6 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Certification course on Hypermesh and CATIA",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-08-2024",
+              "End Date": "09-08-2024",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "CAD Modelling using CATIA",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "19-03-2018",
+              "End Date": "04-04-2018",
+              "Duration": "30hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Finite element analysis using ABAQUS V6.12",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "18-07-2016",
+              "End Date": "05-08-2016",
+              "Duration": "30hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Finite element analysis using ABAQUS V6.12",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "06-07-2015",
+              "End Date": "31-07-2015",
+              "Duration": "30hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programme on Dynamics of Machinery",
+              "Collaboration/Sponsored by": "Anna University Chennai",
+              "Level": "State",
+              "Start Date": "23-06-2014",
+              "End Date": "29-06-2014",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Seminar",
+              "Name of Event": "One day National Seminar on Research focus on nondestructive testing and evaluation of composite materials",
+              "Collaboration/Sponsored by": "BRNS",
+              "Level": "National",
+              "Start Date": "21-02-2014",
+              "End Date": "09-05-2025",
+              "Duration": "1 DAy",
+              "Role played": "Coordinator",
+              "Venue": "Mechanical Block"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programme on Design of Transmission Systems",
+              "Collaboration/Sponsored by": "Anna University Chennai",
+              "Level": "State",
+              "Start Date": "23-12-2013",
+              "End Date": "29-12-2013",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programme on Design of Machine Elements",
+              "Collaboration/Sponsored by": "Anna University Chennai",
+              "Level": "State",
+              "Start Date": "03-06-2013",
+              "End Date": "09-06-2013",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Seminar",
+              "Name of Event": "Two days National Seminar on Carbon Nanotube Composites Processing, preparation and Applications",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "25-01-2013",
+              "End Date": "09-05-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programme on Dynamics of Machinery",
+              "Collaboration/Sponsored by": "Anna University Chennai",
+              "Level": "State",
+              "Start Date": "17-12-2012",
+              "End Date": "23-12-2012",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Seminar",
+              "Name of Event": "Two days National Seminar on Application of carbon nanotube composites in green technology - research focus",
+              "Collaboration/Sponsored by": "BRNS",
+              "Level": "National",
+              "Start Date": "02-11-2012",
+              "End Date": "03-11-2012",
+              "Duration": "2 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programme on Kinematics of Machines",
+              "Collaboration/Sponsored by": "Anna University Coimbatore",
+              "Level": "State",
+              "Start Date": "22-12-2011",
+              "End Date": "30-12-2011",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling and Assembling using Pro-E",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "19-12-2011",
+              "End Date": "25-01-2012",
+              "Duration": "45hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling and Assembling using Pro-E",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-08-2011",
+              "End Date": "09-09-2011",
+              "Duration": "45hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling and Assembling using Pro-E",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-07-2011",
+              "End Date": "30-07-2011",
+              "Duration": "45 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling and Assembling using Pro-E",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "26-07-2010",
+              "End Date": "15-09-2010",
+              "Duration": "45hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Drafting and modeling using AUTOCAD 2010",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "14-12-2009",
+              "End Date": "01-04-2010",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "AI for Engineers",
+              "Level": "State",
+              "Organized by": "KEC",
+              "Place": "Perundurai",
+              "Start Date": "20-04-2026",
+              "End Date": "29-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Climate Resilient Pathways for Sustainable Development",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "EEE",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Simulation Model Familiarization & Development using ProSimulator",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "05-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Additive Manufacturing Advancements in Different Applications",
+              "Level": "National",
+              "Organized by": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY RAMAPURAM CAMPUS",
+              "Place": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY RAMAPURAM CAMPUS",
+              "Start Date": "21-10-2024",
+              "End Date": "26-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Progress in Mechanical Engineering",
+              "Level": "International",
+              "Organized by": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "Chennai",
+              "Start Date": "14-10-2024",
+              "End Date": "19-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Gen Educators: Harnessing the power of machine learning",
+              "Level": "National",
+              "Organized by": "Jeppiaar Institute of Technology",
+              "Place": "Jeppiaar Institute of Technology",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Modelling and Computation in Engineering",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "24-07-2023",
+              "End Date": "30-07-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "VR & AR",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "10-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "“CONTEMPORARY ADVANCEMENTS IN MATERIALS PROCESSING AND CHARACTERIZATION",
+              "Level": "National",
+              "Organized by": "GMR Institute of Technology, Rajam and National Institute of Technology,",
+              "Place": "Warangal",
+              "Start Date": "24-04-2023",
+              "End Date": "29-04-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Robotics and Automation in Industry 4.0",
+              "Level": "National",
+              "Organized by": "BIT",
+              "Place": "BIT",
+              "Start Date": "15-10-2022",
+              "End Date": "19-10-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Manufacturing and Characterization of Advanced Materials",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "14-03-2022",
+              "End Date": "21-03-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced MAterials and Manufacturing Technology",
+              "Level": "National",
+              "Organized by": "Easwari Engineering College",
+              "Place": "Chennai",
+              "Start Date": "27-09-2021",
+              "End Date": "08-10-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "Webinar",
+              "Title of the program": "World Class Manufacturing",
+              "Level": "National",
+              "Organized by": "Annamalai University",
+              "Place": "India",
+              "Start Date": "29-06-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Thermal Engineering",
+              "Level": "National",
+              "Organized by": "PSN College of Engineering and Technology",
+              "Place": "PSN College of Engineering and Technology",
+              "Start Date": "07-06-2021",
+              "End Date": "11-06-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "“Research Aspects of Powder Metallurgy Based  Direct Digital Manufacturing”",
+              "Level": "National",
+              "Organized by": "Mepco Schlenk Engineering College (Autonomous),",
+              "Place": "Sivakasi",
+              "Start Date": "30-11-2020",
+              "End Date": "05-12-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainability Engineering",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "07-09-2020",
+              "End Date": "11-09-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Future Materials: Nanocomposites",
+              "Level": "National",
+              "Organized by": "BHARATI VIDYAPEETH (DEEMED TO BE UNIVERSITY), COLLEGE OF ENGINEERING,",
+              "Place": "PUNE",
+              "Start Date": "15-06-2020",
+              "End Date": "21-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "ANSYS Mechanical & CFD",
+              "Level": "State",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "03-06-2020",
+              "End Date": "09-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "Workshop",
+              "Title of the program": "NEW PRODUCT DEVELOPMENT  PROCESS",
+              "Level": "National",
+              "Organized by": "Kumaraguru College of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "13-05-2020",
+              "End Date": "15-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "STTP",
+              "Title of the program": "Near Net Shape Processes for Metallic and Biocompatible Materials -  The Smart Manufacturing Approach",
+              "Level": "National",
+              "Organized by": "IIITDM JAbalpur",
+              "Place": "Jabalpur",
+              "Start Date": "02-03-2020",
+              "End Date": "06-03-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Processing and Applications of Functional Materials",
+              "Level": "National",
+              "Organized by": "CIT coimbatore",
+              "Place": "CIT coimbatore",
+              "Start Date": "21-01-2019",
+              "End Date": "25-01-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends and Advances in Mobile Robots for Industrial Application",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "30-10-2017",
+              "End Date": "12-11-2017"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Optimization in Engineering Design",
+              "Level": "National",
+              "Organized by": "IITM",
+              "Place": "IITM",
+              "Start Date": "26-09-2016",
+              "End Date": "01-10-2016"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial Training",
+              "Level": "State",
+              "Organized by": "Dilson Auto Components",
+              "Place": "Dilson Auto Components",
+              "Start Date": "18-05-2015",
+              "End Date": "23-05-2015"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Micro & Nano Fabrication - 2015",
+              "Level": "National",
+              "Organized by": "IITK",
+              "Place": "IITK",
+              "Start Date": "16-03-2015",
+              "End Date": "20-03-2015"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Strength of Materials",
+              "Level": "State",
+              "Organized by": "Muthayammal Engineering College",
+              "Place": "Muthayammal Engineering College",
+              "Start Date": "05-06-2014",
+              "End Date": "11-06-2014"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Engineering Mechanics",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "26-11-2013",
+              "End Date": "06-12-2013"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Computational Fluid Dynamics",
+              "Level": "State",
+              "Organized by": "Easwari Engineering College",
+              "Place": "Easwari Engineering College",
+              "Start Date": "10-06-2013",
+              "End Date": "16-06-2013"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Entrepreneurship",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "22-11-2010",
+              "End Date": "04-12-2010"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Entrepreneurship",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "16-11-2009",
+              "End Date": "27-11-2009"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Engineering Design",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "02-11-2009",
+              "End Date": "14-11-2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Life Member",
+              "Level": "International",
+              "Start Date": "01-06-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of Paper": "Effect of Various Pattern Stitching on Mechanical Properties of Jute Fibre Reinforced Composite",
+              "Title of Conference": "Recent Advances in Sustainable Materials (GC-RASM 2022)",
+              "Organized by": "A.J. Institute of Engineering & Technology, Karnataka",
+              "Level": "International",
+              "Start Date": "28-07-2022",
+              "End Date": "29-07-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of Paper": "“Mechanical and Corrosion Behaviour of Al 7075/Garnet Metal Matrix Composites",
+              "Title of Conference": "2nd International Conference on Materials, Manufacturing and Machining for Industry 4.0 (ICMMM 2.0)",
+              "Organized by": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+              "Level": "International",
+              "Start Date": "09-10-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of Paper": "Mechanical behavior of Al7075 (hybrid) metal matrix composites by two step stir casting process",
+              "Title of Conference": "International conferences on advances in design and manufacturing",
+              "Organized by": "NIT Trichy",
+              "Level": "International",
+              "Start Date": "05-12-2014",
+              "End Date": "07-12-2014"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of Paper": "Graphene based polymer nanocomposites",
+              "Title of Conference": "Polymers and allied materials",
+              "Organized by": "IIT Patna",
+              "Level": "International",
+              "Start Date": "30-05-2014",
+              "End Date": "31-05-2014"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of Paper": "Coating of copper on carbon nanotubes by electroless process",
+              "Title of Conference": "4th National conference on Smart Systems",
+              "Organized by": "EBET",
+              "Level": "National",
+              "Start Date": "22-03-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of the Program": "Conference Session Chair",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "School of Management, Xavier University, Patna, India",
+              "Start Date": "27-02-2026",
+              "End Date": "28-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of the Program": "Journal Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Matéria (Rio de Janeiro)",
+              "Start Date": "13-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of the Program": "Journal Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Silicon",
+              "Start Date": "12-04-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of the Program": "Journal Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Materials Research",
+              "Start Date": "14-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SAMBATHKUMAR",
+              "Department": "MER",
+              "Title of the Program": "Journal Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Materials research",
+              "Start Date": "05-07-2022",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

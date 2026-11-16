@@ -1,0 +1,1133 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Designation": "ASSOCIATE PROFESSOR AND HOD",
+              "Area of Specialisation": "Computer Networks & Cloud Computing",
+              "Date of joining in KEC": "09-07-1998",
+              "Mobile": "9865046699",
+              "E-mail": "kalai.ctug@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Academic Degree": "PhD",
+              "Specialization": "Computer Science and Engineering",
+              "From": "02-01-2013"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Academic Degree": "MPhil",
+              "Specialization": "Computer Science",
+              "From": "01-06-2004"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-2004"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "01-06-1995"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Academic Degree": "BSc",
+              "Specialization": "Physics/Chemisry",
+              "From": "01-06-1992"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of Position": "HOD",
+              "Level": "Department",
+              "Start Date": "01-06-2023",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-06-1998",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL-Mentor",
+              "Level": "National",
+              "Awarded by": "IIT-MADRAS",
+              "Place": "Online",
+              "Date": "27-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Mentor-Hackathon",
+              "Level": "National",
+              "Awarded by": "XENOVEX-CHENNAI",
+              "Place": "Chennai",
+              "Date": "07-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL - Discipline Star Award",
+              "Level": "National",
+              "Awarded by": "NPTE Coordinator, IIT Madras",
+              "Place": "",
+              "Date": "30-12-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Patttern Discovery for Advanced Knowledge Engineering",
+              "Level": "National",
+              "Title": "Intelligent Patttern Discovery for Advanced Knowledge Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "27-05-2026",
+              "Published at": "Veda Publications"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC-2025)",
+              "Level": "International",
+              "Title": "Multi Class Classification for Pox Disease using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 4th International Conference on Electronics and Sustainable Communication Systems, ICESC 2023 - ProceedingsObserving and Predicting Land Slide using Three Stage Warning System in WSN",
+              "Level": "International",
+              "Title": "Observing and Predicting Land Slide using Three Stage Warning System in WSN",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Traitement du Signal",
+              "Level": "International",
+              "Title": "Identifications of Lung Cancer Using Kernel Weighted Fuzzy Local Information C-Means Algorithm",
+              "Volume No": "42",
+              "Issue No": "2",
+              "Year": "2025",
+              "Date": "11-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Peer-to-Peer Networking and Applications",
+              "Level": "International",
+              "Title": "Deep learning and blockchain-based secure authentication protocol for privacy protection in cloud environments",
+              "Volume No": "18",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "09-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of  Electrical and Computer Engineering(IJECE)",
+              "Level": "International",
+              "Title": "Secured and Cloud-Based Electronic Health Records by Homomorphic Encryption Algorithm",
+              "Volume No": "15",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "14-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "International",
+              "Title": "Hybrid Machine Learning Approach for Malware Analysis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "05-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICEPE 2024 - 6th International Conference on Energy, Power and Environment: Towards Indigenous Energy Utilization",
+              "Level": "International",
+              "Title": "Smart Vending Machines: Improving Service Quality with Integrated Controllers and SVM Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 4th International Conference on Electronics and Sustainable Communication Systems, ICESC 2023 - Proceedings",
+              "Level": "International",
+              "Title": "Realistic Video Analytics Implementation on a Heterogeneous Infrastructure",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Sustainable Computing and Smart Systems, ICSCSS 2023 - Proceedings",
+              "Level": "International",
+              "Title": "Glaucoma Detection using GAN-based Domain Adaptation Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 2nd International Conference on Edge Computing and Applications, ICECAA 2023",
+              "Level": "International",
+              "Title": "Vampire Attack Detection by Applying Support Vector Machine Algorithm in Wireless Sensor Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "03-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Sustainable Computing and Smart Systems, ICSCSS 2023 - Proceedings",
+              "Level": "International",
+              "Title": "Glaucoma Detection using GAN-based Domain Adaptation Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "29-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 5th International Conference on Inventive Research in Computing Applications, ICIRCA 2023",
+              "Level": "International",
+              "Title": "Ensemble CNN Model for Lung Cancer Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Sustainable Computing and Data Communication",
+              "Level": "International",
+              "Title": "Epileptic Seizure Detection based on Hyperparameter Optimization using EEG Data",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "10-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Sustainable Computing: Informatics and Systems",
+              "Level": "International",
+              "Title": "An Iot Based Environment Conscious Green Score Meter Towards Smart Sustainable Cities",
+              "Volume No": "37",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "18-12-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mobile Networks and Applications",
+              "Level": "International",
+              "Title": "Contextual Features and Optimal Hierarchical Attention Networks for Sentiment Classification Under Data Streaming Environment. Mobile Networks and Applications",
+              "Volume No": "27",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "07-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Third International Conference on Inventive Research in Computing Applications (ICIRCA)",
+              "Level": "International",
+              "Title": "Twitter based sentiment analysis to predict public emotions using machine learning algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "03-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Personal Communications",
+              "Level": "International",
+              "Title": "Hybrid Cloud Resource Provisioning (HCRP) Algorithm for Optimal Resource Allocation Using MKFCM and Bat Algorithm",
+              "Volume No": "111",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "02-01-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Project": "Research Project",
+              "Title of Project": "Compilation and Anaysis of IT Experts in Tamilnadu and Pondicherry",
+              "Funding Agency": "DST-NSTMIS",
+              "Name of the Scheme": "NSTMIS",
+              "Co-Investigator(s)": "Dr.S.Kalaisevi",
+              "Project Start Date": "10-10-2007",
+              "Duration": "3 Years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sri Amman Steels and Hardware",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-12-2025",
+              "Date of Consultancy (To)": "20-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Toysports Global",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Deveopment",
+              "Number of persons involved": "1 Faculty+ Students",
+              "Date of Consultancy (From)": "02-12-2025",
+              "Date of Consultancy (To)": "16-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SSTraders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "02-07-2025",
+              "Date of Consultancy (To)": "30-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5050"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sithee Food Products",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E-Commerce Website Development",
+              "Number of persons involved": "1 Faculty &3 Students",
+              "Date of Consultancy (From)": "10-06-2025",
+              "Date of Consultancy (To)": "11-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sundhar & Co.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web deveopment",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "04-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Annoor Medicals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "27-06-2024",
+              "Date of Consultancy (To)": "30-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Ponnarasi Medicas, Arachalur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "15-06-2022",
+              "Date of Consultancy (To)": "25-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "7000"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Vijay Enterprise, Komarapalayam",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "20-01-2022",
+              "Date of Consultancy (To)": "30-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Mr.Green Store",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "05-01-2021",
+              "Date of Consultancy (To)": "22-03-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Ganapathy Textiles, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "23-07-2020",
+              "Date of Consultancy (To)": "20-11-2020",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "",
+              "Name of Event": "AWS Cloud Services",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "13-02-2026",
+              "End Date": "13-02-2026",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Machine Learning, Deep Learning and Cloud Computing Techniques",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "30-08-2025",
+              "End Date": "30-08-2025",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Devops - One credit course",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-07-2025",
+              "End Date": "19-07-2025",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": "CC6,Computer Technology-UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "HANDS ON TRAINING ON \"NO CODE ZONE : DEVOPS\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "08-02-2025",
+              "End Date": "",
+              "Duration": "ONE DAY",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "IIPC Training-No Code Zone-Devops",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "08-02-2025",
+              "End Date": "08-02-2025",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": "KEC-Thiruvalluvar Seminar Hall"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Microsoft Power BI Certification",
+              "Collaboration/Sponsored by": "ICT Academy",
+              "Level": "National",
+              "Start Date": "03-02-2025",
+              "End Date": "07-02-2025",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": "CT-UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "",
+              "Name of Event": "Workshop",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-10-2015",
+              "End Date": "10-10-2015",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering Coege"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "",
+              "Name of Event": "DBT Sponsored Seminar",
+              "Collaboration/Sponsored by": "DBT",
+              "Level": "National",
+              "Start Date": "27-07-2011",
+              "End Date": "28-07-2011",
+              "Duration": "2 Days",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "",
+              "Name of Event": "National Conference",
+              "Collaboration/Sponsored by": "DIT",
+              "Level": "National",
+              "Start Date": "02-11-2007",
+              "End Date": "04-11-2007",
+              "Duration": "3 Days",
+              "Role played": "Joint Convener",
+              "Venue": "Kongu Engineering Coege"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Compiation and Anaysis of IT Experts in Taminadu and Pondicherry",
+              "Collaboration/Sponsored by": "DST-NSTMIS",
+              "Level": "National",
+              "Start Date": "10-10-2007",
+              "End Date": "23-06-2010",
+              "Duration": "3 Years",
+              "Role played": "Joint Coordinator",
+              "Venue": "Kongu Engineering College"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "AI for Engineers",
+              "Level": "State",
+              "Organized by": "EDSOLS Ltd",
+              "Place": "Kongu Engineering College",
+              "Start Date": "20-04-2026",
+              "End Date": "29-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Securing the Fuure : Research Driven Approaches to Cyber Defense & Ethical Hacking",
+              "Level": "National",
+              "Organized by": "Hackers Infotech",
+              "Place": "Chennai",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Computer Networks and Internet  Protocol",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Online",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Computer Networks and Inernet Protocols",
+              "Level": "National",
+              "Organized by": "IIT KHARAGPUR",
+              "Place": "IIT-Online",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "NextGen AI Aavancing from NLP Basics to Intelligent Agents",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "KEC",
+              "Start Date": "22-12-2025",
+              "End Date": "27-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "NEP 2020 Orientation & Sensitization Program",
+              "Level": "National",
+              "Organized by": "UGC-Malaviya Mission Teacher Training Program & CIT Coimbatore",
+              "Place": "Online",
+              "Start Date": "22-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber Security and Privacy",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "Chennai-Onine",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Cyber Security and Privacy",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "Chennai",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "ADVANCED COMPUTER NETWORKS",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Teaching  Strategies - A Pedogogy",
+              "Level": "National",
+              "Organized by": "SRM University",
+              "Place": "Online",
+              "Start Date": "16-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Cloud Computing",
+              "Level": "National",
+              "Organized by": "IIT-Kharagpur",
+              "Place": "",
+              "Start Date": "02-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft Azure AI Engineer Associate",
+              "Level": "National",
+              "Organized by": "ICT Academy, Chennai",
+              "Place": "Kongu Engineering College",
+              "Start Date": "23-05-2022",
+              "End Date": "27-05-2022"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Ethical Hacking",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Online",
+              "Start Date": "20-01-2022",
+              "End Date": "27-04-2022"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Demystifying Networks",
+              "Level": "National",
+              "Organized by": "IIT,Bombay",
+              "Place": "",
+              "Start Date": "02-07-2021",
+              "End Date": "31-08-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Title of Paper": "Multi Class Classification for Pox Disease using Deep Learning",
+              "Title of Conference": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC-2025)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "23-07-2025",
+              "End Date": "25-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Title of the Program": "Intel-Unnati Industrial Training-2025",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "KEC-INTEL",
+              "Start Date": "28-02-2025",
+              "End Date": "15-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KALAISELVI",
+              "Department": "CTUG",
+              "Title of the Program": "Expert ecture-Cyber Security and its Chalenges",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Vellaar College for Women",
+              "Start Date": "30-03-2022",
+              "End Date": "30-03-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1587 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Data Mining, Machine Learning, Deep Learning, Data Science",
+              "Date of joining in KEC": "16-06-2008",
+              "Mobile": "9095337052",
+              "E-mail": "vspoorani@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Academic Degree": "PhD",
+              "Specialization": "Deep Learning",
+              "From": "30-01-2016"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Computer Science",
+              "From": "05-01-2005"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Computer Science",
+              "From": "30-08-2002"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Computer Science",
+              "From": "25-06-1999"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Category": "SET",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2018",
+              "Specialization": "Computer Science",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "16-06-2008",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "NANDHA ARTS AND SCIENCE COLLEGE",
+              "Position/Designation": "LECTURER",
+              "Start Date": "07-06-2006",
+              "End Date": "10-06-2008",
+              "Duration": "2 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-DR.S.POORANI-dcc380c6-bf62-49da-b15c-fd5df09228ad.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c4f7d7e6e08c9911ce2388311efd343f4fdef6d450cc9f30ff8d48b5359d5327",
+                  "name": "scan0001.pdf",
+                  "totalRecords": null,
+                  "resourceId": "XzkAqb5ZR7fZhpHyA",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "MSWMANAGEMENT-Multidisciplinary,ScientificWorkandManagementJournal",
+              "Level": "International",
+              "Title": "Cognitive AI in Psychological Testing: Improving Validity and Reliability in Personality Assessment Using Deep Learning Models",
+              "Volume No": "36",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "25-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Reshaping the video Game Landscape with AI and Genai",
+              "Level": "International",
+              "Title": "The Role of AI in Preserving and Remastering Classic Games",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-01-2026",
+              "Published at": "IGI Global"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data-Driven ESG Strategy Implementation Through Business Intelligence",
+              "Level": "International",
+              "Title": "Implementing Sentiment Analysis for Evaluating Stakeholder Perception and Social Impact",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Vascular and Endovascular Review",
+              "Level": "International",
+              "Title": "Natural Language Processing (NLP) in Diabetes Research: Mining Electronic Health Records for Hidden Risk Patterns",
+              "Volume No": "8",
+              "Issue No": "6",
+              "Year": "2025",
+              "Date": "08-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "DEEP LEARNING APPROACHES FOR PREDICTIVE ANALYTICS AND BIG DATA",
+              "Level": "International",
+              "Title": "DEEP LEARNING APPROACHES FOR PREDICTIVE ANALYTICS AND BIG DATA",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "16-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Text Mining and Sentiment Analysis in Climate Change and Environmental Sustainability",
+              "Level": "International",
+              "Title": "Drivers and Impacts of Text Mining on Climate Change",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Chatbots in Educational Leadership and Management",
+              "Level": "International",
+              "Title": "Designing Chatbots for Educational Leadership",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Role of Internet of Everything (IOE), VLSI Architecture, and AI in Real-Time Systems",
+              "Level": "International",
+              "Title": "IoE-based systems for realtime health data analytics from author profile",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Intelligent Systems and Computational Networks (ICISCN)",
+              "Level": "International",
+              "Title": "Robust Rice Leaf Disease Detection using Advanced Preprocessing and Deep\nCNNs for Class Imbalance Resolution",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-03-2025",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Hybrid Machine Learning Approach for Malware Analysis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Advances in Information Technology (ICAIT)",
+              "Level": "International",
+              "Title": "Enhancing Insect Image Recognition with Sand Cat Swarm Optimization with Deep\nFeature Extraction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-07-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 3rd International Conference on Pervasive Computing and Social Networking (ICPCSN)",
+              "Level": "International",
+              "Title": "Bio-Inspired Optimization with Transfer Learning Based Crowd Density Detection\non Sparse Environment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-10-2023",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 Second International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+              "Level": "International",
+              "Title": "A New Wide-Angle, Low-Resolution Infrared Array Sensor with Improved DL\nAlgorithm for Activity Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "22-09-2023",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Level": "International",
+              "Title": "Glaucoma Detection using GAN-based Domain Adaptation Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-07-2023",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Level": "International",
+              "Title": "Smart Learning of Machines using Augmented Reality",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-07-2023",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL CONFERENCE ON ENVIRONMENTAL ENGINEERING AND MATERIAL SCIENCES: ICEEMS-2021",
+              "Level": "International",
+              "Title": "Image steganography using reversible\ndata hiding approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-05-2023",
+              "Published at": "AIP Conf. Proc.2655, 020007 (2023)"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)",
+              "Level": "International",
+              "Title": "Ensemble CNN Model for Lung Cancer Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "28-04-2023",
+              "Published at": "IEEE Xplore:"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Level": "International",
+              "Title": "Epileptic Seizure Detection based on Hyperparameter Optimization using EEG Data",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "25-04-2023",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal System Assurance Engineering and  Management",
+              "Level": "International",
+              "Title": "Deep learning based epileptic seizure detection with EEG data",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "Epileptic Seizure Detection using Two-Layer Feature\nExtraction and Hyper-Parameter Optimization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "13-04-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 5th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "ANN based Predictive Model for identifying Epileptic Seizures with Random Forest\nFeature Selection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "06-05-2021",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Cardiovascular Disease ResearcH",
+              "Level": "International",
+              "Title": "Machine learning techniques for heart disease prediction",
+              "Volume No": "12",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "14-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Circuits, Systems, and Signal Processing",
+              "Level": "International",
+              "Title": "Seizure Detection Based on EEG Signals Using\nAsymmetrical Back Propagation Neural Network Method",
+              "Volume No": "40:",
+              "Issue No": "",
+              "Year": "(2021)",
+              "Date": "25-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical Reviews",
+              "Level": "International",
+              "Title": "Image Classification for fruit detection using machine learning model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "30-07-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical Reviews",
+              "Level": "International",
+              "Title": "Image Processing for fruit detection and yield estimation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "30-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering (IJITEE)",
+              "Level": "International",
+              "Title": "Machine Learning Models for Relevant Feature identification and Classification of Thyroid Data",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "30-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Supervised Machine Learning Models\nFor\nClassification Of Thyroid Data",
+              "Volume No": "9",
+              "Issue No": "02",
+              "Year": "2020",
+              "Date": "20-02-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+              "Level": "International",
+              "Title": "Review on Brain Tumor Segmentation Methods using Convolution Neural Network\nfor MRI Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "13-02-2020",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Advanced Technology (IJEAT)",
+              "Level": "International",
+              "Title": "Deep Neural Network Classifier in Breast Cancer Prediction",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "10-10-2019",
+              "Published at": "Blue Eyes Intelligence Engineering & Sciences Publication"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Indian Journal of Public Health Research & Development",
+              "Level": "International",
+              "Title": "A Map Reduce Framework ?or Identi?ying Association Rules\nbetween Clinical Traits o? Asthma",
+              "Volume No": "10",
+              "Issue No": "07",
+              "Year": "2019",
+              "Date": "19-08-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific Research and Review",
+              "Level": "International",
+              "Title": "Intelligent Fruit Detection System with Image Processing Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "30-05-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Research in Applied Sciences and Engineering",
+              "Level": "International",
+              "Title": "Machine Vision System for on-Tree Fruit Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "30-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Pure and Applied Mathematics",
+              "Level": "International",
+              "Title": "Apriori Algorithm for Identifying the Association Rules between Clinical Traits of Asthma",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "30-12-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research in Computer and Communication Engineering",
+              "Level": "International",
+              "Title": "Expansion of Networks(1G-5G)",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "30-11-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal for Research",
+              "Level": "International",
+              "Title": "A Study on Hierarchical Clustering for Identifying Asthma Endotype",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "30-07-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Multidisciplinary Research and Development",
+              "Level": "International",
+              "Title": "An Overview of Data Mining Techniques in Asthma Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "30-03-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advance Research in Science and Engineering",
+              "Level": "International",
+              "Title": "Automatic Detection of Pomegranate Fruits Using K-Means Algorithm",
+              "Volume No": "3",
+              "Issue No": "8",
+              "Year": "2014",
+              "Date": "30-08-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "workshop",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-02-2026",
+              "Date of Consultancy (To)": "13-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10677"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Jai Thindal Tiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "24-11-2025",
+              "Date of Consultancy (To)": "05-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "workshop",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "30-08-2025",
+              "Date of Consultancy (To)": "30-08-2025",
+              "Revenue Generated (amount in Rupees without GST)": "22423"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "JAI THINDAL TILES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1 FACULTY+2 STUDENTS",
+              "Date of Consultancy (From)": "20-06-2025",
+              "Date of Consultancy (To)": "27-09-2025",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SK Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "12-12-2024",
+              "Date of Consultancy (To)": "05-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SIVA ELECTRICALS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "04-12-2024",
+              "Date of Consultancy (To)": "04-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "APARNA TEX",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-07-2024",
+              "Date of Consultancy (To)": "06-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "ROOSTER RESTAURANT",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-07-2024",
+              "Date of Consultancy (To)": "29-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "LAKSHMI ELECTRONICS FURNITURE & METAL MART",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-07-2024",
+              "Date of Consultancy (To)": "26-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SRI KUMARAN COIRS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-09-2023",
+              "Date of Consultancy (To)": "26-02-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "FRIENDS SEAT COVER",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Application",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-08-2023",
+              "Date of Consultancy (To)": "01-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SRI SARAVANA HOSPITAL",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "17-03-2021",
+              "Date of Consultancy (To)": "16-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Zine Technologies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "24-02-2021",
+              "Date of Consultancy (To)": "20-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "VALAM RICE INDUSTRIES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "19-12-2020",
+              "Date of Consultancy (To)": "30-01-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sorokad Software Solutions, Chennai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "07-10-2019",
+              "Date of Consultancy (To)": "28-11-2019",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Ayush Oils and Foods",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "23-03-2019",
+              "Date of Consultancy (To)": "06-05-2019",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sri Murugavel Silk center",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Billing Software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2015",
+              "Date of Consultancy (To)": "26-02-2015",
+              "Revenue Generated (amount in Rupees without GST)": "1000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "IIPC workshop on \"AWS cloud Service\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "13-02-2026",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "FIGMA FOR UI/UX DESIGN",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": "AO BLOCK"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "MACHINE LEARNING, DEEP LEARNING AND CLOUD COMPUTING TECHNIQUES",
+              "Collaboration/Sponsored by": "ASSOCIATED WITH IIPC",
+              "Level": "State",
+              "Start Date": "30-08-2025",
+              "End Date": "",
+              "Duration": "ONE DAY",
+              "Role played": "Coordinator",
+              "Venue": "CC-6/ CT-UG BLOCK"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "One day national level online workshop on \" Data Exploration and Analysis with Python\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "08-03-2025",
+              "End Date": "08-03-2025",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "A one day National Level online workshop on \" Data Analytics using Python\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "01-05-2024",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "DATA ANALYTICS USING R",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-05-2022",
+              "End Date": "30-05-2022",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "DATA ANALYTICS USING R (ONE CREDIT COURSE)",
+              "Collaboration/Sponsored by": "-",
+              "Level": "Department",
+              "Start Date": "14-12-2019",
+              "End Date": "25-12-2019",
+              "Duration": "20 HOURS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level workshop on \" R-Tool for Data Mining\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "19-08-2017",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Seminar",
+              "Name of Event": "DBT Sponsored National Seminar on \"ADVANCES IN COMPUTATIONAL METHODS FOR GENE DATA ANALYSIS AND DISEAE PREDICTION\"  (National level Seminar)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-10-2016",
+              "End Date": "22-10-2016",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "NATIONAL LEVEL WORKSHOP on BIG DATA ANALYTICS Using R & NoSQL",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "16-09-2016",
+              "End Date": "17-09-2016",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "State Level workshop on Analysing Dataset using  R Tool",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "06-11-2015",
+              "End Date": "",
+              "Duration": "One day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Type of Event": "Seminar",
+              "Name of Event": "Advancement in Wireless Technologie and Applications",
+              "Collaboration/Sponsored by": "AICTE",
+              "Level": "State",
+              "Start Date": "29-04-2011",
+              "End Date": "",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": "Kongu Engineering College"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "SWAYAM NPTEL",
+              "Place": "ONLINE",
+              "Start Date": "01-01-2026",
+              "End Date": "20-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "BIG DATA CORPORATE TRAINING",
+              "Level": "National",
+              "Organized by": "INTELLIPAAT",
+              "Place": "",
+              "Start Date": "01-05-2025",
+              "End Date": "01-09-2022"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Transforming Higher Education through Critical Pedagogy: Fostering Equity and Empowerment",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-03-2025",
+              "End Date": "31-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "USE OF ICT IN TEACHING LEARNING PROCESS",
+              "Level": "National",
+              "Organized by": "A.C.T ACADEMY",
+              "Place": "",
+              "Start Date": "21-11-2024",
+              "End Date": "27-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "ADVANCED RESEARCH METHODOLOGY WORKSHOP",
+              "Level": "National",
+              "Organized by": "NIKANTHRAO SHINDE SCIENCE & ARTS COLLEGE & A.C.T ACADEMY",
+              "Place": "",
+              "Start Date": "30-09-2024",
+              "End Date": "07-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "EXPLORING COMPUTATIONAL INTELLIGENCE IN DEEP LEARNING: EMERGING TRENDS AND REAL TIME APPLICATIONS",
+              "Level": "National",
+              "Organized by": "KAMARAJ COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Place": "",
+              "Start Date": "09-09-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Big Data Computing",
+              "Level": "National",
+              "Organized by": "SWAYAM NPTEL -IIT KANPUR",
+              "Place": "",
+              "Start Date": "10-08-2024",
+              "End Date": "20-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "DATA SCIENCE AND ITS APPLICATIONS",
+              "Level": "National",
+              "Organized by": "A.C.T ACADEMY",
+              "Place": "",
+              "Start Date": "05-04-2024",
+              "End Date": "12-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "IMPACT OF THE RECENT APPROACH ON THE EVOLUTION OF MACHINE LEARNING AND DEEP LEARNING",
+              "Level": "National",
+              "Organized by": "BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+              "Place": "",
+              "Start Date": "29-02-2024",
+              "End Date": "05-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Teaching Strategies - A pedagogy",
+              "Level": "National",
+              "Organized by": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "",
+              "Start Date": "16-02-2024",
+              "End Date": "22-02-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "RESEARCH METHODOLOGY, AI TOOLS IN RESEARCH AND INTELLECTUAL PROPERTY RIGHTS",
+              "Level": "National",
+              "Organized by": "SRI VENKATESWARA COLLEGE OF COMPUTER APPLICATIONS AND MANAGEMENT",
+              "Place": "",
+              "Start Date": "22-01-2024",
+              "End Date": "26-01-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Privacy and Security in Social Media",
+              "Level": "National",
+              "Organized by": "SWAYAM NPTEL -IIT  HYDERABAD",
+              "Place": "",
+              "Start Date": "20-01-2024",
+              "End Date": "20-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Privacy and Security in Online Social Media",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-01-2024",
+              "End Date": "01-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Science for Engineers",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-06-2022",
+              "End Date": "20-10-2022"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Business Intelligence",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-06-2021",
+              "End Date": "15-06-2021"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "CUTTING EDGE TRENDS IN DEEP LEARNING APPROACHES",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "16-11-2020",
+              "End Date": "01-12-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "MERN Stack Developer",
+              "Level": "National",
+              "Organized by": "K. S. RANGASAMY COLLEGE OF TECHNOLOGY",
+              "Place": "",
+              "Start Date": "15-06-2020",
+              "End Date": "19-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "ONLINE CONTENT CREATION TOOLS",
+              "Level": "National",
+              "Organized by": "BISHOP HEBER COLLEGE",
+              "Place": "",
+              "Start Date": "11-06-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "MACHINE LEARNING AND DATA SCIENCE FOR ENGINEERING APPLICATIONS",
+              "Level": "National",
+              "Organized by": "SADHAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Place": "",
+              "Start Date": "05-06-2020",
+              "End Date": "10-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "IMPORTANCE OF IT IN THE EVOLUTION OF IOT AND DATA ANALYTICS WORLD",
+              "Level": "National",
+              "Organized by": "VELLALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Place": "",
+              "Start Date": "25-05-2020",
+              "End Date": "29-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "DATA SCIENCE USING PYTHON",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "20-05-2020",
+              "End Date": "24-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Machine :earning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-01-2020",
+              "End Date": "20-04-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "WHY IT IS MORE IMPORTANT THAN EVER & HOW TO STAY RELEVANT",
+              "Level": "State",
+              "Organized by": "CTS, COIMBATORE",
+              "Place": "",
+              "Start Date": "26-08-2017",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of Paper": "Hybrid Machine Learning Approach for Malware Analysis",
+              "Title of Conference": "IEEE-15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of the Program": "Guest Lecture on 'NoSQL'",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "KSR College of Engineering",
+              "Start Date": "17-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of the Program": "R Programming",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Sri Amaraavathi College of Arts and Science",
+              "Start Date": "13-09-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of the Program": "R Programming",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Bharathiar University, PG extension and Research Center, Erode, Palanisamy College campus",
+              "Start Date": "30-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of the Program": "R Programming",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Bharathiar University extension center, Erode",
+              "Start Date": "05-04-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.POORANI",
+              "Department": "CTUG",
+              "Title of the Program": "Big Data Analytics",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Sri Vasavi College(SFW)",
+              "Start Date": "23-02-2017",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Machine Learning, Deep Learning",
+              "Date of joining in KEC": "29-05-2013",
+              "Mobile": "9443208794",
+              "E-mail": "kalaiprani123@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Information and Communication Engineering",
+              "From": "01-01-2015"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-2011"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Academic Degree": "BE",
+              "Specialization": "Computer Science and Engineering",
+              "From": "31-05-2000"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "KEC",
+              "Date": "18-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC)",
+              "Level": "International",
+              "Title": "An Automated Machine Learning Framework for Detecting Spam in YouTube Comments",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "24-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computational Intelligence Systems",
+              "Level": "International",
+              "Title": "DESCOP: Detection of Central Canal Spinal Stenosis via Spinal Cord Projector Integrated Mobile Network",
+              "Volume No": "Volume 19",
+              "Issue No": "Volume 19, article number 184 (2026)",
+              "Year": "2026",
+              "Date": "23-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "Federated Learning using Recurrent Neural Architectures for Text Sentiment Analysis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "14-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Computer and Information Science, vol 2656. Springer",
+              "Level": "International",
+              "Title": "Audio to Text Conversion Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced AI and Data Science Applications",
+              "Level": "International",
+              "Title": "Hand Sign and Gesture Recognition Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Computer and Information Science ((CCIS,volume 2656))",
+              "Level": "International",
+              "Title": "Audio to Text Conversion Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Data Intelligence. ICSMDI 2025. Algorithms for Intelligent Systems. Springer, Singapore",
+              "Level": "International",
+              "Title": "American Sign Language Identification Using Deep Convolutional Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Data Intelligence. ICSMDI 2025. Algorithms for Intelligent Systems. Springer",
+              "Level": "International",
+              "Title": "Comparative Analysis of RNN and Its Variants for Speaker Recognition",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced AI and Data Science Applications",
+              "Level": "International",
+              "Title": "Hand Sign and Gesture Recognition Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "A Comparative Study of Time Series Models for Real Estate Market Forecasting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "A Comparative Study of Time Series Models for Real Estate Market Forecasting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages",
+              "Level": "International",
+              "Title": "Political Multiclass Sentiment Analysis of Tamil X (Twitter) Comments Using Incremental Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Level": "International",
+              "Title": "Grading of Retinal Images Using CNN and its Variants",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+              "Level": "International",
+              "Title": "Land Cover Segmentation in Satellite Images Using Transfer Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Yoga Pose Recognition and Correction Using Deep Learning",
+              "Volume No": "1-7",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "A Comparison of Word Embedding Techniques for Stress Identification using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Goldline Industries, Karur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Mobile and Web app development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "02-02-2026",
+              "Date of Consultancy (To)": "30-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Amman Electricals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Creation",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "27-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "ARC Textiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web and Mobile Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-12-2024",
+              "Date of Consultancy (To)": "24-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Ram Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Portfolio Website Creation",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Ambaal PVC Distributors",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Online Shopping Site",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-04-2023",
+              "Date of Consultancy (To)": "30-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Advanced C Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-08-2026",
+              "End Date": "",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "AI for Engineers",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "20-04-2026",
+              "End Date": "29-04-2026",
+              "Duration": "6 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "Workshop on Agentic AI",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "07-02-2026",
+              "End Date": "07-02-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VC040 & AI Application Deployment using Fast API, Streamlit and AWS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "25-01-2026",
+              "End Date": "",
+              "Duration": "4 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "UI/UX Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "24-01-2026",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Machine Learning and Deep Learning using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "Next Gen AI: Advancing from NLP basics to Agentic AI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "22-12-2025",
+              "End Date": "27-12-2025",
+              "Duration": "6 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "Gen AI with cloud aand Agent Implementation",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "04-10-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "GEN-AI WITH CLOUD AND AI AGENT IMPLEMENTATION",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-03-2025",
+              "End Date": "15-03-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC1, Department of AI/KEC"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "Gen-AI with Cloud",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "05-10-2024",
+              "End Date": "05-10-2024",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC1, Department of AI/KEC"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "Hands on AI:Practical Deep Learning Techniques and Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "27-09-2024",
+              "End Date": "27-09-2024",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC1, Department of AI/KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Gen AI: Advancing from NLP basics to Intelligent Agents",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "22-12-2025",
+              "End Date": "27-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Select Programme": "Others",
+              "Title of the program": "Generative AI",
+              "Level": "National",
+              "Organized by": "Infosys",
+              "Place": "",
+              "Start Date": "22-09-2025",
+              "End Date": "26-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and Outcome Based Education",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Teaching and Learning in General Programs: TALG",
+              "Level": "International",
+              "Organized by": "Indian Institute of Science",
+              "Place": "Bangalore",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "An Automated Machine Learning Framework for Detecting Spam in YouTube Comments",
+              "Title of Conference": "2026 International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "19-01-2026",
+              "End Date": "21-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "Federated Learning using Recurrent Neural Architectures for Text Sentiment Analysis",
+              "Title of Conference": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "10-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "A Comparative Study of Time Series Models for Real Estate Market Forecasting",
+              "Title of Conference": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Organized by": "Surya Engineering College, Erode",
+              "Level": "International",
+              "Start Date": "23-07-2025",
+              "End Date": "25-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "Political Multiclass Sentiment Analysis of Tamil X (Twitter) Comments Using Incremental Learning",
+              "Title of Conference": "Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages",
+              "Organized by": "Association for Computational Linguistics",
+              "Level": "International",
+              "Start Date": "01-05-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "Grading of Retinal Images Using CNN and its Variants",
+              "Title of Conference": "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-01-2025",
+              "End Date": "22-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "Land Cover Segmentation in Satellite Images Using Transfer Learning",
+              "Title of Conference": "2024 Second International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "28-08-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "A Comparison of Word Embedding Techniques for Stress Identification using Machine Learning",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of Paper": "Yoga Pose Recognition and Correction Using Deep Learning",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of the Program": "ANTIC 2024",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "19-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of the Program": "Algorithm Analysis using Matlab",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "Excel Engineering College",
+              "Start Date": "07-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.S.KALAIVANI",
+              "Department": "AI",
+              "Title of the Program": "SPELLL 2024",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "24-08-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Operations Research, Intuitionistic Fuzzy Number",
+              "Date of joining in KEC": "20-12-2006",
+              "Mobile": "9095059729",
+              "E-mail": "nachammai.sh@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Mathematics",
+              "From": "02-07-2007"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Mathematics",
+              "From": "02-01-1999"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Mathematics",
+              "From": "02-07-1995"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Mathematics",
+              "From": "02-07-1992"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "1997",
+              "Specialization": "Computer Science",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "20-12-2006",
+              "End Date": "28-04-2025",
+              "Contribution to the Institute": "Teaching"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Name of Award/Achievement": "Heritage'18 - Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "18-04-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 IEEE International Conference on Advances in Computing Research On Science Engineering and Technology (ACROSET)  DOI: 10.1109/ACROSET66531.2025 27-28 Sept. 2025",
+              "Level": "International",
+              "Title": "A Probabilistic Bayesian Network Framework for Strategic Human Resource Retention and Employee Attrition Risk Modeling",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "18-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Conference: 2025 International Conference on Innovations in Intelligent Systems: Advancements in Computing, Communication, and Cybersecurity (ISAC3)",
+              "Level": "International",
+              "Title": "A Hybrid CNN-Blockchain Architecture for Real-Time Energy Prediction and Decentralized Pricing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "09-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Engineering,Science and Sustainability:Advancements in Technology and Techniques",
+              "Level": "International",
+              "Title": "Domination-Chromatic Number in Operations on Fuzzy Graphs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "09-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BioGecko -BioGecko Vol 12 Spl Iss 01 2023 ISSN NO: 2230-5807 76 A Journal for New Zealand Herpetology",
+              "Level": "International",
+              "Title": "Digital Technologies and Collaborative Artificial Intelligence for\nEnvironment Ecosystem: Optimising Internet of Things adoption for\nHuman Resource Management",
+              "Volume No": "12",
+              "Issue No": "01",
+              "Year": "2023",
+              "Date": "01-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Mathematics: Scientific Journal",
+              "Level": "International",
+              "Title": "NUMERICAL SOLUTION FOR FUZZY\nDIFFERENTIAL EQUATIONS",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "03-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Mathematics: Scientific Journal",
+              "Level": "International",
+              "Title": "ON THE CENTROIDS OF INTUITIONISTIC FUZZY\nNUMBER AND ITS APPLICATION TO IFLP PROBLEMS",
+              "Volume No": "8",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "01-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advance Research, Ideas and Innovations in Technology",
+              "Level": "International",
+              "Title": "A Comparative Study of the Methods of Solving Intuitionistic\nFuzzy Linear Programming Problem",
+              "Volume No": "4",
+              "Issue No": "2",
+              "Year": "2018",
+              "Date": "06-06-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Solving Intuitionistic Fuzzy Linear Programming by using Ratio Ranking Method",
+              "Volume No": "6",
+              "Issue No": "8",
+              "Year": "2016",
+              "Date": "06-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Solving Intuitionistic Fuzzy Linear Programming by using Ratio Ranking Method",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "06-06-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Advanced Mathematics and its Applications",
+              "Level": "International",
+              "Title": "Ranking of Intuitionistic Fuzzy Number by Radius of Gyration and its application to Intuitionistic Fuzzy Linear Programming Problems",
+              "Volume No": "3",
+              "Issue No": "2",
+              "Year": "2014",
+              "Date": "01-12-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Advanced Mathematics and Applications",
+              "Level": "International",
+              "Title": "Ranking of Intuitionistic Fuzzy Number by Radius of Gyration and Its Application to Intuitionistic Fuzzy Linear Programming Problems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "01-12-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Researcher",
+              "Level": "International",
+              "Title": "Solving intuitionistic fuzzy linear programming by using metric distance ranking",
+              "Volume No": "5",
+              "Issue No": "4",
+              "Year": "2013",
+              "Date": "09-10-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Emerging trends in Engineering and Devolopment",
+              "Level": "International",
+              "Title": "New Ranking of Generalized Intuitionistic Fuzzy Number and its applications to IFLP problems",
+              "Volume No": "5",
+              "Issue No": "2",
+              "Year": "2012",
+              "Date": "09-10-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "European Journal of Scientific Research",
+              "Level": "International",
+              "Title": "Solving intuitionistic fuzzy linear programming problem by using similarity measures",
+              "Volume No": "72",
+              "Issue No": "2",
+              "Year": "2012",
+              "Date": "09-10-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematical Sciences",
+              "Level": "International",
+              "Title": "Solving fuzzy linear fractional programming problem using metric distance ranking",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "09-10-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Researcher",
+              "Level": "International",
+              "Title": "Solving Intuitionistic Fuzzy Linear Programming by using Metric Distance Ranking",
+              "Volume No": "72",
+              "Issue No": "2",
+              "Year": "2012",
+              "Date": "09-10-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of applied Computational sciences and mathematics",
+              "Level": "International",
+              "Title": "Solving fuzzy linear fractional programming with fuzzy decisive method",
+              "Volume No": "2",
+              "Issue No": "1",
+              "Year": "2012",
+              "Date": "09-10-2012",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on MATLB made easy: Learn,Code & Create",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "01-09-2026",
+              "End Date": "02-09-2026",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "MATLAB Essentials",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "27-10-2025",
+              "End Date": "06-12-2025",
+              "Duration": "30 Hours",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Workshop",
+              "Name of Event": "two days workshop on A computational approach for learning and Research: Segemath",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "24-10-2025",
+              "End Date": "25-10-2025",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "CSIR & TNSCST sponsored International Conference on applied Mathematics and Computing",
+              "Collaboration/Sponsored by": "CSIR & TNSCST",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025",
+              "Duration": "2 days",
+              "Role played": "Member",
+              "Venue": "Sir C.V.Raman Seminar Hall"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Webinar on An overview of mathematical sciences",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "25-10-2021",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Others",
+              "Name of Event": "Online webinar on Application of fractional calculus An update",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "23-06-2020",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "",
+              "Name of Event": "CSIR sponsered seminar on Analysisi and Detection of Cervical Cancer using Image Processing",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "29-04-2017",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "DBT sponsered Recent advances of Topology in Bio medical Image Processing",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "04-04-2016",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Recent trends in Topology",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "19-02-2015",
+              "End Date": "20-02-2015",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "DBT sponsered seminar on Research focus on Big Data in Bio informatics",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "19-01-2015",
+              "End Date": "",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE Accredation",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "30-09-2026"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative teaching with Machine learning:tools, techniques and trends",
+              "Level": "International",
+              "Organized by": "Jeppiar",
+              "Place": "Chennai",
+              "Start Date": "02-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Transform Calculus and its applications in Differential Equations",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging research tools : Computatinal Math, Modeling and data- driven Approachriven",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Lab visit and lecture attended in CSIR-4PI, Bengaluru,",
+              "Level": "National",
+              "Organized by": "CSIR-4PI, Bengaluru,",
+              "Place": "Bengaluru,",
+              "Start Date": "29-07-2025",
+              "End Date": "29-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NPTEL-Introduction to Probability & Statistics",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-01-2025",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next generation computers",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-09-2024",
+              "End Date": "03-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Exploring new horizons in research",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Mathematical methods",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematics and its Application",
+              "Level": "International",
+              "Organized by": "PSGR Krishnammal College",
+              "Place": "",
+              "Start Date": "11-03-2024",
+              "End Date": "15-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-07-2023",
+              "End Date": "30-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Matrix analysis and its applications",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2023",
+              "End Date": "30-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Current trends in application of Mathematics",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-09-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Research,publication and patent in S&H",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-08-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-01-2022",
+              "End Date": "15-04-2022"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "ATAL Advanced Mathematical techniques",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "ATAL MTRAAM",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-08-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Demistifying OR",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-03-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Applications of Mathematics",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-07-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Operations Research",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-08-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "THE INDIAN MATHEMATICAL SOCIETY",
+              "Position": "Life time member",
+              "Level": "National",
+              "Start Date": "11-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "The Indian Mathematical Society",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "11-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Title of Paper": "A Hybrid CNN-Blockchain Architecture for Real- Time Energy Prediction and Decentralized Pricing",
+              "Title of Conference": "IEEE Xplore - International conference on innovations intelegent systems:Advancements in computing,, communication and cyber security",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-11-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Title of Paper": "A Probabilistic Bayesian Network Framework for Strategic Human Resource Retention and Employee Attrition Risk Modeling",
+              "Title of Conference": "IEEE International conference on Advances in computing research on Science Engineering and technology",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-09-2025",
+              "End Date": "28-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Title of the Program": "Lab visit & lecture attended - CSIR-4PI, Bengaluru,",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "CSIR-4PI, Bengaluru,",
+              "Start Date": "29-07-2025",
+              "End Date": "29-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Title of the Program": "Academic Guest Lecture",
+              "Role": "Chief Guest",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "13-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.AL.NACHAMMAI",
+              "Department": "MAR",
+              "Title of the Program": "MATH day celebration",
+              "Role": "Chief Guest",
+              "Level": "Others",
+              "Organized by": "U.R.C.Palaniammal Matric He.School",
+              "Start Date": "26-10-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1095 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.KAVITHA",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "11-12-2020",
+              "Mobile": "8526102486",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "31-08-2013"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-12-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "Cognizant Technology Solutions",
+              "Position/Designation": "Associate",
+              "Start Date": "26-06-2015",
+              "End Date": "07-12-2020",
+              "Duration": "5.2",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-S.KAVITHA-9f95d0ab-3350-4760-a249-708a4c76ab9c.eml?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091853Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c15610f4a8164dafccc1de2ffae6ed448af2b6aaffd77c8d34175f042f36d246",
+                  "name": "Date Intimation.eml",
+                  "totalRecords": null,
+                  "resourceId": "snsGkFJLjQTtde38f",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-S.KAVITHA-bcc62247-2ad3-4644-91d1-1a5bc8c6defb.JPG?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091853Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=3109651dacf3af51347699fd7f6c93d87d7b06148e7e09bf8929fa258b721f98",
+                  "name": "Capture.JPG",
+                  "totalRecords": null,
+                  "resourceId": "oBRFNJ6Kw9CFQWAWz",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
+              "Level": "International",
+              "Title": "A Hybrid EfficientNet-XGBoost Framework for Multi-Class Lung Disease Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "26-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+              "Level": "International",
+              "Title": "Lung Disease Classification through DeepLabV3 Segmentation and Swin Transformer on CLAHE-Processed X-Rays",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "12-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Automatika",
+              "Level": "International",
+              "Title": "DeiT-GAN: a segmentation-driven transformer framework for multi-class chest X-ray disease classification",
+              "Volume No": "67",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "24-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)",
+              "Level": "International",
+              "Title": "Contextual Cyberbullying Detection Using Emotion Enhanced Bystander Modeling",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference On Innovative Computing And Communication",
+              "Level": "International",
+              "Title": "Classification of Chest X-Ray Images with Pre-trained Models and Machine Learning Classifiers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 2nd International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)",
+              "Level": "International",
+              "Title": "An Approach for Tamil Handwritten Recognition using ABC enabled GAN",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "16-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computational Intelligence in Data Science",
+              "Level": "International",
+              "Title": "Optimizing the Hyperparameters forClassification of Lung Diseases from Chest X-RayImages",
+              "Volume No": "748",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Skin Disease Detection and Diagnosis Using Deep Neural Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Deep Learning Based Tuberculosis Classification from Chest X-ray Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Emerging Trends in Information Technology and Engineering (ICETITE)",
+              "Level": "International",
+              "Title": "Classification of Lung Diseases Using Transfer Learning with Chest X-Ray Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-02-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Computer and Information Science ((CCIS,volume 2046))",
+              "Level": "International",
+              "Title": "Sales Forecasting from Group Conversation Using Natural Language Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "08-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Personal Communication",
+              "Level": "International",
+              "Title": "An Extensive Review on Deep Learning and Machine Learning Intervention in Prediction and Classification of Types of Aneurysms",
+              "Volume No": "131",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Application of soft computing",
+              "Level": "International",
+              "Title": "A comprehensive review of analyzing the chest X-ray images to detect COVID-19 infections using deep learning techniques",
+              "Volume No": "27",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "27-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Fake News Detection Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Chest Disease Classification Using Convolutional Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-01-2023",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Workshop for students",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "27-03-2026",
+              "Date of Consultancy (To)": "27-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "5720"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Srinivasa Malligai Store",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Data Analytics",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "01-01-2026",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Go Naturo Foods",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Mobile application",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Sri Kumaran Clinic",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Creation",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-03-2025",
+              "Date of Consultancy (To)": "08-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Bharath Enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "18-02-2025",
+              "Date of Consultancy (To)": "08-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "25000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Sre Barane Paper Boards",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "05-02-2025",
+              "Date of Consultancy (To)": "12-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "SSV Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-02-2024",
+              "Date of Consultancy (To)": "30-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "SSV Earthmovers",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Application development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-02-2024",
+              "Date of Consultancy (To)": "30-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MSA JEWELLERY,42/18F, ETTAYAPURAM ROAD VILARGIKULAM,THOOTHUKUDI",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Creation",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-02-2023",
+              "Date of Consultancy (To)": "15-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Vehicle Insurance Company",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Creation",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "09-03-2022",
+              "Date of Consultancy (To)": "03-07-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Type of Event": "Training",
+              "Name of Event": "Figma Bootcamp:UI/UX Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "27-03-2026",
+              "End Date": "16-10-2025",
+              "Duration": "8 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Data Analytics using powerbi",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": "kongu Engineering college"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI APPLICATION DEVELOPMENT USING MLOPS",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mastering Devops",
+              "Level": "Others",
+              "Organized by": "HCL GUVI",
+              "Place": "Kongu Engineering College",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Modern Web APP Development using MERN Stack",
+              "Level": "Others",
+              "Organized by": "VPS Codebuilders",
+              "Place": "Kongu Engineering College",
+              "Start Date": "26-05-2025",
+              "End Date": "31-05-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Metaverse in Digital Health Care:New Frontiers and Design Thinking",
+              "Level": "Others",
+              "Organized by": "Dr.N.G.P Institute of Technology",
+              "Place": "",
+              "Start Date": "17-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Structures",
+              "Level": "Others",
+              "Organized by": "Codetantra",
+              "Place": "Kongu Engineering College",
+              "Start Date": "20-01-2025",
+              "End Date": "28-01-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Devops",
+              "Level": "Others",
+              "Organized by": "GUVI|HCL",
+              "Place": "Kongu Engineering College",
+              "Start Date": "25-09-2024",
+              "End Date": "29-09-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Exploring Artificial Intelligence:Trending Technologies",
+              "Level": "Online",
+              "Organized by": "DMI College of Engineering",
+              "Place": "",
+              "Start Date": "09-09-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Impact of Machine Learning,Deep Learning and AI:An Industrial Perspective",
+              "Level": "Online",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "06-05-2024",
+              "End Date": "10-05-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Effective Research paper Writing Strategies and High Impact Journal Publication",
+              "Level": "Online",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and Cubersecurity",
+              "Level": "Online",
+              "Organized by": "Rena University",
+              "Place": "",
+              "Start Date": "24-07-2023",
+              "End Date": "28-07-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Technologies for Next Generation Networks",
+              "Level": "National",
+              "Organized by": "Kings Engineering College",
+              "Place": "",
+              "Start Date": "17-07-2023",
+              "End Date": "22-07-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Reality and Augmented Reality",
+              "Level": "Others",
+              "Organized by": "SCOPIK EDUTECH PVT LTD",
+              "Place": "Kongu Engineering College",
+              "Start Date": "10-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "STTP",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-03-2023",
+              "End Date": "31-03-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science and Visualization Tool",
+              "Level": "International",
+              "Organized by": "Jai Shriram Engineering College",
+              "Place": "",
+              "Start Date": "09-01-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analytics in Health Care",
+              "Level": "Online",
+              "Organized by": "SSN College of Engineering",
+              "Place": "",
+              "Start Date": "17-01-2022",
+              "End Date": "22-01-2022"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Phyton for Data Science",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2022",
+              "End Date": "28-02-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "Computer Society of India",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "11-11-2025",
+              "End Date": "16-11-2027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "A Hybrid EfficientNet-XGBoost Framework for Multi-Class Lung Disease Classification",
+              "Title of Conference": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "26-03-2026",
+              "End Date": "28-03-2026"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Lung Disease Classification through DeepLabV3 Segmentation and Swin Transformer on CLAHE-Processed X-Rays",
+              "Title of Conference": "2026 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "12-03-2026",
+              "End Date": "14-03-2026"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Contextual Cyberbullying Detection Using Emotion Enhanced Bystander Modeling",
+              "Title of Conference": "2025 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-12-2025",
+              "End Date": "07-12-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Classification of Chest X-Ray Images with Pre-trained Models and Machine Learning Classifiers",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Optimizing the Hyperparameters forClassification of Lung Diseases from Chest X-RayImages",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "12-02-2025",
+              "End Date": "14-02-2025"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "An Approach for Tamil Handwritten Recognition using ABC enabled GAN",
+              "Title of Conference": "2024 2nd International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "19-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Deep Learning Based Tuberculosis Classification from Chest X-ray Images",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Skin Disease Detection and Diagnosis Using Deep Neural Network",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Classification of Lung Diseases Using Transfer Learning with Chest X-Ray Images",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "22-02-2024",
+              "End Date": "23-02-2024"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Sales Forecasting from Group Conversation Using Natural Language Processing",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-12-2023",
+              "End Date": "08-12-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Chest Disease Classification Using Convolutional Neural Networks",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": "25-01-2023"
+            },
+            {
+              "Name of Faculty": "S.KAVITHA",
+              "Department": "CSR",
+              "Title of Paper": "Fake News Detection Using Machine Learning",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": "25-01-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

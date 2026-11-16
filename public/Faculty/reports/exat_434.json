@@ -1,0 +1,1321 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "CLOUD COMPUTING, NETWORK SECURITY, MACHINE LEARNING",
+              "Date of joining in KEC": "31-05-2023",
+              "Mobile": "9994041861",
+              "E-mail": "ERODE-638001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Academic Degree": "Ph.D",
+              "Specialization": "CLOUD COMPUTING",
+              "From": "18-01-2012"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "01-09-2007"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Academic Degree": "MBA",
+              "Specialization": "GENERAL",
+              "From": "01-06-2005"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "CSE",
+              "From": "28-09-2000"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Position/Designation": "PROFESSOR",
+              "Start Date": "01-12-2021",
+              "End Date": "30-05-2023",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-1f16f3b6-bfcb-41e8-944e-921cda89f1d1.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c7600991db579964e89100c9e8732dbde32761c3c1ed8b0e8ce38dbe04ecc16b",
+                  "name": "KAYAL VELALAR SERVICE CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "5L8Anxoh9tu4fkYpY",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Position/Designation": "ASSOCIATE PROFESSOR",
+              "Start Date": "01-07-2018",
+              "End Date": "30-11-2021",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-0555f53f-0cc9-4c8f-99e1-6a1ee53d2d08.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=4558de73bd46b2a7547c802f3c25d9496be92da6563b6913baf412e18347414a",
+                  "name": "KAYAL ASP PROMOTION ORDER VELALAR.pdf",
+                  "totalRecords": null,
+                  "resourceId": "zp9hbJewGekR5tB4r",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "01-12-2009",
+              "End Date": "30-06-2018",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-7debe0fa-0463-4c36-8e95-ef1fcf18de30.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f2b092130cb4a10ad6d0e83fbed3d5bab9cfaa8fa2d9826e86b9dc742ac259a7",
+                  "name": "KAYAL VELALAR SERVICE CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "PqyjcDo3TCzhdSxnC",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Position/Designation": "LECTURER",
+              "Start Date": "01-07-2009",
+              "End Date": "30-11-2009",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-c9460467-1c13-404f-8c98-76e18571fd3b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=120ed40fac8455f05158246e1cb4a2a134f8dc3581dc4bb4ebd785e81a2a2f3c",
+                  "name": "KAYAL VELALAR SERVICE CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "9FyzeE4sKc9bAnEob",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Position/Designation": "LECTURER",
+              "Start Date": "17-06-2005",
+              "End Date": "31-08-2007",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-faffa233-5654-4abb-b0a9-85c1cc31ce0c.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6fe64799f459d7987d410689de4d115aaafa1954f649b294d572c43265c6bf51",
+                  "name": "KAYAL VELALAR SERVICE CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "av8QBkoowfw4oByth",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "KONGU POLYTECHNIC COLLEGE",
+              "Position/Designation": "LECTURER",
+              "Start Date": "17-06-2004",
+              "End Date": "31-05-2005",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-a20c32fe-742b-4253-b95d-b017240a40d5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=29abc4e8f57fa7e11556d7e2e0e3185b175a03357cc18d3818b63a0fff20e1dd",
+                  "name": "KAYAL KPC APPOINTMENT ORDER.pdf",
+                  "totalRecords": null,
+                  "resourceId": "TKWMgikEZwQvbeRQa",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-DR.S.KAYALVILI-4d6c9b38-3c0b-4026-90b7-9f2fa973a630.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=55d276516e6f6ef197c0eebfdeeba83991a6d806f48b75ed5bfcbb77e736aedf",
+                  "name": "KAYAL KPC RELIEVING ORDER.pdf",
+                  "totalRecords": null,
+                  "resourceId": "kZr3Cj5MEhHj6MT9r",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of Award/Achievement": "NPTEL TOPPER",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "04-11-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of Award/Achievement": "NPTEL Topper",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "13-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of Award/Achievement": "NPTEL Topper",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "31-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Medical Toxicology and Forensic Medicine (IJMTFM)",
+              "Level": "International",
+              "Title": "Deep Convolutional Multi-Feature Fusion Approach for Early Laryngeal Carcinoma Detection using Narrow-Band Medical Imaging",
+              "Volume No": "16",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "01-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "JOURNAL OF ENGINEERING AND TECHNOLOGY FOR INDUSTRIAL APPLICATIONS ITEGAM -JETIA",
+              "Level": "International",
+              "Title": "FROM TRACEABILITY TO PREDICTIVE INTELLIGENCE: A SYSTEMATIC–NARRATIVE REVIEW OF IOT, BLOCKCHAIN, AND AI IN AGRICULTURE",
+              "Volume No": "12",
+              "Issue No": "6",
+              "Year": "2026",
+              "Date": "31-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific Reports",
+              "Level": "International",
+              "Title": "An optimized resource allocation\nin cloud using prediction enabled\nreinforcement learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Electrical Engineering ((LNEE,volume 1417))",
+              "Level": "International",
+              "Title": "Enhanced Veterinary Care AI",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Computer Science and Applications",
+              "Level": "International",
+              "Title": "Early detection and forecasting of influenza epidemics using a hybrid ARIMA-GRU model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "AI-Driven Cattle Skin Disease Diagnosis: Enhancing Precision Through Advanced Deep Learning and Interactive Chatbot Technologies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Basic and Applied Sciences",
+              "Level": "International",
+              "Title": "Enhancing Cryptocurrency Market Predictability Using Artificial Intelligence: A Platform for Predicting Prices and Trends of ?Bitcoin, Ethereum, and Cardano",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Basic and Applied Sciences",
+              "Level": "International",
+              "Title": "Comprehensive analysis of MANET routing protocols and quality of service metrics",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence and Cybersecurity in Healthcare",
+              "Level": "International",
+              "Title": "Deep Learning–Based Medical Image Classification and Web Application Framework to Identify Alzheimer's Disease",
+              "Volume No": "Chapter 18",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IETE Journal of Research",
+              "Level": "International",
+              "Title": "Detection of Polycystic Ovarian Disease Using Probabilistic Optimum Deep Learning Feature Fusion",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "19-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Nanotechnology",
+              "Level": "International",
+              "Title": "Environmental Management through Machine Learning-based Fish Species Classification for Sustainable Fisheries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "30-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Theoretical and Applied Information Technology",
+              "Level": "International",
+              "Title": "IMPROVING THE CROSS-LAYER FUNCTIONALITY TO OVERCOME THE COLLISION IN MOBILE ADHOC NETWORK",
+              "Volume No": "102",
+              "Issue No": "8",
+              "Year": "2025",
+              "Date": "30-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Intelligent & Fuzzy Systems",
+              "Level": "International",
+              "Title": "Alzheimer’s disease detection using residual\nneural network with LSTM hybrid deep\nlearning models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Computer Science and Applications(IJACSA)",
+              "Level": "International",
+              "Title": "A Transformer-CNN Hybrid Model for Cognitive Behavioral Therapy in Psychological Assessment and Intervention for Enhanced Diagnostic Accuracy and Treatment Efficiency",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "31-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Computer Science and Applications(IJACSA)",
+              "Level": "International",
+              "Title": "Hybrid Optimization with Recurrent Neural Network-based Medical Image Processing for Predicting Interstitial Lung Disease",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "30-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Nature",
+              "Level": "International",
+              "Title": "Hybrid SFLA-GA algorithm for an optimal resource allocation in cloud",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "16-02-2018",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Murugan Enterprise",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "06-12-2025",
+              "Date of Consultancy (To)": "14-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Samson Equipment Perundurai Road, Upstairs of Canara BankSengodanpalayam, Thindal, Tamil Nadu 638012",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "10",
+              "Date of Consultancy (From)": "31-12-2024",
+              "Date of Consultancy (To)": "27-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "25000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Vijaya Medicals Sri Venkateswara Complex, 282 - A 1/9 Thiruvalluvar Salai, Oddanchatram - 624 419",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "30-12-2024",
+              "Date of Consultancy (To)": "26-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Samrithi Attires Textile Wholesale and Retail shop",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "26-12-2024",
+              "Date of Consultancy (To)": "31-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on \"Gen AI in action\" as a part of AI Conclave",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "14-03-2025",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Conference on Innovative Trends in Technologies (NCITT’25)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "01-03-2025",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Type of Event": "Seminar",
+              "Name of Event": "“Navigating Cyber Security Challenges and Safeguarding  Data Privacy in the Digital Age",
+              "Collaboration/Sponsored by": "DRDO",
+              "Level": "National",
+              "Start Date": "02-11-2023",
+              "End Date": "03-11-2023",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "AI Dept."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE AND ACCREDITATION",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Next- Generation AI : Generative and Agentic Systems",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-06-2026",
+              "End Date": "20-06-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "Seminar",
+              "Title of the program": "CSIR sponsored seminar on \"Unveiling the Shadows: IoT Forensics nd Cyber Defense\"",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-05-2026",
+              "End Date": "09-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Assessment of Students Performance",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "15-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Others",
+              "Organized by": "INDUSTRY",
+              "Place": "",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Foundations of Data Science and its Applications",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-10-2025",
+              "End Date": "17-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-02-2025",
+              "End Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-01-2025",
+              "End Date": "01-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-09-2024",
+              "End Date": "20-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-09-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-07-2024",
+              "End Date": "27-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "LIFE  MEMBER",
+              "Level": "National",
+              "Start Date": "01-06-2005",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Cloud-Integrated Enterprise Resource Planning for Sustainable Business Growth",
+              "Title of Conference": "2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "22-11-2025",
+              "End Date": "23-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "A Blockchain-Enabled CMS for Transparency and Data Integrity in E-Commerce Applications",
+              "Title of Conference": "2025 International Conference on Intelligent Computing, Information and Control Systems (ICOIICS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "19-11-2025",
+              "End Date": "21-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "A Comparative Study of Time Series Models for Real Estate Market Forecasting",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Deep Learning-Based Identification of Pneumonia in Chest X-Ray Images",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "An enhanced optical characterrecognition model for different captchamethods in web scraping techniques",
+              "Title of Conference": "FIFTH INTERNATIONAL CONFERENCE ON ADVANCES IN PHYSICAL SCIENCES AND MATERIALS: ICAPSM 2024",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "29-08-2024",
+              "End Date": "30-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Enhancing Named Entity Recognition using Deep Learning Approaches",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Using Generative Adversarial Networks for Anomaly Detection in Network Traffic: Advancements in AI Cybersecurity",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "26-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Enhanced Prediction of Rheumatoid Arthritis Flares Through Ensemble Learning Methods",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Password Strength Checker Using Machine Learning",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Optical Character Recognition (OCR) in Handwritten Characters Using Convolutional Neural Networks to Assist in Exam Reader System",
+              "Title of Conference": "2024 2nd International Conference on Advancement in Computation & Computer Technologies (InCACCT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-05-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Advancements in machine learning for recommender systems: A focus on NNMFC and particle swarm optimization techniques",
+              "Title of Conference": "2ND INTERNATIONAL INTERDISCIPLINARY SCIENTIFIC CONFERENCE ON GREEN ENERGY, ENVIRONMENTAL AND RENEWABLE ENERGY, ADVANCED MATERIALS, AND SUSTAINABLE DEVELOPMENT: ICGRMSD24",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Hybrid Multimodal Machine Learning Driven Android Malware Recognition and Classification Model",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "22-11-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Analysis of Digital Twins Implementation in Smart City using Big Data and Deep Learning",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "17-05-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of Paper": "Artificial intelligent based wild fire fighting machine using internet of things",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "28-10-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "SECOND DC MEETING",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "11-09-2026",
+              "End Date": "11-09-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "ZEROTH DC MEETING",
+              "Role": "DC Member",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "03-09-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "5 IEEE Wireless, Antenna, and th Microwave Symposium (WAMS - 2026)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "10-06-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "DC Meeting for Research Scholar",
+              "Role": "DC Member",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "05-06-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "DST-ANRF Sponsored Five Days National Level Workshop on \"Carbon Aware AI Workload Scheduling and Thermal Constrained Resource Optimization in Sustainable High Performance Data Centers",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Erode Sengunthat Engineering College",
+              "Start Date": "11-05-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "Pogramme Assessment Committee Meeting",
+              "Role": "Others",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "08-04-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "The Transformative Impact of Machine Learning on Modern Innovation",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "13-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "2026 Sixth IEEE Sponsored International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (ICAECT 2026)",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "Shankaracharya Technical Campus (SSTC), Bhilai, Chhattisgarh, India",
+              "Start Date": "08-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "AICTE sponsored ATAL Faculty Development Program on “AI ASSISTED DEVELOPMENT OF FAST & SECURE IoT (Internet of Things) FOR AGRICULTURE AND TEXTILE INDUSTRIES”",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "20-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "Journal Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "12-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "Second International Conference on Advances in Modern Age Technologies for Health and Engineering Science (AMATHE 2025)",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "24-04-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "DC MEETING",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "13-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "Fifth IEEE Sponsored International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (ICAECT 2025)",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "09-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "DST-ARNF SPONSORED FIVE DAYS WORKSHOP ON CYBERSECURITY",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "26-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAYALVILI",
+              "Department": "AI",
+              "Title of the Program": "1st DC Meeting of  Scholar",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "04-01-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Designation": "",
+              "Area of Specialisation": "Automotive Engineering, Automotive Ergonomics",
+              "Date of joining in KEC": "02-06-2025",
+              "Mobile": "9442314814",
+              "E-mail": "vsudhirkumar94@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Academic Degree": "M.E.",
+              "Specialization": "Automotive Engineering",
+              "From": "01-07-2016"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Academic Degree": "B.E",
+              "Specialization": "Mechanical Engineering",
+              "From": "01-08-2012"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Bannari Amman Institute of Technology, Sathyamangalam",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "09-07-2018",
+              "End Date": "30-04-2025",
+              "Duration": "6 Years 9 Months 21 Days",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-V.SUDHIR_KUMAR-08d83f76-aeee-4def-97df-463d31de5dcf.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1fd6a5b1203b1efd7a07158cea6e7f8fbc3f3fe1a2083a19ada8d6a4da2246c1",
+                  "name": "APPOINTMENT ORDER.pdf",
+                  "totalRecords": null,
+                  "resourceId": "kuKML5kmDGW3Rae9x",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AUR-V.SUDHIR_KUMAR-56e4f2c1-d47f-4777-af92-d7a452ec0cb9.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091907Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2d4ea650db0cb33c13edebd53a846a0ebd0190f95256cd3f2c1b1ca09307999c",
+                  "name": "BIT Experience Certificate.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "nskApDLkpt3xLwyZj",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Name of Award/Achievement": "Faculty Advisor ADMMS 26 International Conference organized by SAEINDIA Southern Section",
+              "Level": "Others",
+              "Awarded by": "SAEINDIA SOUTHERN SECTION",
+              "Place": "Knowledge Institute of Technology, Kakkapalayam , Salem",
+              "Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Name of Award/Achievement": "Event Champion Award for organizing ADMMS SAE International Conference",
+              "Level": "Others",
+              "Awarded by": "SAEINDIA SOUTHERN SECTION",
+              "Place": "Chennai",
+              "Date": "25-10-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SAE TECHNICAL PAPER",
+              "Level": "International",
+              "Title": "Development of Advanced Rider Assistance System (ARAS) for Electric Motorcycles: A Level-1 Collision Avoidance and Emergency Braking Prototype Using Ultrasonic Sensors",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "12-02-2026",
+              "Published at": "SAE International"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 2nd International Conference on Integration of Computational Intelligent System (ICICIS)",
+              "Level": "International",
+              "Title": "Design and Analysis of Active Suspension Systems for Automotive Vehicles Using\nPID and Root Locus Controller",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-02-2026",
+              "Published at": "IEEE Explore"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SAE TECHNICAL PAPER",
+              "Level": "International",
+              "Title": "Development of Thermal Management Strategies for Refrigerant Boilers in Organic Rankine Cycle for Solar Electric Energy Conversion",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-10-2025",
+              "Published at": "SAE International"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Automotive Technology",
+              "Level": "International",
+              "Title": "Investigating Muscular Fatigue Associated with Clutch Pedal Operation in Manual Transmission Vehicles Using Surface Electromyography",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-09-2025",
+              "Published at": "Springer Nature Link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Name of the Industry/Organization": "Karshan Springs and Formings Private Limited",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Consultancy",
+              "Number of persons involved": "5",
+              "Date of Consultancy (From)": "09-04-2026",
+              "Date of Consultancy (To)": "16-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI for Engineers",
+              "Level": "Others",
+              "Organized by": "AIDS & AIML Department, KEC along with EDSOLS Innovations Private Limited",
+              "Place": "Kongu Engineering College, Perundurai-638060",
+              "Start Date": "20-04-2026",
+              "End Date": "29-05-2026"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Autotronics",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "NPTEL Online Certification",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Autotronics",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "NPTEL AICTE FDP- Online",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "Others",
+              "Title of the program": "Industrial Training as a part of FDP in Engineering & Development, CTA & DFP 6 Pump Manufacturing and Assembly, Nozzle and Injector Assembly of Fuel Injection Equipment Systems",
+              "Level": "Others",
+              "Organized by": "Delphi TVS Technologies",
+              "Place": "Delphi TVS Technologies Mannur & Orgadam Plants, Chennai, Tamilnadu",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "Others",
+              "Organized by": "HRD Cell, Kongu Engineering College",
+              "Place": "Kongu Engineering College, Perundurai, Erode-638060",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Product Design Engineering using Fusion",
+              "Level": "International",
+              "Organized by": "ICT Academy",
+              "Place": "Department of Automobile Engineering, Kongu Engineering College, Perundurai, Erode-638060",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Development Program on Virtual Reality & Augmented Reality using Unity",
+              "Level": "Others",
+              "Organized by": "SCOPIK EDUTECH PRIVATE LTD, CHENNAI",
+              "Place": "VR/AR Centre of Excellance, Kongu Engineering College",
+              "Start Date": "09-06-2025",
+              "End Date": "13-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Name of the Professional Body/Society": "Society of Automotive Engineers INDIA",
+              "Position": "Professional Member",
+              "Level": "International",
+              "Start Date": "01-01-2026",
+              "End Date": "31-12-2026"
+            },
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Name of the Professional Body/Society": "Society of Automotive Engineers",
+              "Position": "Professional Member",
+              "Level": "International",
+              "Start Date": "01-01-2025",
+              "End Date": "31-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.SUDHIR KUMAR",
+              "Department": "AUR",
+              "Title of Paper": "Design and Analysis of Active Suspension Systems for Automotive Vehicles Using PID and Root Locus Controller",
+              "Title of Conference": "2nd International Conference on Integration of Computational Intelligent System (ICICIS 2025)",
+              "Organized by": "IEEE Bombay Section",
+              "Level": "International",
+              "Start Date": "09-09-2025",
+              "End Date": "12-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

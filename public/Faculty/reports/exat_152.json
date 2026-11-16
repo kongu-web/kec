@@ -1,0 +1,1864 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Network Security, Image Processing, Machine Learning",
+              "Date of joining in KEC": "27-11-2000",
+              "Mobile": "8072545847",
+              "E-mail": "shanabiraki@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Information and Communication Engineering",
+              "From": "07-07-2011"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-2005"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Academic Degree": "UG",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-1993"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "27-11-2000",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kongu Engineering College,Perundurai",
+              "Position/Designation": "Assistant Professor (Selection Grade)",
+              "Start Date": "01-12-2011",
+              "End Date": "31-05-2020",
+              "Duration": "8 Years 5  Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-fc48d691-d61a-4ef0-b8da-88a00b963382.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=0129ec39f39d79b48b8b564fc9f7ac4e5d5e807514cbc2c0cadb5940a1e3311f",
+                  "name": "Kec proceedings 1007.pdf",
+                  "totalRecords": null,
+                  "resourceId": "ioJFiXPEC8FLNdTK9",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kongu Engineering College,Perundurai",
+              "Position/Designation": "Assistant Professor (Senior Grade)",
+              "Start Date": "01-08-2010",
+              "End Date": "30-11-2011",
+              "Duration": "1 Year 3 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-f7333ac1-df4c-4e49-bbbd-0fc3cdf0e34e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=93677daa195a1685cf18df4dcb5c5e277297a7de2c6c61f57517bc73706442a9",
+                  "name": "Kec office order006.pdf",
+                  "totalRecords": null,
+                  "resourceId": "mcd7HRS89G6fHHMw2",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kongu Engineering College,Perundurai",
+              "Position/Designation": "Lecturer (Senior Scale)",
+              "Start Date": "01-07-2007",
+              "End Date": "31-07-2010",
+              "Duration": "3 Years 1 Month",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-2809c1e5-a3c7-45e8-9e0e-8c0ba2e3ed9d.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d33c6b91e8377d84bf44a81217c4a27e56f31bccfbb5c8aa3826f8579a1f6d51",
+                  "name": "Kec proceedings005.pdf",
+                  "totalRecords": null,
+                  "resourceId": "k48nswB93m5BYAuAs",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kongu Engineering College,Perundurai",
+              "Position/Designation": "Lecturer",
+              "Start Date": "27-11-2000",
+              "End Date": "30-06-2007",
+              "Duration": "27.11.2000  \t30.06.2007",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-6d2516c8-b081-4225-8246-fdb322cedb8d.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=0df30198dd2de089e84a407b1cfb576decb4405860cba565f503a357f331eb6e",
+                  "name": "Kec order004.pdf",
+                  "totalRecords": null,
+                  "resourceId": "yThHxQ3kaBznb8jMo",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Regional Institute of Engineering and Technology",
+              "Position/Designation": "Faculty",
+              "Start Date": "01-06-2000",
+              "End Date": "01-11-2000",
+              "Duration": "5 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-405950d7-583e-4a00-8028-ffc7cfa27177.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d0550a075d3cb9ac51d107cab8adcbd72b146b31aa1aa1bd74aad666cc8e398f",
+                  "name": "Regional institute003.pdf",
+                  "totalRecords": null,
+                  "resourceId": "Qi9RTHNKR29SMSvQA",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "American Online Technological Systems,Trichy",
+              "Position/Designation": "Faculty",
+              "Start Date": "01-02-1999",
+              "End Date": "01-05-2000",
+              "Duration": "1 Year 3 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-fa84d3c6-1716-4ee4-9464-5506dca304b6.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f76e3988d1421674c604cfc73f12e07c611aab47bd0b58ec3c9eb2a83a392395",
+                  "name": "Americanonline002.pdf",
+                  "totalRecords": null,
+                  "resourceId": "pPFw84sZWGsqQSvZT",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "Powersoft Computer Centre,Trichy",
+              "Position/Designation": "Faculty",
+              "Start Date": "01-09-1997",
+              "End Date": "02-11-1998",
+              "Duration": "1 Year 2 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-DR.R.SHANTHAKUMARI-d877785d-ec7c-40a3-942c-22979d08b36b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2b9d6820afc2db7865fc120000a9e8e6e5fa3b1947d10d2c26b2c2628b3a67d2",
+                  "name": "powersoft001.pdf",
+                  "totalRecords": null,
+                  "resourceId": "NtBRr8pbbNyqnirzu",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Best Project  in B.Tech IT Department",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Date": "18-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Topper 2%",
+              "Level": "National",
+              "Awarded by": "Indian Instiute of Technology, Kharagpur",
+              "Place": "",
+              "Date": "30-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Topper 5%",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "",
+              "Date": "16-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Academic Excellence Award",
+              "Level": "Others",
+              "Awarded by": "KVITT",
+              "Place": "",
+              "Date": "08-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Best Faculty",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College,Perundurai",
+              "Place": "",
+              "Date": "29-03-2008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "National",
+              "Title": "Pneumonia Detection Using Extended VGG19 Architecture",
+              "Volume No": "1243 LNNS",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain and Digital Twin Applications in Smart Agriculture",
+              "Level": "National",
+              "Title": "Introduction of Blockchain in Smart Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4th IEEE International Conference on Mobile Networks and Wireless Communications, ICMNWC 2024",
+              "Level": "National",
+              "Title": "Hybrid Ensemble Models for Classifying Seismic Event Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data Analytics and Artificial Intelligence for Predictive Maintenance in Smart Manufacturing",
+              "Level": "National",
+              "Title": "AI Models for Predictive Maintenance",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "05-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "National",
+              "Title": "News Article Summarization using PEGASUS model for Efficient Information Consumption",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "National",
+              "Title": "TweetSense: Navigating Disaster Signals Using Machine Learning and Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "National",
+              "Title": "Crop Prediction Based on Factors of the Agricultural Environment Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "National",
+              "Title": "Utilizing Generative AI for Text-to-Image Generation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Computer and Information Science",
+              "Level": "National",
+              "Title": "Multimodal Fake News Detection Using Deep Learning Techniques",
+              "Volume No": "2176 CCIS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Digital Twin and Blockchain for Smart Cities",
+              "Level": "National",
+              "Title": "Introduction to Blockchain Technology for Smart Cities",
+              "Volume No": "3-26",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "National",
+              "Title": "Rice Leaf Disease Diagnosis Using Dense EfficientNet Model",
+              "Volume No": "1050 LNNS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "30-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "National",
+              "Title": "Biomedical Named Entity Recognition with BiLSTM-EDA: A Deep Learning Approach",
+              "Volume No": "1047 LNNS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "25-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "National",
+              "Title": "Arterial Disease Prediction in Inflammatory Bowel Disease Patients",
+              "Volume No": "1046 LNNS",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "3rd International Conference on Artificial Intelligence for Internet of Things",
+              "Level": "National",
+              "Title": "Detection of Position Falsification Attacks in VANETs Using Ensemble Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-07-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Chennai Air Conditioner",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Ramesh Agencies, Bhavani",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Inventory Management",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "27-12-2025",
+              "Date of Consultancy (To)": "20-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Velavan Super Stores, Salangapalayam",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Inventory Management System",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "18-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Nirrmala Agencies,Salem",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Inventory Management System",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-01-2025",
+              "Date of Consultancy (To)": "10-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sumathi Electricals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-01-2024",
+              "Date of Consultancy (To)": "17-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "7500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Phoenix Gifts and Photography",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "14-01-2024",
+              "Date of Consultancy (To)": "10-03-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Shri Aakarshana Fashions",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "10-02-2023",
+              "Date of Consultancy (To)": "10-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "7500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sanjay's Fine Foods",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-01-2023",
+              "Date of Consultancy (To)": "19-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "7500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Shri Ayyappa Automobiles,Trichy",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "12-03-2022",
+              "Date of Consultancy (To)": "27-07-2022",
+              "Revenue Generated (amount in Rupees without GST)": "7500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "K Labs Technology & Solutions (P) Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "12-03-2022",
+              "Date of Consultancy (To)": "27-07-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Jayasakthi Printers,Tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "08-04-2021",
+              "Date of Consultancy (To)": "01-07-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Testing in AI Era: Skills that every engineer needs",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-03-2026",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VC033- Introduction to Data Analytics with Power BI",
+              "Collaboration/Sponsored by": "CETAS Information Technology Pvt Ltd",
+              "Level": "Institute",
+              "Start Date": "05-03-2026",
+              "End Date": "25-03-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Smooth Web Automation: Playwright Typescript for Absolute Beginners",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "04-10-2025",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Go Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VC016-App Development with Flutter",
+              "Collaboration/Sponsored by": "Infosys,Mysore",
+              "Level": "Department",
+              "Start Date": "12-09-2025",
+              "End Date": "10-10-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Bug Free Browsing : Selenium Java for Beginners",
+              "Collaboration/Sponsored by": "Association with IIPC",
+              "Level": "National",
+              "Start Date": "29-03-2025",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Go Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "08-03-2025",
+              "End Date": "15-05-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Analytics with Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "12-10-2024",
+              "End Date": "03-11-2024",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Full Stack Essentials: MERN Development",
+              "Collaboration/Sponsored by": "Association with IIPC",
+              "Level": "National",
+              "Start Date": "21-09-2024",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "Computer Centre-8"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Application Moderization with AWS and Docker",
+              "Collaboration/Sponsored by": "Association with IIPC",
+              "Level": "National",
+              "Start Date": "04-05-2024",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "Computer Centre-8"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Type of Event": "FDP",
+              "Name of Event": "Foundations of Machine Learning",
+              "Collaboration/Sponsored by": "Association with IIPC",
+              "Level": "National",
+              "Start Date": "21-10-2021",
+              "End Date": "29-10-2021",
+              "Duration": "7 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "Training Program",
+              "Title of the program": "AI application development using MLOPS",
+              "Level": "Others",
+              "Organized by": "Punchbiz - An AI-Powered Vision Analytics Company",
+              "Place": "",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Empowering Digital Defense - A Pragmatic Approach  to Cyber Security",
+              "Level": "Others",
+              "Organized by": "CSuite Tech Labs",
+              "Place": "",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Bio-Inspired Computing and Intelligent Optimisation:Bridging Nature and AI",
+              "Level": "National",
+              "Organized by": "Sri Sairam Institute of Technology",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "Others",
+              "Title of the program": "Generative AI with Diffusion Models",
+              "Level": "International",
+              "Organized by": "NVIDIA",
+              "Place": "",
+              "Start Date": "10-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "Others",
+              "Title of the program": "Building Real-Time Video AI Applications",
+              "Level": "International",
+              "Organized by": "NVIDIA",
+              "Place": "",
+              "Start Date": "09-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "Others",
+              "Title of the program": "Fundamentals of Deep Learning",
+              "Level": "International",
+              "Organized by": "NVIDIA",
+              "Place": "",
+              "Start Date": "05-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for  Image,Text and Edge AI Applications",
+              "Level": "Others",
+              "Organized by": "EDSOLS  Innovations Private Limited",
+              "Place": "",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Metaverse in Digital Healthcare: New Frontiers and Design Thinking",
+              "Level": "National",
+              "Organized by": "Dr.N.G.P Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "17-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Computational Techniques in Machine Learning: A Comprehensive Faculty Development Program utilizing R Software",
+              "Level": "National",
+              "Organized by": "University of Engineering and Management",
+              "Place": "Kolkata",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence's Impact on Transforming software, Robotics, Electrical, Electronics & Mechanical Fields",
+              "Level": "National",
+              "Organized by": "Dhaanish Ahmed College of Engineering",
+              "Place": "Chennai",
+              "Start Date": "29-08-2024",
+              "End Date": "03-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Teaching and  Learning in General Programs : TALG",
+              "Level": "National",
+              "Organized by": "Indian Institute of Science",
+              "Place": "Bangalore",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "International Society for Research and Development",
+              "Position": "Life Member Certification",
+              "Level": "International",
+              "Start Date": "31-07-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "CSI",
+              "Position": "Nominee",
+              "Level": "National",
+              "Start Date": "01-06-2015",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Life Membership",
+              "Level": "National",
+              "Start Date": "01-06-2009",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "ECCDN-NET++: A Dual-Backbone Deep Learning Framework for Multi-Class Waste Classification using DENSENET50-RESNET18 Feature Fusion",
+              "Title of Conference": "International Conference on Power Control and Computing Technologies-25",
+              "Organized by": "Sona College of Technology, Salem",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Automated Fault Diagnosis of Gear Tooth Defects using Deep Learning",
+              "Title of Conference": "International Conference on Power COntrol & Computing Technologies",
+              "Organized by": "Sona College of Technology,Salem",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Optimized Hybrid ECC-DH-AES Encyrption Framework for Secure Communication",
+              "Title of Conference": "Power Control and Computing Technologies-25",
+              "Organized by": "Sona College of Technology, Salem",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Risk Prediction of Screen Time Analytics using Deep Learning",
+              "Title of Conference": "International Conference on Power Control Computing Technologies-25",
+              "Organized by": "Sona College of Technology,Salem",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "PUF based Authentication with Neural Cryptography for IOT security",
+              "Title of Conference": "International Conference on Computing and Communication Networks",
+              "Organized by": "Manchester Metropolitan University,UK",
+              "Level": "International",
+              "Start Date": "01-08-2025",
+              "End Date": "03-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Smart Detection of Money Laundering in BLock Chain Technology Using ML",
+              "Title of Conference": "International Conference on Computing and Communication Networks",
+              "Organized by": "Manchester Metropolitan University,UK",
+              "Level": "International",
+              "Start Date": "01-08-2025",
+              "End Date": "03-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "A Steganographic Approach to textual Information hiding using NLP Models",
+              "Title of Conference": "International conference on Computing and Communication Networks",
+              "Organized by": "Manchester Metropolitan University,UK",
+              "Level": "International",
+              "Start Date": "01-08-2025",
+              "End Date": "03-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Enhancing Ransomware Detection Using Active Learning and Meta-Learning Approach",
+              "Title of Conference": "Sixteenth International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025)",
+              "Organized by": "IIT Indore",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Automated Defect Detection In Ceramic tiles using Transfer Learning Models",
+              "Title of Conference": "3rd International Conference on Futuristic Technologies",
+              "Organized by": "SCITEPRESS",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Mitigating Node Isolation attack in OLSR protocol using DCFM Technique",
+              "Title of Conference": "CSI Sponsored International Conference on Innovative Computing Technology",
+              "Organized by": "M.Kumarasamy College of Engineering",
+              "Level": "International",
+              "Start Date": "16-02-2017",
+              "End Date": "17-02-2017"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Mitigating Node Isolation attack in OLSR protocol using DCFM Technique",
+              "Title of Conference": "Global Learning Conference on Mobile Computing",
+              "Organized by": "SSM College of Engineering",
+              "Level": "International",
+              "Start Date": "09-02-2017",
+              "End Date": "10-02-2017"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Information hiding in dual images using reversible approach",
+              "Title of Conference": "International Conference on Innovations in Information,  Embedded and communication Systems",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "17-03-2016",
+              "End Date": "18-03-2016"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Information Hiding in dual Images using Reversible Technique",
+              "Title of Conference": "DBT sponsored National Conference on “Advanced Computational Intelligence techniques for Big data in Biomedicine and its applications",
+              "Organized by": "Kongu Engineering College",
+              "Level": "National",
+              "Start Date": "28-12-2015",
+              "End Date": "29-12-2015"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Data hiding in Image by LSBMR algorithm with Wavelet transform",
+              "Title of Conference": "Second National Conference on Innovation in Computational Intelligent Techniques",
+              "Organized by": "Anna University Regional Centre, Coimbatore",
+              "Level": "National",
+              "Start Date": "20-02-2015",
+              "End Date": "21-02-2015"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Secure Data Hiding In Images",
+              "Title of Conference": "Fourth National Conference on Communication Technology Interventions for Rural and Social Development",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "05-02-2015",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Information hiding using LSBG algorithm",
+              "Title of Conference": "DSTE sponsored National Conference on Intelligent Computing",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "30-01-2015",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Embedding and Extraction of Digital Image watermarking Based on scaling Factor",
+              "Title of Conference": "International Conference on Innovations in Information, Embedded and Communication Systems",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-03-2014",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "An adaptive visible/Invisible watermarking  Scheme for Digital Images based on scaling factor",
+              "Title of Conference": "National Conference on Wireless Networks, Computing and Communication,",
+              "Organized by": "PSG College of Technology, Coimbatore",
+              "Level": "National",
+              "Start Date": "13-02-2014",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Digital Image watermarking scheme  based on scaling factor",
+              "Title of Conference": "National Conference on Advances in Computing and Technology",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "07-02-2014",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Embedded blind Image watermarking using wavelet transform and singular value Decomposition",
+              "Title of Conference": "National Conference on Advances in Computational Intelligence and Instrumentation Technology",
+              "Organized by": "Kongu Engineering College,Perundurai",
+              "Level": "National",
+              "Start Date": "04-04-2013",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Data Hiding technique using Multi-pixel differencing and HL Code",
+              "Title of Conference": "National Conference on Smart Systems",
+              "Organized by": "Erode Builder Educational Trust's Group of Insitutions",
+              "Level": "National",
+              "Start Date": "16-03-2013",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Edge Adaptive scheme for data hiding using tree based parity check",
+              "Title of Conference": "National Conference on Smart Systems",
+              "Organized by": "Erode Builder Educational Trust's Group of Institutions",
+              "Level": "National",
+              "Start Date": "16-03-2013",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Image Steganography based on LSBMR with tree Based Parity check",
+              "Title of Conference": "International Conference on Intelligent Instrumentation, Optimization and Signal Processing",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "08-03-2013",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Power Aware audio steganography based on LSBMR algorithmPower Aware audio steganography based on LSBMR algorithmPower Aware audio steganography based on LSBMR algorithm",
+              "Title of Conference": "International Conference on Science and Innovative Engineering & Technology",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "31-03-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Adaptive audio steganography based on LSBMR algorithm",
+              "Title of Conference": "NCIIT 2012",
+              "Organized by": "Bannari Amman Institute of Technology, Sathy",
+              "Level": "National",
+              "Start Date": "28-02-2012",
+              "End Date": "29-02-2012"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Instrusion detection system for Malicious node detection in DYMO routing protocol",
+              "Title of Conference": "National Conference on Computer Applications",
+              "Organized by": "Erode Builders Educational Trust's Group of Institutions, Kangayam",
+              "Level": "National",
+              "Start Date": "27-02-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Adaptive steganography for gray scale  images based on LSBMR algorithm",
+              "Title of Conference": "National Conference on Emerging Trends",
+              "Organized by": "PPG Institute of Technology, Coimbatore",
+              "Level": "National",
+              "Start Date": "22-02-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Efficient adaptive steganography for color images based on LSBMR algorithm",
+              "Title of Conference": "National Conference on Information Technology",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "15-02-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Enhanced Instrusion detection system for Malicious node detection in DYMO routing protocol by using minimal energy consumption",
+              "Title of Conference": "National Conference on Information Technology",
+              "Organized by": "Pondicherry Engineering College,Puducherry",
+              "Level": "National",
+              "Start Date": "15-02-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Secure Key Distribution in Adhoc Networks",
+              "Title of Conference": "National Conference on Advanced Computing Concepts",
+              "Organized by": "Velalar College of Engineering and Technology,Erode",
+              "Level": "National",
+              "Start Date": "17-04-2009",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "High performance computing servers by utilization of free systems using clustering",
+              "Title of Conference": "National Conference on Soft Computing, Image Processing and Network Management",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "27-03-2008",
+              "End Date": "28-03-2008"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "A new marking scheme with Error detection to trace back IP Spoofing",
+              "Title of Conference": "National  Conference on Innovative Computational Intelligence and Security Systems",
+              "Organized by": "Sona College of Technology, Salem",
+              "Level": "National",
+              "Start Date": "02-02-2007",
+              "End Date": "03-02-2007"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "An Attack path construction algorithm with error detection for IP trace back",
+              "Title of Conference": "National Level Conference on EEA -2007",
+              "Organized by": "St. Joseph's College of Engineering, Chennai",
+              "Level": "National",
+              "Start Date": "31-01-2007",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Social Semantic Networked Desktop",
+              "Title of Conference": "National conference on Social benefits through Applications of IT",
+              "Organized by": "Kongu Engineering College,Perundurai",
+              "Level": "National",
+              "Start Date": "29-12-2006",
+              "End Date": "30-12-2006"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Supporting Health science Education with Multimedia Repository",
+              "Title of Conference": "National conference on Social benefits through Applications of IT",
+              "Organized by": "Kongu Engineering College,Perundurai",
+              "Level": "National",
+              "Start Date": "29-12-2006",
+              "End Date": "30-12-2006"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Multi-Relational Data Mining for Biological Applications",
+              "Title of Conference": "National conference on social benefits through Applications of  IT",
+              "Organized by": "Kongu Engineering College, Perundurai",
+              "Level": "National",
+              "Start Date": "29-12-2006",
+              "End Date": "30-12-2006"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "Rural Bazzar – Ideas for today’s problems for better future",
+              "Title of Conference": "National Conference on IT applications for Rural Development and Healthcare",
+              "Organized by": "Kongu Engineering College,Perundurai",
+              "Level": "National",
+              "Start Date": "03-03-2005",
+              "End Date": "04-03-2005"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "MANET'S and its Protocols",
+              "Title of Conference": "National Level Technical Paper Presentation Competition-2005",
+              "Organized by": "S.V. Institute of Computer Studies,Kadi",
+              "Level": "National",
+              "Start Date": "08-01-2005",
+              "End Date": "09-01-2005"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of Paper": "WI-FI",
+              "Title of Conference": "National conference on MobiComNet 2004",
+              "Organized by": "Vellore Institute of Technology, Deemed University",
+              "Level": "National",
+              "Start Date": "30-09-2004",
+              "End Date": "02-10-2004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "7th World Conference on Artificial Intelligence: Advances and Applications",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "National Forensic Sciences University,Goa Campus",
+              "Start Date": "30-01-2026",
+              "End Date": "31-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Recent Trends in Computing and Smart Mobility",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Maulana Azad National Institute of Technology",
+              "Start Date": "05-12-2025",
+              "End Date": "06-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "GATE EXAM 2026 - Training Schedule for CSE cluster",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "29-11-2025",
+              "End Date": "01-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Question Paper Scrutiny-End Semester Examination",
+              "Role": "Others",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Dr.N.G.P Institute of Technology,Coimbatore",
+              "Start Date": "09-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "MATLAB Certification Courses",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "15-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "International Journal of Electrical and Computer Engineering",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "12-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Session on Research Methodology",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Hindusthan College of Engineering and Technology",
+              "Start Date": "04-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "4th 2025 IEEE World Conference on Applied Intelligence and Computing",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IETE",
+              "Start Date": "26-07-2025",
+              "End Date": "27-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Demystifying Networking",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Start Date": "01-07-2025",
+              "End Date": "01-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "IEEE Sponsored International Conference on Advancements in Electrical Electronics  Communication Computing and Automation",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "Kumaraguru College of Technology!",
+              "Start Date": "04-04-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "2nd World Congress on Smart Computing",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Babu Banarasi University, Lucknow",
+              "Start Date": "22-02-2025",
+              "End Date": "23-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "CSIR & TNSCST sponsored International  Conference on Applied Mathematics  and  Computing",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Research Methodology",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Hindustan College of Engineering & Technology, Coimbatore",
+              "Start Date": "20-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "7th International Conference on Communication and Computational Technologies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "National Forensic Science University Goa Campus & Florida International University, Miami, (Springer)",
+              "Start Date": "14-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "National Level Technical Symposium",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "01-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "3rd Congress on Control, Robotics and Mechatronics",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "SR University, Warangal",
+              "Start Date": "01-02-2025",
+              "End Date": "02-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "International Conference on Information Technology and Artificial Intelligence",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Gurugram University, Gurgaon",
+              "Start Date": "24-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "The Journal of Super Computing",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Springer Nature",
+              "Start Date": "01-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "3rd International conference on Advances in Data-driven Computing and Intelligent Systems",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Bits Pilani, Goa",
+              "Start Date": "20-09-2024",
+              "End Date": "21-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "International  Conference on Sustainable Computing and Intelligent Systems",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "University of Canberra,  Australia",
+              "Start Date": "09-09-2024",
+              "End Date": "10-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "International Journal of Electrical and Computer Engineering",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Institute of Advanced Engineering and Science",
+              "Start Date": "10-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "2nd International Conference on Artificial Intelligence: Theory and Applications",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "ICFAI Business School, Bangalore",
+              "Start Date": "09-08-2024",
+              "End Date": "10-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "3rd 2024 IEEE world conference on Applied Intelligence and Computing",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Soft Computing Research Society",
+              "Start Date": "27-07-2024",
+              "End Date": "28-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Doctoral Committee member for External Research Scholar",
+              "Role": "DC Member",
+              "Level": "National",
+              "Organized by": "Anna University",
+              "Start Date": "19-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "5th International Conference on Data Science and Applications",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Malaviya National Institute of Technology, Jaipur",
+              "Start Date": "17-07-2024",
+              "End Date": "19-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "Design and Implementation of Human Computer Interfaces",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Start Date": "01-07-2024",
+              "End Date": "31-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.SHANTHAKUMARI",
+              "Department": "ITR",
+              "Title of the Program": "World Congress on Smart Computing",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Babu Banarasi University, Lucknow",
+              "Start Date": "08-06-2024",
+              "End Date": "09-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -99,15 +99,15 @@ const FacultyHero = ({ faculty, onMetricClick }) => {
           <div className="faculty-overview-grid">
             <div className="faculty-overview-item">
               <span className="faculty-overview-label">Qualification</span>
-              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.highestQualification || 'B.E., Ph.D.'}</span>
+              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.highestQualification || 'Ph.D.'}</span>
             </div>
             <div className="faculty-overview-item">
               <span className="faculty-overview-label">Date of Joining KEC</span>
-              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.dateOfJoining || '24-06-2009'}</span>
+              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.dateOfJoining || '—'}</span>
             </div>
             <div className="faculty-overview-item">
               <span className="faculty-overview-label">Teaching Experience</span>
-              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.teachingExperienceFormatted || '17+ Years'}</span>
+              <span className="faculty-overview-val" style={{ fontWeight: 400 }}>{faculty.teachingExperienceFormatted || '—'}</span>
             </div>
             <div className="faculty-overview-item">
               <span className="faculty-overview-label">Industry Experience</span>
@@ -119,7 +119,7 @@ const FacultyHero = ({ faculty, onMetricClick }) => {
             <div className="faculty-overview-label" style={{ marginBottom: 6 }}>Research Specializations</div>
             <div className="faculty-spec-pill" style={{ fontWeight: 400 }}>
               <span className="faculty-spec-dot"></span>
-              <span>{faculty.specialisation || 'Environmental Engineering'}</span>
+              <span>{faculty.specialisation || dept.name || 'Engineering'}</span>
             </div>
           </div>
 

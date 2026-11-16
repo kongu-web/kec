@@ -1,0 +1,678 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.JEGAN",
+              "Department": "EIR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Industrial Instrumentation, Control & Instrumentation",
+              "Date of joining in KEC": "11-06-2013",
+              "Mobile": "7598279706",
+              "E-mail": "vsjegan@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Academic Degree": "M.E",
+              "Specialization": "Control and Instrumentation Engineering",
+              "From": "02-09-2010"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electronics and Instrumentation Engineering",
+              "From": "02-08-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2020",
+              "End Date": "11-06-2025",
+              "Contribution to the Institute": "Assistant Professor (Senior Grade)"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-06-2013",
+              "End Date": "31-05-2020",
+              "Contribution to the Institute": "Assistant Professor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer, Cham",
+              "Level": "International",
+              "Title": "Design and Development of Sludge Removal in Boiler Using IOT for Dyeing Industries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "National",
+              "Title": "Advanced Automated Card Cutting and Counting System",
+              "Volume No": "",
+              "Issue No": "DOI: 10.1109/ICCMC65190.2025.11140670",
+              "Year": "2025",
+              "Date": "23-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "National",
+              "Title": "Automated Cleaning Systems for Glass Cups In Tea Shops",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-02-2025",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE XPLORE",
+              "Level": "National",
+              "Title": "Automatic Paneer Slicing in Dairy Industry using PLC",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-11-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Sivanaya Mills, Tirupur.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "30-01-2026",
+              "Date of Consultancy (To)": "24-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "26000"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Dhanalakshmi Screen Printing",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "07-02-2025",
+              "Date of Consultancy (To)": "19-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Sri Palaniyappa Dairy,Karur.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "11-04-2024",
+              "Date of Consultancy (To)": "24-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VC134-PLANT MODEL DEVELOPMENT AND SAFETY CONTROLS USING PROSIMULATOR",
+              "Collaboration/Sponsored by": "Sim Infosystems Pvt. Ltd. Chennai-41",
+              "Level": "Department",
+              "Start Date": "28-02-2026",
+              "End Date": "15-03-2026",
+              "Duration": "30 Hrs",
+              "Role played": "Coordinator",
+              "Venue": "Computer Center, EIE Department"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Research Challenges and Investigations for Betterment of Social Interactions and Communication Skills for Autistic Children",
+              "Collaboration/Sponsored by": "CSIR Sponsored National Seminar",
+              "Level": "National",
+              "Start Date": "04-03-2019",
+              "End Date": "05-03-2019",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of EIE, Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Energy saving solutions using advanced control techniques and hybrid systems",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-08-2013",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Department of EIE, Kongu Engineering College, Perundurai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Transducers for Instrumentation",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "Indian Institutte of Technology, Madras",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Measurement and Instrumentation",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "Indian Institute of Technology, Guwahati.",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Frontiers of Machine Learning and Deep Learning: Tools, Techniques, and Transformative Applications",
+              "Level": "National",
+              "Organized by": "Department of Information Technology,Aalim Muhammed Salegh College of Engineering",
+              "Place": "Chennai",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning for Advanced Process Control",
+              "Level": "National",
+              "Organized by": "Department of ICE,Manipal Institute of Technology.",
+              "Place": "Manipal",
+              "Start Date": "16-06-2025",
+              "End Date": "21-06-2025"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Competency Based Engineering Education",
+              "Level": "National",
+              "Organized by": "Department of EEE & Mechanical Engineering",
+              "Place": "Ramco Institute of Technology, Rajapalayam",
+              "Start Date": "10-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence in Education",
+              "Level": "National",
+              "Organized by": "St.Xavier's Catholic College of Engineering",
+              "Place": "Nagercoil",
+              "Start Date": "24-06-2024",
+              "End Date": "29-06-2024"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Resource Management, Security & Architecting with Cloud",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai, Erode",
+              "Start Date": "03-05-2024",
+              "End Date": "04-05-2024"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning Techniques for Social Media Analytics",
+              "Level": "International",
+              "Organized by": "University of Technology and Applied Science & Kongu Engineering College",
+              "Place": "Oman & Erode",
+              "Start Date": "15-04-2024",
+              "End Date": "20-04-2024"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "The Science of Happiness and Wellbeing",
+              "Level": "Online",
+              "Organized by": "AICTE",
+              "Place": "Indian Institute of Technology, Kharagpur.",
+              "Start Date": "22-01-2024",
+              "End Date": "15-03-2024"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Applications of Quantum Computing in Design and Implementation",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "11-12-2023",
+              "End Date": "16-12-2023"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Machine Learning concepts for modeling and control of Nonlinear Systems",
+              "Level": "National",
+              "Organized by": "Department of ICE, Manipal Institute of Technology",
+              "Place": "Manipal",
+              "Start Date": "27-06-2022",
+              "End Date": "29-06-2022"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Control SYstem",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology(IIT)",
+              "Place": "Kharagpur",
+              "Start Date": "02-12-2014",
+              "End Date": "12-12-2014"
+            },
+            {
+              "Name of Faculty": "S.JEGAN",
+              "Department": "EIR",
+              "Select Programme": "Others",
+              "Title of the program": "Classical and Digital Control Design with MATLAB/SIMULINK",
+              "Level": "National",
+              "Organized by": "Indian Institute of Space Science and Technology",
+              "Place": "Thiruvananthapuram.Kerala.",
+              "Start Date": "17-06-2014",
+              "End Date": "20-06-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

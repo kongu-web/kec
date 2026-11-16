@@ -1,0 +1,997 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "D.YUVARAJ",
+              "Department": "CDR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "MACHINE LEARNING, DEEP LEARNING",
+              "Date of joining in KEC": "07-06-2023",
+              "Mobile": "9787804057",
+              "E-mail": "yuvrajbee@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "07-06-2010"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Academic Degree": "B.E",
+              "Specialization": "CSE",
+              "From": "21-07-2004"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Academic Degree": "HSC",
+              "Specialization": "BIOLOGY",
+              "From": "02-06-2003"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Academic Degree": "SSLC",
+              "Specialization": "MATHS",
+              "From": "04-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "07-06-2023",
+              "End Date": "27-10-2025",
+              "Contribution to the Institute": "Placement Coordinator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "08-06-2020",
+              "End Date": "02-05-2023",
+              "Duration": "1 YR 11 MONTHS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-D.YUVARAJ-67802c55-c694-4429-b5a3-07d6c14e38b4.PDF?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=cc5677fffad8435b04e2429aac043fe249b66d0513d5947b38b7450d42ad3556",
+                  "name": "Yuvaraj D Appointment Order.BIT.PDF",
+                  "totalRecords": null,
+                  "resourceId": "cutE7TrFmtYdwjFKm",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-D.YUVARAJ-5512303e-445c-4860-b6be-0ba387dfd7f0.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=563a67cb8a38eac94cb36d8a3e6999a11a6953260569eed80f4869e1b8369252",
+                  "name": "13.2. Service and Salary Certificate- BIT.pdf",
+                  "totalRecords": null,
+                  "resourceId": "MxeFiZwMfWLFHPdgH",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SNS COLLEGE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "18-06-2018",
+              "End Date": "30-04-2020",
+              "Duration": "1. 8 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-D.YUVARAJ-6714b3c4-2604-4f1d-8313-fd4aa0003afb.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=544ddb16f518b5f0e4b134963e6ea1a7ca2c18e1a15a6432a87fd34cc9a8c8e5",
+                  "name": "8. Service Certificate SNS.pdf",
+                  "totalRecords": null,
+                  "resourceId": "eiRANL2HxhTdKtXno",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SHREE VENKATESHWARA HI-TECH ENGINEERING COLLEGE",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "13-06-2012",
+              "End Date": "12-05-2018",
+              "Duration": "5.11 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-D.YUVARAJ-3f056b8b-edf2-4617-b269-2b27fd00da0f.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9597e8d99a1aa838058bda93076316beecf508c3681fed07a46648e121eb4095",
+                  "name": "7. Yuvaraj Service SVHEC.pdf",
+                  "totalRecords": null,
+                  "resourceId": "CnhF8AFvvE4CGXPQv",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "ERODE SENGUTHAR ENGINEERING COLLEGE",
+              "Position/Designation": "LECTURER",
+              "Start Date": "20-08-2008",
+              "End Date": "30-04-2010",
+              "Duration": "1.8 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-D.YUVARAJ-a8f03beb-1aaf-40d8-aca9-1f3b95920c90.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2290b786f8700d885ee1b987e337eff10a730f09c98a0a9ce6f9ec5cd9f07003",
+                  "name": "Yuvaraj ESEC Service Certificate.jpg.pdf",
+                  "totalRecords": null,
+                  "resourceId": "y3sZuSiRkvMRpP5Eb",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of Award/Achievement": "IDEATHON WINNERS",
+              "Level": "National",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "KEC",
+              "Date": "08-09-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of Award/Achievement": "FACULTY MENTOR",
+              "Level": "International",
+              "Awarded by": "Intel & Edgate Technologies Pvt., Ltd.",
+              "Place": "KEC",
+              "Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of Award/Achievement": "BEST INSTRUMENTOR",
+              "Level": "National",
+              "Awarded by": "NXT WAVE",
+              "Place": "TELUNGANA",
+              "Date": "22-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS-2026)",
+              "Level": "International",
+              "Title": "Lightweight Blockchain-Enabled Differential\n\nPrivacy For Health-Iot Analytics",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "26-05-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Computing, Communication, Control and Cyber-Physical Systems (I5CPS)",
+              "Level": "International",
+              "Title": "Multimodal EV Battery Health Prediction Using Time-Series Sensor Fusion and Graph Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-03-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "EEG Emotion Recognition in Brain Computer Interface Through Neural Networks and Adaptive Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "03-03-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)- IEEE",
+              "Level": "International",
+              "Title": "Contextual Sentimental Analysis with Emojis using Sequential Deep Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "14-01-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 2nd International Conference on Computing and Data Science (ICCDS)",
+              "Level": "International",
+              "Title": "EEG-Based Emotion Detection: Exploring Brain Wave Patterns with Transformer Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "03-11-2025",
+              "Published at": "Scopus"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 First International Conference on Software, Systems and Information Technology (SSITCON)",
+              "Level": "International",
+              "Title": "Innovative Skin Melanoma Diagnosis using Deep Learning and African Gorilla Troops Optimizer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "20-12-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Advances in Information Technology (ICAIT)",
+              "Level": "International",
+              "Title": "Emotion Recognition in Real Time for Personalized Healthcare Using Digital Twin Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-10-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Circuit Power and Computing Technologies (ICCPCT)",
+              "Level": "International",
+              "Title": "Fruits Freshness Recognition System by Manipulating Versatile Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "22-09-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2010 The 2nd International Conference on Computer and Automation Engineering (ICCAE)",
+              "Level": "International",
+              "Title": "An New Secure Mechanism for Bluetooth Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2010",
+              "Date": "19-04-2010",
+              "Published at": "IEEE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "SRI AMMAN KNITS ,ANGERIPALAYAM, TRIPUR",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "DESIGNING",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "29-12-2026",
+              "Date of Consultancy (To)": "03-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "TEXTILE E-COMMERCE MANAGEMENT SYSTEM",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "DESIGN",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "23-01-2026",
+              "Date of Consultancy (To)": "20-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "SHANAA DESIGN STUDIO ,28,SARADA COLLEGE ROAD, SALEM-63600",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "DESIGN",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "24-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "BOGAN TILES & INTERIORS ,NAMAKKAL",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "DESIGN",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-01-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "BREP ARCHITECTURE AND DESIGN STUDIO",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "DESIGN",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "17-01-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "CDAC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "RESEARCH",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "24-06-2024",
+              "Date of Consultancy (To)": "28-06-2024",
+              "Revenue Generated (amount in Rupees without GST)": "40231"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on Training on 3D Modeling and Texturing in Blender",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "23-08-2024",
+              "End Date": "23-08-2024",
+              "Duration": "4 Hours",
+              "Role played": "Coordinator",
+              "Venue": "KONGU ENGINEERING COLLEGE"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Event": "FDP",
+              "Name of Event": "3D MODELLING AND TEXTURING USING BLENDER",
+              "Collaboration/Sponsored by": "CDAC",
+              "Level": "National",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024",
+              "Duration": "5 Days`",
+              "Role played": "Others",
+              "Venue": "KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "OBE AND ACCREDITATION",
+              "Level": "National",
+              "Organized by": "NPTEL_AICTE",
+              "Place": "Online",
+              "Start Date": "17-07-2026",
+              "End Date": "27-10-2026"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Development Program on Mastering DevOps",
+              "Level": "National",
+              "Organized by": "HCL GUVI",
+              "Place": "KEC",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Emotional Intelligence",
+              "Level": "National",
+              "Organized by": "NPTEL -AICTE-IIT",
+              "Place": "Kharagpur",
+              "Start Date": "13-01-2025",
+              "End Date": "16-04-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMOTIONAL INTELLIGENCE",
+              "Level": "Online",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "DELHI",
+              "Start Date": "06-01-2025",
+              "End Date": "30-03-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLGY",
+              "Place": "Sunguvarchatram",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEXT GEN EDUCATORS: HARNESSING THE POWER OF MACHINE LEARNING",
+              "Level": "National",
+              "Organized by": "JEPPIAAR  INSTITUTE OF TECHNOLGY",
+              "Place": "KUNNAM",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "LM143622",
+              "Level": "National",
+              "Start Date": "09-07-2026",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "Symptom-based Primary Disease Predcition Using Machine Learning with Tamil Knowledge Base and Lifestyle Advice",
+              "Title of Conference": "International Conference on Computational and Cognitive Systems Science (ICCCSS'25)",
+              "Organized by": "School of Computing, Rathimnam Technical Campus, Coimbatore",
+              "Level": "International",
+              "Start Date": "30-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "EEG-Based Emotion Detection: Exploring Brain Wave Patterns with Transformer Networks",
+              "Title of Conference": "2nd International Conference on Computing & Data Science (ICCDS-2025)",
+              "Organized by": "Computer Science and Engineering",
+              "Level": "International",
+              "Start Date": "25-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "EEG-Based Emotion Detection: Exploring Brain Wave Patterns with Transformer Networks",
+              "Title of Conference": "2nd International Conference on Computing and Data Science (ICCDS-2025)",
+              "Organized by": "Computer Science and Engineering",
+              "Level": "International",
+              "Start Date": "25-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "EEG-Based Emotion Detection: Exploring Brain Wave Patterns with Transformer Networks",
+              "Title of Conference": "2nd International Conference on Computing and Data Science (ICCDS-2025)",
+              "Organized by": "Department of Computer Science and Engineering, Rajalakshmi Engineering College",
+              "Level": "International",
+              "Start Date": "25-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "DEEP FEATURE DRIVEN CO LEARNING TECHNIQUE FOR IMPROVED LUNG CARCINOMA DETECTION",
+              "Title of Conference": "FIFTH INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND SMART COMPUTING (ICAISC '25)",
+              "Organized by": "DEPARTMENT OF CSE,AIML,CSD & CSBS",
+              "Level": "International",
+              "Start Date": "20-03-2025",
+              "End Date": "22-03-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "SUGARCANE LEAF DISEASE DETECTION AND REMEDY RECOMMENDATION USING YOLOv8 AND LLM",
+              "Title of Conference": "INTERNATIONAL CONFERECNE ON INTELLIGENT SYSTEMS AND CONTROL (ISCO 2025)",
+              "Organized by": "KARPAGAM COLLEGE OF ENGINEERING",
+              "Level": "International",
+              "Start Date": "13-02-2025",
+              "End Date": "14-02-2025"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "INNOVATIVE SKIN MELANOMA DIAGONISIS USING DEEP LEARNING AND  AFRICA GORILLA TROOPS OPTIMIZER",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON SOFTWARE,SYSTEMS AND INFORMATION TECHNOLOGY (SSITCON '24)",
+              "Organized by": "DEPARTMENT OF CSE & IT",
+              "Level": "International",
+              "Start Date": "18-10-2024",
+              "End Date": "19-10-2024"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "Innovative Skin Melanoma Diagnosis using Deep Learning and African Gorilla Troops Optimizer",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON SOFTWARE,SYSTEMS AND INFORMATION TECHNOLOGY (SSITCON '24)",
+              "Organized by": "Computer Science and Engineeirng",
+              "Level": "International",
+              "Start Date": "18-10-2024",
+              "End Date": "19-10-2024"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "EMOTION RECOGNITION IN REAL TIME FOR PERSONALIZED HEALTHCARE USING DIGITAL TWIN APPROACH",
+              "Title of Conference": "2024 Second International Conference on Advances in Information Technology (ICAIT)",
+              "Organized by": "DEPARTMENT OF CSE",
+              "Level": "International",
+              "Start Date": "24-07-2024",
+              "End Date": "27-07-2024"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "Comparative Analysis of Programming Laguages in Socket Programming",
+              "Title of Conference": "1st International Conference on Cyberguard Summit:Fortifying the Digital Frontier",
+              "Organized by": "Computer Science and Engineering (Cyber Security)",
+              "Level": "International",
+              "Start Date": "25-04-2024",
+              "End Date": "25-04-2024"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of Paper": "INTEGRATED MANAGEMENT PLATFORM TO STREAMLINE CUSTOMERS, VENDORS AND EMPLOYEES USING SAP",
+              "Title of Conference": "3rd Internation Conference on Artificial Intelligence and Smart Computing (ICAISC-2023)",
+              "Organized by": "Computer Science and Engineering",
+              "Level": "International",
+              "Start Date": "09-03-2023",
+              "End Date": "11-03-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "THE SMART SHOES FOR DIABETIC PATIENT",
+              "Name of Application": "ORDINARY APPLICATION",
+              "Co-inventors Name": "P.PARTHASARATHI",
+              "Application Number": "202241032162",
+              "Date of Registration": "06-06-2022",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "08-12-2023"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "INFANT SMART SLEEPING CHAMBER",
+              "Name of Application": "ORDINARY APPLICATION",
+              "Co-inventors Name": "PARTHASARATHI P , CHANDRU K S, NIVEDHA S",
+              "Application Number": "202141008878",
+              "Date of Registration": "03-03-2021",
+              "Application Status": "Applied",
+              "Granted Date": "",
+              "Published Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of the Program": "Quantum Fest 2026",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Department of Computer Technology- PG",
+              "Start Date": "14-08-2026",
+              "End Date": "14-08-2026"
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of the Program": "Game Design and Modeling using Blender",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Shree Venkateshwara Arts & Science (Co-Ed) College",
+              "Start Date": "15-07-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of the Program": "Design Thinking and Innovation",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Dept. of CSE(AIML), Paavai Engineering College",
+              "Start Date": "12-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "D.YUVARAJ",
+              "Department": "CDR",
+              "Title of the Program": "Mobile Game Development",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Nandha Arts and Science College",
+              "Start Date": "05-12-2025",
+              "End Date": "05-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

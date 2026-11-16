@@ -1,0 +1,782 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "C.KARTHIKA",
+              "Department": "PHR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Molecular electronics, DFT",
+              "Date of joining in KEC": "05-08-2015",
+              "Mobile": "9791211430",
+              "E-mail": "email2karthika@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Physics",
+              "From": "03-08-2009"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Physics",
+              "From": "01-06-2007"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Physics",
+              "From": "01-06-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "08-05-2015",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "EBET",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-06-2012",
+              "End Date": "31-07-2015",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-PHR-C.KARTHIKA-98704297-a200-4ae9-951e-225f3ee636c2.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=669ecac5a38a72aac73855300df97590b0e28a17e758123c0bd715ce97c8b949",
+                  "name": "EBET Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "Fkcpd3pXxyowCj5v9",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Modeling",
+              "Level": "International",
+              "Title": "DFT study of charge transport in 2,5?bis(thiophen?2?ylethynyl) thiophene: effect of sulfur and nitrogen linkers in Au–molecule–Au junctions",
+              "Volume No": "32",
+              "Issue No": "7",
+              "Year": "2026",
+              "Date": "26-06-2026",
+              "Published at": "Journal of Molecular Modeling, Springer Nature, Germany"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Drug Delivery Technology",
+              "Level": "International",
+              "Title": "Utilizing plant extracts for the green synthesis and characterization of silver nanoparticles",
+              "Volume No": "16",
+              "Issue No": "3S",
+              "Year": "2026",
+              "Date": "05-03-2026",
+              "Published at": "International Journal of Drug Delivery Technology, Prachi Publishers, India"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "A Novel Approach for Real Time Implementation of Textile Cone Defect Detection Using Computer Vision Techniques",
+              "Volume No": "NA",
+              "Issue No": "NA",
+              "Year": "2024",
+              "Date": "04-11-2025",
+              "Published at": "2024 15th International Conference on Computing, Communication and Networking Technologies (ICCCNT 2024), IEEE, Kamand, Himachal Pradesh, India"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Zoological Investigations",
+              "Level": "International",
+              "Title": "Evaluation of Ocimum sanctum's Leaves Extract for Antibacterial Effect",
+              "Volume No": "10",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "02-06-2024",
+              "Published at": "International Journal of Zoological Investigations Saran Publications, Gorakhpur, Uttar Pradesh, India"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Indian Journal of Chemistry - Section A (IJCA)",
+              "Level": "National",
+              "Title": "A DFT approach to analyze charge transfer path through trans and cis isomers of azobenzene",
+              "Volume No": "60A",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "01-05-2021",
+              "Published at": "Indian Journal of Chemistry, Section A CSIR – National Institute of Science Communication and Policy Research (NIScPR), New Delhi, India"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Croatica Chemica Acta",
+              "Level": "International",
+              "Title": "A DFT Study on the Efficacy of Linking Agents\n(Sulfur and Nitrogen) to Connect Trans-azobenzene\nSandwiched Between Two Gold Electrodes",
+              "Volume No": "93",
+              "Issue No": "2 (2020)",
+              "Year": "2020",
+              "Date": "11-02-2021",
+              "Published at": "Croatica Chemica Acta, Croatian Chemical Society, Zagreb, Croatia."
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP conference proceedings",
+              "Level": "International",
+              "Title": "A Charge Density Study to Explore the Effect of Au and Pt\nAtoms in Thiol Substituted Oligo (Phenylene ethynylene)\nMolecular Nanowires",
+              "Volume No": "2142",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "29-08-2019",
+              "Published at": "AIP Conference Proceedings, Volume 2142, Article 110009, American Institute of Physics (AIP Publishing), USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Type of Event": "FDP",
+              "Name of Event": "AICTE approved 8-day face to face FDP on UHV-II",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-05-2026",
+              "End Date": "14-05-2026",
+              "Duration": "8 days",
+              "Role played": "Joint Coordinator",
+              "Venue": "Dr.Sarvepalli Radhakrishnan Seminar Hall, IT Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "QT-00&01 Foundation of Quantum Computing and Application",
+              "Level": "National",
+              "Organized by": "Consortium of Electronics and ICT academies/ MeitY/AICTE/IBM",
+              "Place": "online",
+              "Start Date": "17-08-2026",
+              "End Date": "12-09-2026"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "8 dyas face-to -face UHV-II  FDP",
+              "Level": "National",
+              "Organized by": "AICTE & KEC",
+              "Place": "KEC",
+              "Start Date": "07-05-2026",
+              "End Date": "14-05-2026"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "An Introduction to Lasers and Laser Systems",
+              "Level": "Online",
+              "Organized by": "IIT Bombay",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial training",
+              "Level": "National",
+              "Organized by": "Chennai Mettex Lab",
+              "Place": "Erode",
+              "Start Date": "03-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling and Data-Driven Approaches",
+              "Level": "National",
+              "Organized by": "Dpt of Mathematics, KEC",
+              "Place": "KEC",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "UHV",
+              "Level": "National",
+              "Organized by": "FDTC, GCT",
+              "Place": "Coimbatore",
+              "Start Date": "24-11-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NPTEL-Physics of Renewable Energy Systems",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "11-10-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Nanotechnology in Environmental Sustainability for Tomorrow",
+              "Level": "Online",
+              "Organized by": "Velammal college of Engineering and Technology",
+              "Place": "Madurai",
+              "Start Date": "01-04-2025",
+              "End Date": "05-04-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Frontiers in Material Science",
+              "Level": "Online",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "17-03-2025",
+              "End Date": "27-03-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Developments and Applications in Advanced Materials",
+              "Level": "Online",
+              "Organized by": "St.Joseph College of Engineering",
+              "Place": "Chennai",
+              "Start Date": "03-03-2025",
+              "End Date": "09-03-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "IIT Guwahati",
+              "Place": "",
+              "Start Date": "17-02-2025",
+              "End Date": "15-03-2025"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Materials for Energy Applications",
+              "Level": "Online",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "09-10-2023",
+              "End Date": "13-10-2023"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Science and Technology",
+              "Level": "Online",
+              "Organized by": "Mohamed Sathak A.J. College of Engineering",
+              "Place": "",
+              "Start Date": "17-07-2023",
+              "End Date": "21-07-2023"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Reasearch in Materials Physics & Nano Devices",
+              "Level": "Online",
+              "Organized by": "Rajapalayam Rajus' College",
+              "Place": "Rajapalayam",
+              "Start Date": "21-11-2022",
+              "End Date": "25-11-2022"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Trends in Applied Science and Technology",
+              "Level": "Online",
+              "Organized by": "Nehru Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "21-09-2021",
+              "End Date": "27-09-2021"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advances in Materials & Manufacturing",
+              "Level": "Online",
+              "Organized by": "SJM Institute of Technology",
+              "Place": "Chitradurga",
+              "Start Date": "12-07-2021",
+              "End Date": "16-07-2020"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Laser: Fundamentals and Applications",
+              "Level": "National",
+              "Organized by": "IIT Kanpur",
+              "Place": "",
+              "Start Date": "14-01-2019",
+              "End Date": "09-03-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of Paper": "REAL TIME IMPLEMENTATION OF TEXTILE CONE DEFECT DETECTION USING COMPUTER VISION TECHNIQUES",
+              "Title of Conference": "5th International IEEE conference on Computing, Communication and Networking Technologies",
+              "Organized by": "IIT Himachal Pradesh",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of Paper": "A Quantum Charge Density Study to Ex;lore Bond Topological and Electrostatic Properties of N-(4-nitro-2,5-bis(phenylethynyl)phenyl)acetamide Molecule",
+              "Title of Conference": "International conference on Energy, Environment and Advanced Materials for Sustainable Future",
+              "Organized by": "Kongu Engineering College, Perundurai",
+              "Level": "International",
+              "Start Date": "15-07-2021",
+              "End Date": "16-07-2021"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of Paper": "A Charge Density Study to Explore the Effect of Au and Pt Atoms in Thiol Substituted Oligo (Phenylene ethynylene) Molecular Nanowires",
+              "Title of Conference": "International Conference on Advances in Basic Sciences ICABS19",
+              "Organized by": "G.D.C.Memorial College, Bahal (Bhiwani), Hariyana, India",
+              "Level": "International",
+              "Start Date": "07-02-2019",
+              "End Date": "09-02-2019"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of Paper": "National conference on Advanced Materials, Science and TechnologynICAMST-2017",
+              "Title of Conference": "National conference on Advanced Materials, Science and TechnologynICAMST-2017",
+              "Organized by": "Bannari Amman Institute of Technology, Sathy",
+              "Level": "National",
+              "Start Date": "17-08-2017",
+              "End Date": "19-08-2017"
+            },
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of Paper": "Influence of external electric field over the trans and cis isomers of Azobenzene-A theoretical study using DFT.",
+              "Title of Conference": "4th National conference on Frontiers in applied sciences and computer technology",
+              "Organized by": "NIT, Trichy",
+              "Level": "National",
+              "Start Date": "18-03-2016",
+              "End Date": "19-03-2016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.KARTHIKA",
+              "Department": "PHR",
+              "Title of the Program": "Indian Journal of Engineering Science and Technology",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "31-08-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

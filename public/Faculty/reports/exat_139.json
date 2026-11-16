@@ -1,0 +1,817 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.SURESH",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "07-09-2010",
+              "Mobile": "9943624414",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Academic Degree": "PhD",
+              "Specialization": "Intuitionistics Fuzzy Optimization Techniques",
+              "From": "03-03-2017"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Academic Degree": "MPhil",
+              "Specialization": "Mathematics",
+              "From": "05-04-2008"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Academic Degree": "MSc",
+              "Specialization": "Mathematics",
+              "From": "03-04-2006"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Academic Degree": "BSc",
+              "Specialization": "Mathematics",
+              "From": "05-04-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Name of Position": "Deputy COE",
+              "Level": "Institution",
+              "Start Date": "04-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Name of Position": "Others",
+              "Level": "Institution",
+              "Start Date": "01-06-2020",
+              "End Date": "",
+              "Contribution to the Institute": "Time Table Co-ordinator"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Name of Position": "Others",
+              "Level": "Institution",
+              "Start Date": "05-10-2018",
+              "End Date": "",
+              "Contribution to the Institute": "Examination Section"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "07-09-2010",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Name of Award/Achievement": "Certificate of Excellence in Reviewing",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "08-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Evolutionary Intelligence",
+              "Level": "International",
+              "Title": "Multi-criteria decision making in linguistic values of neutrosophic trapezoidal fuzzy multi-numbers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "08-02-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Granular Computing",
+              "Level": "International",
+              "Title": "Multi-criteria decision making based on ranking of neutrosophic trapezoidal fuzzy numbers",
+              "Volume No": "6",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "01-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computational Intelligence",
+              "Level": "International",
+              "Title": "Solution of intuitionistic fuzzy linear programming problem by dual simplex algorithm and sensitivity analysis",
+              "Volume No": "37",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "08-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Fuzzy Extension and Applications",
+              "Level": "International",
+              "Title": "A New Approach for Ranking of Intuitionistic Fuzzy Numbers",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "26",
+              "Date": "12-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-III",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "03-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-II",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "03-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-I",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "04-10-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-II",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-06-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-I",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "01-06-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Pearson India Education",
+              "Level": "National",
+              "Title": "Engineering Mathematics-III",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "01-06-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "VSRD International Journal of Technical & Non-Technical Research",
+              "Level": "International",
+              "Title": "A Method to Solve Fully Intuitionistic Fuzzy Assignment Problem",
+              "Volume No": "7",
+              "Issue No": "4",
+              "Year": "2016",
+              "Date": "07-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Science and Humanities",
+              "Level": "International",
+              "Title": "A Solution of Intuitionistic Fuzzy Transportation Problem",
+              "Volume No": "6",
+              "Issue No": "8",
+              "Year": "2016",
+              "Date": "07-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mathematical Sciences",
+              "Level": "International",
+              "Title": "A new approach for ranking of intuitionistic fuzzy numbers using a centroid concept",
+              "Volume No": "10",
+              "Issue No": "4",
+              "Year": "2016",
+              "Date": "12-02-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Intelligent &Fuzzy Systems",
+              "Level": "International",
+              "Title": "Solving Intuitionistic Fuzzy Linear Programming Problems By Ranking Function",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "25-12-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Type of Event": "",
+              "Name of Event": "International Conference on “Applied Mathematics and Informatics”",
+              "Collaboration/Sponsored by": "INSA",
+              "Level": "International",
+              "Start Date": "17-03-2017",
+              "End Date": "18-03-2017",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National Seminar on “Mathematical Modeling & Simulation of Genetic Regulatory Networks”",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "14-12-2012",
+              "End Date": "15-12-2012",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National Seminar on \"Integration of Neural Networks Genetic Algorithms & Fuzzy Systems\"",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "30-12-2011",
+              "End Date": "31-12-2011",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-08-2026",
+              "End Date": "21-08-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "Seminar",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "28-07-2026",
+              "End Date": "30-07-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools:Computational Math, Modeling and Data-Driven Approaches",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "14-10-2024",
+              "End Date": "18-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-08-2024",
+              "End Date": "10-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-07-2024",
+              "End Date": "02-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-07-2024",
+              "End Date": "15-07-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Title of the Program": "CSIR Sponsored Two days workshop on \" Fuzzy Mathematics and ite Engineering Applications\"",
+              "Role": "Keynote Address",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "26-03-2026",
+              "End Date": "27-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SURESH",
+              "Department": "MAR",
+              "Title of the Program": "Asian Journal of Pure and Applied Mathematics",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "02-01-2026",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "MAR",
+              "Name of Supervisor": "DR.M.SURESH",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Ms.K.Buvaneswari",
+              "Date of Registration": "",
+              "Registration No:": "25247697180",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

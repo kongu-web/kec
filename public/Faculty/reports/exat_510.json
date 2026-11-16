@@ -1,0 +1,852 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "CSE",
+              "Date of joining in KEC": "11-06-2025",
+              "Mobile": "6382009039, 9842691002 (WHATSAPP)",
+              "E-mail": "aruncsesvs@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "22-06-2009"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "CSE",
+              "From": "08-08-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2026-2027 Odd Sem",
+              "Specialization": "OBE and Accreditation",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2025-2026 Even",
+              "Specialization": "Introduction to Internet of Things",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K.S.RANGASAMY COLLEGE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "14-02-2022",
+              "End Date": "06-06-2025",
+              "Duration": "3.6",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-R.ARUNKUMAR-4b4c52c3-e2ce-44bf-98a6-c56c2319469c.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=13c720585e5d6e16370a469e669d082a22151752fe68bbfb80ac359172711087",
+                  "name": "KSR Appointment .pdf",
+                  "totalRecords": null,
+                  "resourceId": "Se3kE9Q6ekzKDpywq",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-R.ARUNKUMAR-84fcc786-d7bb-4fb5-bdf8-3b870e97a955.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c8f952a61f191eaa44f278eead14f1487ee2b029b89e3050d9cb180e899dd543",
+                  "name": "ARUN-KSRCT EXPERIENCE CERT.png",
+                  "totalRecords": null,
+                  "resourceId": "LjByr3TiA4R62PruA",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SVS COLLEGE OF ENGINEERING",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "03-05-2011",
+              "End Date": "31-07-2021",
+              "Duration": "10.2",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-R.ARUNKUMAR-c5e9cff4-c3ce-4bb6-adce-68b8d70f41e8.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2bebd22d36935c82f1f40ff232162c6ceb22902ed355a4c493f3254a42c1c4cc",
+                  "name": "7.Arunkumar.jpg",
+                  "totalRecords": null,
+                  "resourceId": "w9rJptAybyAxcMBwf",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-AI-R.ARUNKUMAR-49d22de1-e004-49d8-9209-80f1478d5798.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=09e6d2d6ff4cb52682945fdcd458fc75fdeed74f82e1c57526da4683d5b286eb",
+                  "name": "R.Arunkumar-IT-SVS Service Certi.jpg",
+                  "totalRecords": null,
+                  "resourceId": "3Ro9DKsGZiSdr5QKc",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Name of Award/Achievement": "BEST PAPER AWARD",
+              "Level": "National",
+              "Awarded by": "PAAVAI ENGINEERING COLLEGE",
+              "Place": "NAMAKKAL",
+              "Date": "15-10-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "AI-Powered Image Captioning with Voice Narration and Regional Language Support",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Deep Learning Approaches to Real-Time Sign Language Recognition and Bidirectional Communication",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Blockchain based System for Secure Data \nSharing in Healthcare",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "19-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Adaptive Network Intrusion Detection Using Fine-Tuned Random Forest with PCA",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Enhanced Wildfire Detection in Forest Areas via OPENCV with Deep Convolutional Neural Networks for Smoke and Flame Segmentation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "09-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "HYBRID SVM APPROACH FOR ENHANCED DDOS ATTACK DETECTION USING MACHINE LEARNING IN CLOUD ENVIRONMENT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "07-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Predictive Modeling of Lung Cancer using\nSupport Vector Machine",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Population Therapeutics & Clinical Pharmacology",
+              "Level": "International",
+              "Title": "A Framework to Detect Digital Text Using OCR Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "e265",
+              "Date": "10-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Eur. Chem. Bull",
+              "Level": "International",
+              "Title": "BINARY SCHOOL ZONE AND HOSPITAL ZONE VEHICLE SPEED CONTROLLER USING RF TX RX",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "10-04-2023",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Surya Systems",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development - Web Application",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "35400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on Training on Mobile Application Development Using Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "28-03-2026",
+              "End Date": "28-03-2026",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on Training on Data Visualization and Analytics Using Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "27-02-2026",
+              "End Date": "27-02-2026",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "AI Application Development Using FAST API, STREAMLIT and AWS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "25-01-2026",
+              "End Date": "15-03-2026",
+              "Duration": "4 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Event": "Value added courses",
+              "Name of Event": "NFC - Mobile Application Development Using Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 Hours",
+              "Role played": "Others",
+              "Venue": "KEC - AI Block"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Event": "Value added courses",
+              "Name of Event": "NFC - ML and DL using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-08-2025",
+              "End Date": "25-09-2025",
+              "Duration": "30 Hours",
+              "Role played": "Others",
+              "Venue": "KEC - AI Block"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Generation AI: Generative and Agentic Systems",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "15-06-2026",
+              "End Date": "20-06-2026"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "International",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "Workshop",
+              "Title of the program": "Mobile Application Development using Flutter and Firebase",
+              "Level": "National",
+              "Organized by": "VPS Code Builders Private Limited",
+              "Place": "Kongu Engineering College",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Python 3.4.3",
+              "Level": "National",
+              "Organized by": "Thiagarajar College of Engineering",
+              "Place": "Madurai",
+              "Start Date": "22-09-2025",
+              "End Date": "27-09-2025"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Role of Artificial Intelligence and Machine Learning in Smart Grids",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "INDIAN INSTITUTE OF TECHNOLOGY PATNA",
+              "Start Date": "22-09-2025",
+              "End Date": "27-09-2025"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Medical Healthcare using Augmented Reality and Virtual Reality",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "GNANAMANI COLLEGE OF TECHNOLOGY",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "AI and ML: Pioneering Solutions for Next-Gen Networks - Tackling 5G and 6G Challenges",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "AL-AMEEN ENGINEERING COLLEGE",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Design Thinking approach and Innovative Practices in Biomedical Additive Manufacturing",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "VIVEKANANDHA COLLEGE OF ENGINEERING FOR WOMEN",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "I and Machine Learning for Chip Design",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "MUTHAYAMMAL ENGINEERING COLLEGE",
+              "Start Date": "11-12-2023",
+              "End Date": "16-12-2023"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "DESIGN THINKING on STRATEGIC DEVELOPMENT GOALS(SDG)",
+              "Level": "National",
+              "Organized by": "AICTE ATAL",
+              "Place": "VIVEKANANDHA COLLEGE OF ENGINEERING FOR WOMEN",
+              "Start Date": "27-11-2023",
+              "End Date": "02-12-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Name of the Professional Body/Society": "THE INSTITUTION OF ENGINEERS (INDIA) (IEI)",
+              "Position": "ASSOCIATE MEMBERS",
+              "Level": "National",
+              "Start Date": "09-03-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Name of the Professional Body/Society": "The Indian Society for Technical Education (ISTE)",
+              "Position": "LIFE TIME MEMBERSHIP",
+              "Level": "National",
+              "Start Date": "09-05-2012",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Smart Patient Monitoring and Management System: Integrating IoT and RFID for Enhanced Healthcare Solutions",
+              "Name of Application": "K.S.Rangasamy College of Technology",
+              "Co-inventors Name": "Mr.R.Arunkumar",
+              "Application Number": "202441093987 A",
+              "Date of Registration": "30-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "13-12-2024"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "STEALTH GUARD",
+              "Name of Application": "K.S.RANGASAMY COLLEGE OF TECHNOLOGY",
+              "Co-inventors Name": "Mr.Arunkumar.R",
+              "Application Number": "202441093956 A",
+              "Date of Registration": "30-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "R.ARUNKUMAR",
+              "Department": "AI",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "System and Method for Cattle Identification Using Biometric Muzzle Pattern Recognition through Deep Learning",
+              "Name of Application": "K.S.Rangasamy College of Technology",
+              "Co-inventors Name": "Mr.R.Arunkumar",
+              "Application Number": "202441093940 A",
+              "Date of Registration": "30-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "13-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

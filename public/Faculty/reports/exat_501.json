@@ -1,0 +1,982 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "T.SATHYA",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Image Processing,VLSI",
+              "Date of joining in KEC": "09-06-2025",
+              "Mobile": "9976609151",
+              "E-mail": "sathyat.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Academic Degree": "ME",
+              "Specialization": "Applied Electronics",
+              "From": "01-09-2011"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Academic Degree": "BE",
+              "Specialization": "EIE",
+              "From": "29-07-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-07-2013",
+              "End Date": "31-05-2025",
+              "Duration": "11 Years 9 months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-T.SATHYA-1933a933-51d3-45c7-a4d8-b95f3fc0d497.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=3ab73fa9a6ccd4573ccb8159d4db3585dc208f029b26c299f97f9689169d14ad",
+                  "name": "Appoinment order vcet.pdf",
+                  "totalRecords": null,
+                  "resourceId": "zg9K9Zvy4KCcfm3Bj",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-T.SATHYA-7a6c5f54-81fb-4b4f-9128-70225cea77fb.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=38ffcf8dbec8ac053027b97fa168b07b83daa35c63b1a3c7bb061a5337bceecf",
+                  "name": "service cerificate vcet.jpg",
+                  "totalRecords": null,
+                  "resourceId": "wfA6EAW5xAgyQ4vpX",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "M.Kumarasamy College of Engineering",
+              "Position/Designation": "Lecturer",
+              "Start Date": "22-06-2009",
+              "End Date": "28-04-2011",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-T.SATHYA-c6569d52-2c6e-4501-986b-5d616eca2fd5.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=751a4ded3e48b157aa7b91e40b3f5dcafd02b5f9a6fa121c4320475e95a4051a",
+                  "name": "Experience certificate MKCE.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "JtT2L9LWeoha8n4T3",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-T.SATHYA-3fc3279a-7b17-4d6b-b8ec-c3e090da79e0.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d048e8fec20d6084bda340986e30ee488187d9ab4718dd6ba929e85cdff1af4b",
+                  "name": "Experience certificate MKCE.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "Zntm5PoxaKgfSfwg7",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "SIGHT AID: Real Time Navigation and Assistance for Visually Impaired",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "14-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings",
+              "Level": "International",
+              "Title": "Graph Convolutional Federated Learning for Privacy-Preserving Anomaly Detection in Heterogeneous IoT Environments",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "14-01-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "An Integrated Sign Language Recognition and Health Monitoring System for Physically Challenged",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "02-01-2026",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Reliability, Infocom Technologies and Optimization (ICRITO) (Trends and Future Directions)",
+              "Level": "International",
+              "Title": "Hypergraph Neural Networks for Collaborative Drone Mission Planning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-11-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings",
+              "Level": "International",
+              "Title": "Self-Supervised Contrastive Learning for Robust Optical Recognition in Noisy and Low-Resolution Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-07-2025",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings",
+              "Level": "International",
+              "Title": "Smart Waste Management System Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 7th International Conference on Inventive Material Science and Applications",
+              "Level": "International",
+              "Title": "A Smart System for Realtime Miner Tracking and Health Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Innovation and Emerging Technologies",
+              "Level": "International",
+              "Title": "Smart MedDB chain—An intelligent approach for data sharing in medical systems",
+              "Volume No": "12",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "24-06-2025",
+              "Published at": "World Scientific Connect"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "Collaboration of Blockchain-Based Digital Twins in the Healthcare Industry: From Idea to Implementation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "02-04-2025",
+              "Published at": "https://www.taylorfrancis.com"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Portable IoT Smart Devices in Healthcare and Remote Health Monitoring",
+              "Level": "International",
+              "Title": "Portable IoT Smart Devices in Healthcare and Remote Health Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "31-10-2024",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cloud-based IoMT for early COVID-19 diagnosis and monitoring",
+              "Level": "International",
+              "Title": "Cloud-based IoMT for early COVID-19 diagnosis and monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "03-07-2024",
+              "Published at": "IET Digital library"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Impact of Artificial Intelligence in Managing Complications in Pregnancy and Childbirth",
+              "Level": "International",
+              "Title": "Impact of Artificial Intelligence in Managing Complications in Pregnancy and Childbirth",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "30-09-2023",
+              "Published at": "IGI Global"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "A Roadmap Towards Robust IoT-Enabled Cyber-Physical Systems in Cyber Industrial 4.0",
+              "Level": "International",
+              "Title": "A Roadmap Towards Robust IoT-Enabled Cyber-Physical Systems in Cyber Industrial 4.0",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "30-12-2022",
+              "Published at": "Taylor and Francis"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Based Edge Information Systems Frameworks for Industrial IoT: A Novel Approach",
+              "Level": "International",
+              "Title": "Blockchain Based Edge Information Systems Frameworks for Industrial IoT: A Novel Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "20-04-2022",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Environmental Science and Pollution Research",
+              "Level": "International",
+              "Title": "Industrial Internet of things?based solar photo voltaic cell waste\nmanagement in next generation industries",
+              "Volume No": "29",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "02-03-2022",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Remote Human’s Health and Activities Monitoring Using Wearable Sensor-Based System—A Review",
+              "Level": "International",
+              "Title": "Remote Human’s Health and Activities Monitoring Using Wearable Sensor-Based System—A Review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "02-09-2021",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "An Efficient Control Strategy for Prevention and Identification of COVID-19 Pandemic Disease",
+              "Level": "International",
+              "Title": "An Efficient Control Strategy for Prevention and Identification of COVID-19 Pandemic Disease",
+              "Volume No": "",
+              "Issue No": "1st Edition",
+              "Year": "2021",
+              "Date": "30-07-2021",
+              "Published at": "Taylor & Francis"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IoMT-Based Smart Diagnostic/Therapeutic Kit for Pandemic Patients",
+              "Level": "International",
+              "Title": "Book:Internet of Medical Things for Smart Healthcare , Chapter:IoMT-Based Smart Diagnostic/Therapeutic Kit for Pandemic Patients",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "10-11-2020",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Basic Electrical Engineering",
+              "Level": "National",
+              "Title": "Basic Electrical Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "01-01-2019",
+              "Published at": "Charulatha Publications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "KEC",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "IIPC Workshop",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "10-04-2026",
+              "Date of Consultancy (To)": "10-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "15930"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Sri Balaji Opticals Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Creation",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "30-12-2025",
+              "Date of Consultancy (To)": "06-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on IoT Boot Camp:Idea to Prototype",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "State",
+              "Start Date": "10-04-2026",
+              "End Date": "10-04-2026",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "CC16"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Foundations of GenAI and its Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "21-02-2026",
+              "End Date": "31-03-2026",
+              "Duration": "2 months",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Building IoT projects with Arduino Uno and raspberry Pi",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "17 Days",
+              "Role played": "Coordinator",
+              "Venue": "CC12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "AI Application Development using MLoPs",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Rapid Application Development with Large Language Models (LLMs)",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "13-04-2026",
+              "End Date": "18-04-2026"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "Conference",
+              "Title of the program": "Super Computing India 2025",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "Manipal Institute of Higher Education",
+              "Start Date": "09-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "Infosys Spring Board",
+              "Place": "Infosys",
+              "Start Date": "17-11-2025",
+              "End Date": "21-11-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart and Sustainable Waste Management Using IoT and Data Analytics",
+              "Level": "International",
+              "Organized by": "ATAL & AICTE",
+              "Place": "MADANAPALLE INSTITUTE OF TECHNOLOGY & SCIENCE",
+              "Start Date": "15-09-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart and Sustainable Waste Management Using IoT and Data Analytics",
+              "Level": "International",
+              "Organized by": "MADANAPALLE INSTITUTE OF TECHNOLOGY & SCIENCE",
+              "Place": "ATAL",
+              "Start Date": "15-09-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Advances in AL and ML",
+              "Level": "National",
+              "Organized by": "St Joseph College and NIT Surathkal",
+              "Place": "Surathkal",
+              "Start Date": "30-07-2025",
+              "End Date": "04-07-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEP 2020 ORIENTATION & SENSITIZATION PROGRAMME",
+              "Level": "National",
+              "Organized by": "INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR",
+              "Place": "INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR",
+              "Start Date": "22-07-2025",
+              "End Date": "31-07-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Industry 4.0 and Industrial Internet of Things",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Pulmonary Function tests - Interpretation and application in clinical practice",
+              "Level": "Online",
+              "Organized by": "IIT Madras",
+              "Place": "Online",
+              "Start Date": "01-02-2025",
+              "End Date": "31-03-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Machine Learning Using Python Programming",
+              "Level": "National",
+              "Organized by": "Banarasi Hindu University",
+              "Place": "Online",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Research Methodology",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "Online",
+              "Start Date": "01-08-2023",
+              "End Date": "31-10-2023"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and Outcome Bsed Lraerning",
+              "Level": "National",
+              "Organized by": "IITKharagpur",
+              "Place": "Onine",
+              "Start Date": "01-08-2022",
+              "End Date": "31-10-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "Computer Society of India",
+              "Position": "One year Member",
+              "Level": "International",
+              "Start Date": "14-11-2025",
+              "End Date": "13-11-2026"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Life Member",
+              "Level": "International",
+              "Start Date": "01-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Title of Paper": "Deep Learning-Based Regional Tamil Language Classification and Neutral Tamil Language Transcription for Government Helplines and Judicial Affidavits",
+              "Title of Conference": "ICCISS '26 - International Conference on Computational Intelligence, Security and Systems",
+              "Organized by": "Sona College of Technology",
+              "Level": "International",
+              "Start Date": "13-03-2026",
+              "End Date": "14-03-2026"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Title of Paper": "SIGHT AID: Real Time Navigation and Assistance for Visually Impaired",
+              "Title of Conference": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Organized by": "Mount Zion College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "10-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Title of Paper": "Hypergraph Neural Networks for Collaborative Drone Mission Planning",
+              "Title of Conference": "International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "18-09-2025",
+              "End Date": "19-09-2025"
+            },
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Title of Paper": "An Integrated Sign Language Recognition and Health Monitoring System for Physically Challenged",
+              "Title of Conference": "Doctoral Symposium on Human Centered Computing",
+              "Organized by": "JIS College of Engineering, West Bengal",
+              "Level": "International",
+              "Start Date": "28-03-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.SATHYA",
+              "Department": "CSR",
+              "Title of the Program": "ELECTROTHON 2K26",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "EEE,KEC",
+              "Start Date": "12-02-2026",
+              "End Date": "13-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

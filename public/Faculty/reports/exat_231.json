@@ -1,0 +1,615 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "APPLIED ELECTRONICS",
+              "Date of joining in KEC": "19-05-2010",
+              "Mobile": "9842888846",
+              "E-mail": "chasekar@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Academic Degree": "MASTER OF ENGINEERING",
+              "Specialization": "APPLIED ELECTRONICS (PT)",
+              "From": "05-07-2006"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Academic Degree": "BACHELOR OF ENGINEERING",
+              "Specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+              "From": "06-08-1997"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Academic Degree": "DIPLOMA",
+              "Specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+              "From": "14-06-1995"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Power Engineering",
+              "Level": "International",
+              "Title": "Design and implementation of solar-grid based charging station for electric vehicle with fault detection method using R-Pi and IoT processor",
+              "Volume No": "14",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "29-12-2025",
+              "Published at": "International Journal of Applied Power Engineering (IJAPE)"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 4th OPJU International Technology Conference (OTCON) on Smart Computing for Innovation and Advancement in Industry 5.0",
+              "Level": "International",
+              "Title": "Multi-Source Thirteen Stage Multilevel Inverter for Powering Resistive Loads,",
+              "Volume No": "doi: 10.1109/OTCON65728.2025.11070811",
+              "Issue No": "doi: 10.1109/OTCON65728.2025.11070811",
+              "Year": "2025",
+              "Date": "09-04-2025",
+              "Published at": "2025 4th OPJU International Technology Conference (OTCON) on Smart Computing for Innovation and Advancement in Industry 5.0, Raigarh, India"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 5th International Conference on Trends in Material Science and Inventive Materials (ICTMIM), Kanyakumari, India",
+              "Level": "International",
+              "Title": "Multi-Source Power Integration for EV Charging",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "09-04-2025",
+              "Published at": "2025 5th International Conference on Trends in Material Science and Inventive Materials (ICTMIM), Kanyakumari, India"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things",
+              "Level": "International",
+              "Title": "Innovative Integration of Pressure Transducers and Advanced Computer Technology for Enhanced Pinch Roll Control Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-02-2025",
+              "Published at": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Energy Storage",
+              "Level": "International",
+              "Title": "Optimized control of hybrid energy storage systems for electric vehicles using BWPOA-MFPIDNN approach",
+              "Volume No": "104, Part - B",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "20-12-2024",
+              "Published at": "Science Direct - Elsevier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "DHANALAKSHMI SYNTHETICS Pvt. Ltd,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "STUDENTS INDUSTRIAL PROJEST",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "03-11-2025",
+              "Date of Consultancy (To)": "20-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "Online",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "IIT MADRAS",
+              "Start Date": "18-08-2025",
+              "End Date": "15-10-2025"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Advancement in e-Mobility for Developing Power Utility",
+              "Level": "Online",
+              "Organized by": "NIT Jamshedpur",
+              "Place": "Jamshedpur",
+              "Start Date": "06-01-2025",
+              "End Date": "11-01-2025"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Computing 4.0",
+              "Level": "Online",
+              "Organized by": "Vishwakarma Institute of Technology",
+              "Place": "Pune",
+              "Start Date": "08-07-2024",
+              "End Date": "13-07-2024"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Issues, Opportunities and Challenges in Smart Grid",
+              "Level": "Online",
+              "Organized by": "The Kavery Engineering College, Mecheri",
+              "Place": "Mecheri, Selam",
+              "Start Date": "20-02-2024",
+              "End Date": "24-02-2024"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "EXPLORING TEACHING STRATEGIES AND RESEARCH SCOPE IN RENEWABLE ENERGY SECTORS",
+              "Level": "National",
+              "Organized by": "Hindusthan College Of Engineering And Technology, Coimbatore",
+              "Place": "Coimbatore,",
+              "Start Date": "02-01-2024",
+              "End Date": "06-01-2024"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends and Innovations in Electric Vehicles",
+              "Level": "Online",
+              "Organized by": "Sri Krishna College of Technology, Coimbatore",
+              "Place": "Coimbatore",
+              "Start Date": "30-01-2023",
+              "End Date": "03-02-2023"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "PROMINENT CHALLENGES IN COMPUTER VISION, DATA AND INTELLIGENCE",
+              "Level": "International",
+              "Organized by": "Navarasam Arts and Science College for Women, Arachallur",
+              "Place": "Arachallur, Erode",
+              "Start Date": "26-12-2022",
+              "End Date": "31-12-2022"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Advancement in Smart Industry",
+              "Level": "Online",
+              "Organized by": "GCT - FDTC and CIT, Coimbatore",
+              "Place": "Coimbatore",
+              "Start Date": "21-11-2022",
+              "End Date": "25-11-2022"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Select Programme": "Workshop",
+              "Title of the program": "Research and Paper Writing",
+              "Level": "State",
+              "Organized by": "KONGU ENGINEERING COLLEGE, Perundurai",
+              "Place": "Perundurai, Erode",
+              "Start Date": "23-09-2022",
+              "End Date": "23-09-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "LIFE MEMBER",
+              "Level": "National",
+              "Start Date": "25-12-2006",
+              "End Date": "28-12-2050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Multi-Source Power Integration For EV Charging",
+              "Title of Conference": "5th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)",
+              "Organized by": "Rohini College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "07-04-2025",
+              "End Date": "09-04-2025"
+            },
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Innovative Integration of Pressure Transducers and Advanced Computer Technology for Enhanced Pinch Roll Control Systems",
+              "Title of Conference": "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "REVA University",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": "07-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.CHANDRASEKAR",
+              "Department": "EER",
+              "Title of the Program": "Programme wise Board of Studies",
+              "Role": "Others",
+              "Level": "Government",
+              "Organized by": "SIT POLYTECHNIC COLLEGE",
+              "Start Date": "11-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.K.PRABU",
+              "Department": "PHR",
+              "Designation": "ASSOCIATE PROFESSOR AND HOD",
+              "Area of Specialisation": "Solar Energy",
+              "Date of joining in KEC": "01-07-2005",
+              "Mobile": "9095171720",
+              "E-mail": "dr.prabu.k@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Solar Energy",
+              "From": "01-01-2009"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Academic Degree": "M.Phil.",
+              "Specialization": "Physics",
+              "From": "15-04-2003"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "15-04-2000"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Academic Degree": "M.Sc.",
+              "Specialization": "Physics",
+              "From": "15-04-1998"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Academic Degree": "B.Sc.",
+              "Specialization": "Physics",
+              "From": "01-04-1995"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Name of Position": "HOD",
+              "Level": "Department",
+              "Start Date": "01-06-2023",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-07-2005",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Oxford Engineering College",
+              "Position/Designation": "LECTURER",
+              "Start Date": "19-07-2002",
+              "End Date": "30-06-2005",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-PHR-DR.K.PRABU-b8ef0078-4806-412f-820f-c146b04ec87b.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091809Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c17bf9417223fe847db02418aa5793c023b0fde0d3f180475585de1516bff01f",
+                  "name": "Oxford Experience.jpg",
+                  "totalRecords": null,
+                  "resourceId": "ibjP2rsqpqFEpc6eH",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Royal College of Engineering and Technology",
+              "Position/Designation": "LECTURER",
+              "Start Date": "10-01-2001",
+              "End Date": "17-06-2002",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-PHR-DR.K.PRABU-c0dafc94-0395-40d3-818a-d40063841cd0.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091809Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1a999fd7d1e4ba60a16c371db17e6af10dd493721e7c70ec074c0dabfa19a6ca",
+                  "name": "Royal Experience.jpg",
+                  "totalRecords": null,
+                  "resourceId": "6crzH3rH8XZH3Xe6b",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Physics for Engineering - I",
+              "Level": "International",
+              "Title": "Physics for Engineering - I",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "02-06-2025",
+              "Published at": "MC GRAW HILL"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Alexandria Engineering Journal",
+              "Level": "International",
+              "Title": "Numerical study of Carreau fuzzy nanofluid across a stretching cylinder using a modified version of Buongiorno’s nanofluid model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Open Physics",
+              "Level": "International",
+              "Title": "Sisko nanofluid through exponential stretching sheet with swimming of motile gyrotactic microorganisms: An application to nanoengineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "13-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of nanomaterials",
+              "Level": "International",
+              "Title": "Heat transfer analysis on carboxymethyl cellulose water-based cross hybrid nanofluid flow with entropy generation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of mathematics",
+              "Level": "International",
+              "Title": "Assignment computations based on Cexp average in various ladder graphs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of recent technology and engineering",
+              "Level": "International",
+              "Title": "Production of polyphenol from phyllanthus emblica using soxhlet extraction process",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "01-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "The positive effect of green house gas on the performance of wind assisted circulation domestic solar hot water system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "08-04-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Green house gas – the performance booster of domestic solar hot water systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "08-04-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Wind assisted circulation vs forced circulation domestic solar hot water systems with CO2 filled collector panel",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "16-06-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of ChemTech Research",
+              "Level": "International",
+              "Title": "Effect of CO2 gas in solar collector panel on performance of natural circulation domestic solar hot water systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "01-04-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of ChemTech Research",
+              "Level": "International",
+              "Title": "Use of CO2 to improve the performance of forced circulation domestic solar hot water systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "01-04-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "European Journal of Scientific Research",
+              "Level": "International",
+              "Title": "Performance enhancement of natural and wind assisted domestic solar hot water systems by filling CO2 in the collector panel",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "01-12-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Wind and Renewable Energy",
+              "Level": "International",
+              "Title": "Desirable effects of green house gas on the performance of domestic solar hot water systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2013",
+              "Date": "01-01-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "European Journal of Scientific Research",
+              "Level": "International",
+              "Title": "Application of green house effect concept for improving the performance of natural and forced circulation domestic solar hot water systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "01-10-2012",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.K.PRABU",
+              "Department": "PHR",
+              "Type of Project": "Research Project",
+              "Title of Project": "DESIGN AND DEVELOPMENT OF PERFORMANCE ENHANCEMENT OF WIND ASSISTED DOMESTIC SOLAR HOT WATER SYSTEM BY FILLING CARBONDIOXIDE-METHANE-NITROUS OXIDE GASES IN THE COLLECTOR PANEL FOR RURAL AREAS",
+              "Funding Agency": "UGC",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "01-01-2015",
+              "Duration": "2 Yeas",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Type of Event": "FDP",
+              "Name of Event": "Upskilling for the Future",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024",
+              "Duration": "Five Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Trends and Opportunities in Energy Efficient Solar Cells for Future Power Needs",
+              "Collaboration/Sponsored by": "MNRE",
+              "Level": "National",
+              "Start Date": "23-12-2014",
+              "End Date": "23-12-2014",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "An Introduction to Laser and Laser Systems",
+              "Level": "National",
+              "Organized by": "IIT MUMBAI",
+              "Place": "",
+              "Start Date": "05-01-2026",
+              "End Date": "29-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Climate Resilient Pathways for Sustainable Development",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "Training Program",
+              "Title of the program": "3D Printing - Techniques and Methodologies",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-06-2025",
+              "End Date": "26-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-03-2025",
+              "End Date": "27-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-11-2024",
+              "End Date": "30-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "14-10-2024",
+              "End Date": "18-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "26-08-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-07-2024",
+              "End Date": "08-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-07-2024",
+              "End Date": "30-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-07-2024",
+              "End Date": "20-07-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "19-09-2002",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "19-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.PRABU",
+              "Department": "PHR",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "",
+              "Start Date": "23-08-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.SRUTHI",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Data structures,Machine Learning,Deep Learning",
+              "Date of joining in KEC": "19-05-2022",
+              "Mobile": "8973420435",
+              "E-mail": "sruthi.it@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "10-09-2018"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Academic Degree": "B.Tech",
+              "Specialization": "Information Technology",
+              "From": "12-08-2010"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "19-05-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Enhanced Hypertension Disease Prediction using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Power Control and Computing Technologies",
+              "Level": "International",
+              "Title": "Transfer Learning Based Tomato Leaf Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International conference on Power control and Computing Technologies ‘25",
+              "Level": "International",
+              "Title": "Deep learning based ischemic stroke prediction using MRI/CT imaging",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Innovative Computing and Communication",
+              "Level": "International",
+              "Title": "ENHANCING CREDIT CARD FRAUD DETECTION WITH PRIVACY- PRESERVING FEDERATED LEARNING",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on NexGen Networks and Cybernetics (IC2NC)",
+              "Level": "International",
+              "Title": "Automating Corneal Diagnosis for Keratoconus Detection using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "The 16th International IEEE conference on computing, communication and Networking Technologies",
+              "Level": "International",
+              "Title": "Embedding Machine learning Models for Vulnerability Detection into GitOps - Enabled CI/CD Pipelines",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems ((LNNS,volume 1228))",
+              "Level": "International",
+              "Title": "Implementing Deep Learning Models For Identifying And Classifying Infectious Skin Disease In Humans",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "16th International IEEE Conference on Computing ,communication and networking technologies",
+              "Level": "International",
+              "Title": "Ensemble Deep Learning with Explainability for Fetal Health Assessment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Real-Time Detection of Ocular Diseases Using Ensemble Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Engine Health Prediction Using Ensemble Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Enhanced Risk Prediction of Chronic Obstructive Pulmonary Disease Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Part of the book series: Studies in Systems, Decision and Control ((SSDC,volume 553))",
+              "Level": "International",
+              "Title": "Synergizing Nature Inspired Optimization with Deep Learning for COVID-19 Image Recognition",
+              "Volume No": "553",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-09-2024",
+              "Published at": "Springer Cham"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Hybrid Intelligent Systems",
+              "Level": "International",
+              "Title": "Handwritten digit and Roman string recognition using gated CNN with federated learning",
+              "Volume No": "Volume 21",
+              "Issue No": "2",
+              "Year": "2024",
+              "Date": "28-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Unmasking Audio Deception: Performance Analysis in Machine Learning Models with Mel-Frequency and Gammatone Frequency Cepstral Coefficients",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE Explore"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Handbook of Whale Optimization Algorithm",
+              "Level": "International",
+              "Title": "Optimizing CNN architecture using whale optimization algorithm for lung cancer detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-01-2024",
+              "Published at": "Elseiver"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Hybrid Intelligent Systems 22nd International Conference on Hybrid Intelligent Systems (HIS 2022), December 13–15, 2022",
+              "Level": "International",
+              "Title": "BTSAH: Batch Task Scheduling Algorithm Based on Hungarian Algorithm in Cloud Computing Environment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "25-05-2023",
+              "Published at": "Springer Nature Switzerland"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)",
+              "Level": "International",
+              "Title": "Detection of diabetic Retinopathy using Retinal Fundus Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "28-03-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Third IFIP TC 12 International Conference, ICCIDS 2020",
+              "Level": "International",
+              "Title": "Bat Algorithm with CNN Parameter Tuning for Lung Nodule False Positive Reduction",
+              "Volume No": "Vol. 578",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "20-11-2020",
+              "Published at": "Springer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "KGM software private limited",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "23-02-2026",
+              "Date of Consultancy (To)": "10-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "JOLLY ENTERPRISES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-12-2025",
+              "Date of Consultancy (To)": "20-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Mahalakshmi Jewellry",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "17-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8474"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri SR Electricals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Shanthi Jewellers",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Jewellery shop",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "23-01-2024",
+              "Date of Consultancy (To)": "15-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Radhe Krishna Oils",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "16-01-2023",
+              "Date of Consultancy (To)": "21-03-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8850"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Full Stack development",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "14-03-2026",
+              "End Date": "14-03-2026",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "ITP CC8"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Advanced Data Structures using Java",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "1  month",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Mobile Application development with flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "25-10-2025",
+              "End Date": "25-10-2025",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "CSD CC4"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "One day national level workshop on mobile application development with flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "25-10-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "ITP CC16"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Mastering Full Stack Development with MERN",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "05-04-2025",
+              "End Date": "05-04-2025",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "CC8"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building and Deploying Applications on AWS: A Practical Workshop",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "21-09-2024",
+              "End Date": "",
+              "Duration": "1 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Block chain based cyber security in defence:Reinforcing digital resilence",
+              "Collaboration/Sponsored by": "DRDO",
+              "Level": "National",
+              "Start Date": "04-06-2024",
+              "End Date": "05-06-2024",
+              "Duration": "2 days",
+              "Role played": "Joint Convener",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Mobile Application Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "10-05-2024",
+              "End Date": "10-05-2024",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "2 Credit Course on App development using flutter",
+              "Collaboration/Sponsored by": "Mr.Dinesh,App developer,Space Zee Tech,Mylapore,Chennai",
+              "Level": "Institute",
+              "Start Date": "09-01-2024",
+              "End Date": "01-06-2024",
+              "Duration": "30 hours",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "STTP",
+              "Title of the program": "AI Driven IoT over 5G/6G for smart innovation",
+              "Level": "National",
+              "Organized by": "Nandha College of Technoogy",
+              "Place": "Erode",
+              "Start Date": "13-10-2025",
+              "End Date": "17-10-2025"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction  to programming in C",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-07-2025",
+              "End Date": "23-09-2025"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "MERN Stack Web development",
+              "Level": "National",
+              "Organized by": "AICTE in association with Microsoft",
+              "Place": "",
+              "Start Date": "20-01-2025",
+              "End Date": "24-01-2025"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence's Impact on Transforming Software, Robotics, Electrical, Electronics & Mechanical fields",
+              "Level": "National",
+              "Organized by": "DHAANISH Ahmed College",
+              "Place": "",
+              "Start Date": "29-08-2024",
+              "End Date": "03-09-2024"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Enablement Program on Java Programming",
+              "Level": "National",
+              "Organized by": "Infosys",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "05-07-2024"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data structures Foundation cpourse",
+              "Level": "State",
+              "Organized by": "iLearn and kongu Engineering college",
+              "Place": "Kongu Engineering College",
+              "Start Date": "26-02-2024",
+              "End Date": "01-03-2024"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Role of post quantum cryptography in defence and security of future India",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "02-09-2023",
+              "End Date": "03-09-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research perspectives and future trends in artificial intelligence and data science",
+              "Level": "International",
+              "Organized by": "KPRIET",
+              "Place": "Coimbatore",
+              "Start Date": "22-08-2023",
+              "End Date": "26-08-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cloud Infrastructure (AWS)",
+              "Level": "National",
+              "Organized by": "Sathyabama Institute of Technology,TamilNadu",
+              "Place": "",
+              "Start Date": "21-08-2023",
+              "End Date": "25-08-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Technologies for next generation network",
+              "Level": "National",
+              "Organized by": "Kings engineering college , Chennai",
+              "Place": "",
+              "Start Date": "17-07-2023",
+              "End Date": "22-07-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Full Stack Development",
+              "Level": "National",
+              "Organized by": "Kamaraj College of Engineering and Technology, Virudhunagar",
+              "Place": "",
+              "Start Date": "11-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual reality and augmented reality",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Problem Solving Skills through competitive coding Platforms",
+              "Level": "State",
+              "Organized by": "KEC and Telentio ,Hyderabad",
+              "Place": "Kongu Engineering College,Perundurai",
+              "Start Date": "09-02-2023",
+              "End Date": "11-02-2023"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Research paper and writing",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Kongu Engineering College",
+              "Start Date": "23-09-2022",
+              "End Date": "23-09-2022"
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Select Programme": "Workshop",
+              "Title of the program": "NPTEL E-Awareness Workshop",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "13-07-2022",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "25-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "STRESS DETECTION BASED ON EMOTION USING A CONVOLUTIONAL NEURAL NETWORK IN DEEP LEARNING",
+              "Name of Application": "",
+              "Co-inventors Name": "1)S. Suruthi,3)K. Gokul 4)R. Saravanan 5)G.P Sneka 6)V. Sri Kowsika 7)V. Ramya Sree 8)B. Krishna 9)M. Magudeshwaran 10)N.T. Prasath 11)V. Nagathrisa 12)M. Pavithra 13)K.S. Nivethitha 14)R. Sancia",
+              "Application Number": "202441029330 A",
+              "Date of Registration": "11-04-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "19-04-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Title of the Program": "Machine learning-Transforming data into intelligence",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Centre of Excellence,Department of Information Technology,Kongu Engineering College",
+              "Start Date": "07-03-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SRUTHI",
+              "Department": "ITR",
+              "Title of the Program": "Data Science for product and service review analysis",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Centre of Excellence,Department of Information Technology,Kongu Engineering College",
+              "Start Date": "07-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

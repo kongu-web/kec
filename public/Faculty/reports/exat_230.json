@@ -1,0 +1,1577 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Power Systems",
+              "Date of joining in KEC": "14-09-2010",
+              "Mobile": "9789090057",
+              "E-mail": "gunas.27@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Academic Degree": "BE",
+              "Specialization": "Electrical and Electronics Engineering",
+              "From": "01-07-2020"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Academic Degree": "PhD",
+              "Specialization": "Electrical Engineering",
+              "From": "01-10-2009"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Academic Degree": "ME",
+              "Specialization": "Power Systems",
+              "From": "01-07-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of Position": "Deputy COE",
+              "Level": "Institution",
+              "Start Date": "24-07-2019",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Lecturer",
+              "Start Date": "16-06-2009",
+              "End Date": "13-09-2010",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-DR.T.GUNASEKAR-0034d7f3-157d-4b05-be9d-ffce5d52985b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091837Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=644d00aa59e20298d6fc00aabca3b98ba2978da1c89907926fbed96bffaa1601",
+                  "name": "Velalar experience.pdf",
+                  "totalRecords": null,
+                  "resourceId": "qx5azdPyJBwXPseve",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "Tata Consultancy Services",
+              "Position/Designation": "Assistant System Engineer",
+              "Start Date": "11-07-2007",
+              "End Date": "24-06-2009",
+              "Duration": "2 Years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-DR.T.GUNASEKAR-121fb0af-c541-4bbb-b14a-ea3e1e7599d9.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091837Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=13727e27c3a1c0be4ad0fbffb79dcefbedde5d2b53d0c3a5df2d46d4f5df2dc6",
+                  "name": "TCS experience certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "rtua46G8fEyck7H3k",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of Award/Achievement": "Best Agri Innovator Award",
+              "Level": "National",
+              "Awarded by": "News18 TamilNadu Channel",
+              "Place": "Coimbatore",
+              "Date": "10-01-2020"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "State",
+              "Awarded by": "Nehru Group of Institutions",
+              "Place": "Coimbatore",
+              "Date": "15-12-2019"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of Award/Achievement": "Best Electrical Engineering Project Award",
+              "Level": "National",
+              "Awarded by": "SAINTGITS, Kottayam, Kerala",
+              "Place": "Kottayam",
+              "Date": "18-02-2019"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "Perundurai, Erode",
+              "Date": "01-03-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Civil Engineering and Architecture",
+              "Level": "International",
+              "Title": "Consumer Switching Behaviour towards Smart, Green, \nand Sustainable Building Materials: A \nUTAUT2-PPM-VBN Triad-Framework",
+              "Volume No": "14",
+              "Issue No": "3",
+              "Year": "2026",
+              "Date": "26-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IGI Global Scientific Publishing",
+              "Level": "International",
+              "Title": "Ethical Considerations and Data Privacy in AI-Driven Learning Environments",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "15-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IGI Global Scientific Publishing",
+              "Level": "International",
+              "Title": "Cross-Cultural and Inclusive Strategies for AI in Language Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "15-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IGI Global Scientific Publishing",
+              "Level": "International",
+              "Title": "Cross-Cultural and Inclusive Strategies for AI in Language Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "05-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IGI Global Scientific Publishers",
+              "Level": "International",
+              "Title": "Ethical Considerations and Data Privacy in AI-Driven Learning Environments",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "05-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Alpha International Publications",
+              "Level": "International",
+              "Title": "Protection and Switchgear",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Inranian Journal of Chemistry and Chemical Engineering",
+              "Level": "International",
+              "Title": "Solar Still Performance Improvement Using Tar-Coated Blue Metal Stones: Yield and Efficiency Analysis",
+              "Volume No": "44",
+              "Issue No": "05",
+              "Year": "2025",
+              "Date": "01-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Evolving Systems",
+              "Level": "International",
+              "Title": "HDTN: hybrid duo?transformer network for liver and hepatic tumor\nsegmentation in CT images",
+              "Volume No": "16",
+              "Issue No": "01",
+              "Year": "2025",
+              "Date": "01-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Thermal Science and Engineering Progress",
+              "Level": "International",
+              "Title": "Power loss reduction and voltage profile enhancement by reconfiguration of radial distribution system with hybrid optimization method",
+              "Volume No": "57",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF EXERGY",
+              "Level": "International",
+              "Title": "Optimising the exergy efficiency of microgrid system with integration of hybrid renewable energy sources",
+              "Volume No": "42",
+              "Issue No": "2",
+              "Year": "2024",
+              "Date": "30-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "OPTIMAL CONTROL APPLICATIONS & METHODS",
+              "Level": "International",
+              "Title": "Optimal power quality improvement in distribution system with UPQC using an improved strategy",
+              "Volume No": "45",
+              "Issue No": "4",
+              "Year": "2024",
+              "Date": "07-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Energy",
+              "Level": "International",
+              "Title": "Production of waste soybean oil biodiesel with various catalysts, and the catalyst role on the CI engine behaviors",
+              "Volume No": "290",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "01-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "JOURNAL OF INTELLIGENT & FUZZY SYSTEMS",
+              "Level": "International",
+              "Title": "Research on Artificial Intelligence based Fruit Disease Identification System (AI-FDIS) with the Internet of Things (IoT)",
+              "Volume No": "44",
+              "Issue No": "4",
+              "Year": "2023",
+              "Date": "03-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH",
+              "Level": "International",
+              "Title": "Energy, exergy, and economic analysis of solar still using coal cylinder fins: an experimental study",
+              "Volume No": "30",
+              "Issue No": "2",
+              "Year": "2022",
+              "Date": "06-08-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AUTOMATIKA",
+              "Level": "International",
+              "Title": "MOCHIO: a novel Multi-Objective Coronavirus Herd Immunity Optimization algorithm for solving brushless direct current wheel motor design optimization problem",
+              "Volume No": "63",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "10-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH",
+              "Level": "International",
+              "Title": "Impact of water depth on thermal efficiency, exergy efficiency, and exergy losses of finned acrylic solar still: an experimental study",
+              "Volume No": "29",
+              "Issue No": "15",
+              "Year": "2022",
+              "Date": "12-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Development Of Autonomous Machine For Rice\nPlanting",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "01-02-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Smart Monitoring Vehicle for Bore Well Vehicle",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "01-02-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Design of Automated Vehicle Fueling System",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "01-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Testing and Evaluation",
+              "Level": "International",
+              "Title": "An Analyzing of Cross Layer Design for Implementing Adaptive Antenna Technique in Mobile Ad-Hoc             Networks",
+              "Volume No": "47",
+              "Issue No": "6",
+              "Year": "2019",
+              "Date": "01-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematics & Information Sciences",
+              "Level": "International",
+              "Title": "Enhancing Network Duration by Secured node Disjoint Clustering for Mobile Adhoc Network",
+              "Volume No": "13",
+              "Issue No": "5",
+              "Year": "2019",
+              "Date": "01-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal for research in Applied Science & Engineering Technology",
+              "Level": "International",
+              "Title": "Industrial Accident Prevention and Hybrid Pollution Control System",
+              "Volume No": "7",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "01-03-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research,",
+              "Level": "International",
+              "Title": "Power Quality Enhancement in Three-Phase Four- Wire distribution System using Vector Fuzzy \nController",
+              "Volume No": "10",
+              "Issue No": "1",
+              "Year": "2015",
+              "Date": "01-05-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Jouranal of Engineering Studies and Technical Approaches",
+              "Level": "International",
+              "Title": "Mitigation of Power Quality Problems with Reduced Switches\n\nUsing Unified Power Quality Conditioner",
+              "Volume No": "1",
+              "Issue No": "3",
+              "Year": "2015",
+              "Date": "01-03-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Electrical Engineering and Technology",
+              "Level": "International",
+              "Title": "Design and Implementation of solar PV for power quality enhancement in three-phase four-wire distribution system",
+              "Volume No": "10",
+              "Issue No": "1",
+              "Year": "2015",
+              "Date": "01-03-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research in Electronics and Communication Engineering",
+              "Level": "International",
+              "Title": "A Novel approach for Blood Tests based on Image Processing Techniques",
+              "Volume No": "4",
+              "Issue No": "2",
+              "Year": "2015",
+              "Date": "01-02-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research",
+              "Level": "International",
+              "Title": "Tuning Of PI Controller For Power Quality\nEnhancement In Distribution System Using GA And\n\nPSO",
+              "Volume No": "9",
+              "Issue No": "24",
+              "Year": "2014",
+              "Date": "01-12-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Technical Research",
+              "Level": "International",
+              "Title": "Design of UPQC by Optimizing PI Controller using\nGA and PSO for Improvement of Power Quality",
+              "Volume No": "2",
+              "Issue No": "4",
+              "Year": "2014",
+              "Date": "01-04-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Trends and Technology",
+              "Level": "International",
+              "Title": "PI-Fuzzy Hysteresis Controller based Unified Power Quality Conditioner",
+              "Volume No": "8",
+              "Issue No": "8",
+              "Year": "2014",
+              "Date": "01-02-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Technical Research",
+              "Level": "International",
+              "Title": "Simulation of Current Harmonic Compensation\nUsing Series Active Filter in Distribution System",
+              "Volume No": "1",
+              "Issue No": "10",
+              "Year": "2013",
+              "Date": "01-12-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Technology",
+              "Level": "International",
+              "Title": "Fuzzy Controller based Neutral Current\nHarmonic Suppression in Distribution\n\nSystem",
+              "Volume No": "5",
+              "Issue No": "5",
+              "Year": "2013",
+              "Date": "01-10-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Review on Modelling and Simulations",
+              "Level": "International",
+              "Title": "Improvement of Power Quality in Distribution\nSystem using Fuzzy - Unit Vector Controller",
+              "Volume No": "6",
+              "Issue No": "6",
+              "Year": "2013",
+              "Date": "01-05-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computer Applications",
+              "Level": "International",
+              "Title": "A New Control Method for Series Active Filter in\nDistribution System using Unit Vector Control",
+              "Volume No": "65",
+              "Issue No": "19",
+              "Year": "2013",
+              "Date": "01-03-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "European Journal of Scientific Research",
+              "Level": "International",
+              "Title": "Series Active Power Filter for Three-Phase Four-Wire\nDistribution System using Artificial Neural Network",
+              "Volume No": "79",
+              "Issue No": "4",
+              "Year": "2012",
+              "Date": "01-05-2012",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Adiparasakthi Engineering College, Melmaruvathur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy Audit",
+              "Number of persons involved": "04",
+              "Date of Consultancy (From)": "26-02-2026",
+              "Date of Consultancy (To)": "26-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "12390"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "SNS College of Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy and Power Audit",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "30-12-2024",
+              "Date of Consultancy (To)": "30-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "21240"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Government Hospital Pochampalli",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy and Power Audit",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "08-11-2024",
+              "Date of Consultancy (To)": "08-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "17700"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "CK College of Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "14-03-2024",
+              "Date of Consultancy (To)": "14-03-2024",
+              "Revenue Generated (amount in Rupees without GST)": "21240"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Sri Rangaganapathy College of Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "08-11-2023",
+              "Date of Consultancy (To)": "08-11-2023",
+              "Revenue Generated (amount in Rupees without GST)": "21300"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Aadhiparasakthi College of Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "07-08-2023",
+              "Date of Consultancy (To)": "07-08-2023",
+              "Revenue Generated (amount in Rupees without GST)": "28320"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Anthannuramanan Fencing",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Student Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "19-05-2023",
+              "Date of Consultancy (To)": "19-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Hosur GH",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "04-02-2023",
+              "Date of Consultancy (To)": "04-02-2023",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Uthangarai GH",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "23-12-2022",
+              "Date of Consultancy (To)": "23-12-2022",
+              "Revenue Generated (amount in Rupees without GST)": "16520"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Sri Palanimurugan Rice and Oil Mill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Student Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-07-2022",
+              "Date of Consultancy (To)": "28-07-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Abara Coconut Industry",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Student Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-06-2022",
+              "Date of Consultancy (To)": "25-06-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Thiyanalinga Modern Rice Mill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "09-01-2019",
+              "Date of Consultancy (To)": "09-01-2019",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Vivekanandha College of Engineering",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy Audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "16-08-2018",
+              "Date of Consultancy (To)": "16-08-2018",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Industry/Organization": "TEKIC Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy Audit",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "27-10-2012",
+              "Date of Consultancy (To)": "27-10-2012",
+              "Revenue Generated (amount in Rupees without GST)": "60000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Type of Event": "Workshop",
+              "Name of Event": "Electric Power System",
+              "Collaboration/Sponsored by": "IIT Kharagpur",
+              "Level": "National",
+              "Start Date": "10-07-2017",
+              "End Date": "15-07-2017",
+              "Duration": "6 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Type of Event": "Seminar",
+              "Name of Event": "Research Issues on Wide Area Monitoring Networks for Smart Grid Applications",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "28-09-2012",
+              "End Date": "29-09-2012",
+              "Duration": "2 Days",
+              "Role played": "Coordinator",
+              "Venue": "Mahatma Gandhi Seminar Hall, Department of EEE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Curriculum and Design",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Online",
+              "Start Date": "01-08-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Online",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "SEPT@360 - Skill Enhancement Program for Teachers",
+              "Level": "National",
+              "Organized by": "Stella Matutina College of Education",
+              "Place": "Chennai",
+              "Start Date": "02-09-2024",
+              "End Date": "06-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Development Program on Pyhton",
+              "Level": "National",
+              "Organized by": "Star International Foundation for Research and Education",
+              "Place": "",
+              "Start Date": "19-03-2024",
+              "End Date": "25-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends and Innovation in Electric Vehicle",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "30-01-2023",
+              "End Date": "03-02-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "1.\tATAL FDP on Edge Computing Technologies for Smart Factory Automation and Industry 4.0",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "16-08-2021",
+              "End Date": "20-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "3.\tFDP on Outcome Based Education",
+              "Level": "National",
+              "Organized by": "Karpagam Academy of Higher Edication",
+              "Place": "Coimbatore - Online",
+              "Start Date": "26-07-2021",
+              "End Date": "01-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "4.\tFDP on Techniques in Research and Innovations",
+              "Place": "Coimbatore - Online",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Modern Trends in Power Electronics and their Applications",
+              "Level": "National",
+              "Organized by": "Vidya Jothi Institute of Technology",
+              "Place": "",
+              "Start Date": "28-06-2021",
+              "End Date": "02-07-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "2.\tFDP on Power Electronics",
+              "Level": "National",
+              "Organized by": "Kumaraguru College of Technology",
+              "Place": "Coimbatore - Online",
+              "Start Date": "21-06-2021",
+              "End Date": "26-06-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "IEEE",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "02-10-2017",
+              "End Date": "31-10-2018"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "The Indian Society for Technical Education",
+              "Position": "Life Member",
+              "Level": "National",
+              "Start Date": "15-06-2009",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "A Smart Sensor-Based Crop Recommendation and  Yield Prediction System",
+              "Title of Conference": "International Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "26-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "IoT BASED EQUIPMENT EFFECTIVENESS MONITORING SYSTEM",
+              "Title of Conference": "International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Organized by": "Hindusthan College of Engineering with IEEE",
+              "Level": "International",
+              "Start Date": "10-09-2025",
+              "End Date": "12-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Maximizing Signal Range and Endurance in Military Wristband Antenna System",
+              "Title of Conference": "2025 5th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-04-2025",
+              "End Date": "09-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Optimizing the Design of A Military Handband Antenna for Enhanced Signal Range and Durability",
+              "Title of Conference": "International Conference on Electronics and Renewable Systems (ICEARS 2025)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Enhancement of Power Quality Under Dynamic Load Conditions using Unified Power Flow Controller",
+              "Title of Conference": "International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT 2025)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": "07-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Lithium – Ion Battery Degradation and Estimation of Battery Parameters",
+              "Title of Conference": "7th International Conference on Inventive Computation Technologies (ICICT 2024)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-04-2024",
+              "End Date": "26-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Smart and sustainable building materials: Empirical examination of consumer adoption intentions in Bangalore",
+              "Title of Conference": "SUSTAINABLE MATERIALS AND TECHNOLOGIES",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-03-2024",
+              "End Date": "21-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Radio Astronomy Based S-Band Horn Antenna for CubeSat Application",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems, ICSSAS 2023 - Proceedings",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": "20-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Automatic Flood Alert System Using IoT",
+              "Title of Conference": "Proceedings of the 9th International Conference on Electrical Energy Systems, ICEES 2023",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-03-2023",
+              "End Date": "25-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "A Novel Control Strategy for Voltage Sag, Swell Mitigation in Distribution System Using D-STATCOM for 14 Bus System",
+              "Title of Conference": "Proceedings of the 9th International Conference on Electrical Energy Systems, ICEES 2023",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-03-2023",
+              "End Date": "25-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Reactive power compensation and power Factor Improvement using FC-TCR",
+              "Title of Conference": "Proceedings of the 9th International Conference on Electrical Energy Systems, ICEES 2023",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-03-2023",
+              "End Date": "25-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Analysis of Lithium-ion Battery Degradation in V2G Integrated System",
+              "Title of Conference": "2023 9th International Conference on Advanced Computing and Communication Systems, ICACCS 2023",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "17-03-2023",
+              "End Date": "18-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Detection And Categorization of Transmission Line Faults Using Artificial Neural Network",
+              "Title of Conference": "8th International Conference on Advanced Computing and Communication Systems, ICACCS 2022",
+              "Organized by": "Sri Eashwar College of ENgineering",
+              "Level": "International",
+              "Start Date": "25-03-2022",
+              "End Date": "26-03-2022"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "IoT Based Patient Safety Monitoring System in Hospitals",
+              "Title of Conference": "2022 2nd International Conference on Power Electronics and IoT Applications in Renewable Energy and its Control, PARC 2022",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "21-01-2022",
+              "End Date": "22-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Efficient Battery Monitoring System for E-Vehicles",
+              "Title of Conference": "2021 7th International Conference on Advanced Computing and Communication Systems, ICACCS 2021",
+              "Organized by": "Sri Eashwar College of Engineering",
+              "Level": "International",
+              "Start Date": "19-03-2021",
+              "End Date": "20-03-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "GSM Based Fault Detection in Three Phase Power Distribution System",
+              "Title of Conference": "2021 7th International Conference on Advanced Computing and Communication Systems, ICACCS",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "19-03-2021",
+              "End Date": "20-03-2021"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of Paper": "Methods and Techniques to Improve Network Duration through Secured Node Disjoint Clustering",
+              "Title of Conference": "International Conference on Communication and Signal Processing, July 28 - 30, 2020",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "28-07-2020",
+              "End Date": "30-07-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "Synopsis Meeting",
+              "Role": "DC Member",
+              "Level": "State",
+              "Organized by": "",
+              "Start Date": "26-10-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "International Conference",
+              "Role": "Keynote Address",
+              "Level": "International",
+              "Organized by": "Annapoornal Engineering College",
+              "Start Date": "21-03-2026",
+              "End Date": "21-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Mahendra Engineering College",
+              "Start Date": "05-12-2024",
+              "End Date": "05-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Mahendra Engineering College",
+              "Start Date": "05-12-2024",
+              "End Date": "05-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "29-11-2024",
+              "End Date": "29-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "DC Meeting",
+              "Role": "DC Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "KSR College of Technology",
+              "Start Date": "01-10-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.T.GUNASEKAR",
+              "Department": "EER",
+              "Title of the Program": "BOS Memeber",
+              "Role": "BOS Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Adhiyaman College of Engineering",
+              "Start Date": "16-08-2024",
+              "End Date": "16-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "M.Mythili",
+              "Date of Registration": "01-01-2026",
+              "Registration No:": "26243691141",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "AN INVESTIGATION ON METHODS AND TECHNIQUES TO IMPROVE NETWORK DURATION THROUGH SECURED NODE DISJOINT CLUSTERING",
+              "Name of Scholar": "Senthil Prakash K",
+              "Date of Registration": "03-02-2025",
+              "Registration No:": "",
+              "Status": "",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": "03-02-2025"
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Naveena S",
+              "Date of Registration": "30-01-2025",
+              "Registration No:": "25233691162",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "KEC",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Mohanapriya D",
+              "Date of Registration": "01-07-2021",
+              "Registration No:": "21243697179",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "Power Quality Enhancement in Distribution Systems with Unified Power Quality Conditioner using Metaheuristic Approaches",
+              "Name of Scholar": "Tamilarasu P",
+              "Date of Registration": "19-01-2021",
+              "Registration No:": "21143691188",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "KEC",
+              "Date of Awarding PhD": "02-05-2025"
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Kalidasan M",
+              "Date of Registration": "01-07-2016",
+              "Registration No:": "16143697163",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "INVESTIGATION ON PERFORMANCE TESTING OF SMART ANTENNA IN WIRELESS AD HOC NETWORKS",
+              "Name of Scholar": "Mahendrakumar S",
+              "Date of Registration": "",
+              "Registration No:": "",
+              "Status": "",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.T.GUNASEKAR",
+              "Title of the thesis for scholar": "A NOVEL APPROACH FOR SECURED VANET-BASED REMOTE HEALTH MANAGEMENT SYSTEM USING OPTIMIZED ROUTING PROTOCOLS AND ENCRYPTION TECHNIQUES",
+              "Name of Scholar": "Mohanaprakash K",
+              "Date of Registration": "",
+              "Registration No:": "",
+              "Status": "",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

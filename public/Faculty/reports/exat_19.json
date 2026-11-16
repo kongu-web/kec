@@ -1,0 +1,695 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.SWATHI",
+              "Department": "CDR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "UX/UI",
+              "Date of joining in KEC": "02-05-2024",
+              "Mobile": "8056914461",
+              "E-mail": "swathi.csd@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Academic Degree": "M.Tech",
+              "Specialization": "IT",
+              "From": "23-09-2022"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Academic Degree": "B.Tech",
+              "Specialization": "IT",
+              "From": "11-08-2017"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-05-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Sixth International Conference on Ubiquitous Computing and Intelligent Information Systems ICUIS-2026",
+              "Level": "International",
+              "Title": "Enhanced Semantic Duplicate Question Detection using MPNet based Sentence-BERT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 Second International Conference on Intelligent Technologies for Sustainable Electric and Communications Systems (iTech SECOM)",
+              "Level": "International",
+              "Title": "An Offline Mixed-Language Voice-Driven Billing Assistant Using Vosk Speech Recognition",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Level": "International",
+              "Title": "Emotion Analysis of English-Translated Tamil Literature",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings - IEEE 2024 1st International Conference on Advances in Computing, Communication and Networking, ICAC2N 2024",
+              "Level": "International",
+              "Title": "Multimodal Approach for depression detection: Integrating speech and eye ball movement data",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings - IEEE 2024 1st International Conference on Advances in Computing, Communication and Networking, ICAC2N 2024",
+              "Level": "International",
+              "Title": "Multilingual Exploration of the Kambaramayana: Analyzing Tamil Translations in Telugu, Malayalam, and Kannada Using mBERT and DistilBERT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Series in Reliability Engineering",
+              "Level": "International",
+              "Title": "A Review on Cardiovascular Disease/Heart Disease by Machine Learning Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-04-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Knitway india Pvt Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "14-02-2026",
+              "Date of Consultancy (To)": "02-05-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Happee Tourz and Travels",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "14-01-2026",
+              "Date of Consultancy (To)": "13-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Damu Agencies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "11-01-2026",
+              "Date of Consultancy (To)": "30-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sree Makkaliamman Textiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-09-2025",
+              "Date of Consultancy (To)": "31-01-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "WRIGHTO SUSTAINABLES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBSITE  DEVELOPMENT",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "13-01-2025",
+              "Date of Consultancy (To)": "12-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "SRI KUPPANA HOTEL",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBSITE DEVELOPMENT",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-01-2025",
+              "Date of Consultancy (To)": "15-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Nature Language Processing",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-08-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Affective Computing",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mastering devops",
+              "Level": "Others",
+              "Organized by": "GUVI",
+              "Place": "KEC",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Evolving Landscape of Data Science-Current Trends & Patterns",
+              "Level": "Online",
+              "Organized by": "Hindusthan College of Arts and Science",
+              "Place": "",
+              "Start Date": "23-09-2025",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Getting Started with AI on Edge Devices:A Hands-on Workshop",
+              "Level": "Others",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "18-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Incentrive Research Conception Using Advanced Learning Models",
+              "Level": "Online",
+              "Organized by": "Department of Computer Science and Engineering,St. Joseph's Institute of Technology",
+              "Place": "",
+              "Start Date": "16-12-2024",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators:Harnessing the Power of Machine Learning",
+              "Level": "Online",
+              "Organized by": "DEpartment of Information Technology,Jeppiaar Institute of Technology",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "HRDC",
+              "Place": "KEC",
+              "Start Date": "19-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Deep Learning",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-07-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "31-07-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Title of Paper": "Enhanced Semantic Duplicate Question Detection using MPNet based Sentence-BERT",
+              "Title of Conference": "2025 5th International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS)",
+              "Organized by": "RVS Technical Campus",
+              "Level": "International",
+              "Start Date": "28-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Title of Paper": "An Offline Mixed-Language Voice-Driven Billing Assistant Using Vosk Speech Recognition",
+              "Title of Conference": "2025 Second International Conference on Intelligent Technologies for Sustainable Electric and Communications Systems (iTech SECOM)",
+              "Organized by": "PSG Institute of Technology and Applied Research",
+              "Level": "International",
+              "Start Date": "09-10-2025",
+              "End Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Title of Paper": "Multilingual Exploration of the Kambaramayana: Analyzing Tamil Translations in Telugu, Malayalam, and Kannada Using mBERT and DistilBERT",
+              "Title of Conference": "1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)",
+              "Organized by": "I.T.S Engineering College",
+              "Level": "International",
+              "Start Date": "16-12-2024",
+              "End Date": "17-12-2024"
+            },
+            {
+              "Name of Faculty": "K.SWATHI",
+              "Department": "CDR",
+              "Title of Paper": "EMOTION ANALYSIS OF ENGLISH-TRANSLATED  TAMIL LITERATURE",
+              "Title of Conference": "15th International IEEE Conference on Computing Communication and Networking Technologies",
+              "Organized by": "IIT - Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

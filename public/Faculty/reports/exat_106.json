@@ -1,0 +1,1227 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "T.KALPANA",
+              "Department": "MCA",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Deep Learning",
+              "Date of joining in KEC": "16-05-2022",
+              "Mobile": "9943113333",
+              "E-mail": "kalpana.mca@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Academic Degree": "PG",
+              "Specialization": "Computer Applications",
+              "From": "13-04-2009"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Computer Science",
+              "From": "06-04-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "19-05-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "MPNMJ ENGINEERING COLLEGE",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "23-07-2025",
+              "End Date": "11-05-2025",
+              "Duration": "0.09",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-T.KALPANA-0a9c8094-daf2-402f-a001-d3ee78876b9c.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d20a40f83308fee46d04648806dfba1e6de776f7c5b677cb8818875d52eb20ca",
+                  "name": "mpnmj service.pdf",
+                  "totalRecords": null,
+                  "resourceId": "xmsDmpxKZi3d2L6S7",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-T.KALPANA-1531eb82-0291-420c-b520-17019f1989e8.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=4beb500ee9d6aa9f74e52072f5f2e4bb8f2b90c7ebc45c3e8efce6ac725fa700",
+                  "name": "mpnmj service.pdf",
+                  "totalRecords": null,
+                  "resourceId": "L769hCvADN5t3cg3r",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "INFONIC INDIA PRIVATE LIMITED",
+              "Position/Designation": "NETWORK ADMINISTRATOR",
+              "Start Date": "27-07-2016",
+              "End Date": "03-03-2025",
+              "Duration": "4 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-T.KALPANA-c2340b37-3d1d-4a29-bd16-01b8d49e192f.DOCX?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fc79bdae78de3399f28d668d9eeee75a3dbc8f10a1c06f164a6255f578f8c316",
+                  "name": "INDUSTRY.DOCX",
+                  "totalRecords": null,
+                  "resourceId": "hQSfAQTsgphm7PKBk",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SASURIE ARTS AND SCIENCE COLLEGE",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "11-06-2012",
+              "End Date": "26-06-2025",
+              "Duration": "3.00",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-T.KALPANA-825727ef-d5fd-4d84-9497-806a893fc078.docx?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f42cfb6b65ba8a92b0e983d2186bb48b3a41f6af57fb9d6b1418c382a399fd69",
+                  "name": "SASURE EXPERINCE.docx",
+                  "totalRecords": null,
+                  "resourceId": "jQRH5SNL3fAbSJHyQ",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of Award/Achievement": "BEST FACULTY AWARD",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "PERUNDURAI",
+              "Date": "18-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "QUILL TECH PUBLICATION",
+              "Level": "International",
+              "Title": "DEEP LEARNING",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "12-05-2026",
+              "Published at": "QUILL TECH PUBLIOCATION"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "TAYLOR/FRANSIS",
+              "Level": "International",
+              "Title": "Transforming Healthcare With AI And IoT-BOOK NAME\n(,Applications of Medical Images and Diagnostics_-CHAPTER NAME",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "22-01-2026",
+              "Published at": "CRC PRESS-TAYLOR FRANCIS"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IET Conference Proceedings CP900",
+              "Level": "International",
+              "Title": "Early prediction of Alzheimer’s disease using magnetic resonance images (MRI) in leveraging deep learning models",
+              "Volume No": "2024",
+              "Issue No": "23",
+              "Year": "2024",
+              "Date": "06-12-2025",
+              "Published at": "IET CONFERENCE"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "conference",
+              "Level": "International",
+              "Title": "Comparative Analysis of Deep Learning Architectures for Alzheimer’s Disease Detection",
+              "Volume No": "2",
+              "Issue No": "2",
+              "Year": "2025,",
+              "Date": "30-10-2025",
+              "Published at": "6th International Conference on Electronics and Sustainable Communication Systems (ICESC), Coimbatore, India,"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "book",
+              "Level": "International",
+              "Title": "Neural networks and Application",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "25-10-2025",
+              "Published at": "CIIT publication"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer, Singapore/PROCEEDINGS",
+              "Level": "International",
+              "Title": "Examination of Water Impurities Using IoT and Machine Learning Techniques",
+              "Volume No": "528",
+              "Issue No": "12 October 2022",
+              "Year": "12 October 2022",
+              "Date": "12-10-2025",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BOOK CHAPTER",
+              "Level": "International",
+              "Title": "DEEP LEARNIGN FRO AIR POLLUTION PREDECTIVE",
+              "Volume No": "vol 553",
+              "Issue No": "22 September 2024",
+              "Year": "2024",
+              "Date": "22-09-2025",
+              "Published at": "Springer, Cham"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "conference",
+              "Level": "International",
+              "Title": "IoT based Soil Nutrients Analysis and Monitoring System for Smart Agriculture,",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "19-09-2025",
+              "Published at": "scopus"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "PROCEEDINGS",
+              "Level": "International",
+              "Title": "Malware Prediction And Classification For Android Applications Using Machine Learning Techniques",
+              "Volume No": "1",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "24-05-2025",
+              "Published at": "SCOPUS"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "journal",
+              "Level": "International",
+              "Title": "Automatic Egg Incubator Using IoT",
+              "Volume No": "1",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "24-05-2025",
+              "Published at": "SCOPUS"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "QUILL TECH PUBLICATION",
+              "Level": "International",
+              "Title": "MOBILA APPLICATION DEVELOPMENT",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "13-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BOOK CHAPTER",
+              "Level": "International",
+              "Title": "BIOMEDICAL IMAGING TECHNIQUES IN AI APPLICATIONS",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "25",
+              "Date": "19-03-2025",
+              "Published at": "TAYLOR  & FRANCIS"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "proceedings",
+              "Level": "International",
+              "Title": "Predictive Analytics for Parkinson's Disease Detection Leveraging Deep Learning Algorithms",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "12-03-2025",
+              "Published at": "International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "proceedings",
+              "Level": "International",
+              "Title": "Deep Learning based Approach for Cassava Leaf Disease Detection",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "24-12-2024",
+              "Published at": "scopus"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "conference proceedings",
+              "Level": "International",
+              "Title": "An Investigation and Forecast of Suitable Crop Yield using Machine Learning Techniques Dependent in the Characteristics of Soil",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "09-05-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "proceedings",
+              "Level": "International",
+              "Title": "Autism Spectrum Disorder Diagnosis using Deep Learning Techniques",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "17-04-2024",
+              "Published at": "International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS), Coimbatore, India, 2024,"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "proceedings",
+              "Level": "International",
+              "Title": "Recognition and Classification of Image Based Coal and Coal Gangue Using Deep Learning Techniques",
+              "Volume No": "1",
+              "Issue No": "2473-7577",
+              "Year": "2023",
+              "Date": "23-05-2023",
+              "Published at": "scopus"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "conference",
+              "Level": "International",
+              "Title": "An Image Based Classification and Prediction of Diseases on Cotton Leaves Using Deep Learning Techniques”",
+              "Volume No": "1",
+              "Issue No": "2023 International Conference on Computer Communication and Informatics (ICCCI",
+              "Year": "2023",
+              "Date": "24-03-2023",
+              "Published at": "scopus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Kathithamalai Iextile, 4/586, Uthukuli Road, Erode 638056.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "software project development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-12-2025",
+              "Date of Consultancy (To)": "18-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "80000"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SRI KADESWARA TYRES,VELLAKOVIL",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "SOFTWARE DEVELOPMENT",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-03-2025",
+              "Date of Consultancy (To)": "30-06-2025",
+              "Revenue Generated (amount in Rupees without GST)": "53100"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SREE SIVAN COCONUTS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "SOFTWARE DEVELOPMENT",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-03-2025",
+              "Date of Consultancy (To)": "01-06-2025",
+              "Revenue Generated (amount in Rupees without GST)": "53100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "Handson UI/UX design techniques for web and mobile applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-02-2026",
+              "End Date": "20-02-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "KEC-MCA CC1"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "Cross Platform Application Development using Flutter and Dart",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "14-08-2025",
+              "End Date": "14-06-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "Seminar",
+              "Name of Event": "DRDO",
+              "Collaboration/Sponsored by": "DRDO",
+              "Level": "International",
+              "Start Date": "14-10-2024",
+              "End Date": "15-10-2024",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "data analytics using microsoft power bi",
+              "Collaboration/Sponsored by": "tecsacon technologies",
+              "Level": "National",
+              "Start Date": "05-10-2024",
+              "End Date": "06-05-2025",
+              "Duration": "30",
+              "Role played": "Joint Coordinator",
+              "Venue": "kec"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "FDP",
+              "Name of Event": "FDP",
+              "Collaboration/Sponsored by": "industry",
+              "Level": "National",
+              "Start Date": "16-08-2024",
+              "End Date": "17-08-2024",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "Training",
+              "Name of Event": "flutter programing",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "09-08-2024",
+              "End Date": "09-08-2024",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "kec"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Type of Event": "FDP",
+              "Name of Event": "RESEARCH METHODOLOGIES",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024",
+              "Duration": "5 DAYS",
+              "Role played": "Joint Coordinator",
+              "Venue": "kec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "DEVOPS",
+              "Level": "International",
+              "Organized by": "KEC",
+              "Place": "ERODE",
+              "Start Date": "25-11-2025",
+              "End Date": "29-11-2024"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "FOUNDATIONS OF DATA SCIENCE AND APPLICATIONS",
+              "Level": "International",
+              "Organized by": "GURU NANAK INSTITUTE OF TECHNOLOGY",
+              "Place": "",
+              "Start Date": "27-10-2025",
+              "End Date": "01-11-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "RECENT TRENDS  AND FUTURE PERSPECTIVE OF AI IN IMAGE PROCESSING -TOOLS,TECHNIQUES & APPLICATIONS",
+              "Level": "International",
+              "Organized by": "SA ENGINEERING COLLEGE WITH PANTECHe LEARNING",
+              "Place": "ERODE",
+              "Start Date": "13-10-2025",
+              "End Date": "17-12-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "STRATEGIC INSIGHTS:DATA DRIVEN DECISION AND RESERACH COMERCIALIZATION",
+              "Level": "International",
+              "Organized by": "SHRI VISHNU ENGINEERING COLLEGE",
+              "Place": "BHIMAVARAM",
+              "Start Date": "18-08-2025",
+              "End Date": "23-12-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "IMPLICATIONS OF EMERGING COMPUTING TECHNOLOGIES",
+              "Level": "Online",
+              "Organized by": "HINDUSTAN ARTS AND SCIENCE COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "29-07-2025",
+              "End Date": "04-08-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "RESEARCH TRENDS AND METHODOLOGIES IN MACHINE LEARNING",
+              "Level": "International",
+              "Organized by": "haldia institute of technology",
+              "Place": "haldia",
+              "Start Date": "25-07-2025",
+              "End Date": "29-10-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "Training Program",
+              "Title of the program": "AWS, SaaS-based AI, and AI-as-a-Service (AIaaS) platforms",
+              "Level": "International",
+              "Organized by": "humble tree services",
+              "Place": "coimbatore",
+              "Start Date": "02-07-2025",
+              "End Date": "08-07-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "EXPLORING ENTERPRENUERIAL OPPURTUNITIES AI AND IOT 4.0",
+              "Level": "International",
+              "Organized by": "PSG COLLEGE OF ARTS AND SCIENCE",
+              "Place": "COIMBATORE",
+              "Start Date": "03-02-2025",
+              "End Date": "07-02-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "EMOTIONAL INTELLIGENCE SKILLS EMPOWERING THE EDUCATORS",
+              "Level": "Online",
+              "Organized by": "IEM-UEM GROUP SALTLAKE",
+              "Place": "SALTLAKE",
+              "Start Date": "04-11-2024",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "CLOUD DRIVEN AI AND IOT SOLUTIONS",
+              "Level": "Online",
+              "Organized by": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "CHENNAI",
+              "Start Date": "30-09-2024",
+              "End Date": "04-10-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "INTERNET OF THINGS FOR EMERGING TECHNICAL APPLICATIONS",
+              "Level": "Online",
+              "Organized by": "MPNMJ ENG COLLEGE",
+              "Place": "CHENNIMALAI",
+              "Start Date": "12-08-2024",
+              "End Date": "17-06-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "enhancing academic and administrative excvellence through quality initiatives",
+              "Level": "Online",
+              "Organized by": "PARKS COLLEGE",
+              "Place": "TIRUPUR",
+              "Start Date": "22-07-2024",
+              "End Date": "29-07-2024"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "innovative research oppurtunities and applications of datascience in industry 5.0 paradiagm",
+              "Level": "International",
+              "Organized by": "SRM,RAMAPURAM",
+              "Place": "RAMAPURAM",
+              "Start Date": "18-10-2023",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "recent trends in immersive technology",
+              "Level": "International",
+              "Organized by": "government college of technology",
+              "Place": "karaikudi",
+              "Start Date": "05-10-2023",
+              "End Date": "17-06-2023"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "Conference",
+              "Title of the program": "“CRYPTOCURRENCY, BLOCKCHAIN &CYBER SECURITY”",
+              "Level": "International",
+              "Organized by": "KMM College of Arts and Science, Thrikkakara",
+              "Place": "Thrikkakara",
+              "Start Date": "12-09-2022",
+              "End Date": "16-09-2022"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "amazon web services(AWS)",
+              "Level": "International",
+              "Organized by": "bannari amman institute of technology",
+              "Place": "sathyamangalam",
+              "Start Date": "22-08-2022",
+              "End Date": "27-08-2022"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Select Programme": "STTP",
+              "Title of the program": "“Business Analytics: A way forward for organisation”",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science & Technology, Ramapuram, Chennai - 89,",
+              "Place": "Ramapuram, Chennai - 89,",
+              "Start Date": "20-06-2022",
+              "End Date": "28-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "faculty coordinator",
+              "Level": "International",
+              "Start Date": "01-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "IAENG",
+              "Position": "MEMBER",
+              "Level": "International",
+              "Start Date": "24-06-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Predictive Analytics for Parkinson's Disease Detection Leveraging Deep Learning Algorithms",
+              "Title of Conference": "2024 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES), Chennai, India, 2024,",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "12-12-2026",
+              "End Date": "13-12-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "A Smart Network Traffic Classification Framework for Software Defined Network Using ML Algorithm",
+              "Title of Conference": "ICONSTEM 2025",
+              "Organized by": "JEPPIAR INSTITUTE OF TECHNOLOGY-CHENNAI",
+              "Level": "International",
+              "Start Date": "08-11-2026",
+              "End Date": "09-06-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Analyzing the Impact of Daily Screen Usage on Eye Health Through the Machine Learning Models",
+              "Title of Conference": "ICONSTEM 2025",
+              "Organized by": "JEPPIAR INSTITUTE CHENNAI",
+              "Level": "International",
+              "Start Date": "06-11-2026",
+              "End Date": "07-11-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Innovative Computational Strategies for Early Alzheimer's Detection",
+              "Title of Conference": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET), CHENNAI, India, 2025,",
+              "Organized by": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET), CHENNAI, India, 2025,",
+              "Level": "International",
+              "Start Date": "01-08-2026",
+              "End Date": "02-08-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Multilingunal YouTube Comment Moderation using Machine Learning Algorithms",
+              "Title of Conference": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET), CHENNAI, India,",
+              "Organized by": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET), CHENNAI, India,",
+              "Level": "International",
+              "Start Date": "01-08-2026",
+              "End Date": "02-08-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Hybrid Machine Learning and Deep Learning-Based Intrusion Detection System with Multi-Stage Feature Selection",
+              "Title of Conference": "2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM), Chennai, India, 2025,",
+              "Organized by": "CHENNAI",
+              "Level": "International",
+              "Start Date": "18-06-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Enhancing Low-Resource Machine Transliteration Through Three-Way Transfer Learning",
+              "Title of Conference": "2025 International Conference on Computing Technologies (ICOCT), Bengaluru, India, 2025,",
+              "Organized by": "2025 International Conference on Computing Technologies (ICOCT), Bengaluru, India, 2025,",
+              "Level": "International",
+              "Start Date": "13-06-2026",
+              "End Date": "14-06-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Early Diabetes Risk Assessment using an Integrated Machine Learning Model based on Random Forest and Logistic Regression",
+              "Title of Conference": "ICIPCN 2026",
+              "Organized by": "6th International Conference on Image Processing and Capsule Networks (ICIPCN), Dhulikhel, Nepal, 2026",
+              "Level": "International",
+              "Start Date": "23-03-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "A Machine Learning Approach for Early Prediction of Chronic Kidney Disease",
+              "Title of Conference": "3rd International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI), Coimbatore, India, 2025,",
+              "Organized by": "3rd International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI), Coimbatore, India, 2025,",
+              "Level": "International",
+              "Start Date": "17-09-2025",
+              "End Date": "18-06-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Comparative Analysis of Deep Learning Architectures for Alzheimer’s Disease Detection",
+              "Title of Conference": "2025 6th International Conference on Electronics and Sustainable Communication Systems (ICESC), Coimbatore, India, 2025",
+              "Organized by": "2025 6th International Conference on Electronics and Sustainable Communication Systems (ICESC), Coimbatore, India, 2025",
+              "Level": "International",
+              "Start Date": "10-09-2025",
+              "End Date": "13-09-2026"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of Paper": "Early prediction of Alzheimer’s disease using magnetic resonance images (MRI) in leveraging deep learning models",
+              "Title of Conference": "2nd International Conference on Computer Vision and Internet of Things (ICCVIoT 2024), Coimbatore, India, 2024,",
+              "Organized by": "2nd International Conference on Computer Vision and Internet of Things (ICCVIoT 2024), Coimbatore, India, 2024,",
+              "Level": "International",
+              "Start Date": "27-01-2025",
+              "End Date": "27-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "Basics of Computer Knowledge",
+              "Role": "Chief Guest",
+              "Level": "Government",
+              "Organized by": "",
+              "Start Date": "09-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "IOT Technologies In Precision Healthcare",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "21-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "Drug Awareness Program",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "04-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "SCHOOL VISIT",
+              "Role": "Chief Guest",
+              "Level": "Others",
+              "Organized by": "MYLADI SCHOOL",
+              "Start Date": "27-01-2025",
+              "End Date": "29-06-2025"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "Iot technologies",
+              "Role": "Chief Guest",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Start Date": "09-09-2024",
+              "End Date": "09-09-2024"
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "iot technologies",
+              "Role": "Chief Guest",
+              "Level": "National",
+              "Organized by": "al ameen colLege",
+              "Start Date": "30-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.KALPANA",
+              "Department": "MCA",
+              "Title of the Program": "CYBER SECURITY SPLUNK TOOL",
+              "Role": "Chief Guest",
+              "Level": "Others",
+              "Organized by": "SASURIE ARTS AND SCIENCE COLLEGE",
+              "Start Date": "24-08-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

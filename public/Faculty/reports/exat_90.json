@@ -1,0 +1,761 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.B.S.HARI",
+              "Department": "MER",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "CAD/CAM",
+              "Date of joining in KEC": "16-05-2012",
+              "Mobile": "9443399590",
+              "E-mail": "bsharime@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Academic Degree": "PhD",
+              "Specialization": "Mechanical Engineering",
+              "From": "11-01-2014"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Academic Degree": "ME",
+              "Specialization": "CAD/CAM",
+              "From": "02-08-2010"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Academic Degree": "BE",
+              "Specialization": "Mechanical Engineering",
+              "From": "01-06-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "16-05-2012",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Name of Award/Achievement": "Mentor -India Design week 2026",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "Sri Ramakrishna Engg College, Coimbatore",
+              "Date": "26-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Surface Science and Engineering",
+              "Level": "International",
+              "Title": "Influence of auto correlation length in mean and actual summit radii based multi asperity Gaussian rough surface contact models",
+              "Volume No": "20",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "24-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Combining Visual Intelligence and Federated Learning in Smart Healthcare",
+              "Level": "International",
+              "Title": "Integrating Visual Intelligence With Federated Learning and IoT in Healthcare",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "10-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Navigating Usability and User Experience in a Multi-Platform World",
+              "Level": "International",
+              "Title": "Sustainable Development in Wearable Internet of Medical Things: Addressing Environmental Impact, Energy Efficiency, and Lifecycle Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Global Practices in Inclusive Education Curriculum and Policy",
+              "Level": "International",
+              "Title": "Critical thinking in higher education through innovative strategies: Out-of-the-box thinking",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Comprehensive Review of Optimizing Battery Efficiency in Wearable Sensors Through Superframe Structures and Optical Wireless Communication Strategies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-09-2025",
+              "Published at": "Springer Singapore"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Energy Efficient Construction Through Sustainable Materials,",
+              "Level": "International",
+              "Title": "Redefining Sustainability in Building Practices in Circular Construction Process",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "20-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Digital Transformation Initiatives for Agile Marketing",
+              "Level": "International",
+              "Title": "Integrating AI and Machine Learning in Omnichannel Marketing for Superior Customer Experience",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "20-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Using Computational Intelligence for Sustainable Manufacturing of Advanced Materials",
+              "Level": "International",
+              "Title": "Optimizing composite material selection using the artificial bee colony algorithm: A comprehensive approach",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "20-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the International Conference on Eco-friendly Fibers and Polymeric Materials",
+              "Level": "International",
+              "Title": "Estimation of Mechanical Properties of Nylon 6 Containing Dates and Tamarind Seed Powder",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "27-11-2024",
+              "Published at": "Springer Nature"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Aip Conference Proceedings",
+              "Level": "International",
+              "Title": "Designing a Vertical Gallium Arsenide (GaAs) Channel High Electron Mobility Transistor (HEMT) for power applications in integrated circuit (IC) technology",
+              "Volume No": "3149",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "19-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Utilizing Friction Stir Techniques for Composite Hybridization",
+              "Level": "International",
+              "Title": "Monitoring Structural Health Using Friction Stir Techniques for Hybrid Composite Joints",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "26-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Semantic Web Technologies and Applications in Artificial Intelligence of Things",
+              "Level": "International",
+              "Title": "Study on Integrated Neural Networks and Fuzzy Logic Control for Autonomous Electric Vehicles",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-05-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Convergence of Human Resources Technologies and Industry 5.0",
+              "Level": "International",
+              "Title": "The fusion of AI, IoT, and agricultural sensors for self-sustaining agro-technological ecosystems: Industry 5.0",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "30-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Technologies for Securing the Cloud and IoT",
+              "Level": "International",
+              "Title": "Development of artificial intelligence of things and cloud computing environments through semantic web control models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "20-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Testing",
+              "Level": "International",
+              "Title": "Improvement of the mechanical and damping behavior of nylon by integration of nanoclay platelets",
+              "Volume No": "63",
+              "Issue No": "12",
+              "Year": "2021",
+              "Date": "30-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Polímeros",
+              "Level": "International",
+              "Title": "Selection of appropriate reinforcement for nylon material through mechanical and damping characteristics",
+              "Volume No": "30",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "23-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Polimeros",
+              "Level": "International",
+              "Title": "Comparison of MA-g-PP effectiveness through mechanical performance of functionalised graphene reinforced polypropylene",
+              "Volume No": "30",
+              "Issue No": "3",
+              "Year": "2021",
+              "Date": "20-01-2021",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Name of the Industry/Organization": "CD Technotex LLP",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Analysis of in",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "30-08-2023",
+              "Date of Consultancy (To)": "30-09-2023",
+              "Revenue Generated (amount in Rupees without GST)": "2333"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Type of Event": "Training",
+              "Name of Event": "Workshop on Autodesk Fusion 360",
+              "Collaboration/Sponsored by": "ICT Academy",
+              "Level": "Institute",
+              "Start Date": "27-02-2025",
+              "End Date": "27-02-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "AI CC 9& 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Product Design Engineering using Fusion",
+              "Level": "State",
+              "Organized by": "ICT Academy & KEC",
+              "Place": "KEC",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Simulation Model Familiarization & Development using ProSimulator",
+              "Level": "State",
+              "Organized by": "KEC & Sim Infosystems Pvt. Ltd",
+              "Place": "KEC",
+              "Start Date": "01-07-2025",
+              "End Date": "30-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Additive Manufacturing Advancements in Different Applications (AMADA 24)",
+              "Level": "International",
+              "Organized by": "SRM University, Ramapuram",
+              "Place": "Chennai",
+              "Start Date": "21-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on Progress in Mechanical Engineering",
+              "Level": "International",
+              "Organized by": "SRM Uiversity",
+              "Place": "Chennai",
+              "Start Date": "14-10-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Name of the Professional Body/Society": "Institution of Engineers (India)",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "13-09-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Name of the Professional Body/Society": "Indian Society for Technical Education",
+              "Position": "Life Member",
+              "Level": "National",
+              "Start Date": "15-08-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Title of the Program": "Industry Visit IC01",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "14-11-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.B.S.HARI",
+              "Department": "MER",
+              "Title of the Program": "Industry Visit IC01",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "10-10-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "MER",
+              "Name of Supervisor": "DR.B.S.HARI",
+              "Title of the thesis for scholar": "3D Printed Metal Nanocomposites for Bone Implants",
+              "Name of Scholar": "Thaimanavan K T R",
+              "Date of Registration": "14-08-2025",
+              "Registration No:": "25142697191",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

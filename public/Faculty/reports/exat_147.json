@@ -1,0 +1,1691 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Designation": "ASSOCIATE PROFESSOR AND HOD",
+              "Area of Specialisation": "Wireless Sensor Networks",
+              "Date of joining in KEC": "15-10-2003",
+              "Mobile": "9486153102",
+              "E-mail": "samurugan@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Academic Degree": "PhD",
+              "Specialization": "Information and Communication Engineering",
+              "From": "01-06-2007"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-07-1999"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Academic Degree": "BE",
+              "Specialization": "Electrical and Electronics Engineering",
+              "From": "01-06-1996"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2026",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "HOD",
+              "Level": "Department",
+              "Start Date": "18-10-2023",
+              "End Date": "31-05-2026",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-07-2017",
+              "End Date": "21-11-2024",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-12-2012",
+              "End Date": "30-06-2017",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2010",
+              "End Date": "30-11-2012",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-01-2008",
+              "End Date": "31-07-2010",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "15-10-2003",
+              "End Date": "31-12-2007",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "16-05-2002",
+              "End Date": "14-10-2003",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-09-2000",
+              "End Date": "15-05-2002",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Sridhar Vembu Award",
+              "Level": "National",
+              "Awarded by": "Vaagai Tamilsangam",
+              "Place": "Namakkal",
+              "Date": "29-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Egyptian Informatics Journal",
+              "Level": "International",
+              "Title": "Advancing personalized neurology with explainable AI in Alzheimer’s classification using NeuroX-DualFusion framework",
+              "Volume No": "33",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "04-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cyber Engineering",
+              "Level": "International",
+              "Title": "Cyber Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-02-2026",
+              "Published at": "Scripown Publicationa"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Introduction to Large Language Models",
+              "Level": "International",
+              "Title": "Introduction to Large Language Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "25-02-2026",
+              "Published at": "Astral International Pvt. Limited"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on NexGen Networks and Cybernetics (IC2NC), Erode, India,",
+              "Level": "International",
+              "Title": "Detection of Bird Species using Lightweight Convolutional Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer- Theoretical and Applied Climatology",
+              "Level": "International",
+              "Title": "Hybrid deep learning with a fusion model of weather and soil-based multi-crop recommendations for improving crop sustainability",
+              "Volume No": "156",
+              "Issue No": "637",
+              "Year": "2025",
+              "Date": "07-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Science Direct-Knowledge-Based Systems",
+              "Level": "International",
+              "Title": "1.Adaptive optimization with reinforcement learning for high utility itemset extraction",
+              "Volume No": "331",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "24-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Astral International Pvt Ltd",
+              "Level": "International",
+              "Title": "Prompt Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "18-08-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Prompt Engineering",
+              "Level": "International",
+              "Title": "Prompt Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "18-08-2025",
+              "Published at": "Astral Publications"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "First International Conference on Data, Computation and Communication (ICDCC), Sehore, India",
+              "Level": "International",
+              "Title": "Optimised Computational Approaches for Heart Disease Prediction Using Dual Stage Machine Learning and Deep Learning",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "21-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In: Bajaj, A., Abraham, A. (eds) Computational Intelligence based Hyperspectral Image Processing. Intelligent Systems Reference Library,",
+              "Level": "International",
+              "Title": "Unveiling Hyperspectral and Multispectral Image Processing: A Contemporary Exploration of Band Selection, Dimensionality Reduction, and Compressive Sensing Techniques.",
+              "Volume No": "268",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "26-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer-Cognitive Computation",
+              "Level": "International",
+              "Title": "Innovative Deep Learning Framework for Accurate Plant Disease Detection and Crop Productivity Enhancement",
+              "Volume No": "17",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "01-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cognitive Computation",
+              "Level": "International",
+              "Title": "Innovative Deep Learning Framework for Accurate Plant Disease Detection and Crop Productivity Enhancement.",
+              "Volume No": "17",
+              "Issue No": "58",
+              "Year": "2025",
+              "Date": "30-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Taylor & Francis-Network: Computation in Neural Systems",
+              "Level": "International",
+              "Title": "4.Energy and time-aware scheduling in diverse virtualized cloud computing environments using optimized self-attention progressive generative adversarial network",
+              "Volume No": "36",
+              "Issue No": "2",
+              "Year": "2025",
+              "Date": "01-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India",
+              "Level": "International",
+              "Title": "Forgery Detection In Handwritten Documents",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India,",
+              "Level": "International",
+              "Title": "Implementation of Machine Learning Techniques for Automated Video Annotation",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "10th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India",
+              "Level": "International",
+              "Title": "Revolutionizing Mango Crop Health: A Deep Learning Approach for Precise Identification of Leaf Diseases",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Network: Computation in Neural Systems",
+              "Level": "International",
+              "Title": "Energy and time-aware scheduling in diverse virtualized cloud computing environments using optimized self-attention progressive generative adversarial network",
+              "Volume No": "36",
+              "Issue No": "2",
+              "Year": "2024",
+              "Date": "25-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In: Abraham, A., Pllana, S., Hanne, T., Siarry, P. (eds) Intelligent Systems Design and Applications. ISDA 2023. Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Unraveling the Complexity: Exploring Machine Learning Algorithms for DDoS Attack Analysis",
+              "Volume No": "1048",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "13-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Energy Efficiency",
+              "Level": "International",
+              "Title": "Enhancement of energy utilization efficiency and speed control of autonomous electric vehicles (AEVs): A hybrid approach.",
+              "Volume No": "17",
+              "Issue No": "59",
+              "Year": "2024",
+              "Date": "02-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal Of Theoretical And Applied Information Technology 1",
+              "Level": "International",
+              "Title": "Utilizing Genetic Algorithm Integrated With Intelligent Operators And Sarsa For Extracting High Utility Itemsets",
+              "Volume No": "102",
+              "Issue No": "9",
+              "Year": "2024",
+              "Date": "15-05-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "A Novel Sensitive DDOS attacks against statistical test in Network test in Network Traffic Fusion",
+              "Level": "International",
+              "Title": "A Novel Sensitive DDOS\nattacks against statistical test\nin Network test in Network\nTraffic Fusion",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "30-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Neuro Quantology",
+              "Level": "International",
+              "Title": "An Image Processing\nMethod for Identifying Plant\nDiseases based on changes\nin Leaf Morphology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "18-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation and Soft Computing",
+              "Level": "International",
+              "Title": "Harnessing LSTM Classifier to Suggest Nutrition Diet for Cancer Patients\nIntelligent Automation and Soft Computing\nInternational\t2023, 35(2), pp. 2171–2187\tS.Raguvaran, Rahman, A.M.J.M.Z.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Edge Computing",
+              "Level": "National",
+              "Title": "Edge Computing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "12-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation & Soft Computing",
+              "Level": "International",
+              "Title": "Mobility Aware Zone-based\nRouting in vehicle Adhoc\nNetworks using Hybrid\nMetaheuristic Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "29-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ear disease detection using R-CNN",
+              "Level": "International",
+              "Title": "Ear disease detection using R-CNN",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "08-07-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Effective Music Suggestion Using Facial Recognition",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "27-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Detection of Social Distance and Intimation System for Covid-19",
+              "Level": "International",
+              "Title": "Detection of Social Distance and Intimation System for Covid-19",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-02-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Deep Neural Network Model for Automatic Detection of Citrus Fruit and Leaf Disease",
+              "Level": "International",
+              "Title": "Deep Neural Network Model for Automatic Detection of Citrus Fruit and Leaf Disease",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-02-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "An Efficient Method of Predicting the Average Fuel Consumption in Automobiles Using Ensemble Stacking in Python.",
+              "Level": "International",
+              "Title": "An Efficient Method of Predicting the Average Fuel Consumption in Automobiles Using Ensemble Stacking in Python.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "13-02-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Skills for Self Learning",
+              "Level": "National",
+              "Title": "Smart Skills for Self Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "06-09-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial intelligence in tomato leaf disease detection: a comprehensive review and discussion.",
+              "Level": "International",
+              "Title": "Artificial intelligence in tomato leaf disease detection: a comprehensive review and discussion.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "21-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cyber Attack Detection Using Spatio Temporal  Patterns",
+              "Level": "International",
+              "Title": "Cyber Attack Detection Using Spatio Temporal  Patterns",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "15-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Essentials of IT",
+              "Level": "National",
+              "Title": "Essentials of IT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "04-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence",
+              "Level": "National",
+              "Title": "Artificial Intelligence",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "19-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Multi-criteria-based approach for job scheduling in industry 4.0 in smart cities using fuzzy logic",
+              "Level": "International",
+              "Title": "Multi-criteria-based approach for job scheduling in industry 4.0 in smart cities using fuzzy logic",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "16-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Sensor Networks for Internet of Things",
+              "Level": "National",
+              "Title": "Wireless Sensor Networks for Internet of Things",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "29-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Internet of Things",
+              "Level": "National",
+              "Title": "Internet of Things",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "30-12-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "An Insight to Computers",
+              "Level": "International",
+              "Title": "An Insight to Computers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "01-05-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Reforming Engineering Education",
+              "Level": "National",
+              "Title": "Reforming Engineering Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "24-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Challenges and Applications of Wireless Sensor Networks in Smart Farming—A Survey,Advances in Big Data and Cloud Computing, Springer",
+              "Level": "International",
+              "Title": "Challenges and Applications of Wireless Sensor Networks in Smart Farming—A\nSurvey,Advances in Big Data and Cloud Computing, Springer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "12-12-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Programming for Problem Solving",
+              "Level": "National",
+              "Title": "Programming for Problem Solving",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "21-08-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Marketing Success –Tips and Tricks",
+              "Level": "International",
+              "Title": "Marketing Success –Tips and Tricks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "21-05-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Skills for Students",
+              "Level": "National",
+              "Title": "Smart Skills for Students",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Negotiation Skills",
+              "Level": "National",
+              "Title": "Negotiation Skills",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Dictionary of Computer Science",
+              "Level": "National",
+              "Title": "Dictionary of Computer Science",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "How-Successful-Entrepreneur-Useful-Tips",
+              "Level": "National",
+              "Title": "How-Successful-Entrepreneur-Useful-Tips",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Programming for Problem Solving",
+              "Level": "National",
+              "Title": "Programming for Problem Solving",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Tips-Success-Exams",
+              "Level": "National",
+              "Title": "Tips-Success-Exams",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-01-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "An Overview of Internet of Things",
+              "Level": "International",
+              "Title": "An Overview of Internet of Things",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "05-07-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Life Time Improvement Schemes for Sensor Networks",
+              "Level": "International",
+              "Title": "Life Time Improvement Schemes for Sensor Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "16-06-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Movie Recommender System Based on K-Means Dynamic Collaborative Filtering",
+              "Level": "International",
+              "Title": "Movie Recommender System Based on K-Means Dynamic Collaborative Filtering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "07-02-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Networks",
+              "Level": "International",
+              "Title": "Wireless Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "07-06-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Service Oriented Architecture",
+              "Level": "International",
+              "Title": "Service Oriented Architecture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "01-01-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Qualnet 5.0 Network Simulator Tool (A Practical Approach)",
+              "Level": "International",
+              "Title": "Qualnet 5.0 Network Simulator Tool (A Practical Approach)",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "01-01-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "C Programming for Juniors",
+              "Level": "International",
+              "Title": "C Programming for Juniors",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "12-06-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Encyclopedia for Computers",
+              "Level": "International",
+              "Title": "Encyclopedia for Computers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "14-03-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced Software Engineering",
+              "Level": "International",
+              "Title": "Advanced Software Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "03-03-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "An Insight to Android",
+              "Level": "International",
+              "Title": "An Insight to Android",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2013",
+              "Date": "18-09-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Your Key to Success, Peacock Books,",
+              "Level": "National",
+              "Title": "Your Key to Success, Peacock Books,",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2013",
+              "Date": "24-06-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "C Programs with Solutions",
+              "Level": "National",
+              "Title": "C Programs with Solutions",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2011",
+              "Date": "01-01-2011",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Placement Interviews: Skills for Success",
+              "Level": "National",
+              "Title": "Placement Interviews: Skills for Success",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2010",
+              "Date": "10-02-2010",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wireless Sensor Networks- Research Monograph",
+              "Level": "National",
+              "Title": "Wireless Sensor Networks- Research Monograph",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2010",
+              "Date": "01-01-2010",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "A Hand Book to Wireless Sensor Networks",
+              "Level": "National",
+              "Title": "A Hand Book to Wireless Sensor Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2010",
+              "Date": "01-01-2010",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Overview of Wireless Sensor Networks and Energy Conservation concepts",
+              "Level": "National",
+              "Title": "Overview of Wireless Sensor Networks and Energy Conservation concepts",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2009",
+              "Date": "01-01-2009",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Type of Project": "Research",
+              "Title of Project": "Energy Efficient Pollution Monitoring System Using Wireless Sensor Networks",
+              "Funding Agency": "CSI",
+              "Name of the Scheme": "Minor Research",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "28-03-2014",
+              "Duration": "One Year",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "07-02-2026",
+              "Date of Consultancy (To)": "07-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11186"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Vel Super Market",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Project Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-01-2026",
+              "Date of Consultancy (To)": "05-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "41000"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Vel Super Market",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Departmental Store Website with Online ordering system",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2026",
+              "Date of Consultancy (To)": "30-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "42372"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Other college Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-10-2025",
+              "Date of Consultancy (To)": "04-10-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6864"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-10-2025",
+              "Date of Consultancy (To)": "04-10-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6864"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-09-2025",
+              "Date of Consultancy (To)": "20-09-2025",
+              "Revenue Generated (amount in Rupees without GST)": "13347"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Other College Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-09-2025",
+              "Date of Consultancy (To)": "20-09-2025",
+              "Revenue Generated (amount in Rupees without GST)": "13347"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Royal Castle",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Online Booking",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sivasakathi Stores",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Ledger Management System",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "10-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+              "Level": "State",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEP 2020 Orientation and Sensitization Programme",
+              "Level": "National",
+              "Organized by": "Coimbatore Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "22-10-2025",
+              "End Date": "31-10-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "CSI",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-06-2010",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-06-2000",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Title of Paper": "A Hybrid Genetic Algorithm  and Particle Swarm Optimization based stacking framework for student performance prediction",
+              "Title of Conference": "Power Control and Computing Technologies 25",
+              "Organized by": "Sona College of Technology",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Title of Paper": "Detection of Bird Spices using Light Weight Convolutional Neural Networks",
+              "Title of Conference": "IC2NC25",
+              "Organized by": "Nandha College of Technology",
+              "Level": "International",
+              "Start Date": "01-12-2025",
+              "End Date": "03-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "UNMANNED AERIAL VEHICLE (UAV) TO AUTONOMOUSLY AND WIRELESSLY MONITOR  SECURITY",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr.K.Selvi Dr.K.Saravanan Prof. B.Venkatesan Dr.S.K.Aruna Dr.S.Anthoniraj Prof. S.Rajesh",
+              "Application Number": "202041010349",
+              "Date of Registration": "03-11-2020",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "METHANE GAS MEASURING DEVICE IN FOOD WASTE USING RASPBERRY PI, MQ-4 SENSOR",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr. S. Nagarajan Dr. V.K.Manavalasundaram Jogendra Kumar Dr. S. Sadesh Dr.S. Gokulraj Dr. R. Senthilkumar Abhishek Gupta Amit Grover C. Karpagam Dr. P.V. Arul Kumar Jayasheelanpalanisamy T. Rajasekaran Dr. S. Vishnupriyan A. Manikandan V. Rajakumareswaran",
+              "Application Number": "202041036326",
+              "Date of Registration": "24-08-2020",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "IOT HEALTH CARE SYSTEM FOR A INDOOR AND OUTDOOR PATIENTS USING PDR",
+              "Name of Application": "",
+              "Co-inventors Name": "M. Gunasekaran P. Parthasarthy R.Varatharajan",
+              "Application Number": "201941043410",
+              "Date of Registration": "25-10-2019",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Title of the Program": "Synopsis Submission",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Nandha Engineering College",
+              "Start Date": "18-05-2026",
+              "End Date": "18-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.ANANDAMURUGAN",
+              "Department": "ITR",
+              "Title of the Program": "Synopsis Submission Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Nandha College of Technology",
+              "Start Date": "02-02-2026",
+              "End Date": "02-02-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "R.Deenadhayalan",
+              "Date of Registration": "",
+              "Registration No:": "21174691425",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "A.P.Ponselvakumar",
+              "Date of Registration": "",
+              "Registration No:": "19144697306",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "M.Mohan",
+              "Date of Registration": "",
+              "Registration No:": "21144691518",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "U.M.Ramya",
+              "Date of Registration": "",
+              "Registration No:": "23244697292",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "AN INVESTIGATION ON DEEP CONVOLUTIONAL NEURAL NETWORK MODELS FOR TOMATO LEAF DISEASE IDENTIFICATION",
+              "Name of Scholar": "Raja Sekaran T",
+              "Date of Registration": "",
+              "Registration No:": "17144691247",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": "07-04-2022"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "DESIGN OF NUTRITION-RICH DIET RECOMMENDATION SYSTEM FOR CANCER PATIENTS USING DEEP LEARNING APPROACH",
+              "Name of Scholar": "Raguvaran S",
+              "Date of Registration": "",
+              "Registration No:": "17144691251",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": "28-07-2023"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "P.Rathika",
+              "Date of Registration": "",
+              "Registration No:": "24234691272",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "SWARM INTELLIGENCE BASED DEEP LEARNING AND ENSEMBLE MULTI MODELS FOR PRODUCT REVIEW SENTIMENT ANALYSIS",
+              "Name of Scholar": "Mouthami K",
+              "Date of Registration": "",
+              "Registration No:": "18234691600",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": "12-04-2024"
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "R.Yazhini",
+              "Date of Registration": "",
+              "Registration No:": "25244697474",
+              "Status": "Pursuing",
+              "Type": "",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "ITR",
+              "Name of Supervisor": "DR.S.ANANDAMURUGAN",
+              "Title of the thesis for scholar": "AN INVESTIGATION ON ENERGY AND DEADLINE AWARE SCHEDULER FOR OPTIMIZATION IN VIRTUAL CLOUDS",
+              "Name of Scholar": "Senthil Kumar K",
+              "Date of Registration": "",
+              "Registration No:": "17134697332",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": "14-02-2025"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

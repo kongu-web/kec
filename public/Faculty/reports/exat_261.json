@@ -1,0 +1,1339 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "G.DEEPA",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Communication and Networking",
+              "Date of joining in KEC": "11-06-2010",
+              "Mobile": "8072297880",
+              "E-mail": "mitdeeps@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "Communication and Networking",
+              "From": "31-05-2010"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "11-06-2010",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Hackathon - II prize",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "05-03-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Simulathon II prize",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "31-01-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Hackathon I prize",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "30-01-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Hackatronics",
+              "Level": "National",
+              "Awarded by": "KEC",
+              "Place": "Kongu Engineering College",
+              "Date": "29-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Paper presentation I prize",
+              "Level": "National",
+              "Awarded by": "KEC",
+              "Place": "Kongu Engineering College",
+              "Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Project Presentation - I prize",
+              "Level": "National",
+              "Awarded by": "KEC",
+              "Place": "Kongu Engineering College",
+              "Date": "30-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Mathematics",
+              "Level": "International",
+              "Title": "ABC OPTIMIZATION ALGORITHM BASED ENERGY EFFICIENT ROUTING\nSCHEME FOR WSNs",
+              "Volume No": "38",
+              "Issue No": "5",
+              "Year": "2025",
+              "Date": "19-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Mathematics",
+              "Level": "International",
+              "Title": "ABC OPTIMIZATION ALGORITHM BASED ENERGY EFFICIENT ROUTING SCHEME FOR WSNs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "19-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 World Skills Conference on Universal Data Analytics and Sciences (WorldSUAS)",
+              "Level": "International",
+              "Title": "AI-Powered Adaptive Systems for Fault Detection in\nDistributed Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Trends in Industry 4.0 (ETI 4.0)",
+              "Level": "International",
+              "Title": "Leveraging Gan for Data Imbalance Correction and\nPrivacy Preservation in IIoT Intrusion Detection Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mercy Publication Consortium",
+              "Level": "International",
+              "Title": "Remote sensing and its application",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "14-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "RK Publications",
+              "Level": "International",
+              "Title": "Deep Learning , Concenpts and applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mercy Publication Consortium",
+              "Level": "International",
+              "Title": "Cognitive System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "19-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "MERCY PUBLICATION CONSORTIUM",
+              "Level": "International",
+              "Title": "A Text book of computer Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "18-10-2022",
+              "Published at": "Coimbatore"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Physiotheraphy and Rehabilitation",
+              "Level": "International",
+              "Title": "Design of triple band rectangular patch microstrip antenna",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "22-05-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Signal Processing",
+              "Level": "International",
+              "Title": "Smart Antenna for Future Wireless Communication",
+              "Volume No": "1",
+              "Issue No": "2",
+              "Year": "2015",
+              "Date": "21-10-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "OPTOELECTRONICS AND ADVANCED MATERIALS – RAPID COMMUNICATIONS",
+              "Level": "International",
+              "Title": "Defected microstrip structure based UWB antenna with\nreconfigurable band stop filter design",
+              "Volume No": "9",
+              "Issue No": "5-6",
+              "Year": "June 2015",
+              "Date": "17-06-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Emerging research in computing , information, Communication and Applications",
+              "Level": "International",
+              "Title": "Inverted-H-shape Multiband Slotted Patch Antenna For SpaceborneImaging Radar Application",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "16-07-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "AIMS ENGINEERING SERVICES, CHENNAI",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "18-02-2026",
+              "Date of Consultancy (To)": "16-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "40000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Annamalais Toyat, Chitode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "15-01-2025",
+              "Date of Consultancy (To)": "19-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "TANGEDCO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "sOFTWARE",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "15-01-2025",
+              "Date of Consultancy (To)": "19-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "GIS MAPPING OF POLES AND TRANSFORMERS  SERVICE",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-01-2025",
+              "Date of Consultancy (To)": "21-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Mani Hardwares,  Villupuram",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "08-01-2025",
+              "Date of Consultancy (To)": "12-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Mani Hardwares,  Villupuram",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "02-01-2025",
+              "Date of Consultancy (To)": "27-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "S N Tex, Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "01-01-2025",
+              "Date of Consultancy (To)": "28-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Anamalais Toyato, Nasiyanur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2025",
+              "Date of Consultancy (To)": "14-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Santosh Agencies , Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "11-06-2024",
+              "Date of Consultancy (To)": "20-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Vinayaga  agencies, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "02-01-2024",
+              "Date of Consultancy (To)": "29-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Raadiant Technologies, RN Pudur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "14-02-2023",
+              "Date of Consultancy (To)": "14-06-2023",
+              "Revenue Generated (amount in Rupees without GST)": "21830"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Guru Bio Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "04-01-2023",
+              "Date of Consultancy (To)": "15-03-2023",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "TANGEDCO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "sOFTWARE",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "11-01-2022",
+              "Date of Consultancy (To)": "23-03-2022",
+              "Revenue Generated (amount in Rupees without GST)": "12712"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Jee Vee Tex, Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "SOFTWARE",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "06-01-2021",
+              "Date of Consultancy (To)": "24-03-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Research methodology",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Course",
+              "Number of persons involved": "04",
+              "Date of Consultancy (From)": "31-08-2012",
+              "Date of Consultancy (To)": "01-09-2012",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Value added course",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "21-06-2012",
+              "Date of Consultancy (To)": "21-07-2012",
+              "Revenue Generated (amount in Rupees without GST)": "14646"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kongu Egineering College",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Value addded Course",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "13-07-2011",
+              "Date of Consultancy (To)": "05-11-2011",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "COMPREHENSIVE WORKSHOP ON NETWORK SIMULATOR (NS-2 TOOL) FOR WIRED AND WIRELESS NETWORKS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "COURSE",
+              "Number of persons involved": "04",
+              "Date of Consultancy (From)": "02-12-2010",
+              "Date of Consultancy (To)": "05-12-2010",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "COMPREHENSIVE WORKSHOP ON NETWORK SIMULATOR (NS-2 TOOL) FOR WIRED AND WIRELESS NETWORKS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "COURSE",
+              "Number of persons involved": "04",
+              "Date of Consultancy (From)": "25-11-2010",
+              "Date of Consultancy (To)": "28-11-2010",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Value Added Course on Wired and Wireless Networks using NS-2 Tool",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Value Added Course on Wired and Wireless Networks using NS-2 Tool",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "26-08-2010",
+              "Date of Consultancy (To)": "09-02-2011",
+              "Revenue Generated (amount in Rupees without GST)": "16000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Computing and its applications",
+              "Level": "International",
+              "Organized by": "Vels Institute of Science Tecnology and advanced Studies",
+              "Place": "Chennai",
+              "Start Date": "22-10-2026",
+              "End Date": "27-10-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "Training Program",
+              "Title of the program": "“EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security”",
+              "Level": "International",
+              "Organized by": "CSuite Tech Labs",
+              "Place": "Kongu Engineering College",
+              "Start Date": "06-04-2026",
+              "End Date": "11-06-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative -design, analysis and development",
+              "Level": "International",
+              "Organized by": "Vel Tech University",
+              "Place": "Chennai",
+              "Start Date": "23-03-2026",
+              "End Date": "28-03-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative - Design, Analysis, and Development (I-DAD)",
+              "Level": "International",
+              "Organized by": "Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology",
+              "Place": "Avadi, Chennai",
+              "Start Date": "23-02-2026",
+              "End Date": "28-02-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "Online",
+              "Start Date": "10-02-2026",
+              "End Date": "31-03-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Enabling Technologies for 6G Communications Networks (Hindi)",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "Online",
+              "Start Date": "10-02-2026",
+              "End Date": "17-03-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Foundations of Deep Learning: Concepts and Applications",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "ONLINE",
+              "Start Date": "05-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Foundations of Deep Learning: Concepts and Applications",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "Online",
+              "Start Date": "01-01-2026",
+              "End Date": "28-04-2026"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "Seminar",
+              "Title of the program": "CSIR sponsored Two Days National Seminar on TRANSFORMING V2X NETWORKS THROUGH 6G AND FEDERATED LEARNING for SMART MOBILITY",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "Perundurai",
+              "Start Date": "12-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Quantum Computing and its Applications”",
+              "Level": "International",
+              "Organized by": "VELS Institute of Science, Technology & Advanced Studies (VISTAS)",
+              "Place": "Pallavaram,",
+              "Start Date": "22-10-2025",
+              "End Date": "27-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Computing and its Applications",
+              "Level": "International",
+              "Organized by": "Department of Data Science and Information Technology, School of Engineering",
+              "Place": "VELS Institute of Science, Technology & Advanced Studies (VISTAS)",
+              "Start Date": "22-10-2025",
+              "End Date": "27-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "14-07-2025",
+              "End Date": "29-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Wireless and Cellular Communications",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "08-07-2025",
+              "End Date": "28-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Wireless and Cellular Communication",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "Online",
+              "Start Date": "01-07-2025",
+              "End Date": "29-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Teaching and Learning Padegogy",
+              "Level": "Online",
+              "Organized by": "Research Foundation of India",
+              "Place": "Delhi",
+              "Start Date": "19-05-2025",
+              "End Date": "24-05-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI based Vehicular Networks towards 6G and IoT: Deep  Learning approaches",
+              "Level": "Online",
+              "Organized by": "Vellore Institute of Technology",
+              "Place": "Vellore",
+              "Start Date": "17-03-2025",
+              "End Date": "22-03-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advancing Healthcare  and Med - Tech through machine learning: from theory to practice",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "03-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence and Data Analytics",
+              "Level": "Online",
+              "Organized by": "Madanapalle Institute of Technology and science",
+              "Place": "Andhra Pradesh",
+              "Start Date": "16-09-2024",
+              "End Date": "20-09-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Bio Mehatronics Exoskeleton Medical and  Industrial applications",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-02-2024",
+              "End Date": "24-02-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "STTP on Mathematical modelling",
+              "Level": "National",
+              "Organized by": "Hindustan Institute of Technoloy",
+              "Place": "Coimbatore",
+              "Start Date": "27-03-2023",
+              "End Date": "01-04-2023"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Techniques in Research and Innovation",
+              "Level": "National",
+              "Organized by": "Karpagam College of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual FDP on AI and ML skills Industry 4.0",
+              "Level": "National",
+              "Organized by": "Er.Perumal Manimekalai College of Engineering",
+              "Place": "Hosur",
+              "Start Date": "03-06-2021",
+              "End Date": "05-06-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Intelligent Wireless Network Management Through AIML-Driven Closed-Loop Control and Feedback Mechanisms",
+              "Title of Conference": "2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)",
+              "Organized by": "Medi-Caps University, Indore",
+              "Level": "International",
+              "Start Date": "06-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Cost-Effective Intrusion Detection in Cyber-Physical Systems: An Accounting Perspective Using Explainable AI and Optimisation-Based Neural Models",
+              "Title of Conference": "2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)",
+              "Organized by": "Medi-Caps University",
+              "Level": "International",
+              "Start Date": "06-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Detection of Credit Card Fraud: An Analytical Accounting Perspective Using Classification Algorithms",
+              "Title of Conference": "2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)",
+              "Organized by": "Medi-Caps University",
+              "Level": "International",
+              "Start Date": "06-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Fuzzy Logic–SVM Integration for Energy-Efficient Intrusion Detection in Wireless Sensor Networks",
+              "Title of Conference": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+              "Organized by": "Kolar, India.",
+              "Level": "International",
+              "Start Date": "10-10-2025",
+              "End Date": "11-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "AI-Powered Adaptive Systems for Fault Detection in Distributed Networks",
+              "Title of Conference": "2025 World Skills Conference on Universal Data Analytics and Sciences (WorldSUAS)",
+              "Organized by": "Symbiosis University of Applied Sciences",
+              "Level": "International",
+              "Start Date": "22-08-2025",
+              "End Date": "23-08-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Leveraging Gan for Data Imbalance Correction and Privacy Preservation in IIoT Intrusion Detection Systems",
+              "Title of Conference": "2025 4th OPJU International Technology Conference (OTCON) on Smart Computing for Innovation and Advancement in Industry 5.0",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "09-07-2025",
+              "End Date": "11-04-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Revealing Confidential Information: The Function of Data Analytics for Participants in Contemporary Energy Internet",
+              "Title of Conference": "2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)",
+              "Organized by": "School of Engineering, Gautam Buddha University (GBU)",
+              "Level": "International",
+              "Start Date": "16-01-2025",
+              "End Date": "18-01-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Revealing Confidential Information: The Function of Data Analytics for Participants in Contemporary Energy Internet",
+              "Title of Conference": "International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health, 2025 Informatics (IC3ECSBHI)",
+              "Organized by": "chool of Engineering, Gautam Buddha University, Greater Noida (U.P.)",
+              "Level": "International",
+              "Start Date": "16-01-2025",
+              "End Date": "18-01-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "A Water Sprinkler-based Automatic Cooling System in a Textile Company",
+              "Title of Conference": "8th International Conference on Electronics, Communication and Aerospace Technology (ICECA), 2024",
+              "Organized by": "RVS Technical Campus, Coimbatore",
+              "Level": "International",
+              "Start Date": "06-11-2024",
+              "End Date": "08-11-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Warehouse Management in Chemical and Textile Industry using Internet of Things (IoT) And Radio Frequency Identification (RFID) Technology",
+              "Title of Conference": "International Conference on Electronics, Communication and Aerospace Technology (ICECA) 2024",
+              "Organized by": "RVS Technical Campus,  Coimbatore, India",
+              "Level": "International",
+              "Start Date": "06-11-2024",
+              "End Date": "08-11-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Smart Biometric Cabinet Locking System",
+              "Title of Conference": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Organized by": "IIT Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Length Measurement of Coir Rope",
+              "Title of Conference": "14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "06-08-2023",
+              "End Date": "08-08-2023"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "An Energy Optimization in WSN using Dragonfly Optimization Algorithm for IoT Applications",
+              "Title of Conference": "14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "06-07-2023",
+              "End Date": "08-07-2023"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "An Energy Efficient Long Hop High Priority Algorithm for IoT Resource Management",
+              "Title of Conference": "International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (ICAECT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "21-04-2022",
+              "End Date": "22-04-2022"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "An energy efficient Agribot for greenhouse management",
+              "Title of Conference": "GREEN COMPUTING FOR COMMUNICATION TECHNOLOGIES",
+              "Organized by": "Sona College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "25-02-2022",
+              "End Date": "26-02-2022"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Biometric based Voting system using Aadhar Data Base",
+              "Title of Conference": "International Conference on Artificaial Intelligence and Smart Energy (ICAIS))",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-02-2022",
+              "End Date": "25-02-2022"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "Image recognition based billing system for fruit shop using raspberry PI",
+              "Title of Conference": "International Virtual Conference on Robotics, Automation, Intelligent Systems and Energy (IVC RAISE 2020)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "15-12-2020",
+              "End Date": "15-12-2020"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "ROBOVAC-automatic floor cleaning ROBOT",
+              "Title of Conference": "International Conference on Advanced Computing, Communication, Automation and Biomedical Technology (ICACCABT 2020)",
+              "Organized by": "KPR Institute of Technology, Coimbatore",
+              "Level": "International",
+              "Start Date": "11-12-2020",
+              "End Date": "12-12-2020"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of Paper": "An efficient resource management algorithm for next generation networks using multinetwork data path",
+              "Title of Conference": "Latest trends on communication",
+              "Organized by": "-",
+              "Level": "International",
+              "Start Date": "14-10-2015",
+              "End Date": "16-10-2015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Fuzzy Logic–SVM Integration for Energy-Eff icient Intrusion Detect ion in Wireless Sensor Networks - Conference presentation",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "Dr. T. Thimmaiah Inst i tute of Technology, Kolar",
+              "Start Date": "10-10-2025",
+              "End Date": "11-10-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Hactronics 25",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "26-09-2025",
+              "End Date": "27-09-2025"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Conference presentation",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "RVS Technical Campus",
+              "Start Date": "06-11-2024",
+              "End Date": "08-11-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "RVS Technical Campus",
+              "Start Date": "06-11-2024",
+              "End Date": "08-11-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Conference participation",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "IIT Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Project Contest",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "05-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "Project Contest",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "09-11-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "G.DEEPA",
+              "Department": "ECR",
+              "Title of the Program": "KEC Ideathon",
+              "Role": "Others",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "28-09-2022",
+              "End Date": "28-09-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

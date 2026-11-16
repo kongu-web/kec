@@ -1,0 +1,832 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Fuzzy Optimization",
+              "Date of joining in KEC": "16-06-2014",
+              "Mobile": "9150520770",
+              "E-mail": "radhikavisu@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Fuzzy optimization",
+              "From": "01-06-2017"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "mathematics",
+              "From": "05-06-2002"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "mathematics",
+              "From": "04-06-1998"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Mathematics",
+              "From": "06-06-1995"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "16-06-2014",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Results in Nonlinear Analysis",
+              "Level": "International",
+              "Title": "Artificial Intelligence and Neural Network-Driven Quantum Calculus Framework for Nonlinear Optimization of Fuzzy Partial Differential Equations in Fluid Dynamics",
+              "Volume No": "Vol. 9",
+              "Issue No": "Issue  No. 1",
+              "Year": "2026",
+              "Date": "25-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore:",
+              "Level": "International",
+              "Title": "Evaluating Generative Adversarial Networks Performance in Image Synthesis with Graphical Analysis of Loss Functions and Quality Metrics.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "AI Powered Crypt-Analysis for Identification of Encryption Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "https://content.iospress.com/journals/journal-of-intelligent-and-fuzzy-systems",
+              "Level": "International",
+              "Title": "Multi-objective optimization for multi-type transportation problem in intuitionistic fuzzy environment",
+              "Volume No": "vol. 43, no. 1, pp.",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Neutrosophic Sets and Systems",
+              "Level": "International",
+              "Title": "Ranking of Pentagonal Neutrosophic Numbers and its Applications to solve Assignment Problem",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "08-07-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Gedrag  &     Organisatie",
+              "Level": "International",
+              "Title": "A new ranking approach for ordering of single valued triangular neutrosophic numbers",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "12-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Gedrag  & Organisatie",
+              "Level": "International",
+              "Title": "Ratio ranking method of Triangular Single valued Neutrosophic numbers",
+              "Volume No": "Vol.33,No.2,pp.1368-1382, 2020.",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "05-05-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Data Analysis in MATLAB",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-03-2026",
+              "End Date": "05-05-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "MNTLAB Essentials",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-10-2025",
+              "End Date": "06-12-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Type of Event": "Others",
+              "Name of Event": "Fundamentals Of Computing",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "17 days",
+              "Role played": "Others",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Type of Event": "",
+              "Name of Event": "\"CSIR & TNSCST  sponsored  International  Conference on  applied  Mathematics  and Computing\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025",
+              "Duration": "2 days",
+              "Role played": "Member",
+              "Venue": "Sir C.V.Raman Seminar Hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Analytics with Python",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling and Data - Driven Approaches\"",
+              "Level": "Others",
+              "Organized by": "Department of Mathematics, Kongu Engineering College, Erode, in collaboration with Mathworks and ARK Infosolutions Private Limited, Chennai.",
+              "Place": "Kongu Engineering College",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Descriptive Statistics with R Software",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Descriptive Statistics with R Software",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Foundations of R Software",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Python for Data Science",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "International",
+              "Organized by": "IIT-Madrass",
+              "Place": "online",
+              "Start Date": "01-01-2025",
+              "End Date": "28-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machin Drawing Through Auto CAD",
+              "Level": "International",
+              "Organized by": "CVR College Of Engineering",
+              "Place": "Telangana",
+              "Start Date": "30-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing The Power of Machine Learning",
+              "Level": "International",
+              "Organized by": "Jeppiaar Institute Of Technology",
+              "Place": "Tamil Nadu",
+              "Start Date": "29-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Driven Decision Making :Applied Linear Algebra, Integrating Statistical Methods And Data Science In Research",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "The Future of Mechanical Engineering: AI and Its Transformative Impact",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-09-2024",
+              "End Date": "21-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Statistical Learning for Reliability Analysis",
+              "Level": "International",
+              "Organized by": "IIT-Madras",
+              "Place": "online",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Statistical Learning for Reliability Analysis",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Issues, Opportunities and Challenges in Smart Grid",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Multivariate Procedures with R",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology kanpur",
+              "Place": "online",
+              "Start Date": "01-01-2024",
+              "End Date": "30-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Multivariate Procedures with R",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Modelling and Computation in Engineering",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Unlocking Innovation: Exploring Research, Innovation and Patents",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Foundations of R Software",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology kanpur",
+              "Place": "online",
+              "Start Date": "01-07-2023",
+              "End Date": "31-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Open Source Software Tools for Research",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "13-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Problem solving through programming in C",
+              "Level": "National",
+              "Organized by": "IIT-Kharagpur",
+              "Place": "online",
+              "Start Date": "01-01-2023",
+              "End Date": "30-04-2023"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "Current Trends in Applications of Mathematics",
+              "Start Date": "21-09-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Transforms calculus  and its applications in differential equations",
+              "Level": "National",
+              "Organized by": "IIT- Kharagpur",
+              "Place": "online",
+              "Start Date": "01-01-2022",
+              "End Date": "30-04-2022"
+            },
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Outcome based pedagogic principles for Effective Teaching",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.RADHIKA",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "THE INDIAN MATHEMATICAL SOCIETY",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "23-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

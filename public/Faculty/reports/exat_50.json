@@ -1,0 +1,597 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Polymer electrolyte preparation for Battery application",
+              "Date of joining in KEC": "13-06-2008",
+              "Mobile": "8778626585",
+              "E-mail": "kiruthika_s@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "ELECTROLYTE FOR BATTERY APPLICATION",
+              "From": "26-12-2017"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "M.PHIL",
+              "Specialization": "PLASMA PHYSICS",
+              "From": "13-07-2009"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Physics",
+              "From": "14-06-2004"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Academic Degree": "B.sc",
+              "Specialization": "Physics",
+              "From": "11-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "13-06-2008",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Name of Award/Achievement": "NPTEL",
+              "Level": "National",
+              "Awarded by": "IITs/IISc & SWAYAM",
+              "Place": "",
+              "Date": "13-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Name of Award/Achievement": "BEST FACULTY AWARD (2024-2025)",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "KEC",
+              "Date": "20-03-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Chemistry and Physics",
+              "Level": "International",
+              "Title": "Nebulizer spray deposited ruthenium doped PbS thin films for photosensing applications",
+              "Volume No": "359",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "01-07-2026",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ionics",
+              "Level": "International",
+              "Title": "ZIF-7 @ sodium alginate- derived porous carbon: a sustainable and efficient material for ultrasensitive monitoring of Rhodamibe B",
+              "Volume No": "31",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IONICS",
+              "Level": "International",
+              "Title": "Study of pectin?based biopolymer electrolytes with magnesium\ntriflate (MgTf2) for applications in magnesium batteries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "11-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Solid State Electrochemistry",
+              "Level": "International",
+              "Title": "Investigation of blend biopolymer electrolytes based on Dextran-PVA with ammonium thiocyanate",
+              "Volume No": "25",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "25-10-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "POLYMER BULLETIN",
+              "Level": "International",
+              "Title": "Conducting biopolymer electrolyte based on pectin\nwith magnesium chloride salt for magnesium battery\napplication",
+              "Volume No": "77",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "20-12-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Solid State Electrochemistry",
+              "Level": "International",
+              "Title": "Eco-friendly biopolymer electrolyte, pectin with magnesium nitrate salt, for application in electrochemical devices",
+              "Volume No": "23",
+              "Issue No": "12)",
+              "Year": "2019",
+              "Date": "14-06-2019",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Short-Term Faculty Development Programme(FDP) on Teaching and Learnng Practices in Higher Education.",
+              "Level": "National",
+              "Organized by": "Malaviya Mission Teacher Training Centre at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai",
+              "Place": "Chennai",
+              "Start Date": "17-08-2026",
+              "End Date": "22-08-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "NPTEL",
+              "Level": "National",
+              "Organized by": "IITs/IISc & SWAYAM",
+              "Place": "",
+              "Start Date": "09-01-2026",
+              "End Date": "15-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "ATAL FDP ON ADVANCED ENERGY STORAGE TECHNOLOGIES FOR SUSTAINABLE DEVELOPMENT",
+              "Level": "International",
+              "Organized by": "Dept. of Science and Humanities, CIT Sandwich Polytechnic College",
+              "Place": ", Coimbatore",
+              "Start Date": "05-01-2026",
+              "End Date": "10-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "Others",
+              "Title of the program": "3D Printing Techniques and Methodologies",
+              "Level": "State",
+              "Organized by": "YAFT DESIGNS",
+              "Place": "PERUNDURAI",
+              "Start Date": "21-06-2025",
+              "End Date": "26-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Frontiers in Material Science",
+              "Level": "International",
+              "Organized by": "SMR INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "CHENNAI",
+              "Start Date": "17-03-2025",
+              "End Date": "27-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "CONTEMPORARY RESEARCH TRENDS, INNOVATIONS IN MATERIALS AND TECHNOLOGY",
+              "Level": "Online",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLOGY",
+              "Place": "SRIPERUMBUDUR",
+              "Start Date": "26-08-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KIRUTHIKA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "FRONTIERS IN MATERIALS RESEARCH, INNOVATIONS AND ENTREPRENEURSHIP(FMRIE'24)",
+              "Level": "Online",
+              "Organized by": "SAIRAM ENGINEERING COLLEGE",
+              "Place": "CHENNAI",
+              "Start Date": "25-07-2024",
+              "End Date": "08-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

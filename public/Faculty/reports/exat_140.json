@@ -1,0 +1,830 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "FUZZY IMAGE PROCESSING",
+              "Date of joining in KEC": "27-07-2011",
+              "Mobile": "9965079897",
+              "E-mail": "harikrishnan.sh@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Fuzzy Image Processing",
+              "From": "15-01-2009"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "MATHEMATICS",
+              "From": "19-06-1996"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "15-07-1992"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "12-06-1989"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "27-07-2011",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "02-06-2008",
+              "End Date": "25-07-2011",
+              "Contribution to the Institute": "ASSISTANT PROFESSOR"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "05-07-1995",
+              "End Date": "31-05-2008",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "NANDHA COLLEGE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "02-06-2008",
+              "End Date": "25-07-2011",
+              "Duration": "3 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MAR-DR.M.HARIKRISHNAN-79f1fa5a-131d-4edb-bc7d-caf9b5b1c63e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091822Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=63b967c23eba76adff9d317859a042d3c98719a553c7cbf6a24afa7087c84e29",
+                  "name": "exprienceNandha.pdf",
+                  "totalRecords": null,
+                  "resourceId": "HpagTsNEquae8tWBK",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of Award/Achievement": "BEST FACULTY",
+              "Level": "Others",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Pharmaceutical Negative Results",
+              "Level": "International",
+              "Title": "Survey on Spell Checker for Tamil Language Using Natural Language Processing.",
+              "Volume No": "13",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "08-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Annals of the Romanian Society for Cell Biology",
+              "Level": "International",
+              "Title": "Behavioral Features based Autism Spectrum Disorder Detection using Decision Trees",
+              "Volume No": "25",
+              "Issue No": "3",
+              "Year": "2021",
+              "Date": "15-07-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in social Sciences and Humanities",
+              "Level": "International",
+              "Title": "A New optimum method of Mean Difference Fuzzy Filter For Noise Reduction in Color Images",
+              "Volume No": "6",
+              "Issue No": "6",
+              "Year": "2016",
+              "Date": "07-06-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research in Computer Science and Software Engineering",
+              "Level": "International",
+              "Title": "A New Method o f Gaussian Noise Reduction in Gray and Colour Images by Fuzzy Filter",
+              "Volume No": "3",
+              "Issue No": "9",
+              "Year": "2013",
+              "Date": "18-09-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematical Sciences",
+              "Level": "International",
+              "Title": "A New Concept of Reduction of Gaussian Noise in Images Based on Fuzzy Logic",
+              "Volume No": "7",
+              "Issue No": "12",
+              "Year": "2013",
+              "Date": "12-06-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Science and Engineering Applications",
+              "Level": "International",
+              "Title": "A New Method of Impulse Noise Reduction in Gray and Color Images by Fuzzy Filter",
+              "Volume No": "2",
+              "Issue No": "10",
+              "Year": "2013",
+              "Date": "15-03-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Int. J. Contemp. Math. Sciences",
+              "Level": "International",
+              "Title": "An Algorithmic Research Analysis of Fuzziness in Mathematical Morphology\"",
+              "Volume No": "5",
+              "Issue No": "125",
+              "Year": "2010",
+              "Date": "16-06-2010",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Fuzzy Mathematics",
+              "Level": "National",
+              "Title": "Applications of Advanced Fuzzy Logic Techniques in Fuzzy Image Processing Scheme.",
+              "Volume No": "5",
+              "Issue No": "1",
+              "Year": "2010",
+              "Date": "01-03-2010",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computational Intelligence Research",
+              "Level": "International",
+              "Title": "An Innovative Method of Denoising the Gaussian Noise by Fuzzy Image Filter",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2010",
+              "Date": "01-02-2010",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Project": "ER&IPR",
+              "Title of Project": "Development of New Fuzzy Filters For the removal of Linear and Non Linear noises in Defence satellite SAR Images",
+              "Funding Agency": "DRDO",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "26-06-2024",
+              "Duration": "3 YEARS",
+              "Status": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "Two days online training CSIR-NET/SET(MATHEMATICAL SCIENCES)",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "05-11-2025",
+              "End Date": "06-11-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Convener",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "MATLAB ESSENTIALS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "27-10-2025",
+              "End Date": "06-12-2025",
+              "Duration": "30 HOURS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "Two days online workshop on bridge course for basic and Engineering mathematical skills",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "13-08-2025",
+              "End Date": "14-08-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Convener",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Training",
+              "Name of Event": "TWO DAYS ONLINE TRAINING ON SPEED MATHS AND SHORTCUT TECHNIQUES FOR QUANTITATIVE APTITUDE",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "06-08-2025",
+              "End Date": "07-08-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Convener",
+              "Venue": "ONLINE"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "INTERNATIONAL CONFERENCE ON APPLIED MATHEMATICS AND COMPUTING",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025",
+              "Duration": "2 days",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "“APPLICATION OF NEURAL NETWORKS IN  DIAGNOSING CANCER DISEASE USING BIOMEDICAL  IMAGE PROCESSING”",
+              "Collaboration/Sponsored by": "DBT",
+              "Level": "National",
+              "Start Date": "21-10-2016",
+              "End Date": "21-10-2016",
+              "Duration": "1 DAY",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Type of Event": "Seminar",
+              "Name of Event": "APPLICATIONS OF FUZZY LOGIC IN IMAGE PROCESSING",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "31-08-2012",
+              "End Date": "01-09-2012",
+              "Duration": "2 DAYS",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research tools:computational M,ath,Modelliung and data driven Approaches",
+              "Level": "National",
+              "Organized by": "DEPARTMENT OF MATHEMATICS,KONGU ENGINEERING COLLEGE",
+              "Place": "KONGU ENGINEERING COLLEGE,PERUNDURAI",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "NEXT-GEN EDUCATORS:HARNESSING THE POWER OF MACHINE LEARNING",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLOGY",
+              "Place": "TAMILNADU",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "DATA DRIVEN DECISION MAKING:APPLIED LINEAR ALGEBRA,,INTEGRATING STATISTICS, METHODS, AND DATA SCIENCE  IN RESEARCH",
+              "Level": "National",
+              "Organized by": "ST.JOSEPH'S COLLEGE(ARTS AND SCIENCE)",
+              "Place": "KOVUR,CHENNAI",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Ethical issues in Research writing",
+              "Level": "International",
+              "Organized by": "REGIONAL COLLEGE FOR EDUCATION RESEARCH AND TECHNOLOGY,JAIPUR",
+              "Place": "JAIPUR",
+              "Start Date": "11-09-2024",
+              "End Date": "16-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "EXPLORING NEW HORIZONS IN MATHEMATICAL RESEARCH",
+              "Level": "National",
+              "Organized by": "V.O.CHIDAMPARAM COLLEGE",
+              "Place": "THOOTHUKUDI",
+              "Start Date": "19-08-2024",
+              "End Date": "24-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "ASTESJ",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "01-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "INTERNATIONAL SOCIETY FOR RESEARCH AND DEVELOPMENT",
+              "Position": "FELLOW",
+              "Level": "International",
+              "Start Date": "01-06-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "SRINIVASA  RAMANUJAN MATHEMATICS CLUB",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "DEPARTMENT OF MATHEMATICS",
+              "Start Date": "07-03-2026",
+              "End Date": "07-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "GATE CLASS",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "DEPARTMENT OF MATHEMATICS",
+              "Start Date": "29-11-2025",
+              "End Date": "23-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "QUANT QUEST",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "KEC CT-PG",
+              "Start Date": "29-08-2025",
+              "End Date": "29-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "Two days online workshop on bridge course for basic and Engineering mathematical skills",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "DEPARTMENT OF MATHEMATICS,KEC",
+              "Start Date": "13-08-2025",
+              "End Date": "14-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "TWO DAYS ONLINE TRAINING ON SPEED MATHS AND SHORTCUT TECHNIQUES FOR QUANTITATIVE APTITUDE",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "DEPARTMENT OF MATHEMATICS,KEC",
+              "Start Date": "06-08-2025",
+              "End Date": "07-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "SPECIAL LECTURE ON QUANTITATIVE APTITUDE",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "COMPUTER TECHNOLOGY-UG",
+              "Start Date": "06-06-2024",
+              "End Date": "06-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.HARIKRISHNAN",
+              "Department": "MAR",
+              "Title of the Program": "\"How to tackle the competitive exams\"",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "12-05-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

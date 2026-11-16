@@ -1,0 +1,546 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "01-06-2024",
+              "Mobile": "9500031752",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Academic Degree": "ME",
+              "Specialization": "COMMUNICATION SYSTEMS",
+              "From": "12-06-2015"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Academic Degree": "BE",
+              "Specialization": "ECE",
+              "From": "12-08-2011"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "ENHANCING SPECTRUM SENSING IN COGNITIVE RADIO NETWORKS USING DEEP LEARNING MODELS: A SOLUTION FOR LOW SNR CHALLENGE",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "17-01-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "K square Automation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project Design",
+              "Number of persons involved": "7",
+              "Date of Consultancy (From)": "20-12-2025",
+              "Date of Consultancy (To)": "15-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "23600"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "New Alwar Stores",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project Design",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "15-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "7080"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "New Medicals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project Design",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "15-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "7080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "CSIR SPONSORED SEMINAR ON TRANSFORMING V2X NETWORKS THROUGH 6G AND FEDERATED LEARNING FOR SMART MOBILITY",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "12-12-2025",
+              "End Date": "26-06-2026",
+              "Duration": "2 DAYS",
+              "Role played": "Convener",
+              "Venue": "JAWAHARLAL NEHRU SEMINAR HALL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NANOBIOTECHNOLOGY FOR AGRICULTURE",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "20-01-2026",
+              "End Date": "20-03-2026"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "EXPERIMENTAL NANOBIOTECHNOLOGY",
+              "Level": "National",
+              "Organized by": "SWAYAM",
+              "Place": "",
+              "Start Date": "12-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": "06-01-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Title of Paper": "Mitigating Skin tone bias in AI driven Melanoma Detection to improve Diagnostic Equity Across Diverse Populations",
+              "Title of Conference": "International Conference on AI Driven Smart Systems and Ubiquitos Computing",
+              "Organized by": "Shinawatra University, Thailand and S.E.A College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "19-01-2026",
+              "End Date": "21-01-2026"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Title of Paper": "Gyroscope and Accelerometer based Assistive Spoon for Motor Disorder Patients",
+              "Title of Conference": "6 TH International Conference on Smart Electronics and Communication",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "24-09-2025",
+              "End Date": "26-09-2025"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Title of Paper": "Revolutionizing smart farming with IoT and AI Driven Technologies",
+              "Title of Conference": "6 TH International Conference on Smart Electronics and Communication (ICOSEC 2025)",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "24-09-2025",
+              "End Date": "26-06-2026"
+            },
+            {
+              "Name of Faculty": "B.T.ANNAPOORANI",
+              "Department": "ECR",
+              "Title of Paper": "ENHANCING SPECTRUM SENSING IN COGNITIVE RADIO NETWORKS USING DEEP LEARNING MODELS: A SOLUTION FOR LOW SNR CHALLENGES",
+              "Title of Conference": "THIRD INTERNATIONAL CONFERENCE ON AUTOMATION,COMPUTING,RENEWABLE SSYTEMS",
+              "Organized by": "MOUNT ZION COLLEGE OF ENGINEERING AND TECHNOLOGY",
+              "Level": "International",
+              "Start Date": "04-12-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

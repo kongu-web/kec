@@ -1,0 +1,855 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "HR & operations",
+              "Date of joining in KEC": "14-12-2020",
+              "Mobile": "09003463969",
+              "E-mail": "vaishnacsca@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Academic Degree": "PHD",
+              "Specialization": "Management",
+              "From": "01-07-2017"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Academic Degree": "MBA",
+              "Specialization": "HR & MArketing",
+              "From": "03-09-2007"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Academic Degree": "PG Diploma",
+              "Specialization": "Entrepreneur Development",
+              "From": "03-09-2007"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Academic Degree": "Bachelor of Science",
+              "Specialization": "Computer Science and Computer Application",
+              "From": "01-07-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": "KEC MBA Faculty"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "14-12-2020",
+              "End Date": "12-06-2025",
+              "Contribution to the Institute": "MBA  Faculty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Name of Award/Achievement": "Best Faculty",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering college",
+              "Place": "Perundurai",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Innovate to Integrate: Data-driven Management and TechStrat Fusion",
+              "Level": "International",
+              "Title": "Leadership and Decision-making: Strategic Guidance for Leveraging Data-driven Insights",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "05-11-2025",
+              "Published at": "Emerld Insight"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Information and Communication Technology for Competitive Strategies",
+              "Level": "International",
+              "Title": "Empowering Farmers: The Impact of Blockchain Technology on Agricultural Supply Chain Management",
+              "Volume No": "1384",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-08-2025",
+              "Published at": "Springer Nature Singapore"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Information and Communication Technology for Competitive Strategies",
+              "Level": "International",
+              "Title": "Assessing TeleHealth Performance in Indian Hospitals: A Fuzzy Logic-Based Model with Organizational Insights",
+              "Volume No": "1384",
+              "Issue No": "",
+              "Year": "22025",
+              "Date": "12-08-2025",
+              "Published at": "Springer Nature Singapore"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Information and Communication Technology for Competitive Strategies",
+              "Level": "International",
+              "Title": "The Power of Data Mining: Analyzing Social Media Trends for Business Strategy",
+              "Volume No": "1384",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-08-2025",
+              "Published at": "Springer Nature Singapore"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Benchmarking: An International Journal",
+              "Level": "International",
+              "Title": "Vaishnavi Vadivelu\nReadiness factors to improve the performance of hotel industry after COVID-19: a TISM approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-08-2025",
+              "Published at": "Emerald Insight"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Benchmarking: An International Journal",
+              "Level": "International",
+              "Title": "Readiness factors to improve the performance of hotel industry after COVID-19: a TISM approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-08-2025",
+              "Published at": "emerald publishers"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Blockchain Technology for the Engineering and Service Sectors",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "18-06-2025",
+              "Published at": "Scrivener publisher , John Wiley & Sons"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Blockchain Integration: Transforming the Automotive Landscape",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-06-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Transforming Tourism: Exploring the Potential of Blockchain Technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-06-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Transforming Healthcare: The Role of Blockchain Technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-06-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Revolutionizing Finance: The Power of Blockchain in Banking",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-06-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain Technology for the Engineering and Service Sectors",
+              "Level": "International",
+              "Title": "Decoding the Blocks: A Comprehensive Introduction to Blockchain",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-06-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 15th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2023) Volume 4: Real World Applications",
+              "Level": "International",
+              "Title": "AI-Powered Recommendation System for Dining and Cuisine Exploration",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "06-05-2025",
+              "Published at": "Springer, Cham"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 15th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2023) Volume 2: Deep Learning and Large Language Models",
+              "Level": "International",
+              "Title": "The Study of Ethical Aspects of Implementing Large Language Models in Business and Society",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "04-05-2025",
+              "Published at": "Springer Nature Switzerland AG 2025"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Metal Additive Manufacturing: Principles, Techniques and Applications",
+              "Level": "International",
+              "Title": "Transforming Supply Chains (SCs) with Additive Manufacturing (AM) A Paradigm Shift in Production",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-02-2025",
+              "Published at": "John Wiley & Sons, Inc."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Metal Additive Manufacturing: Principles, Techniques and Applications",
+              "Level": "International",
+              "Title": "Transforming Supply Chains (SCs) with Additive Manufacturing (AM) A Paradigm Shift in Production",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "28-02-2025",
+              "Published at": "Scrivener Publishing LLC"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "A review on recent developments of\nsmart cities",
+              "Volume No": "2857",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "18-08-2023",
+              "Published at": "AIP Publishing LLC"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "An IoT adoption in agriculture: Challenges and futuristic directions",
+              "Volume No": "2857",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "18-08-2023",
+              "Published at": "AIP Publishing LLC."
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Management of Environmental Quality: An International Journal",
+              "Level": "International",
+              "Title": "Modelling the factors in implementation of environmental sustainability in healthcare organisations",
+              "Volume No": "34",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "18-07-2022",
+              "Published at": "emerald publishers"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of King Saud University - Engineering Sciences",
+              "Level": "International",
+              "Title": "Assessment of healthcare organizational readiness for change: A fuzzy logic approach",
+              "Volume No": "34",
+              "Issue No": "3",
+              "Year": "2022",
+              "Date": "01-04-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Global Journal of Flexible Systems Management",
+              "Level": "International",
+              "Title": "Assessing the Readiness Level of Healthcare for Implementing Agility Using Fuzzy Logic Approach",
+              "Volume No": "21",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "18-05-2020",
+              "Published at": "Springer Nature Link"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Lean Six Sigma",
+              "Level": "International",
+              "Title": "Assessment of readiness level for implementing lean six sigma in healthcare organization using fuzzy logic approach",
+              "Volume No": "12",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "18-05-2020",
+              "Published at": "emerald publishers"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Organizational Analysis",
+              "Level": "International",
+              "Title": "Leanness evaluation in health-care organizations using fuzzy logic approach",
+              "Volume No": "28",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "09-03-2020",
+              "Published at": "Emerald Publishing"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Lean Six Sigma",
+              "Level": "International",
+              "Title": "Modelling of readiness factors for the implementation of Lean Six Sigma in healthcare organizations",
+              "Volume No": "11",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "24-02-2020",
+              "Published at": "emerald publishers"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Benchmarking: An International Journal",
+              "Level": "International",
+              "Title": "Modelling the readiness factors for agility in healthcare organization: a TISM approach",
+              "Volume No": "26",
+              "Issue No": "7",
+              "Year": "2019",
+              "Date": "09-08-2019",
+              "Published at": "emerald publishers"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Benchmarking: An International Journal",
+              "Level": "International",
+              "Title": "A study on the influence of factors associated with organizational readiness for change in healthcare organizations using TISM.",
+              "Volume No": "26",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "04-02-2019",
+              "Published at": "Emerald – Publishers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Type of Project": "R&D",
+              "Title of Project": "Implementation of Blockchain Technology to Enhance Transparency, Traceability and Quality Assurance in the Supply Chain of South Indian Agriculture Industries’ under the special call for Vision Viksit Bharat@2047 (VVB@2047)",
+              "Funding Agency": "ICSSR",
+              "Name of the Scheme": "Vision Viksit Bharat@2047 (VVB@2047)",
+              "Co-Investigator(s)": "Dr. Prakash N., Dr. V. Vaishnavi, Dr. P. Sivaranjani, Dr. P. Karthikeyan",
+              "Project Start Date": "20-09-2024",
+              "Duration": "1 yr",
+              "Status": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Type of Event": "Conference",
+              "Name of Event": "Implementation of Blockchain Technology to Enhance Transparency, Traceability and Quality Assurance in the Supply Chain of South Indian Agriculture Industries’ under the special call for Vision Viksit Bharat@2047 (VVB@2047)",
+              "Collaboration/Sponsored by": "ICSSR",
+              "Level": "National",
+              "Start Date": "15-02-2025",
+              "End Date": "15-02-2025",
+              "Duration": "1 day",
+              "Role played": "Joint Convener",
+              "Venue": "MBA Block"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Type of Event": "Conference",
+              "Name of Event": "\"India's Foreign Policy in the 21st Century: Navigating Global Challenges and Opportunities (IFPCO-2025)\"",
+              "Collaboration/Sponsored by": "Indian Council of World Affairs (ICWA), New Delhi",
+              "Level": "International",
+              "Start Date": "30-01-2025",
+              "End Date": "31-01-2025",
+              "Duration": "2 days",
+              "Role played": "Joint Convener",
+              "Venue": "CK Prahalad, MBA Block , KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Managerial Skill for Internpersonal dynamics",
+              "Level": "National",
+              "Organized by": "IIT Roorkee",
+              "Place": "Roorkee",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "NPTEL _ HR Analytics",
+              "Level": "National",
+              "Organized by": "IIT Roorkee",
+              "Place": "Roorkee",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Organizational Design Change and Transformation",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.V.VAISHNAVI",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "AI in Human Resource Management",
+              "Level": "National",
+              "Organized by": "IIT Guwahati",
+              "Place": "online",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

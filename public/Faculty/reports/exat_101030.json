@@ -1,0 +1,1261 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Deep Learning, VANET",
+              "Date of joining in KEC": "24-06-2026",
+              "Mobile": "9940049001",
+              "E-mail": "sivabalaselvamani@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Academic Degree": "SET Exam",
+              "Specialization": "Computer Science and Application",
+              "From": "12-01-2017"
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Academic Degree": "Ph.D",
+              "Specialization": "VANET",
+              "From": "01-07-2011"
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "01-06-2005"
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Chemistry",
+              "From": "02-06-2002"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Skin Melanoma Detection Using Image Augmentation Authors D Sivabalaselvamani, K Nanthini, D Selvakarthi, VM Niranchan, L Saravana Kumar, P Swetha Publication date 2023/9/20 Conference 2023 4th International Conference on Smart Electronics and Communication (ICOSEC)",
+              "Level": "International",
+              "Title": "Skin Melanoma Detection Using Image Augmentation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "20-09-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Transforming Digital Education: Leveraging Artificial Intelligence for Smart School Facilities, John Wiley & Sons, Inc.",
+              "Level": "International",
+              "Title": "Transforming Students into Ethical Leaders through AI?Enhanced Pedagogical Practices and a Model for the Future of Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "24-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Array",
+              "Level": "International",
+              "Title": "Deep Learning Benchmarking for Low-Resource Tamil News Classification Using Controlled Dataset Balancing and Augmentation",
+              "Volume No": "31",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "23-06-2026",
+              "Published at": "Array Volume 31, September 2026, 101034, Elsevier"
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Machine Learning and Autonomous Systems (ICMLAS)",
+              "Level": "International",
+              "Title": "ECG Image Based Heart Disease Prediction Using Customized Pre-Trained Resnet-50",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "11-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2020 International Conference on Inventive Computation Technologies (ICICT)",
+              "Level": "International",
+              "Title": "Convolution Neural Network based Specialized Restaurant Rating Using Facial Expression Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "26-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th International Conference on Communication, Computing and Electronics Systems (ICCCES)",
+              "Level": "International",
+              "Title": "Ghostden: Hybrid Framework for ECG Image Based Heart Disease Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "21-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "7th International Conference on Mobile Computing and Sustainable Informatics (ICMCSI)",
+              "Level": "International",
+              "Title": "A Hybrid Ensemble Approach for Heart Disease Risk Prediction Using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "07-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Multidisciplinary Technovation",
+              "Level": "International",
+              "Title": "Implantable Chip Revolutionizing Early-Stage Liver Cancer Detection with Advanced Diagnosis System",
+              "Volume No": "7",
+              "Issue No": "6",
+              "Year": "2025",
+              "Date": "29-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific Reports",
+              "Level": "International",
+              "Title": "Hybrid deep learning framework for heart disease prediction using ECG signal images",
+              "Volume No": "15",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "30-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced AI and Data Science Applications",
+              "Level": "International",
+              "Title": "Enhancing Bone Cancer Detection Using AI-Based Multi-Model Ensemble Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced AI and Data Science Applications",
+              "Level": "International",
+              "Title": "Advanced AI and Data Science Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced AI and Data Science Applications",
+              "Level": "International",
+              "Title": "Enhancing Bone Cancer Detection Using AI-Based Multi-Model Ensemble Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS",
+              "Level": "International",
+              "Title": "Smart IoT Enabled RealTime Traffic Monitoring and Management System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "11-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Metaverse and Current Trends in Computing (ICMCTC)",
+              "Level": "International",
+              "Title": "Harnessing Artificial Intelligence Technology for Early Identification of Sepsis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Sustainable Communication Networks and Application (ICSCNA",
+              "Level": "International",
+              "Title": "Heart Disease Prediction Using Tree Structured Parzen Estimator Optimization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Level": "International",
+              "Title": "Early Detection and Classification of Eye Diseases Using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+              "Level": "International",
+              "Title": "Enhancing Heart Disease Prediction Through VGG16 and CapsNet",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Multidisciplinary Technovation",
+              "Level": "International",
+              "Title": "Comprehensive EEG Signal Feature Extraction for Neurological Disorder Diagnosis: Focus on Alzheimer's, Parkinson's, and Seizure Disorders",
+              "Volume No": "6",
+              "Issue No": "3",
+              "Year": "2024",
+              "Date": "20-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Neural Computing and Applications",
+              "Level": "International",
+              "Title": "Automated classification of Alzheimer's disease based on deep belief neural networks",
+              "Volume No": "36",
+              "Issue No": "21",
+              "Year": "2024",
+              "Date": "16-02-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "Diabetic Retinopathy Detection using Squeezenet",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "11-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence, Blockchain, Computing and Security Volume 2",
+              "Level": "International",
+              "Title": "EEG signal classification using 1D-CNN and BILSTM",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)",
+              "Level": "International",
+              "Title": "Prediction and Processing of Environment Geography Images Using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-11-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Information Technology and Contro",
+              "Level": "International",
+              "Title": "Face Positioned Driver Drowsiness Detection Using Multistage Adaptive 3D Convolutional Neural Network",
+              "Volume No": "52",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "26-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Multidisciplinary Technovation",
+              "Level": "International",
+              "Title": "A Hybrid Model for Performance Evaluation of Fixed VANETs using Novel 1C3N and Topology-Based Ad-Hoc Routing Protocols with Packet Loss Control Methods",
+              "Volume No": "5",
+              "Issue No": "5",
+              "Year": "2023",
+              "Date": "07-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 Second International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+              "Level": "International",
+              "Title": "Soil Classification using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Fluid Flow Monitoring and Pipeline Fault Diagnosis in Three Tank Conical System Based on Capsule Neural Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "A Survey on Data Augmentation Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 3rd International Conference on Smart Data Intelligence (ICSMDI)",
+              "Level": "International",
+              "Title": "Recognition of Bean Leaf Diseases Using Neural Network and Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "30-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Level": "International",
+              "Title": "Robotization on Solar Panel Installation: Location Marking on Steel Roof",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Level": "International",
+              "Title": "Design of Personal Protective Respirator in Healthcare: An Emergency Perspective",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of Fourth International Conference on Communication, Computing and Electronics Systems: ICCCES 2022",
+              "Level": "International",
+              "Title": "Cardiac Arrhythmia Detection and Prediction Using Deep Learning Technique",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA)",
+              "Level": "International",
+              "Title": "Experimental and Automated Setup to Control the White Liquor Flow for Enhanced Paper Quality",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA)",
+              "Level": "International",
+              "Title": "An IoT Integrated Sensor Technologies for the Enhancement of Hospital Waste Segregation and Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA)",
+              "Level": "International",
+              "Title": "Drowsiness Detection and Accident Prevention by using K Nearest Neighbor (KNN) Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Level": "International",
+              "Title": "Performance of Recurrent Neural Networks in Liver Disease Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Communication Technologies and Virtual Mobile Networks",
+              "Level": "International",
+              "Title": "Cannotation MeasureUp to Detect Deepfake by Face Recognition via Long Short-Term Memory Networks Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "16-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Ceramic Processing Research",
+              "Level": "International",
+              "Title": "Performance of deep learning approaches for detection and classification of ceramic tile defects",
+              "Volume No": "24",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "01-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Ceramic Processing Research",
+              "Level": "International",
+              "Title": "Study on engineering strength properties of ceramic waste powder stabilized expansive soil using machine learning algorithms",
+              "Volume No": "23",
+              "Issue No": "6",
+              "Year": "2022",
+              "Date": "01-12-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+              "Level": "International",
+              "Title": "Survey on IoT Enabled Motion Detector Camera in Smart Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "20-11-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IoT Based Control Networks and Intelligent Systems: Proceedings of 3rd ICICNIS 2022",
+              "Level": "International",
+              "Title": "Performance Analysis of Machine Learning Algorithms in Heart Diseases Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "12-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 4th International Conference on Inventive Research in Computing Applications (ICIRCA)",
+              "Level": "International",
+              "Title": "Sentiment Analysis on Online Education During Covid Pandemic",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "21-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Level": "International",
+              "Title": "EEG Signal Analysis for Emotional Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "17-08-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 International Conference on Emerging Smart Computing and Informatics (ESCI)",
+              "Level": "International",
+              "Title": "Neoteric Experimental PLC Configuration Using Wireless Local Area Network (WLAN) Technology in Paper Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "09-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Edge detection and object identification for vision enhancement at rescue operations using deep learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "25-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 international conference on computer communication and informatics (ICCCI)",
+              "Level": "International",
+              "Title": "A crossbreed framework for heart disease prediction using SVM and rough set techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "25-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+              "Level": "International",
+              "Title": "Forest fire and landmines identification with the support of drones surveillance for better environmental protection: a survey",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "20-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Science and Technology. Research Journal",
+              "Level": "International",
+              "Title": "An Active Broadcast System for Safety-Oriented Facilities in Decentralized TDMA Assisted VANETs",
+              "Volume No": "16",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Wearable Telemedicine Technology for the Healthcare Industry",
+              "Level": "International",
+              "Title": "IoT and wearables for detection of COVID-19 diagnosis using fusion-based feature extraction with multikernel extreme learning machine",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Level": "International",
+              "Title": "Survey on improving health care system by implementing an air ambulance system with the support of drones",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "02-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Level": "International",
+              "Title": "Recognition Of Facial Expression By Smart Music Player Via Human Face Mood Recommendation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "02-12-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cyber Security and Digital Forensics: Proceedings of ICCSDF 2021",
+              "Level": "International",
+              "Title": "Efficiency Analyzing on Vehicle Tracking Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "02-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Concurrent Engineering Research and Applications",
+              "Level": "International",
+              "Title": "An automated learning model for sentiment analysis and data classification of Twitter data using balanced CA-SVM",
+              "Volume No": "29",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "20-07-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Computer Science",
+              "Level": "International",
+              "Title": "Recognition of Font and Tamil Letter in Images using Deep Learning",
+              "Volume No": "17",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "13-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 International Conference on Emerging Smart Computing and Informatics (ESCI)",
+              "Level": "International",
+              "Title": "A Novel Experimental Strategy on Medium Density Cleaner Automation in Paper and Pulp Industry Using PLC",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "05-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Investigation on heart disease using machine learning algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "27-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 international conference on computer communication and informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Artificial Intelligence in data-driven analytics for the personalized healthcare",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "27-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Effective Shortest Paths in Road Network Information Using MPP Progressive Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "27-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 6th International Conference on Inventive Computation Technologies (ICICT)",
+              "Level": "International",
+              "Title": "Experimental analysis using deep learning techniques for safety and riskless transport-a sustainable mobility environment for post covid-19",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "20-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Science and Technology",
+              "Level": "International",
+              "Title": "Implementation of Reverse Engineering for the Purpose of Designing an Automatic Transfer Switch",
+              "Volume No": "29",
+              "Issue No": "4S",
+              "Year": "2020",
+              "Date": "31-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Detection And Classification Of Plant Pathology With Image Processing Technique",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2019",
+              "Date": "06-12-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Epilepsy Seizure Detection and Prediction Based on DeviceHive",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "30-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Appl. Math",
+              "Level": "International",
+              "Title": "Efficient Multi Keyword Search in Heterogeneous Environment Based On Ranking Technique",
+              "Volume No": "13",
+              "Issue No": "S1",
+              "Year": "2019",
+              "Date": "01-08-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications on Applied Electronics",
+              "Level": "International",
+              "Title": "An Ideal Design and Way Out for Various Service Interoperability and Integration in Open Cloud Environment",
+              "Volume No": "6",
+              "Issue No": "8",
+              "Year": "2017",
+              "Date": "31-03-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Moral Development in Huckleberry Finn-A Cognitive Interpretation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "23-03-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Supporting Trust - based Design for Efficient Transportation using Intelligent Transportation System (ITS) in VANET",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "02-07-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "D.SIVABALASELVAMANI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "A Smooth System for Applying various Services Interoperability and Data Interchange Agent in SOA",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "30-01-2016",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

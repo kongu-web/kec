@@ -1,0 +1,898 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "MECHATRONICS",
+              "Date of joining in KEC": "01-06-2010",
+              "Mobile": "9942783338",
+              "E-mail": "skthangarasu@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Academic Degree": "PhD",
+              "Specialization": "MECHANICAL",
+              "From": "01-06-2012"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Academic Degree": "P G",
+              "Specialization": "Mechatronics",
+              "From": "01-08-2008"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Academic Degree": "BE,",
+              "Specialization": "MECHATRONICS",
+              "From": "01-07-1999"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-11-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-11-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2010",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Award/Achievement": "BEST PAPER AWARD",
+              "Level": "International",
+              "Awarded by": "IEEE MADRAS SECTION",
+              "Place": "SKCET",
+              "Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Award/Achievement": "BEST PAPER AWARD",
+              "Level": "International",
+              "Awarded by": "REVA University, Bengaluru",
+              "Place": "REVA University, Bengaluru",
+              "Date": "14-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of Award/Achievement": "BEST FACULTY AWARD",
+              "Level": "Others",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)",
+              "Level": "International",
+              "Title": "Design and Fabrication of Acoustic Drum Tuner",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Tribology,",
+              "Level": "International",
+              "Title": "Influence of Acetabular Cup Elevation Height on Contact and Failure Analysis of Metal-on-Metal Hip Prosthesis Under Mild and Severe Microseparations for Regular and Risky Gait Loads.",
+              "Volume No": "148",
+              "Issue No": "5",
+              "Year": "2026",
+              "Date": "13-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "In 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 1-5). IEEE.",
+              "Level": "International",
+              "Title": "Innovative Arduino-Based Solar Panel Cleaning System for Enhanced Energy Efficiency.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "03-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th International Conference on Computing Communication and Networking Technologies (ICCCNT). IEEE, 2024.",
+              "Level": "International",
+              "Title": "Innovative Arduino-Based Solar Panel Cleaning System for\nEnhanced Energy Efficiency.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings 81 (2023):",
+              "Level": "International",
+              "Title": "Design and fabrication of automatic banana leaf cutting machine.\"",
+              "Volume No": "81",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering",
+              "Level": "International",
+              "Title": "Review on sensor design for cutting force measurement.",
+              "Volume No": "237",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "08-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mathematical Problems in Engineering",
+              "Level": "National",
+              "Title": "Prediction of FlankWear during Turning of EN8 Steel with Cutting\nForce Signals Using a Deep Learning Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Fluid Mechanics and Fluid Power. Springer, Singapore,",
+              "Level": "International",
+              "Title": "Modeling & Simulation of an Electro-Hydraulic System Using Fuzzy Logic Approach\" Fluid Mechanics and Fluid Power. Springer, Singapore, 2021. 807-822.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021.",
+              "Date": "07-10-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings.. AIP Publishing LLC, 2021.",
+              "Level": "International",
+              "Title": "Simulation and experimental validation of electro hydraulic servo system using fuzzy logic controller",
+              "Volume No": "2336",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "26-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering  Science,",
+              "Level": "International",
+              "Title": "Tool wear prediction in hard turning of EN8 steel using cutting force and surface roughness with artificial neural network",
+              "Volume No": "234",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "04-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Bio-Inspired Computation",
+              "Level": "International",
+              "Title": "Experimental study and optimisation in turning process of EN8 steel using RSM with hybrid algorithm approach",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "10-10-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "materials science and engineering,",
+              "Level": "International",
+              "Title": "Prediction of cutting force in turning process-an experimental approach",
+              "Volume No": "310",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-10-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Testing",
+              "Level": "International",
+              "Title": "Multi-response milling process optimization using the Taguchi method coupled to grey relational analysis",
+              "Volume No": "58",
+              "Issue No": "5",
+              "Year": "2016",
+              "Date": "04-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Intelligent & Fuzzy Systems",
+              "Level": "International",
+              "Title": "Prediction of cutting force in turning process: An experimental and fuzzy approach.",
+              "Volume No": "28",
+              "Issue No": "4",
+              "Year": "2015",
+              "Date": "05-08-2015",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Type of Project": "RESEARCH",
+              "Title of Project": "R&D",
+              "Funding Agency": "CSIR",
+              "Name of the Scheme": "EMRII",
+              "Co-Investigator(s)": "Dr S K THANGARASU AND Dr A SHANMUGAM",
+              "Project Start Date": "14-07-2023",
+              "Duration": "03 YEARS",
+              "Status": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "P K R Arts and Science college, Gobi.",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Robotics workshop",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "10-06-2024",
+              "Date of Consultancy (To)": "12-06-2024",
+              "Revenue Generated (amount in Rupees without GST)": "23499"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "M/s.Skillsonics India Pvt.Ltd, Bangalore",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming and Machining Operations",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "01-06-2021",
+              "Date of Consultancy (To)": "31-07-2021",
+              "Revenue Generated (amount in Rupees without GST)": "88857"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "Kongu POlytechnic Students",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming and Machining Operaions",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "26-01-2020",
+              "Date of Consultancy (To)": "16-02-2020",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "Kongu Polytechnic College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming and Operations",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "12-02-2017",
+              "Date of Consultancy (To)": "05-03-2017",
+              "Revenue Generated (amount in Rupees without GST)": "52500"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "Kongu Polytecnic College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming and Machining operations",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "12-02-2017",
+              "Date of Consultancy (To)": "05-03-2017",
+              "Revenue Generated (amount in Rupees without GST)": "25367"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "Kongu Polytechnic College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming an Machining operations",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "29-11-2016",
+              "Date of Consultancy (To)": "02-12-2016",
+              "Revenue Generated (amount in Rupees without GST)": "18846"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Industry/Organization": "Kongu Polytechnic College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "CNC Programming and Machining Operations",
+              "Number of persons involved": "03",
+              "Date of Consultancy (From)": "14-11-2016",
+              "Date of Consultancy (To)": "17-11-2016",
+              "Revenue Generated (amount in Rupees without GST)": "34290"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Unmanned Aerial Robots Operations, Programming concepts and its real time applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "14-11-2025",
+              "End Date": "15-11-2025",
+              "Duration": "02 DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "CoE- (R&A) MECHATRONICS DEPARTMENT"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Type of Event": "Workshop",
+              "Name of Event": "iNDUSTRIAL MANIPULATTORS AND MOBILE ROBOTS - PROGRAMMING CONCEPTS AND ITS APPLICATIONS",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "05-07-2024",
+              "End Date": "06-07-2024",
+              "Duration": "02 DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "CoE (R&A) MECHATRONICS"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Type of Event": "Seminar",
+              "Name of Event": "APPLICATIONS OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING IN EVOLUTION OF HEALTHCARE",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "09-01-2020",
+              "End Date": "10-01-2020",
+              "Duration": "02 DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "MTS SEMINAR HALL"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Type of Event": "Seminar",
+              "Name of Event": "DST Sponsored seminar",
+              "Collaboration/Sponsored by": "DST",
+              "Level": "National",
+              "Start Date": "06-10-2016",
+              "End Date": "07-10-2016",
+              "Duration": "02 days",
+              "Role played": "Joint Convener",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "FDP",
+              "Title of the program": "ADDITIVE MANUFACTURING ADVANCEMENTS IN DIFFERENT APPLICATIONS",
+              "Level": "State",
+              "Organized by": "SRM UNVERSITY",
+              "Place": "CHENNAI",
+              "Start Date": "21-10-2024",
+              "End Date": "26-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "FDP",
+              "Title of the program": "DRONE TECHNOLOGY FOR PRECISION FARMING",
+              "Level": "State",
+              "Organized by": "IEEE MADRAS SECTION",
+              "Place": "",
+              "Start Date": "18-12-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "FDP",
+              "Title of the program": "RONTIERS IN MULTIDISCIPILINARY RESEARCH",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-08-2023",
+              "End Date": "22-08-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "Training Program",
+              "Title of the program": "CNC AND ROBOT PROGRAMMING OPERATIONS",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "KEC",
+              "Start Date": "26-07-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "STTP",
+              "Title of the program": "Innovation in materials and industrial Automation",
+              "Level": "HRDC",
+              "Organized by": "Dr N G P Institute of Technology",
+              "Place": "Coimatore",
+              "Start Date": "19-10-2020",
+              "End Date": "24-10-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainability Engineering",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "07-09-2020",
+              "End Date": "11-09-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "fundamentals of manufacturing process",
+              "Level": "HRDC",
+              "Organized by": "IIT",
+              "Place": "ROORKE",
+              "Start Date": "01-07-2018",
+              "End Date": "31-10-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Name of the Professional Body/Society": "Institution of Engineers India",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "13-04-2011",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Title of Paper": "DESIGN AND FABRICATION OF ACOUSTIC DRUM TUNER",
+              "Title of Conference": "ICINVENTS 2025",
+              "Organized by": "SKCET",
+              "Level": "International",
+              "Start Date": "07-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Title of Paper": "DESIGN AND TESTING OF LOAD EARING BUSHES USING NATURAL FIRE COMPOSITE",
+              "Title of Conference": "AICTTE VAANI 2025",
+              "Organized by": "REVA UNIVERSITY BANGALORE",
+              "Level": "International",
+              "Start Date": "13-08-2025",
+              "End Date": "14-08-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.K.THANGARASU",
+              "Department": "MTR",
+              "Title of the Program": "eYAntra Jury Member",
+              "Role": "Jury/Judge",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "23-02-2026",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

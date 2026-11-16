@@ -1,0 +1,956 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Data Mining,Network Security,Machine Learning",
+              "Date of joining in KEC": "14-06-2010",
+              "Mobile": "6380525789",
+              "E-mail": "roopadevi.it@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Academic Degree": "PHD",
+              "Specialization": "ICE",
+              "From": "13-02-2012"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "27-08-2007"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Academic Degree": "B.E",
+              "Specialization": "EEE",
+              "From": "20-08-2002"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mercury Publications",
+              "Level": "State",
+              "Title": "Cloud Computing Technologies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "13-10-2025",
+              "Published at": "Mercury Publications"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Mobile Networks and Wireless Communications,",
+              "Level": "International",
+              "Title": "Hybrid Ensemble Models for Classifying Seismic Event Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "11-03-2025",
+              "Published at": "Institute of Electrical and Electronics Engineers Inc."
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Pneumonia Detection Using Extended VGG19 Architectrure",
+              "Volume No": "1243",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "18-02-2025",
+              "Published at": "Springer Science and Business Media Deutschland GmbH"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Digital Twin and Blockchain for Smart Cities",
+              "Level": "International",
+              "Title": "Introduction to Blockchain Technology for Smart Cities",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-01-2025",
+              "Published at": "wiley"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain and Digital Twin Applications in Smart Agriculture",
+              "Level": "International",
+              "Title": "Introduction of Blockchain in Smart Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-01-2025",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Alexandria Engineering Journal",
+              "Level": "International",
+              "Title": "Deep learning-powered visual place recognition for enhanced mobile\nmultimedia communication in autonomous transport systems",
+              "Volume No": "109",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "30-12-2024",
+              "Published at": "2024"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "nternational Conference on Computing Communication and Networking Technologies (ICCCNT",
+              "Level": "International",
+              "Title": "News Article Summarization using PEGASUS model for Efficient Information Consumption",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-11-2024",
+              "Published at": "International Conference on Computing Communication and Networking Technologies (ICCCNT)"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings",
+              "Level": "International",
+              "Title": "TweetSense: Navigating Disaster Signals Using Machine Learning and Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-11-2024",
+              "Published at": "International Conference on Computing Communication and Networking Technologies (ICCCNT"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Wild Animal Recognition using Deep Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-11-2024",
+              "Published at": "International Conference on Computing Communication and Networking Technologies (ICCCNT)"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Rice Leaf Disease Diagnosis Using Dense EfficientNet Model",
+              "Volume No": "1050",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "30-07-2024",
+              "Published at": "Springer Science"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Alexandria Engineering Journal",
+              "Level": "International",
+              "Title": "Improved sand cat swarm optimization with deep learning based enhanced\nmalicious activity recognition for cybersecurity",
+              "Volume No": "98",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "29-07-2024",
+              "Published at": "2024"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Biomedical Named Entity Recognition with BiLSTM-EDA: A Deep Learning Approach",
+              "Volume No": "1047",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "25-07-2024",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+              "Level": "International",
+              "Title": "Detection of Position Falsification Attacks in VANETs Using Ensemble Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-07-2024",
+              "Published at": "International Conference on Artificial Intelligence For Internet of Things (AIIoT)"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Nature",
+              "Level": "International",
+              "Title": "Blockchain-Integrated\nEdge Computing for IoT-Based Cloud Applications.",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-04-2024",
+              "Published at": "978-981-99-9178-5"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data Analytics and Artificial Intelligence for Predictive Maintenance in Smart Manufacturing",
+              "Level": "International",
+              "Title": "AI Models for Predictive Maintenance",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-01-2024",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of communication systems",
+              "Level": "International",
+              "Title": "An optimal multipath routing protocol using hybrid\ngravitational search particle swarm optimization for secure\ncommunication",
+              "Volume No": "37",
+              "Issue No": "7",
+              "Year": "2024",
+              "Date": "11-01-2024",
+              "Published at": "2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Sastha Modern Rice Mill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Build an e-cart Application",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "09-01-2026",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "NK Engineering Construction",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "structura Construction Management System",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "17-12-2025",
+              "Date of Consultancy (To)": "15-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Santhosh yarns",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E commerce",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-01-2025",
+              "Date of Consultancy (To)": "10-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Automax",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E commerce",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Jagan Wood Furnitures",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "30-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "United Aqua Tech",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "App development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "30-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "BYE Pass Medicals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "23-01-2023",
+              "Date of Consultancy (To)": "30-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "ADP Processed foods",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "23-01-2023",
+              "Date of Consultancy (To)": "30-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "shri hari Ganga Packaging",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "24-01-2022",
+              "Date of Consultancy (To)": "30-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8850"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "KVS Garments",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "20-01-2022",
+              "Date of Consultancy (To)": "30-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "NSK super Market",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-01-2021",
+              "Date of Consultancy (To)": "30-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Popular Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-01-2021",
+              "Date of Consultancy (To)": "30-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "FDP",
+              "Name of Event": "A Pragmatic approach to cyber security-Empowering Digital Defense",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026",
+              "Duration": "6 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "AWS Cloud Essentials",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "27-02-2026",
+              "End Date": "27-02-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "AWS Cloud Essentials",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2025",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": "Department"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building  Next Generation Applications Using Gen AI",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "15-11-2025",
+              "End Date": "15-11-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "GO Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "App Development with Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "12-09-2025",
+              "End Date": "10-11-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Visualization using Tableau",
+              "Collaboration/Sponsored by": "Industry",
+              "Level": "Department",
+              "Start Date": "26-08-2025",
+              "End Date": "31-10-2024",
+              "Duration": "25",
+              "Role played": "Coordinator",
+              "Venue": "IT Department"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "From Code to Container: A Practical Docker Bootcamp",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-03-2025",
+              "End Date": "15-03-2025",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": "IT Department"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "GO Programming",
+              "Collaboration/Sponsored by": "Industry",
+              "Level": "Department",
+              "Start Date": "08-03-2025",
+              "End Date": "15-05-2025",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": "IT Department"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building and Deploying Applications on AWS: A Practical Workshop",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-09-2024",
+              "End Date": "21-09-2024",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": "IT Department"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accreditation and outcome Based Learning",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "AICTE Swayam",
+              "Place": "IIIT kharagpur",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Applications",
+              "Level": "State",
+              "Organized by": "EDSOLS Innovations Private LTD",
+              "Place": "Perundurai",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Applications",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Designing Learner-Centric E-Learning in STEM Disciplines",
+              "Level": "Online",
+              "Organized by": "AICTE swayam",
+              "Place": "IIT bombay",
+              "Start Date": "19-08-2024",
+              "End Date": "30-09-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Title of the Program": "Journal of Supercomputing",
+              "Role": "Editor/Reviewer",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "11-12-2025",
+              "End Date": "11-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.E.M.ROOPA DEVI",
+              "Department": "ITR",
+              "Title of the Program": "Database Concepts and AWS Clouds",
+              "Role": "Chief Guest",
+              "Level": "Others",
+              "Organized by": "Kongu Arts and Science College",
+              "Start Date": "26-08-2025",
+              "End Date": "26-08-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

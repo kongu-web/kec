@@ -1,0 +1,1110 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Control and Instrumentation",
+              "Date of joining in KEC": "01-06-2011",
+              "Mobile": "9047665542",
+              "E-mail": "sureshkec@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Academic Degree": "M.E",
+              "Specialization": "Control and Instrumentation",
+              "From": "01-09-2009"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electrical and Electronics Engineering",
+              "From": "01-09-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-11-2025",
+              "End Date": "",
+              "Contribution to the Institute": "Assistant Professor(SL.G)"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2020",
+              "End Date": "23-05-2025",
+              "Contribution to the Institute": "Assistant Professor(Sr.G)"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2011",
+              "End Date": "31-05-2020",
+              "Contribution to the Institute": "Assistant Professor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Best UG project guided for the year 2026",
+              "Level": "National",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Date": "18-03-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Level": "International",
+              "Title": "IoT Integrated Control System for Lab Scale CSTR",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "09 March 2026",
+              "Date": "26-02-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 6th International Conference on Multimedia, Signal Processing and Communication Technologies (IMPACT)",
+              "Level": "International",
+              "Title": "Automatic Sago Spreading Rover",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "14 April 2026",
+              "Date": "15-02-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 Second International Conference on Intelligent Technologies for Sustainable Electric and Communications Systems (iTech SECOM)",
+              "Level": "International",
+              "Title": "Automatic Folding and Counting T-Shirts Using PLC",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "31 December 2025",
+              "Date": "10-12-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 6th International Conference on Smart Electronics and Communication (ICOSEC)",
+              "Level": "International",
+              "Title": "Automated Consistency Monitoring System For Optimal Jaggery Production",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "07 April 2026",
+              "Date": "25-09-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Smart Electronics and Communication Systems (ISENSE)",
+              "Level": "International",
+              "Title": "Automated Jaggery Powder Pulverizer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-12-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Smart Electronics and Communication Systems (ISENSE)",
+              "Level": "International",
+              "Title": "Intelligent Material Sorting With PLC-Triggered Shutdown in Factory I/O Simulation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-12-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Smart Electronics and Communication Systems (ISENSE)",
+              "Level": "International",
+              "Title": "Automation of Oil Press Safety and Consistency Control Using Node MCU",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-12-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Smart Electronics and Communication Systems (ISENSE)",
+              "Level": "International",
+              "Title": "Automation of Palletizer and Storage System Using Siemens PLC and Factory I/O",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-12-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 8th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Level": "International",
+              "Title": "Automatic Temperature Control in Calendering Process",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-11-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IGI Global Scientific Publishing",
+              "Level": "International",
+              "Title": "Study on 6G's Spectrum in Evolving the Landscape of Hyper-Connected Communication",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "19-07-2024",
+              "Published at": "IGI Global Scientific Publishing"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Energy, Materials and Communication Engineering (ICEMCE)",
+              "Level": "International",
+              "Title": "IoT based Bottle Filling System using PLC",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-12-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Willey Online Library",
+              "Level": "International",
+              "Title": "Development of Backstepping Controller for Buck Converter",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-06-2023",
+              "Published at": "Willey Online Library"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 3rd International Conference on Pervasive Computing and Social Networking (ICPCSN)",
+              "Level": "International",
+              "Title": "LoRa based Real Time Level Control System for Non-Linear Spherical Tank System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "19-06-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 3rd International Conference on Pervasive Computing and Social Networking (ICPCSN)",
+              "Level": "International",
+              "Title": "Development of PLC Based Level Control System for Conical Tank System for Water Treatment Plant",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "19-06-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Engineering Education Transformations (JEET)",
+              "Level": "International",
+              "Title": "Assessment of Program Outcomes in Outcome Based Education through Students' Co-Curricular Activities",
+              "Volume No": "36",
+              "Issue No": "4",
+              "Year": "2023",
+              "Date": "01-04-2023",
+              "Published at": "Journal of Engineering Education Transformations"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Level": "International",
+              "Title": "Industrial IoT (IIoT) based Control of Robotic Arm integrated with PLC and HMI",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-03-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "LAP Lambert Academic Publishing",
+              "Level": "International",
+              "Title": "Basic Electrical and Electronics Engineering",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "08-03-2023",
+              "Published at": "LAP Lambert Academic Publishing"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the Bulgarian Academy of Sciences",
+              "Level": "International",
+              "Title": "Analysis of Cell Proliferation and Apoptosis in Virtual Model",
+              "Volume No": "75",
+              "Issue No": "10",
+              "Year": "2022",
+              "Date": "30-10-2022",
+              "Published at": "Bulgarian Academy of Sciences, 2022"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Virtual Conference on Advances in Digital Transformation, Software Technologies and intelligent IoT systems  2022",
+              "Level": "International",
+              "Title": "IoT Based Elderly Fall Detection System",
+              "Volume No": "13",
+              "Issue No": "73",
+              "Year": "2022",
+              "Date": "20-05-2022",
+              "Published at": "ndian Journal of Natural Sciences"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Fourth National Conference on Current & Emerging Process Technologies",
+              "Level": "National",
+              "Title": "Three phase induction motor position control using V20 drive",
+              "Volume No": "2387",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": "AIP Publishing"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Annals of the Romanian Society for Cell Biology",
+              "Level": "International",
+              "Title": "An Efficient Method for Text Detection and Recognition in Still Images",
+              "Volume No": "25",
+              "Issue No": "3",
+              "Year": "2021",
+              "Date": "08-03-2021",
+              "Published at": "Association of Cell Biology Romania"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Virtual Conference on Robotics, Automation, Intelligent Systems and Energy (IVC RAISE 2020)",
+              "Level": "International",
+              "Title": "Automatic Barrier Control in the Zebra crossing of Roads for Pedestrian Safety",
+              "Volume No": "1055",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "01-02-2021",
+              "Published at": "IOP Publishing"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "Automatic Segregation Of Plastic Waste For\nRecycling Industries",
+              "Volume No": "9",
+              "Issue No": "02",
+              "Year": "2020",
+              "Date": "28-02-2020",
+              "Published at": "International Journal of Scientific and Technology Research"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lambert Academic Publishing",
+              "Level": "International",
+              "Title": "Effective utilization of regenerative resources with instrumentation technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "16-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering",
+              "Level": "International",
+              "Title": "Safe Operation of Induction Motor with Programmable Logic Controller and Human Machine Interface",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2019",
+              "Date": "31-10-2019",
+              "Published at": "Blue Eyes Intelligence Engineering and Sciences Engineering and Sciences Publication (BEIESP)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Project": "AICTE MODROPS",
+              "Title of Project": "Development of Intelligent automation systems with integration of wireless sensor networks and internet of things (Industry 4.0)",
+              "Funding Agency": "AICTE",
+              "Name of the Scheme": "MODROPS",
+              "Co-Investigator(s)": "Dr.S.J.Suji Prasad, R.Sureshkumar, M.Thangatamilan",
+              "Project Start Date": "16-05-2019",
+              "Duration": "2 years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "V.J Krishna Fabrics, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Power and Production Monitoring System",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "24-11-2025",
+              "Date of Consultancy (To)": "25-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Venkatachalapathi Sago Factory, Salem",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Automatic Rover for Sago Spreading",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-08-2025",
+              "Date of Consultancy (To)": "17-12-2025",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Kannan Felt Finishing Centre",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Mist Sprayer in Textile Industry",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "05-02-2024",
+              "Date of Consultancy (To)": "30-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "TIO India Corporation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Webpage Development for TIO Paints",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-02-2023",
+              "Date of Consultancy (To)": "27-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Faithful Fabrics",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Webpage Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-03-2021",
+              "Date of Consultancy (To)": "01-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Relay Control Logics for Industrial Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "31-01-2026",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": "EIE Department"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "AutoCAD Electrical",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "27-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": "AI Lab"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "SCADA and its Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-09-2025",
+              "End Date": "12-10-2025",
+              "Duration": "Five Days",
+              "Role played": "Coordinator",
+              "Venue": "AI Lab"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "SCADA and its Applications",
+              "Collaboration/Sponsored by": "Ms. Silicon Systems, Coimbatore",
+              "Level": "Department",
+              "Start Date": "09-10-2024",
+              "End Date": "27-10-2024",
+              "Duration": "30 Hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Intelligent Automation using PLC and IOT (Batch-1)",
+              "Collaboration/Sponsored by": "ALAI LABS, Chennai",
+              "Level": "Department",
+              "Start Date": "20-03-2024",
+              "End Date": "03-05-2024",
+              "Duration": "50 Hours",
+              "Role played": "Coordinator",
+              "Venue": "AI Laboratory"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Relay Control Logics for Industrial Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "18-11-2021",
+              "End Date": "05-01-2022",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "AI Laboratory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart Automation Systems with Siemens PLC and Edge Device (IoT 2050)",
+              "Level": "National",
+              "Organized by": "Genn Automation with KEC",
+              "Place": "KEC Perunduarai",
+              "Start Date": "24-04-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Capacity Building for Faculty Excellence: Emerging Scientific Reserch, Transformative , Teaching and AI-Assisted Scholarly Writing",
+              "Level": "International",
+              "Organized by": "Nehru Institute of Information Technology & Management",
+              "Place": "Virtual mode",
+              "Start Date": "02-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Climate Resilient Pathways for Sustainable Development",
+              "Level": "International",
+              "Organized by": "NITTTR, Chandigarh",
+              "Place": "Kongu Engineering College, Erode",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "Others",
+              "Title of the program": "Science in Everyday Life",
+              "Level": "National",
+              "Organized by": "Human Resource Development Cell",
+              "Place": "Kongu Engineering College",
+              "Start Date": "17-04-2025",
+              "End Date": "17-04-2025"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "UI/UX design and development",
+              "Level": "National",
+              "Organized by": "WideLast Technology",
+              "Place": "Coimbatore",
+              "Start Date": "09-12-2024",
+              "End Date": "14-12-2024"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Modern Research Convergence in Next Generation Computing",
+              "Level": "International",
+              "Organized by": "Sri Krishna College of Engineering and Technology",
+              "Place": "Coimbatore-641 008",
+              "Start Date": "18-12-2023",
+              "End Date": "22-12-2023"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Challenges and Opportunity in Electric Vehicle",
+              "Level": "International",
+              "Organized by": "K.S.R. college of Engineering",
+              "Place": "Tiruchencode-637 215",
+              "Start Date": "09-10-2023",
+              "End Date": "14-10-2023"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Electric Vehicles",
+              "Level": "International",
+              "Organized by": "PSN College of Engineering and Technology",
+              "Place": "Tirunelveli- 627 152",
+              "Start Date": "25-07-2022",
+              "End Date": "29-07-2022"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Automation of distilled water manufacturing process",
+              "Level": "National",
+              "Organized by": "Thirumurugan Enterprises",
+              "Place": "Namakkal-638 182",
+              "Start Date": "18-07-2022",
+              "End Date": "24-07-2022"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Hands on Training with Industrial Automation Systems",
+              "Level": "International",
+              "Organized by": "Anna University",
+              "Place": "Chennai",
+              "Start Date": "15-11-2021",
+              "End Date": "19-11-2021"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Edge computing technologies for Smart Factory Automation and Industry 4.0",
+              "Level": "International",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "16-08-2021",
+              "End Date": "20-08-2021"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Trends and Challenges in Power Converters and Control: Slot-I",
+              "Level": "International",
+              "Organized by": "CEG campus, Anna University",
+              "Place": "Chennai",
+              "Start Date": "09-02-2021",
+              "End Date": "23-02-2021"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Futuristic Innovations on Solar Energy Technologies",
+              "Level": "International",
+              "Organized by": "Mechanical Engineering Department, Government Engineering College Patan",
+              "Place": "Gujarat",
+              "Start Date": "08-02-2021",
+              "End Date": "12-02-2021"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Sustainability Engineering",
+              "Level": "International",
+              "Organized by": "Chennai Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "25-01-2021",
+              "End Date": "29-01-2021"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Fundamentals of Electric Drives",
+              "Level": "International",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "",
+              "Start Date": "01-07-2019",
+              "End Date": "30-09-2019"
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Non-Conventional Energy Resources",
+              "Level": "International",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "",
+              "Start Date": "04-06-2018",
+              "End Date": "31-10-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "IFERP",
+              "Position": "Professional Membership",
+              "Level": "International",
+              "Start Date": "17-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "International Association of Engineers",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "28-09-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.SURESHKUMAR",
+              "Department": "EIR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "MULTI-LEVEL MIST SPRAYER FOR SUSTAINABLE TEXTILE FINISHING PROCESS",
+              "Name of Application": "M. Thangatamilan",
+              "Co-inventors Name": "Dr. S. J. Suji Prasad, R. Sureshkumar, K. S. Jayyent,,S. Jaisri,B. Harshini,V. Manimuthu",
+              "Application Number": "202541012237",
+              "Date of Registration": "13-02-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "21-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

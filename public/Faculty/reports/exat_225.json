@@ -1,0 +1,733 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Designation": "PROFESSOR",
+              "Area of Specialisation": "Electrical and Electronics",
+              "Date of joining in KEC": "11-08-2000",
+              "Mobile": "9787325879",
+              "E-mail": "sivachitra@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Academic Degree": "PhD",
+              "Specialization": "Faculty of Electrical",
+              "From": "03-09-2010"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Academic Degree": "ME",
+              "Specialization": "Applied Electronics",
+              "From": "01-06-2003"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Academic Degree": "BE",
+              "Specialization": "EEE",
+              "From": "01-06-1996"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of Award/Achievement": "Moovendhar muthamilzh virudhu-Life time achievement award",
+              "Level": "National",
+              "Awarded by": "Moovendhar muthamilzh research organisation,Padmavani arts and Science college, Salem",
+              "Place": "Salem",
+              "Date": "23-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of Award/Achievement": "Best Paper award",
+              "Level": "International",
+              "Awarded by": "Mahendra Institute of Technology",
+              "Place": "Mallasamudram",
+              "Date": "04-04-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Interactions",
+              "Level": "International",
+              "Title": "Mechanical enhancement and multi-criteria optimization of calotropis gigantea–date palm leaf fiber–tamarind seed shell powder hybrid composites",
+              "Volume No": "247",
+              "Issue No": "155",
+              "Year": "2026",
+              "Date": "18-04-2026",
+              "Published at": "SpringerNature Link"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Energy storage",
+              "Level": "International",
+              "Title": "Meta-learning driven energy management in integrated systems with electric vehicles as mobile storage units",
+              "Volume No": "137",
+              "Issue No": "-",
+              "Year": "2025",
+              "Date": "20-11-2025",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 IEEE 9th International Conference on Engineering Technologies and Applied Sciences (ICETAS)",
+              "Level": "International",
+              "Title": "Dual-Mode Fluorescent and Colorimetric Sensors Powered by Machine Learning for High-Security Authentication and Anti-Counterfeiting",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2025",
+              "Date": "25-08-2025",
+              "Published at": "IEEE Xplorer"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of neonatal surgery",
+              "Level": "International",
+              "Title": "IoT and AI-Driven Predictive Healthcare Systems: The Intersection of Machine Learning, Blockchain, and Healthcare Management Practices",
+              "Volume No": "14",
+              "Issue No": "13S",
+              "Year": "2025",
+              "Date": "01-04-2025",
+              "Published at": "EL-MED-PUB Publishers"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Protection and Ecology",
+              "Level": "International",
+              "Title": "EFFICIENT POWER-AWARE PROTOCOLS FOR GREEN\nCOGNITIVE RADIO NETWORKS IN INDUSTRIAL\nCOMMUNICATIONS",
+              "Volume No": "25",
+              "Issue No": "5",
+              "Year": "1626",
+              "Date": "21-01-2025",
+              "Published at": "Scibulcom Ltd"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "The International Journal of Advanced Manufacturing Technology",
+              "Level": "International",
+              "Title": "Experimental investigation on the tensile, flexural, and thermal rigidity of ALON-reinforced Kevlar fabric-impregnated epoxy composites",
+              "Volume No": "133",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "15-07-2024",
+              "Published at": "Springer Nature Link"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation & Soft Computing",
+              "Level": "International",
+              "Title": "Temperature Control Design with Differential Evolution based  improved Adaptive- Fuzzy-PID Techniques",
+              "Volume No": "36",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "29-09-2022",
+              "Published at": "Tech Science Press"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Type of Project": "R&D",
+              "Title of Project": "AN EMPIRICAL STUDY ON JAN AUSHADHI YOJANA’S REACH AND SOCIO-ECONOMIC IMPACT IN SELECTED AREAS OF TAMIL NADU STATE",
+              "Funding Agency": "ICSSR",
+              "Name of the Scheme": "Special Call",
+              "Co-Investigator(s)": "Dr S.Padmavathy,Dr S.Maheswari and Mr.SK.Lokesh",
+              "Project Start Date": "01-09-2023",
+              "Duration": "1 year",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Erode Sengunthar Engineering College",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Green,Energy and Environmental audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "15-02-2025",
+              "Date of Consultancy (To)": "15-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "12000"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of the Industry/Organization": "SRS Industries,Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product development",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "03-01-2025",
+              "Date of Consultancy (To)": "20-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10050"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Vellalar College for women",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Green Energy and Environmental audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "12-12-2024",
+              "Date of Consultancy (To)": "12-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "4000"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Vellalar Engineering College,Thindal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Green,Energy and environmental audit",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "08-11-2024",
+              "Date of Consultancy (To)": "08-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "4000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "FPGA Based system design for engineering applications",
+              "Collaboration/Sponsored by": "Self supporting",
+              "Level": "National",
+              "Start Date": "29-09-2025",
+              "End Date": "15-10-2025",
+              "Duration": "15 days",
+              "Role played": "Joint Convener",
+              "Venue": "EEE New CC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Altera-FPGA",
+              "Level": "National",
+              "Organized by": "ALTERA",
+              "Place": "Bangalore",
+              "Start Date": "18-12-2025",
+              "End Date": "16-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent trends in optimization techniques for challenging engineering applications",
+              "Level": "International",
+              "Organized by": "VIT",
+              "Place": "Andra Pradesh",
+              "Start Date": "08-12-2025",
+              "End Date": "14-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "IoT and machine learning applications to Engineering systems",
+              "Level": "Online",
+              "Organized by": "VIT",
+              "Place": "Chennai",
+              "Start Date": "21-11-2025",
+              "End Date": "25-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Business Analytics",
+              "Level": "National",
+              "Organized by": "Indian Statistical Institute",
+              "Place": "Bangalore",
+              "Start Date": "10-08-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Six sigma black belt",
+              "Level": "International",
+              "Organized by": "Indian Statistical Institute",
+              "Place": "Chennai",
+              "Start Date": "01-06-2025",
+              "End Date": "08-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "STTP",
+              "Title of the program": "Mathematical modeling and computational software",
+              "Level": "International",
+              "Organized by": "Hindusthan College of technology",
+              "Place": "Coimbatore",
+              "Start Date": "27-03-2025",
+              "End Date": "01-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Role of Artificial Intelligence in sustainable energy",
+              "Level": "International",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "17-02-2025",
+              "End Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industrial training at Pooling Substation,Nochipalayam",
+              "Level": "State",
+              "Organized by": "Natrinai Ventures",
+              "Place": "Coimbatore",
+              "Start Date": "02-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Select Programme": "Workshop",
+              "Title of the program": "Physics for Engineering",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "02-09-2024",
+              "End Date": "03-09-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "03-06-2007",
+              "End Date": "03-06-2007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Title of Paper": "Dual-mode fluorescent and colorimetric sensors powered by machine learning for High security  authentication and anti-counterfeiting",
+              "Title of Conference": "9th International conference on Engineering Technologies and Applied Sciences(ICETAS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "20-11-2024",
+              "End Date": "22-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Title of Paper": "Enhancing Industrial Applications with LSTM-Based Predictive Analytics",
+              "Title of Conference": "nternational Conference on Computing and Networking Technology (ICCNT)",
+              "Organized by": "IEEE,Kamand,India",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.SIVACHITRA",
+              "Department": "EER",
+              "Title of the Program": "International conference on Applied Mathematics and Computing",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "EER",
+              "Name of Supervisor": "DR.M.SIVACHITRA",
+              "Title of the thesis for scholar": "Early Brain Diseases Diagnosis Using Advanced Machine Learning Techniques",
+              "Name of Scholar": "DHARANI M",
+              "Date of Registration": "25-07-2023",
+              "Registration No:": "23249697110",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Machine Learning, Data Structures and Algorithm, Web Programming, Mern Stack Development,",
+              "Date of joining in KEC": "01-10-2022",
+              "Mobile": "9629790578",
+              "E-mail": "epragatheeswari@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Academic Degree": "ME",
+              "Specialization": "Computer Science and Engineering",
+              "From": "24-07-2020"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Academic Degree": "BE",
+              "Specialization": "Computer Science and Engineering",
+              "From": "05-08-2016"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-10-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Level": "International",
+              "Title": "IoT Integrated Smart Rover System for Disaster Relief Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Expert Clouds and Applications (ICOECA)",
+              "Level": "International",
+              "Title": "Empirical Investigation into Social Media's Effects on Academic Performance: A Technical Perspective",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "18-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Level": "International",
+              "Title": "Prediction of Pesticide Goodness in Potato Crop Across Various Agriculture Lands Using Machine Learning Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Level": "International",
+              "Title": "Real-Time Facial Recognition System for Secure College Bus Transport using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "11-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Level": "International",
+              "Title": "Prediction of Insurance Claims for Health Sector using Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-03-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Mani Electricals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "11-12-2025",
+              "Date of Consultancy (To)": "10-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8474"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Shree Kumaravel",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2025",
+              "Date of Consultancy (To)": "17-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8500"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sri Amman Home Appliances",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "10-01-2024",
+              "Date of Consultancy (To)": "23-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Muthuram Enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "27-12-2023",
+              "Date of Consultancy (To)": "06-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Vela Departmental Store",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-01-2023",
+              "Date of Consultancy (To)": "18-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands-on Training on Mobile Application Development using Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "06-03-2026",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-Formal Course on Mobile Application Development using Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-12-2025",
+              "End Date": "28-01-2026",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-Formal Course on Mobile Application Development using flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "16-09-2025",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Generation A: Generative and Agentic Systems",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "15-06-2026",
+              "End Date": "20-06-2026"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introducction to Machine Learning (Tamil)",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-01-2026",
+              "End Date": "25-03-2026"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Mobile Application Development using Flutter and Firebase",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "Madanapalle Institute of Technology & Science",
+              "Place": "Andhra Pradesh",
+              "Start Date": "16-09-2025",
+              "End Date": "20-09-2024"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-08-2025"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Moren Web App Development using MERN stack",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "31-05-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-05-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "NextGen-AI-Advancing from NLP Basics to Intelligent Agents",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-02-2025",
+              "End Date": "27-12-2025"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "MERN stack Development",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Online",
+              "Start Date": "20-01-2025",
+              "End Date": "24-01-2024"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai, Erode.",
+              "Start Date": "06-01-2025",
+              "End Date": "10-06-2025"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-12-2024",
+              "End Date": "13-12-2024"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "Mesi Institute of Information Techonology",
+              "Place": "",
+              "Start Date": "29-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "Others",
+              "Title of the program": "Communication Skills, Modes and Knowledge Duss",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "Others",
+              "Title of the program": "Professional Ethics and Sustainability",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "Others",
+              "Title of the program": "Orientation towards Technical Education and Curriculum Aspects",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-09-2024",
+              "End Date": "13-09-2024"
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "08-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-07-2023",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "A Comprehensive Analysis of Machine Learning Based Hair Loss Prediction: Integrating  Real-Time Data with GAN and Cause Identification",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "Real-Time Facial Recognition System for Secure College Bus Transport using Deep Learning Techniques",
+              "Title of Conference": "International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "11-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "Prediction of Insurance Claims for Health Sector using Machine Learning Techniques",
+              "Title of Conference": "International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "A Comprehensive Analysis of Machine Learning based Hair Loss Prediction: Integrating Real-Time Data  with GAN and  Cause Identification",
+              "Title of Conference": "2nd International Conference on Multi-Strategy Learning Environment( ICMSLE-2025)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "26-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "IOT-Enabled Smart Crop Recommendation System Using Machine Learning",
+              "Title of Conference": "5th International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "IoT Integrated Smart Rover System for Disaster Relief Management",
+              "Title of Conference": "International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "10-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "Empirical Investigation into Social Media's Effects on Academic Performance: A Technical Perspective",
+              "Title of Conference": "International Conference on Expert Clouds and Applications (ICOECA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-04-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "E.PRAGATHEESWARI",
+              "Department": "CTUG",
+              "Title of Paper": "Abstract HTML  Prediction of Pesticide Goodness in Potato Crop Across Various Agriculture Lands Using Machine Learning Algorithm",
+              "Title of Conference": "2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

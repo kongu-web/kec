@@ -1,0 +1,1421 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "MACHINE LEARNING, DEEP LEARNING",
+              "Date of joining in KEC": "16-06-2008",
+              "Mobile": "9865805218",
+              "E-mail": "praneeshtika@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Academic Degree": "PhD",
+              "Specialization": "Science and Humanities",
+              "From": "01-01-2016"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Computer Science",
+              "From": "03-06-2008"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Academic Degree": "MSc",
+              "Specialization": "Information Technology",
+              "From": "03-06-2005"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Academic Degree": "B.Sc",
+              "Specialization": "INFORMATION TECHNOLOGY",
+              "From": "03-01-2000"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Category": "NET",
+              "Reference No": "210510563764",
+              "Roll No": "TN10000915",
+              "Year": "2022",
+              "Specialization": "COMPUTER SCIENCE AND APPLICATIONS",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-06-2008",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Date": "23-03-2024"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Best Project Award",
+              "Level": "International",
+              "Awarded by": "St Peter's Institute of Highe Education and Research",
+              "Place": "Chennai",
+              "Date": "20-09-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Best Project Award",
+              "Level": "National",
+              "Awarded by": "Rathinam School of Architecture",
+              "Place": "Chennai",
+              "Date": "21-03-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal on Recent and Innovation Trends in Computing and Communication",
+              "Level": "International",
+              "Title": "Automatic Detection of Road Cracks using EfficientNet with Residual U-Net-based Segmentation and YOLOv5-based Detection",
+              "Volume No": "11",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things, IDCIoT 2025",
+              "Level": "International",
+              "Title": "Optimization of ML Algorithms in CAD Diagnosis using Grid Search CV",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "07-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Innovations in Electronics and Communication Systems",
+              "Level": "International",
+              "Title": "Optimizing the parameters of machine learning techniques using bat algorithm in the analysis of skin cancer",
+              "Volume No": "3159",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "09-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+              "Level": "International",
+              "Title": "Modelling a self-defined CNN for effectual classification of PCOS from ultrasound images",
+              "Volume No": "32",
+              "Issue No": "5",
+              "Year": "2024",
+              "Date": "01-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Cognitive Robotics and Intelligent Systems",
+              "Level": "International",
+              "Title": "Enhancing Deepfake Detection: An Ensemble Deep Learning Approach for Efficient Attribute Manipulation Identification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "19-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Recent Advances in Science and Engineering Technology",
+              "Level": "International",
+              "Title": "Crop Recommendation Systems using Machine Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "24-11-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 1st IEEE International Conference on Networking and Communications",
+              "Level": "International",
+              "Title": "Comparative Study of CNN and Transfer Learning Techniques in the classification of PCO Ultra Sound Images(",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Research in Computer Science and Engineering",
+              "Level": "International",
+              "Title": "Optimizing the Hyperparameters of CNN in predicting the presence of Retinal Disease with OCT image dataset",
+              "Volume No": "8",
+              "Issue No": "7",
+              "Year": "2021",
+              "Date": "21-07-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Conf. Series: Materials Science and Engineering",
+              "Level": "International",
+              "Title": "Brain tumor detection from MRI images using deep learning\ntechniques",
+              "Volume No": "1055",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "15-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical Reviews",
+              "Level": "International",
+              "Title": "Comparative study of SVM and cnn in identifying the types of skin cancer",
+              "Volume No": "7",
+              "Issue No": "11",
+              "Year": "2020",
+              "Date": "15-07-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "AWS - Cloud Services",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "13-02-2026",
+              "Date of Consultancy (To)": "13-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10677"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Worksop on Machine Learning, Deep Learning and Cloud Computing Tecniques",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "30-08-2025",
+              "Date of Consultancy (To)": "30-08-2025",
+              "Revenue Generated (amount in Rupees without GST)": "22423"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Casual Clothing Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "29-07-2025",
+              "Date of Consultancy (To)": "07-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10620"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Data Exploration and Analysis with Python",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "08-03-2025",
+              "Date of Consultancy (To)": "08-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "5254"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "SPS Earth Mover Arachalur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "10-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Avira's Bridal Collection Mettukadai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "10-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Kongu Engineering College",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Data Analytics using Python",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "01-05-2024",
+              "Date of Consultancy (To)": "01-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "3728"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Thangam Driving School",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2020",
+              "Date of Consultancy (To)": "05-02-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sorokad",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "03-06-2020",
+              "Date of Consultancy (To)": "06-10-2020",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sorokad",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "03-06-2020",
+              "Date of Consultancy (To)": "06-10-2020",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Sorokad",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-06-2019",
+              "Date of Consultancy (To)": "07-10-2019",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Full Stack Foundation : Java, JavaScript and Database",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "16-12-2025",
+              "End Date": "19-12-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Mobile Application Development using Flutter",
+              "Collaboration/Sponsored by": "-",
+              "Level": "Institute",
+              "Start Date": "05-08-2025",
+              "End Date": "17-09-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Flutter Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-02-2025",
+              "End Date": "15-03-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CTUG"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Analytics using R",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-05-2022",
+              "End Date": "22-05-2022",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CTUG"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Sructures using C and C++",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "14-12-2019",
+              "End Date": "25-12-2019",
+              "Duration": "40 Hours",
+              "Role played": "Member",
+              "Venue": "CTUG"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Data Analytics using R",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "24-07-2019",
+              "End Date": "25-08-2019",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CTUG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Science for Engineers",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Madras",
+              "Start Date": "01-01-2026",
+              "End Date": "31-03-2026"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "LATEX OVerleaf for Academic Writing",
+              "Level": "National",
+              "Organized by": "ESSGEE Digiskills",
+              "Place": "Online",
+              "Start Date": "27-11-2025",
+              "End Date": "26-12-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Mobile Application Development using Fluter and Firebase",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "Erode",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Advanced Tools Used For Technical Writing and Journal Publication",
+              "Level": "National",
+              "Organized by": "ICFAI University",
+              "Place": "chhattisgarh",
+              "Start Date": "24-11-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Programming with Generative AI",
+              "Level": "National",
+              "Organized by": "Indian Institute of Science",
+              "Place": "Bangalore",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Research Methodology,  AI Tools in  Research and Intellectual Property Rights",
+              "Level": "National",
+              "Organized by": "Sri Venkateswara College of Computer Applications and Managemen",
+              "Place": "Coimbatore",
+              "Start Date": "22-01-2024",
+              "End Date": "26-01-2024"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Programming in Modern C++",
+              "Level": "National",
+              "Organized by": "NPTEL, IIT",
+              "Place": "Kharagpur",
+              "Start Date": "02-01-2024",
+              "End Date": "30-04-2024"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced PRoblem Solving Skills through Competitive Coding Platform",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "09-02-2023",
+              "End Date": "11-04-2023"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "High Dimensional Data Analytics using Pyton and Julia",
+              "Level": "National",
+              "Organized by": "Vellore Institute of Technology",
+              "Place": "Vellore",
+              "Start Date": "09-02-2023",
+              "End Date": "10-02-2023"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Technologies",
+              "Level": "National",
+              "Organized by": "Sathyabama Institute of Science and Technology",
+              "Place": "Online",
+              "Start Date": "29-11-2022",
+              "End Date": "06-12-2022"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Science for Engineers",
+              "Level": "National",
+              "Organized by": "NPTEL IIT",
+              "Place": "Madras",
+              "Start Date": "01-07-2022",
+              "End Date": "30-09-2022"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Mining",
+              "Level": "National",
+              "Organized by": "NPTEL IIT",
+              "Place": "Khargpur",
+              "Start Date": "21-02-2022",
+              "End Date": "02-04-2022"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Sceience and Machine Learning",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "Sathyamangalam",
+              "Start Date": "13-07-2021",
+              "End Date": "17-07-2021"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Applications of Machine Learning",
+              "Level": "National",
+              "Organized by": "Shri Vishnu College of Engineering for Women",
+              "Place": "Bhimavaram",
+              "Start Date": "15-06-2021",
+              "End Date": "19-06-2021"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Researc Trends in Computing",
+              "Level": "National",
+              "Organized by": "Indra Ganesan College of Engineering",
+              "Place": "Tiruchirapalli",
+              "Start Date": "31-05-2021",
+              "End Date": "04-04-2021"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "NPTEL IIT",
+              "Place": "Madras",
+              "Start Date": "01-01-2021",
+              "End Date": "01-02-2021"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Cutting Edge Trends in Deep Learning Approaches",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "16-11-2020",
+              "End Date": "01-12-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Applied Deep Learning for Medical Data Analysis",
+              "Level": "National",
+              "Organized by": "EDUXLabs",
+              "Place": "Online",
+              "Start Date": "04-08-2020",
+              "End Date": "20-08-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Webinar",
+              "Title of the program": "Data Science with Python",
+              "Level": "National",
+              "Organized by": "Panimalar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "18-06-2020",
+              "End Date": "21-06-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Reshape the Inteeligence using Recent Technologies",
+              "Level": "National",
+              "Organized by": "Panimalar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "08-06-2020",
+              "End Date": "12-06-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Enterprise Resource Planning",
+              "Level": "National",
+              "Organized by": "Sri Venkateswara College of Engineering",
+              "Place": "Pennalur",
+              "Start Date": "05-06-2020",
+              "End Date": "06-06-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Advancement in Science and Humanities",
+              "Level": "National",
+              "Organized by": "Panimalar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "25-05-2020",
+              "End Date": "29-05-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "PHP and MYSQL",
+              "Level": "National",
+              "Organized by": "Spoken Tutorial Project, IIT Bombay",
+              "Place": "K.M.G.College of Arts and Science",
+              "Start Date": "27-04-2020",
+              "End Date": "01-05-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Conference",
+              "Title of the program": "Recent Trends  in Engineering and Scientific Technology -",
+              "Level": "National",
+              "Organized by": "Rathinam Technical Campus",
+              "Place": "Online",
+              "Start Date": "21-03-2020",
+              "End Date": "21-03-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Deep Learning in Healthcare Applications: Research Prespective",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "28-08-2019",
+              "End Date": "31-08-2019"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Intoduction to R Software",
+              "Level": "Online",
+              "Organized by": "Indian Institute of Tecnology",
+              "Place": "Kanpur",
+              "Start Date": "01-08-2018",
+              "End Date": "01-09-2018"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Deep Learning in Bioinformatics and Healthcare Informatics",
+              "Level": "National",
+              "Organized by": "Velammal Engineering College",
+              "Place": "Chennai",
+              "Start Date": "06-07-2018",
+              "End Date": "07-07-2018"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning Using Python",
+              "Level": "National",
+              "Organized by": "Sri Ramakrishna Engineering College",
+              "Place": "Coimbatore",
+              "Start Date": "21-06-2018",
+              "End Date": "23-06-2018"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Statistical Techniques in Data Analytics",
+              "Level": "National",
+              "Organized by": "AMRITA School of Engineering",
+              "Place": "Coimbatore",
+              "Start Date": "17-08-2017",
+              "End Date": "19-08-2017"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "High Dimensional Data Analytics",
+              "Level": "National",
+              "Organized by": "Sri Ramakrishna Engineering College",
+              "Place": "Coimbatore",
+              "Start Date": "24-02-2017",
+              "End Date": "25-02-2017"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Neural Networks",
+              "Level": "National",
+              "Organized by": "ACM Trivandrum Professional Chapter",
+              "Place": "Trivandrum",
+              "Start Date": "27-08-2016",
+              "End Date": "27-08-2016"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Big Data Analytics",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "06-06-2016",
+              "End Date": "17-06-2016"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Data Science: Scope of Big Data in Genomic Sequencing and Diagnostic Imaging",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "19-03-2016",
+              "End Date": "19-03-2016"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Knowledge Discovey in Biomedical Informatics Using Cloud Computing",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "26-11-2015",
+              "End Date": "27-11-2015"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "STTP",
+              "Title of the program": "Introduction to Design of Algorithms",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "27-04-2015",
+              "End Date": "30-05-2015"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Internet of Things(IOT):Technology, Applications and Impact",
+              "Level": "National",
+              "Organized by": "Nandha Engineering College",
+              "Place": "Erode",
+              "Start Date": "04-12-2014",
+              "End Date": "04-12-2014"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Android Application Development",
+              "Level": "National",
+              "Organized by": "Kongunadu Arts and Science College",
+              "Place": "Coimbatore",
+              "Start Date": "26-09-2014",
+              "End Date": "26-09-2014"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Data Mining using R",
+              "Level": "National",
+              "Organized by": "Sri Ramakrishna Engineering College",
+              "Place": "Coimbatore",
+              "Start Date": "13-09-2014",
+              "End Date": "13-09-2014"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Computational Intelligence System Based on Neuro Fuzzy Logic in Medical Diagnosis and Bioinformatics",
+              "Level": "National",
+              "Organized by": "Kongu Engineeing College",
+              "Place": "Erode",
+              "Start Date": "01-10-2013",
+              "End Date": "02-10-2013"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Research Methods in Educational Technology",
+              "Level": "National",
+              "Organized by": "ISTE",
+              "Place": "Kongu Engineering College",
+              "Start Date": "02-02-2013",
+              "End Date": "09-02-2013"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Computational Intelligence System Based on Fuzzy Logic in Medical Diagnosis and Bioinformatics",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "01-02-2013",
+              "End Date": "02-02-2013"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Knowledge Discovery in Medical Databases(KDMD-2010)",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "24-11-2010",
+              "End Date": "25-11-2010"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Green Computing Practices in IT Industries &Academic Institutions",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "30-07-2010",
+              "End Date": "31-07-2010"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Instructional Design and Delivery",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "23-01-2009",
+              "End Date": "25-01-2009"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Wireless Multimedia Tecnologies",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "03-12-2008",
+              "End Date": "04-12-2008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Detecting Cow Measles using Deep Learning Algorithm",
+              "Title of Conference": "International Conference on Sustainability Innovation in Computing and Engineering",
+              "Organized by": "New Prince Sri Bhavani College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "30-12-2025",
+              "End Date": "31-12-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Optimization of ML algorithms in CAD diagnosis using GridSearc  CV",
+              "Title of Conference": "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things",
+              "Organized by": "Reva University",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": "06-02-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Crop Recommendation Systems using Machine Learning Algorithm",
+              "Title of Conference": "International Conference on Recent Advances in Science and Engineering Technology",
+              "Organized by": "BGS Institute of Technology",
+              "Level": "International",
+              "Start Date": "23-11-2023",
+              "End Date": "24-11-2023"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "SMART AGRICULTURE – AGROCASTURE",
+              "Title of Conference": "International Conference on Contemporary Engineering and Technolog",
+              "Organized by": "Prince Shri Venkateshwara Padmavathy Engineering College",
+              "Level": "International",
+              "Start Date": "01-05-2023",
+              "End Date": "02-05-2023"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Comparitive Study of CNN and ANN in the prediction of Covid-19 using Chest X-Ray images",
+              "Title of Conference": "Advances in Communication, Machine Learning, Embedded with Internet of Things",
+              "Organized by": "Kongu Engineeing College",
+              "Level": "International",
+              "Start Date": "09-04-2021",
+              "End Date": "10-04-2021"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Application of Machine Learning Classifiers in Liver Cancer Prediction",
+              "Title of Conference": "Recent Trends and Technologies in Soft Computing",
+              "Organized by": "St.Peter's Institution of Higer Education and Reseach",
+              "Level": "International",
+              "Start Date": "28-09-2020",
+              "End Date": "29-09-2020"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Application of the Clssification Algorithms in predicting the presence of PCOS",
+              "Title of Conference": "Recent Trends and Challenges in Heaithcare Informatics(RCHI 2019)",
+              "Organized by": "Department of Computer Applications",
+              "Level": "International",
+              "Start Date": "12-12-2019",
+              "End Date": "13-12-2019"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Gene Selection using Binary Firefly Algoritm in Cancer Identification",
+              "Title of Conference": "Recent Trends and Challenges in Healthcare Informatics(RCHI 2019)",
+              "Organized by": "Department of Computer Applications",
+              "Level": "International",
+              "Start Date": "12-12-2019",
+              "End Date": "13-12-2019"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "An OVerview of Data Mining Techniques in Asthma Prediction",
+              "Title of Conference": "Innovative Trends in Information Technonolgy",
+              "Organized by": "Department of Information Technology",
+              "Level": "National",
+              "Start Date": "05-03-2016",
+              "End Date": "05-03-2016"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Using Temporal Abstraction Methods & Data Mining Techniques for Analyzing Bio- Chemical Test Data For Hemodialysis",
+              "Title of Conference": "Knowledge Discovery in Data Mining and Data Warehousing (NCK3D)",
+              "Organized by": "Kongu Engineering College Perundurai",
+              "Level": "National",
+              "Start Date": "03-09-2010",
+              "End Date": "04-09-2010"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of Paper": "Noise Suppression and Edge Detection in Ultrasound Kidney Images",
+              "Title of Conference": "Systemic, Cybernetics & Informatics(SCI)",
+              "Organized by": "Department of Computer Technology -UG",
+              "Level": "National",
+              "Start Date": "23-10-2009",
+              "End Date": "24-10-2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of the Program": "Cynosure 25",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "07-02-2025",
+              "End Date": "07-02-2025"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of the Program": "R Programming",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Bharathiar University",
+              "Start Date": "23-03-2023",
+              "End Date": "23-03-2023"
+            },
+            {
+              "Name of Faculty": "P.GOKILA BRINDHA",
+              "Department": "CTUG",
+              "Title of the Program": "R Programming",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Bharathiar University",
+              "Start Date": "29-04-2022",
+              "End Date": "29-04-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

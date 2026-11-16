@@ -1,0 +1,954 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "11-12-2020",
+              "Mobile": "8778413640",
+              "E-mail": "shudapreyaa.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Academic Degree": "MTECH",
+              "Specialization": "IT",
+              "From": "03-09-2014"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Academic Degree": "B.E",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "02-08-2010"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-12-2020",
+              "End Date": "28-05-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "KARPAGAM INSTITUTE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "02-01-2017",
+              "End Date": "11-12-2020",
+              "Duration": "3 YEARS AND 10 MONTHS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-R.S.SHUDAPREYAA-11d11c02-9916-4937-969f-6b50d7bea726.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091853Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a540eee8c960d56406d9b7f8fd21de15ebaa997a6ecc53f98ac1e7b177aabf08",
+                  "name": "Offer Of Appointment.pdf",
+                  "totalRecords": null,
+                  "resourceId": "pQZxMKAdkwENShRcp",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-R.S.SHUDAPREYAA-8c5707cf-6db8-4ea2-abaa-2ead2f3f1102.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091853Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=b3e8975d655c7b31e8fbb865759db15b4480fd0f267b18bd6c6117f969c07a25",
+                  "name": "ExperienceCertificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "yJoKT7TBPdYgJt8ZL",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Forum for Information Retrieval Evaluation,",
+              "Level": "International",
+              "Title": "DravidianCodeMix 2025: Empirical Analysis of Classical\nMachine Learning Approaches in Tamil, Malayalam, and\nTulu Code-Mixed Offensive Content Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "24-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Intelligent Innovations in Engineering and Technology (ICIIET)",
+              "Level": "International",
+              "Title": "FedAvg-P: Performance-Driven Aggregation Strategy in Hierarchical Federated Learning for Anomaly Detection Within AMI Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "CHARULATHA",
+              "Level": "Others",
+              "Title": "ARTIFICIAL INTELLIGENCE",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "10-09-2025",
+              "Published at": "CHARULATHA PUBLICATION"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings",
+              "Level": "National",
+              "Title": "DISTILLED ONE-SHOT FEDERATED LEARNING: A HIGHLY EFFICIENT AND SECURE APPROACH FOR REDUCING COMMUNICATION COSTS IN FEDERATED EDGE LEARNING",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-03-2025",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Enhancing Social Sustainability in Manufacturing Supply Chains",
+              "Level": "International",
+              "Title": "Addressing Modern Slavery and Child Labor in Supply Chains",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-03-2025",
+              "Published at": "2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Blockchain for Biomedical Research and Healthcare",
+              "Level": "International",
+              "Title": "Integrating Healthcare Management System Using Blockchain Technology",
+              "Volume No": "125",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-09-2024",
+              "Published at": "01 September 2024"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Speech and Language Technologies for Low-Resource Languages",
+              "Level": "International",
+              "Title": "Sales Forecasting from Group Conversation Using Natural Language Processing",
+              "Volume No": "2046",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-04-2024",
+              "Published at": "24 April 2024"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Emerging Trends in Information Technology and Engineering (ICETITE)",
+              "Level": "National",
+              "Title": "Classification of Lung Diseases Using Transfer Learning with Chest X-Ray Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "18-04-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Grids and Internet of Things: An Energy Perspective",
+              "Level": "International",
+              "Title": "Smart Grid IoT: An Intelligent Energy Management in Emerging Smart Cities",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "18-07-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Quantum Blockchain: An Emerging Cryptographic Paradigm",
+              "Level": "International",
+              "Title": "A Study on Post?Quantum Blockchain: The Next Innovation for Smarter and Safer Cities",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "15-07-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Health Sciences",
+              "Level": "International",
+              "Title": "IoT and mobile app-based food spoilage alert system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "08-06-2022",
+              "Published at": "Neliti"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Detection of Faults in Flying Wireless Sensor Networks Using Adaptive Reinforcement Learning",
+              "Volume No": "8",
+              "Issue No": "1S4",
+              "Year": "2019",
+              "Date": "10-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Popular Articles",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journals Digital Communication and Analog Signals",
+              "Level": "International",
+              "Title": "A Novel Energy-Efficient Min–Max Optimization (NEMO) With RSA Security in Wireless Sensor Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "02-05-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Popular Articles",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Emerging Technologies in Engineering Research (IJETER)",
+              "Level": "International",
+              "Title": "Energy Efficient Routing in Wireless Sensor Networks Using Fruit Fly Optimization Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "17-02-2016",
+              "Published at": "EVERSCIENCE"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal on Computer Science,",
+              "Level": "National",
+              "Title": "PARAMETER SELECTION USING FRUIT FLY OPTIMIZATION",
+              "Volume No": "3",
+              "Issue No": "4",
+              "Year": "2015",
+              "Date": "07-10-2015",
+              "Published at": "i-Manager's"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Project": "RESEARCH",
+              "Title of Project": "An explainable Transformer based multimodal framework for population level osteoporosis risk assessment",
+              "Funding Agency": "TIDCO",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "P.Santhiya, R.S.Shudapreyaa",
+              "Project Start Date": "21-04-2026",
+              "Duration": "1 YEAR",
+              "Status": ""
+            },
+            {
+              "Principal Investigator": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Project": "RESEARCH",
+              "Title of Project": "An intelligent multilingual email security system for detecting AI driven phishing attacks in Indian enterprise environments",
+              "Funding Agency": "TIDCO",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "S MALLIGA, R.S.SHUDAPREYAA",
+              "Project Start Date": "21-04-2026",
+              "Duration": "1 YEAR",
+              "Status": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Sri Divyam Sofa Manufacturing and Furnitures",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "12-01-2026",
+              "Date of Consultancy (To)": "14-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "22000"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "San Technovation Private Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "18000"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "LANDMARK PROJECTS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-01-2025",
+              "Date of Consultancy (To)": "08-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "21500"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "SIBI TRADE",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-01-2025",
+              "Date of Consultancy (To)": "10-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "18500"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "KKK Complex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-01-2024",
+              "Date of Consultancy (To)": "10-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "KCR poultry farms Perundura",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-01-2024",
+              "Date of Consultancy (To)": "10-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Queen Mobiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-01-2022",
+              "Date of Consultancy (To)": "10-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MAYOORA BAKES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "17-06-2021",
+              "Date of Consultancy (To)": "13-11-2021",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Introduction to Go Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-03-2026",
+              "End Date": "",
+              "Duration": "2 months",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Prompt Engineering",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "07-09-2025",
+              "End Date": "",
+              "Duration": "2 months",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI APPLICATION DEVELOPMENT USIGN MLOPS",
+              "Level": "Others",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "“EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+              "Level": "Others",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "KEC",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "ONLINE",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "JAVA",
+              "Level": "National",
+              "Organized by": "CODE TANTRA",
+              "Place": "KEC",
+              "Start Date": "19-07-2025",
+              "End Date": "24-07-2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science and Machine Learning",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "Sathyamangalam",
+              "Start Date": "13-07-2025",
+              "End Date": "17-07-2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Modern Web App Development using MERN  stack",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "KEC",
+              "Start Date": "26-05-2025",
+              "End Date": "31-05-2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "PYTHON PROGRAMMING",
+              "Level": "National",
+              "Organized by": "CODE TANTRA",
+              "Place": "KEC",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Computing – Research Perspective in Healthcare Applications",
+              "Level": "National",
+              "Organized by": "P.S.R. Engineering College",
+              "Place": "Online",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "IMPACT OF MACHINE LEARNING DEEP LEARNING AND AI:INDUSTRAIL PERSPECTIVE",
+              "Level": "National",
+              "Organized by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Start Date": "06-05-2024",
+              "End Date": "10-05-2024"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "SOFTWARE TESTING",
+              "Level": "International",
+              "Organized by": "NPTEL",
+              "Place": "INDIA",
+              "Start Date": "22-01-2024",
+              "End Date": "16-02-2024"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and cyber security",
+              "Level": "National",
+              "Organized by": "REVA UNIVERSITY",
+              "Place": "BANGALORE",
+              "Start Date": "24-07-2023",
+              "End Date": "28-07-2023"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "“FULL  STACK DEVELOPMENT",
+              "Level": "National",
+              "Organized by": "Kamaraj College of  Engineering and Technology",
+              "Place": "Virudhunagar.",
+              "Start Date": "11-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "International",
+              "Organized by": "NPTEL SWAYAM",
+              "Place": "INDIA",
+              "Start Date": "24-01-2022",
+              "End Date": "24-03-2022"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Science",
+              "Level": "International",
+              "Organized by": "ATAL",
+              "Place": "Punjab Engineering College",
+              "Start Date": "07-06-2021",
+              "End Date": "11-06-2021"
+            },
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Select Programme": "STTP",
+              "Title of the program": "Machine Learning  Applications to Internet of Things (IoT)",
+              "Level": "International",
+              "Organized by": "AICTE",
+              "Place": "Velammal College of Engineering and Technology",
+              "Start Date": "01-03-2021",
+              "End Date": "06-03-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "CSI",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "25-11-2025",
+              "End Date": "25-11-2027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.S.SHUDAPREYAA",
+              "Department": "CSR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "MACHINE LEARNING-POWERED PREDICTIVE PLATFORM FOR ACCELERATING ANTIVIRAL AND ANTICANCER DRUG DISCOVERY",
+              "Name of Application": "",
+              "Co-inventors Name": "1)Dr. Ashish Nagila 2)Dr K Maheswari 3)B.Arunmozhikalanchiam 4)Dr.Chukka Rajasekhar 5)Dr. Mamta Bansal 6)Swathi S 7)Dr. Rupam Das 8)Prasanna Simhadati 9)Dr. Gururaj T 10)S.Soniya 11)Shudapreyaa R S 12)Subham pankaj samantaray",
+              "Application Number": "202511119620 A",
+              "Date of Registration": "01-12-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "16-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

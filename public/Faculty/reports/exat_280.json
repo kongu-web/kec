@@ -1,0 +1,1552 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "10-12-2020",
+              "Mobile": "9789223405",
+              "E-mail": "indhunatarajan18@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "Embedded System Technologies",
+              "From": "01-09-2014"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electronics and Communication Engineering",
+              "From": "26-08-2010"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-11-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "10-12-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "JKK Nattraja College of Engineering and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-07-2019",
+              "End Date": "23-11-2020",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-N.INDHUMATHI-66d1facc-3996-429f-8b59-d01f394e3050.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=7a2d6c7786b0266243b3a1c83cf65336208bdf435afd6a9c27ab788c77d1fd5c",
+                  "name": "JKKN.pdf",
+                  "totalRecords": null,
+                  "resourceId": "9fW8G425LDHqwLG3B",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Muthayammal Engineering College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-09-2016",
+              "End Date": "31-05-2018",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-N.INDHUMATHI-80d237fb-a10d-4c36-b407-a98e2e2805cf.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9142f5262d5841f0d538b01da798b9272d8720bc8ec090e5b7b2de601b6b562b",
+                  "name": "muthayammal EXp-Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "cs92JkJCP76rxt3D7",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Naan Mudhalvan Niral Thiruvizha 3.o",
+              "Level": "State",
+              "Awarded by": "Govt of TamilNadu",
+              "Place": "",
+              "Date": "10-04-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "KEC Best Project Award",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "",
+              "Date": "18-03-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "All India Women Start-a-thon",
+              "Level": "National",
+              "Awarded by": "Shooting Stars Foundation in collaboration with AICTE",
+              "Place": "",
+              "Date": "13-01-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Thingqbator-Aqua Sync",
+              "Level": "National",
+              "Awarded by": "Nasscom",
+              "Place": "",
+              "Date": "17-12-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Thinqbator -TN Agro APP",
+              "Level": "National",
+              "Awarded by": "Nasscom",
+              "Place": "",
+              "Date": "17-12-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Nanan Mudhalvan Niral thiruvizha 2.0",
+              "Level": "State",
+              "Awarded by": "Govt of TamiNadu",
+              "Place": "Anna University Regional Campus Coimbatore",
+              "Date": "22-05-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Naan Mudhalvan Niral Thiruvizha 2.0",
+              "Level": "State",
+              "Awarded by": "Govt of TamilNadu",
+              "Place": "Anna University Regional Campus Coimbatore",
+              "Date": "18-05-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Naan Mudhalvan TN StartUP",
+              "Level": "State",
+              "Awarded by": "Gov of Tamilnadu",
+              "Place": "Chennai",
+              "Date": "11-11-2024"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "KPIT Sparkle",
+              "Level": "International",
+              "Awarded by": "KPIT",
+              "Place": "Pune",
+              "Date": "01-12-2023"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of Award/Achievement": "ARM Inventor Challange",
+              "Level": "National",
+              "Awarded by": "ARM Education and STMicro electronics",
+              "Place": "Noida",
+              "Date": "20-11-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Elbee Global Publisher",
+              "Level": "International",
+              "Title": "Next Generation Cloud Computing: AI, IoT and Edge\nIntegration",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "26-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Discover Internet of Things",
+              "Level": "International",
+              "Title": "A cloud-integrated deep learning system for weed detection using Jetson Nano",
+              "Volume No": "6",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "05-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "An Effective Explainable AI-Based Discrete Swarm Herd Optimization Model for Intrusion Detection in Industry 4.0 Networks",
+              "Volume No": "55",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-10-2025",
+              "Published at": "Springer Nature Link"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Distributed Deep Learning and Explainable AI (XAI) in Industry 4.0",
+              "Level": "International",
+              "Title": "An Effective Explainable AI-Based Discrete Swarm Herd Optimization Model for Intrusion Detection in Industry 4.0 Networks",
+              "Volume No": "55",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Nanotechnology",
+              "Level": "International",
+              "Title": "Environmental Management through Machine Learning-based Fish Species Classification for Sustainable Fisheries",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2024",
+              "Date": "30-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "BUS Foot Board Control Using IOT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Applying Face Recognition Technology to Monitor and Analyze Student Behavior in Higher Education through Artificial Intelligence",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT",
+              "Level": "International",
+              "Title": "Adaptive Traffic Control Using Machine Learning Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Importance Of Developing Social Skills In Engineering Students Using Artificial Intelligence",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": "IEEE xplorer"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "A Comparative Analysis for Optimal Project Completion Utilizing Critical Path Method and Precedence Diagram Method for Efficient Solar Power Plant Installation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Integration of AI tools in learning pedagogy for L2 Learners in Engineering Education: Impacts, Challenges and Possibilities",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Enhancing Cloud Virtualization Security with a Z-Score Based Conjugate Self-Organizing Migration ML Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": "IEEE explorer"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "An Approach to Analyze the Permanent Magnet Motor Torque Ripple for Improving Torque Power Curves used in Electric Vehicles",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Deep Learning and EHR-Driven Image Processing Framework for Lung Infection Detection in Healthcare Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Automated Weed Identification And Classification Using Artificial Intelligence",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT 2024",
+              "Level": "International",
+              "Title": "Deep Learning Model Based Criminal Identification System for Law Enforcement Department",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Peltier-Driven Electricity Generation in Industrial Boiler System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 Second International Conference on Emerging Trends in Information Technology and Engineering (ICETITE)",
+              "Level": "International",
+              "Title": "Smart Mark Entry System Using Image Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-02-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Acta Informatica Pragensia",
+              "Level": "International",
+              "Title": "Longitudinal investigation of work stressors using human voice features",
+              "Volume No": "12",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "28-04-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "System Design for Epidemics Using Machine Learning and Deep Learning",
+              "Level": "International",
+              "Title": "Diagnosis of COVID-19 from CT Images and Respiratory Sound Signals Using Deep Learning Strategies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "21-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Yolov5 based a real time automatic number plate and helmet recognition system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "26-12-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IFIP Advances in Information and Communication Technology",
+              "Level": "International",
+              "Title": "Identification and Classification of Groundnut Leaf Disease Using Convolutional Neural Network",
+              "Volume No": "654",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Cities",
+              "Level": "International",
+              "Title": "Smart lights for smart city",
+              "Volume No": "1",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "30-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Biology and Biomedicine",
+              "Level": "International",
+              "Title": "Design of Portable Low Cost Biomedical Suction Device for Fast Healing of Diabetic Wounds Using Embedded Systems",
+              "Volume No": "6",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat.Volatiles&Essent.Oils",
+              "Level": "International",
+              "Title": "Independent portable data copier for data transfer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat.Volatiles&Essent.Oils",
+              "Level": "International",
+              "Title": "DETECTION OF HOOKWORM USING DEEP LEARNING",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "28-10-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "NATURAL VOLATILES & ESSENTIAL OILS Journal",
+              "Level": "International",
+              "Title": "Covid-19 Impact on Various Sectors in India -A Detailed Analysis",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "19-10-2021",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Project": "RPS",
+              "Title of Project": "Design and Development of a Low-Cost and Durable Chlorine Sensor Integrated with pH and Turbidity Measurement for IoT-Enabled Drinking Water Quality Monitoring in Smart Water Distribution Systems (iTank)",
+              "Funding Agency": "TIDCO TNRPF",
+              "Name of the Scheme": "URP Research Grant-2026",
+              "Co-Investigator(s)": "Dr.S.Maheswaran, Ms.Gowri.P",
+              "Project Start Date": "01-12-2026",
+              "Duration": "2 Years",
+              "Status": "Ongoing"
+            },
+            {
+              "Principal Investigator": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Project": "Awarness Programme",
+              "Title of Project": "Atal Vayo Abhyuday Yojana Campaign 2024",
+              "Funding Agency": "Ministry of Social Justice and Empowerment , GoI, Community Radio Assoiaction New delhi",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "Dr.S.Maheswaran, Dr.R.D.Gomathi",
+              "Project Start Date": "21-10-2024",
+              "Duration": "4 Months",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Project": "Awarness Programme",
+              "Title of Project": "Science Communication through Community Radio",
+              "Funding Agency": "Vigyan Prasar - Department of Science & Technology, Government of India, New Delhi, and Ariviyal Palagai- Tamilnadu Science and Technology Centre, Chennai.",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "Dr.S.Maheswaran, Vivek B",
+              "Project Start Date": "28-08-2024",
+              "Duration": "6 Months",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kader and Kader Plywoods",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "15-01-2026",
+              "Date of Consultancy (To)": "07-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "90000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "ICCCNT Foundation, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "14-06-2025",
+              "Date of Consultancy (To)": "17-09-2025",
+              "Revenue Generated (amount in Rupees without GST)": "118000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Elgon Electrical and Electronics, 23K EVK Sampath Road, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "07-04-2025",
+              "Date of Consultancy (To)": "01-07-2025",
+              "Revenue Generated (amount in Rupees without GST)": "106200"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "ICCCNT Foundation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "04",
+              "Date of Consultancy (From)": "24-06-2024",
+              "Date of Consultancy (To)": "30-09-2024",
+              "Revenue Generated (amount in Rupees without GST)": "60000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Magizham Foods,Saravanampatti,Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "18-04-2024",
+              "Date of Consultancy (To)": "21-06-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Gugan Knitwears,Perundurai, Tamil Nadu 638052",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "18-04-2024",
+              "Date of Consultancy (To)": "27-06-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "PACFIL MACHINERIES,Salem",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "30-01-2023",
+              "Date of Consultancy (To)": "16-06-2023",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sakthi Sugars Limited,Poonduraii, Semur,Erode(Dt)",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-02-2022",
+              "Date of Consultancy (To)": "30-06-2022",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Two-Day Workshop on Single Board Computers for Embedded Systems and IoT Applications (Using Intel® UP² Kit)",
+              "Collaboration/Sponsored by": "Intel Unnati CoE, IEI, IIPC",
+              "Level": "State",
+              "Start Date": "17-07-2026",
+              "End Date": "18-07-2026",
+              "Duration": "2 Days",
+              "Role played": "Coordinator",
+              "Venue": "Department of ECE"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Edge AI: An Embedded Approach Image and Signal Processing with Intel UpKits",
+              "Collaboration/Sponsored by": "IIPC -KEC & COE Intel Unnati",
+              "Level": "State",
+              "Start Date": "08-01-2026",
+              "End Date": "09-01-2026",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of ECE, KEC"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "FDP",
+              "Name of Event": "Intel Unnati-Edge AI IoT-Image and signal Processing with UP Squared Kits",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "19-09-2025",
+              "End Date": "20-09-2025",
+              "Duration": "2 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "Conference",
+              "Name of Event": "16th ICCCNT-2025",
+              "Collaboration/Sponsored by": "ICCCNT Foundation & AICTE",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "",
+              "Duration": "6 Days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "Conference",
+              "Name of Event": "ICCCNT",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "",
+              "Duration": "6",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Two days National level seminar on The Role of Drone Technology in Precision Agriculture",
+              "Collaboration/Sponsored by": "SERB-DST",
+              "Level": "National",
+              "Start Date": "27-07-2022",
+              "End Date": "28-07-2022",
+              "Duration": "2 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Extended Reality (XR) and Artificial Intelligence Integration for Human-Centric Smart Manufacturing in Industry 5.0",
+              "Level": "National",
+              "Organized by": "ATAL  & VELLORE INSTITUTE OF TECHNOLOGY CHENNAI OFF CAMPUS",
+              "Place": "Vellore",
+              "Start Date": "16-09-2026",
+              "End Date": "18-09-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE AND ACCREDITATION",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-07-2026",
+              "End Date": "18-10-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "OBE AND ACCREDITATION",
+              "Level": "National",
+              "Organized by": "NPTEL- AICTE",
+              "Place": "IIT Madras",
+              "Start Date": "01-07-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Module 8_ Institutional Management & Administrative Procedures",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-04-2026",
+              "End Date": "28-08-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+              "Level": "Online",
+              "Organized by": "ATAL",
+              "Place": "Kongu Engineering College",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Design Thinking and Innovation",
+              "Level": "Online",
+              "Organized by": "ATAL",
+              "Place": "SANT GAJANAN MAHARAJ COLLEGE OF  ENGINEERING",
+              "Start Date": "17-11-2025",
+              "End Date": "22-11-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Futuristic Curriculum Development with Integration of AI, IoT, and Data Science in Engineering Education",
+              "Level": "National",
+              "Organized by": "NITTT",
+              "Place": "",
+              "Start Date": "05-05-2025",
+              "End Date": "09-05-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Eco Innovation in Green Energy and Climate Resilience: Fueling for Economic and Industrial Advancement",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "Sir M. Visvesvaraya Institute of Technology, Karnataka",
+              "Start Date": "20-01-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Eco Innovation in Green Energy and Climate Resilience: Fueling for Economic and Industrial Advancement",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Opportunities  and Challenges in Integrating Renewable Energy in EV Infrastructure charging",
+              "Level": "State",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "24-06-2024",
+              "End Date": "29-06-2024"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "PYTHON",
+              "Level": "State",
+              "Organized by": "Star International Foundation for Research and Education",
+              "Place": "",
+              "Start Date": "19-03-2024",
+              "End Date": "25-03-2024"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Student Assessment and Evaluation",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "28-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Creative Problem Solving , Innovation and Meaningful R & D",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "28-02-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends in AI and DL",
+              "Level": "State",
+              "Organized by": "Sai Ram Institute of Technology",
+              "Place": "",
+              "Start Date": "26-12-2023",
+              "End Date": "30-12-2023"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Technology Enabled Learning & Life Long Self Learning",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "06-02-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Intellectual Property Rights, Research Innovations and Entrepreneurship Development",
+              "Level": "State",
+              "Organized by": "M.Kumarasamy College of Engineering",
+              "Place": "Karur",
+              "Start Date": "30-01-2023",
+              "End Date": "03-02-2023"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Electronics Packaging and Testing",
+              "Level": "State",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "25-07-2022",
+              "End Date": "30-07-2022"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Recent Trends in Electric Vehicles”",
+              "Level": "State",
+              "Organized by": "PSN College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "25-07-2022",
+              "End Date": "29-07-2022"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Communication Skills, Modes & Knowledge Dissemination",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "28-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Instructional Planning and Delivery",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "28-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Orientation Towards Technical Education and Curriculum Aspects",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "28-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Professional Ethics & Sustainability",
+              "Level": "National",
+              "Organized by": "NITTTR",
+              "Place": "",
+              "Start Date": "29-09-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Internet of Things(IoT) in Smart Cities\"",
+              "Level": "State",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "20-09-2021",
+              "End Date": "24-09-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Instrumentation, Signals and Images for the Evaluation of Physiological Systems",
+              "Level": "State",
+              "Organized by": "National Institute of Technology Tiruchirappalli.",
+              "Place": "",
+              "Start Date": "16-08-2021",
+              "End Date": "20-08-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Techniques in Research and Innovation",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Electromagnetic Field Theory",
+              "Level": "State",
+              "Organized by": "K.P.R Institute of  Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "14-06-2021",
+              "End Date": "19-06-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Faculty Development Programme on “AI & MI Skills Industry 4.0",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "03-06-2021",
+              "End Date": "05-06-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI & ML Skills Industry 4.0",
+              "Level": "State",
+              "Organized by": "PMC Tech",
+              "Place": "",
+              "Start Date": "03-06-2021",
+              "End Date": "06-06-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent trends and research perspective on energy and power system",
+              "Level": "State",
+              "Organized by": "PSN College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "31-05-2021",
+              "End Date": "04-06-2021"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Python Programming",
+              "Level": "State",
+              "Organized by": "ICT Academy",
+              "Place": "",
+              "Start Date": "18-07-2019",
+              "End Date": "20-07-2019"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Power Management Using PMLK Sereis",
+              "Level": "State",
+              "Organized by": "Muthayammal Engineering College",
+              "Place": "",
+              "Start Date": "04-09-2017",
+              "End Date": "05-09-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IEI",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "26-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "Associate Member",
+              "Level": "International",
+              "Start Date": "03-05-2017",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "INTELLIGENT ENERGY AND WATER MANAGEMENT SYSTEM FOR KNOWLEDGE HUBS",
+              "Name of Application": "",
+              "Co-inventors Name": "MAHESWARAN S",
+              "Application Number": "202541012235 A",
+              "Date of Registration": "13-02-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "CUSTOMIZABLE REAL-TIME BELL SYSTEM",
+              "Name of Application": "",
+              "Co-inventors Name": "MAHESWARAN S",
+              "Application Number": "202541012238 A",
+              "Date of Registration": "13-02-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "20-02-2025"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "INTEGRATED ENERGY MANAGEMENT SYSTEM FOR CLASSROOM UTILITIES USING REAL-TIME OCCUPANCY DETECTION",
+              "Name of Application": "",
+              "Co-inventors Name": "MAHESWARAN S",
+              "Application Number": "202441092013 A",
+              "Date of Registration": "26-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "29-11-2024"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "FIRE HAZARD DETECTION AND RESPONSE SYSTEM",
+              "Name of Application": "",
+              "Co-inventors Name": "MAHESWARAN S",
+              "Application Number": "202441092012 A",
+              "Date of Registration": "26-11-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "29-11-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Title of the Program": "Two-Day Workshop on \"Edge Al: An Embedded Approach in Image Processing and IoT with Intel UP Xtreme Kits\"",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "",
+              "Start Date": "08-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Title of the Program": "Reviewer",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "22-05-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "N.INDHUMATHI",
+              "Department": "ECR",
+              "Title of the Program": "ICCCNT",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

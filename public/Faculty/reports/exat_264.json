@@ -1,0 +1,926 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Nanotechnology,VLSI design",
+              "Date of joining in KEC": "31-05-2012",
+              "Mobile": "7373255492",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Nanotechnology",
+              "From": "01-01-2020"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "VLSI DESIGN",
+              "From": "01-10-2010"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "01-06-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-11-2025",
+              "End Date": "06-11-2026",
+              "Contribution to the Institute": "Assistant Professor Selection Grade"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-06-2020",
+              "End Date": "31-10-2025",
+              "Contribution to the Institute": "Assistant Professor Senior Grade"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "31-05-2012",
+              "End Date": "31-05-2020",
+              "Contribution to the Institute": "Assistant Professor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Erode Kongu College of Polytechniic,Chennimalai",
+              "Position/Designation": "Lecturer",
+              "Start Date": "01-06-2009",
+              "End Date": "31-10-2010",
+              "Duration": "1 YEAR 4 MONTHS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-A.CHANDRASEKARAN-d1055a0c-2c42-42b2-b7d7-ba65450f7e0a.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6722e63eba8557509ccbb3cf37dbfa8a0a35329f7fec789338436091113eb4a4",
+                  "name": "Polytechnic exp.jpg",
+                  "totalRecords": null,
+                  "resourceId": "bqMyRaqqkfaj6kAdb",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Best faculty award-ECE dept",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering college",
+              "Place": "Kongu Engineering college",
+              "Date": "27-03-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "High Energy Chemistry",
+              "Level": "International",
+              "Title": "Design and Simulation of Efficient Supercapacitor Model\nUsing Matlab/Simulink",
+              "Volume No": "59",
+              "Issue No": "2",
+              "Year": "2025",
+              "Date": "14-05-2025",
+              "Published at": "Springer Publication"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Clean Energy and Sustainability",
+              "Level": "International",
+              "Title": "Highly Carbonized, Porous Activated Carbon Derived from Ziziphus Jujuba for Energy Storage",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "22-05-2023",
+              "Published at": "Springer Nature Link"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "The Journal of Electrochemical Energy Conversion and Storage",
+              "Level": "International",
+              "Title": "Enhancement of the Carbon Content and Electrochemical Performance by Decorating Zinc Oxide Over Graphene Oxide/Polyaniline Composite",
+              "Volume No": "20",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "13-01-2023",
+              "Published at": "ASME"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "HIGH ENERGY CHEMISTRY",
+              "Level": "International",
+              "Title": "Structural and Electrochemical Analysis of Activated Carbon Derived\nfrom Seeds of Ziziphus jujuba and Shells of Prunus dulcis Decorated\nover Graphene Oxide/Polyaniline Binary Composite for High Energy\nDensity Supercapacitor Applications",
+              "Volume No": "57",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "07-01-2023",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "High Energy Chemistry,",
+              "Level": "International",
+              "Title": "Enhancing Supercapacitor Performance Using ZnO Embedded  on GO/PPy Composite as Versatile Electrodes",
+              "Volume No": "57",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "01-09-2022",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Nanomaterials",
+              "Level": "International",
+              "Title": "High-Performance Graphene Oxide/Polypyrrole/Ziziphus jujuba/Prunus dulcis Ternary Composite Electrodes for Supercapacitor for Sensor Applications",
+              "Volume No": "2022",
+              "Issue No": "201910",
+              "Year": "2022",
+              "Date": "05-08-2022",
+              "Published at": "Hindawi"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Hierarchical structure of graphene oxide/polyaniline composite flexible supercapacitor",
+              "Volume No": "2387",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": "AIP Publishing LLC"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Hierarchical structure of graphene oxide/MnO2 electrodes for supercapacitor",
+              "Volume No": "2387",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": "AIP Publishing LLC"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Fabrication of ZnO–Carbonized cotton yarn derived hierarchical porous active carbon flexible electrodes",
+              "Volume No": "2387",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": "AIP Publishing LLC"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Handbook of Supercapacitor Materials: Synthesis, Characterization, and Applications",
+              "Level": "International",
+              "Title": "Microwave-Assisted Graphene-Based Conducting Polymer Materials for Supercapacitors",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "12-10-2021",
+              "Published at": "Wiley-VCH; 1st edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Project": "INNOVATION PROJECT FUND",
+              "Title of Project": "Development of Activated carbon battery",
+              "Funding Agency": "KPIT TECHNOLOGIES,PUNE",
+              "Name of the Scheme": "KPIT SPARKLE",
+              "Co-Investigator(s)": "DR.K.SENTHIL KUMAR",
+              "Project Start Date": "18-03-2023",
+              "Duration": "1 YEAR",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Project": "INNOVATION PROJECT FUND",
+              "Title of Project": "Development of Activated carbon battery",
+              "Funding Agency": "I create,Ahemedabad, Gujarat",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "DR.K.SENTHIL KUMAR",
+              "Project Start Date": "23-02-2023",
+              "Duration": "1 YEAR",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Project": "SPARK FUND",
+              "Title of Project": "Advent of aluminium polymer:  replacing battery",
+              "Funding Agency": "KEC SPARK FUND",
+              "Name of the Scheme": "SPARK FUND",
+              "Co-Investigator(s)": "DR.K.SENTHIL KUMAR",
+              "Project Start Date": "22-12-2022",
+              "Duration": "1 YEAR",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ms.Revathi ,Research Scholar, PKR Arts and science college, Gobi",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-01-2026",
+              "Date of Consultancy (To)": "13-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "13000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ms.Ragavi,Research scholar,KEC",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "31-12-2025",
+              "Date of Consultancy (To)": "13-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "3500"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "M/s Deep auotmation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "17-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "M.Gokulchandru,UG Scholar,Department of chemical,KEC",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "12-12-2025",
+              "Date of Consultancy (To)": "31-12-2025",
+              "Revenue Generated (amount in Rupees without GST)": "1000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "S.Tharani,Research scholar,Coimbatore",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "CV,GCD,&EIS",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "06-05-2025",
+              "Date of Consultancy (To)": "24-07-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Amezoltech India Private Limited",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Waste water  management and  water purification",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-02-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "New Bharat timber merchant sawmill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "ellet making  machine",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-02-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "M/s Deepp Automation Pvt Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Analyzing and designing the MOOBUS Based Data logger",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "21-12-2024",
+              "Date of Consultancy (To)": "07-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "M/s Deepp  Automation pvt ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Analyzing and designing the LoRaWAN Gateway",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "21-12-2024",
+              "Date of Consultancy (To)": "07-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kanli cleancell innovations pvt ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Consultancy",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "30-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "45000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kongu Printszone",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "consultancy",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "01-06-2024",
+              "Date of Consultancy (To)": "30-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "S.V.THARANPRABU,RESEARCH SCHOLAR,BIT,SATHY",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "S.V.THARANPRABU,RESEARCH SCHOLAR,BIT,SATHY",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "10-11-2022",
+              "Date of Consultancy (To)": "10-11-2022",
+              "Revenue Generated (amount in Rupees without GST)": "4600"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "S.V.THARANPRABU,RESEARCH SCHOLAR,BIT,SATHY",
+              "Nature of Consultancy": "Testing",
+              "Type of Consultancy": "S.V.THARANPRABU,RESEARCH SCHOLAR,BIT,SATHY",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-09-2022",
+              "Date of Consultancy (To)": "07-09-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8400"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SPIN A TEX",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBSITE DEVELOPMENT FOR M/S SPIN A TEX",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "23-05-2022",
+              "Date of Consultancy (To)": "13-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "ABC STUDIO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBSITE DEVELOPMENT FOR M/S ABC STUDIO",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "21-05-2022",
+              "Date of Consultancy (To)": "17-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "M/S GREEN ENERGY MAX",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "WEBSITE DEVELOPMENT FOR M/S GREEN ENERGY MAX",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "24-04-2022",
+              "Date of Consultancy (To)": "16-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "14VAC67-NANOTECHNOLOGY FOR ENERGY SUSTAINABILITY",
+              "Collaboration/Sponsored by": "TESSOLVE",
+              "Level": "Department",
+              "Start Date": "27-08-2018",
+              "End Date": "17-10-2018",
+              "Duration": "60 HOURS",
+              "Role played": "Convener",
+              "Venue": "ECE DEPARTMENT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital VLSI Design and FPGA and Testability",
+              "Level": "National",
+              "Organized by": "Ministry of Electronics & Information Technology Government of India & ICTACADEMY",
+              "Place": "Kongu Engineering College, Perundurai, Erode",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "VLSI Design and Methodologies",
+              "Level": "National",
+              "Organized by": "Ministry of Electronics & Information Technology Government of India & ICTACADEMY",
+              "Place": "Velalar College of Engineering and Technology",
+              "Start Date": "23-02-2026",
+              "End Date": "27-02-2026"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Next-Generation Technologies: An Integrated Approach to EV, AI, Embedded Systems, and Custom IC Design",
+              "Level": "International",
+              "Organized by": "Kamaraj College of Engineering and Technology (An Autonomous Institution),",
+              "Place": "S.P.G.C Nagar,K.Vellakulam - 625701, Tamilnadu, India",
+              "Start Date": "12-12-2025",
+              "End Date": "18-12-2025"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "New Generation Smart Healthcare Systems & Medical Equipment Handling",
+              "Level": "National",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "27-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends and Innovations in Biomedical Engineering: From Diagnostics to Marketable Solutions",
+              "Level": "National",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "27-01-2025",
+              "End Date": "31-01-2025"
+            },
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Six days FDP on Next gen educators: Harnessing the power  of Machine learning",
+              "Level": "National",
+              "Organized by": "Jeppiar Institute of  technology",
+              "Place": "Kunnam,Chennai",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "LIFE MEMBER",
+              "Level": "National",
+              "Start Date": "08-09-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Title of Paper": "Analysis of VLSI Combinational Circuits using 1-10 nm QCA Technology",
+              "Title of Conference": "Sixteenth International Conference on Computing, Communication and Networking Technologies",
+              "Organized by": "IIT Indore, in association with the IEEE Electronics Packaging Society and the All India Council for Technical Education (AICTE)",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Rechargeable battery and method of preparation using zinc aluminate and activated carbon",
+              "Name of Application": "A.Chandrasekaran",
+              "Co-inventors Name": "Dr.K.Senthil kumar,Dr.S.Praveenkumar,Dr. G. Murugesan",
+              "Application Number": "202341017599",
+              "Date of Registration": "12-03-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "20-09-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "A.CHANDRASEKARAN",
+              "Department": "ECR",
+              "Title of the Program": "16th ICCCNT 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "IIT – Indore, Madhya Pradesh",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

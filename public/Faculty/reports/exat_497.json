@@ -1,0 +1,897 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "GRAPH THEORY",
+              "Date of joining in KEC": "05-06-2025",
+              "Mobile": "7538856098",
+              "E-mail": "jothi18597@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "MATHEMATICS",
+              "From": "01-12-2021"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "MATHEMATICS",
+              "From": "01-10-2019"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "01-07-2017"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "MATHEMATICS",
+              "From": "01-06-2014"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "05-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "KARPAGAM COLLEGE OF ENGINEERING",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "03-02-2025",
+              "End Date": "03-06-2025",
+              "Duration": "4 MONTHS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MAR-V.JOTHIMANI-1e25ef54-12c2-4cab-ae94-0c683431f243.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=cfe87948595ef0f86def365cf97a35c9b1c7d48ecd766b91fd085a6fe89fbc19",
+                  "name": "1. KCE appointment order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "TkNQuuMuvKQat8fLn",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Name of Award/Achievement": "BEST PAPER AWARD",
+              "Level": "International",
+              "Awarded by": "ADMA",
+              "Place": "MYSURU",
+              "Date": "10-06-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "TWMS Journal of Applied and Engineering Mathematics",
+              "Level": "International",
+              "Title": "MULTI-DECOMPOSITION OF COMPLETE BIPARTITE GRAPHS AND COMPLETE GRAPHS INTO BANNERS AND STARS OF SIZE FIVE",
+              "Volume No": "15",
+              "Issue No": "7",
+              "Year": "2025",
+              "Date": "30-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "JOURNAL OF INDHONESIAN MATHEMATICAL SOCIETY",
+              "Level": "International",
+              "Title": "Multi-Decomposition of Product Graphs into Kites and Stars on Four Edges",
+              "Volume No": "31",
+              "Issue No": "2",
+              "Year": "2025",
+              "Date": "30-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INDIAN JOURNAL OF DISCRETE MATHEMATICS",
+              "Level": "National",
+              "Title": "Multi-decomposition of Cartesian product of complete graphs into kites and stars of size four",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "01-12-2023",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Type of Event": "Others",
+              "Name of Event": "Madame Curie Webinar Initiative",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "21-04-2020",
+              "End Date": "27-04-2020",
+              "Duration": "7 DAYS",
+              "Role played": "Member",
+              "Venue": "VELLALAR COLLEGE FOR WOMEN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "End-to-End Deep Learning Development, Interpretability, and Deployment using MATLAB\"",
+              "Level": "National",
+              "Organized by": "Amrita University",
+              "Place": "coimbatore",
+              "Start Date": "15-05-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Others",
+              "Title of the program": "Repowis 26",
+              "Level": "National",
+              "Organized by": "Kongu Business School",
+              "Place": "kec",
+              "Start Date": "06-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Challenges in teaching learning and research: psychological perpectives",
+              "Level": "National",
+              "Organized by": "vcw",
+              "Place": "",
+              "Start Date": "09-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling data-driven Approches",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "KEC",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research tools: computational math, modelling and data driven approaches",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "ERODE",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Training Program",
+              "Title of the program": "MATLAB ONRAMP",
+              "Level": "International",
+              "Organized by": "MATHWORKS",
+              "Place": "",
+              "Start Date": "28-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "OUTCOME-BASED LEARNING IN HEI’s FOR QUALITY EDUCATION",
+              "Level": "National",
+              "Organized by": "DHAANISH AHMED INSTITUTE OF TECHNOLOGY",
+              "Place": "Coimbatore",
+              "Start Date": "18-07-2025",
+              "End Date": "22-07-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Current trends in applied mathematical modeling and analysis for engineering technology",
+              "Level": "National",
+              "Organized by": "SRM IST",
+              "Place": "chennai",
+              "Start Date": "07-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Current trends in Applied mathematical modelling and analysis for engineering technology",
+              "Level": "International",
+              "Organized by": "SRM, Trichy",
+              "Place": "",
+              "Start Date": "07-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "ADVANCED MICROSOFT EXCEL FOR DATA ANALYTICS",
+              "Level": "National",
+              "Organized by": "DIGI SKILL DEVELOPEMENT CENTRE AND TRAINING INSTITUTE",
+              "Place": "",
+              "Start Date": "05-07-2025",
+              "End Date": "07-07-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "MATRIX ANALYSIS AND APPLICATIONS",
+              "Level": "National",
+              "Organized by": "NPTEL AICTE",
+              "Place": "IIT ROORKEE",
+              "Start Date": "01-07-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Matrix analysis and applications",
+              "Level": "National",
+              "Organized by": "NPTEL AICTE",
+              "Place": "IIT ROORKEE",
+              "Start Date": "01-07-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Insights with Matlab",
+              "Level": "National",
+              "Organized by": "EXCEL ENGINEERING COLLEGE",
+              "Place": "NAMAKKAL",
+              "Start Date": "16-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advances in Graph Theory and Linear Algebra",
+              "Level": "International",
+              "Organized by": "VIT-AP",
+              "Place": "ANDHRA PRADESH",
+              "Start Date": "01-10-2024",
+              "End Date": "05-10-2024"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "MASTERING PYTHON PROGRAM WITH MATHEMATICS",
+              "Level": "National",
+              "Organized by": "INDIAN MATHEMATICS PROFESSORS ASSOCIATION",
+              "Place": "",
+              "Start Date": "01-05-2024",
+              "End Date": "05-05-2024"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "MASTERING GRAPH THEORY CONCEPTS WITH PYTHON PROGRAMMING",
+              "Level": "National",
+              "Organized by": "ARJUN COLLEGE OF TECHNOLOGY",
+              "Place": "COIMBATORE",
+              "Start Date": "13-10-2023",
+              "End Date": "14-10-2023"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Seminar",
+              "Title of the program": "An International Seminar on Multi Dimensional Views on Graph Theory",
+              "Level": "International",
+              "Organized by": "GOVERNMENT ARTS COLLEGE FOR WOMEN, SALEM-8",
+              "Place": "",
+              "Start Date": "18-08-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Research Trends in Graph Theory",
+              "Level": "International",
+              "Organized by": "CUSAT",
+              "Place": "KERALA",
+              "Start Date": "04-08-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Conference",
+              "Title of the program": "COMPUTATIONAL SCIENCES AND APPLIED MATHEMATICS",
+              "Level": "International",
+              "Organized by": "VET Institute of Arts and Science",
+              "Place": "Erode",
+              "Start Date": "21-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Exploring Tangible Ways to do a Quality Research",
+              "Level": "State",
+              "Organized by": "VELLALAR COLLEGE FOR WOMEN",
+              "Place": "ERODE",
+              "Start Date": "15-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Webinar",
+              "Title of the program": "Applications of Mathematical Research",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "ERODE",
+              "Start Date": "15-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Webinar",
+              "Title of the program": "Exploiting Digital Information for Current Research",
+              "Level": "State",
+              "Organized by": "Vellalar College for Women",
+              "Place": "",
+              "Start Date": "06-11-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Webinar",
+              "Title of the program": "INTRODUCTION TO MATLAB WITH IMAGE PROCESSING AND FUZZY LOGIC TOOLBOXES",
+              "Level": "National",
+              "Organized by": "VELLALAR COLLEGE FOR WOMEN, ERODE",
+              "Place": "",
+              "Start Date": "31-07-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Algebra and Analysis",
+              "Level": "National",
+              "Organized by": "VELLALAR COLLEGE FOR WOMEN(Autonomous)",
+              "Place": "Erode-12",
+              "Start Date": "20-07-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Webinar",
+              "Title of the program": "“Madame Curie Webinar Initiative",
+              "Level": "National",
+              "Organized by": "Vellalar College for Women",
+              "Place": "",
+              "Start Date": "21-04-2020",
+              "End Date": "27-04-2020"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Training and Project Awareness",
+              "Level": "State",
+              "Organized by": "VELLALAR COLLEGE FOR WOMEN",
+              "Place": "ERODE",
+              "Start Date": "13-02-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Workshop",
+              "Title of the program": "One day Workshop on R",
+              "Level": "National",
+              "Organized by": "IIT Bombay",
+              "Place": "",
+              "Start Date": "09-11-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Select Programme": "Training Program",
+              "Title of the program": "IBM SOFTWARE TRAINING",
+              "Level": "National",
+              "Organized by": "IBM",
+              "Place": "",
+              "Start Date": "02-08-2018",
+              "End Date": "14-12-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "ACADEMY OF DISCRETE MATHEMATICS APPLICATIONS",
+              "Position": "LIFETIME MEMBER",
+              "Level": "International",
+              "Start Date": "15-06-2024",
+              "End Date": "02-08-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "participation only",
+              "Title of Conference": "Internaational Conference on Discrete Mathematics",
+              "Organized by": "IIT Madras",
+              "Level": "International",
+              "Start Date": "07-06-2026",
+              "End Date": "10-06-2026"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of complete graphs for enhanced cryptographic security",
+              "Title of Conference": "International Conference on Applied Mathematical Modelling",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "20-02-2025",
+              "End Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "MULTI-DECOMPOSITION OF TENSOR PRODUCT OF COMPLETEGRAPHS INTO BANNERS AND STARS OF SIZE FIVE",
+              "Title of Conference": "NATIONAL CONFERENCE ON GRAPH THEORY AND ALLIED TOPICS",
+              "Organized by": "University of Mysore",
+              "Level": "National",
+              "Start Date": "23-10-2024",
+              "End Date": "24-10-2024"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of complete bipartite graphs and complete graphs into banners and stars of size five",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON GRAPH THEORY AND ITS APPLICATIONS",
+              "Organized by": "PRESIDENCY UNIVERSITY",
+              "Level": "International",
+              "Start Date": "20-06-2024",
+              "End Date": "22-06-2024"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of product graphs into kites and stars of size four",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON THEORETICAL AND COMPUTATIONAL GRAPH THEORY",
+              "Organized by": "VELLALAR cOLLEGE FOR WOMEN AND VET INSTITUTEOF ARTS &SCIENCE (CO - EDUCATION) COLLEGE",
+              "Level": "International",
+              "Start Date": "10-01-2024",
+              "End Date": "12-01-2024"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of line graphs and knesar graphs formed from complete graphs into kites and stars",
+              "Title of Conference": "International conference on DISCRETE MATHEMATICS & GRAPH THEORY DAY",
+              "Organized by": "VIDYA VARDHAKA COLLEGE OF ENGINEERING, MYSURU",
+              "Level": "International",
+              "Start Date": "08-06-2023",
+              "End Date": "10-06-2023"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of cartesian product of complete graphs into kites and stars of size four",
+              "Title of Conference": "18th Annual Conference of ADMA and Graph Theory Day",
+              "Organized by": "Vellalar College for Women (Autonomous), Erode-12,",
+              "Level": "National",
+              "Start Date": "09-06-2022",
+              "End Date": "11-06-2022"
+            },
+            {
+              "Name of Faculty": "V.JOTHIMANI",
+              "Department": "MAR",
+              "Title of Paper": "Multi-decomposition of complete graphs into kites and stars of size four",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON THEORETICAL COMPUTER SCIENCE AND DISCRETE MATHEMATICS",
+              "Organized by": "Sri Sivasubramaniya Nadar College of Engineering",
+              "Level": "International",
+              "Start Date": "02-12-2021",
+              "End Date": "04-12-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

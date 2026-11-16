@@ -1,0 +1,916 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Computer Networks, Wireless Networks, Internet of Things",
+              "Date of joining in KEC": "09-06-2014",
+              "Mobile": "9962073299",
+              "E-mail": "nandhinisv1@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Academic Degree": "PhD",
+              "Specialization": "Information and Communication Engineering",
+              "From": "20-06-2017"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Academic Degree": "ME",
+              "Specialization": "Computer and Communication Engineeering",
+              "From": "06-06-2012"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Academic Degree": "BE",
+              "Specialization": "Information Technology",
+              "From": "18-06-2008"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "09-06-2014",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of Award/Achievement": "NPTEL DISCIPLINE STAR",
+              "Level": "Others",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "04-12-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Smart Electronic Devices and Intelligent Systems (ICSEDIS)",
+              "Level": "International",
+              "Title": "Real-Time Tomato Leaf Disease Detection using Lightweight YOLOv11n with Web-Mobile Deployment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "25-06-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computing Communication and Intelligence",
+              "Level": "International",
+              "Title": "Improving the Accuracy of Used Car Price Prediction Using Machine Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "24-06-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computing and Machine Learning",
+              "Level": "International",
+              "Title": "Leveraging Machine Learning and Deep Learning for Effective Abusive Language Filtering on Social Media",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "06-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 5th International Conference on Advancement in Electronics & Communication Engineering (AECE)",
+              "Level": "International",
+              "Title": "Light-Weight Hash Based Rank Attacks Detection in RPL Based Iot Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Electrical Engineering",
+              "Level": "International",
+              "Title": "Hybrid Ensemble Model for Earthquake Magnitude Forecasting: A Case Study on Japan",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "15-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Big Data",
+              "Level": "International",
+              "Title": "Empowering sentiment analysis in social media: a comprehensive approach to enhance the classification of abusive Tamil comments using transformer models",
+              "Volume No": "12",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-08-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Project": "Student Project",
+              "Title of Project": "Accident Prevention in Blind Spot Using Embedded Systems",
+              "Funding Agency": "Tamil Nadu Skill Development Corporation (TNSDC)",
+              "Name of the Scheme": "Niral Thiruvizha Scheme",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "11-03-2025",
+              "Duration": "6 months",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Kishore Glass and Plywood, Kunathur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Cloud Enabled Smart Security System using IoT",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "06-01-2026",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "17000"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Saritha Traders, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Inventory and Sales management website using Data Analytics",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "15-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "23000"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Velpaari Enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "02-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Climetverse",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "Business Application",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "19-02-2025",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "P.R.S Fabrics",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "21-01-2025",
+              "Date of Consultancy (To)": "06-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "22000"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Vishakan Builders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "20-01-2025",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "18000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "1-credit course on SAP Business Process and Application Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-02-2026",
+              "End Date": "15-03-2026",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National Level Seminar on Next-Generation Remote Sensing and Quantum AI synergies for Sustainable environment monitoring",
+              "Collaboration/Sponsored by": "Ministry of Earth Science",
+              "Level": "National",
+              "Start Date": "08-01-2026",
+              "End Date": "09-01-2026",
+              "Duration": "2 days",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Seminar",
+              "Name of Event": "NEXT-GENERATION REMOTE SENSING AND QUANTUM-AI SYNERGIES FOR SUSTAINABLE ENVIRONMENTAL MONITORING",
+              "Collaboration/Sponsored by": "Ministry of Earth Sciences",
+              "Level": "International",
+              "Start Date": "08-01-2026",
+              "End Date": "09-01-2026",
+              "Duration": "2 days",
+              "Role played": "Convener",
+              "Venue": "Sarvepalli Radha Krishnan, ITP"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-formal Course on Machine Learning and Deep Learning Using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "31-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-formal course on Machine Learning and Deep Learning using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "31-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "FDP",
+              "Name of Event": "Next-Gen Al for Fog and Edge Computing: Building Intelligent, Decentralized IoT Networks",
+              "Collaboration/Sponsored by": "ATAL",
+              "Level": "National",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025",
+              "Duration": "6 days",
+              "Role played": "Others",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "FDP",
+              "Name of Event": "Faculty Development Programmes",
+              "Collaboration/Sponsored by": "ATAL",
+              "Level": "National",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025",
+              "Duration": "6 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on Training on Cyber Security Tools for Application Security",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "17-10-2025",
+              "End Date": "17-10-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands-on Training on Cyber Security Tools for Application Security",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "17-10-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "1-credit course on 24VC013- Video Editing and Motion Graphics Using Adobe Premiere Pro and After Effects",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "31-08-2025",
+              "End Date": "02-11-2025",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VC013-Video Editing and Motion Graphics Using Adobe Premiere Pro and After Effects",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "31-08-2025",
+              "End Date": "02-11-2025",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "IIPC- Hands on Training on Developing Real Time IoT Applications using Raspberry Pi",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "29-08-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands-on training on Developing Real Time IoT Applications using Raspberry Pi",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "29-08-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "IoT Lab"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-Formal Course on Machine Learning and Deep Learning using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "16-09-2025",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-Formal Course on Machine Learning and Deep Learning Using Python",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-08-2025",
+              "End Date": "16-09-2025",
+              "Duration": "17",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "HANDS ON TRAINING ON DEVELOPING REAL TIME IOT APPLICATIONS USING RASPBERRY PI",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "05-10-2024",
+              "End Date": "05-10-2024",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VC054-3D Animation with Blender",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-08-2024",
+              "End Date": "02-10-2024",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "AI APPLICATION DEVELOPMENT USING MLOPS",
+              "Level": "National",
+              "Organized by": "PunchBiz in association with CoE on HPC",
+              "Place": "Kongu Engineering College, Perundurai",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Prompt Engineering",
+              "Level": "National",
+              "Organized by": "eBOX",
+              "Place": "Kongu Engineering College",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2026"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Brainstorming Workshop on Research Proposal Writing",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "01-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning and Deep Learning -Fundamentals and Apllications",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "",
+              "Start Date": "21-07-2025",
+              "End Date": "26-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Faculty Development Program on Programmable Cities",
+              "Level": "National",
+              "Organized by": "Indian Institute of Information Technology Dharwad",
+              "Place": "",
+              "Start Date": "09-12-2024",
+              "End Date": "14-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "STTP",
+              "Title of the program": "Transformative AI Tools for Research Writing: Comprehensive Techniques and Best Practices",
+              "Level": "National",
+              "Organized by": "MLR Institute of Technology & RSP Science Hub",
+              "Place": "",
+              "Start Date": "30-09-2024",
+              "End Date": "05-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Ethical Hacking",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "03-07-2024",
+              "End Date": "31-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Hands-on Training Programme on Developing Real-Time Applications using IoT",
+              "Level": "National",
+              "Organized by": "Department of CSE, Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "19-06-2024",
+              "End Date": "21-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Title of Paper": "Hybrid Ensemble  Model for Earthquake Magnitude Forecasting: A Case Study on Japan",
+              "Title of Conference": "SPIN 2025",
+              "Organized by": "Amity University",
+              "Level": "International",
+              "Start Date": "20-02-2025",
+              "End Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Title of Paper": "Routing Security in RPL-based Internet of Things (IoT) Networks using Whale Optimisation Algorithm and Unsupervised Machine Learning",
+              "Title of Conference": "2024 5th International Conference on Smart Electronics and Communication (ICOSEC)",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "18-09-2024",
+              "End Date": "20-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.S.NANDHINI",
+              "Department": "CSR",
+              "Title of Paper": "Multilingual Offensive Language Detection In Social Media Content Using BERT-Base-Multilingual-Cased Model",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "IIT Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Web Technologies and Cloud Computing",
+              "Date of joining in KEC": "30-06-2010",
+              "Mobile": "9095296777",
+              "E-mail": "rahunathan.mca@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Academic Degree": "PhD",
+              "Specialization": "Science and Humanities",
+              "From": "11-07-2011"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Application",
+              "From": "01-06-2005"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Academic Degree": "BSC",
+              "Specialization": "Information Technology",
+              "From": "01-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Multimedia Tools and Applications",
+              "Level": "International",
+              "Title": "Defaulter detection based on Spearman correlation\nwith hyper tuned SVM classification for preventing\nnon?performing assets occurring in bank",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "30-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Multidisciplinary Technovation (IRJMT)",
+              "Level": "International",
+              "Title": "Face Positioned Driver Drowsiness Detection Using Multistage Adaptive 3D Convolutional Neural Network",
+              "Volume No": "52",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "26-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Multidisciplinary Technovation (IRJMT)",
+              "Level": "International",
+              "Title": "A Hybrid Model for Performance Evaluation of Fixed VANETs using Novel 1C3N and Topology-Based Ad-Hoc Routing Protocols with Packet Loss Control Methods",
+              "Volume No": "5",
+              "Issue No": "5",
+              "Year": "2023",
+              "Date": "07-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Information Technology and Web Engineering",
+              "Level": "International",
+              "Title": "Social Network Analysis for Precise Friend Suggestion for Twitter by Associating Multiple Networks Using ML",
+              "Volume No": "17",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "02-12-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Neuro Quantology",
+              "Level": "International",
+              "Title": "Deep Learning-Based Method for Personalized Movie Recommendation",
+              "Volume No": "20",
+              "Issue No": "9",
+              "Year": "2022",
+              "Date": "02-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Science and Technology Research Journal",
+              "Level": "International",
+              "Title": "An Active Broadcast System for Safety-Oriented Facilities in Decentralized TDMA Assisted VANETs",
+              "Volume No": "16",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Turkish Journal of Computer and Mathematics Education",
+              "Level": "International",
+              "Title": "Public Opinion Analysis of Road Accidents&Review of Conventional and Combinational Driver Safety Methodologies with SelfLearning Algorithms",
+              "Volume No": "12",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "05-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Detection And Classification Of Plant Pathology With Image Processing Technique",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2019",
+              "Date": "02-12-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematics & Information Sciences",
+              "Level": "International",
+              "Title": "Efficient Multi Keyword Search In Heterogeneous\nEnvironment Based On Ranking Technique",
+              "Volume No": "13",
+              "Issue No": "S1",
+              "Year": "2019",
+              "Date": "01-08-2019",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Project": "Research",
+              "Title of Project": "Automatic accident detection and road safety support system for reshaping the transportation in smart cities of India",
+              "Funding Agency": "ICMR",
+              "Name of the Scheme": "Ad-hoc Research Scheme",
+              "Co-Investigator(s)": "Dr.L.Rahunathan , Dr.D.Sivabalaselvamani",
+              "Project Start Date": "03-08-2018",
+              "Duration": "3 Years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Navina Agency",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2024",
+              "Date of Consultancy (To)": "01-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "64900"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Sri Venkateshwara Lubricants",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2024",
+              "Date of Consultancy (To)": "01-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "64900"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "JAYAKUMARAN ORAGANI PRODUCT",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "06-11-2023",
+              "Date of Consultancy (To)": "08-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "90000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "PROP CREATORS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "TAMILNADU SHOE MART",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "ADBRICKSMEDIA",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "HI TECH MOBILES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SRI PONGALIAMMAN & CO.FINANCE",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SRI ASHTALAKSHMI INDUSTRIES, GOBICHETTIPALAYAM",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "AMBASAMUDRAM SARVODAYA SANGH",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SAMUTHIRAM ORGANIC FERTILIZER",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "ARNOLD FITNESS & GYM",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-11-2022",
+              "Date of Consultancy (To)": "03-04-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Latha Medicals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-11-2021",
+              "Date of Consultancy (To)": "04-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Sri Kongu Cars",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-11-2021",
+              "Date of Consultancy (To)": "04-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "M.R & Co",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-11-2021",
+              "Date of Consultancy (To)": "04-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "BARANI MEDICAL AGENCY",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-11-2021",
+              "Date of Consultancy (To)": "04-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "SOWNDARIYA LEATHERS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "03-11-2021",
+              "Date of Consultancy (To)": "04-04-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "ANITHA AUTO ELECTRICALS WORKS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "14-11-2020",
+              "Date of Consultancy (To)": "12-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "GEM INSTITUTE OF NURSING EDUCATION AND RESEARCH",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "13-11-2020",
+              "Date of Consultancy (To)": "12-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "IIPC - VIBE CODING",
+              "Collaboration/Sponsored by": "",
+              "Level": "District",
+              "Start Date": "27-02-2026",
+              "End Date": "27-02-2026",
+              "Duration": "1day",
+              "Role played": "Convener",
+              "Venue": "MCA CC1"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "Rapid App Development with NoCode /LowCode Platform",
+              "Collaboration/Sponsored by": "",
+              "Level": "District",
+              "Start Date": "13-09-2024",
+              "End Date": "13-09-2024",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "MCA CC1 & CC2"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Event": "Seminar",
+              "Name of Event": "CSIR",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "28-11-2019",
+              "End Date": "29-11-2019",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Event": "Seminar",
+              "Name of Event": "CSIR",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "01-03-2019",
+              "End Date": "02-03-2019",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Type of Event": "Seminar",
+              "Name of Event": "AICTE SPONSORED",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "09-11-2017",
+              "End Date": "10-11-2017",
+              "Duration": "2 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "MCA CC1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber Security",
+              "Level": "State",
+              "Organized by": "Department of CT-PG",
+              "Place": "Kongu Engineering College",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Prompt Engineering",
+              "Level": "State",
+              "Organized by": "Department of CSE",
+              "Place": "Kongu Engineering College",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Intelligent Computing Techniques and its Engineering Applications",
+              "Level": "National",
+              "Organized by": "College of Engineering and Management",
+              "Place": "Kolaghat",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and its Multidomain Use Cases",
+              "Level": "International",
+              "Organized by": "Vishwakarma Institute of Technology, Pune",
+              "Place": "Pune",
+              "Start Date": "02-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the power of Machine Learning",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLOGY",
+              "Place": "Chennai",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "01-07-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Predicting Caloric Intake based on Rice Consumption and Age Demographics using Machine Learning Algorithm",
+              "Title of Conference": "2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)",
+              "Organized by": "Dhulikhel, Nepal",
+              "Level": "International",
+              "Start Date": "27-01-2026",
+              "End Date": "29-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Proactive and Data-Driven Non-Invasive Student Productivity Analysis via Sleep Variability using Machine Learning",
+              "Title of Conference": "2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Organized by": "Coimbatore, India",
+              "Level": "International",
+              "Start Date": "05-11-2025",
+              "End Date": "07-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Early and Reliable Non-Invasive Liver Disease Diagnosis using Machine Learning Techniques",
+              "Title of Conference": "2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Organized by": "Coimbatore, India",
+              "Level": "International",
+              "Start Date": "05-11-2025",
+              "End Date": "07-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Chronic Kidney Disease Prediction using Light Gradient Boosting Machine",
+              "Title of Conference": "2025 5th International Conference on Soft Computing for Security Applications (ICSCSA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "04-08-2025",
+              "End Date": "06-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Machine Learning Model for Student Stress Level Prediction",
+              "Title of Conference": "2025 4th OPJU International Technology Conference (OTCON) on Smart Computing for Innovation and Advancement in Industry 5.0",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "09-04-2025",
+              "End Date": "11-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Early Detection and Classification of Eye Diseases Using Deep Learning Techniques",
+              "Title of Conference": "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Organized by": "Surya Engineering College (SEC), Erode, India",
+              "Level": "International",
+              "Start Date": "20-01-2025",
+              "End Date": "22-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Prediction of Cryptocurrency Price Using Deep Learning",
+              "Title of Conference": "2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+              "Organized by": "Surya Engineering College (SEC), Erode, India",
+              "Level": "International",
+              "Start Date": "20-01-2025",
+              "End Date": "22-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Deep learning based approach for Cassava leaf disease classification",
+              "Title of Conference": "INTERNATIONAL CONFERENCE ON GREEN COMPUTING FOR COMMUNICATION TECHNOLOGIES (ICGCCT – 2024)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-03-2024",
+              "End Date": "07-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "AI Advancement in Civil Law Contract Regulation for Vitro Fertilization Provision",
+              "Title of Conference": "2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "09-02-2024",
+              "End Date": "10-02-2024"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Prediction and Processing of Environment Geography Images Using Deep Learning Techniques",
+              "Title of Conference": "2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-11-2023",
+              "End Date": "17-11-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "English Language and Linguistic Teaching Strategies Based on Deep Learning",
+              "Title of Conference": "2023 3rd International Conference on Technological Advancements in Computational Sciences (ICTACS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-11-2023",
+              "End Date": "03-11-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Prediction of Solar Energy Generation Using Machine Learning",
+              "Title of Conference": "2023 4th IEEE Global Conference for Advancement in Technology (GCAT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-10-2023",
+              "End Date": "08-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Soil Classification using Deep Learning Techniques",
+              "Title of Conference": "2023 Second International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-08-2023",
+              "End Date": "25-08-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Cannotation MeasureUp to Detect Deepfake by Face Recognition via Long Short-Term Memory Networks Algorithm",
+              "Title of Conference": "Lecture Notes on Data Engineering and Communications Technologies",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-06-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Recognition of Bean Leaf Diseases Using Neural Network and Machine Learning Techniques",
+              "Title of Conference": "2023 3rd International Conference on Smart Data Intelligence (ICSMDI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "30-03-2023",
+              "End Date": "31-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Drowsiness Detection and Accident Prevention by using K Nearest Neighbor (KNN) Algorithm",
+              "Title of Conference": "2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-03-2023",
+              "End Date": "16-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Survey on IoT Enabled Motion Detector Camera in Smart Industry",
+              "Title of Conference": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-01-2022",
+              "End Date": "22-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Forest Fire and Landmines Identification with the Support of Drones Surveillance for Better Environmental Protection: A Survey",
+              "Title of Conference": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-01-2022",
+              "End Date": "22-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Survey on Improving Health Care System by Implementing an Air Ambulance System with the Support of Drones",
+              "Title of Conference": "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-12-2021",
+              "End Date": "04-12-2021"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Recognition Of Facial Expression By Smart Music Player Via Human Face Mood Recommendation",
+              "Title of Conference": "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-12-2021",
+              "End Date": "04-12-2021"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Efficiency Analyzing on Vehicle Tracking Systems",
+              "Title of Conference": "Cyber Security and Digital Forensics . Lecture Notes on Data Engineering and Communications Technologies",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of Paper": "Effective Shortest Paths in Road Network Information Using MPP Progressive Model",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": "29-01-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of the Program": "Hacksagon 2026",
+              "Role": "Jury/Judge",
+              "Level": "Others",
+              "Organized by": "Freelancers Club",
+              "Start Date": "18-02-2026",
+              "End Date": "19-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.L.RAHUNATHAN",
+              "Department": "MCA",
+              "Title of the Program": "DAC Member",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "MBA",
+              "Start Date": "10-10-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

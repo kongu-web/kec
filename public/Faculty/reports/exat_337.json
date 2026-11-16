@@ -1,0 +1,1065 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Machine Learning, Deep Learning",
+              "Date of joining in KEC": "13-07-2022",
+              "Mobile": "09629495198",
+              "E-mail": "rukumanikhandhan.c@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Academic Degree": "M.E.",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-09-2010"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Academic Degree": "B.E.",
+              "Specialization": "CSE",
+              "From": "05-09-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "13-07-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K.S.Rangasamy College of Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "01-06-2012",
+              "End Date": "08-07-2022",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTPG-C.RUKUMANI_KHANDHAN-fcfccb0c-ebf9-4c53-8f02-191fa9076f56.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091851Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1a57d9b94e624e1f191a73a8eeab4c5bc0aab7f128be1d7b4b787405cac0da4a",
+                  "name": "KSR Appointment Order 1.pdf",
+                  "totalRecords": null,
+                  "resourceId": "2TFFjSY4d7zYxuPkG",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTPG-C.RUKUMANI_KHANDHAN-c045c201-a20c-4868-9df4-4af8ac61a086.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091851Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e64f046df4a3b6eae93850464d25ade2bfb53b553ebe39f0bf6ad3916050d989",
+                  "name": "KSR_Experience Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "WqE2mJ8AqRm4KrwpS",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "M.P.NachimuthuM.Jaganathan Engineering College",
+              "Position/Designation": "Lecturer",
+              "Start Date": "27-07-2009",
+              "End Date": "31-07-2010",
+              "Duration": "1 Year",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTPG-C.RUKUMANI_KHANDHAN-446f5740-695c-4a9a-9ddb-174ee6dd4a7f.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091851Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=94a8d2a73a82c63e07e24bee8e37a42ff74cfa24c8bee0ca451c25becbcb5bd7",
+                  "name": "MPNMJ_Service Cum Salary.pdf",
+                  "totalRecords": null,
+                  "resourceId": "5n65uJvbhuacgLHCj",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of Award/Achievement": "Best Placement Coordinator",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering  College",
+              "Place": "",
+              "Date": "18-03-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of Award/Achievement": "Won Best Faculty Award for the academic year 2024 -2025",
+              "Level": "Others",
+              "Awarded by": "KVIT",
+              "Place": "Kongu",
+              "Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of Award/Achievement": "Won I prize in Faculty Hackathon",
+              "Level": "National",
+              "Awarded by": "KPR Institute of Engineering & Technology",
+              "Place": "Coimbatore",
+              "Date": "14-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "PMRP Journal of Research",
+              "Level": "National",
+              "Title": "Predicting Cardiovascular Disease in Diabetic Patients Using Deep Neural Networks",
+              "Volume No": "2",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "10-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "An Ensemble Deep Neural Network Approach to Driver Drowsiness Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": "IEEE XPlore"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence and Machine Learning Applications",
+              "Level": "International",
+              "Title": "AN ENSEMBLE DEEP NEURAL NETWORK APPROACH\nTO DRIVER DROWSINESS DETECTION",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xpllore",
+              "Level": "International",
+              "Title": "Enhanced Heart Attack Prognosis Using Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Nature",
+              "Level": "International",
+              "Title": "Optimizing Lettuce Crop Growth Modeling with XGBoost-SVM and Gaussian Process Regression Fusion",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Early Prediction of Chronic Obstructive Pulmonary Disease: A Deep Transfer Learning Approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Big Data Technology and Business Analytics",
+              "Level": "International",
+              "Title": "Transforming Manufacturing with AI: Advanced Predictive Maintenance Solutions",
+              "Volume No": "3",
+              "Issue No": "3",
+              "Year": "2024",
+              "Date": "13-09-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Sri Sakthimurughan Enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software DEvelopment",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "04-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Sri Vinayaka Textiles",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2024",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Sri Lakshmi Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-01-2024",
+              "Date of Consultancy (To)": "30-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Kandhaguru Construction Pvt.Ltd.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-08-2022",
+              "Date of Consultancy (To)": "30-11-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Industry/Organization": "Swagatam Organics",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-08-2022",
+              "Date of Consultancy (To)": "30-11-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Training",
+              "Name of Event": "Engineering Retrieval-Augmented Generation Systems",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "25-09-2026",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "CT-PG"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Playwright for Modern Web Automation and Testing",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "11-07-2026",
+              "End Date": "08-08-2026",
+              "Duration": "30 Hrs",
+              "Role played": "Coordinator",
+              "Venue": "CT-PG"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One credit course on PostgreSQL",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-12-2025",
+              "End Date": "23-03-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Workshop",
+              "Name of Event": "IIPC  Training Program on \" Web DEsign and Content Management using Wordpress\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "12-09-2025",
+              "End Date": "12-09-2025",
+              "Duration": "1",
+              "Role played": "Convener",
+              "Venue": "CT- PG - CC1 & CC 2"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One credit course on Web Design and Content Management Using Wordpress",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "28-06-2025",
+              "End Date": "29-11-2025",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non formal course on \"Next-Gen Databases\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "17-05-2025",
+              "End Date": "27-07-2025",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": "CT-PG CC1"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit Course on Introduction to Generative AI",
+              "Collaboration/Sponsored by": "KEC",
+              "Level": "Department",
+              "Start Date": "17-02-2025",
+              "End Date": "30-05-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "CT-PG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Image Processing and Computer Vision using Deep Learning and Generative AI",
+              "Level": "National",
+              "Organized by": "Nagarjuna College of Engineering and Technology",
+              "Place": "KARNATAKA",
+              "Start Date": "01-09-2026",
+              "End Date": "05-09-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "ACCREDITATION AND OUTCOME BASED LEARNING",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "15-08-2026",
+              "End Date": "24-10-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "AI for Engineering Research: From Programming to  Publications",
+              "Level": "Online",
+              "Organized by": "PROMIND LEARNING ACADEMY",
+              "Place": "",
+              "Start Date": "03-08-2026",
+              "End Date": "07-08-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Next Generation Remote Sensing and Quantum AI Synergies for Sustainable Environmental Monitoring",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College (MoE Sponsored)",
+              "Place": "",
+              "Start Date": "08-01-2026",
+              "End Date": "09-01-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Prompt Engineering",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College & E Box",
+              "Place": "Perundurai",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Google Gemini on Education",
+              "Level": "National",
+              "Organized by": "Google Gemini Academy",
+              "Place": "",
+              "Start Date": "15-11-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Application of Artificial Intelligence/Machine Learning Algorithms in Bioinformatics and Computational Biology",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "10-11-2025",
+              "End Date": "15-11-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Soft Skill Development",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "04-07-2025",
+              "End Date": "21-09-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Soft Skill Development",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "04-07-2025",
+              "End Date": "21-09-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Intelligent  Computing Techniques and its Engineering Applications",
+              "Level": "National",
+              "Organized by": "College of Engineering and Management, Kolaghat",
+              "Place": "",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Digital Transformation in Tamil Nadu using AI for Public Services",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "",
+              "Start Date": "03-01-2025",
+              "End Date": "04-04-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Unveiling Quantum Computing from Qubits to Quantum Algorithms: An Interdisciplinary Engineering Perspective",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "02-12-2024",
+              "End Date": "07-12-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and its Multidomain Use Cases",
+              "Level": "National",
+              "Organized by": "Vishwakarma Institute of Technology, Pune",
+              "Place": "",
+              "Start Date": "02-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced AI tools for preparing research papers",
+              "Level": "National",
+              "Organized by": "Sasi Institute of Technology and Engineering,",
+              "Place": "",
+              "Start Date": "08-11-2024",
+              "End Date": "09-11-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Effective Research Paper Writing Strategies and High -  Impact Journal Publication Techniques",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "KEC",
+              "Start Date": "22-04-2024",
+              "End Date": "26-04-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning Techniques for Social Media Analytics",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "KEC",
+              "Start Date": "15-04-2024",
+              "End Date": "20-04-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Tools and Techniques in Cloud Computing and Data Science",
+              "Level": "National",
+              "Organized by": "Narshimha Reddy Engineering College",
+              "Place": "Andhrapradesh",
+              "Start Date": "19-02-2024",
+              "End Date": "24-02-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "02-01-2012",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "An Ensemble Deep Neural Network Approach to Driver Drowsiness Detection",
+              "Title of Conference": "Artificial Intelligence and Machine Learning Applications",
+              "Organized by": "K.S.Rangasamy College of Technology",
+              "Level": "International",
+              "Start Date": "16-04-2026",
+              "End Date": "17-04-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "AN ENSEMBLE DEEP NEURAL NETWORK APPROACH TO DRIVER DROWSINESS DETECTION",
+              "Title of Conference": "Artificial Intelligence and Machine Learning Applications (AIMLA 2026)",
+              "Organized by": "K.S.RANGASAMY COLLEGE OF TECHNOLOGY",
+              "Level": "International",
+              "Start Date": "16-04-2026",
+              "End Date": "17-04-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "Enhanced Heart Attack Prognosis Using Machine Learning Techniques",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS-2025)",
+              "Organized by": "M.P.NachimuthuM.Jaganathan Engineering College",
+              "Level": "International",
+              "Start Date": "11-06-2025",
+              "End Date": "13-06-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "Prediction of Chronic Obstructive Pulmonary Disease using CNN-GRU model",
+              "Title of Conference": "4th OPJU International Technology Conference (OTCON)",
+              "Organized by": "O.P. Jindal Global University, Haryana",
+              "Level": "International",
+              "Start Date": "09-04-2025",
+              "End Date": "11-04-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "Early Prediction of Chronic Obstructive Pulmonary Disease: A Deep Transfer Learning Approach",
+              "Title of Conference": "International Conference on Self Sustainable  Artificial Intelligence Systems(ICSSAS)",
+              "Organized by": "M.P.NachimuthuM.Jaganathan Engineering College, Chennimalai.",
+              "Level": "International",
+              "Start Date": "23-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "Optimizing Lettuce Crop Growth Modeling with XG Boost –SVM and Gaussian Process Regression Fusion",
+              "Title of Conference": "International Conference on Inventive Communication  and Computational Technologies (ICICCT 2024)",
+              "Organized by": "Sree Sakthi Engineering College, Coimbatore.",
+              "Level": "International",
+              "Start Date": "14-06-2024",
+              "End Date": "15-06-2024"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "CLINICAL DECISION SUPPORT SYSTEM USING DEEP LEARNING-BASED  MULTIMODAL APPROACH",
+              "Title of Conference": "National Virtual Conference on Artificial Intelligence and Robotics",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Level": "National",
+              "Start Date": "08-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "A COMPREHENSIVE STUDY ON SOCIAL NETWORK MENTAL DISORDERS DETECTION VIA ONLINE SOCIAL MEDIA MINING",
+              "Title of Conference": "National Conference on Recent Trends in Information, Communication and Computing Technologies",
+              "Organized by": "KSR COLLEGE OF ENGINEERING",
+              "Level": "National",
+              "Start Date": "03-10-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of Paper": "CAR PARKING SYSTEM USING IMAGE PROCESSING ALGORITHM",
+              "Title of Conference": "Fourth National Conference on Innovations in Information Technology",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Level": "National",
+              "Start Date": "22-02-2013",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "OTCON 5.0",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "O.P.Jindal University",
+              "Start Date": "26-06-2026",
+              "End Date": "28-06-2026"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "How to use AI and prompts to score good marks in 12th boardexam",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "CT-PG",
+              "Start Date": "05-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "Java Regex and JavaFX",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "K.S.Rangasamy College of Technology",
+              "Start Date": "14-05-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "Kotlin Programming",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Technology",
+              "Start Date": "11-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "Dynamic Programming in Java",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Velalar College of Engineering and Technology",
+              "Start Date": "20-08-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "C.RUKUMANI KHANDHAN",
+              "Department": "CTPG",
+              "Title of the Program": "Java Collection Framework",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Velalar College of Engineering and Technology",
+              "Start Date": "28-09-2020",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

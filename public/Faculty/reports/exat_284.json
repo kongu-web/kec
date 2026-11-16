@@ -1,0 +1,1201 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.RAMESH",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Artificial Intelligence,Machine Learning",
+              "Date of joining in KEC": "01-06-2023",
+              "Mobile": "9940379914",
+              "E-mail": "amramesh11@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "COMPUTER AND COMMUNICATION ENGINEERING",
+              "From": "08-06-2011"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "15-08-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2023",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Excel Engineering college",
+              "Position/Designation": "AP",
+              "Start Date": "01-06-2013",
+              "End Date": "30-05-2023",
+              "Duration": "10 YERAS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-M.RAMESH-d2d96fdf-c32c-4b0e-86d8-55254404cfdf.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8cac21c854a9590f7a7693179ddd3ed07da551f231d780035c5ba78417234cc6",
+                  "name": "EXCEL APPOINTMENT ORDER.pdf",
+                  "totalRecords": null,
+                  "resourceId": "nNZDkKx2fnKS76RdF",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-M.RAMESH-05c037ae-63f6-437c-9019-efcebc2a441f.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091844Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a112b6a1694c726d6d13bd3d917c6e1f747ec96a6583d7fa14982e92a76d7d50",
+                  "name": "SERVICE CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "gA6uNNKR5j3Z7R6By",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Expert Systems with Applications",
+              "Level": "International",
+              "Title": "An Integrated nano electronic circuit Oriented Emphasis model for gen transistor characterization using optimized Convolutional kogorov–Arnold networks with Gray-Box simulation",
+              "Volume No": "293731759",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "18-10-2026",
+              "Published at": "https://www.sciencedirect.com/science/article/pii/S0957417426037097?via%3Dihub"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mechanics of Advanced Materials and Structures",
+              "Level": "International",
+              "Title": "Hierarchical piezoelectric electromechanical constitutive modeling and\nstress–strain field characterization of lung tumor tissues from CT-derived\nbiomechanical structures",
+              "Volume No": "33",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "05-09-2026",
+              "Published at": "Taylor and Francis"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Level": "International",
+              "Title": "Efficient Coconut Leaf Disease Detection using Hybrid Deep learning Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Level": "International",
+              "Title": "An Efficient Hybrid Deep Learning Model for Classification of Lung Cancer using Histopathology Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Charulatha Publications",
+              "Level": "State",
+              "Title": "Cloud Computing",
+              "Volume No": "",
+              "Issue No": "978-93-7130-038-4",
+              "Year": "2026",
+              "Date": "13-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV-2025)",
+              "Level": "International",
+              "Title": "Refining Skin Cancer Classification\nUsing Model Augmentation in Inception V4",
+              "Volume No": "0",
+              "Issue No": "0",
+              "Year": "2025",
+              "Date": "17-10-2025",
+              "Published at": "Ieee Xplore"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Level": "International",
+              "Title": "Enhancing the Throughput in 802.11 by Modifying\nthe Minstrel Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-06-2025",
+              "Published at": "Ieee xplore"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 6th International Conference for Emerging Technology (INCET)",
+              "Level": "International",
+              "Title": "Performance Improvement of Lung Cancer\nMulticlass Classification on Transformer\nConvolution Neural Networks using\nHistopathalogical Images",
+              "Volume No": "0",
+              "Issue No": "0",
+              "Year": "2025",
+              "Date": "22-05-2025",
+              "Published at": "Ieee Explore"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)",
+              "Level": "International",
+              "Title": "Tomato Plant Disease Classification with Pesticide Suggestion Using Yolov8 Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "04-04-2025",
+              "Published at": "IEEE XPLORE"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Level": "International",
+              "Title": "Efficient Smart Parking Space Identification and Classification System Using\nYOLOv8 Network Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies(ICCCNT)",
+              "Level": "International",
+              "Title": "Enhancing Detection of Nutritional Deficiencies in Coconut Trees Using Transformer-Based Convolutional Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCCNT",
+              "Level": "International",
+              "Title": "Performance Improvement of Lung Cancer Multiclass Classification using Histopathalogical Dataset using Transformer Convolution Neural Networks",
+              "Volume No": "0",
+              "Issue No": "0",
+              "Year": "2023",
+              "Date": "22-11-2023",
+              "Published at": "IEEE XPLORAR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Hydromans",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hydralic power packs",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Onstall Private Limited(JOvJO e-mart) Bharathi Nagar, Mohanur road, Namakkal-637001 9994230734",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E-Mart",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "04-02-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Koral International, Tiruppur 15, 6th Street,Karumarampalayam,Nethaji Nagar,Tiruppur-641607 periyasamy@koral.in 9047043474",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Core Industry for safty and fire",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Maruthi Enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Unauthorized access control utlizing the RFID system",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "22-01-2025",
+              "Date of Consultancy (To)": "16-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Jovjo  enterprises",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "smart market",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "23-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Koral international,tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Fire and gas avoidenece system",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "23-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "LOTUS PACKAGINGS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "BIO METRIC ATTENDANCE",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "16-01-2024",
+              "Date of Consultancy (To)": "14-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "One day Hands-on Workshop on “PCB Design, Fabrication and Assembly",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "National",
+              "Start Date": "20-09-2026",
+              "End Date": "20-09-2026",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": "Foundation lab"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands-on Workshop on “PCB Design, Fabrication and Assembly",
+              "Collaboration/Sponsored by": "IIPC",
+              "Level": "National",
+              "Start Date": "03-09-2026",
+              "End Date": "03-09-2026",
+              "Duration": "1 DAY",
+              "Role played": "Joint Coordinator",
+              "Venue": "Foundation lab"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Others",
+              "Name of Event": "Foundation lab IoT Mini Hackathon",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "31-01-2026",
+              "End Date": "31-01-2026",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": "ECE smart room"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Others",
+              "Name of Event": "Foundation lab IoT-Mini Hackathon",
+              "Collaboration/Sponsored by": "Kongu Engineering College",
+              "Level": "Institute",
+              "Start Date": "18-06-2025",
+              "End Date": "",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": "Foundation Lab IoT"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Mini Project",
+              "Collaboration/Sponsored by": "DigiToad Technologies,Bengaluru",
+              "Level": "Department",
+              "Start Date": "23-10-2024",
+              "End Date": "27-10-2024",
+              "Duration": "5 Days",
+              "Role played": "Coordinator",
+              "Venue": "ECE002 Classroom"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "PCB Fabrication and IoT Project developement",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "18-05-2024",
+              "End Date": "21-05-2024",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "Foundation lab ece"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "PCB Fabrication and IoT Project",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "20-01-2024",
+              "End Date": "24-01-2024",
+              "Duration": "30",
+              "Role played": "Member",
+              "Venue": "ECE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Automotive sector and AI (Drive 360)",
+              "Level": "National",
+              "Organized by": "Stellantis",
+              "Place": "SRM institute of science and Engineering,Chennai",
+              "Start Date": "02-11-2026",
+              "End Date": "06-11-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Universal Human Values-II",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "Kongu Engineering College",
+              "Start Date": "07-05-2026",
+              "End Date": "14-05-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Natural Language processing",
+              "Level": "National",
+              "Organized by": "IIT MADRAS",
+              "Place": "Online",
+              "Start Date": "12-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Natural Language Processing",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "IIT Kharagpur",
+              "Start Date": "06-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Wearable Technology:A New Frontier in Healthcare Delivery and Management",
+              "Level": "National",
+              "Organized by": "CVR College of Engineering",
+              "Place": "Hydrabed",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Fundamentals and applications of EDGE Computing using JESON ORGIN NAND as EDGE DEVICE",
+              "Level": "National",
+              "Organized by": "Sri Sairam college of engneering",
+              "Place": "Chennai",
+              "Start Date": "21-07-2025",
+              "End Date": "25-07-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "PCB Desigining using EasyEDA",
+              "Level": "National",
+              "Organized by": "Meenakashi college of engineering and SSIT",
+              "Place": "online",
+              "Start Date": "21-04-2025",
+              "End Date": "05-05-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "FUTURE GENERATION NETWORKING",
+              "Level": "International",
+              "Organized by": "THE PRESIDENCY SCHOOL OF INFORMATION SCIENCE",
+              "Place": "",
+              "Start Date": "07-02-2025",
+              "End Date": "21-02-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "PROGRAMMING IN JAVA",
+              "Level": "National",
+              "Organized by": "IIT MADRAS",
+              "Place": "",
+              "Start Date": "06-08-2024",
+              "End Date": "30-10-2024"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "The Role of technology in acheiving global sustainable goals",
+              "Level": "National",
+              "Organized by": "SRM TRB",
+              "Place": "MADURAI",
+              "Start Date": "29-07-2024",
+              "End Date": "31-07-2024"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Methods for improving Higher Education Teaching Quality Using Outcome based education",
+              "Level": "International",
+              "Organized by": "HALDIA INSTITUTE OF TECH",
+              "Place": "Haldia",
+              "Start Date": "22-07-2024",
+              "End Date": "26-07-2024"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "IIT MADRA",
+              "Place": "CHENNAI",
+              "Start Date": "09-01-2024",
+              "End Date": "29-02-2024"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMERGING PARADIGMS IN BIOMEDICAL HEALTHCARE APPLICATIONS",
+              "Level": "International",
+              "Organized by": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+              "Place": "CHENNAI",
+              "Start Date": "18-12-2023",
+              "End Date": "23-12-2023"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "30 Hours International Faculty Development Program on Deep Learning for NLP and Computer Vision",
+              "Level": "International",
+              "Organized by": "Chaitanya Bharathi Institute of Technology (CBIT) in Collaboration with ExcelR.",
+              "Place": "",
+              "Start Date": "10-07-2023",
+              "End Date": "28-07-2023"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Deep Learning",
+              "Level": "National",
+              "Organized by": "IIT MADRA",
+              "Place": "MADRAS",
+              "Start Date": "10-07-2023",
+              "End Date": "31-10-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "13-05-2015",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Effective predicition of land slides through deep learning models using satellite images",
+              "Title of Conference": "IEEE International Conference on Emerging Technologies in Engineering Applications (ICETEA 2026).",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "14-05-2026",
+              "End Date": "15-05-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "An Efficient Hybrid Deep Learning Model for Classification of Lung Cancer using Histopathology Images",
+              "Title of Conference": "International Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Organized by": "Francis Xavier Engineering College Tirunelveli, Tamil Nadu, India",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "26-02-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Efficient Coconut Leaf Disease Detection using Hybrid Deep learning Model",
+              "Title of Conference": "International Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Organized by": "Francis Xavier Engineering College Tirunelveli, Tamil Nadu, India",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "26-02-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "A ROBUST VISION TRANSFORMER MODEL FOR IDENTIFICATION AND CLASSIFICATION OF BRAIN TUMOURS",
+              "Title of Conference": "Sixteenth International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025)",
+              "Organized by": "IIT,INDORE",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Performance Improvement of Lung Cancer Multiclass Classification on Transformer Convolution Neural Networks using Histopathalogical Images",
+              "Title of Conference": "6th International Conference for Emerging Technology (INCET)",
+              "Organized by": "Jain college of Engineering",
+              "Level": "International",
+              "Start Date": "22-05-2025",
+              "End Date": "24-05-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Tomato Plant Disease Classification with Pesticide Suggestion Using Yolov8 Algorithm",
+              "Title of Conference": "2025 3rd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)",
+              "Organized by": "Kumaraguru college of technology",
+              "Level": "International",
+              "Start Date": "04-04-2025",
+              "End Date": "05-04-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Efficient Smart Parking Space Identification and Classification System Using YOLOV8 Network Model",
+              "Title of Conference": "3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "Jawaharlal College of Engineering and Technology Ottapalam, Kerala, India.",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": "07-02-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Enhancing Detection of Nutritional Deficiencies in Coconut Trees Using Transformer-Based Convolutional Neural Networks",
+              "Title of Conference": "ICCCNT",
+              "Organized by": "IIT MANDI",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of Paper": "Efficient Lung Cancer Classification on multi level Convolutional Neural using Histopathalogical images",
+              "Title of Conference": "ICCCNT",
+              "Organized by": "IIT DELHI",
+              "Level": "International",
+              "Start Date": "06-07-2023",
+              "End Date": "08-07-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "A COMPUTER-IMPLEMENTED METHOD AND SYSTEM FOR ADAPTIVE DOCUMENT CLASSIFICATION USING CONTEXTUAL DEEP LEARNING",
+              "Name of Application": "India",
+              "Co-inventors Name": ")P. Loganathan  2)K. Kodeeswari  3)M Rames",
+              "Application Number": "202641041864 A",
+              "Date of Registration": "01-04-2026",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "17-04-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Advanced Autonomous vehicle Navigation system with GNN based Routing algorithm",
+              "Name of Application": "indian",
+              "Co-inventors Name": "1 . Mr.P.Loganathan 2 . Ms.K. Kodeeswari 3 . Mr.M.Ramesh 4 . Mr.S. Satheeshkumar 5 . Dr,P.Narmatha 6 . Dr. A.T.Priyeshkumar 7 . Mr. V. Arun Antony 8 . Ms. M. Jothiga 9 . Dr. G.Arunachalam 10 . Dr.Anand Karuppannan",
+              "Application Number": "202441050898 A",
+              "Date of Registration": "03-07-2024",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "12-07-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "International conference on Emerging Digital Intelligence and Generative Engineering",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "VIT Bhopal University",
+              "Start Date": "30-10-2026",
+              "End Date": "31-10-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "Innovation in Computing  data and Electronics IncCODE2026",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Oriental Institute of Science &Technology",
+              "Start Date": "09-10-2026",
+              "End Date": "10-10-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "MIRAI 26 National level Technical symposium",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "IETE",
+              "Start Date": "19-09-2026",
+              "End Date": "19-09-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "Techthirst 1",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "10-08-2026",
+              "End Date": "10-08-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "IEEE International Conference on Emerging Technologies in Engineering Applications (ICETEA 2026).",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Sri Manakula vinagar Engg college",
+              "Start Date": "14-05-2026",
+              "End Date": "15-05-2026"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "YUGAM-Technical symposium",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "09-03-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "ECE Association",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "07-02-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "Foundation lab Mini hackathon",
+              "Role": "Jury/Judge",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "29-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "11th international conference on Electronics,computing and communication Technologies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IEEE CONECCT ,Bangalore section",
+              "Start Date": "10-07-2025",
+              "End Date": "13-07-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "16th International conference on Computing,communication and networking Technologies ICCCNT",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT Indore,MP,India",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "International conferenece on Emerging Technologies  in engineering apllicationsICETEA 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Sri Malakula Vinayagar Engineering College",
+              "Start Date": "05-07-2025",
+              "End Date": "06-07-2025"
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "Introduction to deep learning models",
+              "Role": "Expert Lecture",
+              "Level": "State",
+              "Organized by": "Vivekanandha college of technology for women",
+              "Start Date": "31-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.RAMESH",
+              "Department": "ECR",
+              "Title of the Program": "ICCCNT Conference",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT MANDI",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1359 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "09-06-2004",
+              "Mobile": "9500459161",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Academic Degree": "PhD",
+              "Specialization": "ICE",
+              "From": "10-07-2010"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "01-06-2002"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "CSE",
+              "From": "01-07-1997"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "09-06-2004",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of Award/Achievement": "GATE Qualified",
+              "Level": "National",
+              "Awarded by": "IIT Roorkee",
+              "Place": "",
+              "Date": "08-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of Award/Achievement": "University Rank Holder (16th Rank) – M.E. Computer Science and Engineering",
+              "Level": "State",
+              "Awarded by": "Anna University",
+              "Place": "Chennai",
+              "Date": "30-06-2004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Information and Communication Systems",
+              "Level": "International",
+              "Title": "Enhanced image understanding via deep learning",
+              "Volume No": "1st Edition",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "31-01-2026",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computational Intelligence Systems",
+              "Level": "International",
+              "Title": "DSTL-NET: Multi-level Leukemia Stage Classification Via Dual-Stage Segmentation Based Transfer Learning Networks",
+              "Volume No": "19",
+              "Issue No": "84",
+              "Year": "2026",
+              "Date": "04-01-2026",
+              "Published at": "Springer Netherlands"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computational Intelligence in Data Science",
+              "Level": "International",
+              "Title": "Speech Emotion Detection for Tamil Language: Performance Evaluation of Deep Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advanced Network Technologies and Intelligent Computing",
+              "Level": "International",
+              "Title": "Detection of Bird and Frog Species from Audio Dataset Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "22-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation & Soft Computing",
+              "Level": "International",
+              "Title": "Shrinkage Linear with Quadratic Gaussian Discriminant Analysis for Big Data Classification",
+              "Volume No": "34",
+              "Issue No": "3",
+              "Year": "2022",
+              "Date": "25-05-2022",
+              "Published at": "Tech Press"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computer Systems Science and Engineering",
+              "Level": "International",
+              "Title": "Feature Selection Using Grey Wolf Optimization with Random Differential Grouping",
+              "Volume No": "43",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "20-03-2022",
+              "Published at": "Tech Science Press"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Acta Polytechnica Hungarica",
+              "Level": "International",
+              "Title": "Deep Learning-based Transfer Learning Model in Diagnosis of Diseases with Brain Magnetic Resonance Imaging",
+              "Volume No": "19",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "01-01-2022",
+              "Published at": "Obuda University"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "NVEO-NATURAL VOLATILES & ESSENTIAL OILS",
+              "Level": "International",
+              "Title": "Deep Learning based Automatic Detection of Intestinal Hemorrhage Using Wireless Capsule Endoscopy Images",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "17-11-2021",
+              "Published at": "NVEO"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat.Volatiles&Essent.Oils",
+              "Level": "International",
+              "Title": "Analysis Of Ophthalmic Disorders For Retinal Images Using Deep Learning: A Review",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": "NVEO"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat.Volatiles&Essent.Oils",
+              "Level": "International",
+              "Title": "Social distancing detection by using deep neural network.",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": "NVEO"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat.Volatiles&Essent.Oils",
+              "Level": "International",
+              "Title": "Automated Detection and Classification of Diabetic Retinopathy and Diabetic Macular Edema in Retinal Fundus Images Using Deep Learning Approach",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": "NVEO"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Nat. Volatiles & Essent. Oils",
+              "Level": "International",
+              "Title": "A CNN Model Based Approach For Offline HandwrittenTamil Text Recognition System",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "07-11-2021",
+              "Published at": "NVEO"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Turkish Journal of Computer and Mathematics Education",
+              "Level": "International",
+              "Title": "Recognition and Digitization of Handwritten Text using Histogram of Gradients and Artificial Neural Network",
+              "Volume No": "12",
+              "Issue No": "6",
+              "Year": "2021",
+              "Date": "05-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Arab Journal of Information Technology",
+              "Level": "International",
+              "Title": "Traffic-Aware Clustering Scheme for MANET Using Modified Elephant Herding Optimization Algorithm",
+              "Volume No": "18",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "25-02-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical ReviewS",
+              "Level": "International",
+              "Title": "BRAIN TUMOR CLASSIFICATION USING SVM AND KNN MODELS FOR SMOTE BASED MRI IMAGES",
+              "Volume No": "7",
+              "Issue No": "12",
+              "Year": "2020",
+              "Date": "31-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Electrical and Computer Engineering",
+              "Level": "International",
+              "Title": "Diagnosis of Alzheimer's Disease from Brain Magnetic Resonance Imaging Images using Deep Learning Algorithms",
+              "Volume No": "20",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "31-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "Certain Investigative Analysis on the Diagnosis of Lung Nodules in CT Scan Using Image Processing Techniques",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "30-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "Detection of Plastics Using Convolutional Neural Network",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "30-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Test Engineering and Management,",
+              "Level": "International",
+              "Title": "A Hybrid Binary Cuttlefish and Genetic Algorithm Based Feature Selection for Improved Diagnosis of Parkinson’s Disease",
+              "Volume No": "83",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "30-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Test Engineering and Management",
+              "Level": "International",
+              "Title": "Hybrid Gray Wolf Classifier Approach for Stress Level Prediction using Twitter Data",
+              "Volume No": "83",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "31-05-2020",
+              "Published at": "The Mattingley Publishing Co., Inc."
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Performance Improvement of DTN Routing Protocols with Enhanced Buffer Management Policy",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "30-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Hybrid Binary GrayWolf Optimization for finding Optimal Featuresin Classification Problems",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "18-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal on Science Engineering and Technology",
+              "Level": "National",
+              "Title": "Feature Selection Using Binary Grey Wolf\nOptimization Algorithm on Chronic Kidney\nDisease Dataset",
+              "Volume No": "5",
+              "Issue No": "1",
+              "Year": "2018",
+              "Date": "03-03-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Medical Imaging and Health Informatics,",
+              "Level": "International",
+              "Title": "Encounter Based Clustering with Cuckoo Search for Ad Hoc Communication in Wireless Health Informatics",
+              "Volume No": "6",
+              "Issue No": "8",
+              "Year": "2016",
+              "Date": "01-12-2016",
+              "Published at": "American Scientific Publishers"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "A Comparative Analysis of Certain Weight based Clusterhead Selection Approaches for MANETS",
+              "Volume No": "6",
+              "Issue No": "11",
+              "Year": "2016",
+              "Date": "30-11-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Multi-Metric Clustering in Mobile Ad-Hoc Networks using Firefly Optimization Algorithm",
+              "Volume No": "6",
+              "Issue No": "11",
+              "Year": "2016",
+              "Date": "30-11-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Middle-East Journal of Scientific Research",
+              "Level": "International",
+              "Title": "A Fuzzy-Genetic BasedApproach for Improving OLSR Routing Protocol in Mobile Adhoc Network",
+              "Volume No": "24",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "10-10-2016",
+              "Published at": "IDOSI Publications"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovations & Advancement in Computer Science",
+              "Level": "International",
+              "Title": "An Energy Efficient and Stable Routing for MANET using Particle Swarm Optimization",
+              "Volume No": "4",
+              "Issue No": "12",
+              "Year": "2015",
+              "Date": "30-12-2015",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Project": "Research Project(student)",
+              "Title of Project": "Audio Aid for Interpreting Images in Tamil Textbooks for Blind Students Using Deep Learning",
+              "Funding Agency": "TNSCST",
+              "Name of the Scheme": "Student Project Scheme",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "20-12-2024",
+              "Duration": "6 months",
+              "Status": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Rajamuruga Agencies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "15-12-2025",
+              "Date of Consultancy (To)": "27-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "70800"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of the Industry/Organization": "The Bake House by Suhirtakumaran",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "30-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Karuparayan Cotton Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "30-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "18203"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of the Industry/Organization": "ACR Prints",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "9400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "IIPC supported workshop on  UI/UX DESIGN",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "24-01-2026",
+              "End Date": "24-01-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC1&CC2"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "Internet of Things",
+              "Collaboration/Sponsored by": "AICTE ATAL",
+              "Level": "National",
+              "Start Date": "21-12-2025",
+              "End Date": "",
+              "Duration": "5 days",
+              "Role played": "Joint Coordinator",
+              "Venue": "online"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "Global Certification on Java (SE17&Foundation)",
+              "Collaboration/Sponsored by": "SEC-KEC",
+              "Level": "Department",
+              "Start Date": "15-11-2025",
+              "End Date": "30-12-2025",
+              "Duration": "10 days",
+              "Role played": "Coordinator",
+              "Venue": "CC"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "IIPC supported GenAi with Cloud and Agent Implementation",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "04-10-2025",
+              "End Date": "04-10-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Flutter Framework",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "31-08-2025",
+              "End Date": "05-10-2025",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": "CC1&CC2"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Advanced C Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "04-08-2025",
+              "End Date": "25-09-2025",
+              "Duration": "16 days",
+              "Role played": "Member",
+              "Venue": "CC3"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "Advancing Healthcare and Med-Tech through Machine Learning:  From Theory to Practice",
+              "Collaboration/Sponsored by": "AICTE ATAL",
+              "Level": "National",
+              "Start Date": "03-02-2025",
+              "End Date": "15-02-2025",
+              "Duration": "Two weeks",
+              "Role played": "Coordinator",
+              "Venue": "Department of CSE, Kongu Engineering College"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Research Skills and Scholarly Publishing",
+              "Level": "International",
+              "Organized by": "Rajalakshmi Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "27-01-2026",
+              "End Date": "31-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "From Classical to Quantum : Machine Learing in the Era of Quantum Computing",
+              "Level": "State",
+              "Organized by": "Karpagam College of Engineering",
+              "Place": "Coimbatore",
+              "Start Date": "23-01-2026",
+              "End Date": "23-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Mobile Application Development using Flutter and Firebase",
+              "Level": "Others",
+              "Organized by": "CSE, Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI Tools in Connected Intelligence",
+              "Level": "National",
+              "Organized by": "Karunya University",
+              "Place": "Coimatore",
+              "Start Date": "17-11-2025",
+              "End Date": "21-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Demystifying Networking",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "",
+              "Start Date": "18-08-2025",
+              "End Date": "16-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "JAVA",
+              "Level": "Others",
+              "Organized by": "Training Cell,Kongu Engineering College,",
+              "Place": "Perundurai",
+              "Start Date": "19-07-2025",
+              "End Date": "24-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Deep Learning",
+              "Level": "National",
+              "Organized by": "NPTEL SWAYAM",
+              "Place": "",
+              "Start Date": "15-07-2024",
+              "End Date": "14-10-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Name of the Professional Body/Society": "Computer Science of India",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-08-2013",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "A Speech Clarity and Object Detection Based Interactive Learning System for Early Childhood Education Using YOLOv8",
+              "Title of Conference": "2026 IEEE International Conference on Intelligent Computing, Networks, and Security (IC-ICNS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "26-03-2026",
+              "End Date": "28-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "DravHate-XAI: A Multimodal Transformer Approach for Hate Speech Detection",
+              "Title of Conference": "2026 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "12-03-2026",
+              "End Date": "14-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "An Automated Machine Learning Framework for Detecting Spam in YouTube Comments",
+              "Title of Conference": "2026 International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "19-01-2026",
+              "End Date": "21-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Federated Learning using Recurrent Neural Architectures for Text Sentiment Analysis",
+              "Title of Conference": "4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "10-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Deep Neural Network Models for Multi-Class Fetal Health Classification by using a Genetic Algorithm and SMOTE-Augmented Approach",
+              "Title of Conference": "International Conference on NexGen Networks and Cybernetics (IC2NC)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "01-12-2025",
+              "End Date": "03-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Enhancing the Heart Disease Prediction Using Ensemble Voting Classifier",
+              "Title of Conference": "2025 3rd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "29-04-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Enhancing Aquaculture Sustainability with Deep Learning Techniques: Fish Species Detection and Disease Diagnosis",
+              "Title of Conference": "3rd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "29-04-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Optimizing Waste Classification in Recycling Systems through Transfer Learning and Layer Freezing",
+              "Title of Conference": "2025 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "11-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Comparative Analysis of Machine Learning Algorithms for Disease Prediction Using Medical Datasets",
+              "Title of Conference": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Detection of Corn Leaf Infection Using CNN with Various Optimizers",
+              "Title of Conference": "2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "K S Rangasamy College of Technology Tiruchengode",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": "16-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Detection of Corn Leaf Infection Using CNN with Various Optimizers",
+              "Title of Conference": "2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Text Detection and Language Identification in Natural Scene Images using YOLOv5",
+              "Title of Conference": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Glaucoma Prediction Using Supervised Learning",
+              "Title of Conference": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Diagnosis of Diabetic Retinopathy and Glaucoma from Retinal Images Using Deep Convolution Neural Network",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Personality Prediction for Online Interview",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Stock Movement Prediction using KNN Machine Learning Algorithm",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Deep Learning Based Yield Prediction Model To Predict The Yield of Paddy In Cauvery Delta Region",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Convolutional Neural Network Based Multi Class Classification Model for Brain Tumor Diagnosis",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Secured Storing and Sharing of Medical Records Based on Blockchain",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Fruits and Vegetables Recognition using YOLO",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Feature Selection for Predicting Heart Disease Using Black Hole Optimization Algorithm and XGBoost Classifier",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Automatic Fruit Detection System using Multilayer Deep Convolution Neural Network",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Automatic Detection of Tea Leaf Diseases using Deep Convolution Neural Network",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Design of face detection and recognition system to monitor students during online examinations using Machine Learning algorithms",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": "29-01-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "A survey on the applications of Deep Neural Networks",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Blockchain enabled Digitization of Land Registration",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Feature Selection Using Binary Grey Wolf Optimization algorithm on Chronic Kidney Disease Dataset",
+              "Title of Conference": "International Conference on Information and Computational Science (ICICS-2018)",
+              "Organized by": "KSR College of Engineering, Tiruchengode",
+              "Level": "International",
+              "Start Date": "27-03-2018",
+              "End Date": "28-03-2018"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Adaptive Cluster Formation in MANET UsingParticle Swarm Optimization",
+              "Title of Conference": "2015 3rd International Conference on Signal Processing, Communication and Networking (ICSCN)",
+              "Organized by": "Anna University Chennai",
+              "Level": "International",
+              "Start Date": "26-03-2015",
+              "End Date": "28-03-2015"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of Paper": "Adaptive ACKnowledgement technique with key exchange mechanism for MANET",
+              "Title of Conference": "International Conference on Electronics and Communication Systems (ICECS)",
+              "Organized by": "Karpagam College of Engineering in Coimbatore, Tamil Nadu",
+              "Level": "International",
+              "Start Date": "13-02-2014",
+              "End Date": "14-02-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of the Program": "16th INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT)",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "IIT - Indore,",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of the Program": "PhD DC Meeting",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "Vellalar College for Women, Thindal",
+              "Start Date": "03-01-2025",
+              "End Date": "03-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of the Program": "4th International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC-2024)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Department of Computer Science, Banaras Hindu University, Varanasi, India",
+              "Start Date": "19-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.S.LATHA",
+              "Department": "AI",
+              "Title of the Program": "International Conference on Computing and Networking Technology (ICCNT)2024",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "IIT Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

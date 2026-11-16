@@ -1,0 +1,1208 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Finance",
+              "Date of joining in KEC": "22-10-2007",
+              "Mobile": "08675014214",
+              "E-mail": "padmaarasu@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Management Studies",
+              "From": "15-07-2007"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Academic Degree": "M.Phil",
+              "Specialization": "Management",
+              "From": "13-06-2006"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Academic Degree": "MBA",
+              "Specialization": "Business Administration",
+              "From": "03-08-1998"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Academic Degree": "B.com",
+              "Specialization": "Commerce",
+              "From": "05-06-1995"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": "Promotion Order"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "12-10-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of Award/Achievement": "NPTEL",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "19-05-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Designing Sustainable Internet of Things Solutions for Smart Industries",
+              "Level": "International",
+              "Title": "Empowering small and Medium Enterprises through smart technology and talent management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "09-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Soft Computing and Pattern Recognition (SoCPaR)",
+              "Level": "International",
+              "Title": "Revolutionizing Education: The Transformative Influence of AI-Enhanced \nE-learning on Student Performance",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SoCPaR 2023",
+              "Level": "International",
+              "Title": "Revolutionizing Education: The Transformative Influence of AI-Enhanced E-learning on Student Performance",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Navigating Strategic Partnership for Sustainable Startup Growth",
+              "Level": "International",
+              "Title": "Strategic marketing and distribution alliances for driving startup growth",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Entreprenuerial Ecosystems Driving Economic Transformation and Job Creation",
+              "Level": "International",
+              "Title": "Creativity on Sustainable Technological Advancements in Entreprenuership",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-06-2024",
+              "Published at": "IGI"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advancements in Business for Integrating Diversity, and Sustainability",
+              "Level": "International",
+              "Title": "Transforming Insurance Industry through InsurTech",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "12-03-2024",
+              "Published at": "Taylor and Francis"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "E3S Web of Conferences",
+              "Level": "International",
+              "Title": "Catalyzing Green Mobility: Consumer \nPreferences for Green Energy Vehicles",
+              "Volume No": "1",
+              "Issue No": "455",
+              "Year": "2023",
+              "Date": "25-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ushus Journal of Business Management",
+              "Level": "National",
+              "Title": "Employee Health and Safety Measures in the Manufacturing Industry: Insights from a Diversified Workforce",
+              "Volume No": "22",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "10-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Trends and Innovations in Industries of the Developing World",
+              "Level": "International",
+              "Title": "Insuretech: Saviour of insurance sector in India",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-09-2023",
+              "Published at": "Routledge-  CRC Press"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Decision Analytics Journal      (Q1 journal)",
+              "Level": "International",
+              "Title": "A study of artificial intelligence impacts on human resource digitalization in industry 4.0",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-06-2023",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal World Journal of Management and Economics",
+              "Level": "International",
+              "Title": "START-UP APPETITE: ENTREPRENEURIAL INTENTION AMONG GEN ZS",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ushus-Journal of Business Management",
+              "Level": "International",
+              "Title": "Promoting Environment Sustainability Through Green HRM: The Socially Responsible Organizations",
+              "Volume No": "21",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "05-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ECS Transactions",
+              "Level": "International",
+              "Title": "FinTech: answer for financial literacy and financial inclusion in India",
+              "Volume No": "107 (1) 15317-15327 (2022)",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "25-04-2022",
+              "Published at": "IOP Publishing"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Ban or boon: Consumer attitude towards plastic bags ban",
+              "Volume No": "2387",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "21-11-2021",
+              "Published at": "AIP Publishing LLC"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Management Practices in Digital World",
+              "Level": "National",
+              "Title": "Blockchain Technology : Enabling Sustainability in Transaction Banking",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "12-10-2021",
+              "Published at": "Empyreal Publishing House"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AICTE sponsored International Conference on Global Perspectives on Business, Economy & Society- Sustainability in the New Normal organised by ISBR Business School",
+              "Level": "International",
+              "Title": "Agility and Artificial Intelligence: Shaping Human Resource Management in Industry 4.0",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "10-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Management Practices: Sustainability and Development",
+              "Level": "National",
+              "Title": "Impact Of Digital Education On Students During The Covid-19 Pandemic: A Conceptual Understanding",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-06-2021",
+              "Published at": "Empyreal Publishing House"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Current Research in Economics, Commerce and Management",
+              "Level": "National",
+              "Title": "Corporate Sustainability Report: A Roadmap to Global Business Standard",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "09-01-2020",
+              "Published at": "SHANLAX Publications"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH",
+              "Level": "International",
+              "Title": "Impact Of Workplace Practices On Workforce Satisfaction In Siddha And Ayurveda Pharmaceutical Industry",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "06-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Product quality through process improvement-a pathway to zero defects",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "11-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Management Research and Reviews",
+              "Level": "International",
+              "Title": "Share Price Behavior Around demonetization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "17-10-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "A Comparative Study on Customer Satisfaction and Retention Strategy in Public and Private Sector Banks",
+              "Volume No": "6",
+              "Issue No": "4",
+              "Year": "2016",
+              "Date": "05-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intercontinental Journal of Human Resource Research Review",
+              "Level": "International",
+              "Title": "Relationship Between Employee Silence and Organisational Commitment in Healthcare Industry",
+              "Volume No": "3",
+              "Issue No": "3",
+              "Year": "2015",
+              "Date": "14-10-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Life Science Journal",
+              "Level": "International",
+              "Title": "Share Price Behavior of Indian Pharmaceutical Companies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2013",
+              "Date": "08-10-2013",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Finance and Economics",
+              "Level": "International",
+              "Title": "Merger announcements and stock price behaviour: Empirical evidence from Indian stock market",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "16-10-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Research Journal of Social Science and Management",
+              "Level": "International",
+              "Title": "A study on the impact of mergers and acquisitions on share price",
+              "Volume No": "1",
+              "Issue No": "12",
+              "Year": "2012",
+              "Date": "04-04-2012",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Type of Project": "R & D",
+              "Title of Project": "AN EMPIRICAL STUDY ON JAN AUSHADHI YOJANA’S REACH AND  SOCIO-ECONOMIC IMPACT IN SELECTED AREAS OF  TAMIL NADU STATE",
+              "Funding Agency": "ICSSR",
+              "Name of the Scheme": "SHORT-TERM EMPIRICAL RESEARCH PROJECT (SPECIAL CALL)",
+              "Co-Investigator(s)": "Dr S  Maheswari, Dr M Sivachitra , Mr Logesh",
+              "Project Start Date": "08-09-2023",
+              "Duration": "1 year",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "National Workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "02-03-2022",
+              "Date of Consultancy (To)": "08-03-2022",
+              "Revenue Generated (amount in Rupees without GST)": "25678"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Research Methodology workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "06-09-2019",
+              "Date of Consultancy (To)": "10-09-2019",
+              "Revenue Generated (amount in Rupees without GST)": "70500"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Workshop - Faculties/ scholars from various colleges",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "09-04-2019",
+              "Date of Consultancy (To)": "15-04-2019",
+              "Revenue Generated (amount in Rupees without GST)": "94607"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Faclty from various colleges",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "19-09-2018",
+              "Date of Consultancy (To)": "23-09-2018",
+              "Revenue Generated (amount in Rupees without GST)": "66525"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "10-08-2018",
+              "Date of Consultancy (To)": "14-08-2018",
+              "Revenue Generated (amount in Rupees without GST)": "47881"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "SEM workshop",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "05-08-2016",
+              "Date of Consultancy (To)": "07-08-2016",
+              "Revenue Generated (amount in Rupees without GST)": "85217"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Annapoorna",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "8",
+              "Date of Consultancy (From)": "31-03-2008",
+              "Date of Consultancy (To)": "17-04-2008",
+              "Revenue Generated (amount in Rupees without GST)": "130000"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Name of the Industry/Organization": "Suguna",
+              "Nature of Consultancy": "Training",
+              "Type of Consultancy": "",
+              "Number of persons involved": "8",
+              "Date of Consultancy (From)": "20-10-2007",
+              "Date of Consultancy (To)": "31-10-2008",
+              "Revenue Generated (amount in Rupees without GST)": "600000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Investments",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-09-2025",
+              "End Date": "08-11-2019"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Corporate Social Responsibility",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "",
+              "Start Date": "07-07-2025",
+              "End Date": "26-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "Conference",
+              "Title of the program": "Consumer Experiance and Engagement in Digital Finance",
+              "Level": "International",
+              "Organized by": "Christ University",
+              "Place": "Bangalore",
+              "Start Date": "13-03-2025",
+              "End Date": "14-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Yoga and positive psychology for managing career and  life",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "03-02-2025",
+              "End Date": "25-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft Power BI Analyst",
+              "Level": "National",
+              "Organized by": "Ministry of Electronics & IT , GOI & ICT Academy",
+              "Place": "",
+              "Start Date": "09-12-2024",
+              "End Date": "12-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Supply CHain Resilience in India",
+              "Level": "International",
+              "Organized by": "KL University",
+              "Place": "Bangalore",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Unlocking Innovation: Exploring Intellectual Property Rights",
+              "Level": "National",
+              "Organized by": "P V P SIDDHARTHA INSTITUTE OF TECHNOLOGY",
+              "Place": "",
+              "Start Date": "16-05-2024",
+              "End Date": "21-05-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI tools for Optimising Pedogogical Delivery",
+              "Level": "National",
+              "Organized by": "Sri Kanyaka Parameswari College",
+              "Place": "Chennai",
+              "Start Date": "23-04-2024",
+              "End Date": "27-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Outcome Based Education",
+              "Level": "National",
+              "Organized by": "TAMIL NADU TEACHERS EDUCATION UNIVERSITY & Dr.M.G.R. EDUCATIONAL AND RESEARCH INSTITUTE",
+              "Place": "Chennai",
+              "Start Date": "05-06-2023",
+              "End Date": "09-06-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "Conference",
+              "Title of the program": "Start-Up Appetite: Entrepreneurial Intention Among Gen Zs",
+              "Level": "International",
+              "Organized by": "Sai Ram Institute",
+              "Place": "Chennai",
+              "Start Date": "16-12-2022",
+              "End Date": "17-12-2022"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Financial Derivatives and Strategies",
+              "Level": "National",
+              "Organized by": "ATAL - Cochin University",
+              "Place": "",
+              "Start Date": "12-07-2021",
+              "End Date": "16-07-2021"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Application of Data Analytics in Business",
+              "Level": "National",
+              "Organized by": "KCT",
+              "Place": "",
+              "Start Date": "03-07-2020",
+              "End Date": "05-07-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Application of Econometrics in Business research",
+              "Level": "National",
+              "Organized by": "Christ University",
+              "Place": "",
+              "Start Date": "23-06-2020",
+              "End Date": "27-06-2020"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Two week Capacity Building Program for Young Social Science Faculty",
+              "Level": "National",
+              "Organized by": "Pondicherry University",
+              "Place": "",
+              "Start Date": "02-12-2019",
+              "End Date": "14-12-2019"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Living Your Purpose",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "03-12-2018",
+              "End Date": "05-12-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "INNOVATION, BUSINESS MODELS AND ENTREPRENEURSHIP",
+              "Level": "Online",
+              "Organized by": "NPTEL- IIT Roorkee",
+              "Place": "",
+              "Start Date": "01-08-2018",
+              "End Date": "20-10-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analytics using R",
+              "Level": "National",
+              "Organized by": "Reva University",
+              "Place": "Bangalore",
+              "Start Date": "24-07-2017",
+              "End Date": "25-07-2017"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Innovative Quality Practices- Six Sigma and Robust Design for e- Business  Excellence",
+              "Level": "National",
+              "Organized by": "M S Rammaiah",
+              "Place": "",
+              "Start Date": "10-03-2008",
+              "End Date": "14-03-2008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of Paper": "Consumer Experience and Engagement in Digital Finance",
+              "Title of Conference": "Sustainable Finance and Accountancy-  ICFSA 2025",
+              "Organized by": "CHRIST UNIVERSITY",
+              "Level": "International",
+              "Start Date": "13-03-2025",
+              "End Date": "14-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of Paper": "Revolutionizing Education: The Transformative  Influence of AI-Enhanced E-learning on Student  Performance",
+              "Title of Conference": "Soft Computing and Pattern Recognition",
+              "Organized by": "Springer",
+              "Level": "International",
+              "Start Date": "16-11-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of Paper": "Fill Skill Gap : Optimising Learning Outcome through Education 4.0",
+              "Title of Conference": "Inclusive Work Organizations: Needs, Trends and Possibilities",
+              "Organized by": "Sona",
+              "Level": "National",
+              "Start Date": "12-12-2019",
+              "End Date": "13-12-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "Estimation and Practical Applications of Cost of Capital",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "MBA, Gobi Arts & Science College, Gobichettipalayam.",
+              "Start Date": "05-02-2026",
+              "End Date": "05-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "Hands-on Workshop on SPSS for Data Analysis",
+              "Role": "Session Chair",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Hindusthan College of Science and Commerce",
+              "Start Date": "16-12-2025",
+              "End Date": "16-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "Stock Market Dynamics and Investment Strategies in the era of AI",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Hindusthan College of Science and Commerce",
+              "Start Date": "10-09-2025",
+              "End Date": "10-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "First DC",
+              "Role": "DC Member",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Dr Prabhadevi/ Prof/ MBA Sona College of Technology",
+              "Start Date": "11-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "Recent Trends and Statistical  Tools used in  Research",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Bharathiyar University PG Research Centre - Extension",
+              "Start Date": "06-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "“Navigating the Startup Ecosystem: Strategies for Turning Ideas into  Successful Ventures\"",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "Kamadhenu Arts and Science College",
+              "Start Date": "09-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "AICTE-SHARE AND MENTOR INSTITUTIONS( MARGDARSHAN SCHEME)",
+              "Role": "Others",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "09-03-2023",
+              "End Date": "10-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.PADMAVATHY",
+              "Department": "MBR",
+              "Title of the Program": "Basic Concepts of FInance",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "NSTEDB",
+              "Start Date": "02-02-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "MBR",
+              "Name of Supervisor": "DR.S.PADMAVATHY",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Ragavaganesh R",
+              "Date of Registration": "12-07-2023",
+              "Registration No:": "23148697130",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "03-06-2025"
+            },
+            {
+              "Department": "MBR",
+              "Name of Supervisor": "DR.S.PADMAVATHY",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "Sangeerani.G S",
+              "Date of Registration": "13-07-2021",
+              "Registration No:": "21248697117",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

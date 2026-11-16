@@ -80,20 +80,21 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
     // Backend offline; continue to fallback
   }
 
-  // Fallback to local linways_staffs.json if backend was offline
-  if (linwaysRecords.length === 0) {
-    try {
-      const fallbackRes = await fetch('/Faculty/linways_staffs.json', { signal });
-      if (fallbackRes.ok) {
-        const allLinwaysStaff = await fallbackRes.json();
+  // Load local linways_staffs.json if backend was offline or to ensure global staff resolution
+  let allLinwaysStaff = [];
+  try {
+    const fallbackRes = await fetch('/Faculty/linways_staffs.json', { signal });
+    if (fallbackRes.ok) {
+      allLinwaysStaff = await fallbackRes.json();
+      if (linwaysRecords.length === 0) {
         const deptLinways = allLinwaysStaff.filter(
           (s) => s.departmentName === dept.linwaysCode || (s.department_code && s.department_code === dept.linwaysCode)
         );
         linwaysRecords = deptLinways.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
       }
-    } catch (e) {
-      console.warn('Error loading local linways_staffs.json:', e);
     }
+  } catch (e) {
+    console.warn('Error loading local linways_staffs.json:', e);
   }
 
   // 3. Merge Admin and Linways records
@@ -101,8 +102,20 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
   if (adminRecords.length > 0) {
     // Only display verified department faculty from CSV, enriched with their Linways data
     mergedRecords = adminRecords.map((adminRec) => {
-      // Find matching Linways staff
-      const matchingLinways = linwaysRecords.find((l) => isStrictNameMatch(adminRec.name, l.name));
+      // 1. First search within department records
+      let matchingLinways = linwaysRecords.find((l) => isStrictNameMatch(adminRec.name, l.name));
+
+      // 2. Fallback: search across ALL Linways staff by name (resolves inter-department or AI/AIML staff)
+      if (!matchingLinways && allLinwaysStaff.length > 0) {
+        const found = allLinwaysStaff.find((s) => {
+          if (s.staffResigned === '1' || s.staffResigned === 1) return false;
+          return isStrictNameMatch(adminRec.name, s.name);
+        });
+        if (found) {
+          matchingLinways = normaliseLinwaysStaffRecord(found, dept.slug);
+        }
+      }
+
       // Dr. T. Pradeep special mapping for staff ID 380 if not matched by API
       if (!matchingLinways && adminRec.name.toLowerCase().includes('pradeep')) {
         return mergeFacultyRecord(adminRec, { staffId: '380', email: 'civil.pradeep@gmail.com' });
@@ -171,7 +184,28 @@ export const getFacultyPortfolio = async (deptSlug, facultySlug, staffId = null,
 
   // 2. Fetch detailed ExAT report from backend if available
   let rawReport = null;
-  const effectiveStaffId = staffId || baseRecord.staffId;
+  let effectiveStaffId = staffId || baseRecord.staffId;
+
+  if (!effectiveStaffId) {
+    try {
+      const allStaffRes = await fetch('/Faculty/linways_staffs.json', { signal });
+      if (allStaffRes.ok) {
+        const allStaff = await allStaffRes.json();
+        const found = allStaff.find((s) => {
+          if (s.staffResigned === '1' || s.staffResigned === 1) return false;
+          if (baseRecord.name && isStrictNameMatch(baseRecord.name, s.name)) return true;
+          const sClean = (s.name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+          const targetClean = (facultySlug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+          return sClean === targetClean || (targetClean.length > 4 && (sClean.includes(targetClean) || targetClean.includes(sClean)));
+        });
+        if (found) {
+          effectiveStaffId = String(found.id);
+          baseRecord.staffId = effectiveStaffId;
+          baseRecord.email = baseRecord.email || found.loginId;
+        }
+      }
+    } catch {}
+  }
 
   if (effectiveStaffId) {
     // 1. Check local pre-downloaded reports folder (instant & reliable)

@@ -1,0 +1,1174 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "EMBEDDED SYSTEMS, COMMUNICATION SYSTEMS, ROBOTICS",
+              "Date of joining in KEC": "05-06-2017",
+              "Mobile": "9677188279",
+              "E-mail": "susjou@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Academic Degree": "M.Tech",
+              "Specialization": "Embedded Systems",
+              "From": "01-08-2010"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electronics and Communication Engineering",
+              "From": "01-07-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "01-08-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "05-06-2017",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kings Engineering College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "03-06-2013",
+              "End Date": "20-05-2017",
+              "Duration": "3 Years 11 Months 17 Days",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.SUTHAGAR-2f2bd161-1746-43bb-abae-6340cff283da.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=19c0ca4fcfad8876ef739923e517e58967a91a1f5805182711e52a01e995ab78",
+                  "name": "KINGS EXP CERTIFICATE.pdf",
+                  "totalRecords": null,
+                  "resourceId": "jBu2J8GGTziLvJyEn",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "RRS College of Engineering and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "05-10-2009",
+              "End Date": "18-12-2012",
+              "Duration": "3 Years, 2 Months,  13 Days",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.SUTHAGAR-b5cb7fee-88ba-4739-bb99-442e7149e417.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e49283a56230c9b13174e6d7639d33de23d67fc57dead38c061378e8f2798bd2",
+                  "name": "EXP CERTIFICATE- RRS.pdf",
+                  "totalRecords": null,
+                  "resourceId": "sTeR3v2kaWjyGAweW",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "PMR Institute of Technology",
+              "Position/Designation": "Lecturer",
+              "Start Date": "10-06-2008",
+              "End Date": "25-09-2009",
+              "Duration": "1 Year, 3 Months, 15 days",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.SUTHAGAR-0a4b2fb4-056d-4df8-8b39-13dc004d442d.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=abaad077e90491f412e61f5782bdfe801008ce55f5a1947468c52571ad6987a8",
+                  "name": "EXP CERTIFICATE-PMR.pdf",
+                  "totalRecords": null,
+                  "resourceId": "nffEqAWLGRRXjXBNc",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "High-Performance Automation Methods for Computational Intelligent Systems",
+              "Level": "International",
+              "Title": "Determination and classification of human blood contamination diseases and Rh factor using ensemble algorithm",
+              "Volume No": "1",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "29-08-2025",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "High-Performance Automation Methods for Computational Intelligent Systems",
+              "Level": "International",
+              "Title": "Determination and classification of human blood contamination diseases and Rh factor using ensemble algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "29-08-2025",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Control, Robotics, and Industrial Automation",
+              "Level": "International",
+              "Title": "A Wearable Healthcare and Safety System for Industrial Workers with Emergency Communication Facility",
+              "Volume No": "1220",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-10-2024",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Inventive Computation and Information Technologies",
+              "Level": "International",
+              "Title": "Design and Implementation of a Solar Powered Floating Device for Water Quality Monitoring in Inland Aquaculture Farms Using LoRa Wireless Communication",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-03-2023",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Inventive Computation and Information Technologies",
+              "Level": "International",
+              "Title": "Faecal Image-Based Chicken Disease Classification Using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-03-2023",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Inventive Computation and Information Technologies",
+              "Level": "International",
+              "Title": "Flexi-Pay System for Public Transport Based on Passenger Comfort Using Global Positioning System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-03-2023",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Inventive Computation and Information Technologies",
+              "Level": "International",
+              "Title": "Identification of Respiratory Diseases and Diabetes by Non-invasive Method Using IoT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-03-2023",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Jurnal Kejuruteraan",
+              "Level": "International",
+              "Title": "Baby Incubator Monitoring System using Global System for Mobile Technology",
+              "Volume No": "34",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "30-09-2022",
+              "Published at": "UKM Press"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Innovations in Cyber Physical Systems",
+              "Level": "International",
+              "Title": "Determination of Apple, Lemon, and Banana Ripening Stages Using Electronic Nose and Image Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "10-09-2021",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Greener Energy Technologies",
+              "Level": "International",
+              "Title": "A Case Study on Implementation of an Efficient and Cost-Effective Solar Power Generation System for Irrigation Purpose",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "16-05-2020",
+              "Published at": "Springer, Singapore"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Translation of Sign Language for Deaf and Dumb\nPeople",
+              "Volume No": "8",
+              "Issue No": "5",
+              "Year": "2020",
+              "Date": "30-01-2020",
+              "Published at": "Blue Eyes Intelligence Engineering & Sciences Publication"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Design Of Industrial Data Monitoring Device\nUsing Iot Through MODBUS Protocol",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "02-01-2020",
+              "Published at": "International Journal of Scientific & Technology Research"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Automated Milk Quantity and Quality Checking\nand Vending Machine",
+              "Volume No": "8",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "30-09-2019",
+              "Published at": "Blue Eyes Intelligence Engineering & Sciences Publication"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Indian Journal of Applied Research",
+              "Level": "International",
+              "Title": "IOT based online transformer maintenance system",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "01-01-2019",
+              "Published at": "World Wide Journals"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research in Electronics and Communication Engineeri",
+              "Level": "International",
+              "Title": "Android Based Vehicle Speed Control System\nIn Critical Zones Using GPS Technology",
+              "Volume No": "7",
+              "Issue No": "6",
+              "Year": "2018",
+              "Date": "01-06-2018",
+              "Published at": "International Journal of Advanced Research in Electronics and Communication Engineering (IJARECE)"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "nternational Journal of Advanced Research Trends in Engineering and Technology (IJARTET)",
+              "Level": "International",
+              "Title": "Advanced Online Examination using\nRaspberry Pi",
+              "Volume No": "3",
+              "Issue No": "Special Issue 19",
+              "Year": "2017",
+              "Date": "01-04-2017",
+              "Published at": "nternational Journal of Advanced Research Trends in Engineering and Technology (IJARTET)"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research Trends in Engineering and Technology (IJARTET)",
+              "Level": "International",
+              "Title": "Automated Monitoring and Control of Vehicles\nBased Air Pollution Level and Safety",
+              "Volume No": "4",
+              "Issue No": "Special Issue 19",
+              "Year": "2017",
+              "Date": "01-04-2017",
+              "Published at": "International Journal of Advanced Research Trends in Engineering and Technology (IJARTET)"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Research Trends in Engineering and Technology (IJARTET)",
+              "Level": "International",
+              "Title": "Smart surveillance camera using Raspberry PI2 & open CV",
+              "Volume No": "3",
+              "Issue No": "Special issue 19",
+              "Year": "2016",
+              "Date": "01-04-2016",
+              "Published at": "International Journal of Advanced Research Trends in Engineering and Technology (IJARTET)"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Research & Technology (IJERT)",
+              "Level": "International",
+              "Title": "Performance Comparison of Various Levels of Fusion of Multi-Focus Image using Wavelet",
+              "Volume No": "1",
+              "Issue No": "6",
+              "Year": "2012",
+              "Date": "30-08-2012",
+              "Published at": "International Journal of Engineering Research & Technology (IJERT)"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Research & Technology (IJERT)",
+              "Level": "International",
+              "Title": "Automatic Solar Tracker Robot",
+              "Volume No": "1",
+              "Issue No": "6",
+              "Year": "2012",
+              "Date": "01-08-2012",
+              "Published at": "International Journal of Engineering Research & Technology (IJERT)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Project": "TNSCST student project scheme",
+              "Title of Project": "Advanced safety system for woman at working environment",
+              "Funding Agency": "Tamil Nadu State Council for Science and Technology(TNSCST)",
+              "Name of the Scheme": "Student Projects Scheme",
+              "Co-Investigator(s)": "-",
+              "Project Start Date": "12-06-2025",
+              "Duration": "6 months",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "K Square Automation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design - Real Time Vision Based Counting",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "20-12-2025",
+              "Date of Consultancy (To)": "26-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "ATHANURAMMAN FENCINGS",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "01",
+              "Date of Consultancy (From)": "12-12-2025",
+              "Date of Consultancy (To)": "22-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Skyline Engineering Automation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-02-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Pacfil Machineries, Annapuram, Salem,India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-02-2025",
+              "Date of Consultancy (To)": "13-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "NEXT Automation, Thiruchengode, Nammakal,India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-01-2024",
+              "Date of Consultancy (To)": "26-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "14000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Karthick Fish shop, Chennimalai, Erode, India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware design ( Designing display)",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "20-03-2023",
+              "Date of Consultancy (To)": "07-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Amritkrishna Tex, Chennimalai, Erode, India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware design (Speed controlling of motor)",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "26-01-2023",
+              "Date of Consultancy (To)": "14-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Arrow logistics, Sri nagar, Erode, India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "HArdware design ( Automation system)",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "09-01-2023",
+              "Date of Consultancy (To)": "29-08-2023",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ganesh Jewel Works, Kottampatti, Madurai, India.",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Design",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "09-04-2022",
+              "Date of Consultancy (To)": "05-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Nava Sakthi paper boards",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware Design (Machine chest pulp level alert system using GSM)",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "22-04-2019",
+              "Date of Consultancy (To)": "14-12-2020",
+              "Revenue Generated (amount in Rupees without GST)": "13226"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on financial education",
+              "Collaboration/Sponsored by": "Securities and Exchange Board of India (SEBI)",
+              "Level": "Institute",
+              "Start Date": "13-04-2022",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Next-Generation Technologies: An Integrated Approach to EV, AI, Embedded Systems, and Custom IC Design”",
+              "Level": "International",
+              "Organized by": "Department of Electronics and Communication Engineering and Department of Electrical and Electronics Engineering, Kamaraj College of Engineering and Technology (An Autonomous Institution), S.P.G.C Nagar, K.Vellakulam - 625701, Tamilnadu, India.",
+              "Place": "Department of Electronics and Communication Engineering and Department of Electrical and Electronics Engineering, Kamaraj College of Engineering and Technology (An Autonomous Institution), S.P.G.C Nagar, K.Vellakulam - 625701, Tamilnadu, India.",
+              "Start Date": "12-12-2025",
+              "End Date": "18-12-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Five Days Brainstorming Workshop on Research Proposal Writing",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College, Perundurai, Erode",
+              "Place": "Erode",
+              "Start Date": "01-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“New Generation Smart Healthcare Systems & Medical Equipment Handling”",
+              "Level": "National",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "Avinashi - Coimbatore Road, Arasur, Uthupalayam, Tamil Nadu 641407",
+              "Start Date": "27-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Research Methodology and Effective Teaching Learning Process”",
+              "Level": "National",
+              "Organized by": "Greater Kolkata College of Engineering & Management",
+              "Place": "Dudhnai, Ramnagar-II, P.O. Piyali Town, Baruipur , 24 Paragana (S, Baruipur, West Bengal 743387",
+              "Start Date": "09-06-2025",
+              "End Date": "13-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "The Institute for Educational Research and Publication (IFERP)",
+              "Position": "Professional member",
+              "Level": "International",
+              "Start Date": "10-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "International Society for Development and Sustainability (ISDS).",
+              "Position": "Associate Memeber",
+              "Level": "International",
+              "Start Date": "30-05-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "The Society of Digital Information and Wireless Communications (SDIWC)",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "18-11-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "Institution of Electronics and Telecommunication Engineers (IETE)",
+              "Position": "Corporate Member",
+              "Level": "International",
+              "Start Date": "12-04-2018",
+              "End Date": "12-04-2018"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "International Association of Engineers",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "23-01-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Automatic Retractable Car Shelter for Open Space Parking Users",
+              "Title of Conference": "Third International Conference on Visual Analytics and Data Visualization  ICVADV-2026",
+              "Organized by": "Department of Electronics and Communication Engineering, Francis Xavier Engineering College Tirunelveli, Tamil Nadu, India",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "26-02-2026"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Performance Analysis of Velostat, Conductive Fabric and Force Sensing Resistor for Incorporating Safety in Women's Jacket",
+              "Title of Conference": "International Conference on Emerging Smart Computing and Informatics (ESCI)",
+              "Organized by": "AISSMS Institute of Information Technology, Pune",
+              "Level": "International",
+              "Start Date": "05-03-2024",
+              "End Date": "07-03-2024"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Performance Comparison of Parity Preserving Flip-Flops Using Parity Preserving Gates by Quantum Cellular Automata and Verilog",
+              "Title of Conference": "7th International Conference on Communication and Electronics Systems (ICCES)",
+              "Organized by": "PPG Institute of Technology, Coimbatore",
+              "Level": "International",
+              "Start Date": "22-06-2022",
+              "End Date": "24-06-2022"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Analysis of Breast Cancer Classification using Various Algorithms",
+              "Title of Conference": "6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Organized by": "Surya Engineering College , Erode",
+              "Level": "International",
+              "Start Date": "29-03-2022",
+              "End Date": "31-03-2022"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Design and Analysis of a Soft Gripper for Human Interactive Robot",
+              "Title of Conference": "6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Organized by": "Surya Engineering College, Erode",
+              "Level": "International",
+              "Start Date": "29-03-2022",
+              "End Date": "31-03-2022"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Performance Comparison of Adaptive Filters for Speckle Noise Reduction in SAR Images",
+              "Title of Conference": "International Conference on Intelligent Computing and Communication for Smart world (I2C2SW) - IEEE",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of Paper": "Aadhar Based Electronic Voting System and Providing Authentication on Internet Of Things",
+              "Title of Conference": "The Third International Conference on Electrical, Electronics and Computer Engineering (ICEECE - 2017)",
+              "Organized by": "Vivekanandha College of Engineering for Women, Elayampalayam, Tiruchengode, Namakkal (Dt), Tamilnadu- 637 205",
+              "Level": "International",
+              "Start Date": "08-03-2017",
+              "End Date": "09-03-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Fuzzy Based Image Segmentation Method for Defect detection in Ceramic Tiles",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr.G.Murugesan;V.C.Diniesh;G.Mageshkumar;Dr.Rajeshwari Hegde;M.Suresh;S.Suganya;Dr.Mohammad Israr ;Dr.Hitesh Panchal;Dr. Vineet Tirth;Dr. Ali Algahtani;Dr. Parul Gupta;Dr. Ravindra Pathak ;S.K.Pravin Kumar;N.Saranya;Dr.J.B.Veeramalini",
+              "Application Number": "201911043625",
+              "Date of Registration": "26-10-2019",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "08-11-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "5 IEEE Wireless, Antenna, and Microwave Symposiumth (WAMS - 2026)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "B V Raju Institute of Technology, Vishnupur(Hyderabad), Narsapur, Medak, Telangana",
+              "Start Date": "10-06-2026",
+              "End Date": "13-06-2026"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "IEEE International Conference on Emerging Technologies in Engineering Applications (ICETEA 2026).",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Department of Electronics and Communication Engineering Sri Manakula Vinayagar Engineering College (Autonomous) Puducherry, India",
+              "Start Date": "14-05-2026",
+              "End Date": "15-05-2026"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "International Conference on Signal Processing,  Computation, Electronics, Power and Telecommunication (iConSCEPT 2025).",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "National Institute of Technology Puducherry Karaikal, India",
+              "Start Date": "06-12-2025",
+              "End Date": "07-12-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "IETACS-2025 (International Conference on Innovations And Emerging Technologies In AI & Communication Systems",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Chandigarh Engineering College",
+              "Start Date": "06-11-2025",
+              "End Date": "08-11-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "THE 16th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT - Indore, Madhya Pradesh, India.",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "Preventive Veterinary Medicine",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier Publication",
+              "Start Date": "18-06-2025",
+              "End Date": "18-06-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "International Conference on Emerging Technologies in Engineering Applications (ICETEA)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Sri Manakula Vinayagar Engineering College, Madagadipet, Puducherry-605 107,India.",
+              "Start Date": "05-06-2025",
+              "End Date": "06-06-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "Emerging Research in Computing, Information, Communication, Artificial Intelligence and Machine learning, ERCICAM 2025",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Nitte Meenakshi Institute of Technology",
+              "Start Date": "07-03-2025",
+              "End Date": "08-03-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "KEC -ECE-ACUMEN 2025",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Department of ECE. Kongu Engineering College",
+              "Start Date": "03-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "3rd International Conference on Integrated Circuits and Communication Systems (ICICACS - 2026)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Sir M Visvesvaraya College of Engineering",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "30 Hours - HACKATHON -ECE",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "Department of ECE, Kongu Engineering College",
+              "Start Date": "20-09-2024",
+              "End Date": "21-09-2024"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "2nd International Conference on Data Science and Network Security (ICDSNS) | IEEE Conference",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Kalpataru Institute of Technology,",
+              "Start Date": "26-07-2024",
+              "End Date": "27-07-2024"
+            },
+            {
+              "Name of Faculty": "S.SUTHAGAR",
+              "Department": "ECR",
+              "Title of the Program": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT) | IEEE Conference",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

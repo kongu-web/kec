@@ -1,0 +1,1726 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Designation": "PROFESSOR",
+              "Area of Specialisation": "Data Mining, Machine Learning, Deep Learning, Nature Inspired Optimization",
+              "Date of joining in KEC": "13-06-1994",
+              "Mobile": "9486561199",
+              "E-mail": "rrrkec.69@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Information and Communication Engineering",
+              "From": "04-08-2006"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-1999"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Academic Degree": "B.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "02-06-1986"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "13-06-1994",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligent Towards Sustainable Impact Accelerator through Education, Research and Advocacy",
+              "Level": "International",
+              "Title": "AI in Education—Transforming Teaching and Learning in the Digital Age",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "29-12-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Fourth International Conference on Augmented Intelligence and Sustainable Systems",
+              "Level": "International",
+              "Title": "A Multimodal AI-Based Student Attention Monitoring System for Virtual Classrooms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "28-04-2026",
+              "Published at": "Fourth International Conference on Augmented Intelligence and Sustainable Systems"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing for Sustainable Global Development",
+              "Level": "International",
+              "Title": "A Machine Learning Based Approach for Fruits and Vegetables Ripeness Identification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "08-04-2026",
+              "Published at": "13th International Conference on Computing for Sustainable Global Development"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligent Towards Sustainable Impact Accelerator through Education, Research and Advocacy",
+              "Level": "International",
+              "Title": "Introduction: The Promise and Peril of AI in Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "29-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Iranian Journal of Science and Technology, Transactions of Electrical Engineering",
+              "Level": "International",
+              "Title": "Multi-Modal Brain Tumor Segmentation Using Optimized MedNet++",
+              "Volume No": "50",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "PeerJ Computer Science",
+              "Level": "International",
+              "Title": "A hybrid deep learning paradigm\nintegrating segmentation architectures for\nprecise plant disease identification and\nclassification",
+              "Volume No": "11",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Speech and Language Technologies for Low-Resource Languages",
+              "Level": "International",
+              "Title": "An Effective LSTM – Autoencoder Approach with Acoustic Features in Indian Classical Music Raga Recognition",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-11-2025",
+              "Published at": "Third International Conference, SPELLL 2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+              "Level": "International",
+              "Title": "Enhanced Brain Tumors Segmentation In 3D Multimodal Images Using U-Net3+ And SegNet",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": ": 2024 International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+              "Level": "International",
+              "Title": "Feature Selection Using Binary Grey Wolf Optimization for Survival Prediction of Hepatocellular Carcinoma",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 3rd International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "Enhanced Loan Approval Prediction System using Ensemble Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Systems Modeling and Simulation III",
+              "Level": "International",
+              "Title": "New Neural Network Framework for Medical Intelligent System",
+              "Volume No": "553",
+              "Issue No": "-",
+              "Year": "2024",
+              "Date": "22-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Systems Modeling and Simulation III",
+              "Level": "International",
+              "Title": "Deep Learning for Air Pollution Predictive",
+              "Volume No": "553",
+              "Issue No": "=",
+              "Year": "2024",
+              "Date": "22-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Systems Modeling and Simulation III",
+              "Level": "International",
+              "Title": "Synergizing Nature Inspired Optimization with Deep Learning for COVID-19 Image Recognition",
+              "Volume No": "553",
+              "Issue No": "=",
+              "Year": "2024",
+              "Date": "02-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Technology and Health Care",
+              "Level": "International",
+              "Title": "Modelling a self-defined CNN for effectual classification of PCOS from ultrasound images",
+              "Volume No": "32",
+              "Issue No": "5",
+              "Year": "2024",
+              "Date": "01-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Level": "International",
+              "Title": "Forecasting Price Prediction for Vegetables and Fruits Using Recurrent Neural Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "07-08-2024",
+              "Published at": "2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Unmasking Audio Deception: Performance Analysis in Machine Learning Models with Mel-Frequency and Gammatone Frequency Cepstral Coefficients",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Level": "International",
+              "Title": "Forecasting Students Academic Achievement Using Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS)",
+              "Level": "International",
+              "Title": "Enhancing Deepfake Detection: An Ensemble Deep Learning Approach for Efficient Attribute Manipulation Identification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS)",
+              "Level": "International",
+              "Title": "An Analysis of Irrigation Management for Crops\nusing Machine Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Handbook of Whale Optimization Algorithm",
+              "Level": "International",
+              "Title": "Optimizing CNN architecture using whale optimization algorithm for lung cancer detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-01-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings.",
+              "Level": "International",
+              "Title": "Prediction of covid-19 growth and trend using machine learning approach",
+              "Volume No": "81",
+              "Issue No": "2",
+              "Year": "2023",
+              "Date": "18-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Uncertain Systems",
+              "Level": "International",
+              "Title": "An Improved MangoNet Architecture Using Harris Hawks Optimization for Fruit Classification with Uncertainty Estimation",
+              "Volume No": "16",
+              "Issue No": "1",
+              "Year": "2023",
+              "Date": "31-03-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mathematical Problems in Engineering",
+              "Level": "International",
+              "Title": "Prediction of Fault Occurrences in Smart City Water Distribution System Using Time-Series Forecasting Algorithm, Mathematical Problems in Engineering",
+              "Volume No": "2022",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "05-07-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Knowledge-Based Systems",
+              "Level": "International",
+              "Title": "Binary grey wolf optimizer with mutation and adaptive K-nearest neighbour for feature selection in parkinson’s disease diagnosis",
+              "Volume No": "246",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "02-04-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Transactions on Asian and Low-Resource Language Information Processing",
+              "Level": "International",
+              "Title": "Optimizing hyperparameters and performance analysis of LSTM model in detecting fake news on social media",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "17-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Turkish Journal of Computer and Mathematics Education",
+              "Level": "International",
+              "Title": "Prediction of Covid-19 Using Hyperparameter Optimized Convolutional Neural Network",
+              "Volume No": "12",
+              "Issue No": "9",
+              "Year": "2021",
+              "Date": "20-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Researc",
+              "Level": "International",
+              "Title": "Fruit recognition using deep convolutional neural network with color feature",
+              "Volume No": "9",
+              "Issue No": "3",
+              "Year": "2021",
+              "Date": "04-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Physics: Conference Series",
+              "Level": "International",
+              "Title": "Deep Learning Techniques in Tomato Plant - A Review",
+              "Volume No": "1767",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "12-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience .Biotechnology Research Communication",
+              "Level": "International",
+              "Title": "Quality of Life and Mobile with Internet Addiction Among Engineering College Students: A Correlation Study",
+              "Volume No": "13",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "05-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical Reviews",
+              "Level": "International",
+              "Title": "Comparative study of SVM and CNN in identifying the types of skin cancer",
+              "Volume No": "7",
+              "Issue No": "11",
+              "Year": "2020",
+              "Date": "07-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Naïve Bayes guided Binary Firefly Algorithm for Gene Selection in Cancer Classification",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "30-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Regression Model for Predicting Engineering\nStudents Academic Performance",
+              "Volume No": "7",
+              "Issue No": "6s3",
+              "Year": "2019",
+              "Date": "05-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Advanced Technology",
+              "Level": "International",
+              "Title": "Multipath Routing of Elephant Flows in Data\nCenters Based on Software Defined Networking",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2019",
+              "Date": "14-02-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "The International Arab Journal of Information Technology",
+              "Level": "International",
+              "Title": "modified binary bat algorithm for unsupervised feature selection",
+              "Volume No": "15",
+              "Issue No": "6",
+              "Year": "2018",
+              "Date": "02-11-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Parallel Programming",
+              "Level": "International",
+              "Title": "Hadoop based Parallel Binary Bat Algorithm for Network Intrusion Detection",
+              "Volume No": "45",
+              "Issue No": "5",
+              "Year": "2017",
+              "Date": "30-09-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Current Bioinformatics",
+              "Level": "International",
+              "Title": "A hybrid binary cuckoo search and genetic algorithm for feature selection in type-2 diabetes",
+              "Volume No": "11",
+              "Issue No": "4",
+              "Year": "2016",
+              "Date": "01-09-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computational Intelligence and Informatics",
+              "Level": "International",
+              "Title": "A novel feature selection algorithm for heart disease classification",
+              "Volume No": "4",
+              "Issue No": "2",
+              "Year": "2014",
+              "Date": "17-07-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Engineering Research",
+              "Level": "International",
+              "Title": "Artificial bee colony based feature selection for effective cardiovascular disease diagnosis",
+              "Volume No": "5",
+              "Issue No": "5",
+              "Year": "2014",
+              "Date": "08-05-2014",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Data Analysis",
+              "Level": "International",
+              "Title": "Effective sanitization approaches to hide sensitive utility and frequent itemsets",
+              "Volume No": "16",
+              "Issue No": "6",
+              "Year": "2012",
+              "Date": "01-01-2012",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computer Theory and Engineering",
+              "Level": "International",
+              "Title": "Hybrid conflict ratio for hiding sensitive patterns with minimum information loss",
+              "Volume No": "1",
+              "Issue No": "4",
+              "Year": "2009",
+              "Date": "06-10-2009",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computer and Information Science",
+              "Level": "International",
+              "Title": "A novel sanitization approach for privacy preserving utility itemset mining",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2008",
+              "Date": "05-08-2008",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Computer Science",
+              "Level": "International",
+              "Title": "An effective data transformation approach for privacy preserving clustering",
+              "Volume No": "4",
+              "Issue No": "4",
+              "Year": "2008",
+              "Date": "16-04-2008",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Project": "Research",
+              "Title of Project": "Study and Analysis of Artificial Intelligence methods in Deepfake Identification",
+              "Funding Agency": "Indian Council of Social Science Research",
+              "Name of the Scheme": "Doctoral Fellowship",
+              "Co-Investigator(s)": "P P Sudharsana",
+              "Project Start Date": "27-12-2023",
+              "Duration": "2 years",
+              "Status": "Ongoing"
+            },
+            {
+              "Principal Investigator": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Project": "Research",
+              "Title of Project": "FIST",
+              "Funding Agency": "DST",
+              "Name of the Scheme": "Fund for Improvement of S&T Infrastructure",
+              "Co-Investigator(s)": "Dr.R.Thangarajan, Dr.P.Natesan, Dr.E.Gothai",
+              "Project Start Date": "08-10-2018",
+              "Duration": "5 years",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Project": "Research",
+              "Title of Project": "MODROB",
+              "Funding Agency": "AICTE",
+              "Name of the Scheme": "Modernization and Removal of Obsolescence",
+              "Co-Investigator(s)": "Dr.R.Thangarajan, Dr.P.Natesan",
+              "Project Start Date": "08-09-2017",
+              "Duration": "2 years",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Project": "Research",
+              "Title of Project": "A study and analysis of the usage of web and social media networks to predict the Behavioural aspects and learning experience of students in engineering education using data mining",
+              "Funding Agency": "Indian Council of Social Science Research",
+              "Name of the Scheme": "Major RP",
+              "Co-Investigator(s)": "Dr.P.Natesan, Dr.N.Krishnamoorthy",
+              "Project Start Date": "03-07-2017",
+              "Duration": "2 years",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Prema Textile mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web page development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "22-12-2025",
+              "Date of Consultancy (To)": "16-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Indian Furniture, 142/90, SND Road, Thiruchengode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "website development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "28-02-2025",
+              "Date of Consultancy (To)": "18-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Vivaha Bridal Jewellery",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web site development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "27-01-2025",
+              "Date of Consultancy (To)": "18-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "25000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "SPK matriculation higher secondary school, Tiruchengode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "21-01-2025",
+              "Date of Consultancy (To)": "18-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Knowledge Institute of Technology, Salem",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Train the Trainer",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "19-08-2024",
+              "Date of Consultancy (To)": "20-08-2024",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sri Kumaran silks and Readymades ,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-02-2024",
+              "Date of Consultancy (To)": "07-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Lishanth Pet Industries, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "16-02-2024",
+              "Date of Consultancy (To)": "09-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Phoneix Fitness Studio, Perundurai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "07-03-2023",
+              "Date of Consultancy (To)": "11-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Totto Design, Tiruppur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "18-02-2023",
+              "Date of Consultancy (To)": "17-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Vinayaga Sports,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "11-07-2022",
+              "Date of Consultancy (To)": "17-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Name of the Industry/Organization": "Sakthi Food products, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web site development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "11-07-2022",
+              "Date of Consultancy (To)": "03-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "Actionable AI in Cyber Security",
+              "Collaboration/Sponsored by": "AICTE",
+              "Level": "National",
+              "Start Date": "14-12-2020",
+              "End Date": "18-12-2020",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": "KONGU ENGINEERING COLLEGE"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Event": "Seminar",
+              "Name of Event": "Adversarial Deep Learning: Threats, Challenges and Defence Mechanisms in Cyber Forensics",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "30-11-2019",
+              "End Date": "30-11-2019",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Event": "Training",
+              "Name of Event": "AICTE-PMKVY-TI scheme",
+              "Collaboration/Sponsored by": "AICTE",
+              "Level": "State",
+              "Start Date": "13-06-2016",
+              "End Date": "25-05-2018",
+              "Duration": "2 years (annual once)",
+              "Role played": "Convener",
+              "Venue": "Kongu Engineering College"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Type of Event": "FDP",
+              "Name of Event": "Big Data Analytics",
+              "Collaboration/Sponsored by": "DST",
+              "Level": "National",
+              "Start Date": "06-06-2016",
+              "End Date": "17-06-2016",
+              "Duration": "10 days",
+              "Role played": "Coordinator",
+              "Venue": "Kongu Engineering College"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "STTP",
+              "Title of the program": "Integration of AI and Quantum Computing for Robotics",
+              "Level": "National",
+              "Organized by": "IIITDM Kancheepuram",
+              "Place": "Chennai",
+              "Start Date": "08-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "NEP 2020",
+              "Level": "National",
+              "Organized by": "COIMBATORE INSTITUTE OF TECHNOLOGY",
+              "Place": "COIMBATORE",
+              "Start Date": "22-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "Online",
+              "Start Date": "11-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Accreditation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "",
+              "Start Date": "11-08-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Applied AI-Practical Implementations",
+              "Level": "National",
+              "Organized by": "edunet Foundation",
+              "Place": "",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Computer Vision for Image & Video Analysis Applications",
+              "Level": "National",
+              "Organized by": "Indian Institute of Information Technology, Kottayam",
+              "Place": "Kottayam",
+              "Start Date": "17-06-2024",
+              "End Date": "21-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Modern Research Convergence in Next Generation Computing",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "18-12-2023",
+              "End Date": "22-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Implementing Experimental Learning",
+              "Level": "National",
+              "Organized by": "NITTR",
+              "Place": "kolkatta",
+              "Start Date": "09-10-2023",
+              "End Date": "13-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft Power BI Data Analyst Associate",
+              "Level": "National",
+              "Organized by": "Velalar College of Engineering and Technology",
+              "Place": "Erode",
+              "Start Date": "11-09-2023",
+              "End Date": "15-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Frontiers in Multidiciplinary Research",
+              "Level": "National",
+              "Organized by": "Galgotias University",
+              "Place": "",
+              "Start Date": "16-08-2023",
+              "End Date": "23-08-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Designing Learner Centric E-learning in STEM discipline",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-08-2023",
+              "End Date": "29-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "REcent Advancements in Intelligent Computing Technologies",
+              "Level": "National",
+              "Organized by": "Sri Krishna College of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "19-12-2022",
+              "End Date": "23-12-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Business Analytics and Text mining modeling using Python",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "04-07-2022",
+              "End Date": "30-09-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft Azure AI Engineer Associate",
+              "Level": "National",
+              "Organized by": "ICT Academy",
+              "Place": "Kongu Engineering College, Perundurai, Erode",
+              "Start Date": "23-05-2022",
+              "End Date": "27-05-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design Thinking - A premier",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "07-02-2022",
+              "End Date": "28-03-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Overview of Geoprocessing using Python",
+              "Level": "National",
+              "Organized by": "ISRO",
+              "Place": "",
+              "Start Date": "17-01-2022",
+              "End Date": "21-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Inculcating Universal Human Values in Technical Education",
+              "Level": "National",
+              "Organized by": "ALL INDIA COUNCIL FOR TECHNICAL EDUCATION",
+              "Place": "NEW DELHI",
+              "Start Date": "20-12-2021",
+              "End Date": "24-12-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Knime for Statistics and Data Analytics",
+              "Level": "National",
+              "Organized by": "School of Computer Science and Engineering (SCOPE), VIT",
+              "Place": "Vellore",
+              "Start Date": "17-11-2021",
+              "End Date": "19-11-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analytics using Python/R Programming",
+              "Level": "National",
+              "Organized by": "National Institute of Technology Puducherry",
+              "Place": "Karaikal.",
+              "Start Date": "23-08-2021",
+              "End Date": "27-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Select Programme": "FDP",
+              "Title of the program": "Research Perspectives on Data Science and Deep LEarning",
+              "Level": "National",
+              "Organized by": "New Horizon college of Engineering",
+              "Place": "Bengalore",
+              "Start Date": "12-07-2021",
+              "End Date": "16-07-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Enhanced Brain Tumors Segmentation In 3D Multimodal Images Using U-Net3+ And SegNet",
+              "Title of Conference": "2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-03-2025",
+              "End Date": "08-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Feature Selection Using Binary Grey Wolf Optimization for Survival Prediction of Hepatocellular Carcinoma",
+              "Title of Conference": "2024 International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+              "Organized by": "T. John Institute of Technology (TJIT), Bangalore, Karnataka, India",
+              "Level": "International",
+              "Start Date": "17-12-2024",
+              "End Date": "18-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "An Effective LSTM – Autoencoder Approach with Acoustic Features in Indian Classical Music Raga Recognition",
+              "Title of Conference": "Speech and Language Technologies for Low-Resource Languages",
+              "Organized by": "Vellore Institute of Technology, Chennai",
+              "Level": "International",
+              "Start Date": "04-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Enhanced Loan Approval Prediction System using Ensemble Machine Learning Techniques",
+              "Title of Conference": "2024 3rd International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Organized by": "Mount Zion College of Engineering and Technology Pudukkottai, Tamil Nadu, India",
+              "Level": "International",
+              "Start Date": "04-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Forecasting Price Prediction for Vegetables and Fruits Using Recurrent Neural Network",
+              "Title of Conference": "2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-08-2024",
+              "End Date": "09-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Unmasking Audio Deception: Performance Analysis in Machine Learning Models with Mel-Frequency and Gammatone Frequency Cepstral Coefficients",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "IIT Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Enhancing Deepfake Detection: An Ensemble Deep Learning Approach for Efficient Attribute Manipulation Identification",
+              "Title of Conference": "2024 International Conference on Cognitive Robotics and Intelligent Systems (ICC-ROBINS)",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "17-04-2024",
+              "End Date": "19-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "An Analysis of Irrigation Management for Crops using Machine Learning Algorithms",
+              "Title of Conference": "2024 International Conference on Cognitive Robotics and Intelligent Systems (ICC-ROBINS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "17-04-2024",
+              "End Date": "19-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Forecasting Students Academic Achievement Using Machine Learning Techniques",
+              "Title of Conference": "2024 2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": "16-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Comparative study of CNN and transfer learning techniques in the classification of PCO ultra sound images",
+              "Title of Conference": "2023 International Conference on Networking and Communications (ICNWC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-04-2023",
+              "End Date": "06-04-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Deepfake detection using inception-resnet-v2 network",
+              "Title of Conference": "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-02-2023",
+              "End Date": "25-02-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "An Elaborate Review of Diagnosing Glaucoma Disease Using Machine Learning and Deep Learning Techniques",
+              "Title of Conference": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": "25-01-2023"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "A systematic review of lung cancer prediction using machine learning algorithm",
+              "Title of Conference": "2022 International conference on computer communication and informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": "27-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Vision based fall detection using optimized convolutional neural network",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": "27-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Image classification of white blood cells with canonical correlation",
+              "Title of Conference": "2022 international conference on computer communication and informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": "27-01-2022"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Optimized deep convolutional generative adversarial network for tomato leaf disease identification",
+              "Title of Conference": "2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-12-2021",
+              "End Date": "04-12-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Predictive analysis in determining the dissemination of infectious disease and its severity",
+              "Title of Conference": "2021 5th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "08-04-2021",
+              "End Date": "10-04-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Smart staff attendance system using Convolutional Neural Network",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": "29-01-2021"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of Paper": "Bat Algorithm with CNN Parameter Tuning for Lung Nodule False Positive Reduction",
+              "Title of Conference": "Computational Intelligence in Data Science",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-11-2020",
+              "End Date": "21-11-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of the Program": "NBA mock audit",
+              "Role": "Others",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "03-05-2025",
+              "End Date": "03-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of the Program": "Advancing Healthcare and Medtech through Machine Learning: From Theory to Practice",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "ATAL FDP at KEC",
+              "Start Date": "03-02-2025",
+              "End Date": "04-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of the Program": "NBA mock audit",
+              "Role": "Others",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "02-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.R.R.RAJALAXMI",
+              "Department": "AI",
+              "Title of the Program": "Design Thinking workshop",
+              "Role": "Expert Lecture",
+              "Level": "Intra-Collegiate",
+              "Organized by": "",
+              "Start Date": "19-08-2024",
+              "End Date": "20-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "A. Deepa",
+              "Date of Registration": "11-09-2025",
+              "Registration No:": "25244697554",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "P. Anandhi",
+              "Date of Registration": "30-08-2025",
+              "Registration No:": "25244697480",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "ENHANCED PRECISION IN RAD IATION THERAPY USING MULTIMODAL LARGE LANGUAGE MODELS FOR TARGET VOLUME CONTOURING",
+              "Name of Scholar": "Pradakshina M",
+              "Date of Registration": "30-01-2025",
+              "Registration No:": "25247691114",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "KEC",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "P.S.Prakash",
+              "Date of Registration": "11-03-2023",
+              "Registration No:": "21134691323",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "P.P.Sudharsana",
+              "Date of Registration": "10-02-2023",
+              "Registration No:": "22254691287",
+              "Status": "Pursuing",
+              "Type": "Full time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": "10-05-2025"
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "S.Mohanasaranya",
+              "Date of Registration": "12-05-2022",
+              "Registration No:": "21244691369",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "S.Santhoshlumar",
+              "Date of Registration": "12-11-2021",
+              "Registration No:": "20144691117",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "Others",
+              "Date of Awarding PhD": ""
+            },
+            {
+              "Department": "AI",
+              "Name of Supervisor": "DR.R.R.RAJALAXMI",
+              "Title of the thesis for scholar": "",
+              "Name of Scholar": "P.Gokila Brinda",
+              "Date of Registration": "02-01-2018",
+              "Registration No:": "1624769172",
+              "Status": "Pursuing",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "10-07-2024",
+              "Mobile": "9600942754",
+              "E-mail": "magduesh.god@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Academic Degree": "AICTE QIP PG",
+              "Specialization": "Intelligent transport systems for EV",
+              "From": "01-07-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Academic Degree": "Ph.D",
+              "Specialization": "EE",
+              "From": "01-01-2018"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Academic Degree": "M.E",
+              "Specialization": "PED",
+              "From": "05-09-2013"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Academic Degree": "B.E",
+              "Specialization": "EEE",
+              "From": "01-08-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "10-07-2024",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Vivekanandha College of Engg. for Women Tiruchengode",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "09-09-2021",
+              "End Date": "25-06-2024",
+              "Duration": "3 years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-P.MAGUDESWARAN-5d77d254-b085-47cc-8401-28d512726c98.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c511502e17715a1dbfddd99f969b4361bce0c23822e79265855ba051171c49ed",
+                  "name": "appointment-vcew.pdf",
+                  "totalRecords": null,
+                  "resourceId": "xTgrtj9GP3P9byaMb",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SASURIE COLLEGE OF ENGG TIRUPUR",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "05-06-2019",
+              "End Date": "31-05-2021",
+              "Duration": "2 YEARS",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-P.MAGUDESWARAN-5a2de5c1-695a-4990-99a1-39c596593f44.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fa80986e8b1b82b123aa4af1ae5b8a981a9a58484aba429d5a9a9355c1ca0862",
+                  "name": "SASURIE SERVICE appointment service Magudesh-8.pdf",
+                  "totalRecords": null,
+                  "resourceId": "WcvPCA8DdDFqdjcDG",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-P.MAGUDESWARAN-f50c8322-7332-4679-b5ad-83534f3665aa.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=eca77e8de1fc46d00f7d868597cd7191511e2eae76d6a9f7468d8107cee5de9b",
+                  "name": "SASURIE SERVICE appointment service Magudesh-8.pdf",
+                  "totalRecords": null,
+                  "resourceId": "44Tgqqu9QeZWpZbEp",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Bannari Amman Institute of Technology Sathy",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "18-06-2018",
+              "End Date": "31-05-2019",
+              "Duration": "1",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-P.MAGUDESWARAN-23d66243-0c86-4372-a001-bdfbd28dec0b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9c16714c6f1b9d55b981b837b2d835ac7437b2afc6b30c1d8fcb11c28a91cd4f",
+                  "name": "BIT appointment order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "FNf9qP7gdT5NBEQH6",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Excel Engg. College Pallakapalayam",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "25-06-2016",
+              "End Date": "31-12-2017",
+              "Duration": "1.6",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EER-P.MAGUDESWARAN-36e44682-d149-405e-a448-00a8c5c47b82.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ae5ba4b1241defee555ca2f9c59e8e1df2e41d47b7e4506cb5311ace36e61c8a",
+                  "name": "Experience-1.pdf",
+                  "totalRecords": null,
+                  "resourceId": "BWysdtNoGH5KwryGm",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Name of Award/Achievement": "Sustainability Hackathon Challenge' 2023- MENTOR",
+              "Level": "National",
+              "Awarded by": "EDII AHMEDABAD",
+              "Place": "EDII AHMEDABAD",
+              "Date": "28-04-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICPC2T’25 SICTE press",
+              "Level": "International",
+              "Title": "IoT- and AI-Enabled Smart Real-Time Tollgate \nManagement System for Intelligent  transportation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "31-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE XPLORE",
+              "Level": "International",
+              "Title": "Unit Sizing and Mathematical Analysis of a Renewable Energy Sources based Mini Grid System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "31-07-2026",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematics , Automation and Computing",
+              "Level": "International",
+              "Title": "An IoT-enabled approach to automated cleaning of solar panels for an efficiency boost",
+              "Volume No": "978-1-041-29636-2",
+              "Issue No": "978-1-041-29636-2",
+              "Year": "2026",
+              "Date": "26-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Indonesian Journal of Electrical Engineering and Computer Science",
+              "Level": "International",
+              "Title": "Whale optimization algorithm and internet of things for \nhorizontal axis solar tracker-based load optimization",
+              "Volume No": "32",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "10-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ELECTRIC POWER COMPONENTS AND SYSTEMS",
+              "Level": "International",
+              "Title": "Internet of Things Based Horizontal Axis Tracking Solar Panel Performance Evaluation",
+              "Volume No": "52",
+              "Issue No": "9",
+              "Year": "2023",
+              "Date": "12-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Research Journal of Engineering and Technology",
+              "Level": "International",
+              "Title": "DYNAMIC WIRELESS ELECTRIC VEHICLE CHARGING SYSTEM",
+              "Volume No": "06",
+              "Issue No": "03",
+              "Year": "2019",
+              "Date": "31-03-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering and Advanced Technology",
+              "Level": "International",
+              "Title": "AGRIoT",
+              "Volume No": "8",
+              "Issue No": "2S",
+              "Year": "2018",
+              "Date": "20-12-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of pure and applied mathematics",
+              "Level": "International",
+              "Title": "AN INNOVATIVE FUZZY ENABLED SOLAR & WIND \nPOWERED BLDCM DRIVE FOR HEV APPLICATIONS",
+              "Volume No": "119",
+              "Issue No": "16",
+              "Year": "2018",
+              "Date": "16-08-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF SCIENTIFIC PROGRESS AND RESEARCH",
+              "Level": "International",
+              "Title": "PFC Based Bridgeless Buck Boost Converter Fed \nBLDCM Drive with Sensorless Speed Control",
+              "Volume No": "49",
+              "Issue No": "149",
+              "Year": "2018",
+              "Date": "31-07-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF PURE AND APPLIED MATHEMATICS",
+              "Level": "International",
+              "Title": "AN INNOVATIVE FUZZY ENABLED SOLAR & WIND\nPOWERED BLDCM DRIVE FOR HEV APPLICATIONS",
+              "Volume No": "119",
+              "Issue No": "16",
+              "Year": "2018",
+              "Date": "31-07-2018",
+              "Published at": "Online"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Name of the Industry/Organization": "Tagore Dental College Hospital Chennai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "IIPC",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "10-01-2026",
+              "Date of Consultancy (To)": "10-01-2026",
+              "Revenue Generated (amount in Rupees without GST)": "29000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "PCB DESIGN ONE CREDIT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "25-10-2025",
+              "End Date": "02-11-2025",
+              "Duration": "4 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "KEC EEE"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Event": "Value added courses",
+              "Name of Event": "INTERNATION CERTIFICATE",
+              "Collaboration/Sponsored by": "MAAVEN SILICON BANGALORE",
+              "Level": "International",
+              "Start Date": "26-04-2025",
+              "End Date": "05-05-2025",
+              "Duration": "5 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "VLSI DESIGN",
+              "Level": "National",
+              "Organized by": "AICTE UGC ICT ACADEMY",
+              "Place": "VELALLAR COLLEGE OF ENGG ERODE",
+              "Start Date": "23-02-2026",
+              "End Date": "27-02-2026"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Analytics with Python",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "Online",
+              "Start Date": "01-02-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "Workshop",
+              "Title of the program": "Brainstorming  Workshop on Research Proposal Writing",
+              "Level": "Others",
+              "Organized by": "Kongu Engg.College",
+              "Place": "perundurai",
+              "Start Date": "01-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "DATA SCIENCE FOR ENGINEERS",
+              "Level": "National",
+              "Organized by": "SWAYAM",
+              "Place": "ONLINE",
+              "Start Date": "01-08-2025",
+              "End Date": "03-10-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "DATA SCIENCE FOR ENGINEERS",
+              "Level": "National",
+              "Organized by": "SWAYAM",
+              "Place": "ONLINE",
+              "Start Date": "01-08-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Yoga and Positive Psychology for Managing Career and Life",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "online",
+              "Start Date": "15-02-2025",
+              "End Date": "15-04-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "AI powered IOT Based Sustainable Energy Management",
+              "Level": "National",
+              "Organized by": "AICTE ATAL FDP CEG ANNA UNIVERSITY",
+              "Place": "ONLINE",
+              "Start Date": "10-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "Python Programming",
+              "Level": "National",
+              "Organized by": "Codetandra Tech Solutions Hyderabad",
+              "Place": "Perundurai",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "advance knowledge, foster  leadership, and drive innovation in the automotive sector",
+              "Level": "National",
+              "Organized by": "NAAN MUDHALVAN & STELLANTIS",
+              "Place": "SRM CHENNAI",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "C Programming and Assembly Language",
+              "Level": "National",
+              "Organized by": "IIT MADRAS NPTEL",
+              "Place": "ONLINE",
+              "Start Date": "01-09-2024",
+              "End Date": "20-10-2024"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "National",
+              "Organized by": "NPTEL SWAYAM",
+              "Place": "ONLINE",
+              "Start Date": "01-01-2024",
+              "End Date": "30-04-2024"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "ELECTRICAL SAFETY FOR EQUIPMENTS & INSTRUMENTS",
+              "Level": "Others",
+              "Organized by": "VCEW TIRUCHENGODE",
+              "Place": "TIRUCHENGODE",
+              "Start Date": "30-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "UNIVERSAL HUMAN VALUES",
+              "Level": "Others",
+              "Organized by": "VCEW IQAC",
+              "Place": "VCEW TIRUCHENGODE",
+              "Start Date": "05-11-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "MECHANICAL & ELECTRONICS SYSTEM DESIGN",
+              "Level": "International",
+              "Organized by": "SRI RAMAKRISHNA ENGG. COLLEGE",
+              "Place": "COIMBATORE",
+              "Start Date": "10-10-2022",
+              "End Date": "15-10-2022"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "DESIGN THINKING",
+              "Level": "Others",
+              "Organized by": "VCEW AICTE IDEA LAB",
+              "Place": "VCEW",
+              "Start Date": "23-09-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "FDP",
+              "Title of the program": "TEACHING PAEDAGOGY AND OUTCOME BASED LEARNINGU",
+              "Level": "Others",
+              "Organized by": "VIVEKANANDHA COLLEGE OF TECHNOLOGY FOR WOMEN",
+              "Place": "TIRUCHENGODE",
+              "Start Date": "17-08-2022",
+              "End Date": "25-08-2022"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Select Programme": "STTP",
+              "Title of the program": "CMOS, Mixed Signal and Radio frequency VLSI Design",
+              "Level": "Online",
+              "Organized by": "IIT KHORAGPUT REMOTE CENTER",
+              "Place": "EXCEL ENGG.",
+              "Start Date": "30-01-2017",
+              "End Date": "04-02-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "SDIWC",
+              "Position": "MEMBER",
+              "Level": "National",
+              "Start Date": "01-10-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "LIFE MEMBER",
+              "Level": "National",
+              "Start Date": "01-09-2017",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "IoT- and AI-Enabled Smart Real-Time Tollgate Management System for Intelligent",
+              "Title of Conference": "power control computing technologies",
+              "Organized by": "sona college of technology",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "An IoT-Enabled Approach to Automated Cleaning of Solar Panels for Efficiency Boost",
+              "Title of Conference": "ICAMAX 25",
+              "Organized by": "CSIR & TNSCST sponsor Mathematics department",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "IOT BASED SOLAR TRACKING SYSTEMS FOR EFFICIENT POWER GENERATION",
+              "Title of Conference": "EDGES 2024",
+              "Organized by": "VIVEKANANDHA COLLEGE OF ENGG. FOR WOMEN",
+              "Level": "National",
+              "Start Date": "22-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "IOT ENABLED SMART GRID",
+              "Title of Conference": "ICRIE 19",
+              "Organized by": "SRI SUBRAMANIYA COLLEGE OF ENGG. & TECH  PALANI",
+              "Level": "International",
+              "Start Date": "23-03-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "IOT BASED MONITORING SMART HOME APPLIANCES",
+              "Title of Conference": "ICRACEEMC 2019",
+              "Organized by": "REC COIMBATORE",
+              "Level": "International",
+              "Start Date": "22-03-2019",
+              "End Date": "23-03-2019"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "AGRIoT",
+              "Title of Conference": "ICRTCT 18",
+              "Organized by": "DR.NGP INSTITUTE",
+              "Level": "International",
+              "Start Date": "09-08-2018",
+              "End Date": "10-08-2018"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "An Innovative Fuzzy enabled solar and wind powered  BLDCM drive for HEV applicagtions",
+              "Title of Conference": "ICIEES 17",
+              "Organized by": "PSG Technology Coimbatore",
+              "Level": "International",
+              "Start Date": "20-01-2017",
+              "End Date": "21-01-2017"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "A Fuzzy Enabled solar and wind powered BLDC motor drive simulation for EV applications",
+              "Title of Conference": "NACCPEDS",
+              "Organized by": "GCE TIRUNELVELI",
+              "Level": "National",
+              "Start Date": "06-03-2015",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "AN TNNOVETTVE SEASOR IESs SPEED (ONTROL OF  PPC BASED BRTDGELESS  CONVERTER ED BLDC MoTOR DRTVE",
+              "Title of Conference": "NCGST 15",
+              "Organized by": "ARUNAI ENGG COLLEGE & ISTE",
+              "Level": "National",
+              "Start Date": "19-02-2015",
+              "End Date": "20-02-2015"
+            },
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Title of Paper": "SEQUEL GUI BASED SIMULATION OF SOLAR PV ELL",
+              "Title of Conference": "NACPEPS 2014",
+              "Organized by": "GCE TIRUNELVELI",
+              "Level": "National",
+              "Start Date": "16-04-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "P.MAGUDESWARAN",
+              "Department": "EER",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Enhancement of Power Quality in a Grid Connected Fuel Cell with DSTATCOM Application",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr. Akhtar Rasool",
+              "Application Number": "202641017259 A",
+              "Date of Registration": "16-02-2026",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "27-02-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

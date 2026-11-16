@@ -1,0 +1,589 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Fiction",
+              "Date of joining in KEC": "03-03-2023",
+              "Mobile": "9842354670",
+              "E-mail": "emsav123.av@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Academic Degree": "MA",
+              "Specialization": "ENGLISH LITERATURE",
+              "From": "06-06-2016"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Academic Degree": "BA",
+              "Specialization": "English literature",
+              "From": "05-06-2012"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Category": "NET",
+              "Reference No": "31392/(NET-DEC 2018)",
+              "Roll No": "TN0201500267",
+              "Year": "2018",
+              "Specialization": "English Literature",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "03-03-2023",
+              "End Date": "30-01-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Global practices in inclusive education curriculam and policy",
+              "Level": "International",
+              "Title": "Flipped Classroom \nMethods for Enhanced \nStudent Engagement \nand Knowledge \nDevelopments in Indian \nHigher Education",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "28-06-2025",
+              "Published at": "IGI Global"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Type of Event": "FDP",
+              "Name of Event": "Reimagining English Literature and language teaching with Artificial Intelligence: Preparing for yhe future",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "02-09-2024",
+              "End Date": "06-09-2024",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Think, Write, Publish: Strategies for Emerging Researchers",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-07-2026",
+              "End Date": "18-07-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "OBE",
+              "Level": "Online",
+              "Organized by": "NPTE",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": "18-10-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": ", Vels Institute of Science, Technology and Advanced Studies (VISTAS)",
+              "Place": "Chennai",
+              "Start Date": "16-02-2026",
+              "End Date": "21-03-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Enhancing Soft Skills and Personality",
+              "Level": "Others",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "09-02-2026",
+              "End Date": "24-04-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "NEP 2020 Orientation and Sensitization Programme",
+              "Level": "National",
+              "Organized by": "Malavya Mission",
+              "Place": "",
+              "Start Date": "16-01-2026",
+              "End Date": "30-01-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Teach Next: Empowering and Advanced Future Skills For Faculty in the Age of AI",
+              "Level": "International",
+              "Organized by": "Vivekanandha College of Arts and Science",
+              "Place": "",
+              "Start Date": "05-01-2026",
+              "End Date": "11-01-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Indian English Literature -Themes, Techniques and Theories",
+              "Level": "National",
+              "Organized by": "Dr.SNS Rajalakshmi College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "05-08-2024",
+              "End Date": "09-08-2024"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "ICT & Language learninng",
+              "Level": "International",
+              "Organized by": "Westminster College London & Satyabama Institute of Science & Technology, Chennai",
+              "Place": "",
+              "Start Date": "14-08-2023",
+              "End Date": "18-08-2023"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Short fiction in Indian Literature",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "05-07-2023",
+              "End Date": "20-10-2023"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Adapting English Language Teaching to the fourth Industrial Revolution",
+              "Level": "International",
+              "Organized by": "Bharath Institute of Engineering and Technology",
+              "Place": "",
+              "Start Date": "21-06-2023",
+              "End Date": "27-06-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Name of the Professional Body/Society": "World Council of Arts, Humanities, and Social Sciences (WCAHSS)",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "20-01-2026",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Title of Paper": "Silence, Sacrifice and Strategy: Classical Women in the hands of Modern Women",
+              "Title of Conference": "International Conference on Traversing the Borders and Boundaries: A Consortium of Language and Literature",
+              "Organized by": "Thiagarajar College of Engineering and Thiagarajar College",
+              "Level": "International",
+              "Start Date": "05-03-2026",
+              "End Date": "06-03-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Title of Paper": "Enhancing Syntactic features in Writing Skills of the Tertiary level learners using Communicative Language Teaching Framework",
+              "Title of Conference": "New Generation of Libraries for Lifelong Learning (NGLLLL 2026)",
+              "Organized by": "National College",
+              "Level": "International",
+              "Start Date": "29-01-2026",
+              "End Date": "30-01-2026"
+            },
+            {
+              "Name of Faculty": "E.M.SRI AMIRTHA VARSHINI",
+              "Department": "EGR",
+              "Title of Paper": "Children's Literature as an inevitable tool to introduce society",
+              "Title of Conference": "Drawing meaning through visual narratives",
+              "Organized by": "Presidency university",
+              "Level": "International",
+              "Start Date": "02-08-2023",
+              "End Date": "03-08-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

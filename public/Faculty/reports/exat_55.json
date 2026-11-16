@@ -1,0 +1,1052 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Molecular Spectroscopy",
+              "Date of joining in KEC": "28-01-2013",
+              "Mobile": "9442909822",
+              "E-mail": "physicist.sudha@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Molecular Spectroscopy",
+              "From": "04-12-2009"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Academic Degree": "M.Sc",
+              "Specialization": "Physics",
+              "From": "02-07-2007"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Academic Degree": "B.Sc",
+              "Specialization": "Physics",
+              "From": "21-06-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-11-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-08-2025",
+              "End Date": "31-10-2025",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "28-01-2013",
+              "End Date": "31-07-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Name of Award/Achievement": "Best Faculty Award",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "Perundurai",
+              "Date": "27-03-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Crystallographic, spectroscopic, quantum-chemical, and Z scan analysis of \nan optically active NLO material \n(E)-N’-(4-methylbenzylidene)picolinohydrazide",
+              "Volume No": "1364",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "04-03-2026",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Synthesis, spectroscopic and computational examination of an optically \nactive E-N'-2,3-dimethoxybenzylidene-4-nitrobenzohydrazide crystal",
+              "Volume No": "1356",
+              "Issue No": "-",
+              "Year": "2025",
+              "Date": "24-12-2025",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Structural, spectroscopic (FTIR, FT-Raman and UV–Vis) investigations, Fukui function analysis and thermodynamic properties of diethyl 3,3?-(ethane-1,2-diylbis(azanediyl))(2Z,2?Z)-bis(but-2-enoate)",
+              "Volume No": "1316",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-11-2024",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Optical Materials",
+              "Level": "International",
+              "Title": "Structural elucidation and Z-scan investigation of NLO E-N’-(4-formylbenzylidene)furan-2-carbohydrazide hydrate crystal",
+              "Volume No": "152",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "05-05-2024",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Vibrational Spectroscopy",
+              "Level": "International",
+              "Title": "Synthesis, structural and spectral investigations of an optically active E-N?-(3,4-dimethoxybenzylidene)-4-fluorobenzohydrazide crystal",
+              "Volume No": "126",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "19-05-2023",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Structural, spectroscopic, quantum chemical, and molecular docking study towards cartilage protein of (3E,3'E)-3,3'-(1,4-phenylenebis(azanediyl))bis(cyclohex-2-en-1-one)",
+              "Volume No": "1274",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-02-2023",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Chemical Sciences",
+              "Level": "International",
+              "Title": "Spectroscopic, molecular docking, and ecotoxicology analyses of the monomer and dimers of 3-aminocyclohexa-2,6-diene-1- sulfonic acid - a theoretical approach",
+              "Volume No": "134",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "10-08-2022",
+              "Published at": "SpringerLink"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Structural, spectroscopic, quantum chemical, and molecular docking investigation of (E)-N'-(2,5-dimethoxybenzylidene)picolinohydrazide",
+              "Volume No": "1253",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "05-04-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Synthesis, crystal structure, spectral characterization and Hirshfeld surface analysis of (E)-N?-(3-ethoxy-4-hydroxybenzylidene)-4-fluorobenzohydrazide single-crystal – a novel NLO active material",
+              "Volume No": "1250",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "15-02-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Structural, spectroscopic (IR, Raman, and NMR), quantum chemical, and molecular docking analysis of (E)-2-(2,5-dimethoxybenzylidene)hydrazinecarbothioamide and its dimers",
+              "Volume No": "1247",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "05-01-2022",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Optik",
+              "Level": "International",
+              "Title": "Structural, spectral, optical and Z-Scan budding studies of (E)-N?-(4-bromobenzylidene)-4-fluorobenzohydrazide",
+              "Volume No": "247",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "27-08-2021",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Vibrational and Hirshfeld surface analyses, quantum chemical calculations, and molecular docking studies of coumarin derivative 3-(1-m-toluidinoethylidene) chromane-2,4-dione and its corresponding palladium(II) complex",
+              "Volume No": "1209",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "05-06-2020",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Vibrational spectroscopic studies (FTIR and FT-Raman) and Molecular dynamics analysis of industry inspired 3-amino-4-hydroxybenzene sulfonic acid",
+              "Volume No": "1025",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "05-04-2020",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Experimental and theoretical investigations of an organic nonlinear optical material p-toluidinium picrate – A comparative study",
+              "Volume No": "1195",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "05-11-2019",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Synthesis, crystal structure analysis and DFT studies of 3a,8a-Dihydroxy-2-thioxo-2,3,3a,8a-tetrahydroindeno[1,2-d]imidazol-8(1H)-one",
+              "Volume No": "1139",
+              "Issue No": "",
+              "Year": "2017",
+              "Date": "05-07-2017",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Molecular Simulation",
+              "Level": "International",
+              "Title": "Spectroscopic (FTIR, FT-Raman, NMR and UV) and molecular structure investigations of 1, 5-diphenylpenta-2, 4-dien-1-one: A combined Experimental and theoretical approach",
+              "Volume No": "39",
+              "Issue No": "4",
+              "Year": "2013",
+              "Date": "18-10-2012",
+              "Published at": "Taylor & Francis"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "Molecular structure and vibrational spectra of Irinotecan: A density functional theoretical study",
+              "Volume No": "98",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "20-08-2012",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Spectroscopic (FTIR, FT-Raman, NMR and UV) and molecular structure investigations of 1,5-diphenylpenta-1,4-dien-3-one: A combined experimental and theoretical study",
+              "Volume No": "1030",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "18-04-2012",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "Structural, vibrational (FT-IR and FT-Raman) and UV–Vis spectral analysis of 1-phenyl-3-(1,2,3-thiadiazol-5-yl)urea by DFT method",
+              "Volume No": "95",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "06-04-2012",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "The spectroscopic (FT-IR, FT-Raman, UV) and first order hyper-polarizability, HOMO and LUMO analysis of 3-aminobenzophenone by density functional method",
+              "Volume No": "92",
+              "Issue No": "",
+              "Year": "2012",
+              "Date": "25-02-2012",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "Molecular structure, vibrational spectroscopic, first-order hyperpolarizability and HOMO, LUMO studies of 2-aminobenzimidazole",
+              "Volume No": "84",
+              "Issue No": "",
+              "Year": "2011",
+              "Date": "15-12-2011",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "FT-IR, FT-Raman, NMR and UV–vis spectra, vibrational assignments and DFT calculations of 4-butyl benzoic acid",
+              "Volume No": "85",
+              "Issue No": "1",
+              "Year": "2012",
+              "Date": "05-10-2011",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "Molecular structure and vibrational spectra of 4-phenylsemicarbazide by density functional method",
+              "Volume No": "994",
+              "Issue No": "",
+              "Year": "2011",
+              "Date": "17-05-2011",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Molecular Structure",
+              "Level": "International",
+              "Title": "FT-IR and FT-Raman spectra, vibrational assignments, NBO analysis and DFT calculations of 2-amino-4-chlorobenzonitrile",
+              "Volume No": "985",
+              "Issue No": "",
+              "Year": "2011",
+              "Date": "31-01-2011",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "Molecular structure, harmonic and anharmonic frequency calculations of 2,4-dichloropyrimidine and 4,6-dichloropyrimidine by HF and density functional methods",
+              "Volume No": "78",
+              "Issue No": "5",
+              "Year": "2011",
+              "Date": "26-01-2011",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Spectrochimica Acta Part A",
+              "Level": "International",
+              "Title": "Experimental and theoretical investigation of the molecular and electronic structure of anticancer drug camptothecin",
+              "Volume No": "78",
+              "Issue No": "3",
+              "Year": "2011",
+              "Date": "22-12-2010",
+              "Published at": "Elsevier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "An Introduction to Lasers and Laser Systems",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "13-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "An introduction to Lasers and Laser Systems",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "13-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "AICTE Training And Learning (ATAL) Academy Faculty Development Program on Advanced Energy Storage Techniques For Sustainable Development",
+              "Level": "Others",
+              "Organized by": "CIT SANDWICH POLYTECHNIC COLLEGE, Coimbatore.",
+              "Place": "CIT SANDWICH POLYTECHNIC COLLEGE",
+              "Start Date": "05-01-2026",
+              "End Date": "10-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Five Day online International FDP on Research Innovation in Chemistry for Sustainable Development",
+              "Level": "International",
+              "Organized by": "Department of Chemistry",
+              "Place": "BON SECOURS College for Women, Thanjavur",
+              "Start Date": "27-10-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Physics of Renewable Energy Systems",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Kharagpur",
+              "Start Date": "21-07-2025",
+              "End Date": "12-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Physics of Renewable Energy Systems",
+              "Level": "National",
+              "Organized by": "IIT Kharagpur",
+              "Place": "Kharagpur",
+              "Start Date": "21-07-2025",
+              "End Date": "12-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "A Ten Days Virtual International Faculty Development  Program on Frontiers in Material Science",
+              "Level": "International",
+              "Organized by": "Department of Physics",
+              "Place": "SRM Institute of Science and Technology, Ramapuram, Chennai",
+              "Start Date": "17-03-2025",
+              "End Date": "17-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advancements in Materials Science",
+              "Level": "National",
+              "Organized by": "Department of Physics",
+              "Place": "KPR institute of Engineering and Technology",
+              "Start Date": "20-01-2025",
+              "End Date": "24-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "One Week Faculty Development Program on   “Advances in Material Characterization and Data Processing  held at  (AMCDP-2024)",
+              "Level": "National",
+              "Organized by": "Department of Physics",
+              "Place": "Anurag University, Hyderabad, Telangana, India",
+              "Start Date": "15-05-2024",
+              "End Date": "20-05-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "DEVELOPMENT OF MATERIALS  CHARACTERIZATION TECHNIQUES AND THEIR FUTURE PROSPECTS",
+              "Level": "National",
+              "Organized by": "DEPARTMENT OF PHYSICS",
+              "Place": "Sri G.V.G Visalakshi College for Women, Udumalpet-642128.",
+              "Start Date": "18-12-2023",
+              "End Date": "22-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "FIVE DAYS FACULTY DEVELOPMENT PROGRAM  ON ADVANCED MATERIALS FOR ENERGY APPLICATIONS",
+              "Level": "National",
+              "Organized by": "Department of Physics and Centre for Nanoscience and Nanotechnology, IRC",
+              "Place": "Sathyabama Institute of Science and Technology, Chennai.",
+              "Start Date": "09-10-2023",
+              "End Date": "13-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "One  Week National Level Online Faculty Development Programme (FDP) on “Advanced Research  Methodology in Physical Sciences",
+              "Level": "National",
+              "Organized by": "Department of Physics",
+              "Place": "Rajapalayam Rajus’  College, Rajapalayam",
+              "Start Date": "03-10-2023",
+              "End Date": "09-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "One week FDP on Computational modelling of Materials",
+              "Level": "National",
+              "Organized by": "Department of Physics",
+              "Place": "Madanapalle Institute Technology and Science",
+              "Start Date": "08-05-2023",
+              "End Date": "12-05-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Select Programme": "FDP",
+              "Title of the program": "International online FDP on current scenario in Advanced Materials Research and Nanotechnology",
+              "Level": "International",
+              "Organized by": "Department of Physics",
+              "Place": "Rajapalayam Rajus’  College, Rajapalayam",
+              "Start Date": "14-11-2022",
+              "End Date": "18-11-2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of Paper": "Crystal growth, spectral characterization and DFT studies of a  Non-linear optical material (E)-2-hydroxy-N'-(2-hydroxybenzylidene)benzohydrazide",
+              "Title of Conference": "ANRF Sponsored 2nd International Conference on \"Sustainable Materials and Advances in Regenerative Technologies (SMART - 2.0)\"",
+              "Organized by": "Department of Science, Sona College of Technology, Salem .",
+              "Level": "International",
+              "Start Date": "29-01-2026",
+              "End Date": "30-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of Paper": "Molecular structure, vibrational spectra and computational studies of 3-amino-4-hydroxybenzene sulfonic acid",
+              "Title of Conference": "International Conference on Advanced Nanomaterials for Energy, Environment and Healthcare Applications (ANEH-2018)",
+              "Organized by": "Department of Physics",
+              "Level": "International",
+              "Start Date": "31-08-2018",
+              "End Date": "01-09-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of Paper": "Synthesis, molecular structure and spectral analysis of 3a,8a-Dihydroxy-2-thioxo-2,3,3a,8a-tetrahydroindeno[1,2-d]imidazol-8(1H)-one",
+              "Title of Conference": "International Conference on Energy, Environment and Engineering (ICEEE-2016)",
+              "Organized by": "Department of Chemistry and Department of Mechanical Engineering",
+              "Level": "International",
+              "Start Date": "29-02-2016",
+              "End Date": "02-03-2016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Kojibiose as a Sustainable Bioactive Molecule: Experimental and DFT Insights into Antibacterial Activity and Electronic Properties",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier Publishers",
+              "Start Date": "26-01-2026",
+              "End Date": "02-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Nonlinear Optical Properties of Pyrene-Based Chalcones: Insights from Experimental and Computational Studies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier Publishers",
+              "Start Date": "12-12-2025",
+              "End Date": "28-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Ligand substitution at Ni(CO)4 – computational discovery of a long-suspected “dark  pathway” and detailed analysis of the intrinsic reaction coordinate",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "American Chemical Society - Inorganic Chemistry  journal",
+              "Start Date": "06-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Impact of Iodine-Induced Nonplanarity on the Vibrational and Electronic Properties of Triphenylene Derivatives: A Combined Experimental and DFT Study",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier",
+              "Start Date": "21-10-2025",
+              "End Date": "05-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Predictive study on the radial structure of PAN preoxidized fibers based on density functional theory and optical density method",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier - Journal of Molecular Structure",
+              "Start Date": "26-09-2025",
+              "End Date": "29-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "ECOFEST'25",
+              "Role": "Jury/Judge",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Pasumaivanam Club",
+              "Start Date": "15-09-2025",
+              "End Date": "15-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Synthesis, Crystallographic Analysis, and Nonlinear Optical Properties of a Novel Thiosemicarbazone Derivative: A DFT Study",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Elsevier - Journal of Molecular Structure",
+              "Start Date": "24-07-2025",
+              "End Date": "04-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.SUDHA",
+              "Department": "PHR",
+              "Title of the Program": "Constitution of Doctoral Committee",
+              "Role": "DC Member",
+              "Level": "University",
+              "Organized by": "KEC",
+              "Start Date": "08-02-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": [
+            {
+              "Department": "PHR",
+              "Name of Supervisor": "DR.S.SUDHA",
+              "Title of the thesis for scholar": "Spectroscopic and Computational Investigations on certain Aromatic Compounds",
+              "Name of Scholar": "D. Shobana",
+              "Date of Registration": "18-01-2021",
+              "Registration No:": "21247691144",
+              "Status": "Completed",
+              "Type": "Part time",
+              "Scholarship": "",
+              "Date of Awarding PhD": "26-12-2025"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

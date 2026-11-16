@@ -1,0 +1,1256 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "R.AARTHI",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "DBMS, Networks, Machine Learning",
+              "Date of joining in KEC": "19-08-2021",
+              "Mobile": "9842571555",
+              "E-mail": "aarthikalai@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "14-06-2010"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Academic Degree": "B.Tech",
+              "Specialization": "Information Technology",
+              "From": "11-08-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "19-08-2021",
+              "End Date": "12-01-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Nandha College of Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "14-06-2025",
+              "End Date": "12-08-2025",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-R.AARTHI-70edf5fc-de83-424a-ab18-1b5c227b56b4.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091825Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8e339dc7cddfe997af9956c1bf88c7291b7e145f2da8d69604e281ddee1ade66",
+                  "name": "Aarthi.R(Experience-Nandha).pdf",
+                  "totalRecords": null,
+                  "resourceId": "YEAjqFxFe2PkTCijZ",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of Award/Achievement": "Best Faculty",
+              "Level": "Others",
+              "Awarded by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Astral Publications",
+              "Level": "National",
+              "Title": "Software Testing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Astral Publications",
+              "Level": "National",
+              "Title": "Programming and Linear Data Structures",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "06-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "UI Design Concepts and Practices",
+              "Level": "National",
+              "Title": "UI Design Concepts and Practices",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "30-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "TinyML on Microcontrollers: Enabling Energy-Efficient, Real-Time, Privacy-Preserving Incremental Learning for Embedded Systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "30-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Alzheimer’s Disease Prediction using Machine Learning techniques with the help of Electroencephalogram Brain Signal",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Systems Design and Applications. ISDA 2023. Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Enhancing Safety in Smart Homecare System Through Deep Learning Based Fall Detection",
+              "Volume No": "1047",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "25-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ISDA 2023, LNNS",
+              "Level": "International",
+              "Title": "Brain Stroke Prediction Using Machine\nLearning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "18-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 3rd IEEE International Conference on Artificial Intelligence for Internet of Things (AIIoT 2024)",
+              "Level": "International",
+              "Title": "Identification of Fake Logo Detection Using Deep Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-05-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Exploring deep learning techniques in healthcare sectors for\nclinical traits",
+              "Volume No": "2790",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "24-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "www.sciencedirect.com/journal/measurement-sensors",
+              "Level": "International",
+              "Title": "Security enhancement and attack detection using optimized hybrid deep\nlearning and improved encryption algorithm over Internet of Things",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "20-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book",
+              "Level": "State",
+              "Title": "Exploring the knowledge in C",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-01-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of   Engineering Trends and Technology",
+              "Level": "International",
+              "Title": "A Disease Detection in Plant Leaf using LNet Based on Deep Learning",
+              "Volume No": "70",
+              "Issue No": "9",
+              "Year": "2022",
+              "Date": "22-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Engineering Trends and Technology",
+              "Level": "International",
+              "Title": "A Systematic Review using Machine Learning Algorithms for Predicting Preterm Birth",
+              "Volume No": "70",
+              "Issue No": "5",
+              "Year": "2022",
+              "Date": "18-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Mercury Publication",
+              "Level": "State",
+              "Title": "Theory of Computation",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Mobile Multimedia",
+              "Level": "International",
+              "Title": "Micronutrient Deficiency Detection\nwith Fingernail Images Using Deep\nLearning Techniques",
+              "Volume No": "18_3",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "11-01-2022",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "P. M.TEXTILES",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "04-01-2026",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "30000"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Friends Car Care",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "11-01-2025",
+              "Date of Consultancy (To)": "09-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10030"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Sivakami Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "06-01-2025",
+              "Date of Consultancy (To)": "10-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Bannari Agro Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "23-01-2024",
+              "Date of Consultancy (To)": "23-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8900"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "S.P Checking Center",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "23-01-2024",
+              "Date of Consultancy (To)": "23-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8850"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "New Cape Hotel",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "10-02-2023",
+              "Date of Consultancy (To)": "25-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "8850"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sivam Infotech",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Website Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "16-03-2022",
+              "Date of Consultancy (To)": "25-07-2022",
+              "Revenue Generated (amount in Rupees without GST)": "8899"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VCO50-UI/UX Design using Figma Tool",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "09-02-2026",
+              "End Date": "12-03-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Git and Docker: Core Tools for Modern Software Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-02-2026",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Exploring Web Development :Foundations to Future",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "04-10-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Exploring Generative Artificial Intelligence(GEN AI) : A Foundational approach",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-09-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Building an Interactive Website Application using NodeJS with MongoDB",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "26-04-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Data Visualization with Microsoft Power BI",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "29-03-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Bug-Free Browsing: Selenium Java for Beginners",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "29-03-2025",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Zero Coding Data Analytics for IOT using Node Red",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "20-10-2021",
+              "End Date": "24-10-2021",
+              "Duration": "5 days",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Application Development using MLops",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Empowering Digital Defence - A Pragmatic approach to Cyber Security",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Human Computer Interaction(English)",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "28-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Quantum Computing",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-12-2025",
+              "End Date": "21-12-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft power BI Data Analyst",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-12-2025",
+              "End Date": "13-01-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Internet of Things",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "20-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design and Implementation of Human computer Interface",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Gen Educators: Harnessing the power of Machine Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2025",
+              "End Date": "01-10-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Evolving Landscape of Data science -Current Trends & Patterns",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-09-2025",
+              "End Date": "27-09-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analysis Using Spread sheets",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "13-09-2025",
+              "End Date": "20-09-2021"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Cloud Computing",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-09-2025",
+              "End Date": "11-09-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence’s Impact on Transforming Software, Robotics, Electrical, Electronic and Mechanical Fields",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-08-2025",
+              "End Date": "03-09-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data analytics & computational Modelling for Innovations in Education and Research",
+              "Level": "National",
+              "Organized by": "Rajalakshmi Engineering College",
+              "Place": "Chennai",
+              "Start Date": "25-08-2025",
+              "End Date": "30-08-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Amazon Web Services",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-08-2025",
+              "End Date": "27-08-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cloud Infrastructure(AWS)",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-08-2025",
+              "End Date": "25-08-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Frontiers in Multidisciplinary Research",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-08-2025",
+              "End Date": "22-08-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Technologies for eGeneration Networks",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "17-07-2025",
+              "End Date": "22-07-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Excellence in University Teaching and Research",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-07-2025",
+              "End Date": "20-07-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Full stack Development",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-07-2025",
+              "End Date": "15-07-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Application",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Microsoft Azure AI Engineer Associate",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-05-2025",
+              "End Date": "27-05-2022"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Impact of Machine Learning, Deep Learning and AI, Industrial perspective",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-05-2025",
+              "End Date": "10-05-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "ICT Tools for Researchers and Teachers",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "5 Days",
+              "Start Date": "18-03-2025",
+              "End Date": "23-01-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Integrated AI in Data Science and its Application n Cloud",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-03-2025",
+              "End Date": "10-03-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Fundamentals of Data Science",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "30-01-2025",
+              "End Date": "02-02-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design & Implementation of Human-Computer Interfaces",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "28-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Designing Learner-Centric E-Learning In Stem Disciplines",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "22-09-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Education 5.0",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-05-2023",
+              "End Date": "19-05-2025"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Research Methodology and Data Analytics tools",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "13-03-2023",
+              "End Date": "17-03-2023"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Advanced Problem solving skills through coding Platforms",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-02-2023",
+              "End Date": "11-02-2035"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Cloud Computing",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "28-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Contemporary Computing Technologies",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-06-2022",
+              "End Date": "28-06-2022"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Machine Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Role of Post Quantum Crypotography in Defense and security of Future India",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-02-2022",
+              "End Date": "03-02-2022"
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Analytics and Machine Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-09-2021",
+              "End Date": "24-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "CSI",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "28-01-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Title of Paper": "Brain Stroke Prediction Using Machine Learning.",
+              "Title of Conference": "Lecture Notes in Networks and Systems",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-11-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Title of Paper": "Exploring deep learning techniques in healthcare sectors for clinical traits",
+              "Title of Conference": "International conference for phoenixes on Emerging Current Trends in Engineering and  Management",
+              "Organized by": "Panimalar Engineering College",
+              "Level": "International",
+              "Start Date": "13-01-2022",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Title of the Program": "Integrating AI into IOT Architecture",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "04-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Title of the Program": "Zero Coding: Data Analysis for IoT using Node-Red",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "11-09-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "R.AARTHI",
+              "Department": "ITR",
+              "Title of the Program": "Zero Coding: Data Analysis for IoT using Node-Red",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "24-11-2022",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

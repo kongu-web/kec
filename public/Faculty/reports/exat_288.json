@@ -1,0 +1,686 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Embedded System Technologies",
+              "Date of joining in KEC": "12-06-2024",
+              "Mobile": "9943201055",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Wearable antennas",
+              "From": "09-01-2020"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "EMBEDDED SYSTEM TECHNOLOGIES",
+              "From": "01-06-2010"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "18-08-2005"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "Vellore Institute of Technolgogy",
+              "Position/Designation": "Junior research fellow-Project staff",
+              "Start Date": "08-01-2020",
+              "End Date": "26-02-2024",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.ARULMURUGAN-b7a0130b-8d1a-4c0d-86d1-6c8193516d0f.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=32560ab68e9b6584e9041a6d41542452a3c1eeb1123051fcf8361bd7ddea578c",
+                  "name": "VIT service certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "KYXbTJXJdNmpzCoED",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.ARULMURUGAN-1d22baf4-e2c6-4b04-a8ad-bf37f576172a.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=baa73a31c433a9a345b8ae6572db8445603157e2a06e1fee73437a54a2c737bb",
+                  "name": "VIT service certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "ufu8df6wX78v7sddY",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "SELVAM COLLEGE OF TECHNOLOGY",
+              "Position/Designation": "ASSISTANT PROFESSOR",
+              "Start Date": "04-06-2012",
+              "End Date": "06-07-2020",
+              "Duration": "7.5",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.ARULMURUGAN-eafba489-81ef-4af4-a046-c9f6e99280bc.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fef6ae6ee6cfefee2efc26af39b110a4a31d91d4a19bc5713e20e28095983a0b",
+                  "name": "SELVAM.pdf",
+                  "totalRecords": null,
+                  "resourceId": "zTFyrpGMrk5kB8zQP",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ECR-S.ARULMURUGAN-4e0ad51e-058c-4b73-91a0-440b5887d489.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6ab3c488bac51321d74e4293c6e68521c27448eb10ead3be9f37a88d55e23099",
+                  "name": "SELVAM.pdf",
+                  "totalRecords": null,
+                  "resourceId": "69w9KfJm252dmZwWi",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Name of Award/Achievement": "FAER SCHOLAR AWARD 2026",
+              "Level": "National",
+              "Awarded by": "FAER-FOUNDATION FOR ADVANCEMENT OF EDUCATION RESEARCH",
+              "Place": "",
+              "Date": "10-11-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Name of Award/Achievement": "FAER-SCHOLAR AWARDS",
+              "Level": "National",
+              "Awarded by": "FAER",
+              "Place": "",
+              "Date": "10-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Soil Nutrient Monitoring based on IoT Enabled\nMachine Learning Approach for Crop Suitability\nRecommendation for Sustainable Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Future of Internet of Bio-Nano Things in Personalized Healthcare",
+              "Level": "International",
+              "Title": "Case study on nano-biosensors and wearable biosensor devices for\npersonalized healthcare applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-12-2025",
+              "Published at": "Elesiver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ammu Paper Corporations",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "18-12-2025",
+              "Date of Consultancy (To)": "18-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SAN TECHNOVATION",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "18-12-2025",
+              "Date of Consultancy (To)": "18-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Velmurugan Agencies, 314, Rasikumaripalayam Street, Mohanur, Namakkal, Tamil Nadu",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "02-02-2025",
+              "Date of Consultancy (To)": "08-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Type of Event": "FDP",
+              "Name of Event": "Advancement in Antenna Technologies for next generation wireless communications and Bio-EM Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025",
+              "Duration": "6 Days",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Digital Electronic Circuits",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI powered VLSI for Smart Applications",
+              "Level": "National",
+              "Organized by": "PRATHYUSHA ENGINEERING COLLEGE",
+              "Place": "",
+              "Start Date": "24-09-2025",
+              "End Date": "29-12-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "19-06-2025",
+              "End Date": "21-06-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "Training Program",
+              "Title of the program": "IOT concepts and Applications",
+              "Level": "National",
+              "Organized by": "Enthu Technology",
+              "Place": "Coimbatore",
+              "Start Date": "02-06-2025",
+              "End Date": "06-06-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Microprocessor and Microcontroller",
+              "Level": "National",
+              "Organized by": "Swayam",
+              "Place": "KEC",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-10-2024",
+              "End Date": "15-10-2024"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "19-08-2024",
+              "End Date": "28-08-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of Paper": "Soil Nutrient Monitoring Based on IoT Enabled Machine Learning Approach for Crop Suitability Recommendation for Sustainable Agriculture",
+              "Title of Conference": "ICADS",
+              "Organized by": "IEEE CONFERENCE",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "25-06-2026"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of Paper": "Substrate Integrated Waveguide Third Order Multi Channel Crossover",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "18-12-2025",
+              "End Date": "19-12-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of Paper": "Investigation of Optical Wavelength Converters for Advanced Modulation Formats using Four-Wave Mixing in Semiconductor Optical Amplifiers",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of the Program": "Smart antenna design through CST simulation Software",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "SA Engineering College",
+              "Start Date": "06-10-2025",
+              "End Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of the Program": "Digital System Design",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Selvam College of Technology",
+              "Start Date": "09-08-2025",
+              "End Date": "09-08-2025"
+            },
+            {
+              "Name of Faculty": "S.ARULMURUGAN",
+              "Department": "ECR",
+              "Title of the Program": "Smart Wearable antennas for Real time Biomedical monitoring and Diagnosis\"",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Nandha Engineering College",
+              "Start Date": "23-06-2025",
+              "End Date": "30-04-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

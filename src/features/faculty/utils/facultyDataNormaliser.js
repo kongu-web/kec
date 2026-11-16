@@ -162,10 +162,10 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
 
   const name = formatFacultyName(rawPersonal['Name'] || r.name || baseRecord.name || '');
   const designation = formatDesignation(rawPersonal['Designation'] || r.designation || baseRecord.designation || 'Faculty Member');
-  const email = rawPersonal['E-mail'] || baseRecord.email || r.email || 'civil.pradeep@gmail.com';
-  const phone = rawPersonal['Mobile'] || baseRecord.phone || r.phone || 'N/A';
-  const dateOfJoining = rawPersonal['Date of joining in KEC'] || baseRecord.dateOfJoining || r.dateOfJoining || '24-06-2009';
-  const specialisation = rawPersonal['Area of Specialisation'] || baseRecord.specialisation || r.specialisation || 'Environmental Engineering';
+  const email = rawPersonal['E-mail'] || baseRecord.email || r.email || '';
+  const phone = rawPersonal['Mobile'] || baseRecord.phone || r.phone || '';
+  const dateOfJoining = rawPersonal['Date of joining in KEC'] || baseRecord.dateOfJoining || r.dateOfJoining || '';
+  const specialisation = rawPersonal['Area of Specialisation'] || baseRecord.specialisation || r.specialisation || '';
 
   // 2. Education / Qualifications
   let rawEducation = [];
@@ -461,7 +461,7 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     dateOfJoining,
     highestQualification,
     specialisation,
-    teachingExperienceFormatted: expMetrics.teachingExperienceFormatted || '17+ Years',
+    teachingExperienceFormatted: expMetrics.teachingExperienceFormatted || '',
     industryExperienceFormatted: expMetrics.industryExperienceFormatted || 'Nil',
     keyMetrics,
     education,

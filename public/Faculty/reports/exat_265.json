@@ -1,0 +1,764 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "VLSI Design",
+              "Date of joining in KEC": "01-06-2012",
+              "Mobile": "8760080999",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "VLSI Design",
+              "From": "01-01-2015"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Renewable and Sustainable Energy",
+              "Level": "International",
+              "Title": "Multi-agent energy scheduling in renewable-rich grids using a cooperative reinforcement learning game framework",
+              "Volume No": "18",
+              "Issue No": "2",
+              "Year": "2026",
+              "Date": "01-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Berlin Heidelberg",
+              "Level": "International",
+              "Title": "Machine learning for river water quality monitoring: assessing seasonal and agricultural influences",
+              "Volume No": "84",
+              "Issue No": "21",
+              "Year": "2025",
+              "Date": "25-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Environmental Monitoring and Assessment",
+              "Level": "International",
+              "Title": "KERN?HIC: a hyperspectral remote sensing model for land cover classification and land use monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "14-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ultrasonic Imaging",
+              "Level": "International",
+              "Title": "Complex-Valued Spatio-Temporal Graph Convolution Neural Network optimized With Giraffe Kicking Optimization Algorithm for Thyroid Nodule Classification in Ultrasound Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "08-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Indonesian Journal of Electrical Engineering and Informatics (IJEEI)",
+              "Level": "International",
+              "Title": "Wn-Based Skin Cancer Lesion Segmentation of Melanoma Using Deep Learning Methods",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "14-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Medical Engineering and Informatics",
+              "Level": "International",
+              "Title": "Face recognition-based security system for automated teller machine using deep face model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "02-06-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Rotract Club Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "12-02-2026",
+              "Date of Consultancy (To)": "12-05-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "30-09-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "Fellow",
+              "Level": "International",
+              "Start Date": "01-05-2024",
+              "End Date": "02-12-2032"
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IEEE",
+              "Position": "Senior Member",
+              "Level": "International",
+              "Start Date": "01-01-2024",
+              "End Date": "31-12-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Power Optimized AES Using CFA for Secure Memory Access and FPGA Implementation",
+              "Title of Conference": "2025 Fourth International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "21-11-2025",
+              "End Date": "23-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Personalized Healthcare Insights AI Driven Predictive Analysis and Intervention",
+              "Title of Conference": "2025 Fourth International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "21-11-2025",
+              "End Date": "23-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Analysis of Post-Traumatic Stress Disorder (PTSD) Using Electroencephalography",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Denoising of MRI and Brain Tumor Classification using Local Binary Pattern and SVM Classifier",
+              "Title of Conference": "2025 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "11-02-2025",
+              "End Date": "13-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Optimization of Memory Usage in High-Speed Cameras using FPGA",
+              "Title of Conference": "3rd International Conference on Electronics and Renewable Systems, ICEARS 2025 - Proceedings",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "11-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Optimization of Memory Usage in High-Speed Cameras using FPGA",
+              "Title of Conference": "2025 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "11-02-2025",
+              "End Date": "13-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Denoising of MRI and Brain Tumor Classification using Local Binary Pattern and SVM Classifier",
+              "Title of Conference": "3rd International Conference on Electronics and Renewable Systems, ICEARS 2025 - Proceedings",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "11-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Block chain and Deep Learning Based Secure Communication using SAE-LSTM &salp Swarm Optimizer for Multivariate Industrial IoT-oriented Infrastructure",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "An Intelligent Agent Based Optimal Scheduling & Congestion Free Routing Scheme to Enhance QoS of NFV Enabled Heterogeneous Wireless Sensor Network Framework",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies, ICCCNT 2024",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "A Hybrid Approach for Diagnosing Diabetic Retinopathy in Retinal Fundus Images using an Adaptive Canny Edge Detection approach",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Power Factor Improvement using Modified STATCOM in Power System Distribution",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Design and Analysis of 4 Bit Multipliers Using Pass Transistor Logic and Gate Diffusion Input Technique Using 18nm FinFET Technology",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Dynamic Current Regulation in a Bidirectional AC-DC converter for Renewable Energy Applications",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Performance Improvement of Lithium-ion Battery for Battery EVs",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Smart Aeroponic Farms with IoT-Enabled Efficient Automation and Monitoring",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Implementation of EEG Signal Decomposition and Feature Extraction Through Efficient Wavelet Transforms",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Design of Content-Addressable Memory for Big Data Applications Using 18nm FINFET Technology",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Extraction of Electroencephalography (EEG) Features to categorize the Mental Disorder",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "FPGA Implementation of XOR-MUX based Full Adder and Truncated Multiplier for Signal Processing Applications",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Low Power, High Speed Current Starved Ring Oscillator based ADC using 18nm FinFET Technology",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Enhanced Health Monitoring System for Internet of Medical Things using Machine Learning",
+              "Title of Conference": "2024 Second International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Intelligent Automation in Long Vehicles through LDR Sensor Technology for Accident Prevention",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Low Power and Enhanced Data Retention Time in DRAM in FinFET Technology",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Implementation of Power Efficient Smart Helmet System for Road Safety and Rider's Convenience using Pico Board",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Resnet -101 and Faster R-CNN Fusion Accurate Brain Tumor Detection and Categorization",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-03-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.K.KAVIN KUMAR",
+              "Department": "ECR",
+              "Title of Paper": "Investigation on optimization of biodiesel production using machine learning techniques",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-03-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

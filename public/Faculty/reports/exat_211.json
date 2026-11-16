@@ -1,0 +1,1353 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.RAJA",
+              "Department": "EIR",
+              "Designation": "",
+              "Area of Specialisation": "MEDICAL IMAGE PROCESSING",
+              "Date of joining in KEC": "06-07-2009",
+              "Mobile": "9940227092",
+              "E-mail": "mraja4@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Medical Image Processing",
+              "From": "28-10-2024"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Category": "OTHERS",
+              "Reference No": "25PGIITISM579",
+              "Roll No": "25PGIITISM579",
+              "Year": "2025",
+              "Specialization": "AI and DS in Smart Health Care",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "06-07-2009",
+              "End Date": "22-04-2025",
+              "Contribution to the Institute": "Faculty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Silver Medal",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "NPTEL ONLINE",
+              "Date": "11-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of Award/Achievement": "SILVER MEDAL",
+              "Level": "National",
+              "Awarded by": "NPTEL-IISC",
+              "Place": "CHENNAI",
+              "Date": "11-05-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of Award/Achievement": "NPTEL TOPPER-2%",
+              "Level": "Others",
+              "Awarded by": "IIT MADRAS",
+              "Place": "IIT MADRAS",
+              "Date": "16-11-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Expert Clouds and Applications (ICOECA-2026)",
+              "Level": "International",
+              "Title": "LoRa based Fluid Monitoring System for Boiler Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "12-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4 th International Conference on Electronics and Renewable system(ICEARS 2026)",
+              "Level": "International",
+              "Title": "Cane Feeder Table Automation System using Factory I/O",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-02-2026",
+              "Published at": "IEEE XPLORE"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE2025 4th International Conference on Sentiment Analysis and Deep Learning (ICSADL)",
+              "Level": "International",
+              "Title": "ENHANCING DOGO ROVER CAPABILITIES WITH INTEGRATED AERIAL SURVEILLANCE AND AUTONOMY",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2025",
+              "Date": "25-04-2025",
+              "Published at": "IEEE XPLORE"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "HEAT RESILIENCE IN CERAMIC HEATERS LONGEVITY",
+              "Volume No": "-",
+              "Issue No": "-",
+              "Year": "2025",
+              "Date": "27-03-2025",
+              "Published at": "IEEE XPLORE"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Engineering Proceedings",
+              "Level": "International",
+              "Title": "AN IoT BASED SMART IRRIGATION SYSTEM",
+              "Volume No": "66",
+              "Issue No": "13",
+              "Year": "2024",
+              "Date": "05-07-2024",
+              "Published at": "MDPI"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Expert Systems with Applications",
+              "Level": "International",
+              "Title": "A hybrid approach to segment and detect brain abnormalities from MRI scan",
+              "Volume No": "216",
+              "Issue No": "119435",
+              "Year": "2023",
+              "Date": "15-04-2023",
+              "Published at": "Expert Systems with Applications"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Biosc.Biotech.Res.Comm",
+              "Level": "International",
+              "Title": "Symmetric Particle Based Feature Detection in Medical and Natural Images",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "25-06-2020",
+              "Published at": "Biosc.Biotech.Res.Comm"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Science and Technology",
+              "Level": "International",
+              "Title": "Automated Health Monitoring System For Paralyzed",
+              "Volume No": "29",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "18-05-2020",
+              "Published at": "International Journal of Advanced Science and Technology"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SSRG International Journal of Electronics and Communication Engineering (SSRG-IJECE)",
+              "Level": "International",
+              "Title": "Automatic Bus card Checker",
+              "Volume No": "6",
+              "Issue No": "11",
+              "Year": "2019",
+              "Date": "11-11-2019",
+              "Published at": "SSRG International Journal of Electronics and Communication Engineering (SSRG-IJECE)"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Intellectual Advancements and Research in Engineering Computations",
+              "Level": "International",
+              "Title": "Noise Removal in Medical Images using Shearlet Transform",
+              "Volume No": "7",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "15-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Image Processing and Pattern Recognition.",
+              "Level": "International",
+              "Title": "Review on Medical Image Enhancement Techniques",
+              "Volume No": "5",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "02-03-2019",
+              "Published at": "International Journal of Image Processing and Pattern Recognition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "MEDICAL DEVICE HANDLING AND GENERAL SERVICING",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "28-02-2026",
+              "End Date": "09-03-2026",
+              "Duration": "5 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "BMI LAB"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Real Time Analysis of Sensors and Transducers using MATLAB",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "05-09-2025",
+              "End Date": "24-10-2025",
+              "Duration": "5 DAYS",
+              "Role played": "Coordinator",
+              "Venue": "EEE DSP LAB"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Current Trends in Machine Learning and Medical Imaging Approaches in Healthcare",
+              "Collaboration/Sponsored by": "DBT",
+              "Level": "National",
+              "Start Date": "21-07-2022",
+              "End Date": "22-07-2022",
+              "Duration": "2 Days",
+              "Role played": "Convener",
+              "Venue": "Online"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Radio Chromic Film:Role and Applications in Radiation Dosimetry",
+              "Collaboration/Sponsored by": "ATOMIC ENERGY REGULATORY BOARD(AERB)",
+              "Level": "National",
+              "Start Date": "13-12-2019",
+              "End Date": "14-12-2019",
+              "Duration": "2 Days",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Molecular Imaging in Therapeutic Applications",
+              "Collaboration/Sponsored by": "DBT",
+              "Level": "National",
+              "Start Date": "29-07-2016",
+              "End Date": "30-07-2016",
+              "Duration": "2 DAYS",
+              "Role played": "Joint Convener",
+              "Venue": "Homi.J.Bhabha Seminar Hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "FutureTech Nexus: Converging Quantum Computing, AIoT and Digital Twins for Next-Generation Intelligent Systems",
+              "Level": "Online",
+              "Organized by": "Department of Information Technology, Dr. N.G. P. Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "21-09-2026",
+              "End Date": "26-09-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "AI DRIVEN PERCEPTION, LEARNING AND MAPPING FOR DRONES",
+              "Level": "National",
+              "Organized by": "INDIAN INSTITUTE OF SCIENCE ,BANGALORE",
+              "Place": "BANGALORE",
+              "Start Date": "01-07-2026",
+              "End Date": "25-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "BIOMEDICAL ULTRASOUND: FUNDAMENTALS OF IMAGING AND MICROMACHINED TRANSDUCERS",
+              "Level": "National",
+              "Organized by": "IIT GANDHINAGAR&IISC BANGALORE",
+              "Place": "-",
+              "Start Date": "01-07-2026",
+              "End Date": "17-10-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "IoT Ecosystem: Devices, Connectivity, Platforms, and Applications",
+              "Level": "Online",
+              "Organized by": "Aditya University",
+              "Place": "Surampalem, A.P",
+              "Start Date": "27-01-2026",
+              "End Date": "31-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Microsensors, Implantable Devices and Rodent Surgeries for Biomedical Applications",
+              "Level": "National",
+              "Organized by": "NPTEL-IISC",
+              "Place": "BANGALORE",
+              "Start Date": "05-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Foundations of Deep Learning: Concepts and Applications",
+              "Level": "National",
+              "Organized by": "NPTEL-IISC",
+              "Place": "BANGALORE",
+              "Start Date": "05-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning and Generative AI",
+              "Level": "National",
+              "Organized by": "Adhitya University",
+              "Place": "Surempalem,AP",
+              "Start Date": "05-08-2025",
+              "End Date": "16-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "BIOMEDICAL INSTRUMENTATION",
+              "Level": "National",
+              "Organized by": "IIT MADRAS",
+              "Place": "CHENNAI",
+              "Start Date": "02-07-2025",
+              "End Date": "24-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "Others",
+              "Title of the program": "AI and DS for Smart Healthcare",
+              "Level": "National",
+              "Organized by": "IIT(ISM) DHANBAD",
+              "Place": "JHARKHAND",
+              "Start Date": "02-06-2025",
+              "End Date": "16-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Tools For Research and Teaching",
+              "Level": "National",
+              "Organized by": "Department of Artificial Intelligence, St.Xavier's college(Autonomous)",
+              "Place": "palayamkottai",
+              "Start Date": "09-03-2025",
+              "End Date": "09-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "AIApplications in Neuroimaging: Unlocking New Possibilities for Neurological Care",
+              "Level": "National",
+              "Organized by": "SASTRA Deemed University",
+              "Place": "THANJAVUR",
+              "Start Date": "23-01-2025",
+              "End Date": "24-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "A brief introduction of Micro - Sensors",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "PERUNDURAI",
+              "Start Date": "20-01-2025",
+              "End Date": "16-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "DEMYSTIFYING THE BRAIN",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "PERUNDURAI",
+              "Start Date": "20-01-2025",
+              "End Date": "16-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Working with Emotional Intelligence and Life Skills Management ( WEILSM )",
+              "Level": "International",
+              "Organized by": "Department of English, Bapatla Engineering College (Autonoumous)",
+              "Place": "Bapatla Dist. A.P.",
+              "Start Date": "02-12-2024",
+              "End Date": "06-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "National",
+              "Organized by": "JEPPIAAR INSTITUTE OF TECHNOLGY",
+              "Place": "Kunnam, Sunguvarchatram",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Ethical Issues in Research Writing",
+              "Level": "International",
+              "Organized by": "Regional College for Education Research and Technology",
+              "Place": "Jaipur",
+              "Start Date": "11-09-2024",
+              "End Date": "16-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Industrial Applications of Embedded Systems and IoT",
+              "Level": "National",
+              "Organized by": "Department of Electronics and Communication Engineering, Rajalakshmi Engineering College",
+              "Place": "Chennai",
+              "Start Date": "22-08-2024",
+              "End Date": "28-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Latest developments in RF Technologies in 5G and Beyond",
+              "Level": "National",
+              "Organized by": "REC",
+              "Place": "CHENNAI",
+              "Start Date": "30-07-2024",
+              "End Date": "06-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Computational Sciences",
+              "Level": "National",
+              "Organized by": "Amity Institute of Applied Sciences Department of Statistics and Mathematics, Amity University Kolkata",
+              "Place": "Kolkata",
+              "Start Date": "22-07-2024",
+              "End Date": "26-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Android Basics with Compose",
+              "Level": "National",
+              "Organized by": "ICT Academy",
+              "Place": "CHENNAI",
+              "Start Date": "08-07-2024",
+              "End Date": "12-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Intellectual Property Rights in the age of AI, ML, Cyber Security and Blockchain",
+              "Level": "National",
+              "Organized by": "Mangalmay Institute of Management and Technology",
+              "Place": "Gr.Noida",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Artificial Intelligence and Machine Learning",
+              "Level": "National",
+              "Organized by": "Bonam Venkata Chalamayya Engineering college",
+              "Place": "odalarevu",
+              "Start Date": "18-06-2024",
+              "End Date": "22-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "OBE & NEP 2020",
+              "Level": "National",
+              "Organized by": "VIT-AP UNIVERSITY",
+              "Place": "KAVALI",
+              "Start Date": "10-06-2024",
+              "End Date": "14-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "Seminar",
+              "Title of the program": "IP Awareness/Training program",
+              "Level": "National",
+              "Organized by": "Intellectual Property Office, India",
+              "Place": "India",
+              "Start Date": "20-03-2024",
+              "End Date": "20-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "n Next Generation AI – Research Perspectives",
+              "Level": "National",
+              "Organized by": "N A T IO N A L I N S T I TUT E OF T EC H N OLOGY N AGA L A N D Ch u m u k e d i m a",
+              "Place": "N a g a l a n d",
+              "Start Date": "18-03-2024",
+              "End Date": "22-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Life Skills Management & Innovative Teaching Strategies",
+              "Level": "National",
+              "Organized by": "NATIONAL  INSTITUT E  OF  TECHNOLOGY",
+              "Place": "NAGALAND",
+              "Start Date": "04-03-2024",
+              "End Date": "08-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "DEEP LEARNING",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "10-07-2023",
+              "End Date": "29-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Electrocardiogram - Interpretation and application in clinical practice",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "04-07-2022",
+              "End Date": "20-08-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Leadership",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "10-01-2022",
+              "End Date": "12-02-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Stress Management",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "07-09-2020",
+              "End Date": "31-10-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Medical Image Analysis",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "03-02-2020",
+              "End Date": "28-03-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Biomedical nanotechnology",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "05-08-2019",
+              "End Date": "29-09-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Biomaterials for bone tissue engineering applications",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "01-07-2019",
+              "End Date": "22-09-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Introduction to Soft Computing",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "07-01-2019",
+              "End Date": "24-03-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "DIGITAL IMAGE PROCESSING",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "02-07-2018",
+              "End Date": "31-10-2018"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "MEDICAL BIOMATERIALS",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "CHENNAI",
+              "Start Date": "31-03-2018",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "BIOLOGY FOR ENGINEERS",
+              "Level": "Others",
+              "Organized by": "IIT BOMBAY",
+              "Place": "MUMBAI",
+              "Start Date": "05-06-2017",
+              "End Date": "09-06-2017"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "\"Biomedical Imaging Informatics -Analysis, Diagnosis, Probabilistic and Mathematical Physics of Various Biomedical Image Computing Algorithms for Human Health Care",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai, Erode.",
+              "Start Date": "06-09-2016",
+              "End Date": "19-09-2016"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Industrial and Medical Instrumentation",
+              "Level": "National",
+              "Organized by": "R.M.K ENGINEERING COLLEGE,CHENNAI",
+              "Place": "CHENNAI",
+              "Start Date": "27-05-2011",
+              "End Date": "10-06-2011"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "International Workshop on Biomedical Sciences and Technologies",
+              "Level": "International",
+              "Organized by": "Anna University, Chennai",
+              "Place": "CHENNAI",
+              "Start Date": "02-03-2011",
+              "End Date": "04-03-2011"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Energy Solutions for Developing Green India",
+              "Level": "National",
+              "Organized by": "KEC,PERUNDURAI",
+              "Place": "ERODE",
+              "Start Date": "24-02-2011",
+              "End Date": "25-02-2011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "Institute For Educational Research and Publication",
+              "Position": "MEMBER",
+              "Level": "International",
+              "Start Date": "12-03-2025",
+              "End Date": "31-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "International Association of Engineers",
+              "Position": "MEMBER",
+              "Level": "International",
+              "Start Date": "28-09-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "LoRa based Fluid Monitoring System for Boiler Applications",
+              "Title of Conference": "6th International Conference on Expert Clouds and Applications (ICOECA-2026) on 9-12 March 2026,",
+              "Organized by": "R.V College of Engineering ,Bengaluru.",
+              "Level": "International",
+              "Start Date": "09-03-2026",
+              "End Date": "12-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "Cane Feeder Table Automation System using Factory I/O",
+              "Title of Conference": "4th International Conference on Electronics and Renewable Systems (ICEARS 2026)",
+              "Organized by": "St.Mother Therasa Engineering College",
+              "Level": "International",
+              "Start Date": "11-02-2026",
+              "End Date": "13-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "ENHANCING DOGO ROVER CAPABILITIES WITH INTEGRATED AERIAL SURVEILLANCE AND AUTONOMY",
+              "Title of Conference": "Second International Conference on Machine Learning and Autonomous Systems (ICMLAS-2025)",
+              "Organized by": "Stamford International University,Bangkok,Thailand.",
+              "Level": "International",
+              "Start Date": "10-03-2025",
+              "End Date": "12-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "HEAT RESILIENCE IN CERAMIC HEATERS LONGEVITY",
+              "Title of Conference": "4th International Conference on Sentiment Analysis and Deep Learning ICSADL 2025",
+              "Organized by": "Far Western University, Bhimdatta,Nepal",
+              "Level": "International",
+              "Start Date": "18-02-2025",
+              "End Date": "20-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "FIRE TRACE SUPPRESSION SYSTEM FOR COIR INDUSTRY",
+              "Title of Conference": "2024 INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION AND INFORMATICS(IEEE-ICCCI-24)",
+              "Organized by": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY,Coimbatore - 62, India.",
+              "Level": "International",
+              "Start Date": "29-01-2024",
+              "End Date": "31-01-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "IOT BASED SMART NEWS READER SYSTEM",
+              "Title of Conference": "International Conference on Intelligent Computing and Smart Communication Systems (ICICSCS’23)",
+              "Organized by": "Sri Eswar college of Engineering,Coimbatore.",
+              "Level": "International",
+              "Start Date": "21-12-2023",
+              "End Date": "22-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "INTERNAL PIPE COATING EQUIPMENT",
+              "Title of Conference": "5th Innovative Product Design and Intelligent Manufacturing Systems,NIT Rourkela.",
+              "Organized by": "NIT Rourkela",
+              "Level": "International",
+              "Start Date": "06-12-2023",
+              "End Date": "07-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "Automatic Underground Water Pipeline Fault Detection with Control in IoT",
+              "Title of Conference": "International Conference on 4th Innovative Product Design and Intelligent Manufacturing Systems",
+              "Organized by": "Department of Industrial design and Department of Mechanical Engineering of NIT,Rourkela",
+              "Level": "International",
+              "Start Date": "06-12-2023",
+              "End Date": "07-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "HOME AUTOMATION USING NEAR FIELD COMMUNICATION",
+              "Title of Conference": "5th Innovative Product Design and Intelligent Manufacturing Systems,NIT Rourkela.",
+              "Organized by": "NIT Rourkela.",
+              "Level": "International",
+              "Start Date": "06-12-2023",
+              "End Date": "07-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "IoT BASED SMART IRRIGATION SYSTEM",
+              "Title of Conference": "5th Innovative Product Design and Intelligent Manufacturing Systems,NIT Rourkela.",
+              "Organized by": "NIT Rourkela",
+              "Level": "International",
+              "Start Date": "06-12-2023",
+              "End Date": "07-12-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "SMART SOLAR PANEL CLEANING SYSTEM",
+              "Title of Conference": "DST-SERB Sponsored  Second International Conference on signal processing and communication system",
+              "Organized by": "M.Kumarasamy College of Engineering,Karur",
+              "Level": "International",
+              "Start Date": "07-03-2023",
+              "End Date": "07-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "Performance Enhancement & Prediction of Solar Air Heater with Quatrefoil Shaped Artificial Roughness Using Adaptive Neuro Fuzzy Inference System",
+              "Title of Conference": "International Conference on Edge Computing and Applications (ICECAA)",
+              "Organized by": "Department of Electronics and Communication Engineering,Gnanamani College of Technology,Namakkal, India.",
+              "Level": "International",
+              "Start Date": "13-10-2022",
+              "End Date": "15-10-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "AUTOMATIC IRRIGATION & CROP PROTECTION SYSTEM BASED ON IOT",
+              "Title of Conference": "International Conference on Big Data and Cloud Computing-21(ICBDCC-21)",
+              "Organized by": "Karunya University,Coimbatore",
+              "Level": "International",
+              "Start Date": "20-08-2021",
+              "End Date": "21-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "IOT BASED AUTOMATIC IRRIGATION SYSYEM",
+              "Title of Conference": "International Virtual Conference on Advances in Communication, Machine Learning, Embedded with Internet of Things (IVCACME-2021)",
+              "Organized by": "Kongu Engineering College, Perundurai, Erode.",
+              "Level": "International",
+              "Start Date": "09-04-2021",
+              "End Date": "10-04-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "WIRELESS MOBILE CHARGER",
+              "Title of Conference": "International Virtual Conference on Advances in Communication, Machine Learning, Embedded with Internet of Things (IVCACME-2021)",
+              "Organized by": "Department of Electronics and Communication Engineering at Kongu Engineering College, Perundurai, Erode.",
+              "Level": "International",
+              "Start Date": "09-04-2021",
+              "End Date": "10-04-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "Review on Medical Image Enhancement Techniques",
+              "Title of Conference": "Third National Conference on Advances In Computational Intelligence and Instrumentation Technology(ACIIT 2019)",
+              "Organized by": "Dept of EIE,KEC,Perundurai",
+              "Level": "National",
+              "Start Date": "02-03-2019",
+              "End Date": "02-03-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "Remote Data Logging and Monitoring of Boiler Parameters using IoT",
+              "Title of Conference": "National Conference on Instrumentation, Control and Biomedical Systems-NCICBS’18,13th April 2018.",
+              "Organized by": "KARUNYA UNIVERSITY,COIMBATORE",
+              "Level": "National",
+              "Start Date": "13-04-2018",
+              "End Date": "13-04-2018"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of Paper": "REGION-BASED POWER-LAW TRANSFORMATION METHOD FOR IMPROVED VISUALIZATION OF CTA IMAGES",
+              "Title of Conference": "Second National Conference on Intelligent Computing & Automation,",
+              "Organized by": "Department of ElE, Kamaraj College of Engineering and Technology",
+              "Level": "National",
+              "Start Date": "13-03-2009",
+              "End Date": "13-03-2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "Journal of Water Resource and Protection (JWARP)",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "ournal of Water Resource and Protection (JWARP) Editorial Board and Scientific Research Publishing",
+              "Start Date": "04-07-2026",
+              "End Date": "04-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "OCC on MEDICAL DEVICE HANDLING AND GENERAL SERVICING",
+              "Role": "Others",
+              "Level": "Others",
+              "Organized by": "BIOVISION MEDICAL SYSTEMS,CHENNAI",
+              "Start Date": "28-02-2026",
+              "End Date": "09-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "Wireless Personal Communications",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Springer Nature (New York, US)",
+              "Start Date": "17-03-2023",
+              "End Date": "17-03-2023"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "Automatic Kidney Cysts Segmentation in Digital Ultrasound Images",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Dept of EIE,KEC,Perundurai",
+              "Start Date": "22-07-2022",
+              "End Date": "22-07-2022"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "Kilovoltage X-ray beam dosimetry and imaging",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Dept of EIE,KEC,Perundurai",
+              "Start Date": "14-12-2019",
+              "End Date": "14-12-2019"
+            },
+            {
+              "Name of Faculty": "DR.M.RAJA",
+              "Department": "EIR",
+              "Title of the Program": "Molecular Imaging in Therapeutic Applications",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Dept of EIE,KEC,Perundurai.",
+              "Start Date": "29-07-2016",
+              "End Date": "30-07-2016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

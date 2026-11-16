@@ -1,0 +1,686 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.SWEATHA",
+              "Department": "MAR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Fuzzy Mathematical modeling",
+              "Date of joining in KEC": "20-01-2025",
+              "Mobile": "9788226862",
+              "E-mail": "sweatha.maths@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "Fuzzy Differential Equations, Computational Biology",
+              "From": "11-01-2021"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Academic Degree": "M.Sc.Mathematics",
+              "Specialization": "Mathematics",
+              "From": "25-06-2018"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Academic Degree": "B.Sc.Mathematics",
+              "Specialization": "Mathematics",
+              "From": "02-07-2015"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2025",
+              "Specialization": "Fuzzy Logic and Neural Networks",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2021",
+              "Specialization": "Fuzzy Sets,Logic and Systems & Applications",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Name of Position": "Faculty",
+              "Level": "Institution",
+              "Start Date": "20-01-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific Reports",
+              "Level": "International",
+              "Title": "Fixed point topology meets fractal memory: a kutumba-stabilized framework for nonlocal fractal-fractional dynamics",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "23-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Proceedings",
+              "Level": "International",
+              "Title": "Mathematical Model for Diabetes Using Fuzzy Parameters",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "14-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the National Academy of Sciences , India Section A: Physical Sciences",
+              "Level": "National",
+              "Title": "Optimal Control Strategies for COVID-19 using SEIQR Mathematical Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Contemporary Mathematics",
+              "Level": "International",
+              "Title": "Fuzzy SEIR Modeling and Analysis of COVID-19 Spread and Control",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Intelligent & Fuzzy Systems",
+              "Level": "International",
+              "Title": "Prediction and decision making in corona\nvirus using fuzzy mathematical model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "08-02-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Engineering, Science, and Sustainability",
+              "Level": "International",
+              "Title": "New Approach to Solve COVID-19 Via Fuzzy Mathematical Model",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "20-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Mathematics and Applications",
+              "Level": "International",
+              "Title": "An SIR Model for COVID-19 Outbreak in India",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "15-11-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP CONFERENCE PROCEEDINGS",
+              "Level": "International",
+              "Title": "Fuzzy drug addiction and abuse growth\nmodel",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "14-07-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ECS Transactions",
+              "Level": "International",
+              "Title": "Fuzzy epidemic model for the transmission of Zika virus",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "04-05-2022",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Type of Event": "Conference",
+              "Name of Event": "INTERNATIONAL CONFERENCE ON APPLIED MATHEMATICS AND COMPUTING",
+              "Collaboration/Sponsored by": "",
+              "Level": "International",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025",
+              "Duration": "2 DAYS",
+              "Role played": "Member",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Research Tools: Computational Math, Modeling and Data - Driven Approaches",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "26-12-2025",
+              "End Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training Programme for Newly joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Mathematics with Advanced Tools",
+              "Level": "International",
+              "Organized by": "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala's Engineering College",
+              "Place": "Avadi, Chennai",
+              "Start Date": "21-07-2025",
+              "End Date": "26-07-2025"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Applied Mathematics in Real Time Problems",
+              "Level": "National",
+              "Organized by": "Department of Mathematics, Velammal College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "05-05-2025",
+              "End Date": "09-05-2025"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advances in Nonlinear Dynamicsand Applications in Engineering (ANDAE-2025)",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-04-2025",
+              "End Date": "28-04-2025"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Foundations of Artificial Intelligence and Machine Learning",
+              "Level": "Online",
+              "Organized by": "Sacred Heart College",
+              "Place": "Trichy",
+              "Start Date": "03-02-2025",
+              "End Date": "07-02-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Name of the Professional Body/Society": "THE INDIAN MATHEMATICAL SOCIETY",
+              "Position": "Member",
+              "Level": "National",
+              "Start Date": "23-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Title of Paper": "Sensitivity Analysis for Zika virus",
+              "Title of Conference": "National conference on The Role of Mathematics in Emerging Technologies",
+              "Organized by": "Gandhi Institute of Engineering and Technology University",
+              "Level": "National",
+              "Start Date": "10-01-2026",
+              "End Date": "11-01-2026"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Title of Paper": "Mathematical modelling of Tumor Growth",
+              "Title of Conference": "Emerging Trends in Functional Materials and Green Materials for a sustainable world (ETFGM- 25)",
+              "Organized by": "Dr.Mahalingam college of Engineering",
+              "Level": "National",
+              "Start Date": "28-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Title of Paper": "Artificial intelligence in Drug Discovery Transforming Pharmaceutical innovation",
+              "Title of Conference": "Emerging Trends in Functional Materials and Green Materials for a sustainable world (ETFGM- 25)",
+              "Organized by": "Dr.Mahaligam College of Engineering",
+              "Level": "National",
+              "Start Date": "28-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Title of Paper": "Mathematical model using fuzzy parameters",
+              "Title of Conference": "Dr.Paarivendhar Research Colloquium",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-03-2022",
+              "End Date": "26-03-2022"
+            },
+            {
+              "Name of Faculty": "S.SWEATHA",
+              "Department": "MAR",
+              "Title of Paper": "Mathematics of Pandemic in Infectious Disease",
+              "Title of Conference": "International Conference on Fractional Calculus: Theory, Applications and Numerics",
+              "Organized by": "Department of Mathematics, National Institute of Technology Puducherry, Karaikal",
+              "Level": "National",
+              "Start Date": "23-04-2021",
+              "End Date": "24-04-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

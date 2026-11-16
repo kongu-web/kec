@@ -1,0 +1,2045 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "TEXT MINING",
+              "Date of joining in KEC": "03-03-2023",
+              "Mobile": "9865668009",
+              "E-mail": "vijayakumarpalanisamy@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Academic Degree": "PhD",
+              "Specialization": "Text Mining",
+              "From": "05-12-2013"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Academic Degree": "MCA",
+              "Specialization": "COMPUTER APPLICATIONS",
+              "From": "01-06-1999"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "11NHR8203",
+              "Year": "2014",
+              "Specialization": "HUMAN RESOURCES",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "",
+              "Year": "2009",
+              "Specialization": "Genetic Algorithm",
+              "Status": "Cleared"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Category": "OTHERS",
+              "Reference No": "",
+              "Roll No": "02CD-0548",
+              "Year": "2005",
+              "Specialization": "COMPUTER SCIENCE",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "03-03-2023",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "KSR Institute for Engineering and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "23-08-2021",
+              "End Date": "31-07-2022",
+              "Duration": "1 Year",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-a8f3761f-d44a-4603-8f96-11dfa2138b06.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=bf5b81b7be638a5acbcdf9e7433d7e2279f18fd12c497276330238bba700dec4",
+                  "name": "KSRIET-Appointment Order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "DiLDj59BiEHBtvcEd",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Associate Professor",
+              "Start Date": "01-07-2017",
+              "End Date": "30-06-2021",
+              "Duration": "4 Years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-e06ac1c7-9ec2-4297-921b-ef18cdc7c4d8.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=16846c1e9eaeb75e50c4619415f49c5f73a3d0a2095f9b3ab05c6fb0466ba06b",
+                  "name": "VCET-ASP-Promotion Order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "yyG8paCrYcR2myTGy",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-a98cfedc-7549-454f-8a37-92364f29873c.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e0281a21ef3a83519d378d7f39c19d3bc6397f7882e4055757a3c0093b6b0223",
+                  "name": "Vijayakumar-Vellalar Exp Certificate & Relieving Order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "joawRzsbL4T2ZTRPo",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Assistant Professor(Sr.Gr.)",
+              "Start Date": "01-01-2011",
+              "End Date": "30-06-2017",
+              "Duration": "6 Year 6 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-58571461-673b-4470-8cd3-e9c3061716ed.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e4a66feda38821d22c1a0034a58607a6b9540ebe36f7c04911a518384c629ef7",
+                  "name": "VCET-AP(Sr.Gr).pdf",
+                  "totalRecords": null,
+                  "resourceId": "YscQuKppAXrJBFr9h",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-08169670-02c8-484c-8f96-017db94309fd.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f6934c3c5ce1f7012c5985475db19d7774521f2c92c67b4a1242bc865eea57cf",
+                  "name": "Vijayakumar-Vellalar Exp Certificate & Relieving Order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "zKn5EJErzgXXmJJvx",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Lecturer",
+              "Start Date": "01-08-2006",
+              "End Date": "31-12-2010",
+              "Duration": "4 Years 5 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-c68a720c-eb3d-40b3-9fc1-ab7d71dc41b3.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fdf4ae7749ebb0e6af9594ec92a19321ba73ea809fb8692ed37f33e6646d8da8",
+                  "name": "Vcet-Lecturer.pdf",
+                  "totalRecords": null,
+                  "resourceId": "a2zqZPf5eKAvvXeg6",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-6be14896-df2f-4b25-9ab1-c59ccdbe2874.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f18e7e1e4fea4bfbc86644f9ff3d92b0763e52234143b66be7256bcf2e90f101",
+                  "name": "Vijayakumar-Vellalar Exp Certificate & Relieving Order.pdf",
+                  "totalRecords": null,
+                  "resourceId": "7nnk7LCw3XoWm7uMg",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "CHERRAAN'S ARTS AND SCIENCE COLLEGE",
+              "Position/Designation": "HoD & Lecturer",
+              "Start Date": "07-06-2002",
+              "End Date": "24-07-2006",
+              "Duration": "4 Years 2 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-06dda71e-fea5-426f-8258-d7473272cbb9.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ef8af1af01709b1d1cfa24e079f4b45981c7732f2bae8ce636b12885d8b76ca1",
+                  "name": "Cherraan\\'s Exp.pdf",
+                  "totalRecords": null,
+                  "resourceId": "9g5Gs7vAgsKFwgBBW",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MCA-DR.P.VIJAYAKUMAR-d5a7b439-e304-44da-bb36-c640c378eba5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6203ef692548e6297f0cc9ac633332809559a55a0e75624aa4ed4f7cf486b6a0",
+                  "name": "Cherraan\\'s Exp.pdf",
+                  "totalRecords": null,
+                  "resourceId": "WXrWHvWvrKotH6HNX",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of Award/Achievement": "BEST FACULTY",
+              "Level": "Others",
+              "Awarded by": "KONGU ENGINEERING COLLEGE",
+              "Place": "PERUNDURAI",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4th International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+              "Level": "International",
+              "Title": "AgriConnect: A Digital Platform for Real-Time Agricultural News and Scheme Dissemination",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "26-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)",
+              "Level": "International",
+              "Title": "Deep Learning Model for Deforestation Detection Using Satellite Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Expert Clouds and Applications (ICOECA)",
+              "Level": "International",
+              "Title": "Thyroid Cancer Detection using Deep Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "23-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Smart Electronics and Communication (ICOSEC)",
+              "Level": "International",
+              "Title": "Enhancing Communication Security and Transparency Through Blockchain Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "07-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)",
+              "Level": "International",
+              "Title": "GMCRR_DPNet: A Gradient Multi-Level Convolutional and Residual Attention with a Regularized Weight Decay-Based Dengue Outbreak Prediction Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "03-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)",
+              "Level": "International",
+              "Title": "Analyzing the Impact of Daily Screen Usage on Eye Health Through the Machine Learning Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "18-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)",
+              "Level": "International",
+              "Title": "Comparison Study of Convolutional Neural Network Variants for Emotional Classification",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "18-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Knowledge-based Systems",
+              "Level": "International",
+              "Title": "Intrusion detection system based on multi scale deep bidirectional gated recurrent neural network for securing IoT",
+              "Volume No": "333",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-01-2026",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Knowledge-Based Systems",
+              "Level": "International",
+              "Title": "Intrusion detection system based on multi scale deep bidirectional gated recurrent neural network for securing IoT",
+              "Volume No": "333",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Electronics and Sustainable Communication Systems (ICESC 2025)",
+              "Level": "International",
+              "Title": "Comparative Analysis of Deep Learning Architectures for Alzheimer's Disease Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)",
+              "Level": "International",
+              "Title": "WSN-based Air Pollution Detection using Extreme Spatio Temporal Graph Convolutional Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Modern Sustainable Systems (CMSS)",
+              "Level": "International",
+              "Title": "Parametric Analysis of the Nature-Inspired Algorithms based on VANETs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Smart Electronics and Communication (ICOSEC-2025)",
+              "Level": "International",
+              "Title": "Enhancing Communication Security and\nTransparency through Blockchain Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "26-09-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Big Data Analytics for Strategic Insights",
+              "Level": "International",
+              "Title": "Big Data Analytics for Strategic Insights",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "18-08-2025",
+              "Published at": "CiiT Publication"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "8th International Conference on Modern Sustainable Systems (CMSS)",
+              "Level": "International",
+              "Title": "Parametric Analysis of the Nature-Inspired Algorithms based on VANETs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "8th International Conference on Computing Methodologies and Communication (ICCMC-2025)",
+              "Level": "International",
+              "Title": "Analysing the Influential Factors Affecting Students' Placement Outcomes using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI-2025)",
+              "Level": "International",
+              "Title": "Comparative Examination of AI Chatbot for Assessing Gemini AI, DeepSeek AI, and Qwen AI via OpenRouter API Integration",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "11-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Level": "International",
+              "Title": "Hybrid Deep Reinforcement Learning and Federated Convolutional Networks for Energy- Aware Data Transmission in Wireless Sensor Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "11-07-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Level": "International",
+              "Title": "Graphene-Integrated Wearable System for\nRemote Health Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-06-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Inventive Research in Computing Applications (ICIRCA)",
+              "Level": "International",
+              "Title": "Deep Reinforcement Learning-Based Intrusion Detection System for Next-Generation Wireless Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-06-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Level": "International",
+              "Title": "Self-Supervised Contrastive Learning for Robust\nOptical Recognition in Noisy and Low-\nResolution Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "27-06-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS-2025)",
+              "Level": "International",
+              "Title": "A Blockchain-Based Multi-Metric Trust\nManagement Framework for Secure and\nScalable Vehicular Ad-Hoc Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "23-05-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS-2025)",
+              "Level": "International",
+              "Title": "Multi-Modal Deep Learning for Malaria\nDiagnosis: Integrating CNNs and Vision\nTransformers for Enhanced Parasite Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-05-2025",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Nonlinear Variational Inequalities",
+              "Level": "International",
+              "Title": "An Ensemble Approach to Phishing URL Detection Using Supervised Machine Learning",
+              "Volume No": "28",
+              "Issue No": "4",
+              "Year": "2025",
+              "Date": "06-01-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Devops for Beginners",
+              "Level": "International",
+              "Title": "Devops for Beginners - A Practical Guide to Continuous Develoment and Deployment",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-12-2024",
+              "Published at": "CiiT Publications"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Second International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS-2024)",
+              "Level": "International",
+              "Title": "Sustainable Energy Generation from Speed\nBreakers for Smart Street Lighting Application",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Second International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS-2024)",
+              "Level": "International",
+              "Title": "Deep Learning based Smart Security Camera\nSystem using Yolo Algorithm in Security\nSetting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data Structures and Problem Solving with C",
+              "Level": "International",
+              "Title": "Data Structures and Problem Solving with C",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "07-10-2024",
+              "Published at": "CiiT Publications"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th IEEE Global Conference for Advancement in Technology (GCAT)",
+              "Level": "International",
+              "Title": "Artificial Intelligence in Cybersecurity: Enhancing Automated Defense Mechanisms to Combat Sophisticated Cyber Threats and Guarantee Digital Resilience",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "05-10-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence: A Modern Approach",
+              "Level": "International",
+              "Title": "Artificial Intelligence: A Modern Approach",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "09-09-2024",
+              "Published at": "Prime International Publication"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data Science and Machine Learning with Python",
+              "Level": "International",
+              "Title": "Data Science and Machine Learning with Python",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "12-08-2024",
+              "Published at": "CiiT Publication"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Artificial Intelligence: Essential Concepts and Techniques",
+              "Level": "International",
+              "Title": "Artificial Intelligence: Essential Concepts and Techniques",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-07-2024",
+              "Published at": "IGI GLobal"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Internet of Things",
+              "Level": "International",
+              "Title": "Internet of  Things",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "08-07-2024",
+              "Published at": "CiiT Publications"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Data Structures and Algorithms using Java",
+              "Level": "International",
+              "Title": "Data Structures and Algorithms using Java - Comprehensive Guide to Beginners",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "05-07-2024",
+              "Published at": "CiiT Publications"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "African Journal of Biological Sciences",
+              "Level": "International",
+              "Title": "A TWEAKED DEEP LEARNING MODEL INCLUDING CHEST X-RAY IMAGES\nfor determining CORONAVIRUS DISEASE-19 (COVID-19)",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "07-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "R Programming",
+              "Level": "International",
+              "Title": "R Programming",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-05-2024",
+              "Published at": "Prime International Publication"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA) |",
+              "Level": "International",
+              "Title": "Smart Aeroponic Farms with IoT-Enabled Efficient Automation and Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "16-03-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Software Engineering",
+              "Level": "International",
+              "Title": "Software Engineering",
+              "Volume No": "I",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-03-2024",
+              "Published at": "Alpha International Publication"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU)",
+              "Level": "International",
+              "Title": "Maximizing Data Privacy: Empirical Analysis of\nMulti Keyword Data Search and Privacy Protection\nover Cloud Computing Paradigm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-03-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Sustainable Communication Networks and Application (ICSCNA 2023)",
+              "Level": "International",
+              "Title": "Prediction and Processing of Environment\nGeography Images using Deep Learning\nTechniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-11-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Sustainable Communication Networks and Application (ICSCNA 2023)",
+              "Level": "International",
+              "Title": "Design and Fabrication of Multiband Planar\nAntenna for 5G and Next-Generation Mobile\nHandset Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-11-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS 2023)",
+              "Level": "International",
+              "Title": "Design and Analysis of Deep Learning based Water Potability Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "20-10-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+              "Level": "International",
+              "Title": "Efficient Brain-Computer Interface for Attention\nDetection in Health Care Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "20-10-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "4th IEEE Global Conference for Advancement in Technology (GCAT)",
+              "Level": "International",
+              "Title": "Prediction of Solar Energy Generation using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-10-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Level": "International",
+              "Title": "Deep Learning based Smart American Sign Language Detection in Alphabets",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-09-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "6th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Level": "International",
+              "Title": "Smart Auto Image Captioning using LSTM and Densenet Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "15-09-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "14th INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT)",
+              "Level": "International",
+              "Title": "Edge Computing Enabled Smart Warehouse Management System for Food Processing Industries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "08-07-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "7th International Conference on Intelligent Computing and Control Systems (ICICCS-2023)",
+              "Level": "International",
+              "Title": "Safe Transportation System using IoT based Alcohol Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "19-05-2023",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Fuzzy Systems",
+              "Level": "International",
+              "Title": "Text Mining Preprocessing Techniques and its significance based on the Dataset",
+              "Volume No": "12",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "05-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Intelligence Paradigms",
+              "Level": "International",
+              "Title": "Effective content-based pattern predicted text mining using PSE model",
+              "Volume No": "15",
+              "Issue No": "1",
+              "Year": "2019",
+              "Date": "07-12-2019",
+              "Published at": "Inderscience"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Computational Information Systems",
+              "Level": "International",
+              "Title": "FWPTM-ASIR: Frequent Word Pattern Taxonomy Model (FWPTM) based Aspect Semantic Information Retrieval System for Web Documents",
+              "Volume No": "15",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "16-04-2019",
+              "Published at": "Binary Information Press"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Jour of Adv Research in Dynamical & Control Systems",
+              "Level": "International",
+              "Title": "Aspect-Semantic based Information Retrieval under Large Volume of Documents",
+              "Volume No": "10",
+              "Issue No": "08",
+              "Year": "2018",
+              "Date": "15-05-2018",
+              "Published at": "Institute of Advanced Scientific Research"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research",
+              "Level": "International",
+              "Title": "MINING FREQUENT ITEMSET ALGORITHM FOR COMMUNICATION COST REDUCTION IN DISTRIBUTED DATABASES",
+              "Volume No": "10",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "15-06-2015",
+              "Published at": "Research India Publications"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research",
+              "Level": "International",
+              "Title": "MINING OF SECURED DATA IN CLOUD DATA CENTERS",
+              "Volume No": "10",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "15-06-2015",
+              "Published at": "Research India Publications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "VVM Sizing",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "40000"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Samy Silks & Readymades",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "50000"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "J.K.Furniture",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2024",
+              "Date of Consultancy (To)": "29-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "35000"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "CSC Computer Education",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2024",
+              "Date of Consultancy (To)": "29-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "35000"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Raviraj Steels and Cement",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2024",
+              "Date of Consultancy (To)": "29-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "45000"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Ice Cube, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "11-12-2023",
+              "Date of Consultancy (To)": "12-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "270000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "One Day National Level Workshop on Design Thinking Strategies for Hackathon Ideation",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "23-01-2026",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "Design Thinking Strategies For Hackathon Ideation",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-03-2025",
+              "End Date": "",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "KEC, PERUNDURAI"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Event": "FDP",
+              "Name of Event": "International One Week Faculty Development Programme on Deep Learning Techniques for Social Media Analytics",
+              "Collaboration/Sponsored by": "College of Computing and Applied Sciences, University of Technology and Applied Science, Oman",
+              "Level": "International",
+              "Start Date": "15-04-2024",
+              "End Date": "20-04-2024",
+              "Duration": "6 Days",
+              "Role played": "Coordinator",
+              "Venue": "Online"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on Real-Time IoT Projects with Raspberry Pi4",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "22-03-2024",
+              "End Date": "22-03-2024",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "MCA Lab"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Augmented and Virtual Reality ApplIcations",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "11-03-2024",
+              "End Date": "",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Assessment of Student Performance",
+              "Level": "National",
+              "Organized by": "Govt.of India",
+              "Place": "",
+              "Start Date": "01-02-2026",
+              "End Date": "15-04-2026"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Developing Future-Ready Educators for the NEP 2020 Vision",
+              "Level": "National",
+              "Organized by": "ATAL Academy and VETIAS Co Education College",
+              "Place": "Erode",
+              "Start Date": "06-10-2025",
+              "End Date": "11-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Cloud Computing and GEN - AI",
+              "Level": "National",
+              "Organized by": "Sri Ramakrishna College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "15-09-2025",
+              "End Date": "19-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Smart City Technologies and IoT",
+              "Level": "National",
+              "Organized by": "Sri Chanadrasekharendra Saraswathi Viswa Mahavidyalaya",
+              "Place": "Kanchipuram",
+              "Start Date": "23-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "RareXplain: Explainable AI for Rare Event Detection in High-Dimensional Data",
+              "Level": "National",
+              "Organized by": "Vinayaka Mission's Kirubananda Variyar Engineering College",
+              "Place": "Salem",
+              "Start Date": "20-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "Training Program",
+              "Title of the program": "Flutter and Mobile App Development",
+              "Level": "Others",
+              "Organized by": "Icanio Technology Labs Private Limited",
+              "Place": "Tirunelveli",
+              "Start Date": "02-07-2025",
+              "End Date": "08-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "Training Program",
+              "Title of the program": "Data Analytics using Power BI",
+              "Level": "Others",
+              "Organized by": "Thirvu Soft Private Limited",
+              "Place": "Coimbatore",
+              "Start Date": "27-01-2025",
+              "End Date": "31-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "One-week Faculty Development Program on Transforming Innovations into Reality for Future science and Engineering (TIRFSE 2K24)",
+              "Level": "International",
+              "Organized by": "Department of Applied Sciences & Humanities, Haldia Institute of Technology, Haldia",
+              "Place": "Haldia",
+              "Start Date": "04-11-2024",
+              "End Date": "08-11-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Indian Knowledge System",
+              "Level": "National",
+              "Organized by": "Nandha Arts and Science College",
+              "Place": "Erode",
+              "Start Date": "30-09-2024",
+              "End Date": "06-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators : Harnessing the Power of Machine Learning",
+              "Level": "International",
+              "Organized by": "Jeppiaar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Evolving Landscape of Data Science - Current Trends & Patterns",
+              "Level": "National",
+              "Organized by": "Hindustan College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "23-09-2024",
+              "End Date": "27-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Internet of Things for Emerging Technical Applications",
+              "Level": "National",
+              "Organized by": "M.P.Nachimuthu M.Jaganathan Engineering College",
+              "Place": "Chennimalai",
+              "Start Date": "12-08-2024",
+              "End Date": "17-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Implications of Emerging Computing Technologies",
+              "Level": "International",
+              "Organized by": "Hindustan College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "29-07-2024",
+              "End Date": "04-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Practicing Analytics with Data Science",
+              "Level": "International",
+              "Organized by": "School of Science and Computer Studies, CMR University",
+              "Place": "Bengaluru",
+              "Start Date": "08-07-2024",
+              "End Date": "12-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Designing the Future :: Cloud Computing forInnovative Solutions",
+              "Level": "International",
+              "Organized by": "Shri Vishnu Engineering College for Women",
+              "Place": "Bhimavaram",
+              "Start Date": "20-05-2024",
+              "End Date": "25-05-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Unlocking Potential - Emerging Technologies in Computing Techniques",
+              "Level": "International",
+              "Organized by": "Dr.M.G.R Educational and Research Institute",
+              "Place": "Chennai",
+              "Start Date": "06-05-2024",
+              "End Date": "10-05-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep Learning Techniques for Social Media Analytics",
+              "Level": "International",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "15-04-2024",
+              "End Date": "20-04-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Trends in Data Analytics",
+              "Level": "International",
+              "Organized by": "Saveetha College of Liberal Arts and Science",
+              "Place": "Chennai",
+              "Start Date": "22-01-2024",
+              "End Date": "26-01-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Hybrid Education for Pedagogical Success",
+              "Level": "International",
+              "Organized by": "Saveetha College of Liberal Arts and Sciences",
+              "Place": "Chennai",
+              "Start Date": "09-01-2024",
+              "End Date": "13-01-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Amazon Web Services",
+              "Level": "International",
+              "Organized by": "MATOSHRI INSTITUTE OF TECHNOLOGY",
+              "Place": "YEOLA",
+              "Start Date": "08-01-2024",
+              "End Date": "10-01-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "Others",
+              "Title of the program": "Learn to Learn",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "18-11-2023",
+              "End Date": "18-11-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and training programme for newly joined faculty",
+              "Level": "International",
+              "Organized by": "HRD Cell, Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "03-10-2023",
+              "End Date": "07-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative Research Opportunities and Applications of Data Science in the Industry 5.0 Paradigm",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "18-08-2023",
+              "End Date": "31-08-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber Security & Hacking",
+              "Level": "International",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Chennai",
+              "Start Date": "16-06-2023",
+              "End Date": "24-06-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Select Programme": "FDP",
+              "Title of the program": "LATEX - Migrate to LaTex from Word",
+              "Level": "International",
+              "Organized by": "Valluruballi Nageswara Rao Vignana Jyothi Institute of Engineering & Technology",
+              "Place": "Hyderabad",
+              "Start Date": "04-04-2023",
+              "End Date": "09-04-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "United Writers' Association",
+              "Position": "Fellow Memberhip",
+              "Level": "International",
+              "Start Date": "15-11-2008",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "Life Member",
+              "Level": "International",
+              "Start Date": "01-01-2007",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Enhancing Communication Security and Transparency through Blockchain Algorithms",
+              "Title of Conference": "6th International Conference on Smart Electronics and Communication (ICOSEC-2025)",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "24-09-2025",
+              "End Date": "26-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "A MACHINE LEARNING APPROACH FOR EARLY PREDICTION OF CHRONIC KIDNEY DISEASE",
+              "Title of Conference": "3rd International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI-2025)",
+              "Organized by": "JCT College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "17-09-2025",
+              "End Date": "19-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "COMPARATIVE ANALYSIS OF DEEP LEARNING ARCHITECTURES FOR ALZHEIMER'S DISEASE DETECTION",
+              "Title of Conference": "6th International Conference on Electronics and Sustainable Communication Systems (ICESC-2025)",
+              "Organized by": "Hindustan Institute of Technology",
+              "Level": "International",
+              "Start Date": "10-09-2025",
+              "End Date": "12-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "GraphBlock-Mine: A GNN-Enhanced Blockchain Model for Mining Complex Relational Patterns in Decentralized Graph Structures",
+              "Title of Conference": "3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS-2025)",
+              "Organized by": "Hindustan College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "20-08-2025",
+              "End Date": "22-08-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Parametric Analysis of the Nature-Inspired Algorithms Based on VANETS",
+              "Title of Conference": "8th International Conference on Computing Methodologies and Communication (ICCMC 2025)",
+              "Organized by": "Surya Engineering College",
+              "Level": "International",
+              "Start Date": "23-07-2025",
+              "End Date": "25-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Analysing the Influential Factors Affecting Students' Placement Outcomes using Machine Learning",
+              "Title of Conference": "8th International Conference on Computing Methodologies and Communication (ICCMC-2025)",
+              "Organized by": "Surya Engineering College",
+              "Level": "National",
+              "Start Date": "23-07-2025",
+              "End Date": "25-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Hybrid Deep Reinforcement Learning and Federated Convolutional Networks for Energy-Aware Data Transmission in Wireless Sensor Networks",
+              "Title of Conference": "6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Organized by": "SCAD College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "09-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Comparative Examination of AI Chatbot for Assessing Gemini AI, DeepSeek AI, and Qwen AI via OpenRouter API Integration",
+              "Title of Conference": "6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI-2025)",
+              "Organized by": "SCAD College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "09-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Self-Supervised Contrastive Learning for Robust Optical Recognition in Noisy and Low- Resolution Images",
+              "Title of Conference": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Organized by": "RVS College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "25-06-2025",
+              "End Date": "27-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Graphene-Integrated Wearable System for Remote Health Monitoring",
+              "Title of Conference": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Organized by": "RVS College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "25-06-2025",
+              "End Date": "27-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Deep Reinforcement Learning-Based Intrusion Detection System for Next-Generation Wireless Networks",
+              "Title of Conference": "6th International Conference on Inventive Research in Computing Applications (ICIRCA-2025)",
+              "Organized by": "RVS College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "25-06-2025",
+              "End Date": "27-06-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Multi-Modal Deep Learning for Malaria Diagnosis: Integrating CNNs and Vision Transformers for Enhanced Parasite Detection",
+              "Title of Conference": "Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS-2025)",
+              "Organized by": "CARE College of Engineering",
+              "Level": "International",
+              "Start Date": "21-05-2025",
+              "End Date": "23-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "A Blockchain-Based Multi-Metric Trust Management Framework for Secure and Scalable Vehicular Ad-Hoc Networks",
+              "Title of Conference": "Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS-2025)",
+              "Organized by": "CARE College of Engineering",
+              "Level": "International",
+              "Start Date": "21-05-2025",
+              "End Date": "23-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Sustainable Energy Generation from Speed Breakers for Smart Street Lighting Application",
+              "Title of Conference": "Second International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS-2024)",
+              "Organized by": "M.P.Nachimuthu M.Jaganathan Engineering College",
+              "Level": "International",
+              "Start Date": "23-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Deep Learning for Emotional Classification Using Facial Images Among Youngsters",
+              "Title of Conference": "3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Organized by": "KSR College of Engineering",
+              "Level": "International",
+              "Start Date": "23-10-2024",
+              "End Date": "24-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Deep Learning based Smart Security Camera System using Yolo Algorithm in Security Setting",
+              "Title of Conference": "Second International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS-2024)",
+              "Organized by": "M.P.Nachimuthu M.Jaganathan Engineering College",
+              "Level": "International",
+              "Start Date": "23-10-2024",
+              "End Date": "25-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Automatic Segmentation using Generative Adversial Network to Predict Dental Informatics",
+              "Title of Conference": "3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Organized by": "KSR College of Engineering",
+              "Level": "International",
+              "Start Date": "22-10-2024",
+              "End Date": "23-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Exploring Deep Learning Algorithms for Skin Disease Classification Using Skin Lesion Images",
+              "Title of Conference": "3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Organized by": "KSR College of Engineering",
+              "Level": "International",
+              "Start Date": "22-10-2024",
+              "End Date": "23-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Artificial Intelligence in Cybersecurity: Enhancing Automated Defense Mechanisms to Combat Sophisticated Cyber Threats and Guarantee Digital Resilience",
+              "Title of Conference": "5th IEEE Global Conference for Advancement in Technology (GCAT)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "04-10-2024",
+              "End Date": "06-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Smart Aeroponic Farms with IoT-Enabled Efficient Automation and Monitoring",
+              "Title of Conference": "2nd International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "15-03-2024",
+              "End Date": "16-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Maximizing Data Privacy: Empirical Analysis of Multi-Keyword Data Search and Privacy Protection over Cloud Computing Paradigm",
+              "Title of Conference": "1st International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "01-03-2024",
+              "End Date": "02-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Design and Fabrication of Multiband Planar Antenna for 5G and Next-Generation Mobile Handset Applications",
+              "Title of Conference": "International Conference on Sustainable Communication Networks and Application (ICSCNA 2023)",
+              "Organized by": "Bharath Niketan Engineering College",
+              "Level": "International",
+              "Start Date": "15-11-2023",
+              "End Date": "17-11-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Prediction and Processing of Environment Geography Images using Deep Learning Techniques",
+              "Title of Conference": "International Conference on Sustainable Communication Networks and Application (ICSCNA 2023)",
+              "Organized by": "Bharath Niketan Engineering College",
+              "Level": "International",
+              "Start Date": "15-11-2023",
+              "End Date": "17-11-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Design and Analysis of Deep Learning based Water Potability Prediction",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS 2023)",
+              "Organized by": "MPNMJ Engineering College",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": "20-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Efficient Brain-Computer Interface for Attention Detection in Health Care Industry",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS 2023)",
+              "Organized by": "MPNMJ Engineering College",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": "20-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Prediction of Solar Energy Generation using Machine Learning",
+              "Title of Conference": "4th Global Conference for Advancement in Technology (GCAT)",
+              "Organized by": "Nagarjuna College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "06-10-2023",
+              "End Date": "08-10-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Smart Auto Image Captioning using LSTM and Densenet Network",
+              "Title of Conference": "6th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Organized by": "Amity University",
+              "Level": "International",
+              "Start Date": "14-09-2023",
+              "End Date": "16-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Deep Learning based Smart American Sign Language Detection in Alphabets",
+              "Title of Conference": "6th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Organized by": "Amity University",
+              "Level": "International",
+              "Start Date": "14-09-2023",
+              "End Date": "16-09-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Deep Learning based Smart American Sign Language Detection in Alphabets",
+              "Title of Conference": "6th International Conference on Contemporary Computing and Informatics (IC3I)",
+              "Organized by": "IIT, Delhi",
+              "Level": "International",
+              "Start Date": "06-07-2023",
+              "End Date": "08-07-2023"
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of Paper": "Safe Transportation System using IoT based Alcohol Detection",
+              "Title of Conference": "7th International Conference on Intelligent Computing and Control Systems (ICICCS-2023)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "17-05-2023",
+              "End Date": "19-05-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of the Program": "BoS Member",
+              "Role": "BOS Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Dr.N.G.P Arts and Science College",
+              "Start Date": "28-06-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of the Program": "BoS Member",
+              "Role": "BOS Member",
+              "Level": "Inter-Collegiate",
+              "Organized by": "M.Kumarasamy College of Engineering",
+              "Start Date": "11-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of the Program": "Towards Glorious Success: Igniting Young Minds",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Sasurie College of Arts and Science",
+              "Start Date": "03-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.P.VIJAYAKUMAR",
+              "Department": "MCA",
+              "Title of the Program": "National Level Workshop on “Real-Time IoT Projects with Raspberry Pi4",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Kongu Engineering College",
+              "Start Date": "22-03-2024",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

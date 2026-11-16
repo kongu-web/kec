@@ -1,0 +1,727 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "16-05-2012",
+              "Mobile": "9095910888",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Academic Degree": "PhD",
+              "Specialization": "Medical Image Processing",
+              "From": "01-07-2017"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Academic Degree": "MA",
+              "Specialization": "Yoga for Human Excellence",
+              "From": "01-07-2011"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Academic Degree": "ME",
+              "Specialization": "Embedded Systems",
+              "From": "06-09-2010"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Academic Degree": "BE",
+              "Specialization": "ECE",
+              "From": "10-10-1994"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "16-05-2012",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering",
+              "Level": "International",
+              "Title": "Automatic Diagnosis of Glaucoma using Image Processing Technique",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2019",
+              "Date": "17-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Discover Computing",
+              "Level": "International",
+              "Title": "An efficient automatic diabetic retinopathy grading using a two-way cascaded convolution neural network",
+              "Volume No": "28",
+              "Issue No": "7",
+              "Year": "2025",
+              "Date": "23-01-2025",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Medical Engineering and Informatics",
+              "Level": "International",
+              "Title": "Analogy of cervical malignancy through Inception V3 and Xception network of CNN",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-10-2024",
+              "Published at": "Inderscience"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Internet Protocol Technology",
+              "Level": "International",
+              "Title": "A constant temperature control system for indoor environments in buildings using internet of things",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-07-2024",
+              "Published at": "Inderscience"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Conference",
+              "Level": "International",
+              "Title": "Diagnosing Different Grades of Diabetic Retinopathy Using Ensemble Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India,"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advancement of Electrical, Information and Communication Technologies for Life Application",
+              "Level": "International",
+              "Title": "Abnormality Detection of Optic Disc Using Entropy Based Algorithm and Cnn",
+              "Volume No": "13",
+              "Issue No": "6",
+              "Year": "243",
+              "Date": "05-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Emerging Intelligent Automation and Optimization Methods in Applied Science and Computational Engineering Mathematics",
+              "Level": "International",
+              "Title": "An Improved Lsb Data Steganography Using Elliptic Cuve Cryptography",
+              "Volume No": "13",
+              "Issue No": "6",
+              "Year": "2020",
+              "Date": "05-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advancement of Electrical, Information and Communication Technologies for Life Application",
+              "Level": "International",
+              "Title": "Compression Techniques for Electrocardiogram",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "15-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advancement of Electrical, Information and Communication Technologies for Life Application",
+              "Level": "International",
+              "Title": "Detection of Microaneurysms Using Automatic Mass Screening and Diagnosis Model",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "15-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "Design and simulation of quantum adder using IBM quantum experience",
+              "Volume No": "9",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "21-04-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Type of Project": "Image Processing",
+              "Title of Project": "Development of New Fuzzy FIlter for the removal of linear and Non linear Noises in Defense Satellite SAR Images",
+              "Funding Agency": "DRDO",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "07-05-2024",
+              "Duration": "3 Years",
+              "Status": "Ongoing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V S Agro Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "6+2",
+              "Date of Consultancy (From)": "20-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Subavalar Industires Pvt Ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "10-12-2025",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Arya Hitech Pipe and compoents pvt ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "IIPC",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "10-06-2025",
+              "Date of Consultancy (To)": "30-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "7000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Vaigai Agro Chemicals,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "03-03-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Vaigai Agro Chemicals,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "03-03-2025",
+              "Date of Consultancy (To)": "29-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Amman Glass Works",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "03-03-2025",
+              "Date of Consultancy (To)": "01-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V Guard Industries Limited",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "10-06-2024",
+              "Date of Consultancy (To)": "30-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8260"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V Guard Industries Limited",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "10-06-2024",
+              "Date of Consultancy (To)": "30-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "7000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Arya Hitech Pipe and compoents pvt ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "10-06-2024",
+              "Date of Consultancy (To)": "30-11-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8260"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "KMS Jewellers",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Embedded",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "02-01-2024",
+              "Date of Consultancy (To)": "10-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Arudra Spinning Mills",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Embedded",
+              "Number of persons involved": "3+1",
+              "Date of Consultancy (From)": "02-01-2024",
+              "Date of Consultancy (To)": "10-12-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Select Programme": "Training Program",
+              "Title of the program": "IoT",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "12-01-2026",
+              "End Date": "16-01-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "08-09-2014",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Self-Powered Energy Harvesting Circuit for IoT Devices",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr M V Narayana,",
+              "Application Number": "202541131019",
+              "Date of Registration": "23-12-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "02-01-2026"
+            },
+            {
+              "Name of Faculty": "N.S.KAVITHA",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "A restricted Elementary Care in the Healthcare System with Blockchain Technology",
+              "Name of Application": "",
+              "Co-inventors Name": "Mr. C Ananth",
+              "Application Number": "202041028431",
+              "Date of Registration": "03-07-2020",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "17-07-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

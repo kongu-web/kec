@@ -1,0 +1,572 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "VLSI, Digital Design",
+              "Date of joining in KEC": "03-05-2025",
+              "Mobile": "9487849205",
+              "E-mail": "prathika.it@kongu.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Academic Degree": "Master of Engineering",
+              "Specialization": "Applied Electronics",
+              "From": "16-08-2023"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Academic Degree": "Bachelor of Engineering",
+              "Specialization": "Electronics and Communication Engineerig",
+              "From": "30-08-2014"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "03-05-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI-2026)",
+              "Level": "International",
+              "Title": "Fundus Image-based Diabetic Retinopathy \nDetection using Convolutional Neural Network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "9th International Conference on Inventive Systems and Control (ICISC-2025)",
+              "Level": "International",
+              "Title": "Design and Implementation of Low Power Parallel \nTransposed FIR Filter using Modified Gate \nDiffusion Input Technique",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-08-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Dhanalaksmi Stores",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "28-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit Course on \"Essentials of FIGMA for UI/UX Design\"",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "13-02-2026",
+              "End Date": "12-03-2026",
+              "Duration": "1 Month",
+              "Role played": "Coordinator",
+              "Venue": "IT Park, KEC, Erode"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Full Stack Development",
+              "Collaboration/Sponsored by": "IIPC, KEC and CoE Data Science",
+              "Level": "National",
+              "Start Date": "29-10-2025",
+              "End Date": "29-10-2025",
+              "Duration": "1 Day",
+              "Role played": "Coordinator",
+              "Venue": "IT Park CC8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Mission Upskill India: Pre-Summit Event of the AI Impact Summit, 2026",
+              "Level": "National",
+              "Organized by": "HCL GUVI",
+              "Place": "Kongu Engineering College",
+              "Start Date": "12-12-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and  Training Programme for Newly Joined Faculty",
+              "Level": "Others",
+              "Organized by": "HRD Cell, Kongu Engineerning College",
+              "Place": "Kongu Engineering College, Perunduari",
+              "Start Date": "29-08-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent Trends in Embedded Systems and IOT in Health care Sectors Organized",
+              "Level": "International",
+              "Organized by": "DEPARTMENT OF BIOMEDICAL ENGINEERING, DHAANISH AHMED INSTITUTE OF TECHNOLOGY, Coimbatore",
+              "Place": "Online",
+              "Start Date": "28-07-2025",
+              "End Date": "01-08-2025"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Image, Text and Edge AI Applications",
+              "Level": "Others",
+              "Organized by": "Edsols Innovation Private Limited",
+              "Place": "Kongu Engineering College, Perundurai",
+              "Start Date": "04-06-2025",
+              "End Date": "11-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "The Indian Society for Technical Education",
+              "Position": "Life Member",
+              "Level": "National",
+              "Start Date": "24-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Title of Paper": "Intent-Level Attention based Multiple Instance Learning for Explainable Hardware Trojan Detection",
+              "Title of Conference": "6th International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT-2026)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "11-05-2026",
+              "End Date": "13-05-2026"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Title of Paper": "Fundus Image-based Diabetic Retinopathy  Detection using Convolutional Neural Network",
+              "Title of Conference": "Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI-2026)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-03-2026",
+              "End Date": "04-03-2026"
+            },
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Title of Paper": "Design and Implementation of Low Power Parallel  Transposed FIR Filter using Modified Gate  Diffusion Input Technique",
+              "Title of Conference": "9th International Conference on Inventive Systems and Control (ICISC 2025)",
+              "Organized by": "JCT College of Engineering and Technology, Coimbatore, India",
+              "Level": "International",
+              "Start Date": "12-08-2025",
+              "End Date": "13-08-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.E.PRATHIKA",
+              "Department": "ITR",
+              "Title of the Program": "The 16th International IEEE Conference on Computing, Communication and Networking Technologies",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

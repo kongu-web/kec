@@ -1,0 +1,1046 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Engineering Design",
+              "Date of joining in KEC": "06-07-2009",
+              "Mobile": "06383219802",
+              "E-mail": "satheeshsep24@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Academic Degree": "M.E",
+              "Specialization": "Engineering Design",
+              "From": "03-06-2003"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Academic Degree": "B.E",
+              "Specialization": "Mechanical Engineering",
+              "From": "07-04-2003"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-08-2010",
+              "End Date": "31-05-2020",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-07-2009",
+              "End Date": "31-07-2010",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Maharaja Prithvi  Engineering College",
+              "Position/Designation": "Lecturer",
+              "Start Date": "01-07-2005",
+              "End Date": "01-07-2009",
+              "Duration": "4 years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-MER-K.V.SATHEESH_KUMAR-1fb30ac9-df4e-401f-add8-f70b4abf7cbc.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091814Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6d57846677d5f75df63a7a2a2bff7f9a6cba00d5efe7fc04bbb9afd031175631",
+                  "name": "MPEC appointment order.jpeg",
+                  "totalRecords": null,
+                  "resourceId": "iJLyQsczG4uSd9Gjq",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "Elite",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "Online",
+              "Date": "03-06-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "Elite",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "ONline",
+              "Date": "12-05-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "AICTE Bicycle Design Challenge",
+              "Level": "National",
+              "Awarded by": "AICTE",
+              "Place": "Bangaluru",
+              "Date": "04-11-2023"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "ELITE",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "KEC",
+              "Date": "23-04-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of Award/Achievement": "Elite",
+              "Level": "National",
+              "Awarded by": "NPTEL",
+              "Place": "KEC",
+              "Date": "26-09-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in corrosion science and surface engineering",
+              "Level": "International",
+              "Title": "Types of coatings on metallic materials",
+              "Volume No": "188",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "22-01-2026",
+              "Published at": "Online"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",
+              "Level": "International",
+              "Title": "Optimization and evaluation of mechanical properties of RSW joints between SS 304 and DSS 2205 using TOPSIS",
+              "Volume No": "239",
+              "Issue No": "24",
+              "Year": "2025",
+              "Date": "12-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Scientific reports",
+              "Level": "International",
+              "Title": "Optimization of drilling parameters for Al6061/Al6063–SiC–ZrO2 composites using TOPSIS considering microstructure and machinability",
+              "Volume No": "15",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "10-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Food Composition and Analysis",
+              "Level": "International",
+              "Title": "Comparative evaluation and ranking of physicochemical properties of bodybuilding supplements in India using AHP and MOORA methods",
+              "Volume No": "148",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "05-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Ovonic Research",
+              "Level": "International",
+              "Title": "Surface parametric influences on the photocatalytic behaviour\nof zinc oxide nanoparticles",
+              "Volume No": "20",
+              "Issue No": "1",
+              "Year": "2024",
+              "Date": "13-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference proceedings",
+              "Level": "International",
+              "Title": "Experimental analysis of rice husk gasification in a newly developed air blown bed gasifier",
+              "Volume No": "2764",
+              "Issue No": "070004",
+              "Year": "2022",
+              "Date": "13-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference proceedings",
+              "Level": "International",
+              "Title": "New product development for millet separating, cleaning and grinding process",
+              "Volume No": "2764",
+              "Issue No": "070003",
+              "Year": "2023",
+              "Date": "10-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Ovonic Research",
+              "Level": "International",
+              "Title": "Structure and opto-electronic properties of MgO nanocrystals\ncalculated by GGA approximation",
+              "Volume No": "19",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "11-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Environmental Science and Pollution Research",
+              "Level": "International",
+              "Title": "Assessment of welding fume impacts in a confined workplace by two extraction patterns — a case study of small-scale manufacturing industries",
+              "Volume No": "30",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "06-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "CFD analysis on idly baking vessel using two patterns of idly trays for the reduction of baking time",
+              "Volume No": "59",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "05-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Crashworthiness unit cell design investigation for energy absorption analysis",
+              "Volume No": "50",
+              "Issue No": "5",
+              "Year": "2021",
+              "Date": "28-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Archives of metallurgy and materials",
+              "Level": "International",
+              "Title": "Pseudocapacitive characteristics of Mg Doped ZnO nanospheres prepared by coprecipitation",
+              "Volume No": "66",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "19-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Archives of Metallurgy and Materials",
+              "Level": "International",
+              "Title": "Investigation on the effect of technological Parameters on emission factor In 316L stainless steel Using gas metal arc Welding",
+              "Volume No": "66",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "03-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Conf. Series: Materials Science and Engineering",
+              "Level": "International",
+              "Title": "A Critical Review on Fume Extraction System for Pipe and Plate Welding",
+              "Volume No": "1084",
+              "Issue No": "012064",
+              "Year": "2021",
+              "Date": "24-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Conf. Series: Materials Science and Engineering",
+              "Level": "International",
+              "Title": "Manufacturing methods of healthy and edible cups- An integrative review",
+              "Volume No": "1055",
+              "Issue No": "012017",
+              "Year": "2021",
+              "Date": "25-02-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture notes in Mechanical Engineering",
+              "Level": "International",
+              "Title": "Experimental Investigation of Tensile Strength and Hardness in GMAW/GTAW ButtWelded Joints with Various Shielding Gas Compositions",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2021",
+              "Date": "24-02-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference proceedings",
+              "Level": "International",
+              "Title": "The computational fluid dynamics (CFD) investigation of steam flow and temperature distribution in a small scale idly-baking oven",
+              "Volume No": "2387",
+              "Issue No": "020001",
+              "Year": "2021",
+              "Date": "20-02-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Stress analysis of riveted and bolted joints using analytical and experimental approach",
+              "Volume No": "42",
+              "Issue No": "2",
+              "Year": "2021",
+              "Date": "23-01-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials and Manufacturing Processes",
+              "Level": "International",
+              "Title": "Comparative investigation of mechanical properties in GMAW/GTAW for various shielding gas compositions",
+              "Volume No": "29",
+              "Issue No": "8",
+              "Year": "2014",
+              "Date": "18-07-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Type of Project": "Student Innovation Project",
+              "Title of Project": "Compact Versatile Cooking Machine",
+              "Funding Agency": "KEC",
+              "Name of the Scheme": "Spark Fund",
+              "Co-Investigator(s)": "A.Ganesh",
+              "Project Start Date": "30-10-2021",
+              "Duration": "1 month",
+              "Status": "Completed"
+            },
+            {
+              "Principal Investigator": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Type of Project": "Student Innovation Project",
+              "Title of Project": "Design and Fabrication of multi millet seperating machine",
+              "Funding Agency": "TNSCST",
+              "Name of the Scheme": "Student project scheme",
+              "Co-Investigator(s)": "",
+              "Project Start Date": "05-02-2018",
+              "Duration": "1 month",
+              "Status": "Completed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Hawle Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "17-06-2025",
+              "Date of Consultancy (To)": "17-06-2025",
+              "Revenue Generated (amount in Rupees without GST)": "0"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of the Industry/Organization": "Subavalar industries, Perundurai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Energy Audit",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "17-05-2022",
+              "Date of Consultancy (To)": "17-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "23600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Industrial practice of CAE using Hypermesh & ANSYS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-09-2024",
+              "End Date": "06-10-2024",
+              "Duration": "36 Hours",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Design of Structural Frames and GD & T",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "06-08-2024",
+              "End Date": "19-08-2024",
+              "Duration": "30 Hours",
+              "Role played": "Joint Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design of Mechanical Transmission Systems",
+              "Level": "National",
+              "Organized by": "IIT Madras",
+              "Place": "Chennai",
+              "Start Date": "19-01-2026",
+              "End Date": "29-04-2026"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovations in Advanced Materials, Optimization and Sustainable Energy",
+              "Level": "Online",
+              "Organized by": "SRM Institute of Science and Technology",
+              "Place": "Cnennai",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Structural and CFD simulations using ANSYS",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "28-10-2025",
+              "End Date": "01-11-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Fundamentals of Sports Training, Load Management and Recovery",
+              "Level": "National",
+              "Organized by": "IIT,Madras",
+              "Place": "",
+              "Start Date": "07-08-2025",
+              "End Date": "29-10-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "Training Program",
+              "Title of the program": "Faculty Industrial Training",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-06-2025",
+              "End Date": "20-06-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent advances in mechanical Engineer and its applications",
+              "Level": "Online",
+              "Organized by": "Swaranandhara College of Engineering and Technology",
+              "Place": "Andhra Pradesh",
+              "Start Date": "21-04-2025",
+              "End Date": "26-04-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Game - Changing Materials for High performance Energy and Sustainable Healthcare development",
+              "Level": "Online",
+              "Organized by": "KGiSL Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "03-02-2025",
+              "End Date": "08-02-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Exercise and Sports Biomechanics",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Madras",
+              "Start Date": "07-01-2025",
+              "End Date": "16-04-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Sports and Performance Nutrition",
+              "Level": "National",
+              "Organized by": "Indian Instituter of Technology",
+              "Place": "Madras",
+              "Start Date": "06-08-2024",
+              "End Date": "22-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Thermal Operations In Food Process Engineering: Theory And Applications",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Madras",
+              "Start Date": "08-07-2024",
+              "End Date": "24-10-2024"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Mathematical Modelling and Computation in Engineering",
+              "Level": "Online",
+              "Organized by": "SRMIST",
+              "Place": "Hyderabad",
+              "Start Date": "24-07-2023",
+              "End Date": "30-07-2023"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Computing with MATLAB and Latex Software: Indispensible tool for researchers",
+              "Level": "Online",
+              "Organized by": "Baba Farid College",
+              "Place": "Bathinda",
+              "Start Date": "05-01-2022",
+              "End Date": "11-01-2022"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Mechanical and Manufacturing Engineering",
+              "Level": "Online",
+              "Organized by": "Vishwakarma Institute of Information Technology",
+              "Place": "Pune",
+              "Start Date": "21-12-2020",
+              "End Date": "25-12-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Neural network and deep learning",
+              "Level": "Online",
+              "Organized by": "Guru gobindh Singh Indraprastha University",
+              "Place": "",
+              "Start Date": "23-11-2020",
+              "End Date": "27-11-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "Computer Science and Biology",
+              "Level": "Online",
+              "Organized by": "S.R.M Institute of Technology",
+              "Place": "",
+              "Start Date": "02-11-2020",
+              "End Date": "06-11-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Product Design and Development",
+              "Level": "Online",
+              "Organized by": "IIT",
+              "Place": "Roorkee",
+              "Start Date": "08-09-2020",
+              "End Date": "22-10-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "FDP",
+              "Title of the program": "ANSYS Mechanical & CFD",
+              "Level": "Others",
+              "Organized by": "Entuple Technologies",
+              "Place": "",
+              "Start Date": "03-06-2020",
+              "End Date": "09-06-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Operations management",
+              "Level": "Online",
+              "Organized by": "IIT",
+              "Place": "Roorkee",
+              "Start Date": "06-01-2020",
+              "End Date": "22-04-2020"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Operations research",
+              "Level": "Online",
+              "Organized by": "IIT",
+              "Place": "Roorkee",
+              "Start Date": "09-07-2019",
+              "End Date": "26-09-2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of the Professional Body/Society": "Indian Welding Society",
+              "Position": "Assistant Professor(Sr.G)",
+              "Level": "National",
+              "Start Date": "05-07-2024",
+              "End Date": "05-06-2025"
+            },
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Name of the Professional Body/Society": "The Indian Society for Technical Education",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "13-12-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.V.SATHEESH KUMAR",
+              "Department": "MER",
+              "Title of the Program": "Sadhana Journal Reviwer",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "13-07-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.SUGANYA",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "DATA STRUCTURES,DBMS,SOFTWARE ENGINEERING,PROGRAMMING IN  C",
+              "Date of joining in KEC": "06-06-2025",
+              "Mobile": "6381589749",
+              "E-mail": "suganya.it@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Academic Degree": "M.E",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "10-06-2015"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Academic Degree": "B.E",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "05-08-2009"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal for Research Trends and Innovation",
+              "Level": "International",
+              "Title": "Blockchain-Based Access Control Model for Secure Data Sharing in IoT Networks",
+              "Volume No": "Volume 10",
+              "Issue No": "5",
+              "Year": "2025",
+              "Date": "05-05-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "shasti karz",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E-Commerce Website Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-01-2026",
+              "Date of Consultancy (To)": "30-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Surfaux dye",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "E-Commerce Website Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2026",
+              "Date of Consultancy (To)": "20-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "ONE CREDIT COURSE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-08-2026",
+              "End Date": "25-10-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "CC8 ,IT PARK"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "NON FORMAL COURSE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-07-2026",
+              "End Date": "07-08-2026",
+              "Duration": "16 days",
+              "Role played": "Joint Convener",
+              "Venue": "ITP009,  IT PARK"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "AWS-CLOUD ESSENTIALS",
+              "Collaboration/Sponsored by": "IIPC,centre of excellence",
+              "Level": "National",
+              "Start Date": "27-02-2026",
+              "End Date": "27-02-2026",
+              "Duration": "i day",
+              "Role played": "Coordinator",
+              "Venue": "CC8,IT PARK"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "NON FORMAL COURSE",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "15 days",
+              "Role played": "Convener",
+              "Venue": "G04  ,IT PARK"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Building next generation applications using generative AI",
+              "Collaboration/Sponsored by": "IIPC,Centre of Excellence in Data Science",
+              "Level": "Department",
+              "Start Date": "15-11-2025",
+              "End Date": "15-11-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CC 15, Foundation LAB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Application Development using MLOPS",
+              "Level": "State",
+              "Organized by": "centre of excellence ,Dept of CSE",
+              "Place": "CC16,IT PARK",
+              "Start Date": "01-06-2026",
+              "End Date": "06-06-2026"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Empowering Digital Defense- A Programmatic approach to Cyber security",
+              "Level": "State",
+              "Organized by": "",
+              "Place": "IT PARK CC8",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Java basis",
+              "Level": "Online",
+              "Organized by": "Infosys spring board",
+              "Place": "",
+              "Start Date": "19-01-2026",
+              "End Date": "23-01-2026"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to IOT",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-11-2025",
+              "End Date": "01-11-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training program for new joined Faculty",
+              "Level": "National",
+              "Organized by": "kongu Engineering College",
+              "Place": "KEC",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI",
+              "Level": "National",
+              "Organized by": "Brain o vision solutions pvt ltd",
+              "Place": "surya engineering college",
+              "Start Date": "04-08-2025",
+              "End Date": "08-08-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Application Development with AI and Essential skills",
+              "Level": "National",
+              "Organized by": "surya Engineering college",
+              "Place": "surya Engineering college",
+              "Start Date": "23-06-2025",
+              "End Date": "27-06-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI In Research Methodology",
+              "Level": "National",
+              "Organized by": "JAI SHRIRAM ENGINEERING COLLEGE",
+              "Place": "JAI SHRIRAM ENGINEERING COLLEGE",
+              "Start Date": "16-06-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "virtual reality and Augmented reality using Unity",
+              "Level": "National",
+              "Organized by": "SCOPIK EDUTECH PVT LTD",
+              "Place": "Kongu Engineering College",
+              "Start Date": "09-06-2025",
+              "End Date": "13-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "12-11-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Title of Paper": "A SMART CLOUD BASED ADAPTIVE LEARNING SYSTEM FOR STUDENT PERFORMANCE REVIEW",
+              "Title of Conference": "International conference on POWER CONTROL COMPUTING TECHNOLOGIES",
+              "Organized by": "Sona College of Technology",
+              "Level": "International",
+              "Start Date": "04-12-2025",
+              "End Date": "05-12-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Title of the Program": "FROM BASIS TO REAL WORLD APPLICATION ABOUT\"MACHINE LEARNING\"",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "13-02-2026",
+              "End Date": "13-02-2026"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Title of the Program": "EPOCH'26 National level Technical Symposium",
+              "Role": "Jury/Judge",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Kongu Engineering College,Dept of IT",
+              "Start Date": "07-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Title of the Program": "Project Presentation",
+              "Role": "Jury/Judge",
+              "Level": "Inter-Collegiate",
+              "Organized by": "CSI-KEC Student Branch",
+              "Start Date": "17-10-2025",
+              "End Date": "17-10-2025"
+            },
+            {
+              "Name of Faculty": "S.SUGANYA",
+              "Department": "ITR",
+              "Title of the Program": "SIGNIN '25 NATIONAL LEVEL TECHNICAL SYMPOSIUM",
+              "Role": "Jury/Judge",
+              "Level": "National",
+              "Organized by": "INFORMATION TECHNOLOGY,KEC",
+              "Start Date": "04-09-2025",
+              "End Date": "04-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

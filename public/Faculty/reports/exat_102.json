@@ -1,0 +1,1446 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Computational Intelligence",
+              "Date of joining in KEC": "28-07-2008",
+              "Mobile": "9943114104",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Academic Degree": "PhD",
+              "Specialization": "Computer Applications",
+              "From": "30-01-2012"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Academic Degree": "MCA",
+              "Specialization": "Computer Applications",
+              "From": "05-06-2003"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Academic Degree": "BSc",
+              "Specialization": "Computer Science",
+              "From": "05-07-2000"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+              "Level": "International",
+              "Title": "Optimized Multi-Resolution Attention-Based Architecture for Effective Diabetic Skin Lesion Classification",
+              "Volume No": "8",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "17-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET), CHENNAI, India",
+              "Level": "International",
+              "Title": "Innovative Computational Strategies for Early Alzheimer's Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET),",
+              "Level": "International",
+              "Title": "Multilingunal YouTube Comment Moderation using Machine Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "16-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Level": "International",
+              "Title": "Contextual Sentiment Analysis using Transformer-Based Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "15-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+              "Level": "International",
+              "Title": "Dynamic Uncertainty-Aware Adaptive Subspace Fusion Network for Robust Multimodal Medical Image Classification",
+              "Volume No": "8",
+              "Issue No": "2",
+              "Year": "2026",
+              "Date": "14-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 5th International Conference on Sentiment Analysis and Deep Learning (ICSADL)",
+              "Level": "International",
+              "Title": "A Study on Trends and Impact of Mobile Phone Addiction in Adolescent Populations",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "13-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Communications in Computer and Information Science, vol 2688. Springer",
+              "Level": "International",
+              "Title": "AI-Powered Evolution: Unveiling the Nexus of Artificial Intelligence and Computer Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "09-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cybernetics and Systems",
+              "Level": "International",
+              "Title": "Enhancing Medical Diagnosis through Multimodal Image Fusion: A Novel Approach Using Modified Swin-Based Cross Attention Fusion",
+              "Volume No": "57",
+              "Issue No": "5",
+              "Year": "2026",
+              "Date": "12-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Electronics and Renewable Systems (ICEARS)",
+              "Level": "International",
+              "Title": "Thyroid Cancer Detection using Deep Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "11-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Edge Computing and Aerial Platforms",
+              "Level": "International",
+              "Title": "Integration of Aerialâ€Aided Edge Technologies with Emerging Technologies",
+              "Volume No": "293-328",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "02-01-2026",
+              "Published at": "John Wiley & Sons, Inc. Hoboken, NJ, USA"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 IEEE International Conference for Women in Innovation, Technology & Entrepreneurship (ICWITE)",
+              "Level": "International",
+              "Title": "Ai-Driven Cybersecurity Defense for Military Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "24-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": ",\" 2025 7th International Conference on Intelligent Sustainable Systems (ICISS)",
+              "Level": "International",
+              "Title": "Augmented Reality Companion for Interactive Science Laboratory Simulations",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "18-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "LAP Lambert Academic Publishing",
+              "Level": "International",
+              "Title": "AI for Creativity: Computational Tools for Artists and Designers by Gangadhar Va",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "24-09-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Level": "International",
+              "Title": "Comparative Analysis of AI Chatbot for Assessing Gemini AI, DeepSeek AI, and Qwen AI via OpenRouter API Integration",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-08-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Spectrum Management: Towards 6G",
+              "Level": "International",
+              "Title": "The Synergy of Artificial Intelligence and Blockchain in 6G Spectrum Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-08-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Information Technology & Decision Making",
+              "Level": "International",
+              "Title": "CD-CLSTM: Intuitionistic Fuzzy C-Means Clustering based Online Course Recommendation System using Integrated Deep Learning Methodology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "06-08-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 2nd International Conference on Computing and Data Analytics (ICCDA), Shinas, Oman,",
+              "Level": "International",
+              "Title": "Uncovering Android Zero-Day Threats: The Zero-Vuln Approach with Deep and Zero-Shot Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "22-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "LAP LAMBERT Academic Publishing",
+              "Level": "International",
+              "Title": "bookmark\nQuantum Algorithms for Intelligent System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "17-07-2025",
+              "Published at": "LAP LAMBERT Academic Publishing"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Discover Applied Sciences",
+              "Level": "International",
+              "Title": "Adaptive Fuzzy C-Means with logit boost distributed clustering for cancer detection with protein sequences",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 8th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "Analysing the Influential Factors Affecting Students Placement Outcomes using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Asthma disease risk prediction using machine learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Hate speech analysis using supervised machine learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "04-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Intelligent Computing and Control Systems (ICICCS)",
+              "Level": "International",
+              "Title": "AR Portal for Enriching Education and Business",
+              "Volume No": "1",
+              "Issue No": "1",
+              "Year": "2025",
+              "Date": "12-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 7th International Conference on Intelligent Sustainable Systems (ICISS)",
+              "Level": "International",
+              "Title": "Augmented Reality Companion for Interactive Science Laboratory Simulations",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "08-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings",
+              "Level": "International",
+              "Title": "Integration of IoT in Medical Infrastructure: A Review",
+              "Volume No": "3137",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "25-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "1st International Conference on Innovative Engineering Sciences and Technological Research, ICIESTR 2024 - Proceedings",
+              "Level": "International",
+              "Title": "Leveraging Internet of Things (IoT) Sensors and Deep Learning Techniques for Precision Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "14-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "ICCDS 2024 - International Conference on Computing and Data Science",
+              "Level": "International",
+              "Title": "Exploring Sensor-Based Smart Farming Technologies in the Internet of Things (IoT)",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "20-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "024 International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+              "Level": "International",
+              "Title": "Leveraging Digital Twins and AI for Enhanced Clinical Decision Support in Endometrial Cancer Treatment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 1st International Conference on Data, Computation and Communication, ICDCC 2024",
+              "Level": "International",
+              "Title": "Exploring the Synergy of Artificial and Computational Intelligence for Technological Advancements",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Computing and Data Analytics (ICCDA) - IEEE",
+              "Level": "International",
+              "Title": "Uncovering Android Zero-Day Threats: The Zero-Vuln Approach with Deep and Zero-Shot Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "12-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Self Sustainable Artificial Intelligence Systems, ICSSAS 2024 - Proceedings",
+              "Level": "International",
+              "Title": "Deep Learning based Smart Security Camera System using YOLO Algorithm in Security Setting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Self Sustainable Artificial Intelligence Systems, ICSSAS 2024 - Proceedings",
+              "Level": "International",
+              "Title": "Sustainable Energy Generation from Speed Breakers for Smart Street Lighting Application",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Recent Technological Advances in Engineering and Management",
+              "Level": "International",
+              "Title": "Evaluating the Application of Blockchain to Secure and Effective Electronic Voting",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "20-24",
+              "Date": "22-10-2024",
+              "Published at": "CRC Press"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Innovations in Cybersecurity and Data Science Proceedings of ICICDS",
+              "Level": "International",
+              "Title": "Soil Sensing Using Internet of Things Technologies for Precision Agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "08-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 5th International Conference on Smart Electronics and Communication, ICOSEC 2024",
+              "Level": "International",
+              "Title": "Explainable Deep Learning Architecture for Alzheimer's Disease Detection using MRI",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "18-09-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Electrical, Electronics and Computing Technologies, ICEECT 2024",
+              "Level": "International",
+              "Title": "Integrating Artificial Intelligence and Multiple Intelligences for Advanced Educational Models",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "29-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Human Cancer Diagnosis and Detection Using Exascale Computing",
+              "Level": "International",
+              "Title": "Investigation on Introduction to Heterogeneous Exascale Computing in the Medical Field",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "20-08-2024",
+              "Published at": "John Wiley & Sons, Inc. Hoboken, NJ, USA"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings - 2024 International Conference on Expert Clouds and Applications, ICOECA 2024",
+              "Level": "International",
+              "Title": "Empowering Breast Cancer Detection with AI: A Modified Support Vector Machine Approach for Improved Classification Accuracy",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings - 2024 International Conference on Expert Clouds and Applications, ICOECA 2024",
+              "Level": "International",
+              "Title": "Detection of Alcohol Drug Consumption Among Youngsters using Eye Gazing Movement and Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "1st International Conference on Pioneering Developments in Computer Science and Digital Technologies, IC2SDT 2024 - Proceedings",
+              "Level": "International",
+              "Title": "Exploring the Role of Internet of Things in Wireless Sensor Networks for Industry 4.0 Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "02-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 First International Conference on Data, Computation and Communication (ICDCC), Sehore, India",
+              "Level": "International",
+              "Title": "Exploring the Synergy of Artificial and Computational Intelligence for Technological Advancements",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Healthcare and Machine Learning",
+              "Level": "International",
+              "Title": "A Blockchain-Based Hybrid SVMLR Approach for IoT-Healthcare",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "15-07-2024",
+              "Published at": "Springer Nature Singapore Singapore"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Exploring Deep Learning Algorithms for Skin Disease Classification Using Skin Lesion Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "09-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)",
+              "Level": "International",
+              "Title": "Deep Learning Techniques for Emotional Classification Using Facial Images Among Youngsters",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "11-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of the 3rd International Conference on Applied Artificial Intelligence and Computing, ICAAIC 2024",
+              "Level": "International",
+              "Title": "Incorporating Artificial Intelligence Powered Immersive Realities to Improve Learning using Virtual Reality (VR) and Augmented Reality (AR) Technology",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "07-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Utilization of AI Technology in Supply Chain Management",
+              "Level": "International",
+              "Title": "Computational Biology Meets Swarm Intelligence: Implications for Supply Chain Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "14-05-2024",
+              "Published at": "IGI Global Scientific Publishing"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 International Conference on Cognitive Robotics and Intelligent Systems, ICC - ROBINS 2024",
+              "Level": "International",
+              "Title": "Deep learning Techniques for Identification of Illicit Drug Identification in Youth",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "17-04-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings - 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks, ICICV 2024",
+              "Level": "International",
+              "Title": "Smart Learning of Animals Using Virtual Reality Zoo",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "12-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Animals detection system in the farm area using iot",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "26-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 8th international conference on communication and electronics systems (ICCES)",
+              "Level": "International",
+              "Title": "Powering iot systems with 5g wireless communication: A comprehensive review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "10-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)",
+              "Level": "International",
+              "Title": "A smart air pollutants monitoring system using IOT technologies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Data analytics for phishing attack detection using deep learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "13-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Recognition and Classification of Image Based Coal and Coal Gangue Using Deep Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Smart Grids and Internet of Things: An Energy Perspective",
+              "Level": "International",
+              "Title": "Effective Load Balance in IOTSG with Various Machine Learning Techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-06-2023",
+              "Published at": "John Wiley & Sons, Inc. Hoboken, NJ, USA"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Drug consumption detection by eye using image processing techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 international conference on computer communication and informatics (ICCCI)",
+              "Level": "International",
+              "Title": "An image based classification and prediction of diseases on cotton leaves using deep learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "01-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IoT Based Control Networks and Intelligent Systems: Proceedings of 3rd ICICNIS 2022",
+              "Level": "International",
+              "Title": "Examination of water impurities using IoT and machine learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "04-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 international conference on computer communication and informatics (ICCCI)",
+              "Level": "International",
+              "Title": "Sensor based smart agriculture with IoT technologies: A Review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "13-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Level": "International",
+              "Title": "Fruits quality detection using deep learning models: A meta-analysis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-08-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "Study on Wind Energy Analytics and its Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "22-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "Study on water quality and wastewater treatment using IOT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "21-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 6th International Conference on Computing Methodologies and Communication (ICCMC)",
+              "Level": "International",
+              "Title": "IoT technologies for precision agriculture: a survey",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "21-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IoT Based Control Networks and Intelligent Systems: Proceedings of 3rd ICICNIS 2022",
+              "Level": "International",
+              "Title": "Performance analysis of machine learning algorithms in Heart diseases prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "21-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Data Communication Technologies and Internet of Things: Proceedings of ICICI 2021",
+              "Level": "International",
+              "Title": "A robust authentication and authorization system powered by deep learning and incorporating hand signals",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "14-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 4th International Conference on Inventive Research in Computing Applications (ICIRCA)",
+              "Level": "International",
+              "Title": "Sentiment Analysis on Online Education During Covid Pandemic",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "07-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+              "Level": "International",
+              "Title": "IoT based soil nutrients analysis and monitoring system for smart agriculture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "01-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP conference series: materials science and engineering",
+              "Level": "International",
+              "Title": "Machine learning approach for detection of keratoconus",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Survey of Ophthalmology",
+              "Level": "International",
+              "Title": "Artificial intelligence applications in different imaging modalities for corneal topography",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": "Elsevier"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Aquatic Science",
+              "Level": "International",
+              "Title": "Performance Evaluation Of Machine Learning Algorithm For Lung Cancer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal For Innovative Development in Pharmaceutical and Technical Science",
+              "Level": "International",
+              "Title": "Shoulder surfing of resistant graphical password",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Innovations in Life Science Research",
+              "Level": "International",
+              "Title": "CONVOLUTION NEURAL NETWORK BASED DETECTION OF HOOKWORM FOR HEALTH CARE",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": "springer"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Operationalizing Multi-Cloud Environments: Technologies, Tools and Use Cases",
+              "Level": "International",
+              "Title": "Hybrid Machine Learning Models for Distributed Biological Data in Multi-Cloud Environment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Aquatic Science",
+              "Level": "International",
+              "Title": "Using Deep Learning Techniques To Enhance Brain Tumor Diagnosis And Classification On Mri Images",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Karpagam JCS",
+              "Level": "International",
+              "Title": "Adaptive Fuzzy With Enhanced Genetic Algorithmi To Diagnosing Breast Cancer",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-06-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Machine Learning and Deep Learning in Real-Time Applications",
+              "Level": "International",
+              "Title": "A novel deep learning method for identification of cancer genes from gene expression dataset",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "21-10-2020",
+              "Published at": "IGI Global"
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Critical Reviews",
+              "Level": "International",
+              "Title": "Face recognition for automated attendance system using lbph algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "01-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "Air Quality Index Prediction using Machine Learning Algorithms",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "01-04-2020",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Name of the Industry/Organization": "Sri Vasatham Timbers, Chitode, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "05-01-2026",
+              "Date of Consultancy (To)": "20-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "40000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "OneDayNationalLevel Workshop  On  Design ThinkingStrategies  For  HackathonIdeation",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "21-03-2025",
+              "End Date": "",
+              "Duration": "One Day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Type of Event": "Workshop",
+              "Name of Event": "National Level Workshop on “Real-Time IoT Projects with Raspberry Pi 4",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "22-03-2023",
+              "End Date": "",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": "MCA Block"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.PYINGKODI",
+              "Department": "MCA",
+              "Name of the Professional Body/Society": "International Association of  Engineers",
+              "Position": "Member",
+              "Level": "International",
+              "Start Date": "01-04-2019",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1013 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "02-06-2010",
+              "Mobile": "9659343425",
+              "E-mail": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Academic Degree": "ph.D",
+              "Specialization": "Information and Communication",
+              "From": "07-06-2012"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Academic Degree": "M.E",
+              "Specialization": "Communication Systems",
+              "From": "14-06-2007"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Academic Degree": "B.E",
+              "Specialization": "ECE",
+              "From": "05-06-2002"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-06-2010",
+              "End Date": "10-06-2025",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Aircraft Engineering and Aerospace Technology: An International Journal",
+              "Level": "International",
+              "Title": "Performance and emissions of gas turbine engines fueled with karanja oil-based biofuel blends: a machine learning approach using Lasso regression",
+              "Volume No": "98",
+              "Issue No": "5",
+              "Year": "2026",
+              "Date": "28-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ocean Science Journal",
+              "Level": "International",
+              "Title": "Modeling Future Coastal Morphodynamics Under Climate Forcing Using Ensemble-Based Machine Learning Approaches",
+              "Volume No": "61",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "12-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Desalination and water treatment",
+              "Level": "International",
+              "Title": "Auto sensor and machine learning driven design of electrochemical desalination units for high efficiency brine management",
+              "Volume No": "325",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "06-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Desalination and Water Treatment",
+              "Level": "International",
+              "Title": "Integrating remote sensing, IoT, and machine learning for tracking saltwater intrusion in coastal aquifers due to over-extraction: A geospatial approach",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "08-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Matéria (Rio de Janeiro)",
+              "Level": "International",
+              "Title": "Precision crack analysis in concrete structures using CNN, SVM, and\nKNN: a machine learning approach",
+              "Volume No": "29",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "25-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Design of U shaped slot antenna with reflector for 5G applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Recent evolutions in energy, drives and e-vehicles",
+              "Level": "International",
+              "Title": "A rectangular microstrip patch antenna for 5G wireless applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "12-07-2024",
+              "Published at": "Springer"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Design and comparative analysis of various antenna array structures for 5G applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE Explore"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE  Explore",
+              "Level": "International",
+              "Title": "Development of house hold energy usage monitoring smart meter system using Lorawan",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Revolutionizing cricket: Deep learning solutions for accurate No-Ball detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE Explore"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Explore",
+              "Level": "International",
+              "Title": "Circular ground plane antenna for multipath mitigation in two frequency bands (L1 and L2bands)",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE Explore"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioengineering",
+              "Level": "International",
+              "Title": "Compact Flexible Planar Antennas for Biomedical Applications: Insight into Materials and Systems Design",
+              "Volume No": "10",
+              "Issue No": "10",
+              "Year": "2023",
+              "Date": "28-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Global Nest Jounal",
+              "Level": "International",
+              "Title": "Internet of things enabled smart solid waste management system",
+              "Volume No": "25",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "16-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Physics A",
+              "Level": "International",
+              "Title": "Design and development of a new metamaterial sensor?based Minkowski fractal antenna for medical imaging",
+              "Volume No": "129",
+              "Issue No": "5",
+              "Year": "2023",
+              "Date": "03-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "A design of highly isolated UWB MIMO antennas-A review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "03-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Intelligent Automation & Soft Computing",
+              "Level": "International",
+              "Title": "Blockchain Enabled Optimal Lightweight Cryptography Based Image Encryption Technique for IIoT",
+              "Volume No": "33",
+              "Issue No": "3",
+              "Year": "2022",
+              "Date": "01-09-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Next?Generation Antennas: Advances and Challenges John Wiley & Sons, Inc.",
+              "Level": "International",
+              "Title": "Design of Compact Ultra?Wideband (UWB) Antennas for Microwave Imaging Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "10-08-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific & Technology Research",
+              "Level": "International",
+              "Title": "Design And Analysis Of High Gain 2x1, 4x1, 8x1 And 8x8 Circular Patch Antenna Arrays For 2.4ghz Applications",
+              "Volume No": "9",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "07-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "INTERNATIONAL JOURNAL OF RECENT TECHNOLOGY AND ENGINEERING",
+              "Level": "International",
+              "Title": "A ULTRA HIGH FREQUENCY (UHF) RFID ANTENNA DESIGN FOR FOOD QUALITY AND SAFETY",
+              "Volume No": "9",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "03-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Circuits, Systems and Computers",
+              "Level": "International",
+              "Title": "A Miniaturized High-Gain (MHG) Ultra-Wideband Unidirectional Monopole Antenna for UWB Applications",
+              "Volume No": "28",
+              "Issue No": "53",
+              "Year": "2019",
+              "Date": "12-03-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematics and Information Sciences",
+              "Level": "International",
+              "Title": "Improved Bandwidth and Gain in Ultra-wideband Staircase Antipodal Bowtie Antenna with Rounded Edge for Microwave Imaging Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "01-11-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Advances in Chemistry",
+              "Level": "International",
+              "Title": "UWB Slotted Circular Disc Monopole Antenna with Inverted U Shaped Defected Ground Plane for Brain Cancer Detection",
+              "Volume No": "12",
+              "Issue No": "22",
+              "Year": "2016",
+              "Date": "14-12-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal on Recent and Innovation Trends in Computing and Communication",
+              "Level": "International",
+              "Title": "A survey on design of multiband monopole antenna for wireless applications",
+              "Volume No": "1",
+              "Issue No": "12",
+              "Year": "2013",
+              "Date": "25-12-2013",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Project": "KEC SPARK fund",
+              "Title of Project": "APIDYNE-beehive monitoring system",
+              "Funding Agency": "KEC SPARK fund",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "Vibin Mammen Vinod",
+              "Project Start Date": "21-06-2026",
+              "Duration": "1 year",
+              "Status": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Palanisamy Gounder Mill, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Fire alarm system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "21-02-2025",
+              "Date of Consultancy (To)": "10-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Azhagu Murugan Home Appliance",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Automatic  security lock  system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "12-02-2025",
+              "Date of Consultancy (To)": "12-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Thiru Krishnan Agencies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Image  recognition-based  billing system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "11-02-2025",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Swastika Engineering Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Embedded design",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "05-02-2025",
+              "Date of Consultancy (To)": "05-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ranjitha Tex, Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Biometric attendance system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "04-02-2025",
+              "Date of Consultancy (To)": "21-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sivasakkthi Transfer",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Fire Alarm System",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "13-02-2024",
+              "Date of Consultancy (To)": "06-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SMT Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Biometric  Fingerprint  Attendance using  IOT",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "07-02-2024",
+              "Date of Consultancy (To)": "14-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Jeniconix Microwave, Chennai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project designed",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "10-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "1000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "aadhithya Exports",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Fire alarm system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "07-02-2023",
+              "Date of Consultancy (To)": "16-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Silicon systems, coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Adam Pluto design programming",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "06-02-2023",
+              "Date of Consultancy (To)": "26-10-2023",
+              "Revenue Generated (amount in Rupees without GST)": "42372"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SSJJ Kaal meen Kadai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Security system",
+              "Number of persons involved": "02",
+              "Date of Consultancy (From)": "06-02-2023",
+              "Date of Consultancy (To)": "16-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "6999"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Smart embedded system and antenna design for IoT(Batch 2)",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-02-2026",
+              "End Date": "",
+              "Duration": "30hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Smart embedded systems and antenna design for IOT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "communication system design lab"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Event": "FDP",
+              "Name of Event": "Wireless Network Design with NS-3 and Sensor Deployment Using SENSEnuts Platform",
+              "Collaboration/Sponsored by": "-",
+              "Level": "State",
+              "Start Date": "16-07-2025",
+              "End Date": "20-07-2025",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": "ECE department"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VP003-Mini Project",
+              "Collaboration/Sponsored by": "Digitoad Technologies, Bangalore",
+              "Level": "Department",
+              "Start Date": "23-10-2024",
+              "End Date": "27-10-2024",
+              "Duration": "5 days",
+              "Role played": "Joint Coordinator",
+              "Venue": "Department of ECE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Electronic Systems Design: Hands-on Circuits and PCB Design with CAD Software",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "online",
+              "Start Date": "02-07-2025",
+              "End Date": "18-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Edge Computing",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "Online",
+              "Start Date": "20-01-2025",
+              "End Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Five days FDP",
+              "Level": "Others",
+              "Organized by": "Data Pattern",
+              "Place": "Chennai",
+              "Start Date": "06-01-2025",
+              "End Date": "10-01-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "five days virtual programme on 5G communication networks",
+              "Level": "National",
+              "Organized by": "PSNA college of Engineering and technology",
+              "Place": "Online",
+              "Start Date": "09-12-2024",
+              "End Date": "13-12-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Wideband Radar System in Indoor Security Applications",
+              "Name of Application": "",
+              "Co-inventors Name": "Dr.V.Dinesh, Dr.K.S.Tamilselvan",
+              "Application Number": "202141005234 A,",
+              "Date of Registration": "08-02-2021",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "12-02-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "Guest lecture on \"Metamaterial and metasurface antenna for next generation communication\"",
+              "Role": "Keynote Address",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "02-03-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "FDP, session title on \"metamaterial antenna for 5G and beyond\"",
+              "Role": "Keynote Address",
+              "Level": "Inter-Collegiate",
+              "Organized by": "Coimbatore Institute of Engineering and Technology",
+              "Start Date": "09-01-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "Six days FDP on \"Advancement in antenna technologies for next generation wireless communication and Bio-EM applications",
+              "Role": "Keynote Address",
+              "Level": "National",
+              "Organized by": "",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "AICTE ATAL FDP on \" Advancing Green Communication :Research perspectives in Sustainable Optical wireless technology\"",
+              "Role": "Keynote Address",
+              "Level": "National",
+              "Organized by": "SSM institute of Engineering and Technology",
+              "Start Date": "13-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "15th ICCCNT  2024",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "KEC with IIT Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.J.VIJAYALAKSHMI",
+              "Department": "ECR",
+              "Title of the Program": "15th ICCCNT 2024",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "KEC with IIT,Mandi",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

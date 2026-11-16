@@ -1,0 +1,783 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "",
+              "Date of joining in KEC": "06-06-2025",
+              "Mobile": "9944122146",
+              "E-mail": "velmurugan.csd@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Academic Degree": "M.E",
+              "Specialization": "Applied Electronics",
+              "From": "01-08-2011"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Academic Degree": "B.E",
+              "Specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+              "From": "28-07-2004"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Kangeyam Institute of Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "03-06-2013",
+              "End Date": "05-06-2025",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-ce2970dc-bbc9-4ff6-a248-d4ee5d360282.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8a06fda1d4d533d0a6ab72187d5c22cf477d51c33b317fa3360df269eb902459",
+                  "name": "BEC Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "njwPzLBZj9jxe3eEg",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-56683570-6613-4e6b-8010-fa8e6713880a.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=38f1a3394f3b92ee0e3ed9bf307ea7853643f924efcd457857d446527fd963e1",
+                  "name": "BEC Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "vmkhGZMk2mmhF8NFZ",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Coimbatore Institute of Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "02-09-2010",
+              "End Date": "30-08-2011",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-f4a69b0c-29cb-43e8-9c8d-d5c0acf68c0d.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=fcac0f1ae181ebf99ef48cffea23023b9b806c043e0cb2ec80c2497c404d596a",
+                  "name": "CIT Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "aWYyCzaP3mBW6yj9Z",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-8e703c13-b326-4adb-a059-d8860081a63e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=957d1f2b391ae9aeb4665be596a69557fdeb51209971535ac869001a1185eaa9",
+                  "name": "CIT Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "gwqHzscaXdZZqf3Ph",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Velalar College of Engineering and Technology",
+              "Position/Designation": "Lecturer",
+              "Start Date": "18-06-2008",
+              "End Date": "30-06-2010",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-507b7b29-c3af-4181-939d-9a77eaca17d5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f2f7eaea117ece1e3bafcdf5d05d569e2806be16aa18776d1a060569d4b4cc49",
+                  "name": "Velalar Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "W3c5WsJrdiHBhspY9",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CDR-T.VELMURUGAN-50bdc2a0-a0f6-4adf-aaba-e6f2abd169f4.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8811f851bdcc5ff73fb92432b89f932238cdcce2593318ca337c77d8d8e83f43",
+                  "name": "Velalar Service Certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "NuwpBHoR8pQteBYwj",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)",
+              "Level": "International",
+              "Title": "Adaptive TCP Everest for Wireless Networks using Real-Time RTT Optimization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "14-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Intelligent Decision Making and Information Science",
+              "Level": "International",
+              "Title": "A Secure Optimization-Driven Defence Strategy Against Node Capture Attacks    in    Wireless    Sensor    Networks    Using    Improved    Flower Pollination Optimizatio",
+              "Volume No": "3",
+              "Issue No": "5",
+              "Year": "2026",
+              "Date": "25-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "Revolutionizing healthcare with the\ncognitive internet of medical things: artificial\nintelligence–driven connectivity and smart systems for\npersonalized care",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "27-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "National Journal of Antennas and Propagation",
+              "Level": "National",
+              "Title": "Intelligent Cross-Layer Routing Using Trust-Integrated Multi-Agent Actor–Critic Reinforcement Learning for Hybrid IoT Systems",
+              "Volume No": "8",
+              "Issue No": "2",
+              "Year": "2026",
+              "Date": "11-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "Advanced Signal Processing Techniques in Bioacoustics by Elevating Wildlife Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 10th International Conference on Communication and Electronics Systems (ICCES)",
+              "Level": "International",
+              "Title": "Optimized Brain Tumor Classification Using Artificial BEE Colony-Enhanced Convolutional Neural Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-01-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "AN AI-DRIVEN DIGITAL TWIN FRAMEWORK\nLEVERAGING ONTOLOGIES, INTELLIGENT DATA\nMANAGEMENT, AND SIMULATION FOR SECURITY\nAND RESILIENCE IN 6G NETWORKS",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "30-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lex localis - Journal of Local Self-Government",
+              "Level": "International",
+              "Title": "INTELLIGENT PERFORMANCE OPTIMIZATION OF SQRT-CSLA ARCHITECTURE USING GRAPH NEURAL NETWORKS AND BEC LOGIC",
+              "Volume No": "23",
+              "Issue No": "11",
+              "Year": "2025",
+              "Date": "03-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "National Journal of Antennas and Propagation (NJAP)",
+              "Level": "National",
+              "Title": "A Dual-Band Reconfigurable Antenna for IoT\nDevices in Congested Spectrum Environments",
+              "Volume No": "7 ISSN: 2582-2659 Vol. 7, No. 2, 2025 (pp. 109–120)",
+              "Issue No": "2",
+              "Year": "2025",
+              "Date": "29-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book",
+              "Level": "International",
+              "Title": "IOT Architecture and Protocols",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "21-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book",
+              "Level": "National",
+              "Title": "Web Technologies",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-07-2025",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Shri Jayasakkthi Spinner",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Page Creation",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "29-12-2025",
+              "Date of Consultancy (To)": "30-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "Sakthi Bakers",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Webpage creation",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "29-12-2025",
+              "Date of Consultancy (To)": "30-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Name of the Industry/Organization": "SPS Cricket Academy",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Development of Website with AR Integration",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "29-12-2025",
+              "Date of Consultancy (To)": "30-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Mobile Application Development using Flutter",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "AICTE 8 Days FDP on UHV II",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "KEC erode",
+              "Start Date": "07-05-2026",
+              "End Date": "14-05-2026"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Industry 4.0 and Industrial Internet of Things",
+              "Level": "National",
+              "Organized by": "IIT",
+              "Place": "Kharagpur",
+              "Start Date": "02-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Mobile Application Development using Flutter and firebase",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-11-2025",
+              "End Date": "29-11-2025"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Select Programme": "FDP",
+              "Title of the program": "Virtual Reality and Augment Reality Using Unity",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-06-2025",
+              "End Date": "13-06-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Name of the Professional Body/Society": "INDIAN SOCIETY FOR TECHNICAL EDUCATION",
+              "Position": "Life Members",
+              "Level": "National",
+              "Start Date": "17-03-2009",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Title of Paper": "EEG Emotion Recognition in Brain Computer Interface Through Neural Networks and Adaptive Machine Learning",
+              "Title of Conference": "2026 9th International Conference on Computational Intelligence in Data Science (ICCIDS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-12-2026",
+              "End Date": "19-12-2026"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Title of Paper": "Multimodal EV Battery Health Prediction Using Time-Series Sensor Fusion and Graph Neural Networks",
+              "Title of Conference": "2026 International Conference on Computing, Communication, Control and Cyber-Physical Systems (I5CPS)",
+              "Organized by": "Karaikal, Puducherry, India",
+              "Level": "International",
+              "Start Date": "26-02-2026",
+              "End Date": "27-02-2026"
+            },
+            {
+              "Name of Faculty": "T.VELMURUGAN",
+              "Department": "CDR",
+              "Title of Paper": "Rule Based Expert System for Turmeric Leaf Disease Identification Using ResNet50",
+              "Title of Conference": "2025 10th International Conference on Communication and Electronics Systems (ICCES)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "28-10-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

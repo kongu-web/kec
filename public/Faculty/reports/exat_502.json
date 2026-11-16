@@ -1,0 +1,670 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "E.SOWMIYA",
+              "Department": "ITR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Deep Learning, IOT",
+              "Date of joining in KEC": "10-06-2025",
+              "Mobile": "6381812241",
+              "E-mail": "eswaramoorthysowmiya@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Academic Degree": "MASTER OF ENGINEERING",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "15-06-2015"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Academic Degree": "BACHELOR OF ENGINEERING",
+              "Specialization": "COMPUTER SCIENCE AND ENGINEERING",
+              "From": "22-08-2011"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "10-06-2025",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Organization": "",
+              "Name of Institution/Organization": "Vivekanandha College of Engineering for women",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "19-01-2023",
+              "End Date": "24-05-2025",
+              "Duration": "2 Y 4 M  5 D",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-3262e310-73fa-4ec1-bae2-6eac8fc4b0e0.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=92414ccc640c0343cce1cf690e7b111ff726ba8f426b7a4358f49fdbe297f4a0",
+                  "name": "VCEW R.pdf",
+                  "totalRecords": null,
+                  "resourceId": "MretHvqPTHJA39ALo",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-11bf9863-fdb7-49f2-bb22-4bc61060116c.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8bb79da27f96e13062272b090416fc43508a8c96904bdd978855b45b89011fcb",
+                  "name": "VCEW S.pdf",
+                  "totalRecords": null,
+                  "resourceId": "fi85j2CyNcrDCd5p6",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Vivekanandha College of Engineering for Women",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "03-06-2019",
+              "End Date": "07-07-2022",
+              "Duration": "(1 Y 6M 26 d without adding  leave) (3Y 1M 14 D Including Leave)",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-84f1f464-2384-4051-9897-ae2303a68b01.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=72d01268086f2a301224e22f47808c7117df3b827748d5cf69ecaf866f510931",
+                  "name": "VCEW 1 R.pdf",
+                  "totalRecords": null,
+                  "resourceId": "hAEBowxPMjPQ53xXD",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-47384d45-e6c8-4acc-b15e-efa4c47419a5.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=46082798f5e649d224de84130b8e5865dca123a82488db5f593b1d279fa13e88",
+                  "name": "VCEW 1 S.pdf",
+                  "totalRecords": null,
+                  "resourceId": "ttkW2orLHwxAcJRji",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Vivekanadha Institute of Engineering and Technology for women",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "19-06-2017",
+              "End Date": "01-06-2025",
+              "Duration": "1 Y 11 M 14 D",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-d7c4b5b0-5356-46f2-b7d0-3725e09656d8.PDF?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c9c66923096d3578763f8992613ea91024556ce362b6266ae9b65fd22f984b1a",
+                  "name": "VIETW R&S1 (1).PDF",
+                  "totalRecords": null,
+                  "resourceId": "teQTcitNnKRD27tqE",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-ITR-E.SOWMIYA-a05596b5-0c42-4be2-819e-afdaf9db8060.PDF?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091909Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d975c38f0ebc47db606eed183c3706b578d98095220b28151c7b70a243d3f94e",
+                  "name": "VIETW R&S 2.PDF",
+                  "totalRecords": null,
+                  "resourceId": "yiAeLS6QA96vrw5mi",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2025 International Conference on Computing and Communications (COMPUTINGCON)",
+              "Level": "International",
+              "Title": "Cancer Driver Gene Prediction using Gene-Level Mutation by Supervised Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "20-02-2026",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Sri Vaare Pipes",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "12-01-2026",
+              "Date of Consultancy (To)": "06-04-2026",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Name of the Industry/Organization": "Ambigai Fly Ash",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "App Development for Order and Payment Management",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "16949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Testing in AI Era-Skills Every Engineer Needs",
+              "Collaboration/Sponsored by": "IIPC& Center of Excellence",
+              "Level": "National",
+              "Start Date": "07-03-2026",
+              "End Date": "07-03-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "IT Park CC8"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Event": "Training",
+              "Name of Event": "Hands-on Training on Smooth Web Automation: Playwright Typescript for Absolute Beginners",
+              "Collaboration/Sponsored by": "IIPC and Center of Excellence in data Science",
+              "Level": "Department",
+              "Start Date": "04-10-2025",
+              "End Date": "24-12-2025",
+              "Duration": "1 DAY",
+              "Role played": "Coordinator",
+              "Venue": "IT PARK CC-8"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non-Formal Course",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": "CC 12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "EMPOWERING DIGITAL DEFENSE - A Pragmatic Approach to Cyber Security",
+              "Level": "National",
+              "Organized by": "Department of IT, Kongu Engineering College",
+              "Place": "Erode",
+              "Start Date": "06-04-2026",
+              "End Date": "11-04-2026"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Cloud Computing",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "PROMPT ENGINEERING",
+              "Level": "Others",
+              "Organized by": "DEPARTMENT OF CSE, KEC",
+              "Place": "IT PARK CC-16",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "Training Program",
+              "Title of the program": "FDP on Cyber Security",
+              "Level": "Others",
+              "Organized by": "Department of CSE,KEC",
+              "Place": "Admin Block",
+              "Start Date": "24-10-2025",
+              "End Date": "25-10-2025"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "Orientation Program",
+              "Title of the program": "Orientation and Training Programme for Newly Joined Faculty",
+              "Level": "HRDC",
+              "Organized by": "KEC",
+              "Place": "IT PARK SEMINAR HALL",
+              "Start Date": "29-08-2025",
+              "End Date": "20-09-2025"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "GENERATIVE AI",
+              "Level": "Online",
+              "Organized by": "BRAINVISION SOLUTION Pvt., Ltd in collaboration with AICTE",
+              "Place": "KANGEYAM INSTITUTE OF TECHNOLOGY, TIRUPPUR",
+              "Start Date": "04-08-2025",
+              "End Date": "08-12-2025"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cyber Security and Privacy",
+              "Level": "Online",
+              "Organized by": "swayam",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Cyber Security and Privacy",
+              "Level": "Online",
+              "Organized by": "Swayam",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Name of the Professional Body/Society": "THE INDIAN SOCIETY FOR TECHNICAL EDUCATION",
+              "Position": "MEMBER",
+              "Level": "National",
+              "Start Date": "01-12-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.SOWMIYA",
+              "Department": "ITR",
+              "Title of Paper": "Cancer Driver Gene prediction using gene-level mutation by Supervised Learning",
+              "Title of Conference": "International Conference on Computing and Communications (COMPUTINGCON)",
+              "Organized by": "DY Patil University",
+              "Level": "International",
+              "Start Date": "01-09-2025",
+              "End Date": "03-09-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

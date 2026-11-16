@@ -1,0 +1,538 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Designation": "",
+              "Area of Specialisation": "ENGLISH LANGUAGE TEACHING",
+              "Date of joining in KEC": "09-03-2026",
+              "Mobile": "6382425633",
+              "E-mail": "ekmpd27@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Academic Degree": "M.A",
+              "Specialization": "ENGLISH LITERATURE",
+              "From": "03-08-2022"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Category": "NET",
+              "Reference No": "",
+              "Roll No": "TN280300333",
+              "Year": "2026",
+              "Specialization": "QUALIFIED FOR ASSISTANT PROFESSOR AND ADMISSION TO PH.D",
+              "Status": "Cleared"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "09-03-2026",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of the English Literator Society",
+              "Level": "International",
+              "Title": "Windows and Mirrors: The Role of Multicultural Narratives in Shaping Empathy in Children's and Young Adult Literature",
+              "Volume No": "12",
+              "Issue No": "1",
+              "Year": "2026",
+              "Date": "05-01-2026",
+              "Published at": "www.jels.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Webinar",
+              "Title of the program": "INTERNATIONAL LEVEL FDP ON FUTURE-READY FACULTY: MASTERING AI TOOLS FOR HIGHER EDUCATION",
+              "Level": "International",
+              "Organized by": "Social Science Researchers Foundation in association with Annai Teresa Arts and Science College",
+              "Place": "Chengalpet",
+              "Start Date": "05-09-2026",
+              "End Date": "05-09-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "ACCREDITATION AND OUTCOME BASED LEARNING",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "17-08-2026",
+              "End Date": "09-10-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "One-Day National Level FDP on \"How to publish in Scopus Index\"",
+              "Level": "National",
+              "Organized by": "Department of Commerce(SF), Thiruvalluvar College, Tirunelveli",
+              "Place": "Tirunelveli",
+              "Start Date": "14-08-2026",
+              "End Date": "14-08-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "UNDERSTANDING GEN Z LEARNERS: PSYCHOLOGY OF TODAY'S STUDENTS",
+              "Level": "Online",
+              "Organized by": "SCHOOL OF COMMERCE, RVS COLLEGE OF ARTS AND SCIENCE",
+              "Place": "COIMBATORE",
+              "Start Date": "11-08-2026",
+              "End Date": "11-08-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "One Day National Level Faculty Development Program on ''National Education Policy (NEP) 2020: Vision and Roadmap for Higher Education",
+              "Level": "National",
+              "Organized by": "Department of Electrical and Electronics Engineering, Vikas College of Engineering and Technology (Autonomous)",
+              "Place": "Vijayawada, Andhra Pradesh",
+              "Start Date": "08-08-2026",
+              "End Date": "08-08-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "Orientation and Training Programme for the Newly Joined Faculty",
+              "Level": "Others",
+              "Organized by": "HRD Cell, Kongu Engineering College, Perundurai, Erode",
+              "Place": "Perundurai, Erode",
+              "Start Date": "07-08-2026",
+              "End Date": "19-09-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Seminar",
+              "Title of the program": "The Digital Shift: Language, Technology, and AI in Multidisciplinary Classrooms",
+              "Level": "Online",
+              "Organized by": "Department of English, Maria Arts and Science College for Women",
+              "Place": "Vallioor",
+              "Start Date": "07-08-2026",
+              "End Date": "07-08-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "One Day Online Faculty Development Program (FDP) on Scopus Publication and Citation Management",
+              "Level": "Online",
+              "Organized by": "Social Science Researchers Foundation - SSRF",
+              "Place": "India",
+              "Start Date": "01-08-2026",
+              "End Date": "01-08-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "FDP",
+              "Title of the program": "One-Day Faculty Development Program on Effective Research Methodology, Scientific Paper Writing Techniques, Research Ethics and Publication Best Practices",
+              "Level": "Online",
+              "Organized by": "Department of Computer Science and Engineering, Sri Indu Institute of Engineering and Technology",
+              "Place": "Hyderabad",
+              "Start Date": "22-07-2026",
+              "End Date": "22-07-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "A One-Day National Research Workshop on Think, Write, Publish: Strategies for Emerging Researchers",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "Kongu Engineering College, Perundurai",
+              "Start Date": "18-07-2026",
+              "End Date": "18-07-2026"
+            },
+            {
+              "Name of Faculty": "E.MOHANAPRIYADHARSHINI",
+              "Department": "EGR",
+              "Select Programme": "Workshop",
+              "Title of the program": "\"Beyond Information: Reimagining Literature in the Age of Artificial Intelligence\"",
+              "Level": "International",
+              "Organized by": "Department of English in association with IQAC & IIC, St. Joseph's Arts and Science College, Chennai",
+              "Place": "Chennai",
+              "Start Date": "09-07-2026",
+              "End Date": "09-07-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

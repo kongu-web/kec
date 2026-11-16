@@ -1,0 +1,1338 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Embedded system",
+              "Date of joining in KEC": "11-06-2010",
+              "Mobile": "9943960655",
+              "E-mail": "lizzy.eie@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Academic Degree": "M.E",
+              "Specialization": "Embedded system Technologies",
+              "From": "02-06-2008"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Academic Degree": "B.E",
+              "Specialization": "Electrical and Electronics Engineering",
+              "From": "11-06-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "01-06-2020",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "11-06-2010",
+              "End Date": "31-05-2020",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Best Faculty 2026",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "18-03-2026"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Top 10 in Techno cultural Fest",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "21-08-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Best project award",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "27-03-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Second place in PoC",
+              "Level": "National",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "28-10-2023"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Top 10 PoC",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "10-02-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Discover computing",
+              "Level": "International",
+              "Title": "Deep Q Siamese convolutional network\nfor intrusion detection in WSN",
+              "Volume No": "29",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "30-10-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "UAV-based Plant Disease Detection using MobileNetV2 Architecture",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "19-06-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "PLC based Water Distribution and Leakage Detection System with Quality Monitoring",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "03-06-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Smart Sieving System for Jaggery Powder Processing and Grading",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-12-2025",
+              "Published at": "IEEE Xplore"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer Nature",
+              "Level": "International",
+              "Title": "Design and Development of Sludge Removal in Boiler Using IOT for Dyeing Industries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "01-10-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "Advanced Automated Card Cutting and Counting System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "23-07-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Knowledge based systems",
+              "Level": "International",
+              "Title": "A novel fractional kookaburra crayfish optimization algorithm for trusted routing based blockchain in wireless sensor network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "19-05-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "Automated Paste Production System using Programmable Logic Controller (PLC) for Screen Printing Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "24-04-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Research in Science, Engineering and Technology",
+              "Level": "International",
+              "Title": "Appraisal of Smart Grid Modeling and Simulation Tools",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "10-02-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE",
+              "Level": "International",
+              "Title": "Vision based Intelligent Garbage Collection and Sorting System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-12-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "IoT-Enabled Emergency Valve Automation System for Screen Printing Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "28-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "8th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+              "Level": "International",
+              "Title": "Vision based Intelligent Garbage Collection and Sorting System",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "06-11-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS)",
+              "Level": "International",
+              "Title": "Automated Steel Dust Cleaning System for Industrial Environment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "10-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Sensor-Based Real-Time Monitoring System for Product Counting, Inspection and Production Analysis in Industrial Environment",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IEEE Xplore",
+              "Level": "International",
+              "Title": "PLC based Automatic Mixing System for Chemical Industry",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Intelligent Techniques in Control, Optimization and Signal Processing (INCOS)",
+              "Level": "International",
+              "Title": "Design and Development of Bricks Making from Waste Plastic Bags",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "14-03-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Intelligent Data Communication Technologies and Internet of Things  (IDCIoT)",
+              "Level": "International",
+              "Title": "Implementation of Temperature and Moisture Controller in Poultry Using IoT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "04-01-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Level": "International",
+              "Title": "Smart Automation of Fertilizer Ratio Mixer Using PLC",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "14-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IET Conference Proceedings CP860",
+              "Level": "International",
+              "Title": "Humanoid bionic arm on robotic vehicle",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-12-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings 2857",
+              "Level": "International",
+              "Title": "Multi-purpose smart sensor for obstacles detection and wireless data transmission for communication using kinesics for impaired people",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "18-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Green Computing for Communication Technologies",
+              "Level": "International",
+              "Title": "Automatic cleaning of ship tanks using robotic arm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "18-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th International Conference on Inventive Research in Computing Applications (ICIRCA) IEEE xplore",
+              "Level": "International",
+              "Title": "Surveillance Bot for Detecting the Intruders in Border Area",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "03-08-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings, 2387.",
+              "Level": "International",
+              "Title": "Smart Hearing and visually impaired passenger voice alert system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-11-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications”",
+              "Level": "International",
+              "Title": "IoT based food waste recycling and monitoring system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "01-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of scientific & technology research (IJSTR)",
+              "Level": "International",
+              "Title": "Smart Sewage Alert System For Workers In Real-Time Applications Using IoT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "01-02-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of Innovative Technology and Exploring Engineering (IJITEE)",
+              "Level": "International",
+              "Title": "A Novel Method for Dankness Control in Paper Industries",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "10-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Software Computing and Testing",
+              "Level": "International",
+              "Title": "Self monitoring automated route trash bin",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "01-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research",
+              "Level": "International",
+              "Title": "Smart grid: A renovation of power network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "01-04-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Applied Engineering Research",
+              "Level": "International",
+              "Title": "Optimal Real-Time Energy Distribution and Tariff Management",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "01-04-2015",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "A Survey on Smart Grid Distributed Power Flow: IEC61850, IEC 61499 and Intelligent controls",
+              "Level": "International",
+              "Title": "Applied Mechanics and Materials",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2014",
+              "Date": "18-06-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivanya mills, Koduvai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "30-01-2026",
+              "Date of Consultancy (To)": "24-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "26000"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Dhanalakshmi screen printing, Karur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "07-02-2025",
+              "Date of Consultancy (To)": "19-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "23600"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "SRI PALANIYAPPA DAIRY, KAGITHAPURAM",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "11-04-2024",
+              "Date of Consultancy (To)": "24-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "23600"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "SRI MURUGAN OIL MILLS, PERUNDURAI",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "31-08-2022",
+              "Date of Consultancy (To)": "24-11-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Embedded System Design with ARM   Processor",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "13-09-2025",
+              "End Date": "22-09-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Deep Learning Techniques for Military Surveillance Applications",
+              "Collaboration/Sponsored by": "TNSCST",
+              "Level": "National",
+              "Start Date": "02-11-2020",
+              "End Date": "03-11-2020",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Emerging Technologies for Energy Sustainability and Climate Resilience in Viksit Bharat 2047",
+              "Level": "National",
+              "Organized by": "Adhitya Institute of Technology",
+              "Place": "Coimbatore",
+              "Start Date": "08-10-2026",
+              "End Date": "10-10-2026"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital VLSI design and FPGA and testability",
+              "Level": "National",
+              "Organized by": "Department of ECE",
+              "Place": "KEC",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Measurements and Instrumentation",
+              "Level": "Online",
+              "Organized by": "IIT Guwahathi",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "20-04-2026"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative healthcare : Leveraging AI and ML for advanced Biomedical Signal analysis",
+              "Level": "National",
+              "Organized by": "Aarupadai veedu Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "30-10-2025",
+              "End Date": "04-11-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovative healthcare : Leveraging AI and ML for advanced Biomedical Signal analysis",
+              "Level": "Online",
+              "Organized by": "Aarupadai veedu Institute of Technology, Chennai.",
+              "Place": "",
+              "Start Date": "30-10-2025",
+              "End Date": "04-11-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Moral Thinking_ An Introduction to Values and Ethics",
+              "Level": "Online",
+              "Organized by": "IIT Kanpur",
+              "Place": "",
+              "Start Date": "01-08-2025",
+              "End Date": "01-09-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Python Programmning",
+              "Level": "Others",
+              "Organized by": "Kongu Engineering College",
+              "Place": "",
+              "Start Date": "20-01-2025",
+              "End Date": "25-01-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Waste to wealth innovation",
+              "Level": "Online",
+              "Organized by": "NITTTR",
+              "Place": "Kolkatta",
+              "Start Date": "02-12-2024",
+              "End Date": "07-12-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent trends in computing 4.0",
+              "Level": "Online",
+              "Organized by": "Vishwakarma Institute of technology",
+              "Place": "Pune",
+              "Start Date": "08-07-2024",
+              "End Date": "13-07-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next Generation Wireless communication Technologies",
+              "Level": "Online",
+              "Organized by": "GCT",
+              "Place": "Coimbatore",
+              "Start Date": "13-05-2024",
+              "End Date": "17-05-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Enhancing VLSI design with machine learning opportunities and challenges",
+              "Level": "Online",
+              "Organized by": "Thiyagarajar College of Engineering",
+              "Place": "Madurai",
+              "Start Date": "08-01-2024",
+              "End Date": "12-01-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "The Science of Happiness and wellbeing",
+              "Level": "Online",
+              "Organized by": "NPTEL-AICTE IIT-Kharagpur",
+              "Place": "",
+              "Start Date": "08-01-2024",
+              "End Date": "22-03-2024"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research opportunities in emerging areas of ECE",
+              "Level": "Online",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Place": "",
+              "Start Date": "18-07-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Embedded and Real Time Systems",
+              "Level": "Online",
+              "Organized by": "PSNA College of Engineering and Technology",
+              "Place": "",
+              "Start Date": "04-07-2022",
+              "End Date": "09-07-2022"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Brief introduction to Psychology",
+              "Level": "Online",
+              "Organized by": "NPTEL-AICTE IIT-Madras",
+              "Place": "",
+              "Start Date": "01-07-2022",
+              "End Date": "12-08-2022"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Body language: Key to Professional success",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "09-07-2021",
+              "End Date": "12-08-2022"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "ATAL FDP – Perspectives  of  Blockchain integrated  with IoT: Challenges  and opportunities",
+              "Level": "Online",
+              "Organized by": "PSNA College of Engineering  And Technology",
+              "Place": "",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Recent advancement and challenges of Radiations in Medicine , Industry, Research and Education",
+              "Level": "Online",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "19-02-2021",
+              "End Date": "20-02-2021"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Emotional Intelligence",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "08-01-2021",
+              "End Date": "26-03-2021"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Utilising Artificial Intelligence  algorithms and tools in  Real time Problems",
+              "Level": "Online",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "Sathy",
+              "Start Date": "12-10-2020",
+              "End Date": "17-10-2020"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Recent trends in Deep learning techniques for Image processing Applications",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "31-08-2020",
+              "End Date": "04-09-2020"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Enhancing Soft Skills and Personality",
+              "Level": "Online",
+              "Organized by": "IIT",
+              "Place": "",
+              "Start Date": "01-02-2020",
+              "End Date": "30-04-2020"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Artificial Intelligence in Medical and Healthcare Applications",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "24-12-2018",
+              "End Date": "29-12-2018"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Digital Circuits",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "02-07-2018",
+              "End Date": "19-10-2018"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Microprocessor and microcontrollers",
+              "Level": "Online",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "05-01-2018",
+              "End Date": "23-04-2021"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "IoT and Embedded System Design",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "Sathy",
+              "Start Date": "17-11-2017",
+              "End Date": "18-11-2017"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Electric Power System",
+              "Level": "Online",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "10-07-2017",
+              "End Date": "15-07-2017"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Labview – Multisim and Image processing tools",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "13-06-2017",
+              "End Date": "17-06-2017"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Control systems",
+              "Level": "Online",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "02-12-2014",
+              "End Date": "12-12-2014"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Select Programme": "Seminar",
+              "Title of the program": "Embedded System Design",
+              "Level": "National",
+              "Organized by": "Bannari Amman Institute of Technology",
+              "Place": "Sathy",
+              "Start Date": "22-01-2014",
+              "End Date": "23-01-2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "IFERP",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "15-01-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Smart seiving system for Jagerry powder processing and grading",
+              "Title of Conference": "iTech SECOM - 2025",
+              "Organized by": "PSG Institute of technology and Applied research",
+              "Level": "International",
+              "Start Date": "10-10-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "AUTOMATED PASTE PRODUCTION SYSTEM USING PROGRAMMABLE LOGIC CONTROLLER (PLC) FOR SCREEN PRINTING INDUSTRY",
+              "Title of Conference": "ICOEI 2025",
+              "Organized by": "SCAD college of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "24-05-2025",
+              "End Date": "26-05-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Automated Paste Production system using  Programmable Logic Controller for Screen printing Industry",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-04-2025",
+              "End Date": "26-04-2025"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Vision based Intelligent Garbage Collection and Sorting System",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Automatic cleaning of ship tanks using robotic arm",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-08-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Multi-purpose smart sensor for obstacles detection and wireless data transmission for communication using kinesics for impaired people",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-08-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Smart Monitoring of Microalgae Farming using IoT",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "05-04-2023",
+              "End Date": "06-04-2023"
+            },
+            {
+              "Name of Faculty": "M.LIZZY NESA BAGYAM",
+              "Department": "EIR",
+              "Title of Paper": "Smart Hearing and visually impaired passenger voice alert system",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-11-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

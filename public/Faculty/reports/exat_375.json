@@ -1,0 +1,728 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "AI",
+              "Date of joining in KEC": "06-10-2022",
+              "Mobile": "6374088547",
+              "E-mail": "kannukkiniyal.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Academic Degree": "M.E",
+              "Specialization": "CSE",
+              "From": "01-09-2009"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Academic Degree": "B.Tech",
+              "Specialization": "Information Technology",
+              "From": "01-08-2001"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-10-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "06-10-2022",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Excel Engineering College",
+              "Position/Designation": "Assisstant Professor",
+              "Start Date": "16-03-2021",
+              "End Date": "24-08-2022",
+              "Duration": "1",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-M.KANNUKKINIYAL-4149eb39-584b-4fa8-beb9-5c7b32761db8.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091854Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=130e636c3bfdab82bd13a3cb1b852124b4eef735d92cba7ece3c3d1a8ed2b550",
+                  "name": "DocScanner 19 Mar 2023 11-38 pm.pdf",
+                  "totalRecords": null,
+                  "resourceId": "QoDWYyXZTjoXmc8AB",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-M.KANNUKKINIYAL-d175ab80-e45d-41f5-a197-ce702dd3ccae.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091854Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6e7e698bbeafd7dbf3df02118927b3e68e1b905e25b946c5620bf74e84571fe0",
+                  "name": "Experience Certificate-merged.pdf",
+                  "totalRecords": null,
+                  "resourceId": "nKMWfjWRLAhWZfNAR",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Excel Engineering College",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "27-06-2011",
+              "End Date": "25-05-2013",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-M.KANNUKKINIYAL-4578c6e6-3ddf-4b4a-8e3d-dbc28294dfa4.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091854Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a60af3153fb7c1d9b078f7fcb41be2a002d54545b3c639aa92ce033836087734",
+                  "name": "excel experience certificate.pdf",
+                  "totalRecords": null,
+                  "resourceId": "TWYb2HXMD45HaKfMz",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Maharaja Engineering College",
+              "Position/Designation": "Lecturer",
+              "Start Date": "02-07-2008",
+              "End Date": "10-10-2009",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-M.KANNUKKINIYAL-77d5c1b5-98e5-420f-825d-56a744e0e6b1.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091854Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=88d1e7b21672c833bb941864e34c8d63faa9fbd58cef242483e85b9a81541711",
+                  "name": "MEC Experience.pdf",
+                  "totalRecords": null,
+                  "resourceId": "LRPnpGACi8zKipTqN",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Full Stack with Typescript, React,NextJS, MongoDB and Docker",
+              "Level": "National",
+              "Title": "Full Stack with Typescript, React,NextJS, MongoDB and Docker",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "05-11-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Environmental Protection and Ecology",
+              "Level": "International",
+              "Title": "ADAPTIVE PERSONALISED COLLABORATIVE FILTERING BASED RECOMMENDATION SYSTEM USING GRAPH NEURAL NETWORKS",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "19-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Communication and Electronics Systems, ICCES2024",
+              "Level": "International",
+              "Title": "Graph Neural Networks for Optimizing Reliability in\nVehicle-to-Infrastructure Communication in Autonomous\nSystems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "18-12-2024",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MRAS Earthmovers Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "19-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "38940"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MS Garments Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "24-11-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "31860"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "E Agri Farmers Trade Centre-Erode",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-01-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "17000"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Fluffy Town- Uthukuli",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "27-01-2025",
+              "Date of Consultancy (To)": "30-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "23000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Web Application Development Using Django Framework",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "09-02-2026",
+              "End Date": "18-03-2026",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Django framework",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "25-07-2025",
+              "End Date": "31-10-2025",
+              "Duration": "3 months",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "The Future of Pedagogy:ChatGPT and AI tools as Teaching assistants",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "AVS Engineering College",
+              "Start Date": "05-01-2026",
+              "End Date": "10-01-2026"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "NextGen-AI Advancing from NLP Basics to Intelligent Agents",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "KEC-CSE",
+              "Start Date": "22-12-2025",
+              "End Date": "27-12-2025"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Software Conceptual Design",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-08-2025",
+              "End Date": "30-09-2025"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "03-02-2025",
+              "End Date": "15-02-2025"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "ARMY -PUNE",
+              "Start Date": "16-04-2024",
+              "End Date": "30-04-2024"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "04-03-2024",
+              "End Date": "09-03-2024"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Problem Solving Through Programming in C",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-01-2023",
+              "End Date": "30-04-2023"
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design Thinking -A Primer",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-01-2023",
+              "End Date": "28-02-2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "IAENG",
+              "Position": "",
+              "Level": "International",
+              "Start Date": "09-03-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "ISTE",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-06-2012",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Title of Paper": "Improving Placement Predictions Through Deep Learning Models\"",
+              "Title of Conference": "NCACSI-2025",
+              "Organized by": "",
+              "Level": "National",
+              "Start Date": "01-03-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "M.KANNUKKINIYAL",
+              "Department": "CSR",
+              "Title of Paper": "Comparative Analysis of Deep Learning and Meta-Model Architectures for Chronic Kidney Disease Predictions",
+              "Title of Conference": "ICRAECA 2025",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "24-01-2025",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "V.MEKALA",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Embedded system Technologies",
+              "Date of joining in KEC": "21-06-2012",
+              "Mobile": "8220338821",
+              "E-mail": "magii.anuece@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Academic Degree": "M.E.",
+              "Specialization": "Embedded system Technologies",
+              "From": "15-07-2010"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Academic Degree": "B.E.",
+              "Specialization": "Electronics and Communication Engineering -",
+              "From": "14-06-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "21-06-2012",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal on Artificial Intelligence Tools",
+              "Level": "International",
+              "Title": "Edge AI-Driven System for Silkworm Pupae Gender Classification and Process Control",
+              "Volume No": "34",
+              "Issue No": "2,3",
+              "Year": "2025",
+              "Date": "09-06-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "Smart Agri-Monitoring System using Cloud and Web Technology",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "08-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "Automatic Fish Feeding and Cleaning System",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "07-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology  Research Communications",
+              "Level": "International",
+              "Title": "A Comprehensive Survey on Intrusion Detection Mechanisms for IoT Based Smart Environments",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "07-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal Of Scientific & Technology Research(IJSTR),",
+              "Level": "International",
+              "Title": "A Customizable Cartographic Air Pollution Monitoring System",
+              "Volume No": "9",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "13-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Green Engineering (JGE),",
+              "Level": "International",
+              "Title": "Smart Poultry Monitoring and Control System- A Suitable Approach for Environmental Issues in Poultry Farming",
+              "Volume No": "10",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "06-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal Of Scientific & Technology Research(IJSTR)",
+              "Level": "International",
+              "Title": "A COMPREHENSIVE STUDY ON ACADEMIC\nAND INDUSTRY AUTHENTICATION AND\nATTENDANCE SYSTEMS",
+              "Volume No": "9",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "17-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Science and Technology Research(IJSTR)",
+              "Level": "International",
+              "Title": "\"Iot Based Guidance And Assistive System For Supermarket Shopping\"",
+              "Volume No": "9",
+              "Issue No": "3",
+              "Year": "2020",
+              "Date": "10-03-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Science and Technology Research(IJSTR)",
+              "Level": "International",
+              "Title": "Digital Address Identification From Handwritten Address In Postcards",
+              "Volume No": "9",
+              "Issue No": "2",
+              "Year": "2020",
+              "Date": "11-02-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal Of Scientific & Technology Research(IJSTR)",
+              "Level": "International",
+              "Title": "A Fast And Energy Efficient Path Planning Algorithm For Offline Navigation Using SVM  Classifier",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "13-01-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering (IJRTE)",
+              "Level": "International",
+              "Title": "\"A Hybrid Topological Design of Led Driver for Automotive Applications\"",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "20-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering(IJITEE)",
+              "Level": "International",
+              "Title": "Face Recognition Based Attendance System",
+              "Volume No": "8",
+              "Issue No": "12",
+              "Year": "2019",
+              "Date": "14-05-2019",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SAMY SAW MILL",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "embedded",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "21-01-2026",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "color pick knits",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "PCB Design and hardware,product",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "21-01-2026",
+              "Date of Consultancy (To)": "31-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "17700"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Shakthi Knit wears",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Smart Power Management foe sewing machines in Textile industries",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2025",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Newtech Electronics",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Smart Door Lock Systems",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2025",
+              "Date of Consultancy (To)": "14-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SREE VENKATESWARA FETTLING WORKS NADUVAKATTU THOTTAM, SOTTAGOUNDENPALAYAM, NADUPATTI(P?) UTHUKULI TALUK, TIRUPUR -638056",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "IOT BASED WATER LEVEL MONITORING SYSTEM",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2024",
+              "Date of Consultancy (To)": "31-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SAARATHI ANIMAL FEEDS H.O SIRUVALUR, GOPICHETTIPALAYAM, ERODE",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hazard Prevention system using GSM",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2024",
+              "Date of Consultancy (To)": "31-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Blueberries food industries pvt.ltd",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Embedded Product",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-12-2023",
+              "Date of Consultancy (To)": "31-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Innovation India",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Embedded product",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2023",
+              "Date of Consultancy (To)": "31-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "LK small Scale Industry,94/111, palanai goundan valasu, Aval, Poondurai, Erode-638115",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "HArdware",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-01-2023",
+              "Date of Consultancy (To)": "31-12-2023",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Embedded firware development using FreeRtos on STM32",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-02-2026",
+              "End Date": "26-03-2026",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": "Smart Class room"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Embedde programming For Arduino IoT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "17-09-2025",
+              "End Date": "23-10-2025",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": "Network Lab"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Edge AI Ecosystem with STM32",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "12-09-2024",
+              "End Date": "16-11-2024",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "PCB Fabrication and IoT Project Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "11-06-2024",
+              "End Date": "31-08-2024",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": "Department Of ECE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Infineon India's Embedded Systems Industry Academia Bridge (IAB) Program",
+              "Level": "National",
+              "Organized by": "Infineon Pvt Ltd, Bangalore",
+              "Place": "Bangalore",
+              "Start Date": "05-01-2026",
+              "End Date": "13-01-2026"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing : Building Intelligent, Decentralized IoT Networks",
+              "Level": "National",
+              "Organized by": "ATAL_FDP_KEC",
+              "Place": "kongu engineering college",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Drone Systems and Control",
+              "Level": "Online",
+              "Organized by": "Indian Institute of Science,Bangalore",
+              "Place": "",
+              "Start Date": "07-07-2025",
+              "End Date": "28-11-2025"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "AI Beyond the Basics: Exploring Advanced Concepts & RealWorld Applications",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "10-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Emerging Trends and Innovations in Biomedical Engineering: From Diagnostics to Marketable Solutions",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-01-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Deep Learning For Visual Computing",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": "20-05-2025"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "AI",
+              "Start Date": "05-08-2024",
+              "End Date": "09-08-2024"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "MATLAB for Engineers and Scientists:Bridging theory and application",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "High performance Intelligent Real Time  EMbedded system Design and Iot to accelerate automation system into autonomous System",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-09-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“ RESEARCH TRENDS IN IMAGE PROCESSING WITH MACHINE LEARNING AND DEEP LEARNING”",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-07-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Data Science using Python”",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Embedded System Design with ARM",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design of photovoltaic systems",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-03-2018",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "MATLAB Programming for Numerical Computation",
+              "Level": "Online",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "06-02-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "Associate member",
+              "Level": "International",
+              "Start Date": "07-08-2012",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Mulberry Leaf Disease Detection System",
+              "Title of Conference": "2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "REVA University Bengaluru, India",
+              "Level": "International",
+              "Start Date": "05-02-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Tamil and English Handwritten Character Segmentation and Recognition Using Deep Learning",
+              "Title of Conference": "2024 International Conference on Communication, Computing and Internet of Things (IC3IoT),",
+              "Organized by": "SRI SAI RAM ENGINEERING COLLEGE",
+              "Level": "International",
+              "Start Date": "17-04-2024",
+              "End Date": "18-04-2024"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Lumpy Skin Disease Prediction Using Machine Learning",
+              "Title of Conference": "2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru",
+              "Organized by": "Reva University",
+              "Level": "International",
+              "Start Date": "04-01-2024",
+              "End Date": "06-01-2024"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Cargo Monitoring and Tracking Based on IoT",
+              "Title of Conference": "2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)  DOI: 10.1109/ICCCNT56998.2023  6-8 July 2023",
+              "Organized by": "IIT Delhi",
+              "Level": "International",
+              "Start Date": "06-07-2023",
+              "End Date": "08-07-2023"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "A Machine learning approach to monitor Brain Health and epilepsy detection",
+              "Title of Conference": "IOP Conference Series: Materials Science and Engineering, Volume 1055, International Virtual Conference on Robotics, Automation, Intelligent Systems and Energy (IVC RAISE 2020) 15th December 2020, Erode, India",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "07-12-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "A Low-Cost Portable Smart Card Based Attendance System",
+              "Title of Conference": "IOP Conference Series: Materials Science and Engineering, Volume 1012, International Conference on Robotics, Intelligent Automation and Control Technologies (RIACT 2020) 2-3 October 2020, Chennai, India",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "12-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Internet of Things Based Innovative and Cost-effective Smart Sericulture Farm Incubator",
+              "Title of Conference": "Proceedings of the 5th International Conference on Electronics, Communication and Aerospace Technology, ICECA",
+              "Organized by": "KPR Institute of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "02-04-2021",
+              "End Date": "04-04-2021"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "A Low-Cost Portable Handheld System for Monitoring and Verification of Vehicle Documents",
+              "Title of Conference": "IOP Conference Series: Materials Science and Engineering, Volume 1012, International Conference on Robotics, Intelligent Automation and Control Technologies (RIACT 2020) 2-3 October 2020, Chennai, India",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "04-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Offline Navigation:GPS based assisting system in Sathuragiri forests using Machine Learning",
+              "Title of Conference": "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+              "Organized by": "Kongu Engineering COllege",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Automatic Solar Powered Grass Cutter Incorporated with Alphabet Printing and Pesticide Sprayer",
+              "Title of Conference": "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            },
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of Paper": "Real Time Location Tracking and Health Monitoring of Police Force",
+              "Title of Conference": "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW),",
+              "Organized by": "Kongu Engineering College",
+              "Level": "International",
+              "Start Date": "14-12-2018",
+              "End Date": "15-12-2018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "V.MEKALA",
+              "Department": "ECR",
+              "Title of the Program": "ICCCNT",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "IIT indore, madhya pradesh",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

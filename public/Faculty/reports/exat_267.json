@@ -1,0 +1,1251 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Embedded Systems",
+              "Date of joining in KEC": "21-06-2012",
+              "Mobile": "9003499421",
+              "E-mail": "vibinmammen@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Academic Degree": "ME",
+              "Specialization": "Embedded System Technologies",
+              "From": "02-09-2010"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Academic Degree": "BE",
+              "Specialization": "ECE",
+              "From": "21-08-2006"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Best Faculty",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "20-03-2025"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of Award/Achievement": "Best Performing Faculty in IEF",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "20-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "10th International Conference on Advanced Computing and Communication Systems",
+              "Level": "International",
+              "Title": "Development of Household Energy Usage Monitoring Smart Meter System Using Lorawan",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "10th International Conference on Advanced Computing and Communication Systems",
+              "Level": "International",
+              "Title": "Design of U-Shaped Slot Antenna with Reflector for 5G Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "23-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Revolutionizing Cricket: Deep Learning Solutions for accurate No-Ball Detection",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Classification of Motor Imagery EEG Signals Using Divergence Based CNN",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Design and Comparative Analysis of Various Antenna Array Structures for 5G Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "14th International Conference on Computing Communication and Networking Technologies",
+              "Level": "International",
+              "Title": "High Gain Compact Cavity Backed SIW Antenna for WBAN Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-11-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2nd International Conference on Smart Technologies and Systems for Next Generation Computing",
+              "Level": "International",
+              "Title": "Design of multi slot MIMO antenna for 2.45 GHz applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "19-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "APPLIED PHYSICS A-MATERIALS SCIENCE & PROCESSING",
+              "Level": "International",
+              "Title": "Design and development of a new metamaterial sensor-based Minkowski fractal antenna for medical imaging",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "03-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "13th International Conference on Computing Communication and Networking Technologies",
+              "Level": "International",
+              "Title": "A design of Highly Isolated UWB MIMO Antennas-A review",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "26-12-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Crystals",
+              "Level": "International",
+              "Title": "Nanocomposite-Based Electrode Structures for EEG Signal Acquisition",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "27-10-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "5th International Conference on Electronics Communication and Aerospace Technology",
+              "Level": "International",
+              "Title": "Internet of Things Based Innovative and Cost-effective Smart Sericulture Farm Incubator",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "20-01-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Ceur Workshop Proceedings",
+              "Level": "International",
+              "Title": "COMPARATIVE ANALYSIS FOR OFFENSIVE LANGUAGE IDENTIFICATION OF TAMIL TEXT USING SVM AND LOGISTIC CLASSIFIER",
+              "Volume No": "3159",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "20-10-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BIOSCIENCE BIOTECHNOLOGY RESEARCH COMMUNICATIONS",
+              "Level": "International",
+              "Title": "Smart Agri-Monitoring System using Cloud and Web Technology",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "11-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BIOSCIENCE BIOTECHNOLOGY RESEARCH COMMUNICATIONS",
+              "Level": "International",
+              "Title": "Automatic Fish Feeding and Cleaning System",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "11-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "BIOSCIENCE BIOTECHNOLOGY RESEARCH COMMUNICATIONS",
+              "Level": "International",
+              "Title": "A Comprehensive Survey on Intrusion Detection Mechanisms for IoT Based Smart Environments",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "11-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering",
+              "Level": "International",
+              "Title": "An IoT enabled Smart Garbage Management System for Smart Cities --Indian Scenario",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "17-12-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "A customizable cartographic air pollution monitoring system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "24-11-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "A customizable cartographic air pollution monitoring system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "29-10-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "A fast and energy efficient path planning algorithm for offline navigation using Svm classifier",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "15-09-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "A fast and energy efficient path planning algorithm for offline navigation using Svm classifier",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "26-08-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Scientific and Technology Research",
+              "Level": "International",
+              "Title": "A comprehensive study on academic and industry authentication and attendance systems",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "12-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "A Hybrid Topological Design of Led Driver for Automotive Applications",
+              "Volume No": "8",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "18-11-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering",
+              "Level": "International",
+              "Title": "Face recognition based attendance system",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "23-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Recent Technology and Engineering",
+              "Level": "International",
+              "Title": "Automated milk quantity and quality checking and vending machine",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2019",
+              "Date": "16-09-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of IEEE International Conference on Intelligent Computing and Communication for Smart World, I2C2SW 2018",
+              "Level": "International",
+              "Title": "Offline navigation:GPS based assisting system in Sathuragiri forests using Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "13-02-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of IEEE International Conference on Intelligent Computing and Communication for Smart World, I2C2SW 2018",
+              "Level": "International",
+              "Title": "Real time location tracking and health monitoring of police force",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "13-02-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Applied Science and Technology",
+              "Level": "International",
+              "Title": "Brain Computer Interface (BCI) Based Smart Wheelchair Control",
+              "Volume No": "2",
+              "Issue No": "2",
+              "Year": "2018",
+              "Date": "04-06-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of 2016 Online International Conference on Green Engineering and Technologies, IC-GET 2016 2017",
+              "Level": "International",
+              "Title": "Design of a real-time tyre pressure monitoring system for LMVs",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2016",
+              "Date": "11-04-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Proceedings of 2015 IEEE International Conference on Innovations in Information, Embedded and Communication Systems",
+              "Level": "International",
+              "Title": "EOG based wheelchair control for quadriplegics",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2015",
+              "Date": "09-06-2015",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": [
+            {
+              "Principal Investigator": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Project": "KEC SPARK fund",
+              "Title of Project": "APIDYNE-beehive monitoring system",
+              "Funding Agency": "KEC SPARK fund",
+              "Name of the Scheme": "",
+              "Co-Investigator(s)": "Dr. J. Vijayalakshmi",
+              "Project Start Date": "21-06-2026",
+              "Duration": "1 year",
+              "Status": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sri Azhagu Murugan Home Appliance",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "18-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Thiru Krishnan Agencies, Nagercoil",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "18-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Palanisamy Gounder Saw Mill",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "18-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Swastika Engineering Industries, Coimbatore",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "18-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Ranjitha Tex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "03-02-2025",
+              "Date of Consultancy (To)": "18-04-2025",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Deepp Automation",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project Development",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "16-12-2024",
+              "Date of Consultancy (To)": "14-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "SMT Traders",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "13-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Sivasakthi Transfer",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "13-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "6000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Jenconix Microwave",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Product development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "10-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "V-Guard Industries",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Project deployment",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "22-01-2024",
+              "Date of Consultancy (To)": "13-04-2024",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VC135 - Embedded Firmware Development with FreeRTOS on STM32",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-02-2026",
+              "End Date": "26-03-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Smart Embedded Systems and IoT for Antenna Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-02-2026",
+              "End Date": "28-03-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Smart Embedded System and Antenna Design for IoT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Embedded Programming for Arduino and IoT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "17-09-2025",
+              "End Date": "23-10-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VC117 - Drone Technology",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "15-09-2025",
+              "End Date": "16-10-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Skill Development Workshop on Industry Ready Engineers",
+              "Collaboration/Sponsored by": "Sunshiv Electronic Solutions",
+              "Level": "Department",
+              "Start Date": "22-04-2025",
+              "End Date": "24-04-2025",
+              "Duration": "3 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of ECE"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "22VP003 - Mini Project - Edge AI Project Development - Batch 1 and 2",
+              "Collaboration/Sponsored by": "DigiToad Technologies",
+              "Level": "Department",
+              "Start Date": "23-10-2024",
+              "End Date": "27-10-2024",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of ECE"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Edge AI Ecosystem with STM32",
+              "Collaboration/Sponsored by": "DigiToad Technologies",
+              "Level": "Department",
+              "Start Date": "12-09-2024",
+              "End Date": "16-11-2024",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "Department of ECE"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Event": "Training",
+              "Name of Event": "Online Short Term Course on Deep Learning",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "03-11-2020",
+              "End Date": "07-11-2020",
+              "Duration": "5 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "Others",
+              "Title of the program": "Intelligent IoT with 5G & Beyond Use Cases",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "NIT Warangal",
+              "Start Date": "07-07-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Electronic Systems Design: Hands-on Circuits and PCB  Design with CAD Software",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2025",
+              "End Date": "31-10-2025"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Innovation and Entrepreneurship",
+              "Level": "National",
+              "Organized by": "AICTE",
+              "Place": "PSG College of Technology",
+              "Start Date": "24-03-2025",
+              "End Date": "28-03-2025"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Edge Computing",
+              "Level": "Others",
+              "Organized by": "NPTEL",
+              "Place": "Online",
+              "Start Date": "13-01-2025",
+              "End Date": "21-03-2025"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Underwater Robotics: Research Opportunities and Challenges",
+              "Level": "National",
+              "Organized by": "ATAL & KMEA Engineering College",
+              "Place": "",
+              "Start Date": "15-01-2024",
+              "End Date": "20-01-2024"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Design Practice",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Wheeled Mobile Robots",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Designing Embedded AI Systems using STMicroelectronics AI Ecosystem",
+              "Level": "Others",
+              "Organized by": "KEC and DigiToad Technologies",
+              "Place": "KEC",
+              "Start Date": "14-03-2023",
+              "End Date": "18-03-2023"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "Workshop",
+              "Title of the program": "Designing and Modelling of IoT, AI & ML Systems",
+              "Level": "National",
+              "Organized by": "AICTE, ATAL, ARM Education and STMicroelectronics",
+              "Place": "",
+              "Start Date": "01-08-2022",
+              "End Date": "05-08-2022"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "17-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Data Analytics with Python",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "17-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Precision Health Technology",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "14-12-2020",
+              "End Date": "18-12-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Wearable Devices",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "14-09-2020",
+              "End Date": "18-09-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "High Performance Intelligent Real Time Embedded System Design and Internet of Things to accelerate automation system into autonomous system",
+              "Level": "National",
+              "Organized by": "AICTE & RMK Engineering College",
+              "Place": "",
+              "Start Date": "01-09-2020",
+              "End Date": "07-09-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "Emerging Research Trends on Robotics and its Applications - Phase II",
+              "Level": "National",
+              "Organized by": "Mepco Schlenk Engineering College",
+              "Place": "",
+              "Start Date": "24-08-2020",
+              "End Date": "29-08-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Blended Learning and Flipped Classroom",
+              "Level": "National",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "10-08-2020",
+              "End Date": "14-08-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "STTP",
+              "Title of the program": "Emerging Research Trends on Robotics and its Applications - Phase I",
+              "Level": "National",
+              "Organized by": "Mepco Schlenk Engineering College",
+              "Place": "",
+              "Start Date": "03-08-2020",
+              "End Date": "08-08-2020"
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Embedded System Design with ARM",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "21-01-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to Soft Computing",
+              "Level": "National",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "22-01-2018",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "VIBIN MAMMEN VINOD",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "AUTOMATED MODULAR KITCHEN COMPOSTING SYSTEM AND A METHOD OF COMPOSTING THEREOF",
+              "Name of Application": "",
+              "Co-inventors Name": "BHOOVITHA S, ABHISHEK S, DHARSHNA G, AKALYA B",
+              "Application Number": "202541040579",
+              "Date of Registration": "27-04-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "16-05-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

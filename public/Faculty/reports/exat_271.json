@@ -1,0 +1,808 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "S.PREETHI",
+              "Department": "ECR",
+              "Designation": "ASSISTANT PROFESSOR(SENIOR GRADE)",
+              "Area of Specialisation": "Signal Processing and Machine learning",
+              "Date of joining in KEC": "29-05-2013",
+              "Mobile": "9715206006",
+              "E-mail": "preethi3090@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Academic Degree": "ME",
+              "Specialization": "VLSI Design",
+              "From": "01-08-2011"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Academic Degree": "2011",
+              "Specialization": "BE",
+              "From": "27-07-2007"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "29-05-2013",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Level": "International",
+              "Title": "CNN based encoder and decoder model for sign language communication",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Level": "International",
+              "Title": "Medical Image Recognition for Diagnosis",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "24-06-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)20",
+              "Level": "International",
+              "Title": "Metamaterial Inspired Layered Patch Antenna for Navigational Applications",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "22-06-2024",
+              "Published at": "IEEE"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Level": "International",
+              "Title": "Performance analysis of a VGG based deep learning model for classification of weeds and crops",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "23-11-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Real Time Air-Writing and Recognition of Tamil Alphabets Using Deep Learning",
+              "Volume No": "135–146",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "06-10-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2022 International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+              "Level": "International",
+              "Title": "Soft Computing based Machine Learning Techniques for Optical Communication Networks",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "07-02-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Classification of Autism Spectrum Disorder Using Deep Learning",
+              "Volume No": "431",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "04-05-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2021 Innovations in Power and Advanced Computing Technologies (i-PACT)",
+              "Level": "International",
+              "Title": "An Intellectual Supervised Machine Learning Algorithm for the Early Prediction of Hyperglycemia",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "08-02-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Lecture Notes in Networks and Systems",
+              "Level": "International",
+              "Title": "Plant Disease Recognition from Leaf Images Using Convolutional Neural Network",
+              "Volume No": "185",
+              "Issue No": "169–176",
+              "Year": "2021",
+              "Date": "20-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "2018 International Conference on Intelligent Computing and Communication for Smart World (I2C2SW)",
+              "Level": "International",
+              "Title": "Isolated offline Tamil handwritten character recognition using deep convolutional neural network",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2018",
+              "Date": "14-12-2018",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Real tech systems",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardwae & software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2026",
+              "Date of Consultancy (To)": "06-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Kuppana poultry forms",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2026",
+              "Date of Consultancy (To)": "24-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Selvaraju Poultry Farm  P.Mohanur,  Namakkal-621215",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "hardware",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "02-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "KPK textiles,Nammakal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "hardware & software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2024",
+              "Date of Consultancy (To)": "28-02-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Aditya Exports,Nasiyanur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware and software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2024",
+              "Date of Consultancy (To)": "30-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Miduna Polysack",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "hardware",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2023",
+              "Date of Consultancy (To)": "07-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "14000"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Komarapa sengunthur higher secondary  school,Chennimalai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Hardware and software",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "01-01-2023",
+              "Date of Consultancy (To)": "30-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "20000"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "Angalaman stores,Hosur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-03-2022",
+              "Date of Consultancy (To)": "30-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Industry/Organization": "IQAR playschool",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "software",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-01-2022",
+              "Date of Consultancy (To)": "30-08-2022",
+              "Revenue Generated (amount in Rupees without GST)": "6500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling of digital ligic circuit using vhdl",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "09-02-2026",
+              "End Date": "28-03-2026",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": "Smart class room -ECE"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Modeling of digital logic circuits using VHDL",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": "Smart class room-ECE"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "one credit course",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "03-03-2025",
+              "End Date": "17-05-2025",
+              "Duration": "30 hours",
+              "Role played": "Coordinator",
+              "Venue": "VLSI lab"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "Sentimental Analysis of Social Media Contents using Transformer based Deep Learning Model",
+              "Collaboration/Sponsored by": "DST-SERB",
+              "Level": "National",
+              "Start Date": "02-09-2022",
+              "End Date": "03-09-2022",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National Seminar on Forecasting Crop Yield in Precision Farming using Deep Learning Models",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "07-09-2019",
+              "End Date": "23-10-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National seminar on\"“Role of Blockchain Technology in Cyber Security\"",
+              "Collaboration/Sponsored by": "CSIR",
+              "Level": "National",
+              "Start Date": "06-09-2019",
+              "End Date": "24-10-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital VLSI Design and FPGA and Testability",
+              "Level": "International",
+              "Organized by": "Meity",
+              "Place": "KEC",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Digital Design with Verilog",
+              "Level": "International",
+              "Organized by": "NPTEL",
+              "Place": "",
+              "Start Date": "01-01-2026",
+              "End Date": "30-04-2026"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Select Programme": "FDP",
+              "Title of the program": "RTL Odyssey: Voyage to Silicon via Cadence  with 90nm Techlib",
+              "Level": "National",
+              "Organized by": "SASTRA Deemed to be University",
+              "Place": "Thanjavur, India",
+              "Start Date": "08-12-2025",
+              "End Date": "13-12-2025"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Python for Data Science",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2025",
+              "End Date": "30-04-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Name of the Professional Body/Society": "IETE",
+              "Position": "Associate member",
+              "Level": "National",
+              "Start Date": "02-06-2013",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Title of Paper": "Metamaterial Inspired Layered Patch Antenna for Navigational Applications",
+              "Title of Conference": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+              "Organized by": "IIT mandi",
+              "Level": "International",
+              "Start Date": "24-06-2025",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Title of Paper": "CNN based encoder and decoder model for sign language communication",
+              "Title of Conference": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Organized by": "IIT Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Title of Paper": "Medical Image Recognition for Diagnosis",
+              "Title of Conference": "International Conference on Computing and Networking Technology (ICCNT)",
+              "Organized by": "IIT,Mandi",
+              "Level": "International",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "S.PREETHI",
+              "Department": "ECR",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "Improved headlight beam intensity control system for automotive safety",
+              "Name of Application": "",
+              "Co-inventors Name": "Namasivayam M,Sharvesh S,Naveen Kumar T",
+              "Application Number": "202541016783",
+              "Date of Registration": "26-02-2025",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "07-03-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

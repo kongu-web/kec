@@ -1,0 +1,1056 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "K.VENU",
+              "Department": "CSR",
+              "Designation": "ASSISTANT PROFESSOR",
+              "Area of Specialisation": "Machine Learning, Deep Learning",
+              "Date of joining in KEC": "01-06-2016",
+              "Mobile": "7200004511",
+              "E-mail": "venu.cse@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Academic Degree": "Ph.D",
+              "Specialization": "CSE",
+              "From": "13-06-2018"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Academic Degree": "M.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-06-2012"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Academic Degree": "B.E",
+              "Specialization": "Computer Science and Engineering",
+              "From": "01-08-2008"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "K S R Institute for Research and Technology",
+              "Position/Designation": "Assistant Professor",
+              "Start Date": "02-06-2014",
+              "End Date": "10-02-2015",
+              "Duration": "8 Months",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CSR-K.VENU-0eed84f8-230e-48bd-b0a2-3cfb25f4e97c.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=b80193778f3d48b49b24dc02cd457c13b82b59c3b09df6d084db4e892fe6ef78",
+                  "name": "KSR EXPERIENCE.jpg",
+                  "totalRecords": null,
+                  "resourceId": "uR6hTNmzKJSsdMRyj",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+              "Level": "International",
+              "Title": "A Cross-Scale Spatial–Channel Attention Inception Network for Efficient Medical Image Segmentation",
+              "Volume No": "8",
+              "Issue No": "3",
+              "Year": "2026",
+              "Date": "01-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+              "Level": "International",
+              "Title": "HST-Net: Hierarchical Spectrum-Tokenization with Progressive Refinement for Cardiac MRI Segmentation",
+              "Volume No": "8",
+              "Issue No": "2",
+              "Year": "2026",
+              "Date": "01-04-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Biomedical Engineering",
+              "Level": "International",
+              "Title": "Hybrid optimization assisted channel selection of EEG for deep learning model-based classification of motor imagery task",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "08-11-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Information Technology and Control",
+              "Level": "International",
+              "Title": "Optimized Deep Learning Model Using Modified Whale’s Optimization Algorithm for EEG Signal Classification",
+              "Volume No": "52",
+              "Issue No": "3",
+              "Year": "2023",
+              "Date": "26-09-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Multimedia",
+              "Level": "International",
+              "Title": "Detection of Cotton Plant Diseases Using Deep Transfer Learning",
+              "Volume No": "18",
+              "Issue No": "2",
+              "Year": "2022",
+              "Date": "22-03-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Turkish Online Journal of Qualitative Inquiry",
+              "Level": "International",
+              "Title": "Handwritten Ancient Tamil Character Recognition Using Generative Adversarial Network (Gan).",
+              "Volume No": "12",
+              "Issue No": "3",
+              "Year": "2021",
+              "Date": "01-03-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Materials Today: Proceedings",
+              "Level": "International",
+              "Title": "Design and simulation of handwritten detection via generative adversarial networks and convolutional neural network",
+              "Volume No": "47",
+              "Issue No": "17",
+              "Year": "2021",
+              "Date": "01-01-2021",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Self-Support",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Training / Workshop",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "14-03-2026",
+              "Date of Consultancy (To)": "14-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "18400"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "M S Garments",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "20-12-2025",
+              "Date of Consultancy (To)": "25-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "27000"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MRS Earthmovers",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "19-12-2025",
+              "Date of Consultancy (To)": "23-03-2026",
+              "Revenue Generated (amount in Rupees without GST)": "33000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Kalimuthu Store",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "24-01-2025",
+              "Date of Consultancy (To)": "12-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "22000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Raghav Tradings",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Development",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "20-01-2025",
+              "Date of Consultancy (To)": "10-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "18000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Apple Impex",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-03-2023",
+              "Date of Consultancy (To)": "11-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Magizh Medicals",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "08-02-2023",
+              "Date of Consultancy (To)": "11-05-2023",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Natrue Care Cartons",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "25-07-2021",
+              "Date of Consultancy (To)": "01-11-2021",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Shri Pariyar Amman Kraft Paper PVT Ltd.,",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "17-03-2021",
+              "Date of Consultancy (To)": "29-06-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Velavan Hospital",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-08-2020",
+              "Date of Consultancy (To)": "16-02-2021",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "MGR College",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "2",
+              "Date of Consultancy (From)": "22-10-2019",
+              "Date of Consultancy (To)": "31-10-2019",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Industry/Organization": "Gencad Technologies",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "19-04-2019",
+              "Date of Consultancy (To)": "23-04-2019",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Full Stack Development using MERN",
+              "Collaboration/Sponsored by": "",
+              "Level": "District",
+              "Start Date": "14-03-2026",
+              "End Date": "14-03-2026",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Fundamentals of Visual Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "08-02-2026",
+              "End Date": "15-03-2026",
+              "Duration": "30",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non formal Course on Web Development using ReactJS",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "29-12-2025",
+              "End Date": "06-02-2026",
+              "Duration": "17 days",
+              "Role played": "Coordinator",
+              "Venue": "IT Park CC5"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Non Formal Course on Data Structures using JAVA",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "04-08-2025",
+              "End Date": "16-09-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Securing the Future: Research - Driven Approaches to cyber Defense & Ethical Hacking",
+              "Level": "State",
+              "Organized by": "Hackers InfoTech",
+              "Place": "KEC",
+              "Start Date": "19-01-2026",
+              "End Date": "24-01-2026"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen AI for Fog and Edge Computing",
+              "Level": "Online",
+              "Organized by": "ATAL",
+              "Place": "",
+              "Start Date": "15-12-2025",
+              "End Date": "20-12-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Accrediation and Outcome Based Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "04-08-2025",
+              "End Date": "08-10-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "FDP on JAVA",
+              "Level": "National",
+              "Organized by": "KEC-Codetantra",
+              "Place": "KEC",
+              "Start Date": "19-07-2025",
+              "End Date": "24-07-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence for Computer Vision and  Medical Image Processing",
+              "Level": "National",
+              "Organized by": "NIT Warangal, IIT Roorkee,  IIT Guwahati,  MNIT Jaipur, NIT Patna, IIITDM Jabalpur",
+              "Place": "",
+              "Start Date": "14-07-2025",
+              "End Date": "24-07-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Modern Web App Development using MERN stack",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "26-05-2025",
+              "End Date": "31-05-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the power of Machine Learning",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Teaching and Learning in General Programs: TALG",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-07-2024",
+              "End Date": "31-08-2024"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Fundamental Algorithms: Design and Analysis",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-01-2024",
+              "End Date": "29-02-2024"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Designing Learner-Centric E-learning in Stem Disciplines",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "01-08-2023",
+              "End Date": "30-09-2023"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Generative AI and Cyber Security",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "24-07-2023",
+              "End Date": "28-07-2023"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Full Stack Development",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-07-2023",
+              "End Date": "15-07-2023"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Machine Learning using Python",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "13-03-2023",
+              "End Date": "17-03-2023"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Fundamentals of Data Science and Analytics",
+              "Level": "National",
+              "Organized by": "Anna Univesity",
+              "Place": "NGP Institute of Technology, Coimbatore",
+              "Start Date": "30-01-2023",
+              "End Date": "04-02-2023"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "7 days International workshop on Artificial Intelligence",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "15-11-2021",
+              "End Date": "21-11-2021"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Techniques in Research and Innovations (TRI 2021)",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "05-07-2021",
+              "End Date": "09-07-2021"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Research and Application Perspectives of Artificial Intelligence",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-06-2021",
+              "End Date": "21-06-2021"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Cutting Edge Trends in Deep Learning Approaches",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-11-2020",
+              "End Date": "01-12-2020"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "STTP",
+              "Title of the program": "AICTE SPONSORED ONLINE SHORT TERM TRAINING PROGRAMME",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "14-11-2020",
+              "End Date": "20-11-2020"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Select Programme": "FDP",
+              "Title of the program": "Building Web Applications with MEAN Stack Technologies",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "15-06-2020",
+              "End Date": "19-06-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Name of the Professional Body/Society": "Computer Society of India",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "01-08-2025",
+              "End Date": "31-08-2029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "A Hybrid YOLOv7-Swin Transformer Architecture Optimized by Cuckoo and Pelican Algorithms for Diabetic Retinopathy Grading",
+              "Title of Conference": "2026 IEEE International Conference for Convergence in Computing Technology, I3CTCON 2026",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-03-2026",
+              "End Date": "15-03-2026"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "An Explainable Representation-Level Attention Fusion Network for Smoking Status Prediction",
+              "Title of Conference": "12th International Conference on Biosignals, Images and Instrumentation, ICBSII 2026",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "09-03-2026",
+              "End Date": "11-03-2026"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Malware Classification via Image Conversion and CNN Models: A Vision based Cybersecurity Approach",
+              "Title of Conference": "2nd Internation Conference on Visual Analytics and Data Visualization (ICVADV-2026)",
+              "Organized by": "Francis Xavier Engineering College",
+              "Level": "International",
+              "Start Date": "24-02-2026",
+              "End Date": "26-02-2026"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "AI-Driven Threat Intelligence using Graph Neural Networks for Advanced Cybersecurity Defense",
+              "Title of Conference": "8th International conference on Computing Methodlogics and Communication (ICCMC 2025)",
+              "Organized by": "Surya Engineering College, Erode",
+              "Level": "International",
+              "Start Date": "23-07-2025",
+              "End Date": "25-07-2025"
+            },
+            {
+              "Name of Faculty": "Dr.K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Skin Cancer Detection using Resnet50",
+              "Title of Conference": "16th International Conference on Advances in Computing, Control, and Telecommunication Technologies, ACT 2025",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-06-2025",
+              "End Date": "26-06-2025"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "The Potential of Embedded Systems in Optimizing Industrial Logistics",
+              "Title of Conference": "2024 IEEE 4th International Conference on ICT in Business Industry & Government (ICTBIG)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-12-2024",
+              "End Date": "14-12-2024"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "The Potential of Embedded Systems in Optimizing Industrial Logistics",
+              "Title of Conference": "2024 IEEE 4th International Conference on ICT in Business Industry & Government (ICTBIG)",
+              "Organized by": "IEEE",
+              "Level": "International",
+              "Start Date": "13-12-2024",
+              "End Date": "14-12-2024"
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Solar Radiation Prediction using Machine Learning Model",
+              "Title of Conference": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Cyber Security Control Systems for Operational Technology",
+              "Title of Conference": "2023 Second International Conference on Electronics and Renewable Energy (ICEARS)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "02-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "EEG Signal Classification for Motor Imagery Tasks",
+              "Title of Conference": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-01-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Improving convergence speed of the neural network model using Meta heuristic algorithms for weight initialization",
+              "Title of Conference": "2021 International Conference on Computer Communication and Informatics (ICCCI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-01-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "Review on Motor Imagery Based EEG Signal Classification for BCI Using Deep Learning Techniques",
+              "Title of Conference": "International Conference on Innovative Technology, Engineering and Science",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "22-12-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "K.VENU",
+              "Department": "CSR",
+              "Title of Paper": "CLASSIFICATION OF MYOCARDIAL INFARCTION WITH ECG SIGNALS USING RESNET",
+              "Title of Conference": "3rd International Conference on Advanced Scientific Innovation in Science, Engineering and Technology  (ICASISET 2020)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "15-05-2020",
+              "End Date": "16-05-2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

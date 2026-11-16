@@ -1,0 +1,1860 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "VLSI Design",
+              "Date of joining in KEC": "02-09-2006",
+              "Mobile": "6380991423",
+              "E-mail": "madhanmohan.eie@kongu.edu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Academic Degree": "PhD",
+              "Specialization": "VLSI Design",
+              "From": "01-06-2012"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Academic Degree": "ME",
+              "Specialization": "VLSI Design",
+              "From": "01-06-2007"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Academic Degree": "B.E.",
+              "Specialization": "EEE",
+              "From": "01-06-2000"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Academic Degree": "Diplamo",
+              "Specialization": "EEE",
+              "From": "01-06-1995"
+            }
+          ]
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "02-09-2006",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Muthayammal Engineering College",
+              "Position/Designation": "Lecturer/EEE",
+              "Start Date": "13-06-2005",
+              "End Date": "29-07-2006",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EIR-DR.M.MADHAN_MOHAN-471e5ecd-5296-493a-956c-946c85d93daa.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091832Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c474a5eaa9f0bdd3d5e1bd6a5e2b25d75955d467efb217469b4a3ffb13048ac9",
+                  "name": "exp 2.jpg",
+                  "totalRecords": null,
+                  "resourceId": "GsrSSFnixszPG7vGC",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Vickram College of Engineering",
+              "Position/Designation": "Lecturer/EEE",
+              "Start Date": "01-06-2004",
+              "End Date": "10-06-2005",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EIR-DR.M.MADHAN_MOHAN-659fe49e-b5d0-4b60-a19c-e536444ad206.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091832Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=17e27b9ab4d52acc00b8e1c1ea46a41c6b31a18b6e851c0f46cf42f92255b513",
+                  "name": "exp 1.jpg",
+                  "totalRecords": null,
+                  "resourceId": "eFiri522dBhsYonRd",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EIR-DR.M.MADHAN_MOHAN-109f567a-2d84-45ab-9ec8-5ea95d7c008d.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091832Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f753180c17914a22396f8d37cb116fa3135fd9dbf6a94edf24e58761de824e72",
+                  "name": "exp 1.jpg",
+                  "totalRecords": null,
+                  "resourceId": "4hcyYgEkXCkrJEisF",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "TNEB, Udumalpet",
+              "Position/Designation": "Technical Apprentice Trainee",
+              "Start Date": "01-03-1999",
+              "End Date": "28-02-2000",
+              "Duration": "",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-EIR-DR.M.MADHAN_MOHAN-b5dd68a0-6f59-4aba-89cf-0bb9375bfd5f.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091832Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=5b35c7ff39dd136bed6ba38b2b60dcbf0b3c3484cedf81c203a5ad423c283323",
+                  "name": "TNEB.jpg",
+                  "totalRecords": null,
+                  "resourceId": "aA5qBasjZEhdcySNa",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of Award/Achievement": "Best Faculty award 2017 -18",
+              "Level": "Others",
+              "Awarded by": "KVITT Trust",
+              "Place": "",
+              "Date": "30-04-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Analog Integrated Circuits and Signal Processing",
+              "Level": "International",
+              "Title": "FPGA Implementation and Performance Enhancement of FIR Filter \nwith Hybrid FinFET-GDI logic based Carry Select Adder",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "14-08-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Matéria (Rio de Janeiro)",
+              "Level": "International",
+              "Title": "Evaluation and categorization of raw cassava log quality for structural applications.",
+              "Volume No": "29",
+              "Issue No": "3",
+              "Year": "2024",
+              "Date": "10-10-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Physics: Conference Series.",
+              "Level": "International",
+              "Title": "IOT Based Moisture Measurement and Conveyor Belt Monitoring in Yarn Mill",
+              "Volume No": "2325",
+              "Issue No": "1",
+              "Year": "2022",
+              "Date": "05-07-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization",
+              "Level": "International",
+              "Title": "Non-invasive method for the prediction of micronutrient deficiency using sequential learning techniques",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "27-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Pharmaceutical Negative Results",
+              "Level": "International",
+              "Title": "Monitoring Textile Waste Water Treatment Using Natural Resources",
+              "Volume No": "13",
+              "Issue No": "3",
+              "Year": "2022",
+              "Date": "06-10-2022",
+              "Published at": "Journal of Pharmaceutical Negative Results"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Comptes rendus de l'Acad_emie bulgare des Sciences",
+              "Level": "International",
+              "Title": "Design and Analysis of Secondary Actuator Controller for Airwing System",
+              "Volume No": "74",
+              "Issue No": "4",
+              "Year": "2021",
+              "Date": "01-04-2021",
+              "Published at": "Comptes rendus de l'Acad_emie bulgare des Sciences"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of Recent Technology and Engineering",
+              "Level": "National",
+              "Title": "Development of Spinning Monitor to Facilitate the Sider in Textile Mills",
+              "Volume No": "9",
+              "Issue No": "1",
+              "Year": "2020",
+              "Date": "31-05-2020",
+              "Published at": "International journal of Recent Technology and Engineering"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International journal of scientific and technology research",
+              "Level": "International",
+              "Title": "An Approach for quality determination of cassava logs for industrial applications",
+              "Volume No": "9",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "01-04-2020",
+              "Published at": "”  International journal of scientific and technology research"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Applied Mathematics and Information Sciences",
+              "Level": "International",
+              "Title": "Reconfigurable fuzzy for cassava starch modification process in biodegradable plastics and pharmaceutical applications",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "31-07-2019",
+              "Published at": "Applied Mathematics and Information Sciences"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Controller Design for Evaluating Optimal Chemical Ratio in Starch Modification Process",
+              "Volume No": "6",
+              "Issue No": "10",
+              "Year": "2016",
+              "Date": "31-10-2016",
+              "Published at": "Asian Journal of Research in Social Sciences and Humanities"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "National Journal of Current Trends in Information Technology",
+              "Level": "National",
+              "Title": "Design of Controller to Evaluate Optimal Chemical Ratio in Starch Modification Process",
+              "Volume No": "6",
+              "Issue No": "1",
+              "Year": "2016",
+              "Date": "31-05-2016",
+              "Published at": "National Journal of Current Trends in Information Technology"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Research in Engineering and Technology",
+              "Level": "National",
+              "Title": "Design of Fuzzy Logic Controller for Starch Modification Process",
+              "Volume No": "3",
+              "Issue No": "7",
+              "Year": "2014",
+              "Date": "31-05-2014",
+              "Published at": "International Journal of Research in Engineering and Technology"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Computer Applications",
+              "Level": "National",
+              "Title": "Quantitative Analysis of Tapioca Starch using FT-IR Spectroscopy and Partial Least Squares",
+              "Volume No": "1",
+              "Issue No": "",
+              "Year": "2013",
+              "Date": "31-12-2013",
+              "Published at": "International Journal of Computer Applications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "WERE Clothing",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Quality determination",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-12-2025",
+              "Date of Consultancy (To)": "09-01-2026",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivam Apparels",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Sider Assist",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "06-11-2025",
+              "Date of Consultancy (To)": "09-01-2026",
+              "Revenue Generated (amount in Rupees without GST)": "35400"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "KUMARAN TEX",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Tangle Identification",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "12-04-2025",
+              "Date of Consultancy (To)": "07-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "25424"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivam Apparel, Tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Yarn Breakage",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "18-05-2024",
+              "Date of Consultancy (To)": "18-05-2024",
+              "Revenue Generated (amount in Rupees without GST)": "12712"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivam Apparel, Tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Yarn Breakage",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "02-05-2023",
+              "Date of Consultancy (To)": "31-05-2025",
+              "Revenue Generated (amount in Rupees without GST)": "12712"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Industry/Organization": "Shivam Apparel, Tirupur",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Sider Assistant",
+              "Number of persons involved": "3",
+              "Date of Consultancy (From)": "28-05-2022",
+              "Date of Consultancy (To)": "30-05-2022",
+              "Revenue Generated (amount in Rupees without GST)": "15000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "24VC025 Design and Fabrication of Electronic circuits and its Applications in PCB",
+              "Collaboration/Sponsored by": "Wizaard System",
+              "Level": "Department",
+              "Start Date": "30-08-2026",
+              "End Date": "21-09-2026",
+              "Duration": "30 hrs",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Design and Analysis of Electronic Circuit using Automation Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "08-08-2026",
+              "End Date": "08-08-2026",
+              "Duration": "1",
+              "Role played": "Convener",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "FPGA workshop",
+              "Collaboration/Sponsored by": "",
+              "Level": "State",
+              "Start Date": "10-10-2025",
+              "End Date": "10-10-2025",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": "KEC"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Design and Fabrication of Electronic circuits and its Applications in PCB",
+              "Collaboration/Sponsored by": "M/s.Wizzard Systems, Coimbatore",
+              "Level": "Department",
+              "Start Date": "20-09-2025",
+              "End Date": "08-10-2025",
+              "Duration": "30",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "FPGA Based System Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-10-2024",
+              "End Date": "06-11-2024",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Electronic circuit  design and applications using EDA tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "06-03-2024",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Mixed Signal Circuit: Technology, Logic design and CAD Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-03-2021",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Electronics System Design using FPGA and CPLD",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "20-10-2020",
+              "End Date": "24-10-2020",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Simulation of Electric Circuits using EDA Tool",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "28-07-2020",
+              "End Date": "04-08-2020",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Sensor Interfacing for IoT",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "04-02-2019",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Digital System Design and Implementation using FPGA",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "10-03-2018",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Industrial Electronic circuit  design and applications using EDA tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-12-2017",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on FPGA Hardware Co-Simulation Model Implementation using SYSGEN",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "07-09-2017",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Linear programming Techniques, Applications and Implementation using MATLAB",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "18-02-2017",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "FPGA Based VLSI Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "30-08-2016",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "FPGA Based VLSI Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-03-2016",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Electronic Circuit Design using EDA Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-08-2015",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Design and Analysis of Electronic Circuit Using Automation Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "01-08-2015",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "FPGA Based VLSI Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "14-02-2015",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Design and Analysis of Electronic Circuit Using Automation Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "09-01-2015",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Electronic Circuit Design using EDA Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "08-08-2014",
+              "End Date": "",
+              "Duration": "2",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Electronic Circuit Design using EDA Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "24-07-2014",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on FPGA Based VLSI Design",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "06-01-2014",
+              "End Date": "",
+              "Duration": "2",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on Hands on Training in Electronics Circuit Design using EDA Tools",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "23-08-2013",
+              "End Date": "",
+              "Duration": "1",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Seminar",
+              "Name of Event": "National seminar on Wavelets for Earth Fractals Computation – Research Focus",
+              "Collaboration/Sponsored by": "MoES Sponsored",
+              "Level": "National",
+              "Start Date": "05-01-2012",
+              "End Date": "07-01-2012",
+              "Duration": "3",
+              "Role played": "Coordinator",
+              "Venue": "EIE Department"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Circuit Design, Simulation and PCB Design Using ORCAD",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "28-07-2010",
+              "End Date": "",
+              "Duration": "15",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Type of Event": "Conference",
+              "Name of Event": "National Conference on Systemic, Cybernetics and Informatics",
+              "Collaboration/Sponsored by": "Department of Science & Technology Sponsored",
+              "Level": "National",
+              "Start Date": "23-10-2009",
+              "End Date": "24-10-2009",
+              "Duration": "2",
+              "Role played": "Coordinator",
+              "Venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Digital VLSI Design and FPGA and Testability",
+              "Level": "National",
+              "Organized by": "MIET and E & ICT ACADEMY",
+              "Place": "Erode",
+              "Start Date": "09-03-2026",
+              "End Date": "13-03-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "“Innovative Teaching with Machine Learning: Tools, Techniques, and Trends",
+              "Level": "National",
+              "Organized by": "Jeppiaar Institute of Technology",
+              "Place": "Chennai",
+              "Start Date": "02-02-2026",
+              "End Date": "07-02-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Machine Learning in Engineering Application",
+              "Level": "National",
+              "Organized by": "Kangeyam Institute of Technology",
+              "Place": "Kangeyam",
+              "Start Date": "27-01-2026",
+              "End Date": "31-01-2026"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Industry Training",
+              "Level": "Others",
+              "Organized by": "Vasantha Advanced Systems Private Limited",
+              "Place": "Coimbatore",
+              "Start Date": "24-12-2025",
+              "End Date": "28-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Climate Resilient Pathways for Sustainable Development",
+              "Level": "National",
+              "Organized by": "The National Institute of Technical Teachers' Training and Research (NITTTR)",
+              "Place": "Chandigarh",
+              "Start Date": "10-11-2025",
+              "End Date": "14-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "VLSI for Beginners",
+              "Level": "National",
+              "Organized by": "National Institute of Electronics and Information Technology NIELIT",
+              "Place": "Calicut",
+              "Start Date": "10-09-2025",
+              "End Date": "14-09-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Engineering and Management Teaching Pedagogy- an Industry Perspective",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "11-05-2025",
+              "End Date": "16-05-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Intelligent VLSI: The Convergence of Artifical Intelligence, Signal Processing and Computing",
+              "Level": "International",
+              "Organized by": "SIMATS Engineering, Chennai",
+              "Place": "",
+              "Start Date": "07-04-2025",
+              "End Date": "12-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "AGNI Steels, Perundurai",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-12-2024",
+              "End Date": "13-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Next-Gen Educators: Harnessing the Power of Machine Learning",
+              "Level": "International",
+              "Organized by": "Jeppiaar Institute Of Technology Chennai,",
+              "Place": "",
+              "Start Date": "25-09-2024",
+              "End Date": "01-10-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Industrial Applications of Embedded Systems and IoT",
+              "Level": "International",
+              "Organized by": "Rajalakshmi Engineering College in association with IIC/REC and IEEE Communication society/REC.",
+              "Place": "",
+              "Start Date": "22-08-2024",
+              "End Date": "28-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Advanced Embedded Systems & IoT",
+              "Level": "International",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-07-2024",
+              "End Date": "02-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "\"Internet  of Things",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "23-08-2021",
+              "End Date": "27-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Edge computing technologies for Smart Factory Automation and Industry 4.0",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "16-08-2021",
+              "End Date": "20-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Desalination by using Green Technology",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-08-2021",
+              "End Date": "13-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Computational techniques in Engineering",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-08-2021",
+              "End Date": "06-08-2021"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "Sensors Technology",
+              "Level": "National",
+              "Organized by": "Department of ECE St.Joseph’s Institute of Technology",
+              "Place": "",
+              "Start Date": "17-08-2020",
+              "End Date": "21-08-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Industry 4.0 and Smart Manufacturing: Opportunities and Challenges",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "20-07-2020",
+              "End Date": "24-07-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Webinar",
+              "Title of the program": "Reference Management using ENDNOTE",
+              "Level": "National",
+              "Organized by": "KEC",
+              "Place": "",
+              "Start Date": "02-06-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Webinar",
+              "Title of the program": "Journals Indexing and Its Review Process",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Recent Trends and Applications of Machine learning and Deep Learning in IT",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "25-05-2020",
+              "End Date": "29-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Webinar",
+              "Title of the program": "3D Printing Applications in Fighting with COVID-19",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "09-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Spoken Tutorial-Free Open Source Software- Arduino",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "04-05-2020",
+              "End Date": "10-05-2020"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "FDP",
+              "Title of the program": "LabVIEW – Multisim and Image Processing Tools",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "02-06-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "CMOS, Mixed Signal and Radio Frequency VLSI Design",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "30-01-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Molecular imaging in Therapeutic applications",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "29-07-2016",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "LUCAS TVS",
+              "Level": "Others",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "27-11-2012",
+              "End Date": "01-12-2012"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "STTP",
+              "Title of the program": "Machine Vision and Image Processing using LabVIEW",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "18-05-2012",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Select Programme": "Training Program",
+              "Title of the program": "Ponni Sugars",
+              "Level": "National",
+              "Organized by": "",
+              "Place": "",
+              "Start Date": "21-06-2007",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "IAENG  IAENG Society of Electrical Engineering ,  Society of Internet Computing and Web Services , Society of Industrial Engineering ,Wireless Networks",
+              "Position": "",
+              "Level": "National",
+              "Start Date": "24-06-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "IAENG",
+              "Position": "membership_392194",
+              "Level": "International",
+              "Start Date": "16-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Name of the Professional Body/Society": "IEICE",
+              "Position": "member_1884352",
+              "Level": "International",
+              "Start Date": "31-03-2020",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "High Speed Datapath Circuit Design Using Domino Logic",
+              "Title of Conference": "2026 6th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)",
+              "Organized by": "Rohini College of Engineering & Technology",
+              "Level": "International",
+              "Start Date": "01-05-2026",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "IIoT-Based Predictive Maintenance and Energy Monitoring System in UPVC Door Manufacturing Process",
+              "Title of Conference": "ICSCN-2025",
+              "Organized by": "BNEC, Theni",
+              "Level": "International",
+              "Start Date": "15-10-2025",
+              "End Date": "17-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Oral Cancer Detection Through Machine Learning Algorithm: An Investigation",
+              "Title of Conference": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automatic Jaggery Cooling and Moulding System",
+              "Title of Conference": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-09-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automated Boiler Monitoring System for Efficient Performance in Dyeing Industry",
+              "Title of Conference": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI), Tirunelveli,",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "09-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Predictive Maintenance Approach in Textile Industry using Machine Learning",
+              "Title of Conference": "2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+              "Organized by": "MPNMJ",
+              "Level": "International",
+              "Start Date": "01-07-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Intelligent Chalk Ingredients Blender Integrated with IoT",
+              "Title of Conference": "International Conference on Ubiquitous Computing and Intelligent Information Systems",
+              "Organized by": "Shree Venkateshwara Hi-Tech Engineering College",
+              "Level": "International",
+              "Start Date": "12-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Automated Batch Dryer of Grains",
+              "Title of Conference": "5th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Edge Processing in Machine Learning for Arthritis Detection and Classification",
+              "Title of Conference": "2024 5th International Conference on Data Intelligence and Cognitive Informatics (ICDICI), Tirunelveli",
+              "Organized by": "SCAD College of Engineering and Technology Tirunelveli, Tamil Nadu, India",
+              "Level": "International",
+              "Start Date": "18-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "IoT Integrated Quality Checking and Stage Classification for Dairy Products",
+              "Title of Conference": "International Conference on Data Intelligence and Cognitive Informatics (ICDICI),",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "01-11-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automatic Copra Quality Analyser using ESP-32 Camera Module",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+              "Organized by": "M. P. Nachimuthu M. Jaganathan Engineering College Chennimalai, Erode, India",
+              "Level": "International",
+              "Start Date": "23-10-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Automated Flour Recirculation and Dust Free Grain Grinding Mechanism",
+              "Title of Conference": "8th International Conference on Inventive Systems and Control (ICISC), Coimbatore",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "29-07-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "FPGA Implementation and Optimization of Adder Performance with Hybrid FinFET-GDI Logic",
+              "Title of Conference": "International Conference on Electronics, Computing, Communication and Control Technology (ICECCC), Bengaluru, India",
+              "Organized by": "CMR Institute of Technology Bengaluru",
+              "Level": "International",
+              "Start Date": "02-05-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automatic Calendering Roll Cleaning Machine in Textile Industry using IoT",
+              "Title of Conference": "5th International Conference on Smart Electronics and Communication (ICOSEC), Trichy",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "04-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Implementation Secured Automatic Roller Cleaning and Ink Refilling in Printing Industries",
+              "Title of Conference": "2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "04-01-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design of Control System For 1.7mv Tandetron Accelerator by PLC and SCADA,",
+              "Title of Conference": "2023 International Conference on Recent Advances in Science and Engineering Technology (ICRASET), B G NAGARA, India, 2023,",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-11-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Implementation of Oil Tank Cleaning System Using IoT",
+              "Title of Conference": "",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of a System to Control and Monitor the Atmospheric CO and CO2 in Traffic Junctions Using IoT",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS),",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Low Power Model for Induction Coil",
+              "Title of Conference": "International Conference on Self Sustainable Artificial Intelligence Systems",
+              "Organized by": "M.P.Nachimuthu M.Jaganathan Engineering College",
+              "Level": "International",
+              "Start Date": "18-10-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Monitoring and Controlling of Loom Parameters Using Job Shop Scheduling Algorithm",
+              "Title of Conference": "International Conference on Inventive Research in Computing Applications",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "03-08-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "IoT Based Pulp Quality Enhancement Through Bleaching Process in ECF Plant",
+              "Title of Conference": "2023 14th International Conference on Computing Communication and Networking Technologies",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "06-07-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Tuning and Optimization of Temperature in a Fatigue Sodium Loop of Fast Breeder Tank Reactor Using PID Controller",
+              "Title of Conference": "3rd International Conference on Pervasive Computing and Social Networking (ICPCSN)",
+              "Organized by": "Narasu’s Sarathy Institute of Technology",
+              "Level": "International",
+              "Start Date": "19-06-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Investigation of Kidney Stone Detection using Image Processing",
+              "Title of Conference": "International Conference on Edge Computing and Applications (ICECAA), November 2022",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "14-06-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automated Fabric Feeding Guide in Continuous Rotary Fabric Printing Machine",
+              "Title of Conference": "International Conference on Applied Artificial Intelligence and Computing",
+              "Organized by": "Narasu’s Sarathy Institute of Technology",
+              "Level": "International",
+              "Start Date": "15-04-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Patient Health Monitoring using Foot Pressure",
+              "Title of Conference": "International Conference on Sustainable Computing and Data Communication Systems (ICSCDS), Erode",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Thickness Measuring System for Copper Wire",
+              "Title of Conference": "5th International Conference on Smart Systems and Inventive Technology (ICSSIT), Tirunelveli",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "23-01-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Smart Driving Assistant for Upclimbing Hill Slope Area",
+              "Title of Conference": "2022 International Conference on Automation, Computing and Renewable Systems (ICACRS),",
+              "Organized by": "Mount Zion College of Engineering and Technology",
+              "Level": "International",
+              "Start Date": "13-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Automatic Tomato Sorting Intelligent System using Image Processing",
+              "Title of Conference": "International Conference on Automation, Computing and Renewable Systems (ICACRS), Pudukkottai",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Investigation of Kidney Stone Detection using Image Processing",
+              "Title of Conference": "International Conference on Edge Computing and Applications (ICECAA), November 2022,",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "13-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Smart IoT Based Solar Powered Lawn Mower Robot",
+              "Title of Conference": "13th International Conference on Computing Communication and Networking Technologies",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "03-10-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Automatic Pathway Diverter For Conveyor In Packing Section Of  Cement Factory",
+              "Title of Conference": "International Conference on Contemporary Engineering and Technology",
+              "Organized by": ", Prince Dr. K.Vasudevan College Of Engineering And Technology, Chennai",
+              "Level": "International",
+              "Start Date": "21-05-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Rapid COVID-19 spotting and classification using computed tomography scan image",
+              "Title of Conference": "GREEN COMPUTING FOR COMMUNICATION TECHNOLOGIES",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Computerization of parking management monitoring system using iot and firebase",
+              "Title of Conference": "GREEN COMPUTING FOR COMMUNICATION TECHNOLOGIES",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "25-02-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Determination of Growth Disorders Through Micronutrient Deficiency",
+              "Title of Conference": "International Conference On Engineering Facilities Maintenance And Management Technologies (EFM2T’21), BIUST campus, Palpaye,  Botswana",
+              "Organized by": "BIUST campus, Palpaye,  Botswana",
+              "Level": "International",
+              "Start Date": "28-10-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Automatic Gardening System using IoT",
+              "Title of Conference": "6th International Conference on Recent Trends on Electronics, Information, Communication and Technology, RTEICT 2021",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "27-08-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of Paper": "Design and Development of Sewage Cleaning Mobile Robot",
+              "Title of Conference": "6th International Conference on Inventive Computation Technologies (ICICT), Coimbatore",
+              "Organized by": "",
+              "Level": "International",
+              "Start Date": "20-01-2021",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "Reviewer for  International journal of Near Infrared Spectroscopy",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "Web of Science",
+              "Start Date": "30-12-2025",
+              "End Date": "30-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "International Exhibition Electronica India 2025  held at the BIEC, Bengaluru",
+              "Role": "Others",
+              "Level": "International",
+              "Organized by": "South Asia’s international trade fair",
+              "Start Date": "17-09-2025",
+              "End Date": "19-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "Review Paper",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "03-07-2025",
+              "End Date": "03-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "overview of C-DOT productions and solutions and visited 5G systems and  PCB pilot production labs",
+              "Role": "Others",
+              "Level": "Government",
+              "Organized by": "",
+              "Start Date": "07-01-2025",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "Science Publications",
+              "Role": "Editor/Reviewer",
+              "Level": "International",
+              "Organized by": "",
+              "Start Date": "10-12-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "IGCAR",
+              "Role": "Others",
+              "Level": "Government",
+              "Organized by": "",
+              "Start Date": "20-12-2022",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.M.MADHAN MOHAN",
+              "Department": "EIR",
+              "Title of the Program": "Programming in Advance Microcontrollers and ARM Processors",
+              "Role": "Expert Lecture",
+              "Level": "Inter-Collegiate",
+              "Organized by": "",
+              "Start Date": "27-09-2016",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1690 @@
+{
+  "id": "nbhB3D8Y793eTKdgf",
+  "name": "STAFF PROFILE INFORMATION",
+  "type": "STAFF",
+  "published": "1",
+  "data": [
+    {
+      "id": "1D3061B8E7EC049EC",
+      "name": "PERSONAL DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "5F1A75ACF8C06FB9D",
+          "name": "Personal Details",
+          "headers": [
+            "Name",
+            "Department",
+            "Designation",
+            "Area of Specialisation",
+            "Date of joining in KEC",
+            "Mobile",
+            "E-mail"
+          ],
+          "data": [
+            {
+              "Name": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Designation": "ASSOCIATE PROFESSOR",
+              "Area of Specialisation": "Computer Networks, Internet of Things",
+              "Date of joining in KEC": "13-07-2007",
+              "Mobile": "09965540601",
+              "E-mail": "konguskb@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "827CF3CD4B687EBCA",
+      "name": "QUALIFICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "29EF5C748472131E7",
+          "name": "ACADEMIC QUALIFICATION",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Academic Degree",
+            "Specialization",
+            "From"
+          ],
+          "data": []
+        },
+        {
+          "id": "3BE43F904AA21E672",
+          "name": "Additional Qualifications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Category",
+            "Reference No",
+            "Roll No",
+            "Year",
+            "Specialization",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "E7ACE8E1F58B0B15F",
+      "name": "ACADEMIC POSITION",
+      "type": "section",
+      "data": [
+        {
+          "id": "91F823A51BEC9C26A",
+          "name": "Academic Position",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Position",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Contribution to the Institute"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Position": "Faculty",
+              "Level": "Department",
+              "Start Date": "13-07-2007",
+              "End Date": "",
+              "Contribution to the Institute": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524F1067CD9585B6E",
+      "name": "PREVIOUS EXPERIENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "9D9C62B29D3CD06E5",
+          "name": "Previous Experience",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Organization",
+            "Name of Institution/Organization",
+            "Position/Designation",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Upload Appointment Order",
+            "Upload Experience Certificate"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Organization": "Academic",
+              "Name of Institution/Organization": "Sri Vasavi College, Erode",
+              "Position/Designation": "Lecturer",
+              "Start Date": "01-06-2005",
+              "End Date": "12-07-2007",
+              "Duration": "2 years",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-DR.S.KAVITHA_BHARATHI-0e07b745-3285-42d9-8d80-0182e5f4692b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=82e465b75e9ab6ee51a1503d58514e310f2190dee7e56f6426883e62faff3ea4",
+                  "name": "Service certificate 16-Oct-2022 09-27-50 Page 2 (1).pdf",
+                  "totalRecords": null,
+                  "resourceId": "LvKRHz6izgva8JSBu",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-DR.S.KAVITHA_BHARATHI-4cb3c030-c3ea-4d0c-a567-8512d73dc82b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=5f0c962e0806917ed1761e823cfc954356c2aefcb69debc94d4f47b31d913101",
+                  "name": "Service certificate 16-Oct-2022 09-27-50 Page 2 (1).pdf",
+                  "totalRecords": null,
+                  "resourceId": "n3bLqzFn835v876yS",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Organization": "Industry",
+              "Name of Institution/Organization": "India info.com",
+              "Position/Designation": "Web Developer",
+              "Start Date": "19-06-2004",
+              "End Date": "30-05-2005",
+              "Duration": "1 Year",
+              "Upload Appointment Order": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-DR.S.KAVITHA_BHARATHI-d3863fbb-7f22-46f5-99b3-afbb09fc3fc9.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=8bf21bb9016cd40f934b8a763dfba247d167b14db8fbe94ff394004d0a59dca6",
+                  "name": "India_info.pdf",
+                  "totalRecords": null,
+                  "resourceId": "PtGW9LewKS8JooMar",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ],
+              "Upload Experience Certificate": [
+                {
+                  "url": "https://amsfilestore.s3.ap-south-1.amazonaws.com/KEC/EXAT/Staff-Previous_Experience-CTUG-DR.S.KAVITHA_BHARATHI-7915bd3e-7db3-4db6-a49b-b556aa46741b.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAX2B3ZDTXZK5VFJWN%2F20261116%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T091846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d35512dee1971e2abe51907acce91c53341be3778299c46878315fdc75a1189c",
+                  "name": "India_info.pdf",
+                  "totalRecords": null,
+                  "resourceId": "LbAtdEvLbbcx8wpeC",
+                  "baseUrl": "https://kec.linways.com/exat2/manage-reports/show-document-attached/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29113CB9FA3D699AD",
+      "name": "AWARDS, ACHIEVEMENTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "830BC56180255BFF3",
+          "name": "Awards, Achievements",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of Award/Achievement",
+            "Level",
+            "Awarded by",
+            "Place",
+            "Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL online Certification - Elite Silver",
+              "Level": "National",
+              "Awarded by": "NPTEL-AICTE",
+              "Place": "IIT Madras",
+              "Date": "25-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Online Certification",
+              "Level": "National",
+              "Awarded by": "NPTEL-AICTE",
+              "Place": "IIT Madras",
+              "Date": "24-09-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Gurukshetra 2024 - 4th Place in CARROM",
+              "Level": "National",
+              "Awarded by": "Rathinam College of Arts and Science",
+              "Place": "Coimbatore",
+              "Date": "06-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "BIT Sahasi Mahila Trophy",
+              "Level": "National",
+              "Awarded by": "BIT, Sathyamangalam",
+              "Place": "",
+              "Date": "01-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL",
+              "Level": "National",
+              "Awarded by": "IIT, Kharagpur",
+              "Place": "",
+              "Date": "22-02-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Pongal competition",
+              "Level": "Others",
+              "Awarded by": "KEC",
+              "Place": "",
+              "Date": "12-01-2019"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL_Elite",
+              "Level": "National",
+              "Awarded by": "IIT, Kharagpur",
+              "Place": "",
+              "Date": "28-09-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "Android App for Erode District",
+              "Level": "Others",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "25-07-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "KEC Choice based Course Selection",
+              "Level": "National",
+              "Awarded by": "",
+              "Place": "",
+              "Date": "19-04-2018"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of Award/Achievement": "NPTEL-ELITE",
+              "Level": "National",
+              "Awarded by": "IIT, Kanpur",
+              "Place": "",
+              "Date": "09-09-2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5B0DABB843CE5DA2",
+      "name": "PUBLICATIONS",
+      "type": "section",
+      "data": [
+        {
+          "id": "311DA14E57DFEE9B4",
+          "name": "Publications",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Publication Type",
+            "Name of Journal/Books/Book chapter/ Proceedings",
+            "Level",
+            "Title",
+            "Volume No",
+            "Issue No",
+            "Year",
+            "Date",
+            "Published at"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Challenges and Solutions of Using Quantum Security Frameworks for IoT Devices",
+              "Level": "International",
+              "Title": "A Quantum- Safe Security Framework for IoT: Integrating PQC, QKD, and AI for Resilient Post- Quantum Environments",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "31-07-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Communication Systems",
+              "Level": "International",
+              "Title": "Quokka Swarm Optimized Clifford-Steerable Dynamic Graph Attention Network for Wireless SDN Traffic Control",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "22-05-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Communication Systems",
+              "Level": "International",
+              "Title": "A Novel Framework for Energy-Efficient Routing and Robust Cluster Head Selection in Wireless Sensor Networks Utilizing Deep Kronecker Neural Networks and Hybrid Metaheuristic Optimization",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "27-03-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter",
+              "Level": "International",
+              "Title": "Deep Learning-Enhanced Association Rule Mining for Interpretable Clinical Decision Support",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "25-02-2026",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Software Engineering and Knowledge Engineering",
+              "Level": "International",
+              "Title": "An Optimized Cluster-Based Heterogeneous Earliest Finish Time Algorithm for Task Scheduling in Mobile Grid",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "31-12-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter: Enhancing Autonomous and Adaptive Systems with AI and IoT",
+              "Level": "International",
+              "Title": "Transfer Learning for IoT Applications: Explainable AI for Adaptive Systems Integration",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "15-12-2025",
+              "Published at": "IGI Global Scientific Publication"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter :Block Chain based Health care managment in Metaverse",
+              "Level": "International",
+              "Title": "Integrating Blockchain, Smart Contracts, and AI for Decentralized\nHealthcare in the Metaverse: Future Research Directions",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2025",
+              "Date": "08-08-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Book Chapter: A Synergistic Framework for Smart Hospitals",
+              "Level": "International",
+              "Title": "Integrating Blockchain and Digital Twins",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2026",
+              "Date": "29-05-2025",
+              "Published at": "IGI Global Scientific Publishing"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Cryptography and Network Security",
+              "Level": "International",
+              "Title": "Cryptography and Network Security",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "13-03-2025",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Springer-Proceedings of Third International Conference in Mechanical and Energy TechnologyICMET 2023, India",
+              "Level": "International",
+              "Title": "Advancing Beyond Contextual Embeddings: Innovations in Word and Document Representations for Natural Language Processing",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2024",
+              "Date": "01-08-2024",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "SN Computer Science",
+              "Level": "International",
+              "Title": "Intrusion Detection System in Industrial Cyber?Physical System Using\nClustered Federated Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "17-06-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing Methodologies and Communication (ICCMC-2023) IEEE Xplore Part Number: CFP23K25-ART",
+              "Level": "International",
+              "Title": "Communication of Confidential Documents Through Email using Hybrid and Key-Exchange Algorithm",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2023",
+              "Date": "02-05-2023",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Conference on Computing Methodologies and Communication (ICCMC 2022) IEEE Xplore Part Number: CFP22K25-ART",
+              "Level": "International",
+              "Title": "A Federated Learning based Approach for Heart\nDisease Prediction",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2022",
+              "Date": "04-06-2022",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "IOP Conference Series: Materials Science and Engineering",
+              "Level": "International",
+              "Title": "Exploring Nano Biotechnology for detecting specific disease in Medical\ndiagnosis and Therapeutic",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "01-10-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Proceedings",
+              "Name of Journal/Books/Book chapter/ Proceedings": "AIP Conference Proceedings  - Proceedings of the 4th National Conference on Current and Emerging Process Technologies e-CONCEPT-2021",
+              "Level": "National",
+              "Title": "Intuitionistic fuzzy clustering and natural exponential inertia weight with Artificial\nBee Colony based scheduling approach for mobile grid",
+              "Volume No": "2387",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "31-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Book",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Introduction to Machine Learning",
+              "Level": "National",
+              "Title": "Introduction to Machine Learning",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "31-05-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Others",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Communication, Machine Learning, Embedded with Internet of Things (IVCACME-2021)",
+              "Level": "International",
+              "Title": "A PRIVACY PRESERVING CREDIT CARD FRAUD DETECTION SYSTEM IN A FEDERATED ENVIRONMENT",
+              "Volume No": "",
+              "Issue No": "",
+              "Year": "2021",
+              "Date": "09-04-2021",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Bioscience Biotechnology Research Communications",
+              "Level": "International",
+              "Title": "A Review on Context Awarness for Trust Management Systems",
+              "Volume No": "13",
+              "Issue No": "4",
+              "Year": "2020",
+              "Date": "01-06-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Psychosocial Rehabilitation",
+              "Level": "International",
+              "Title": "Traffic Emission Discovery and Control using Air Quality Indexing and Analytics\nFramework",
+              "Volume No": "24",
+              "Issue No": "8",
+              "Year": "2020",
+              "Date": "05-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Psychosocial Rehabilitation",
+              "Level": "International",
+              "Title": "A Hybrid approach for an analysis of diabetes and prediction using machine learning techniques",
+              "Volume No": "24",
+              "Issue No": "8",
+              "Year": "2020",
+              "Date": "05-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Psychosocial Rehabilitation",
+              "Level": "International",
+              "Title": "ANALYSIS OF STROKE PREDICTION USING DEEP LEARNING",
+              "Volume No": "24",
+              "Issue No": "8",
+              "Year": "2020",
+              "Date": "05-05-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Advanced Science and Technology",
+              "Level": "International",
+              "Title": "PUBLIC INTELLIGENCE MINING AND USER INTENTION UNDERSTANDING BASED ON K-ANONYMITY",
+              "Volume No": "29",
+              "Issue No": "7",
+              "Year": "2020",
+              "Date": "30-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Test Engineering and Management",
+              "Level": "International",
+              "Title": "Medical Image Detection with Dicom Images",
+              "Volume No": "83",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "22-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Test Engineering and Management",
+              "Level": "International",
+              "Title": "Classification of Rice Plant Disease using Convolution Neural Network",
+              "Volume No": "83",
+              "Issue No": "",
+              "Year": "2020",
+              "Date": "22-04-2020",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Advances in Mathematics: Scientific Journal",
+              "Level": "International",
+              "Title": "LOCALLY CLOSED SETS IN INTUITIONISTIC TOPOLOGICAL SPACES",
+              "Volume No": "8",
+              "Issue No": "3",
+              "Year": "2019",
+              "Date": "30-06-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Innovative Technology and Exploring Engineering (IJITEE)",
+              "Level": "International",
+              "Title": "Energy efficient clustering and Job scheduling in Mobile Grid Computing Environment",
+              "Volume No": "8",
+              "Issue No": "6",
+              "Year": "2019",
+              "Date": "30-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Emerging Technologies and Innovative Research (JETIR)",
+              "Level": "International",
+              "Title": "Effective Event Detection and Identification Of Influential Spreaders In Social Media Data Streams",
+              "Volume No": "6",
+              "Issue No": "4",
+              "Year": "2019",
+              "Date": "01-04-2019",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Networking and Virtual Organisations",
+              "Level": "International",
+              "Title": "Fuzzy-based trusted security for mobile grid systems",
+              "Volume No": "18",
+              "Issue No": "3",
+              "Year": "2018",
+              "Date": "30-04-2018",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Journal of Computational and Theoretical Nanoscience",
+              "Level": "International",
+              "Title": "Energy efficient nodes clustering and Hop-count based routing in mobile grid",
+              "Volume No": "15",
+              "Issue No": "1-9",
+              "Year": "2017",
+              "Date": "18-10-2017",
+              "Published at": "American Scientific Publisher"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Intellectual Advancements and Research in Engineering Computations",
+              "Level": "International",
+              "Title": "Robust partial face recognition using hog feature points matching and minimum distance classifier",
+              "Volume No": "5",
+              "Issue No": "2",
+              "Year": "2017",
+              "Date": "31-05-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Intellectual Advancements and Research in Engineering Computations",
+              "Level": "International",
+              "Title": "Agricultural plant leaf disease detection and diagnosis using watershed segmentation and gray level co occurrence matrix (GLCM)",
+              "Volume No": "5",
+              "Issue No": "2",
+              "Year": "2017",
+              "Date": "31-05-2017",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "Asian Journal of Research in Social Sciences and Humanities",
+              "Level": "International",
+              "Title": "Distributed Hybrid Fault Tolerant Model with Fault Recovery for Mobile Grid",
+              "Volume No": "6",
+              "Issue No": "10",
+              "Year": "2016",
+              "Date": "01-10-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of Science and Research (IJSR)",
+              "Level": "International",
+              "Title": "Reliable Resource Allocation for Energy Constrained Mobile Grid Systems",
+              "Volume No": "5",
+              "Issue No": "1",
+              "Year": "2016",
+              "Date": "25-01-2016",
+              "Published at": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Publication Type": "Journal",
+              "Name of Journal/Books/Book chapter/ Proceedings": "International Journal of applied Engineering Research",
+              "Level": "International",
+              "Title": "Mobility Aware Resource allocation and Scheduling using PSO in mobile grid",
+              "Volume No": "9",
+              "Issue No": "23",
+              "Year": "2014",
+              "Date": "30-06-2014",
+              "Published at": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FCDA812A13EED38F4",
+      "name": "PROJECTS",
+      "type": "section",
+      "data": [
+        {
+          "id": "839643CB3941AF7C2",
+          "name": "Research Projects",
+          "headers": [
+            "Principal Investigator",
+            "Department",
+            "Type of Project",
+            "Title of Project",
+            "Funding Agency",
+            "Name of the Scheme",
+            "Co-Investigator(s)",
+            "Project Start Date",
+            "Duration",
+            "Status"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "7AD4350BAEEE757FB",
+      "name": "CONSULTANCY",
+      "type": "section",
+      "data": [
+        {
+          "id": "639BDC7C4F6C7DBAF",
+          "name": "Consultancy",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Industry/Organization",
+            "Nature of Consultancy",
+            "Type of Consultancy",
+            "Number of persons involved",
+            "Date of Consultancy (From)",
+            "Date of Consultancy (To)",
+            "Revenue Generated (amount in Rupees without GST)"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "KM Fashion Clothing CO",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "software development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "16-12-2025",
+              "Date of Consultancy (To)": "27-02-2026",
+              "Revenue Generated (amount in Rupees without GST)": "8900"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Radha Velli Mahaal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "software development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "05-12-2025",
+              "Date of Consultancy (To)": "28-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "11870"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Dhanya Tex, Manicampalayam",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "06-02-2025",
+              "Date of Consultancy (To)": "15-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Hotel Varshan International",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "10-12-2024",
+              "Date of Consultancy (To)": "31-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "9000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Arachalamman Stationaries, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Web Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "28-11-2024",
+              "Date of Consultancy (To)": "31-03-2025",
+              "Revenue Generated (amount in Rupees without GST)": "8000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Kalki Super Market, Nammakal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "19-07-2024",
+              "Date of Consultancy (To)": "30-11-2025",
+              "Revenue Generated (amount in Rupees without GST)": "10000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "VIP Bakery, Namakkal",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-07-2024",
+              "Date of Consultancy (To)": "31-10-2024",
+              "Revenue Generated (amount in Rupees without GST)": "5000"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "itooth dental, Chennai",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "06-08-2021",
+              "Date of Consultancy (To)": "02-12-2021",
+              "Revenue Generated (amount in Rupees without GST)": "11800"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Happy Cricket Academy, Salem",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "Application Development",
+              "Number of persons involved": "1",
+              "Date of Consultancy (From)": "01-02-2021",
+              "Date of Consultancy (To)": "15-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "9440"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Name of the Industry/Organization": "Shree Associates, Vijayamangalam",
+              "Nature of Consultancy": "Consultancy",
+              "Type of Consultancy": "",
+              "Number of persons involved": "4",
+              "Date of Consultancy (From)": "19-01-2021",
+              "Date of Consultancy (To)": "09-04-2021",
+              "Revenue Generated (amount in Rupees without GST)": "5900"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37A3B953FC0D5CE26",
+      "name": "EVENTS ORGANIZED",
+      "type": "section",
+      "data": [
+        {
+          "id": "79A3DD2C1482FCFED",
+          "name": "Events Organized",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Event",
+            "Name of Event",
+            "Collaboration/Sponsored by",
+            "Level",
+            "Start Date",
+            "End Date",
+            "Duration",
+            "Role played",
+            "Venue"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One credit course",
+              "Collaboration/Sponsored by": "Industry",
+              "Level": "Department",
+              "Start Date": "25-01-2026",
+              "End Date": "15-02-2026",
+              "Duration": "35 hours",
+              "Role played": "Coordinator",
+              "Venue": "Computer Center 4&5"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "One Credit course on Design and Development of mobile bots for diverse applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "21-01-2026",
+              "End Date": "29-01-2026",
+              "Duration": "32 Hours",
+              "Role played": "Coordinator",
+              "Venue": "Robotics Lab"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Design and Development of Mobile Bots for Diverse Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "10-04-2025",
+              "End Date": "10-05-2025",
+              "Duration": "30 Hours",
+              "Role played": "Coordinator",
+              "Venue": "MTS Department"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Mastering IoT Foundations",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "22-02-2025",
+              "End Date": "16-03-2025",
+              "Duration": "35 hours",
+              "Role played": "Coordinator",
+              "Venue": "Department - CTUG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Mastering IoT Foundations",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "20-02-2025",
+              "End Date": "20-02-2025",
+              "Duration": "one day",
+              "Role played": "Coordinator",
+              "Venue": "Department of CTUG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Training",
+              "Name of Event": "Augmented Reality Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "15-02-2025",
+              "End Date": "15-02-2025",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "Seminar Hall, CT-UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Introduction to virtual reality using unity",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "15-08-2024",
+              "End Date": "06-10-2024",
+              "Duration": "30 Hrs",
+              "Role played": "Coordinator",
+              "Venue": "Department Lab"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Augmented Reality Applications using Unity Game Engine",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "22-03-2024",
+              "End Date": "",
+              "Duration": "1 day",
+              "Role played": "Coordinator",
+              "Venue": "CT-UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Introduction to Augmented Reality using unity game engine",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "24-02-2024",
+              "End Date": "21-04-2024",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Introduction to Augmented Reality using Unity game Engine",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "26-08-2023",
+              "End Date": "28-09-2023",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "CT_UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Work shop on Augmented Reality Applications using Unity game Engine",
+              "Collaboration/Sponsored by": "Self supporting",
+              "Level": "Department",
+              "Start Date": "09-03-2023",
+              "End Date": "09-03-2023",
+              "Duration": "1 day",
+              "Role played": "Convener",
+              "Venue": "CT-UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Kick Start your own projects in IoT",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "29-06-2022",
+              "End Date": "22-07-2023",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "CT_UG"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Credit Courses",
+              "Name of Event": "Introduction to Augmented Reality using unity game engine",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "03-09-2021",
+              "End Date": "12-10-2021",
+              "Duration": "8 days",
+              "Role played": "Coordinator",
+              "Venue": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Android Application Development",
+              "Collaboration/Sponsored by": "",
+              "Level": "Institute",
+              "Start Date": "12-09-2018",
+              "End Date": "10-10-2018",
+              "Duration": "15 days",
+              "Role played": "Coordinator",
+              "Venue": "Admin Block"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Seminar",
+              "Name of Event": "Internet of Things in Healthcare",
+              "Collaboration/Sponsored by": "ICMR",
+              "Level": "National",
+              "Start Date": "15-09-2017",
+              "End Date": "16-09-2017",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of MCA, KEC"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Others",
+              "Name of Event": "Refresher course on Android mobile Applications",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "02-03-2016",
+              "End Date": "03-03-2016",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "MCA"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Value added courses",
+              "Name of Event": "Fast Track training workshop in C & C++",
+              "Collaboration/Sponsored by": "",
+              "Level": "Department",
+              "Start Date": "01-09-2015",
+              "End Date": "30-09-2015",
+              "Duration": "25 days",
+              "Role played": "Coordinator",
+              "Venue": "MCA"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Hands on Training on MATLAB Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "02-09-2014",
+              "End Date": "03-09-2014",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department  of MCA"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "Workshop",
+              "Name of Event": "Workshop on MATLab Programming",
+              "Collaboration/Sponsored by": "",
+              "Level": "National",
+              "Start Date": "02-09-2013",
+              "End Date": "03-09-2013",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of MCA"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Event": "",
+              "Name of Event": "ICMR Sponsored Workshop",
+              "Collaboration/Sponsored by": "ICMR",
+              "Level": "National",
+              "Start Date": "06-07-2012",
+              "End Date": "07-07-2012",
+              "Duration": "2 days",
+              "Role played": "Coordinator",
+              "Venue": "Department of MCA, KEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6CC5C0EF97FB28A11",
+      "name": "FACULTY DEVELOPMENT PROGRAM",
+      "type": "section",
+      "data": [
+        {
+          "id": "EE7504BCF27922700",
+          "name": "Faculty Development Program",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Select Programme",
+            "Title of the program",
+            "Level",
+            "Organized by",
+            "Place",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "STTP",
+              "Title of the program": "Integration of AI and Quantum computing for Robotics",
+              "Level": "National",
+              "Organized by": "Indian Institute of Technology, Design and Manufacturing,",
+              "Place": "Kancheepuram, Chennai",
+              "Start Date": "08-12-2025",
+              "End Date": "12-12-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "Workshop",
+              "Title of the program": "Transforming Teaching & Learning with Gemini",
+              "Level": "National",
+              "Organized by": "Google for Education",
+              "Place": "India",
+              "Start Date": "18-11-2025",
+              "End Date": "18-11-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "NPTEL/SWAYAM/MOOC Training",
+              "Title of the program": "Introduction to internet of things",
+              "Level": "National",
+              "Organized by": "NPTEL-AICTE",
+              "Place": "IIT Kharagpur",
+              "Start Date": "21-07-2025",
+              "End Date": "10-10-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Cloud Practitioner(AWS)",
+              "Level": "State",
+              "Organized by": "ICTACT & RVS college of Engineering and Technology",
+              "Place": "Coimbatore",
+              "Start Date": "21-04-2025",
+              "End Date": "25-04-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "",
+              "Level": "Online",
+              "Organized by": "NPTEL - AICTE",
+              "Place": "Chennai",
+              "Start Date": "02-01-2025",
+              "End Date": "31-03-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "Seminar",
+              "Title of the program": "Legacy to Modern Authentication Techniques in Cyber Security",
+              "Level": "Online",
+              "Organized by": "Kongunadu College of Engineering and Technology",
+              "Place": "Trichy",
+              "Start Date": "31-12-2024",
+              "End Date": "31-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "STTP",
+              "Title of the program": "Exploring Sustaninable Modern AI Tools Forecasting Techniques for Time Sensitive Applications with Practical Insights",
+              "Level": "Online",
+              "Organized by": "Nandha Engineering College",
+              "Place": "Perundurai",
+              "Start Date": "26-12-2024",
+              "End Date": "28-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "A GAN based Hybrid Deep Learning Approach for IoT",
+              "Level": "Online",
+              "Organized by": "Vinayaka Mission's Kirupananda Variyar Engineering College",
+              "Place": "Salem",
+              "Start Date": "16-12-2024",
+              "End Date": "21-12-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Artificial Intelligence Tools",
+              "Level": "Online",
+              "Organized by": "Hindustan College of Arts and Science",
+              "Place": "Coimbatore",
+              "Start Date": "29-07-2024",
+              "End Date": "04-08-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Practicing Analytics with Data Science",
+              "Level": "Online",
+              "Organized by": "CMR University",
+              "Place": "Bangaluru",
+              "Start Date": "08-07-2024",
+              "End Date": "12-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "Training Program",
+              "Title of the program": "Full stack development using python framework DJANGO",
+              "Level": "Online",
+              "Organized by": "Inspire softech Solutions",
+              "Place": "Chennai",
+              "Start Date": "03-07-2024",
+              "End Date": "31-07-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "INNO TECH EXPLORING  EMERGING COMPUTER TRENDS - 2024",
+              "Level": "National",
+              "Organized by": "SathyaBama Institute of Science and Technology",
+              "Place": "Online",
+              "Start Date": "18-06-2024",
+              "End Date": "22-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Data Structures foundation course",
+              "Level": "HRDC",
+              "Organized by": "iLearn",
+              "Place": "Kongu Engineering College",
+              "Start Date": "26-02-2024",
+              "End Date": "01-03-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Select Programme": "FDP",
+              "Title of the program": "Deep dive into Trends in Artificial Intelligence and Machine Learning",
+              "Level": "Online",
+              "Organized by": "Department of AIDS, Coimbatore Institute of Technology,",
+              "Place": "Coimbatore",
+              "Start Date": "08-01-2024",
+              "End Date": "12-01-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E28212373B2D5FEC2",
+      "name": "MEMBERSHIP",
+      "type": "section",
+      "data": [
+        {
+          "id": "FCAABE36CA69771AE",
+          "name": "Membership (Research body/Professional Association)",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Name of the Professional Body/Society",
+            "Position",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": []
+        }
+      ]
+    },
+    {
+      "id": "174E1E2B3296B9A30",
+      "name": "CONFERENCE",
+      "type": "section",
+      "data": [
+        {
+          "id": "D1FF0F2B7EA393C12",
+          "name": "Conference",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of Paper",
+            "Title of Conference",
+            "Organized by",
+            "Level",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of Paper": "Optimized Energy-Efficient Protocols in IoT Using Adaptive Sampling and Robust Routing with Slimmed Pruned Networks",
+              "Title of Conference": "16th International IEEE conference on Computing, Communication and Networking Technologies, (ICCCNT)",
+              "Organized by": "IIT, Indore",
+              "Level": "International",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B7530DA4FA509D571",
+      "name": "PATENT",
+      "type": "section",
+      "data": [
+        {
+          "id": "680A8C58859E6946B",
+          "name": "PATENT",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Type of Patent",
+            "Title of the Patent",
+            "Name of Application",
+            "Co-inventors Name",
+            "Application Number",
+            "Date of Registration",
+            "Application Status",
+            "Granted Date",
+            "Published Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "AI Based Women and Child Safety Device",
+              "Name of Application": "Kongu Engineering College",
+              "Co-inventors Name": "Dr.S.Kavitha Bharathi, Dr.R.Vijayalakshmi, Mrs.M.Gandhimathi",
+              "Application Number": "202141005120",
+              "Date of Registration": "05-02-2021",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "12-02-2021"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Type of Patent": "Indian",
+              "Title of the Patent": "The detection of Downy mildew disease on grapes using IoT and advanced image processing techniques",
+              "Name of Application": "Dr.S.Kavitha Bharathi",
+              "Co-inventors Name": "Dr.M.Dhavaman, Dr.K.Savitha",
+              "Application Number": "202141000636 A",
+              "Date of Registration": "07-01-2021",
+              "Application Status": "Published",
+              "Granted Date": "",
+              "Published Date": "15-01-2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3EFB1375218F1C75A",
+      "name": "OUTSIDE WORLD INTERACTION",
+      "type": "section",
+      "data": [
+        {
+          "id": "962BD39A298E3F413",
+          "name": "Outside World Interaction",
+          "headers": [
+            "Name of Faculty",
+            "Department",
+            "Title of the Program",
+            "Role",
+            "Level",
+            "Organized by",
+            "Start Date",
+            "End Date"
+          ],
+          "data": [
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "International Conference",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "IIT, Indore",
+              "Start Date": "06-07-2025",
+              "End Date": "11-07-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "International Conference ICAMAC 25",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "KEC",
+              "Start Date": "21-02-2025",
+              "End Date": "22-02-2025"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "workshop on The power of IOT from smart devices to smart solutions",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "23-09-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Guest Lecture on Securing wireless networks: Best Practices and Emerging threats",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "MCA, Bharathiar University",
+              "Start Date": "22-08-2024",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "International Confrence_ICCCNT-2024",
+              "Role": "Session Chair",
+              "Level": "International",
+              "Organized by": "IIT Mandi, Himachal Pradesh",
+              "Start Date": "24-06-2024",
+              "End Date": "28-06-2024"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "International Conference_ICCCNT_2023",
+              "Role": "Editor/Reviewer",
+              "Level": "National",
+              "Organized by": "IIT, New Delhi",
+              "Start Date": "06-07-2023",
+              "End Date": "08-07-2023"
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Work shop on Augmented Reality and Virtual Reality Applications",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "Department of CA, Bharathiar University",
+              "Start Date": "08-03-2023",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Webinar on Modernizing Business through Applications of IT",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "Erode Arts and Science College",
+              "Start Date": "12-03-2021",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Student Development Programme",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "Erode Arts College, Erode",
+              "Start Date": "24-05-2020",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Guest Lecture on Security and privacy in computing Systems",
+              "Role": "Expert Lecture",
+              "Level": "National",
+              "Organized by": "Department of CA, Bharathiar University",
+              "Start Date": "09-10-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Expert Lecture on The Basics of Cryptography towards Network Security",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "MCA",
+              "Start Date": "09-10-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Illaya Bharatham",
+              "Role": "Keynote Address",
+              "Level": "Intra-Collegiate",
+              "Organized by": "NSS, KEC",
+              "Start Date": "15-03-2019",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Expert Lecture on Information Security",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "09-10-2018",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Guest Lecture on Motivation towards Open Source Technologies",
+              "Role": "Expert Lecture",
+              "Level": "Others",
+              "Organized by": "",
+              "Start Date": "12-08-2017",
+              "End Date": ""
+            },
+            {
+              "Name of Faculty": "DR.S.KAVITHA BHARATHI",
+              "Department": "CTUG",
+              "Title of the Program": "Guest Lecture program",
+              "Role": "Chief Guest",
+              "Level": "Others",
+              "Organized by": "Department of MBA, Erode Sengunthar Engineering College, Thudupathi",
+              "Start Date": "21-09-2015",
+              "End Date": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7FC8C444B3E33BF5D",
+      "name": "PHD / REASEARCH GUIDESHIP DETAILS",
+      "type": "section",
+      "data": [
+        {
+          "id": "EA7DE62637B00162C",
+          "name": "PhD/Research Guidance Details",
+          "headers": [
+            "Department",
+            "Name of Supervisor",
+            "Title of the thesis for scholar",
+            "Name of Scholar",
+            "Date of Registration",
+            "Registration No:",
+            "Status",
+            "Type",
+            "Scholarship",
+            "Date of Awarding PhD"
+          ],
+          "data": []
+        }
+      ]
+    }
+  ]
+}
