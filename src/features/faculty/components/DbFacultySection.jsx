@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { getDepartmentFaculty } from '../services/facultyDataService';
+import { getDepartmentFaculty, fetchDepartmentCsvData } from '../services/facultyDataService';
 import { getDepartmentBySlug } from '../utils/facultyDepartmentMap';
 import { DEFAULT_FACULTY_AVATAR } from '../utils/facultyHelper';
 import '../../../components/Departments/Deptstyle.css';
@@ -67,26 +67,41 @@ const DbFacultySection = ({ dept, title = "Faculty Members" }) => {
 
   const deptMeta = getDepartmentBySlug(dept);
 
-  const loadFaculty = async (signal) => {
-    setLoading(true);
-    try {
-      const data = await getDepartmentFaculty(deptMeta.slug, { signal });
-      setFacultyList(data.facultyList || []);
-    } catch (err) {
-      if (err.name !== 'AbortError') {
-        console.error(`Error loading faculty for ${deptMeta.slug}:`, err);
-      }
-    } finally {
-      setLoading(false);
-    }
-  };
-
   useEffect(() => {
-    const controller = new AbortController();
-    loadFaculty(controller.signal);
+    let isMounted = true;
+
+    const loadFaculty = async () => {
+      setLoading(true);
+      try {
+        const data = await getDepartmentFaculty(deptMeta.slug);
+        if (isMounted) {
+          if (data && data.facultyList && data.facultyList.length > 0) {
+            setFacultyList(data.facultyList);
+          } else {
+            // Direct safety fallback to ensure faculty cards NEVER fail to render
+            try {
+              const csvRecs = await fetchDepartmentCsvData(deptMeta.slug);
+              if (isMounted && csvRecs && csvRecs.length > 0) {
+                setFacultyList(csvRecs);
+              }
+            } catch {}
+          }
+        }
+      } catch (err) {
+        if (isMounted) {
+          console.error(`Error loading faculty for ${deptMeta.slug}:`, err);
+        }
+      } finally {
+        if (isMounted) {
+          setLoading(false);
+        }
+      }
+    };
+
+    loadFaculty();
 
     return () => {
-      controller.abort();
+      isMounted = false;
     };
   }, [deptMeta.slug]);
 

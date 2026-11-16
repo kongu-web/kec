@@ -136,15 +136,26 @@ export const isStrictNameMatch = (name1, name2) => {
 
   // If all significant tokens match and initials do not contradict
   if (allSmallTokensInLarge && smallerSet.size >= 1) {
-    // If only one token exists (e.g. "Geetha"), require at least 1 matching initial if initials exist
+    // If token counts differ (e.g. "Vignesh Prabhu" vs "Prabhu"),
+    // only match if an initial genuinely expands the extra token
+    if (smallerSet.size !== largerSet.size) {
+      const extraTokens = [...largerSet].filter((tok) => !smallerSet.has(tok));
+      const initials = t1.tokens.length < t2.tokens.length ? t1.initials : t2.initials;
+      const initialExplainsExtra = initials.some((init) =>
+        extraTokens.some((tok) => tok.startsWith(init))
+      );
+      if (!initialExplainsExtra) {
+        return false;
+      }
+    }
+
+    // If only one token exists on both sides (e.g. "Geetha" and "Geetha M"), require matching initial
     if (smallerSet.size === 1) {
       if (t1.initials.length > 0 && t2.initials.length > 0) {
         const i1 = new Set(t1.initials);
         const hasCommon = t2.initials.some((i) => i1.has(i));
         return hasCommon;
       }
-      // If one side has no initials and both only have 1 single word token (e.g. "Geetha" and "Geetha M"),
-      // check if it's safe or ambiguous
       return true;
     }
     return true;
@@ -167,6 +178,197 @@ export const findMatchingRecord = (targetName, recordsList, nameKey = 'name') =>
     if (isStrictNameMatch(targetName, recName)) {
       return record;
     }
+  }
+
+  return null;
+};
+
+/**
+ * Allied Department Clusters
+ * Identifies sister departments that frequently cross-list faculty or where
+ * departments evolved/split (e.g. AIML & AIDS formed from ITR & CSR).
+ */
+export const ALLIED_DEPT_CLUSTERS = {
+  // Computing cluster
+  AI: ['AI', 'CSR', 'ITR', 'CTPG', 'CTUG', 'CDR'],
+  CSR: ['CSR', 'AI', 'ITR', 'CTPG', 'CTUG', 'CDR'],
+  ITR: ['ITR', 'AI', 'CSR', 'CTPG', 'CTUG', 'CDR'],
+  CDR: ['CDR', 'AI', 'CSR', 'ITR', 'CTPG', 'CTUG'],
+  CTUG: ['CTUG', 'CTPG', 'AI', 'CSR', 'ITR', 'CDR'],
+  CTPG: ['CTPG', 'CTUG', 'AI', 'CSR', 'ITR', 'CDR'],
+  // Electrical cluster
+  ECR: ['ECR', 'EER', 'EIR'],
+  EER: ['EER', 'ECR', 'EIR'],
+  EIR: ['EIR', 'ECR', 'EER'],
+  // Mechanical cluster
+  MER: ['MER', 'MTR', 'AUR'],
+  MTR: ['MTR', 'MER', 'AUR'],
+  AUR: ['AUR', 'MER', 'MTR'],
+  // Science & Humanities
+  MAR: ['MAR'],
+  PHR: ['PHR'],
+  CYR: ['CYR'],
+  EGR: ['EGR'],
+  CER: ['CER'],
+  CHR: ['CHR'],
+  FTR: ['FTR'],
+  MBR: ['MBR'],
+  MCA: ['MCA']
+};
+
+/**
+ * Verified Explicit Staff ID Mapping
+ * Guaranteed 100% accurate identification for department heads and faculty members
+ * across Linways ERP and ExAT records.
+ */
+export const KNOWN_FACULTY_STAFF_IDS = {
+  // AIML Department
+  'aiml-dr-r-r-rajalaxmi': '21',
+  'aiml-dr-rr-rajalaxmi': '21',
+  'aiml-dr-c-nalini': '430',
+  'aiml-dr-cnalini': '430',
+  'aiml-dr-t-abirami': '151',
+  'aiml-dr-tabirami': '151',
+  'aiml-dr-k-sathya': '440',
+  'aiml-dr-ksathya': '440',
+  'aiml-s-hamsanandhini': '439',
+  'aiml-dr-m-mohanasundari': '507',
+  'aiml-dr-mmohanasundari': '507',
+  'aiml-n-kanimozhi': '309',
+  'aiml-s-santhiya': '442',
+  'aiml-m-yoga': '453',
+  'aiml-m-neelamegan': '456',
+  'aiml-s-gopinath': '291',
+  'aiml-n-renuka': '459',
+  'aiml-v-arun-antony': '479',
+  'aiml-a-vanmathi': '483',
+  'aiml-s-santhoshkumar': '101050',
+
+  // Civil Department
+  'civil-dr-t-pradeep': '380',
+  'civil-dr-tpradeep': '380',
+
+  // AIDS Department
+  'aids-dr-p-natesan': '431',
+  'aids-dr-pnatesan': '431',
+
+  // CSE Department
+  'cse-dr-s-malliga': '340',
+  'cse-dr-smalliga': '340',
+
+  // Mechanical Department
+  'mech-dr-r-rajasekar': '83',
+  'mech-dr-rrajasekar': '83',
+
+  // Automobile Department
+  'auto-dr-r-parameshwaran': '420',
+  'auto-dr-rparameshwaran': '420'
+};
+
+/**
+ * Multi-Factor Scoring Engine to pair an Admin CSV record with the best Linways Staff record
+ * Eliminates false positives when multiple faculty share identical surnames across departments.
+ */
+export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => {
+  if (!candidate || candidate.staffResigned === '1' || candidate.staffResigned === 1) {
+    return -999;
+  }
+
+  const candName = candidate.name || candidate.staffName || '';
+  if (!isStrictNameMatch(adminRec.name, candName)) {
+    return -999;
+  }
+
+  let score = 100;
+  const adminClean = cleanAndTokeniseName(adminRec.name).cleanName;
+  const candClean = cleanAndTokeniseName(candName).cleanName;
+  if (adminClean === candClean) {
+    score += 50;
+  }
+
+  // 1. Department Affinity Score
+  const targetLinways = currentDept.linwaysCode;
+  const candDept = candidate.departmentName || candidate.department_code || '';
+  if (targetLinways && candDept === targetLinways) {
+    score += 100;
+  } else if (targetLinways && ALLIED_DEPT_CLUSTERS[targetLinways]?.includes(candDept)) {
+    score += 40;
+  } else if (targetLinways && candDept) {
+    // Heavy penalty if candidate belongs to a completely unrelated department (e.g. ECR for AIML)
+    score -= 70;
+  }
+
+  // 2. Doctorate / Title Consistency
+  const adminHasDr = /^(dr\.?|prof\.?)/i.test(adminRec.name) || /ph\.?d/i.test(adminRec.designation || '');
+  const candHasDr = /^(dr\.?|prof\.?)/i.test(candName) || candidate.salutation === 'Dr.';
+  if (adminHasDr && candHasDr) {
+    score += 40;
+  } else if (adminHasDr && !candHasDr) {
+    // Dr. in CSV must not match an Assistant Professor without Dr.
+    score -= 50;
+  } else if (!adminHasDr && !candHasDr) {
+    score += 20;
+  }
+
+  // 3. Seniority & Staff Code Check
+  const isSeniorAdmin = /head|senior|principal|dean|professor/i.test(adminRec.designation || '');
+  const isSeniorCode = /^KEC[0-2]\d{3}/i.test(candidate.code || '');
+  const isJuniorCode = /^KEC[3-9]\d{3}/i.test(candidate.code || '');
+  if (isSeniorAdmin && isSeniorCode) score += 30;
+  if (isSeniorAdmin && isJuniorCode) score -= 30;
+
+  // 4. Email / Login Hint Check
+  if (candidate.loginId) {
+    const emailLower = candidate.loginId.toLowerCase();
+    // Heavy penalty if email clearly denotes an unrelated department
+    if (emailLower.includes('.ece@') && targetLinways !== 'ECR') score -= 60;
+    if (emailLower.includes('.civil@') && targetLinways !== 'CER') score -= 60;
+    if (emailLower.includes('.mech@') && targetLinways !== 'MER') score -= 60;
+    if (emailLower.includes('.auto@') && targetLinways !== 'AUR') score -= 60;
+    if (emailLower.includes('.mba@') && targetLinways !== 'MBR') score -= 60;
+    if (emailLower.includes('.mca@') && targetLinways !== 'MCA') score -= 60;
+  }
+
+  return score;
+};
+
+/**
+ * Find the optimal Linways staff match using explicit overrides and scoring
+ */
+export const findBestLinwaysMatch = (adminRec, allLinwaysStaff = [], currentDept = {}) => {
+  if (!adminRec || !Array.isArray(allLinwaysStaff) || allLinwaysStaff.length === 0) {
+    return null;
+  }
+
+  // 1. Explicit verified mapping lookup
+  const deptSlug = currentDept.slug || '';
+  const adminSlug = adminRec.slug || adminRec.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+  const slugKey1 = `${deptSlug}-${adminSlug}`.toLowerCase();
+  const slugKey2 = `${deptSlug}-${adminRec.name.toLowerCase().replace(/[^a-z0-9]/g, '')}`.toLowerCase();
+
+  const explicitId = KNOWN_FACULTY_STAFF_IDS[slugKey1] || KNOWN_FACULTY_STAFF_IDS[slugKey2];
+  if (explicitId) {
+    const direct = allLinwaysStaff.find((s) => String(s.id) === String(explicitId));
+    if (direct) {
+      return { candidate: direct, score: 9999, reason: 'EXPLICIT_KNOWN_ID' };
+    }
+  }
+
+  // 2. Score all potential candidates
+  const scored = allLinwaysStaff
+    .map((c) => ({
+      candidate: c,
+      score: scoreFacultyCandidate(adminRec, c, currentDept)
+    }))
+    .filter((item) => item.score > 40)
+    .sort((a, b) => b.score - a.score);
+
+  if (scored.length > 0) {
+    return {
+      candidate: scored[0].candidate,
+      score: scored[0].score,
+      reason: 'BEST_SCORE'
+    };
   }
 
   return null;

@@ -160,8 +160,10 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     }
   }
 
-  const name = formatFacultyName(rawPersonal['Name'] || r.name || baseRecord.name || '');
-  const designation = formatDesignation(rawPersonal['Designation'] || r.designation || baseRecord.designation || 'Faculty Member');
+  const name = formatFacultyName(baseRecord.name || rawPersonal['Name'] || r.name || '');
+  const adminDesig = baseRecord.designation;
+  const isSpecialAdminDesig = adminDesig && /head|dean|principal|senior professor/i.test(adminDesig);
+  const designation = formatDesignation(isSpecialAdminDesig ? adminDesig : (rawPersonal['Designation'] || r.designation || adminDesig || 'Faculty Member'));
   const email = rawPersonal['E-mail'] || baseRecord.email || r.email || '';
   const phone = rawPersonal['Mobile'] || baseRecord.phone || r.phone || '';
   const dateOfJoining = rawPersonal['Date of joining in KEC'] || baseRecord.dateOfJoining || r.dateOfJoining || '';
@@ -193,8 +195,13 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
 
     if (!cleanDegree) continue;
 
-    const branch = stripHtml(item['Specialization'] || item.specialisation || item.branch || '');
+    let branch = stripHtml(item['Specialization'] || item.specialisation || item.branch || '');
+    // Fix common ERP typos in specialization (e.g. Commincation -> Communication)
+    branch = branch.replace(/\bcommincation\b/gi, 'Communication').trim();
+
     const dateStr = item['From'] || item.year || item.yearOfPassing || '';
+    const yearMatch = dateStr.match(/\b(19\d{2}|20\d{2})\b/);
+    const displayYear = yearMatch ? yearMatch[0] : (dateStr ? dateStr.trim() : '');
 
     // Normalised degree key for classification
     const degNorm = cleanDegree.toUpperCase().replace(/[^A-Z]/g, '');
@@ -244,7 +251,8 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
         specialisation: branch,
         institution: stripHtml(item.institution || item.college || 'Kongu Engineering College'),
         university: stripHtml(item.university || 'Anna University'),
-        year: dateStr,
+        year: displayYear,
+        rawDate: dateStr,
         levelTag
       });
     }
@@ -254,10 +262,21 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
   const levelOrder = { 'Doctoral': 1, 'Post Graduate': 2, 'Under Graduate': 3 };
   education.sort((a, b) => (levelOrder[a.levelTag] || 9) - (levelOrder[b.levelTag] || 9));
 
-  // Highest Qualification string summary
-  const highestQualification = education.length > 0
-    ? education.map((e) => e.degree).filter(Boolean).join(', ')
-    : (baseRecord.highestQualification || (name.toLowerCase().startsWith('dr') ? 'Ph.D.' : 'Post Graduate'));
+  // Highest Qualification for Hero banner summary
+  let highestQualification = 'Ph.D.';
+  const hasDoctorate = education.some((e) => e.levelTag === 'Doctoral');
+  const pgDegree = education.find((e) => e.levelTag === 'Post Graduate');
+  const ugDegree = education.find((e) => e.levelTag === 'Under Graduate');
+
+  if (hasDoctorate || (baseRecord.name && baseRecord.name.toLowerCase().startsWith('dr'))) {
+    highestQualification = 'Ph.D.';
+  } else if (pgDegree) {
+    highestQualification = pgDegree.degree || 'Post Graduate';
+  } else if (ugDegree) {
+    highestQualification = ugDegree.degree || 'Under Graduate';
+  } else {
+    highestQualification = 'Post Graduate';
+  }
 
   // 3. Previous Experience
   let rawExperience = [];

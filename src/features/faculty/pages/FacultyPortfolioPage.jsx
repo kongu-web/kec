@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { useParams, useSearchParams, useNavigate } from 'react-router-dom';
 import Navbar from '../../../components/HomePage/navbar/Navbar';
 import Footer from '../../../components/HomePage/Footer/Footer';
@@ -24,37 +24,31 @@ const FacultyPortfolioPage = () => {
 
   const dept = getDepartmentBySlug(deptSlug);
 
-  const loadData = async (signal) => {
+  const loadData = useCallback(async () => {
     setLoading(true);
     setError(null);
     try {
-      const data = await getFacultyPortfolio(dept.slug, facultySlug, staffId, { signal });
+      const data = await getFacultyPortfolio(dept.slug, facultySlug, staffId);
       if (!data) {
         setError('Faculty record not found');
       } else {
         setPortfolio(data);
+        if (data.staffId && String(staffId) !== String(data.staffId)) {
+          navigate(`/faculty/${dept.slug}/${facultySlug}?id=${data.staffId}`, { replace: true });
+        }
       }
     } catch (err) {
-      if (err.name !== 'AbortError' && !err.message?.includes('aborted')) {
-        console.error('Error fetching faculty portfolio:', err);
-        setError('Unable to load faculty portfolio. Please try again.');
-      }
+      console.error('Error fetching faculty portfolio:', err);
+      setError('Unable to load faculty portfolio. Please try again.');
     } finally {
-      if (!signal || !signal.aborted) {
-        setLoading(false);
-      }
+      setLoading(false);
     }
-  };
+  }, [dept.slug, facultySlug, staffId, navigate]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    const controller = new AbortController();
-    loadData(controller.signal);
-
-    return () => {
-      controller.abort();
-    };
-  }, [dept.slug, facultySlug, staffId]);
+    loadData();
+  }, [loadData]);
 
   if (loading) {
     return (
@@ -146,9 +140,17 @@ const FacultyPortfolioPage = () => {
                             {icon}
                           </div>
                           <div className="faculty-edu-card">
-                            <h4 className="faculty-edu-degree">
-                              {edu.specialisation ? `${edu.degree} — ${edu.specialisation}` : edu.degree}
-                            </h4>
+                            <div style={{ flex: 1, marginRight: '16px' }}>
+                              <h4 className="faculty-edu-degree">
+                                {edu.specialisation ? `${edu.degree} in ${edu.specialisation}` : edu.degree}
+                              </h4>
+                              {edu.year && (
+                                <div style={{ fontSize: '0.85rem', color: '#64748b', marginTop: '4px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                                  <span>📅</span>
+                                  <span>Year: <strong>{edu.year}</strong></span>
+                                </div>
+                              )}
+                            </div>
                             <span className={`faculty-pill-tag faculty-pill-${nodeClass}`}>
                               {edu.levelTag}
                             </span>

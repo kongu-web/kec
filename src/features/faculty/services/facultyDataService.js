@@ -6,7 +6,7 @@
 import Papa from 'papaparse';
 import { getDepartmentBySlug } from '../utils/facultyDepartmentMap';
 import { normaliseCsvFacultyRecord, normaliseLinwaysStaffRecord, mergeFacultyRecord, normaliseFacultyPortfolio } from '../utils/facultyDataNormaliser';
-import { isStrictNameMatch } from '../utils/facultyMatching';
+import { isStrictNameMatch, findBestLinwaysMatch, KNOWN_FACULTY_STAFF_IDS } from '../utils/facultyMatching';
 import { sortFacultyList } from '../utils/facultyHelper';
 import { fetchStaffByDepartment, fetchFacultyReport } from './facultyApi';
 
@@ -24,9 +24,20 @@ export const fetchDepartmentCsvData = async (deptSlug, signal) => {
   const dept = getDepartmentBySlug(deptSlug);
   const csvUrl = `/Faculty/${dept.csvFile}`;
 
-  const response = await fetch(csvUrl, { signal });
-  if (!response.ok) {
-    throw new Error(`Failed to load department CSV: ${dept.csvFile} (${response.status})`);
+  let response;
+  try {
+    response = await fetch(csvUrl, signal ? { signal } : undefined);
+  } catch (err) {
+    // Retry without signal to guarantee local static file loads even if effect unmounted
+    try {
+      response = await fetch(csvUrl);
+    } catch {
+      throw err;
+    }
+  }
+
+  if (!response || !response.ok) {
+    throw new Error(`Failed to load department CSV: ${dept.csvFile} (${response ? response.status : 'offline'})`);
   }
 
   const csvText = await response.text();
@@ -57,7 +68,10 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
   const cacheKey = dept.slug;
 
   if (!forceRefresh && departmentCache.has(cacheKey)) {
-    return departmentCache.get(cacheKey);
+    const cached = departmentCache.get(cacheKey);
+    if (cached && Array.isArray(cached.facultyList) && cached.facultyList.length > 0) {
+      return cached;
+    }
   }
 
   // 1. Fetch Admin baseline records from CSV
@@ -65,7 +79,7 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
   try {
     adminRecords = await fetchDepartmentCsvData(dept.slug, signal);
   } catch (csvErr) {
-    if (csvErr.name !== 'AbortError') {
+    if (csvErr.name !== 'AbortError' && !csvErr.message?.includes('aborted')) {
       console.warn(`Admin CSV fallback error for ${dept.slug}:`, csvErr.message);
     }
   }
@@ -73,60 +87,46 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
   // 2. Load all Linways staff records directly from local dataset for instant load
   let allLinwaysStaff = [];
   try {
-    const fallbackRes = await fetch('/Faculty/linways_staffs.json', { signal });
-    if (fallbackRes.ok) {
+    let fallbackRes;
+    try {
+      fallbackRes = await fetch('/Faculty/linways_staffs.json', signal ? { signal } : undefined);
+    } catch {
+      fallbackRes = await fetch('/Faculty/linways_staffs.json');
+    }
+    if (fallbackRes && fallbackRes.ok) {
       allLinwaysStaff = await fallbackRes.json();
     }
   } catch (e) {
-    if (e.name !== 'AbortError') {
+    if (e.name !== 'AbortError' && !e.message?.includes('aborted')) {
       console.warn('Error loading local linways_staffs.json:', e);
     }
   }
 
-  // Filter department staff from Linways
-  const deptLinways = allLinwaysStaff.filter(
-    (s) => s.departmentName === dept.linwaysCode || (s.department_code && s.department_code === dept.linwaysCode)
-  );
-  let linwaysRecords = deptLinways.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
-
-  // Fallback to API only if local linways dataset was unavailable
-  if (linwaysRecords.length === 0 && allLinwaysStaff.length === 0) {
-    try {
-      const linwaysRes = await fetchStaffByDepartment(dept.slug, { signal });
-      const staffArray = Array.isArray(linwaysRes) ? linwaysRes : (linwaysRes && linwaysRes.data ? linwaysRes.data : []);
-      if (staffArray.length > 0) {
-        linwaysRecords = staffArray.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
-      }
-    } catch {}
-  }
-
-  // 3. Merge Admin and Linways records
+  // 3. Merge Admin and Linways records using multi-factor scoring engine
   let mergedRecords = [];
   if (adminRecords.length > 0) {
-    // Only display verified department faculty from CSV, enriched with their Linways data
     mergedRecords = adminRecords.map((adminRec) => {
-      // 1. First search within department records
-      let matchingLinways = linwaysRecords.find((l) => isStrictNameMatch(adminRec.name, l.name));
+      // Find the best Linways staff match (handles cross-department HODs, sister departments, and name collisions)
+      const matchResult = findBestLinwaysMatch(adminRec, allLinwaysStaff, dept);
+      let matchingLinways = null;
 
-      // 2. Fallback: search across ALL Linways staff by name (resolves inter-department or AI/AIML staff)
-      if (!matchingLinways && allLinwaysStaff.length > 0) {
-        const found = allLinwaysStaff.find((s) => {
-          if (s.staffResigned === '1' || s.staffResigned === 1) return false;
-          return isStrictNameMatch(adminRec.name, s.name);
-        });
-        if (found) {
-          matchingLinways = normaliseLinwaysStaffRecord(found, dept.slug);
-        }
+      if (matchResult && matchResult.candidate) {
+        matchingLinways = normaliseLinwaysStaffRecord(matchResult.candidate, dept.slug);
       }
 
-      // Dr. T. Pradeep special mapping for staff ID 380 if not matched by API
+      // Dr. T. Pradeep special mapping for staff ID 380 if not already matched
       if (!matchingLinways && adminRec.name.toLowerCase().includes('pradeep')) {
         return mergeFacultyRecord(adminRec, { staffId: '380', email: 'civil.pradeep@gmail.com' });
       }
+
       return mergeFacultyRecord(adminRec, matchingLinways);
     });
   } else {
     // Fallback only if no CSV exists, showing only records with valid photos
+    const deptLinways = allLinwaysStaff.filter(
+      (s) => s.departmentName === dept.linwaysCode || (s.department_code && s.department_code === dept.linwaysCode)
+    );
+    const linwaysRecords = deptLinways.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
     mergedRecords = linwaysRecords.filter((l) => l.image || l.photoUrl);
   }
 
@@ -139,7 +139,11 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
     totalCount: sortedRecords.length
   };
 
-  departmentCache.set(cacheKey, result);
+  // Only cache if we actually have records
+  if (sortedRecords && sortedRecords.length > 0) {
+    departmentCache.set(cacheKey, result);
+  }
+
   return result;
 };
 
@@ -155,16 +159,16 @@ export const getFacultyPortfolio = async (deptSlug, facultySlug, staffId = null,
     return portfolioCache.get(cacheKey);
   }
 
-  // 1. Resolve base record from department list
+  // 1. Resolve base record from department list (slug match has first priority)
   const deptData = await getDepartmentFaculty(dept.slug, { signal });
   let baseRecord = null;
 
   if (deptData && deptData.facultyList) {
-    if (staffId) {
-      baseRecord = deptData.facultyList.find((f) => String(f.staffId) === String(staffId));
-    }
-    if (!baseRecord && facultySlug) {
+    if (facultySlug) {
       baseRecord = deptData.facultyList.find((f) => f.slug === facultySlug);
+    }
+    if (!baseRecord && staffId) {
+      baseRecord = deptData.facultyList.find((f) => String(f.staffId) === String(staffId));
     }
     if (!baseRecord && facultySlug) {
       baseRecord = deptData.facultyList.find((f) => {
@@ -185,36 +189,47 @@ export const getFacultyPortfolio = async (deptSlug, facultySlug, staffId = null,
     };
   }
 
-  // 2. Fetch detailed ExAT report from backend if available
-  let rawReport = null;
-  let effectiveStaffId = staffId || baseRecord.staffId;
+  // 2. Resolve true effective staff ID (verified registry and baseRecord override stale query params)
+  const slugKey1 = `${dept.slug}-${facultySlug}`.toLowerCase();
+  const slugKey2 = `${dept.slug}-${(facultySlug || '').replace(/-/g, '')}`.toLowerCase();
+  let effectiveStaffId = KNOWN_FACULTY_STAFF_IDS[slugKey1] || KNOWN_FACULTY_STAFF_IDS[slugKey2] || baseRecord.staffId || staffId;
+
+  if (effectiveStaffId) {
+    baseRecord.staffId = effectiveStaffId;
+  }
 
   if (!effectiveStaffId) {
     try {
-      const allStaffRes = await fetch('/Faculty/linways_staffs.json', { signal });
-      if (allStaffRes.ok) {
+      let allStaffRes;
+      try {
+        allStaffRes = await fetch('/Faculty/linways_staffs.json', signal ? { signal } : undefined);
+      } catch {
+        allStaffRes = await fetch('/Faculty/linways_staffs.json');
+      }
+      if (allStaffRes && allStaffRes.ok) {
         const allStaff = await allStaffRes.json();
-        const found = allStaff.find((s) => {
-          if (s.staffResigned === '1' || s.staffResigned === 1) return false;
-          if (baseRecord.name && isStrictNameMatch(baseRecord.name, s.name)) return true;
-          const sClean = (s.name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-          const targetClean = (facultySlug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-          return sClean === targetClean || (targetClean.length > 4 && (sClean.includes(targetClean) || targetClean.includes(sClean)));
-        });
-        if (found) {
-          effectiveStaffId = String(found.id);
+        const best = findBestLinwaysMatch(baseRecord, allStaff, dept);
+        if (best && best.candidate) {
+          effectiveStaffId = String(best.candidate.id);
           baseRecord.staffId = effectiveStaffId;
-          baseRecord.email = baseRecord.email || found.loginId;
+          baseRecord.email = baseRecord.email || best.candidate.loginId;
         }
       }
     } catch {}
   }
 
+  let rawReport = null;
+
   if (effectiveStaffId) {
     // 1. Check local pre-downloaded reports folder (instant & reliable)
     try {
-      const localReportRes = await fetch(`/Faculty/reports/exat_${effectiveStaffId}.json`, { signal });
-      if (localReportRes.ok) {
+      let localReportRes;
+      try {
+        localReportRes = await fetch(`/Faculty/reports/exat_${effectiveStaffId}.json`, signal ? { signal } : undefined);
+      } catch {
+        localReportRes = await fetch(`/Faculty/reports/exat_${effectiveStaffId}.json`);
+      }
+      if (localReportRes && localReportRes.ok) {
         rawReport = await localReportRes.json();
       }
     } catch {}
