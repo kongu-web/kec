@@ -282,7 +282,11 @@
 #faculty-awards-section,
 #faculty-innovations-section,
 #faculty-outreach-section,
-#faculty-committees-section {
+#faculty-committees-section,
+#faculty-phd-section,
+#faculty-fdp-section,
+#faculty-events-section,
+#faculty-memberships-section {
   scroll-margin-top: 100px;
 }
 
@@ -865,6 +869,325 @@
   white-space: nowrap;
 }
 
+/* ========================================================
+   SECTION 7: PH.D. RESEARCH GUIDANCE
+   ======================================================== */
+.faculty-phd-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-phd-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #8b5cf6;
+  padding: 18px 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-phd-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #ede9fe;
+  color: #7c3aed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-phd-body {
+  flex-grow: 1;
+}
+
+.faculty-phd-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.faculty-phd-scholar {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+}
+
+.faculty-phd-status-pill {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+.faculty-phd-status-pill.awarded {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.faculty-phd-status-pill.pursuing {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.faculty-phd-title {
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: #475569;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* ========================================================
+   SECTION 8: FACULTY DEVELOPMENT PROGRAMS (FDP & STTP)
+   ======================================================== */
+.faculty-fdp-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-fdp-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #06b6d4;
+  padding: 16px 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-fdp-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #cffafe;
+  color: #0891b2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-fdp-body {
+  flex-grow: 1;
+}
+
+.faculty-fdp-title {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+  line-height: 1.35;
+}
+
+.faculty-fdp-org {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #475569;
+  margin: 0;
+}
+
+/* ========================================================
+   SECTION 9: ACADEMIC EVENTS ORGANIZED
+   ======================================================== */
+.faculty-events-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-event-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #ec4899;
+  padding: 16px 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-event-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #fce7f3;
+  color: #db2777;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-event-body {
+  flex-grow: 1;
+}
+
+.faculty-event-title {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+  line-height: 1.35;
+}
+
+.faculty-event-meta {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #475569;
+  margin: 0;
+}
+
+/* ========================================================
+   SECTION 10: PROFESSIONAL MEMBERSHIPS
+   ======================================================== */
+.faculty-memberships-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.faculty-membership-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #10b981;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.faculty-membership-icon-box {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #d1fae5;
+  color: #059669;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.faculty-membership-body {
+  flex-grow: 1;
+}
+
+.faculty-membership-name {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+}
+
+.faculty-membership-pos-pill {
+  background: #d1fae5;
+  color: #065f46;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+/* Additional Qualifications */
+.faculty-addl-qual-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.faculty-addl-qual-pill {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  color: #334155;
+}
+
+.faculty-addl-qual-title {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.faculty-addl-qual-year {
+  background: #e2e8f0;
+  color: #475569;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 0.72rem;
+}
+
+/* Prior Experience Timeline */
+.faculty-prior-exp-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.faculty-prior-exp-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.faculty-prior-exp-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #0284c7;
+  margin-top: 6px;
+  flex-shrink: 0;
+}
+
+.faculty-prior-exp-desig {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.faculty-prior-exp-org {
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: #475569;
+}
+
+.faculty-prior-exp-dates {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-top: 2px;
+}
+
 /* Responsive adjustments */
 @media (max-width: 1024px) {
   .faculty-hero-inner {
@@ -885,7 +1208,11 @@
     grid-template-columns: 1fr;
   }
   .faculty-awards-grid,
-  .faculty-innovations-grid {
+  .faculty-innovations-grid,
+  .faculty-phd-grid,
+  .faculty-fdp-grid,
+  .faculty-events-grid,
+  .faculty-memberships-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -897,7 +1224,11 @@
   .faculty-awards-grid,
   .faculty-innovations-grid,
   .faculty-outreach-grid,
-  .faculty-committees-grid {
+  .faculty-committees-grid,
+  .faculty-phd-grid,
+  .faculty-fdp-grid,
+  .faculty-events-grid,
+  .faculty-memberships-grid {
     grid-template-columns: 1fr;
   }
 }

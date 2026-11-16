@@ -268,11 +268,11 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
   }
 
   const experience = rawExperience.map((item) => ({
-    organisation: stripHtml(item['Name of Organisation'] || item.organisation || item.institution || ''),
-    designation: formatDesignation(item['Designation'] || item.designation || ''),
-    period: item['Period'] || item.period || '',
+    organisation: stripHtml(item['Name of Institution/Organization'] || item['Name of Organisation'] || item.organisation || item.institution || ''),
+    designation: formatDesignation(item['Position/Designation'] || item['Designation'] || item.designation || ''),
+    period: item['Start Date'] ? `${item['Start Date']} ${item['End Date'] ? '— ' + item['End Date'] : ''}` : (item['Period'] || item.period || ''),
     duration: item['Duration'] || item.duration || '',
-    category: item.category || 'Academic'
+    category: item['Type of Organization'] || item.category || 'Academic'
   }));
 
   const expMetrics = calculateExperienceMetrics(experience, dateOfJoining);
@@ -307,6 +307,44 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
       indexing: ['Scopus', 'Peer-Reviewed']
     };
   });
+
+  // 4B. Conferences
+  let rawConfs = [];
+  if (isLinwaysExat) {
+    rawConfs = extractLinwaysSectionData(exatSections, ['CONFERENCE']);
+  } else if (Array.isArray(r.conferences)) {
+    rawConfs = r.conferences;
+  }
+
+  const conferences = rawConfs.map((item, idx) => ({
+    id: idx + 1,
+    title: stripHtml(item['Title of Paper'] || item.title || 'Conference Paper'),
+    conference: stripHtml(item['Title of Conference'] || item.conference || ''),
+    organizedBy: stripHtml(item['Organized by'] || item.organizedBy || ''),
+    period: item['Start Date'] ? `${item['Start Date']} ${item['End Date'] ? '— ' + item['End Date'] : ''}` : '',
+    level: item['Level'] || 'National'
+  }));
+
+  // 4C. Research Projects (Funded)
+  let rawProjects = [];
+  if (isLinwaysExat) {
+    rawProjects = extractLinwaysSectionData(exatSections, ['PROJECTS', 'RESEARCH PROJECTS']);
+  } else if (Array.isArray(r.projects)) {
+    rawProjects = r.projects;
+  }
+
+  const projects = rawProjects.map((item, idx) => ({
+    id: idx + 1,
+    title: stripHtml(item['Title of Project'] || item.title || 'Research Project'),
+    fundingAgency: stripHtml(item['Funding Agency'] || item.agency || ''),
+    scheme: stripHtml(item['Name of the Scheme'] || item.scheme || ''),
+    pi: stripHtml(item['Principal Investigator'] || item.pi || name),
+    coPi: stripHtml(item['Co-Investigator(s)'] || item.coPi || ''),
+    duration: item['Duration'] || item.duration || '',
+    startDate: item['Project Start Date'] || item.startDate || '',
+    status: item['Status'] || item.status || 'Completed',
+    type: item['Type of Project'] || item.type || 'Sponsored Research'
+  }));
 
   // 5. Patents
   let rawPatents = [];
@@ -348,12 +386,14 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     rawPhd = r.phdSupervision;
   }
 
-  const phdSupervision = rawPhd.map((item) => ({
+  const phdSupervision = rawPhd.map((item, idx) => ({
+    id: idx + 1,
     scholarName: stripHtml(item['Name of Scholar'] || item.scholarName || ''),
-    title: stripHtml(item['Title of the thesis for scholar'] || item.title || ''),
+    thesisTitle: stripHtml(item['Title of the thesis for scholar'] || item.title || 'Doctoral Research'),
     status: item['Status'] || item.status || 'Pursuing',
     regNo: item['Registration No:'] || item.regNo || '',
-    date: item['Date of Registration'] || ''
+    date: item['Date of Registration'] || '',
+    awardDate: item['Date of Awarding PhD'] || ''
   }));
 
   // 8. Awards & Achievements
@@ -417,36 +457,90 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     period: item['Start Date'] ? `${item['Start Date']} — ${item['End Date'] || 'Present'}` : 'Present'
   }));
 
-  // 12. FDP & STTP
+  // 12. FDP & STTP (Faculty Development Programs Attended)
   let rawFdp = [];
   if (isLinwaysExat) {
     rawFdp = extractLinwaysSectionData(exatSections, ['FACULTY DEVELOPMENT PROGRAM']);
+  } else if (Array.isArray(r.fdpAttended)) {
+    rawFdp = r.fdpAttended;
   }
 
-  // 13. Events Organized
+  const fdpAttended = rawFdp.map((item, idx) => ({
+    id: idx + 1,
+    title: stripHtml(item['Title of the program'] || item.title || 'Faculty Development Program'),
+    type: item['Select Programme'] || item.type || 'FDP / STTP',
+    organizedBy: stripHtml(item['Organized by'] || item.organizedBy || 'KEC'),
+    place: stripHtml(item['Place'] || ''),
+    period: item['Start Date'] ? `${item['Start Date']} ${item['End Date'] ? '— ' + item['End Date'] : ''}` : '',
+    level: item['Level'] || 'National'
+  }));
+
+  // 13. Events Organized (Workshops, Conferences, Seminars)
   let rawEvents = [];
   if (isLinwaysExat) {
     rawEvents = extractLinwaysSectionData(exatSections, ['EVENTS ORGANIZED']);
+  } else if (Array.isArray(r.eventsOrganized)) {
+    rawEvents = r.eventsOrganized;
   }
 
-  // 14. Memberships
+  const eventsOrganized = rawEvents.map((item, idx) => ({
+    id: idx + 1,
+    name: stripHtml(item['Name of Event'] || item.name || 'Academic Event'),
+    type: item['Type of Event'] || 'Workshop / Conference',
+    role: item['Role played'] || item.role || 'Coordinator',
+    sponsor: stripHtml(item['Collaboration/Sponsored by'] || ''),
+    venue: stripHtml(item['Venue'] || 'Kongu Engineering College'),
+    period: item['Start Date'] ? `${item['Start Date']} ${item['End Date'] ? '— ' + item['End Date'] : ''}` : '',
+    duration: item['Duration'] || '',
+    level: item['Level'] || 'State / National'
+  }));
+
+  // 14. Memberships (Professional Associations)
   let rawMemberships = [];
   if (isLinwaysExat) {
     rawMemberships = extractLinwaysSectionData(exatSections, ['MEMBERSHIP']);
+  } else if (Array.isArray(r.memberships)) {
+    rawMemberships = r.memberships;
   }
+
+  const memberships = rawMemberships.map((item, idx) => ({
+    id: idx + 1,
+    society: stripHtml(item['Name of the Professional Body/Society'] || item.society || ''),
+    position: item['Position'] || 'Member',
+    level: item['Level'] || 'National',
+    date: item['Start Date'] || ''
+  }));
+
+  // 15. Additional Qualifications & Certifications
+  let rawAddlQual = [];
+  if (isLinwaysExat) {
+    rawAddlQual = extractLinwaysSectionData(exatSections, ['Additional Qualifications']);
+  } else if (Array.isArray(r.additionalQualifications)) {
+    rawAddlQual = r.additionalQualifications;
+  }
+
+  const additionalQualifications = rawAddlQual.map((item, idx) => ({
+    id: idx + 1,
+    specialization: stripHtml(item['Specialization'] || item.specialisation || ''),
+    category: item['Category'] || 'Certification',
+    status: item['Status'] || 'Completed',
+    year: item['Year'] || ''
+  }));
 
   const isPradeep = (baseRecord && (String(baseRecord.staffId) === '380' || (baseRecord.name && baseRecord.name.toLowerCase().includes('pradeep')))) || (name && name.toLowerCase().includes('pradeep'));
 
   // Key metrics calculation for header tiles - 100% dynamic from actual Linways report
   const keyMetrics = {
     publications: journals.length,
+    conferences: conferences.length,
+    projects: projects.length,
     patents: patents.length,
     consultancy: consultancy.length,
     phdGuided: phdSupervision.length,
-    fdpSttp: rawFdp.length,
-    eventsOrganized: rawEvents.length,
+    fdpSttp: fdpAttended.length,
+    eventsOrganized: eventsOrganized.length,
     awardsHonors: awards.length,
-    memberships: rawMemberships.length,
+    memberships: memberships.length,
     innovations: teachingInnovations.length || (isPradeep ? 9 : 0),
     outreach: outsideWorld.length,
     committees: committees.length
@@ -467,6 +561,8 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     education,
     experience,
     journals,
+    conferences,
+    projects,
     patents,
     consultancy,
     phdSupervision,
@@ -474,8 +570,9 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
     teachingInnovations,
     outsideWorld,
     committees,
-    eventsOrganised: rawEvents,
-    fdpAttended: rawFdp,
-    memberships: rawMemberships
+    eventsOrganized,
+    fdpAttended,
+    memberships,
+    additionalQualifications
   };
 };

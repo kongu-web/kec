@@ -93,9 +93,17 @@ const FacultyPortfolioPage = () => {
   }
 
   const journals = portfolio.journals || [];
+  const conferences = portfolio.conferences || [];
+  const projects = portfolio.projects || [];
   const patents = portfolio.patents || [];
   const consultancy = portfolio.consultancy || [];
   const education = portfolio.education || [];
+  const experience = portfolio.experience || [];
+  const additionalQualifications = portfolio.additionalQualifications || [];
+  const phdSupervision = portfolio.phdSupervision || [];
+  const fdpAttended = portfolio.fdpAttended || [];
+  const eventsOrganized = portfolio.eventsOrganized || [];
+  const memberships = portfolio.memberships || [];
   const awards = portfolio.awards || [];
   const innovations = portfolio.teachingInnovations || [];
   const outreach = portfolio.outsideWorld || [];
@@ -167,6 +175,24 @@ const FacultyPortfolioPage = () => {
                     </>
                   )}
                 </div>
+
+                {/* Additional Qualifications / Certifications if present */}
+                {additionalQualifications.length > 0 && (
+                  <div style={{ marginTop: 24 }}>
+                    <h4 className="faculty-journey-col-title" style={{ fontSize: '0.75rem', marginBottom: 12 }}>
+                      CERTIFICATIONS & SPECIALIZATIONS
+                    </h4>
+                    <div className="faculty-addl-qual-grid">
+                      {additionalQualifications.map((addl, idx) => (
+                        <div key={idx} className="faculty-addl-qual-pill">
+                          <span className="faculty-addl-qual-icon">📜</span>
+                          <span className="faculty-addl-qual-title">{addl.specialization || addl.category}</span>
+                          {addl.year && <span className="faculty-addl-qual-year">{addl.year}</span>}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* Right Column: PROFESSIONAL EXPERIENCE */}
@@ -183,6 +209,28 @@ const FacultyPortfolioPage = () => {
                     {portfolio.dateOfJoining ? `📅 ${portfolio.dateOfJoining} — Present` : '📅 Active Faculty'}
                   </div>
                 </div>
+
+                {/* Prior Institutions Experience History */}
+                {experience.length > 0 && (
+                  <div className="faculty-prior-exp-list" style={{ marginTop: 16 }}>
+                    <h4 className="faculty-journey-col-title" style={{ fontSize: '0.75rem', marginBottom: 10 }}>
+                      PREVIOUS INSTITUTIONS & ROLES
+                    </h4>
+                    {experience.map((exp, idx) => (
+                      <div key={idx} className="faculty-prior-exp-item">
+                        <div className="faculty-prior-exp-dot"></div>
+                        <div className="faculty-prior-exp-body">
+                          <div className="faculty-prior-exp-desig">{exp.designation}</div>
+                          <div className="faculty-prior-exp-org">{exp.organisation}</div>
+                          <div className="faculty-prior-exp-dates">
+                            {exp.period && <span>📅 {exp.period}</span>}
+                            {exp.duration && <span> • ⏳ {exp.duration}</span>}
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
             </div>
           </section>
@@ -205,6 +253,28 @@ const FacultyPortfolioPage = () => {
                 <span>📚 Journals</span>
                 <span className="faculty-tab-count-pill">{journals.length}</span>
               </button>
+
+              {conferences.length > 0 && (
+                <button
+                  type="button"
+                  className={`faculty-tab-btn ${activeResearchTab === 'conferences' ? 'active' : ''}`}
+                  onClick={() => setActiveResearchTab('conferences')}
+                >
+                  <span>🎤 Conferences</span>
+                  <span className="faculty-tab-count-pill">{conferences.length}</span>
+                </button>
+              )}
+
+              {projects.length > 0 && (
+                <button
+                  type="button"
+                  className={`faculty-tab-btn ${activeResearchTab === 'projects' ? 'active' : ''}`}
+                  onClick={() => setActiveResearchTab('projects')}
+                >
+                  <span>🔬 Research Projects</span>
+                  <span className="faculty-tab-count-pill">{projects.length}</span>
+                </button>
+              )}
 
               <button
                 type="button"
@@ -283,6 +353,50 @@ const FacultyPortfolioPage = () => {
                     <div className="faculty-pub-meta-row">
                       {con.amount && con.amount !== 'N/A' && <span className="faculty-meta-pill">Revenue: ₹{con.amount}</span>}
                       {con.period && <span className="faculty-meta-pill">📅 {con.period}</span>}
+                    </div>
+                  </article>
+                ))}
+              </div>
+            )}
+
+            {/* Tab 4: Conferences */}
+            {activeResearchTab === 'conferences' && (
+              <div className="faculty-tab-content">
+                {conferences.map((conf, idx) => (
+                  <article key={idx} className="faculty-output-card">
+                    <h4 className="faculty-pub-title">{idx + 1}. {conf.title}</h4>
+                    <div className="faculty-pub-journal">
+                      🎤 {conf.conference}
+                    </div>
+                    {conf.organizedBy && (
+                      <div className="faculty-pub-author">🏛️ Organized by: {conf.organizedBy}</div>
+                    )}
+                    <div className="faculty-pub-meta-row">
+                      {conf.level && <span className="faculty-meta-pill">{conf.level} Level</span>}
+                      {conf.period && <span className="faculty-meta-pill">📅 {conf.period}</span>}
+                    </div>
+                  </article>
+                ))}
+              </div>
+            )}
+
+            {/* Tab 5: Research Projects */}
+            {activeResearchTab === 'projects' && (
+              <div className="faculty-tab-content">
+                {projects.map((proj, idx) => (
+                  <article key={idx} className="faculty-output-card">
+                    <h4 className="faculty-pub-title">{idx + 1}. {proj.title}</h4>
+                    <div className="faculty-pub-journal">
+                      🏛️ Funding Agency: <strong>{proj.fundingAgency}</strong> {proj.scheme && `(${proj.scheme})`}
+                    </div>
+                    <div className="faculty-pub-author">
+                      👤 Principal Investigator: {proj.pi} {proj.coPi && `| Co-PI: ${proj.coPi}`}
+                    </div>
+                    <div className="faculty-pub-meta-row">
+                      {proj.status && <span className="faculty-meta-pill">Status: {proj.status}</span>}
+                      {proj.type && <span className="faculty-meta-pill">{proj.type}</span>}
+                      {proj.duration && <span className="faculty-meta-pill">⏳ {proj.duration}</span>}
+                      {proj.startDate && <span className="faculty-meta-pill">📅 Start: {proj.startDate}</span>}
                     </div>
                   </article>
                 ))}
@@ -406,6 +520,131 @@ const FacultyPortfolioPage = () => {
                       <span className="faculty-committee-role-pill">Role: {com.role}</span>
                     </div>
                     {com.period && <span className="faculty-committee-date">📅 {com.period}</span>}
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* ========================================================
+             SECTION 7: PH.D. RESEARCH GUIDANCE
+             ======================================================== */}
+          {phdSupervision.length > 0 && (
+            <section id="faculty-phd-section" className="faculty-phd-section">
+              <div className="faculty-block-header">
+                <h2 className="faculty-block-title">Ph.D. Research Guidance</h2>
+                <span className="faculty-block-badge">{phdSupervision.length} Scholars</span>
+              </div>
+
+              <div className="faculty-phd-grid">
+                {phdSupervision.map((phd, idx) => (
+                  <div key={idx} className="faculty-phd-card">
+                    <div className="faculty-phd-icon-box">🎓</div>
+                    <div className="faculty-phd-body">
+                      <div className="faculty-phd-top-row">
+                        <h4 className="faculty-phd-scholar">{phd.scholarName}</h4>
+                        <span className={`faculty-phd-status-pill ${String(phd.status).toLowerCase().includes('award') || String(phd.status).toLowerCase().includes('complet') ? 'awarded' : 'pursuing'}`}>
+                          {phd.status}
+                        </span>
+                      </div>
+                      <p className="faculty-phd-title">Title: {phd.thesisTitle}</p>
+                      <div className="faculty-pub-meta-row" style={{ marginTop: 8 }}>
+                        {phd.regNo && <span className="faculty-meta-pill">Reg No: {phd.regNo}</span>}
+                        {phd.date && <span className="faculty-meta-pill">📅 Registered: {phd.date}</span>}
+                        {phd.awardDate && <span className="faculty-meta-pill">🏆 Awarded: {phd.awardDate}</span>}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* ========================================================
+             SECTION 8: FACULTY DEVELOPMENT PROGRAMS (FDP & STTP)
+             ======================================================== */}
+          {fdpAttended.length > 0 && (
+            <section id="faculty-fdp-section" className="faculty-fdp-section">
+              <div className="faculty-block-header">
+                <h2 className="faculty-block-title">Faculty Development Programs (FDP & STTP)</h2>
+                <span className="faculty-block-badge">{fdpAttended.length} Programs</span>
+              </div>
+
+              <div className="faculty-fdp-grid">
+                {fdpAttended.map((fdp, idx) => (
+                  <div key={idx} className="faculty-fdp-card">
+                    <div className="faculty-fdp-icon-box">📚</div>
+                    <div className="faculty-fdp-body">
+                      <h4 className="faculty-fdp-title">{fdp.title}</h4>
+                      <p className="faculty-fdp-org">🏛️ Organized by: {fdp.organizedBy} {fdp.place && `(${fdp.place})`}</p>
+                      <div className="faculty-pub-meta-row" style={{ marginTop: 6 }}>
+                        <span className="faculty-meta-pill">{fdp.type}</span>
+                        {fdp.level && <span className="faculty-meta-pill">{fdp.level}</span>}
+                        {fdp.period && <span className="faculty-meta-pill">📅 {fdp.period}</span>}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* ========================================================
+             SECTION 9: ACADEMIC EVENTS ORGANIZED
+             ======================================================== */}
+          {eventsOrganized.length > 0 && (
+            <section id="faculty-events-section" className="faculty-events-section">
+              <div className="faculty-block-header">
+                <h2 className="faculty-block-title">Academic Events Organized</h2>
+                <span className="faculty-block-badge">{eventsOrganized.length} Events</span>
+              </div>
+
+              <div className="faculty-events-grid">
+                {eventsOrganized.map((ev, idx) => (
+                  <div key={idx} className="faculty-event-card">
+                    <div className="faculty-event-icon-box">🎪</div>
+                    <div className="faculty-event-body">
+                      <h4 className="faculty-event-title">{ev.name}</h4>
+                      <p className="faculty-event-meta">
+                        <span>Role: <strong>{ev.role}</strong></span>
+                        {ev.sponsor && <span> • Sponsored by: {ev.sponsor}</span>}
+                        {ev.venue && <span> • Venue: {ev.venue}</span>}
+                      </p>
+                      <div className="faculty-pub-meta-row" style={{ marginTop: 6 }}>
+                        <span className="faculty-meta-pill">{ev.type}</span>
+                        {ev.level && <span className="faculty-meta-pill">{ev.level}</span>}
+                        {ev.period && <span className="faculty-meta-pill">📅 {ev.period}</span>}
+                        {ev.duration && <span className="faculty-meta-pill">⏳ {ev.duration}</span>}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* ========================================================
+             SECTION 10: PROFESSIONAL MEMBERSHIPS
+             ======================================================== */}
+          {memberships.length > 0 && (
+            <section id="faculty-memberships-section" className="faculty-memberships-section">
+              <div className="faculty-block-header">
+                <h2 className="faculty-block-title">Professional Memberships & Fellowships</h2>
+                <span className="faculty-block-badge">{memberships.length} Memberships</span>
+              </div>
+
+              <div className="faculty-memberships-grid">
+                {memberships.map((mem, idx) => (
+                  <div key={idx} className="faculty-membership-card">
+                    <div className="faculty-membership-icon-box">🎖️</div>
+                    <div className="faculty-membership-body">
+                      <h4 className="faculty-membership-name">{mem.society}</h4>
+                      <div className="faculty-pub-meta-row" style={{ marginTop: 4 }}>
+                        <span className="faculty-membership-pos-pill">{mem.position}</span>
+                        {mem.level && <span className="faculty-meta-pill">{mem.level}</span>}
+                        {mem.date && <span className="faculty-meta-pill">📅 Since: {mem.date}</span>}
+                      </div>
+                    </div>
                   </div>
                 ))}
               </div>
