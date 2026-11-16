@@ -257,7 +257,7 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
   // Highest Qualification string summary
   const highestQualification = education.length > 0
     ? education.map((e) => e.degree).filter(Boolean).join(', ')
-    : (baseRecord.highestQualification || 'B.E., Ph.D.');
+    : (baseRecord.highestQualification || (name.toLowerCase().startsWith('dr') ? 'Ph.D.' : 'Post Graduate'));
 
   // 3. Previous Experience
   let rawExperience = [];

@@ -35,12 +35,14 @@ const FacultyPortfolioPage = () => {
         setPortfolio(data);
       }
     } catch (err) {
-      if (err.name !== 'AbortError') {
+      if (err.name !== 'AbortError' && !err.message?.includes('aborted')) {
         console.error('Error fetching faculty portfolio:', err);
         setError('Unable to load faculty portfolio. Please try again.');
       }
     } finally {
-      setLoading(false);
+      if (!signal || !signal.aborted) {
+        setLoading(false);
+      }
     }
   };
 

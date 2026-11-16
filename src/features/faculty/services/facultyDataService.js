@@ -65,36 +65,39 @@ export const getDepartmentFaculty = async (deptSlug, options = {}) => {
   try {
     adminRecords = await fetchDepartmentCsvData(dept.slug, signal);
   } catch (csvErr) {
-    console.warn(`Admin CSV fallback error for ${dept.slug}:`, csvErr.message);
-  }
-
-  // 2. Fetch Linways department records from backend or local Linways dataset
-  let linwaysRecords = [];
-  try {
-    const linwaysRes = await fetchStaffByDepartment(dept.slug, { signal });
-    const staffArray = Array.isArray(linwaysRes) ? linwaysRes : (linwaysRes && linwaysRes.data ? linwaysRes.data : []);
-    if (staffArray.length > 0) {
-      linwaysRecords = staffArray.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
+    if (csvErr.name !== 'AbortError') {
+      console.warn(`Admin CSV fallback error for ${dept.slug}:`, csvErr.message);
     }
-  } catch {
-    // Backend offline; continue to fallback
   }
 
-  // Load local linways_staffs.json if backend was offline or to ensure global staff resolution
+  // 2. Load all Linways staff records directly from local dataset for instant load
   let allLinwaysStaff = [];
   try {
     const fallbackRes = await fetch('/Faculty/linways_staffs.json', { signal });
     if (fallbackRes.ok) {
       allLinwaysStaff = await fallbackRes.json();
-      if (linwaysRecords.length === 0) {
-        const deptLinways = allLinwaysStaff.filter(
-          (s) => s.departmentName === dept.linwaysCode || (s.department_code && s.department_code === dept.linwaysCode)
-        );
-        linwaysRecords = deptLinways.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
-      }
     }
   } catch (e) {
-    console.warn('Error loading local linways_staffs.json:', e);
+    if (e.name !== 'AbortError') {
+      console.warn('Error loading local linways_staffs.json:', e);
+    }
+  }
+
+  // Filter department staff from Linways
+  const deptLinways = allLinwaysStaff.filter(
+    (s) => s.departmentName === dept.linwaysCode || (s.department_code && s.department_code === dept.linwaysCode)
+  );
+  let linwaysRecords = deptLinways.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
+
+  // Fallback to API only if local linways dataset was unavailable
+  if (linwaysRecords.length === 0 && allLinwaysStaff.length === 0) {
+    try {
+      const linwaysRes = await fetchStaffByDepartment(dept.slug, { signal });
+      const staffArray = Array.isArray(linwaysRes) ? linwaysRes : (linwaysRes && linwaysRes.data ? linwaysRes.data : []);
+      if (staffArray.length > 0) {
+        linwaysRecords = staffArray.map((s) => normaliseLinwaysStaffRecord(s, dept.slug)).filter(Boolean);
+      }
+    } catch {}
   }
 
   // 3. Merge Admin and Linways records

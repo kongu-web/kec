@@ -1,6 +1,7 @@
 /**
  * Centralised Faculty API Client
  * Interfaces with backend Linways endpoints (/kec/linways/*)
+ * KEC Backend (https://api.kongu.edu / http://localhost:8000)
  */
 
 const getApiBaseUrl = () => {
@@ -73,39 +74,51 @@ const apiRequest = async (endpoint, options = {}) => {
 };
 
 /**
- * Fetch all staff members across all departments
- * Endpoint: GET /kec/linways/staffs (or /api/faculty/staff)
- */
-export const fetchStaffMembers = async (options = {}) => {
-  try {
-    return await apiRequest('/kec/linways/staffs', options);
-  } catch {
-    return apiRequest('/api/faculty/staff', options);
-  }
-};
-
-/**
- * Fetch staff members for a specific department
- * Endpoint: GET /kec/linways/departments/:deptSlug
+ * 1. Fetch staff members for a specific department
+ * Endpoint: GET /kec/linways/departments/{dept_slug}
  */
 export const fetchStaffByDepartment = async (deptSlug, options = {}) => {
   if (!deptSlug) throw new FacultyApiError('Department is required', 400);
-  try {
-    return await apiRequest(`/kec/linways/departments/${encodeURIComponent(deptSlug)}`, options);
-  } catch {
-    return apiRequest(`/api/faculty/staff/${encodeURIComponent(deptSlug)}`, options);
-  }
+  return apiRequest(`/kec/linways/departments/${encodeURIComponent(deptSlug)}`, options);
 };
 
 /**
- * Fetch complete ExAT Academic Portfolio for a single faculty member
- * Endpoint: GET /kec/linways/staff/:staffId/report
+ * 2. Fetch complete ExAT Academic Portfolio for a single faculty member
+ * Endpoint: GET /kec/linways/staff/{staff_id}/report
  */
 export const fetchFacultyReport = async (staffId, options = {}) => {
   if (!staffId) throw new FacultyApiError('Staff ID is required', 400);
-  try {
-    return await apiRequest(`/kec/linways/staff/${encodeURIComponent(staffId)}/report`, options);
-  } catch {
-    return apiRequest(`/api/faculty/report/${encodeURIComponent(staffId)}`, options);
-  }
+  return apiRequest(`/kec/linways/staff/${encodeURIComponent(staffId)}/report`, options);
+};
+
+/**
+ * 3. Fetch all staff members across all departments
+ * Endpoint: GET /kec/linways/staffs
+ */
+export const fetchStaffMembers = async (options = {}) => {
+  return apiRequest('/kec/linways/staffs', options);
+};
+
+/**
+ * 4. Fetch all ExAT report categories
+ * Endpoint: GET /kec/linways/exat2/reports
+ */
+export const fetchExatReportsCategories = async (options = {}) => {
+  return apiRequest('/kec/linways/exat2/reports', options);
+};
+
+/**
+ * 5. Fetch all Linways Forms
+ * Endpoint: GET /kec/linways/exat2/forms
+ */
+export const fetchExatForms = async (options = {}) => {
+  return apiRequest('/kec/linways/exat2/forms', options);
+};
+
+/**
+ * 6. Fetch Linways Form Report by form_id and target_id
+ * Endpoint: GET /kec/linways/exat2/forms/reports/{form_id}/{target_id}
+ */
+export const fetchExatFormReport = async (formId, targetId, options = {}) => {
+  return apiRequest(`/kec/linways/exat2/forms/reports/${encodeURIComponent(formId)}/${encodeURIComponent(targetId)}`, options);
 };
