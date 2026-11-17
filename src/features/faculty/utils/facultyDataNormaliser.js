@@ -118,19 +118,29 @@ export const mergeFacultyRecord = (adminRec, linwaysRec) => {
 const extractLinwaysSectionData = (exatSections, sectionNameMatches) => {
   if (!Array.isArray(exatSections)) return [];
 
+  const targetNames = sectionNameMatches.map((m) => m.toUpperCase().trim());
   const collected = [];
+
   for (const sec of exatSections) {
+    if (!sec) continue;
     const secName = (sec.name || '').toUpperCase().trim();
-    const isMatch = sectionNameMatches.some((m) => secName.includes(m.toUpperCase()));
-    if (isMatch && Array.isArray(sec.data)) {
+    const isTopMatch = targetNames.some((m) => secName.includes(m) || m.includes(secName));
+
+    if (Array.isArray(sec.data)) {
       for (const item of sec.data) {
-        if (item && Array.isArray(item.data)) {
-          collected.push(...item.data);
-        } else if (item && typeof item === 'object') {
-          if (item['Name'] || item['Academic Degree'] || item['Title'] || item['Title of the Patent'] || item['Title of the Program'] || item['Name of Position'] || item['Name of Award/Achievement'] || item['Name of Event'] || item['Name of Scholar'] || item['Name of the Professional Body/Society']) {
-            collected.push(item);
-          } else if (!item.headers) {
-            collected.push(item);
+        if (!item) continue;
+        const subName = (item.name || '').toUpperCase().trim();
+        const isSubMatch = targetNames.some((m) => subName.includes(m) || m.includes(subName));
+
+        if (isTopMatch || isSubMatch) {
+          if (Array.isArray(item.data)) {
+            collected.push(...item.data);
+          } else if (typeof item === 'object') {
+            if (item['Name'] || item['Academic Degree'] || item['Title'] || item['Title of the Patent'] || item['Title of the Program'] || item['Name of Position'] || item['Name of Award/Achievement'] || item['Name of Event'] || item['Name of Scholar'] || item['Name of the Professional Body/Society']) {
+              collected.push(item);
+            } else if (!item.headers) {
+              collected.push(item);
+            }
           }
         }
       }
@@ -154,7 +164,7 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
   // 1. Personal Details
   let rawPersonal = {};
   if (isLinwaysExat) {
-    const personalArr = extractLinwaysSectionData(exatSections, ['PERSONAL DETAILS']);
+    const personalArr = extractLinwaysSectionData(exatSections, ['PERSONAL DETAILS', 'PERSONAL']);
     if (personalArr.length > 0) {
       rawPersonal = personalArr[0] || {};
     }
@@ -172,8 +182,7 @@ export const normaliseFacultyPortfolio = (rawReport, baseRecord = {}) => {
   // 2. Education / Qualifications
   let rawEducation = [];
   if (isLinwaysExat) {
-    // Specifically extract ACADEMIC QUALIFICATION
-    rawEducation = extractLinwaysSectionData(exatSections, ['ACADEMIC QUALIFICATION']);
+    rawEducation = extractLinwaysSectionData(exatSections, ['ACADEMIC QUALIFICATION', 'QUALIFICATION', 'QUALIFICATIONS']);
   } else if (Array.isArray(r.education || r.qualifications)) {
     rawEducation = r.education || r.qualifications;
   }
