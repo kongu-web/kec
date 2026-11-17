@@ -9,7 +9,7 @@ const Section = () => {
     const navigate = useNavigate();
 
   return (
-  p  <div className="section">
+   <div className="section">
       <div className="section-content">
         <div className="left-links">
           <a href="https://kec.linways.com/">Linways Portal</a>
