@@ -705,11 +705,14 @@ const Navbar = () => {
             <div className="marquee">
               <div className="marquee-track">
                 <a
-                  href="https://kongu.ac.in/admission"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/admission"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    navigate("/admission");
+                    window.scrollTo({ top: 0, behavior: "smooth" });
+                  }}
                 >
-                  📣 Admission Enquiry 2027
+                  📣 Admission Enquiry 2027-28
                 </a>
 
                 {/* international conference */}
@@ -1698,7 +1701,10 @@ const Navbar = () => {
         <div className="admission-capsule-wrapper">
           <div 
             className="admission-capsule-bar"
-            onClick={() => window.open("/tnea%20counsiling/admission/index.html", "_blank")}
+            onClick={() => {
+              navigate("/admission");
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
             style={{ cursor: "pointer" }}
           >
             <div className="capsule-left">
@@ -1711,8 +1717,13 @@ const Navbar = () => {
             </div>
 
             <div className="capsule-center">
+              {/* Previous BE/BTech Admission code hidden for now */}
+              {/*
               <span className="capsule-title">BE/BTech Admission 2026-27</span>
               <span className="tnea-tag">TNEA Category</span>
+              */}
+              <span className="capsule-title">Admission Enquiry 2027-28</span>
+              <span className="tnea-tag capsule-apply-btn">Apply Now !</span>
             </div>
 
             <div className="capsule-right">
