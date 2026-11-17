@@ -213,6 +213,19 @@ export const getFacultyPortfolio = async (deptSlug, facultySlug, staffId = null,
           effectiveStaffId = String(best.candidate.id);
           baseRecord.staffId = effectiveStaffId;
           baseRecord.email = baseRecord.email || best.candidate.loginId;
+        } else {
+          // Additional fallback: match facultySlug against Linways loginId handle
+          const cleanSlug = facultySlug.replace(/^(dr-?|prof-?|mr-?|mrs-?|ms-?)/i, '').replace(/[^a-z0-9]/g, '');
+          const matchByLogin = allStaff.find((s) => {
+            if (!s.loginId) return false;
+            const handle = s.loginId.split('@')[0].toLowerCase().replace(/[^a-z0-9]/g, '');
+            return handle && (handle === cleanSlug || cleanSlug.includes(handle) || handle.includes(cleanSlug));
+          });
+          if (matchByLogin) {
+            effectiveStaffId = String(matchByLogin.id);
+            baseRecord.staffId = effectiveStaffId;
+            baseRecord.email = baseRecord.email || matchByLogin.loginId;
+          }
         }
       }
     } catch {}

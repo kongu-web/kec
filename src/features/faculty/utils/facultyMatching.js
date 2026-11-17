@@ -5,9 +5,10 @@
  */
 
 // Common titles, prefixes, and qualifications to strip during comparison
-const PREFIX_REGEX = /^(dr\.?|prof\.?|mr\.?|mrs\.?|ms\.?|er\.?|thiru\.?|tmt\.?)\s+/i;
+const PREFIX_REGEX = /^(dr\.?|prof\.?|mr\.?|mrs\.?|ms\.?|er\.?|thiru\.?|tmt\.?)\s*/i;
 const SUFFIX_REGEX = /\b(ph\.?d|m\.?e|m\.?tech|m\.?sc|b\.?e|b\.?tech|m\.?phil|b\.?ed|m\.?ed|mba|mca)\b/gi;
 const STAFF_ID_SUFFIX_REGEX = /\[[A-Za-z0-9_-]+\]|\([A-Za-z0-9_-]+\)$/;
+const TITLE_TOKENS = new Set(['dr', 'prof', 'mr', 'mrs', 'ms', 'er', 'thiru', 'tmt']);
 
 /**
  * Normalise a faculty name for comparison
@@ -28,7 +29,9 @@ export const cleanAndTokeniseName = (rawName) => {
 
   // Strip repeated title prefixes
   while (PREFIX_REGEX.test(name)) {
+    const prev = name;
     name = name.replace(PREFIX_REGEX, '').trim();
+    if (name === prev) break;
   }
 
   // Remove commas, dots, brackets, hyphens, and normalize multiple whitespace
@@ -45,6 +48,9 @@ export const cleanAndTokeniseName = (rawName) => {
   const initials = [];
 
   rawTokens.forEach((tok) => {
+    if (TITLE_TOKENS.has(tok)) {
+      return;
+    }
     if (tok.length === 1) {
       initials.push(tok);
     } else {
@@ -78,6 +84,15 @@ export const isStrictNameMatch = (name1, name2) => {
   // No significant tokens on either side
   if (t1.tokens.length === 0 || t2.tokens.length === 0) {
     return false;
+  }
+
+  // Compounded token matching: e.g. "Vijayachitra" vs "Vijaya Chitra", "Baluprithviraj" vs "Balu Prithvi Raj"
+  if (t1.tokens.join('') === t2.tokens.join('')) {
+    if (t1.initials.length > 0 && t2.initials.length > 0) {
+      const init1 = new Set(t1.initials);
+      if (!t2.initials.some((i) => init1.has(i))) return false;
+    }
+    return true;
   }
 
   // Compare multi-letter tokens
@@ -245,6 +260,8 @@ export const KNOWN_FACULTY_STAFF_IDS = {
   'aiml-s-santhoshkumar': '101050',
 
   // Civil Department
+  'civil-dr-s-balaji': '379',
+  'civil-dr-sbalaji': '379',
   'civil-dr-t-pradeep': '380',
   'civil-dr-tpradeep': '380',
 
@@ -256,13 +273,81 @@ export const KNOWN_FACULTY_STAFF_IDS = {
   'cse-dr-s-malliga': '340',
   'cse-dr-smalliga': '340',
 
+  // EIE Department
+  'eie-dr-sjsuji-prasad': '40',
+  'eie-dr-s-j-suji-prasad': '40',
+  'eie-dr-s-vijayachitra': '202',
+  'eie-dr-svijayachitra': '202',
+
   // Mechanical Department
   'mech-dr-r-rajasekar': '83',
   'mech-dr-rrajasekar': '83',
+  'mech-dr-p-selvakumar': '82',
+  'mech-dr-pselvakumar': '82',
 
   // Automobile Department
   'auto-dr-r-parameshwaran': '420',
-  'auto-dr-rparameshwaran': '420'
+  'auto-dr-rparameshwaran': '420',
+
+  // ECE Department
+  'ece-dr-g-murugesan': '250',
+  'ece-dr-gmurugesan': '250',
+
+  // EEE Department
+  'eee-dr-n-senthilnathan': '39',
+  'eee-dr-nsenthilnathan': '39',
+
+  // IT Department
+  'it-dr-s-varadhaganapathy': '148',
+  'it-dr-svaradhaganapathy': '148',
+
+  // MTS Department
+  'mts-dr-c-jegadheesan': '421',
+  'mts-dr-cjegadheesan': '421',
+
+  // CSD Department
+  'csd-dr-e-gothai': '325',
+  'csd-dr-egothai': '325',
+
+  // CTPG Department
+  'ctpg-dr-r-c-suganthe': '341',
+  'ctpg-dr-rc-suganthe': '341',
+
+  // CTUG Department
+  'ctug-dr-s-kalaiselvi': '293',
+  'ctug-dr-skalaiselvi': '293',
+
+  // Food Tech Department
+  'foodtech-dr-v-chitra-devi': '169',
+  'foodtech-dr-vchitradevi': '169',
+
+  // Chemical Department
+  'chemical-dr-k-kannan': '408',
+  'chemical-dr-kkannan': '408',
+
+  // Maths Department
+  'maths-dr-m-dhavamani': '127',
+  'maths-dr-mdhavamani': '127',
+
+  // Physics Department
+  'physics-dr-c-rangasami': '48',
+  'physics-dr-crangasami': '48',
+
+  // Chemistry Department
+  'chemistry-dr-p-n-palanisamy': '395',
+  'chemistry-dr-pn-palanisamy': '395',
+
+  // English Department
+  'english-dr-j-rajini': '183',
+  'english-dr-jrajini': '183',
+
+  // MCA Department
+  'mca-dr-a-tamilarasi': '99',
+  'mca-dr-atamilarasi': '99',
+
+  // MBA Department
+  'mba-dr-p-vidhya-priya': '113',
+  'mba-dr-pvidhyapriya': '113'
 };
 
 /**
@@ -306,6 +391,9 @@ export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => 
   } else if (adminHasDr && !candHasDr) {
     // Dr. in CSV must not match an Assistant Professor without Dr.
     score -= 50;
+  } else if (!adminHasDr && candHasDr) {
+    // Non-doctor in CSV should not match a Doctor from another department
+    score -= 30;
   } else if (!adminHasDr && !candHasDr) {
     score += 20;
   }
@@ -327,6 +415,16 @@ export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => 
     if (emailLower.includes('.auto@') && targetLinways !== 'AUR') score -= 60;
     if (emailLower.includes('.mba@') && targetLinways !== 'MBR') score -= 60;
     if (emailLower.includes('.mca@') && targetLinways !== 'MCA') score -= 60;
+  }
+
+  // 5. Direct loginId / profile link match (high confidence boost)
+  if (candidate.loginId) {
+    const handle = candidate.loginId.split('@')[0].toLowerCase().replace(/[^a-z0-9]/g, '');
+    const cleanAdminSlug = (adminRec.slug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    const cleanProfileLink = (adminRec.profileLink || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    if (handle && (cleanProfileLink.includes(handle) || cleanAdminSlug.includes(handle) || handle.includes(cleanAdminSlug))) {
+      score += 100;
+    }
   }
 
   return score;
