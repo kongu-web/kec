@@ -68,62 +68,66 @@ const IqacAffiliation = () => {
                             <tbody>
                                 <tr>
                                     <td className="text-center">1</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2025-2026.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2025-26</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2026-2027.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2026-27</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">2</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2024-2025.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2024-25</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2025-2026.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2025-26</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">3</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2023-2024.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2023-24</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2024-2025.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2024-25</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">4</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2022-2023.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2022-23</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2023-2024.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2023-24</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">5</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/19_KEC_AU_affiliation_28.07.2021.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2021-22</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2022-2023.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2022-23</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">6</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/18_KEC_AU_affiliation_30.06.2020.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2020-21</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/19_KEC_AU_affiliation_28.07.2021.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2021-22</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">7</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/17_KEC_AU_affiliation_%2003.01.2020.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2019-20</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/18_KEC_AU_affiliation_30.06.2020.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2020-21</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">8</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/16_KEC_AU_affiliation_15.05.2019.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2018-19</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/17_KEC_AU_affiliation_%2003.01.2020.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2019-20</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">9</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/15_KEC_AU_affiliation_15.05.2018.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2017-18</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/16_KEC_AU_affiliation_15.05.2019.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2018-19</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">10</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/6.%20AU%20affiliation%202016-2017.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2016-17</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/15_KEC_AU_affiliation_15.05.2018.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2017-18</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">11</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/5.%20AU%20Affiliation%202015-2016.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2015-16</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/6.%20AU%20affiliation%202016-2017.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2016-17</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">12</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/4.%20AU%20Affiliation%202014-2015.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2014-15</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/5.%20AU%20Affiliation%202015-2016.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2015-16</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">13</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/3.%20AU%20Affiliation%202013-2014.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2013-14</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/4.%20AU%20Affiliation%202014-2015.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2014-15</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">14</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2.%20AU%20Affiliation%202012-2013.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2012-13</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/3.%20AU%20Affiliation%202013-2014.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2013-14</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">15</td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2.%20AU%20Affiliation%202012-2013.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2012-13</a></td>
+                                </tr>
+                                <tr>
+                                    <td className="text-center">16</td>
                                     <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/1.%20AUT%20affiliation%202011-2012.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2011-12</a></td>
                                 </tr>
                             </tbody>
