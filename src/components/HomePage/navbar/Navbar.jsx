@@ -709,7 +709,7 @@ const Navbar = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  📣 Admission Enquiry 2026
+                  📣 Admission Enquiry 2027
                 </a>
 
                 {/* international conference */}
