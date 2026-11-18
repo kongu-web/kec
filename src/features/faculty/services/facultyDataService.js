@@ -218,8 +218,14 @@ export const getFacultyPortfolio = async (deptSlug, facultySlug, staffId = null,
           const cleanSlug = facultySlug.replace(/^(dr-?|prof-?|mr-?|mrs-?|ms-?)/i, '').replace(/[^a-z0-9]/g, '');
           const matchByLogin = allStaff.find((s) => {
             if (!s.loginId) return false;
+            const sDept = s.departmentName || s.department_code || '';
+            const isSameDept = dept.linwaysCode && sDept === dept.linwaysCode;
             const handle = s.loginId.split('@')[0].toLowerCase().replace(/[^a-z0-9]/g, '');
-            return handle && (handle === cleanSlug || cleanSlug.includes(handle) || handle.includes(cleanSlug));
+            if (!handle) return false;
+            if (isSameDept && (handle === cleanSlug || cleanSlug.includes(handle) || handle.includes(cleanSlug))) {
+              return true;
+            }
+            return handle === cleanSlug;
           });
           if (matchByLogin) {
             effectiveStaffId = String(matchByLogin.id);

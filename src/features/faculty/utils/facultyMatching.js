@@ -308,10 +308,14 @@ export const KNOWN_FACULTY_STAFF_IDS = {
   // CSD Department
   'csd-dr-e-gothai': '325',
   'csd-dr-egothai': '325',
+  'csd-p-ananthi': '15',
+  'csd-pananthi': '15',
 
   // CTPG Department
   'ctpg-dr-r-c-suganthe': '341',
   'ctpg-dr-rc-suganthe': '341',
+  'ctpg-dr-p-ananthi': '327',
+  'ctpg-dr-pananthi': '327',
 
   // CTUG Department
   'ctug-dr-s-kalaiselvi': '293',
@@ -375,9 +379,9 @@ export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => 
   const targetLinways = currentDept.linwaysCode;
   const candDept = candidate.departmentName || candidate.department_code || '';
   if (targetLinways && candDept === targetLinways) {
-    score += 100;
+    score += 150;
   } else if (targetLinways && ALLIED_DEPT_CLUSTERS[targetLinways]?.includes(candDept)) {
-    score += 40;
+    score += 30;
   } else if (targetLinways && candDept) {
     // Heavy penalty if candidate belongs to a completely unrelated department (e.g. ECR for AIML)
     score -= 70;
@@ -393,21 +397,36 @@ export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => 
     score -= 50;
   } else if (!adminHasDr && candHasDr) {
     // Non-doctor in CSV should not match a Doctor from another department
-    score -= 30;
+    score -= 40;
   } else if (!adminHasDr && !candHasDr) {
     score += 20;
   }
 
   // 3. Seniority & Staff Code Check
-  const isSeniorAdmin = /head|senior|principal|dean|professor/i.test(adminRec.designation || '');
+  // Note: Avoid substring match of "professor" inside "Assistant Professor" or "Associate Professor"
+  const desig = (adminRec.designation || '').toLowerCase();
+  const isSeniorAdmin = /head|principal|dean|senior professor/i.test(desig) ||
+    (/\bprofessor\b/i.test(desig) && !/assistant|associate|asst|assoc/i.test(desig));
+  const isJuniorAdmin = /assistant|asst|lecturer/i.test(desig);
+
   const isSeniorCode = /^KEC[0-2]\d{3}/i.test(candidate.code || '');
   const isJuniorCode = /^KEC[3-9]\d{3}/i.test(candidate.code || '');
+
   if (isSeniorAdmin && isSeniorCode) score += 30;
   if (isSeniorAdmin && isJuniorCode) score -= 30;
+  if (isJuniorAdmin && isJuniorCode) score += 30;
+  if (isJuniorAdmin && isSeniorCode) score -= 30;
 
   // 4. Email / Login Hint Check
   if (candidate.loginId) {
     const emailLower = candidate.loginId.toLowerCase();
+    const deptSlug = (currentDept.slug || '').toLowerCase();
+
+    // Department-tagged email (e.g. ananthi.csd@kongu.ac.in in csd)
+    if (deptSlug && emailLower.includes(`.${deptSlug}@`)) {
+      score += 150;
+    }
+
     // Heavy penalty if email clearly denotes an unrelated department
     if (emailLower.includes('.ece@') && targetLinways !== 'ECR') score -= 60;
     if (emailLower.includes('.civil@') && targetLinways !== 'CER') score -= 60;
@@ -422,8 +441,15 @@ export const scoreFacultyCandidate = (adminRec, candidate, currentDept = {}) => 
     const handle = candidate.loginId.split('@')[0].toLowerCase().replace(/[^a-z0-9]/g, '');
     const cleanAdminSlug = (adminRec.slug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
     const cleanProfileLink = (adminRec.profileLink || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-    if (handle && (cleanProfileLink.includes(handle) || cleanAdminSlug.includes(handle) || handle.includes(cleanAdminSlug))) {
-      score += 100;
+
+    if (handle) {
+      if (cleanProfileLink && cleanProfileLink.includes(handle)) {
+        score += 100;
+      } else if (cleanAdminSlug === handle) {
+        score += 100;
+      } else if ((cleanAdminSlug.includes(handle) || handle.includes(cleanAdminSlug)) && candDept === targetLinways) {
+        score += 80;
+      }
     }
   }
 
