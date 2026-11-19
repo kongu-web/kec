@@ -68,7 +68,7 @@ const IqacAffiliation = () => {
                             <tbody>
                                 <tr>
                                     <td className="text-center">1</td>
-                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2026-2027.pdf" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2026-27</a></td>
+                                    <td className="text-left"><a href="/files/iqac/Affliation%20%26%20Approval/AU%20Affiliation/2026-2027.pdf?v=20261119" target="_blank" rel="noreferrer">Anna University Affiliation order for the year 2026-27</a></td>
                                 </tr>
                                 <tr>
                                     <td className="text-center">2</td>
