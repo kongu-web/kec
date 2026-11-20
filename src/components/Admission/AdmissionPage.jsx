@@ -8,7 +8,7 @@ import Footer from "../HomePage/Footer/Footer";
 
 // ✅ IMPORT THE FORM
 import AdmissionForm from "../AdmissionForm/AdmissionForm";
-import brochurePdf from "../../assets/docs/KEC admission2026.pdf";
+import brochurePdf from "../../assets/docs/KEC admission2027-2028.pdf";
 import admissionHero from "../../assets/images/AdmissionForm/admissionhero.webp";
 
 const AdmissionPage = () => {
