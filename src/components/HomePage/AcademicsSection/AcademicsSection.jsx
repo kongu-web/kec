@@ -193,7 +193,7 @@ const pgPrograms = [
   },
   {
     sno: 6,
-    name: "M.E. Materials Science and Engineering*",
+    name: "M.E. Material Science and Engineering*",
     icon: <FaCogs />,
     duration: "2 Years",
     year: 2027,
