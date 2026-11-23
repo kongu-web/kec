@@ -18,6 +18,7 @@ const ugCourses = [
   { name: "Mechanical Engineering", abbrev: "MECH", icon: <FontAwesomeIcon icon={faWrench} /> },
   { name: "Mechatronics Engineering", abbrev: "MTS", icon: <FontAwesomeIcon icon={faHardDrive} /> },
   { name: "Electronics and Instrumentation Engineering", abbrev: "EIE", icon: <FontAwesomeIcon icon={faMicrochip} /> },
+  { name: "B.E. Electronics Engineering VLSI Design and Technology*", abbrev: "ECE", icon: <FontAwesomeIcon icon={faMicrochip} /> },
   { name: "Electrical and Electronics Engineering", abbrev: "EEE", icon: <FontAwesomeIcon icon={faPlug} /> },
   { name: "Electronics and Communication Engineering", abbrev: "ECE", icon: <FontAwesomeIcon icon={faTowerCell} /> },
   { name: "Computer Science Engineering", abbrev: "CSE", icon: <FontAwesomeIcon icon={faComputer} /> },
@@ -34,7 +35,11 @@ const pgCourses = [
   { name: "M.E Computer Science and Engineering", abbrev: "cse", icon: <FontAwesomeIcon icon={faComputer} /> },
   { name: "M.E VLSI Design", abbrev: "ece", icon: <FontAwesomeIcon icon={faMicrochip} /> },
   { name: "M.E Structural Engineering", abbrev: "civil", icon: <FontAwesomeIcon icon={faPenRuler} /> },
+  { name: "M.E. Robotics and Artificial Intelligence*", abbrev: "mts", icon: <FontAwesomeIcon icon={faRobot} /> },
+  { name: "M.E. Power and Energy Engineering*", abbrev: "eee", icon: <FontAwesomeIcon icon={faPlug} /> },
+  { name: "M.E. Materials Science and Engineering*", abbrev: "mech", icon: <FontAwesomeIcon icon={faWrench} /> },
   { name: "M.Tech Food Technology", abbrev: "foodtech", icon: <FontAwesomeIcon icon={faSeedling} /> },
+  { name: "M.Tech Cyber Security*", abbrev: "it", icon: <FontAwesomeIcon icon={faCode} /> },
   { name: "Master of Business Administration (MBA)", abbrev: "mba", icon: <FontAwesomeIcon icon={faBriefcase} /> },
   { name: "Master of Computer Applications (MCA)", abbrev: "mca", icon: <FontAwesomeIcon icon={faLaptopCode} /> }
 ];
@@ -88,7 +93,7 @@ const Department = () => {
 
       <div className="dep-courses-container">
         <div className="dep-courses-row">
-          {getCourses().slice(0, 15).map((course, index) => (
+          {getCourses().map((course, index) => (
             <div
               key={index}
               className="dep-course-box"
@@ -99,6 +104,11 @@ const Department = () => {
             </div>
           ))}
         </div>
+        {(selectedCategory === 'UG' || selectedCategory === 'PG') && (
+          <div style={{ textAlign: "right", paddingRight: "20px", marginTop: "10px", color: "#e63946", fontSize: "0.875rem", fontWeight: "600" }}>
+            * - Subject to Approval
+          </div>
+        )}
       </div>
     </div>
   );

@@ -28,6 +28,7 @@ import {
   FaVial,
   FaBookOpen,
   FaGraduationCap,
+  FaShieldAlt,
 } from "react-icons/fa";
 
 
@@ -84,55 +85,62 @@ const ugProgrammes = [
   },
   {
     sno: 8,
+    name: "B.E. Electronics Engineering VLSI Design and Technology*",
+    icon: <FaMicrochip />,
+    duration: "4 Years",
+    route: "ece",
+  },
+  {
+    sno: 9,
     name: "B.Tech Information Technology",
     icon: <FaGlobe />,
     duration: "4 Years",
     route: "it",
   },
   {
-    sno: 9,
+    sno: 10,
     name: "B.E Mechatronics Engineering",
     icon: <FaRobot />,
     duration: "4 Years",
     route: "mts",
   },
   {
-    sno: 10,
+    sno: 11,
     name: "B.Tech Food Technology",
     icon: <FaAppleAlt />,
     duration: "4 Years",
     route: "foodtech",
   },
   {
-    sno: 11,
+    sno: 12,
     name: "B.E Automobile Engineering",
     icon: <FaCar />,
     duration: "4 Years",
     route: "auto",
   },
   {
-    sno: 12,
+    sno: 13,
     name: "B.E Computer Science and Design",
     icon: <FaPalette />,
     duration: "4 Years",
     route: "csd",
   },
   {
-    sno: 13,
+    sno: 14,
     name: "B.Tech Artificial Intelligence and Machine Learning",
     icon: <FaBrain />,
     duration: "4 Years",
     route: "aiml",
   },
   {
-    sno: 14,
+    sno: 15,
     name: "B.Tech Artificial Intelligence and Data Science",
     icon: <FaChartBar />,
     duration: "4 Years",
     route: "aids",
   },
   {
-    sno: 15,
+    sno: 16,
     name: "B.Arch",
     icon: <FaUniversity />,
     duration: "5 Years",
@@ -169,6 +177,30 @@ const pgPrograms = [
   },
   {
     sno: 4,
+    name: "M.E. Robotics and Artificial Intelligence*",
+    icon: <FaRobot />,
+    duration: "2 Years",
+    year: 2027,
+    route: "mts",
+  },
+  {
+    sno: 5,
+    name: "M.E. Power and Energy Engineering*",
+    icon: <FaBolt />,
+    duration: "2 Years",
+    year: 2027,
+    route: "eee",
+  },
+  {
+    sno: 6,
+    name: "M.E. Materials Science and Engineering*",
+    icon: <FaCogs />,
+    duration: "2 Years",
+    year: 2027,
+    route: "mech",
+  },
+  {
+    sno: 7,
     name: "M.Tech Food Technology",
     icon: <FaAppleAlt />,
     duration: "2 Years",
@@ -176,7 +208,15 @@ const pgPrograms = [
     route: "foodtech",
   },
   {
-    sno: 5,
+    sno: 8,
+    name: "M.Tech Cyber Security*",
+    icon: <FaShieldAlt />,
+    duration: "2 Years",
+    year: 2027,
+    route: "it",
+  },
+  {
+    sno: 9,
     name: "Master of Business Administration (MBA)",
     icon: <FaUniversity />,
     duration: "2 Years",
@@ -184,7 +224,7 @@ const pgPrograms = [
     route: "mba",
   },
   {
-    sno: 6,
+    sno: 10,
     name: "Master of Computer Applications (MCA)",
     icon: <FaGraduationCap />,
     duration: "2 Years",
@@ -355,6 +395,12 @@ function AcademicsSection() {
               </Link>
             ))}
           </div>
+
+          {(active === "ug" || active === "pg") && (
+            <p className="approval-note" style={{ textAlign: "right", marginTop: "14px", color: "#e63946", fontSize: "0.875rem", fontWeight: "600" }}>
+              * - Subject to Approval
+            </p>
+          )}
 
           {active === "as" && (
             <>
