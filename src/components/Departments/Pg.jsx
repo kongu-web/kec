@@ -30,20 +30,48 @@ const pgPrograms = [
   },
   {
     sno: 4,
+    name: "M.E. Robotics and Artificial Intelligence*",
+    duration: "2 Years",
+    year: 2027,
+    route: "mts",
+  },
+  {
+    sno: 5,
+    name: "M.E. Power and Energy Engineering*",
+    duration: "2 Years",
+    year: 2027,
+    route: "eee",
+  },
+  {
+    sno: 6,
+    name: "M.E. Materials Science and Engineering*",
+    duration: "2 Years",
+    year: 2027,
+    route: "mech",
+  },
+  {
+    sno: 7,
     name: "M.Tech Food Technology",
     duration: "2 Years",
     year: 2013,
     route: "foodtech",
   },
   {
-    sno: 5,
+    sno: 8,
+    name: "M.Tech Cyber Security*",
+    duration: "2 Years",
+    year: 2027,
+    route: "it",
+  },
+  {
+    sno: 9,
     name: "Master of Business Administration (MBA)",
     duration: "2 Years",
     year: 1994,
     route: "mba",
   },
   {
-    sno: 6,
+    sno: 10,
     name: "Master of Computer Applications (MCA)",
     duration: "2 Years",
     year: 1993,
@@ -101,6 +129,9 @@ const Pg = () => {
               ))}
             </tbody>
           </table>
+          <p style={{ maxWidth: "1000px", margin: "10px auto 0", textAlign: "right", color: "#e63946", fontSize: "0.875rem", fontWeight: "600" }}>
+            * - Subject to Approval
+          </p>
         </div>
       </div>
       <Footer />

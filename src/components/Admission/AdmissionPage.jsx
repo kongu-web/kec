@@ -36,6 +36,7 @@ const AdmissionPage = () => {
       { name: "B.Tech Chemical Engineering", link: "/chem" },
       { name: "B.E. Electrical and Electronics Engineering", link: "/eee" },
       { name: "B.E. Electronics and Instrumentation Engineering", link: "/eie" },
+      { name: "B.E. Electronics Engineering VLSI Design and Technology*", link: "/ece" },
       { name: "B.Tech Information Technology", link: "/it" },
       { name: "B.E. Mechatronics Engineering", link: "/mts" },
       { name: "B.Tech Food Technology", link: "/foodtech" },
@@ -49,7 +50,11 @@ const AdmissionPage = () => {
       { name: "M.E. Computer Science and Engineering", link: "/cse" },
       { name: "M.E. VLSI Design", link: "/ece" },
       { name: "M.E. Structural Engineering", link: "/civil" },
+      { name: "M.E. Robotics and Artificial Intelligence*", link: "/mts" },
+      { name: "M.E. Power and Energy Engineering*", link: "/eee" },
+      { name: "M.E. Materials Science and Engineering*", link: "/mech" },
       { name: "M.Tech Food Technology", link: "/foodtech" },
+      { name: "M.Tech Cyber Security*", link: "/it" },
       { name: "Master of Business Administration (MBA)", link: "/mba" },
       { name: "Master of Computer Applications (MCA)", link: "/mca" },
     ],
@@ -207,6 +212,11 @@ const AdmissionPage = () => {
             </Link>
           ))}
         </div>
+        {(activeTab === "ug" || activeTab === "pg") && (
+          <p style={{ textAlign: "right", marginTop: "12px", color: "#e63946", fontSize: "0.875rem", fontWeight: "600" }}>
+            * - Subject to Approval
+          </p>
+        )}
       </div>
 
       {/* 4. ADMISSION PROCESS */}
