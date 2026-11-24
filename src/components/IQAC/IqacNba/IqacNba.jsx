@@ -146,6 +146,7 @@ const IqacNba = () => {
             slNo: 12,
             programme: "MBA",
             letters: [
+                { letter: "F.No. 33-50-2010-NBA dated 10.11.2026", period: "From 2025-2028", pdf: `${docPath}MBA/3.F.No.33-50-2010 NBA dated 10.11.2026.pdf` },
                 { letter: "F.No. 33-50-2010-NBA dated 12.12.2022", period: "From 2022-2023 to 2024-2025", pdf: `${docPath}MBA/2.F.No.33-50-2010 NBA dated 12.12.2022.pdf` },
                 { letter: "F.No. NBA 24-BRD-ATR-2002 dated 13.05.2002", period: "From 2002-2003", pdf: `${docPath}MBA/1.F.No. NBA 24-BRD-ATR-2002dated 13.05.2002.pdf` },
             ]
