@@ -42,9 +42,9 @@ const HomePage = () => {
       <Banner />
       <AboutSection />
       <AcademicsSection />
+      <ExcellenceInPlacements />
       <FelicitationSection />
       <LegacySection />
-      <ExcellenceInPlacements />
       <InnovationSection />
       <EventsSection />
       <CampusLife />
