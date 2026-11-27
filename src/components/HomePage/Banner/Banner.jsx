@@ -8,35 +8,19 @@ import "swiper/css/navigation";
 import "./Banner.css";
 
 import img1 from "../../../assets/images/1.webp";
-import img2 from "../../../assets/images/2.webp";
-import img3 from "../../../assets/images/3.webp";
-import img4 from "../../../assets/images/4.webp";
 import img5 from "../../../assets/images/5.webp";
 import img6 from "../../../assets/images/6.webp";
-import img7 from "../../../assets/images/7.webp";
 import img8 from "../../../assets/images/8.webp";
 import img9 from "../../../assets/images/9.webp";
 import img10 from "../../../assets/images/10.webp";
 import img11 from "../../../assets/images/11.webp";
 import img12 from "../../../assets/images/12.webp";
-import img13 from "../../../assets/images/13.webp";
-import img14 from "../../../assets/images/14.webp";
-import img15 from "../../../assets/images/15.webp";
 import img16 from "../../../assets/images/16.webp";
-import img17 from "../../../assets/images/17.webp";
-import img18 from "../../../assets/images/18.webp";
 import img20 from "../../../assets/images/20.webp";
 import img21 from "../../../assets/images/21.webp";
-import img22 from "../../../assets/images/22.webp";
-import img23 from "../../../assets/images/23.webp";
-import img25 from "../../../assets/images/25.webp";
-import img26 from "../../../assets/images/26.webp";
-import img27 from "../../../assets/images/27.webp";
 import img28 from "../../../assets/images/28.webp";
 import img29 from "../../../assets/images/29.webp";
 import img30 from "../../../assets/images/30.webp";
-import img31 from "../../../assets/images/31.webp";
-import img33 from "../../../assets/images/33.webp";
 import img34 from "../../../assets/images/34.webp";
 import img35 from "../../../assets/images/35.webp";
 import img36 from "../../../assets/images/36.webp";
@@ -49,9 +33,10 @@ import img42 from "../../../assets/images/42.webp";
 import img43 from "../../../assets/images/43.webp";
 import img44 from "../../../assets/images/44.webp";
 import img45 from "../../../assets/images/45.webp";
+import img46 from "../../../assets/images/46.webp";
 
 export default function Banner() {
-  const images = [img1, img45, img35, img38, img36, img37, img34, img28, img29, img30, img39, img40, img41, img42, img43, img44,img25, img21, img16, img17, img2, img3, img15, img14, img4, img5, img6, img7, img8, img9, img10, img11, img18, img20, img12];
+  const images = [img1, img45, img35, img46, img38, img36, img37, img34, img28, img29, img30, img39, img40, img41, img42, img43, img44, img21, img16,  img5, img6, img8, img9, img10, img11, img20, img12];
 
   return (
     <div className="Banner-container">

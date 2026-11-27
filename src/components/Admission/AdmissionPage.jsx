@@ -122,7 +122,7 @@ const AdmissionPage = () => {
               className="btn-primary"
               onClick={() => {
                 window.open(
-                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=21&smId=2NvNiOP6nS",
+                  "https://kec.linways.com/v4/adm-applicant/eqf?ddf=23&smId=NNA7uIb6Fk",
                   "_blank",
                   "noopener,noreferrer"
                 );
