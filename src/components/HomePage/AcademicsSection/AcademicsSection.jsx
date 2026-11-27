@@ -83,13 +83,7 @@ const ugProgrammes = [
     duration: "4 Years",
     route: "eie",
   },
-  {
-    sno: 8,
-    name: "B.E. Electronics Engineering VLSI Design and Technology*",
-    icon: <FaMicrochip />,
-    duration: "4 Years",
-    route: "ece",
-  },
+  
   {
     sno: 9,
     name: "B.Tech Information Technology",
@@ -138,6 +132,13 @@ const ugProgrammes = [
     icon: <FaChartBar />,
     duration: "4 Years",
     route: "aids",
+  },
+  {
+    sno: 8,
+    name: "B.E. Electronics Engineering VLSI Design and Technology*",
+    icon: <FaMicrochip />,
+    duration: "4 Years",
+    route: "-",
   },
   {
     sno: 16,

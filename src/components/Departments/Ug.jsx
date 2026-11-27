@@ -57,13 +57,7 @@ const ugProgrammes = [
         year: 1998,
         route: "eie",
     },
-    {
-        sno: 8,
-        name: "B.E. Electronics Engineering VLSI Design and Technology*",
-        duration: "4 Years",
-        year: 2027,
-        route: "ece",
-    },
+   
     {
         sno: 9,
         name: "B.Tech Information Technology",
@@ -112,6 +106,13 @@ const ugProgrammes = [
         duration: "4 Years",
         year: 2021,
         route: "aids",
+    },
+     {
+        sno: 8,
+        name: "B.E. Electronics Engineering VLSI Design and Technology*",
+        duration: "4 Years",
+        year: 2027,
+        route: "-",
     },
     {
         sno: 16,

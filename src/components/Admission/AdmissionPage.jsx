@@ -44,6 +44,7 @@ const AdmissionPage = () => {
       { name: "B.E. Computer Science and Design", link: "/csd" },
       { name: "B.Tech Artificial Intelligence and Machine Learning", link: "/aiml" },
       { name: "B.Tech Artificial Intelligence and Data Science", link: "/aids" },
+      { name: "B.E. Electronics Engineering VLSI Design and Technology*", link: "/" },
       { name: "B.Arch Architecture", link: "/architecture" },
     ],
     pg: [
